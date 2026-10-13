@@ -49,5 +49,6 @@ for e in E:
   o.update(evidenceTypes=e['ev'],mainstream=e['main'],alternatives=[dict(label=a,text=b) for a,b in e['alts']])
   if e.get('changed'): o['changed']=e['changed']
   o['sources']=srcs;o['media']=media;out.append(o)
-json.dump(dict(version=2,entries=out),open('entries.json','w'),ensure_ascii=False,indent=1)
+import tags; tags.apply(out)
+json.dump(dict(version=3,entries=out),open('entries.json','w'),ensure_ascii=False,indent=1)
 print('\n'.join(log));print(len(out),'entries')

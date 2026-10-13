@@ -1,5 +1,5 @@
 {
- "version": 2,
+ "version": 3,
  "entries": [
   {
    "id": "big-bang",
@@ -49,7 +49,11 @@
      "title": "Why the Big Bang Definitely Happened | Space Time | PBS Digital Studios",
      "channel": "PBS Space Time"
     }
-   ]
+   ],
+   "categories": [
+    "science-cosmos"
+   ],
+   "threads": []
   },
   {
    "id": "earth-forms",
@@ -94,6 +98,12 @@
      "license": "Public domain",
      "title": "The_Blue_Marble_(remastered).jpg"
     }
+   ],
+   "categories": [
+    "science-cosmos"
+   ],
+   "threads": [
+    "changed-understanding"
    ]
   },
   {
@@ -125,7 +135,11 @@
      "license": "CC0",
      "title": "Precambrian_Evolution_of_Life.png"
     }
-   ]
+   ],
+   "categories": [
+    "science-cosmos"
+   ],
+   "threads": []
   },
   {
    "id": "cambrian",
@@ -161,7 +175,11 @@
      "license": "CC0",
      "title": "Ottoia_tricuspida_ROM_63057.jpg"
     }
-   ]
+   ],
+   "categories": [
+    "science-cosmos"
+   ],
+   "threads": []
   },
   {
    "id": "kpg",
@@ -212,6 +230,15 @@
      "title": "How We Figured Out an Asteroid Killed the Dinosaurs",
      "channel": "PBS Eons"
     }
+   ],
+   "categories": [
+    "science-cosmos",
+    "catastrophes"
+   ],
+   "threads": [
+    "cosmic-impacts",
+    "changed-understanding",
+    "dragons-and-fossils"
    ]
   },
   {
@@ -261,6 +288,13 @@
      "license": "CC BY-SA 3.0",
      "title": "Knossos_fresco_in_throne_palace.JPG"
     }
+   ],
+   "categories": [
+    "myth-legend",
+    "science-cosmos"
+   ],
+   "threads": [
+    "dragons-and-fossils"
    ]
   },
   {
@@ -283,7 +317,12 @@
      "type": "encyclopedia"
     }
    ],
-   "media": []
+   "media": [],
+   "categories": [
+    "science-cosmos",
+    "archaeology"
+   ],
+   "threads": []
   },
   {
    "id": "homo-sapiens",
@@ -323,6 +362,13 @@
      "license": "CC BY-SA 2.0",
      "title": "Jean-Jacques_Hublin_at_Jebel_Irhoud.jpg"
     }
+   ],
+   "categories": [
+    "science-cosmos",
+    "archaeology"
+   ],
+   "threads": [
+    "changed-understanding"
    ]
   },
   {
@@ -377,7 +423,12 @@
      "title": "How a Supervolcano Ignited an Evolutionary Debate",
      "channel": "PBS Eons"
     }
-   ]
+   ],
+   "categories": [
+    "catastrophes",
+    "science-cosmos"
+   ],
+   "threads": []
   },
   {
    "id": "neanderthal-dna",
@@ -424,6 +475,13 @@
      "title": "The Ancient Human Species With A Missing Body",
      "channel": "PBS Eons"
     }
+   ],
+   "categories": [
+    "science-cosmos",
+    "archaeology"
+   ],
+   "threads": [
+    "changed-understanding"
    ]
   },
   {
@@ -449,7 +507,11 @@
      "type": "paper"
     }
    ],
-   "media": []
+   "media": [],
+   "categories": [
+    "archaeology"
+   ],
+   "threads": []
   },
   {
    "id": "chauvet",
@@ -488,7 +550,11 @@
      "license": "Public domain",
      "title": "Paintings_from_the_Chauvet_cave_(museum_replica).jpg"
     }
-   ]
+   ],
+   "categories": [
+    "archaeology"
+   ],
+   "threads": []
   },
   {
    "id": "americas-peopling",
@@ -523,7 +589,14 @@
      "type": "encyclopedia"
     }
    ],
-   "media": []
+   "media": [],
+   "categories": [
+    "archaeology",
+    "history"
+   ],
+   "threads": [
+    "changed-understanding"
+   ]
   },
   {
    "id": "mwp1a",
@@ -557,7 +630,14 @@
      "type": "encyclopedia"
     }
    ],
-   "media": []
+   "media": [],
+   "categories": [
+    "science-cosmos",
+    "catastrophes"
+   ],
+   "threads": [
+    "flood-myths"
+   ]
   },
   {
    "id": "younger-dryas",
@@ -615,6 +695,15 @@
      "title": "When the Earth Suddenly Stopped Warming",
      "channel": "PBS Eons"
     }
+   ],
+   "categories": [
+    "science-cosmos",
+    "catastrophes"
+   ],
+   "threads": [
+    "flood-myths",
+    "lost-civilisations",
+    "cosmic-impacts"
    ]
   },
   {
@@ -642,7 +731,14 @@
      "type": "encyclopedia"
     }
    ],
-   "media": []
+   "media": [],
+   "categories": [
+    "lost-civilisations",
+    "anomalies"
+   ],
+   "threads": [
+    "lost-civilisations"
+   ]
   },
   {
    "id": "gobekli-tepe",
@@ -692,6 +788,14 @@
      "title": "Stone Age Temple Mystery | Full Documentary | NOVA | PBS",
      "channel": "NOVA PBS Official"
     }
+   ],
+   "categories": [
+    "archaeology",
+    "anomalies"
+   ],
+   "threads": [
+    "lost-civilisations",
+    "changed-understanding"
    ]
   },
   {
@@ -728,6 +832,14 @@
      "license": "CC BY-SA 4.0",
      "title": "Sundaland-at-the-Last-Glacial-Maximum-showing-the-modern-distribution-of-land-in-dark.png"
     }
+   ],
+   "categories": [
+    "catastrophes",
+    "lost-civilisations"
+   ],
+   "threads": [
+    "flood-myths",
+    "lost-civilisations"
    ]
   },
   {
@@ -757,7 +869,14 @@
      "type": "paper"
     }
    ],
-   "media": []
+   "media": [],
+   "categories": [
+    "myth-legend",
+    "catastrophes"
+   ],
+   "threads": [
+    "flood-myths"
+   ]
   },
   {
    "id": "doggerland",
@@ -801,6 +920,13 @@
      "license": "CC BY 4.0",
      "title": "Doggerland.png"
     }
+   ],
+   "categories": [
+    "catastrophes",
+    "archaeology"
+   ],
+   "threads": [
+    "flood-myths"
    ]
   },
   {
@@ -839,7 +965,13 @@
      "type": "encyclopedia"
     }
    ],
-   "media": []
+   "media": [],
+   "categories": [
+    "catastrophes"
+   ],
+   "threads": [
+    "flood-myths"
+   ]
   },
   {
    "id": "catalhoyuk",
@@ -875,7 +1007,11 @@
      "license": "CC BY-SA 4.0",
      "title": "Çatalhöyük,_7400_BC,_Konya,_Turkey_-_UNESCO_World_Heritage_Site,_08.jpg"
     }
-   ]
+   ],
+   "categories": [
+    "archaeology"
+   ],
+   "threads": []
   },
   {
    "id": "writing",
@@ -907,7 +1043,12 @@
      "license": "CC BY-SA 3.0",
      "title": "Xerxes_Cuneiform_Van.JPG"
     }
-   ]
+   ],
+   "categories": [
+    "history",
+    "archaeology"
+   ],
+   "threads": []
   },
   {
    "id": "stonehenge",
@@ -948,7 +1089,12 @@
      "license": "CC BY 2.0",
      "title": "Stonehenge2007_07_30.jpg"
     }
-   ]
+   ],
+   "categories": [
+    "archaeology",
+    "history"
+   ],
+   "threads": []
   },
   {
    "id": "great-pyramid",
@@ -998,6 +1144,14 @@
      "title": "How did they build the Great Pyramid of Giza? - Soraya Field Fiorio",
      "channel": "TED-Ed"
     }
+   ],
+   "categories": [
+    "archaeology",
+    "history",
+    "anomalies"
+   ],
+   "threads": [
+    "lost-civilisations"
    ]
   },
   {
@@ -1042,6 +1196,14 @@
      "license": "CC0",
      "title": "Sphinx_with_the_third_pyramid.jpg"
     }
+   ],
+   "categories": [
+    "archaeology",
+    "anomalies",
+    "lost-civilisations"
+   ],
+   "threads": [
+    "lost-civilisations"
    ]
   },
   {
@@ -1085,6 +1247,13 @@
      "license": "CC BY-SA 4.0",
      "title": "British_Museum_Flood_Tablet_1.jpg"
     }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion"
+   ],
+   "threads": [
+    "flood-myths"
    ]
   },
   {
@@ -1136,6 +1305,14 @@
      "license": "Public domain",
      "title": "大禹治水圖.jpg"
     }
+   ],
+   "categories": [
+    "myth-legend",
+    "catastrophes",
+    "history"
+   ],
+   "threads": [
+    "flood-myths"
    ]
   },
   {
@@ -1180,6 +1357,13 @@
      "license": "CC BY 3.0",
      "title": "2011_Dimos_Thiras.png"
     }
+   ],
+   "categories": [
+    "catastrophes",
+    "archaeology"
+   ],
+   "threads": [
+    "lost-civilisations"
    ]
   },
   {
@@ -1207,7 +1391,12 @@
      "type": "encyclopedia"
     }
    ],
-   "media": []
+   "media": [],
+   "categories": [
+    "religion",
+    "history"
+   ],
+   "threads": []
   },
   {
    "id": "bronze-collapse",
@@ -1237,7 +1426,12 @@
      "title": "2. The Bronze Age Collapse - Mediterranean Apocalypse",
      "channel": "Fall of Civilizations"
     }
-   ]
+   ],
+   "categories": [
+    "history",
+    "catastrophes"
+   ],
+   "threads": []
   },
   {
    "id": "troy",
@@ -1286,6 +1480,14 @@
      "title": "2. The Bronze Age Collapse - Mediterranean Apocalypse",
      "channel": "Fall of Civilizations"
     }
+   ],
+   "categories": [
+    "history",
+    "archaeology",
+    "myth-legend"
+   ],
+   "threads": [
+    "changed-understanding"
    ]
   },
   {
@@ -1332,6 +1534,13 @@
      "license": "Public domain",
      "title": "Edward_Hicks,_American_-_Noah's_Ark_-_Google_Art_Project.jpg"
     }
+   ],
+   "categories": [
+    "religion",
+    "myth-legend"
+   ],
+   "threads": [
+    "flood-myths"
    ]
   },
   {
@@ -1375,6 +1584,13 @@
      "license": "Public domain",
      "title": "Matsya_Avatar_of_Vishnu_Printed_by_Ravi_Varma_Press_-_Vintage_Poster.jpg"
     }
+   ],
+   "categories": [
+    "religion",
+    "myth-legend"
+   ],
+   "threads": [
+    "flood-myths"
    ]
   },
   {
@@ -1406,6 +1622,12 @@
      "license": "Public domain",
      "title": "Deucalion.jpg"
     }
+   ],
+   "categories": [
+    "myth-legend"
+   ],
+   "threads": [
+    "flood-myths"
    ]
   },
   {
@@ -1446,6 +1668,13 @@
      "license": "Public domain",
      "title": "Atlantis_Kircher_Mundus_subterraneus_1678.jpg"
     }
+   ],
+   "categories": [
+    "myth-legend",
+    "lost-civilisations"
+   ],
+   "threads": [
+    "lost-civilisations"
    ]
   },
   {
@@ -1488,6 +1717,14 @@
      "license": "Public domain",
      "title": "BL_Or_485_f._102r.png"
     }
+   ],
+   "categories": [
+    "religion",
+    "myth-legend",
+    "aliens-ufo"
+   ],
+   "threads": [
+    "sky-beings"
    ]
   },
   {
@@ -1538,7 +1775,13 @@
      "title": "Antikythera Mechanism Part 1: by Nature Video",
      "channel": "nature video"
     }
-   ]
+   ],
+   "categories": [
+    "archaeology",
+    "science-cosmos",
+    "anomalies"
+   ],
+   "threads": []
   },
   {
    "id": "popol-vuh",
@@ -1570,6 +1813,13 @@
      "license": "Public domain",
      "title": "Popol_vuh.jpg"
     }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion"
+   ],
+   "threads": [
+    "flood-myths"
    ]
   },
   {
@@ -1601,7 +1851,11 @@
      "license": "Public domain",
      "title": "Pangu.jpg"
     }
-   ]
+   ],
+   "categories": [
+    "myth-legend"
+   ],
+   "threads": []
   },
   {
    "id": "ragnarok",
@@ -1629,7 +1883,12 @@
      "type": "encyclopedia"
     }
    ],
-   "media": []
+   "media": [],
+   "categories": [
+    "myth-legend",
+    "religion"
+   ],
+   "threads": []
   },
   {
    "id": "vinland",
@@ -1669,6 +1928,13 @@
      "license": "CC BY 2.0",
      "title": "Authentic_Viking_recreation.jpg"
     }
+   ],
+   "categories": [
+    "history",
+    "archaeology"
+   ],
+   "threads": [
+    "changed-understanding"
    ]
   },
   {
@@ -1705,7 +1971,12 @@
      "license": "Public domain",
      "title": "Arth_tapestry2.jpg"
     }
-   ]
+   ],
+   "categories": [
+    "myth-legend",
+    "history"
+   ],
+   "threads": []
   },
   {
    "id": "shroud",
@@ -1748,7 +2019,12 @@
      "license": "CC BY-SA 3.0",
      "title": "Turin_shroud_positive_and_negative_displaying_original_color_information_708_x_465_pixels_94_KB.jpg"
     }
-   ]
+   ],
+   "categories": [
+    "religion",
+    "anomalies"
+   ],
+   "threads": []
   },
   {
    "id": "printing",
@@ -1780,7 +2056,11 @@
      "license": "CC BY-SA 2.0",
      "title": "Gutenberg_Bible,_Lenox_Copy,_New_York_Public_Library,_2009._Pic_01.jpg"
     }
-   ]
+   ],
+   "categories": [
+    "history"
+   ],
+   "threads": []
   },
   {
    "id": "heliocentrism",
@@ -1813,6 +2093,14 @@
      "license": "Public domain",
      "title": "Galileo_Galilei_(1564-1642)_RMG_BHC2700.tiff"
     }
+   ],
+   "categories": [
+    "science-cosmos",
+    "history",
+    "religion"
+   ],
+   "threads": [
+    "changed-understanding"
    ]
   },
   {
@@ -1850,6 +2138,14 @@
      "license": "Public domain",
      "title": "Tunguska_Ereignis-1.jpg"
     }
+   ],
+   "categories": [
+    "catastrophes",
+    "science-cosmos",
+    "anomalies"
+   ],
+   "threads": [
+    "cosmic-impacts"
    ]
   },
   {
@@ -1889,6 +2185,13 @@
      "license": "Public domain",
      "title": "Piltdown_gang_(dark).jpg"
     }
+   ],
+   "categories": [
+    "hoaxes",
+    "science-cosmos"
+   ],
+   "threads": [
+    "changed-understanding"
    ]
   },
   {
@@ -1934,6 +2237,12 @@
      "title": "The Plate Tectonics Revolution: Crash Course Geography #19",
      "channel": "CrashCourse"
     }
+   ],
+   "categories": [
+    "science-cosmos"
+   ],
+   "threads": [
+    "changed-understanding"
    ]
   },
   {
@@ -1971,7 +2280,12 @@
      "license": "Public domain",
      "title": "A_Man_on_the_Moon,_AS11-40-5903_(cropped).jpg"
     }
-   ]
+   ],
+   "categories": [
+    "history",
+    "science-cosmos"
+   ],
+   "threads": []
   },
   {
    "id": "gunung-padang",
@@ -2016,6 +2330,15 @@
      "license": "CC BY-SA 4.0",
      "title": "Situs_Megalitikum_Gunung_Padang_Cianjur.jpg"
     }
+   ],
+   "categories": [
+    "archaeology",
+    "lost-civilisations",
+    "hoaxes"
+   ],
+   "threads": [
+    "lost-civilisations",
+    "changed-understanding"
    ]
   }
  ]
