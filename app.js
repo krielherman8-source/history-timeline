@@ -6,14 +6,28 @@ var uMin=0, uMax=10.3, hits=[];
 function resize(){c.width=c.parentNode.clientWidth;c.height=c.parentNode.clientHeight;draw();}
 function px(u){return c.width-(u-uMin)/(uMax-uMin)*c.width;} // past on left
 function fmt(ya){return ya>=1e9?(ya/1e9).toFixed(1)+' Bya':ya>=1e6?(ya/1e6).toFixed(1)+' Mya':ya>=1e4?Math.round(ya/1e3)+' kya':(NOW-ya<0?Math.round(ya-NOW)+' BCE':Math.round(NOW-ya)+' CE');}
-function draw(){x.clearRect(0,0,c.width,c.height);var H=c.height,lanes={history:H*0.35,myth:H*0.7};hits=[];
- x.fillStyle='#333';x.font='12px sans-serif';
- for(var u=Math.ceil(uMin*2)/2;u<=uMax;u+=0.5){var p=px(u);x.strokeStyle='#ddd';x.beginPath();x.moveTo(p,0);x.lineTo(p,H);x.stroke();x.fillText(fmt(Math.pow(10,u)),p+2,14);}
- for(var k in lanes){x.fillStyle='#000';x.font='bold 13px sans-serif';x.fillText(k==='myth'?'Myths & legends':'History / science',5,lanes[k]-40);x.strokeStyle='#999';x.beginPath();x.moveTo(0,lanes[k]);x.lineTo(c.width,lanes[k]);x.stroke();}
- var row={history:0,myth:0};
- D.entries.forEach(function(e){var y=lanes[e.lane]+((row[e.lane]++%3)*18)-20,a=px(toU(e.start)),b=e.end!=null?px(toU(e.end)):a+0;
-  x.fillStyle=e.lane==='myth'?'#a4c':'#36a';x.fillRect(a-4,y,Math.max(b-a,0)+8,10);x.fillStyle='#000';x.font='12px sans-serif';x.fillText(e.title,a+8,y+9);
-  hits.push({e:e,x0:a-6,x1:Math.max(b,a)+8+x.measureText(e.title).width,y0:y,y1:y+12});});}
+function lbl(ya){var y=NOW-ya;if(ya>=1e9)return+(ya/1e9).toPrecision(3)+' Bya';if(ya>=1e6)return+(ya/1e6).toPrecision(3)+' Mya';if(ya>=1e5)return+(ya/1e3).toPrecision(4)+' kya';return y<=0?(1-y)+' BCE':y+' CE';}
+function ticks(){var a=Math.pow(10,Math.max(uMin,0)),b=Math.pow(10,uMax),out=[];
+ for(var p=Math.floor(Math.log10(Math.max((b-a)/12,1)));p<=Math.ceil(uMax);p++){var s=Math.pow(10,p);if(s<1)continue;
+  if((b-a)/s<=60){for(var v=Math.ceil(a/s)*s;v<=b;v+=s)out.push({v:v,p:p});}
+  else for(var k=1;k<10;k++){var v2=k*s;if(v2>=a&&v2<=b)out.push({v:v2,p:p,k:k});}}
+ out.sort(function(m,n){return n.p-m.p||(m.k||1)-(n.k||1);});return out;}
+function draw(){x.clearRect(0,0,c.width,c.height);var H=c.height,L=Math.round(H/2);hits=[];
+ x.strokeStyle='#fff';x.lineWidth=2;x.beginPath();x.moveTo(0,L);x.lineTo(c.width,L);x.stroke();x.lineWidth=1;
+ x.font='11px sans-serif';x.textAlign='center';var used=[];
+ ticks().forEach(function(t){var p=px(Math.log10(t.v));if(p<0||p>c.width)return;var w=x.measureText(lbl(t.v)).width+14;
+  for(var i=0;i<used.length;i++)if(Math.abs(used[i][0]-p)<(used[i][1]+w)/2)return;used.push([p,w]);
+  x.strokeStyle='#bbb';x.beginPath();x.moveTo(p,L-8);x.lineTo(p,L);x.stroke();x.fillStyle='#ddd';x.fillText(lbl(t.v),p,L-12);});
+ x.textAlign='left';var rows=[];
+ D.entries.slice().sort(function(m,n){return m.start-n.start;}).forEach(function(e){var a=px(toU(e.start)),b=e.end!=null?px(toU(e.end)):a;
+  var col=e.lane==='myth'?'#c9f':'#6cf';x.fillStyle=col;
+  if(b-a>2){x.globalAlpha=.5;x.fillRect(a,L-3,b-a,6);x.globalAlpha=1;}
+  if(e.lane==='myth'){x.beginPath();x.moveTo(a,L-7);x.lineTo(a+7,L);x.lineTo(a,L+7);x.lineTo(a-7,L);x.fill();}else{x.beginPath();x.arc(a,L,6,0,7);x.fill();}
+  x.font='12px sans-serif';var w=x.measureText(e.title).width,r=0;while(rows[r]!=null&&rows[r]>a-4)r++;rows[r]=a+w+12;var y=L+26+r*18;
+  x.strokeStyle='#555';x.beginPath();x.moveTo(a,L+7);x.lineTo(a,y-10);x.stroke();x.fillStyle='#eee';x.fillText(e.title,a+3,y);
+  hits.push({e:e,x0:a-8,x1:a+w+6,y0:L-8,y1:y+4});});
+ x.font='12px sans-serif';x.fillStyle='#6cf';x.beginPath();x.arc(14,H-30,5,0,7);x.fill();x.fillStyle='#eee';x.fillText('History / science',24,H-26);
+ x.fillStyle='#c9f';x.beginPath();x.moveTo(14,H-20);x.lineTo(19,H-14);x.lineTo(14,H-8);x.lineTo(9,H-14);x.fill();x.fillStyle='#eee';x.fillText('Myth / legend',24,H-10);}
 function esc(s){return String(s).replace(/[&<>"]/g,function(ch){return{'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[ch];});}
 function show(e){var h='<h3>'+esc(e.title)+'</h3><div>'+e.evidenceTypes.map(function(t){return'<span class="tag">'+esc(t)+'</span>';}).join('')+'</div>';
  h+='<p><b>Date:</b> '+(e.start<0?-e.start+' BCE':e.start+' CE')+(e.end!=null?' – '+(e.end<0?-e.end+' BCE':e.end+' CE'):'')+(e.dateNote?' <i>('+esc(e.dateNote)+')</i>':'')+'</p>';
