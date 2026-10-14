@@ -3318,6 +3318,474 @@
    "threads": [
     "hoaxes-exposed"
    ]
+  },
+  {
+   "id": "silurian-hypothesis",
+   "title": "Silurian hypothesis (pre-human industry?)",
+   "lane": "history",
+   "status": "hypothesis",
+   "priority": 2,
+   "start": 2018,
+   "end": null,
+   "evidenceTypes": [
+    "theoretical"
+   ],
+   "mainstream": "Gavin Schmidt and Adam Frank (2018) asked whether an industrial civilisation millions of years ago would be detectable in the geological record; the authors do not claim one existed.",
+   "alternatives": [
+    {
+     "label": "Speculative use",
+     "text": "Some popular writers cite it as support for lost pre-human civilisations, which the authors do not argue."
+    }
+   ],
+   "sources": [
+    {
+     "title": "The Silurian hypothesis: would it be possible to detect an industrial civilization in the geological record?",
+     "authors": "Schmidt, G. et al.",
+     "year": 2018,
+     "doi": "10.1017/S1473550418000095",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: Silurian hypothesis",
+     "url": "https://en.wikipedia.org/wiki/Silurian_hypothesis",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [],
+   "categories": [
+    "science-cosmos",
+    "lost-civilisations"
+   ],
+   "threads": [
+    "lost-civilisations"
+   ]
+  },
+  {
+   "id": "sumerian-king-list",
+   "title": "Sumerian King List",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": -2100,
+   "end": null,
+   "dateNote": "Earliest copies c. 2100–1800 BCE",
+   "evidenceTypes": [
+    "textual"
+   ],
+   "mainstream": "A Mesopotamian text listing kings \"before\" and \"after the flood\", with pre-flood reigns of tens of thousands of years. Scholars treat early parts as legendary.",
+   "alternatives": [
+    {
+     "label": "Literal reading",
+     "text": "Some alternative authors read the long reigns literally or as records of non-human rulers."
+    }
+   ],
+   "sources": [
+    {
+     "title": "The Sumerian king list: translation (ETCSL, University of Oxford)",
+     "url": "https://etcsl.orinst.ox.ac.uk/section2/tr211.htm",
+     "type": "primary text (translation)"
+    },
+    {
+     "title": "Wikipedia: Sumerian King List",
+     "url": "https://en.wikipedia.org/wiki/Sumerian_King_List",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Weld-Blundell_Prism_with_transcription_by_Stephen_Herbert_Langdon_%281876-1937%29.jpg/500px-Weld-Blundell_Prism_with_transcription_by_Stephen_Herbert_Langdon_%281876-1937%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Weld-Blundell_Prism_with_transcription_by_Stephen_Herbert_Langdon_(1876-1937).jpg",
+     "author": "Photograph: unknown>\n\nTranscription: Stephen Herbert Langdon (1876-1937)",
+     "license": "Public domain",
+     "title": "Weld-Blundell_Prism_with_transcription_by_Stephen_Herbert_Langdon_(1876-1937).jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion",
+    "history"
+   ],
+   "threads": [
+    "flood-myths",
+    "lost-civilisations",
+    "sky-beings"
+   ]
+  },
+  {
+   "id": "puma-punku",
+   "title": "Puma Punku (Tiwanaku)",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 600,
+   "end": null,
+   "evidenceTypes": [
+    "archaeological"
+   ],
+   "mainstream": "Part of the Tiwanaku site in Bolivia (c. 500–1000 CE), known for precisely cut andesite and sandstone blocks.",
+   "alternatives": [
+    {
+     "label": "Ancient-astronaut readings",
+     "text": "Some claim the precision implies lost or alien technology; archaeologists attribute it to Tiwanaku stoneworking."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Tiwanaku: Spiritual and Political Centre of the Tiwanaku Culture (UNESCO)",
+     "url": "https://whc.unesco.org/en/list/567",
+     "type": "institution"
+    },
+    {
+     "title": "Wikipedia: Pumapunku",
+     "url": "https://en.wikipedia.org/wiki/Pumapunku",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Puma_Punku14.JPG/500px-Puma_Punku14.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Puma_Punku14.JPG",
+     "author": "Brattarb",
+     "license": "CC BY-SA 3.0",
+     "title": "Puma_Punku14.JPG"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "anomalies",
+    "lost-civilisations"
+   ],
+   "threads": [
+    "lost-civilisations"
+   ]
+  },
+  {
+   "id": "baalbek",
+   "title": "Baalbek megaliths",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -50,
+   "end": null,
+   "evidenceTypes": [
+    "archaeological"
+   ],
+   "mainstream": "Roman temple complex in Lebanon with some of the largest cut stones ever moved (the Trilithon, ~800 t); dated to the Roman period.",
+   "alternatives": [
+    {
+     "label": "Older/lost civilisation",
+     "text": "Some authors claim the foundation stones are much older or required lost technology."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Baalbek (UNESCO)",
+     "url": "https://whc.unesco.org/en/list/294",
+     "type": "institution"
+    },
+    {
+     "title": "Wikipedia: Baalbek",
+     "url": "https://en.wikipedia.org/wiki/Baalbek",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Temple_of_Bacchus%2C_Baalbek%2C_Lebanon_%2849890013476%29.jpg/500px-Temple_of_Bacchus%2C_Baalbek%2C_Lebanon_%2849890013476%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Temple_of_Bacchus,_Baalbek,_Lebanon_(49890013476).jpg",
+     "author": "Lodo from Moscow, Russia",
+     "license": "CC BY-SA 2.0",
+     "title": "Temple_of_Bacchus,_Baalbek,_Lebanon_(49890013476).jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "anomalies"
+   ],
+   "threads": [
+    "lost-civilisations"
+   ]
+  },
+  {
+   "id": "bosnian-pyramids",
+   "title": "\"Bosnian pyramids\" claim",
+   "lane": "history",
+   "status": "debunked",
+   "priority": 3,
+   "start": 2005,
+   "end": null,
+   "evidenceTypes": [
+    "geological"
+   ],
+   "mainstream": "In 2005 Semir Osmanagić claimed hills near Visoko, Bosnia, were ancient pyramids; geologists identify them as natural formations (flatirons).",
+   "alternatives": [
+    {
+     "label": "Proponents",
+     "text": "Supporters continue excavations and maintain an artificial origin."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Bosnian pyramid claims",
+     "url": "https://en.wikipedia.org/wiki/Bosnian_pyramid_claims",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [],
+   "categories": [
+    "hoaxes",
+    "lost-civilisations"
+   ],
+   "threads": [
+    "lost-civilisations"
+   ]
+  },
+  {
+   "id": "nebra-sky-disc",
+   "title": "Nebra sky disc",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 3,
+   "start": -1600,
+   "end": null,
+   "evidenceTypes": [
+    "archaeological"
+   ],
+   "mainstream": "A Bronze Age bronze disc with gold sky symbols found in Germany in 1999; once doubted as a fake, now widely accepted as authentic.",
+   "alternatives": [
+    {
+     "label": "Dating debate",
+     "text": "Some researchers have argued for an Iron Age date."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Archaeometallurgical investigation of the Nebra Sky Disc",
+     "authors": "Dieck, S. et al.",
+     "year": 2024,
+     "doi": "10.1038/s41598-024-80545-5",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: Nebra sky disc",
+     "url": "https://en.wikipedia.org/wiki/Nebra_sky_disc",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Nebra_disc_1.jpg/500px-Nebra_disc_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Nebra_disc_1.jpg",
+     "author": "Frank Vincentz",
+     "license": "Public domain",
+     "title": "Nebra_disc_1.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "science-cosmos"
+   ],
+   "threads": [
+    "changed-understanding"
+   ]
+  },
+  {
+   "id": "kensington-runestone",
+   "title": "Kensington Runestone",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 3,
+   "start": 1898,
+   "end": null,
+   "evidenceTypes": [
+    "textual"
+   ],
+   "mainstream": "A stone with runic inscription claiming a 1362 Norse visit, found in Minnesota in 1898; most runologists regard it as a 19th-century creation.",
+   "alternatives": [
+    {
+     "label": "Authentic",
+     "text": "Some researchers and local supporters argue it is genuine."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Kensington Runestone",
+     "url": "https://en.wikipedia.org/wiki/Kensington_Runestone",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Christian_Krohg_-_Leiv_Eirikson_discovering_America_-_Google_Art_Project.jpg/500px-Christian_Krohg_-_Leiv_Eirikson_discovering_America_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Christian_Krohg_-_Leiv_Eirikson_discovering_America_-_Google_Art_Project.jpg",
+     "author": "Christian Krohg",
+     "license": "Public domain",
+     "title": "Christian_Krohg_-_Leiv_Eirikson_discovering_America_-_Google_Art_Project.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "hoaxes"
+   ],
+   "threads": []
+  },
+  {
+   "id": "indus-valley",
+   "title": "Indus Valley Civilisation",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": -2600,
+   "end": -1900,
+   "evidenceTypes": [
+    "archaeological"
+   ],
+   "mainstream": "Bronze Age urban civilisation (mature phase c. 2600–1900 BCE) in present-day Pakistan and India, with planned cities such as Mohenjo-daro; its script is undeciphered.",
+   "alternatives": [],
+   "sources": [
+    {
+     "title": "Archaeological Ruins at Moenjodaro (UNESCO)",
+     "url": "https://whc.unesco.org/en/list/138",
+     "type": "institution"
+    },
+    {
+     "title": "Wikipedia: Indus Valley Civilisation",
+     "url": "https://en.wikipedia.org/wiki/Indus_Valley_Civilisation",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Mohenjodaro_-_view_of_the_stupa_mound.JPG/500px-Mohenjodaro_-_view_of_the_stupa_mound.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Mohenjodaro_-_view_of_the_stupa_mound.JPG",
+     "author": "Saqib Qayyum",
+     "license": "CC BY-SA 3.0",
+     "title": "Mohenjodaro_-_view_of_the_stupa_mound.JPG"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology"
+   ],
+   "threads": []
+  },
+  {
+   "id": "rome-founding",
+   "title": "Romulus and the founding of Rome",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": -753,
+   "end": null,
+   "evidenceTypes": [
+    "textual",
+    "archaeological"
+   ],
+   "mainstream": "Roman tradition dates the city's founding by Romulus to 753 BCE; archaeology shows settlement on the Palatine from earlier.",
+   "alternatives": [],
+   "sources": [
+    {
+     "title": "Wikipedia: Founding of Rome",
+     "url": "https://en.wikipedia.org/wiki/Founding_of_Rome",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Lupa_Capitolina%2C_Rome.jpg/500px-Lupa_Capitolina%2C_Rome.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Lupa_Capitolina,_Rome.jpg",
+     "author": "Unknown",
+     "license": "CC0",
+     "title": "Lupa_Capitolina,_Rome.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "history"
+   ],
+   "threads": []
+  },
+  {
+   "id": "rome-fall",
+   "title": "Fall of the Western Roman Empire",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": 476,
+   "end": null,
+   "evidenceTypes": [
+    "textual",
+    "archaeological"
+   ],
+   "mainstream": "The last western emperor was deposed in 476 CE; historians debate whether it was a \"fall\" or gradual transformation.",
+   "alternatives": [],
+   "sources": [
+    {
+     "title": "Wikipedia: Fall of the Western Roman Empire",
+     "url": "https://en.wikipedia.org/wiki/Fall_of_the_Western_Roman_Empire",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [],
+   "categories": [
+    "history"
+   ],
+   "threads": []
+  },
+  {
+   "id": "mazama-klamath",
+   "title": "Mount Mazama eruption & Klamath legend",
+   "lane": "myth",
+   "status": "disputed",
+   "priority": 2,
+   "start": -5700,
+   "end": null,
+   "evidenceTypes": [
+    "geological",
+    "oral tradition"
+   ],
+   "mainstream": "Mount Mazama in Oregon erupted ~7,700 years ago forming Crater Lake. Klamath oral tradition describes a battle between Llao and Skell that some scholars link to the eruption.",
+   "alternatives": [
+    {
+     "label": "Caution",
+     "text": "Others note the difficulty of linking oral traditions to specific events."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Mount Mazama",
+     "url": "https://en.wikipedia.org/wiki/Mount_Mazama",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Crater Lake",
+     "url": "https://en.wikipedia.org/wiki/Crater_Lake",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Crater_Lake_National_Park_%282023%29.jpg/500px-Crater_Lake_National_Park_%282023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Crater_Lake_National_Park_(2023).jpg",
+     "author": "John Manard",
+     "license": "CC BY-SA 2.0",
+     "title": "Crater_Lake_National_Park_(2023).jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "catastrophes",
+    "science-cosmos"
+   ],
+   "threads": []
   }
  ]
 }
