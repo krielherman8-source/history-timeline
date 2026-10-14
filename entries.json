@@ -2919,6 +2919,405 @@
    "threads": [
     "ufo-encounters"
    ]
+  },
+  {
+   "id": "oklo",
+   "title": "Oklo natural nuclear reactors",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -1700000000.0,
+   "end": null,
+   "evidenceTypes": [
+    "geological"
+   ],
+   "mainstream": "About 1.7–2 billion years ago, uranium deposits at Oklo, Gabon, sustained natural nuclear fission reactions; discovered by French scientists in 1972.",
+   "alternatives": [
+    {
+     "label": "Artificial reactor",
+     "text": "Occasionally cited in fringe literature as an ancient artificial reactor; geologists explain it fully by natural processes."
+    }
+   ],
+   "changed": "1972: discovered from an anomalous uranium-235 deficit in ore.",
+   "sources": [
+    {
+     "title": "Wikipedia: Natural nuclear fission reactor",
+     "url": "https://en.wikipedia.org/wiki/Natural_nuclear_fission_reactor",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [],
+   "categories": [
+    "science-cosmos",
+    "anomalies"
+   ],
+   "threads": []
+  },
+  {
+   "id": "nazca-lines",
+   "title": "Nazca Lines",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -500,
+   "end": 500,
+   "evidenceTypes": [
+    "archaeological"
+   ],
+   "mainstream": "Large geoglyphs in southern Peru made by the Nazca culture c. 500 BCE–500 CE, thought to have ritual functions; UNESCO World Heritage Site.",
+   "alternatives": [
+    {
+     "label": "Alien runways",
+     "text": "Von Däniken suggested they were landing strips for visitors; archaeologists reject this."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Lines and Geoglyphs of Nasca and Palpa (UNESCO)",
+     "url": "https://whc.unesco.org/en/list/700",
+     "type": "institution"
+    },
+    {
+     "title": "Wikipedia: Nazca lines",
+     "url": "https://en.wikipedia.org/wiki/Nazca_lines",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/L%C3%ADneas_de_Nazca%2C_Nazca%2C_Per%C3%BA%2C_2015-07-29%2C_DD_49.JPG/500px-L%C3%ADneas_de_Nazca%2C_Nazca%2C_Per%C3%BA%2C_2015-07-29%2C_DD_49.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:L%C3%ADneas_de_Nazca,_Nazca,_Per%C3%BA,_2015-07-29,_DD_49.JPG",
+     "author": "Diego Delso",
+     "license": "CC BY-SA 4.0",
+     "title": "Líneas_de_Nazca,_Nazca,_Perú,_2015-07-29,_DD_49.JPG"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "anomalies"
+   ],
+   "threads": [
+    "lost-civilisations"
+   ]
+  },
+  {
+   "id": "baghdad-battery",
+   "title": "\"Baghdad battery\"",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 3,
+   "start": -200,
+   "end": null,
+   "evidenceTypes": [
+    "archaeological"
+   ],
+   "mainstream": "Clay jars with copper cylinders and iron rods from Parthian/Sasanian Mesopotamia; most archaeologists think they stored scrolls or similar, not electricity.",
+   "alternatives": [
+    {
+     "label": "Ancient electricity",
+     "text": "Some suggest they were galvanic cells used for electroplating or ritual effects."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Baghdad Battery",
+     "url": "https://en.wikipedia.org/wiki/Baghdad_Battery",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Ironie_pile_Bagdad.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Ironie_pile_Bagdad.jpg",
+     "author": "Ironie",
+     "license": "CC BY-SA 2.5",
+     "title": "Ironie_pile_Bagdad.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "anomalies"
+   ],
+   "threads": []
+  },
+  {
+   "id": "voynich",
+   "title": "Voynich manuscript",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 1420,
+   "end": null,
+   "evidenceTypes": [
+    "textual",
+    "radiocarbon"
+   ],
+   "mainstream": "An illustrated manuscript in an undeciphered script; its vellum was radiocarbon-dated to 1404–1438. Held at Yale's Beinecke Library.",
+   "alternatives": [
+    {
+     "label": "Hoax or glossolalia",
+     "text": "Some argue it is meaningless text."
+    },
+    {
+     "label": "Cipher or lost language",
+     "text": "Many decipherment claims exist; none widely accepted."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Voynich manuscript",
+     "url": "https://en.wikipedia.org/wiki/Voynich_manuscript",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Voynich_Manuscript_%2832%29.jpg/500px-Voynich_Manuscript_%2832%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Voynich_Manuscript_(32).jpg",
+     "author": "Unknown authorUnknown author",
+     "license": "Public domain",
+     "title": "Voynich_Manuscript_(32).jpg"
+    }
+   ],
+   "categories": [
+    "anomalies",
+    "history"
+   ],
+   "threads": []
+  },
+  {
+   "id": "dropa-stones",
+   "title": "Dropa stones",
+   "lane": "history",
+   "status": "debunked",
+   "priority": 3,
+   "start": 1962,
+   "end": null,
+   "evidenceTypes": [
+    "speculative"
+   ],
+   "mainstream": "Stories from the 1960s claimed stone discs from China recorded an alien crash 12,000 years ago; no verifiable discs, scholars or excavation records have been found.",
+   "alternatives": [
+    {
+     "label": "Believers",
+     "text": "Some ancient-astronaut writers still cite them."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Dropa stones",
+     "url": "https://en.wikipedia.org/wiki/Dropa_stones",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [],
+   "categories": [
+    "hoaxes",
+    "aliens-ufo"
+   ],
+   "threads": [
+    "hoaxes-exposed"
+   ]
+  },
+  {
+   "id": "piri-reis",
+   "title": "Piri Reis map",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 3,
+   "start": 1513,
+   "end": null,
+   "evidenceTypes": [
+    "textual/cartographic"
+   ],
+   "mainstream": "An Ottoman world map of 1513 by Piri Reis, compiled from earlier sources including a Columbus map.",
+   "alternatives": [
+    {
+     "label": "Ice-free Antarctica",
+     "text": "Charles Hapgood and later authors claimed it shows Antarctica's coast without ice; historians attribute the coastline to distorted South America."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Piri Reis map",
+     "url": "https://en.wikipedia.org/wiki/Piri_Reis_map",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Piri_reis_world_map_01.jpg/500px-Piri_reis_world_map_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Piri_reis_world_map_01.jpg",
+     "author": "Piri Reis",
+     "license": "Public domain",
+     "title": "Piri_reis_world_map_01.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "anomalies",
+    "lost-civilisations"
+   ],
+   "threads": [
+    "lost-civilisations"
+   ]
+  },
+  {
+   "id": "fast-radio-bursts",
+   "title": "Fast radio bursts discovered",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 3,
+   "start": 2007,
+   "end": null,
+   "evidenceTypes": [
+    "observational/radio"
+   ],
+   "mainstream": "Millisecond radio flashes from distant galaxies, first reported in 2007; many are now linked to magnetars.",
+   "alternatives": [
+    {
+     "label": "Technosignatures",
+     "text": "A few researchers have speculated about artificial origins; this is not mainstream."
+    }
+   ],
+   "sources": [
+    {
+     "title": "A Bright Millisecond Radio Burst of Extragalactic Origin",
+     "authors": "Lorimer, D. et al.",
+     "year": 2007,
+     "doi": "10.1126/science.1147532",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: Fast radio burst",
+     "url": "https://en.wikipedia.org/wiki/Fast_radio_burst",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [],
+   "categories": [
+    "science-cosmos",
+    "anomalies"
+   ],
+   "threads": []
+  },
+  {
+   "id": "tabbys-star",
+   "title": "Tabby's Star dimming",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 3,
+   "start": 2015,
+   "end": null,
+   "evidenceTypes": [
+    "observational/astronomical"
+   ],
+   "mainstream": "Star KIC 8462852 showed unusual irregular dimming (reported 2015). Follow-up observations favour dust as the cause.",
+   "alternatives": [
+    {
+     "label": "Megastructure",
+     "text": "Early media speculation about an alien megastructure; follow-up work disfavours it."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Tabby's Star",
+     "url": "https://en.wikipedia.org/wiki/Tabby's_Star",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/KIC_8462852_in_IR_and_UV.png/500px-KIC_8462852_in_IR_and_UV.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:KIC_8462852_in_IR_and_UV.png",
+     "author": "Infrared: IPAC/NASA  Ultraviolet: STScI (NASA)",
+     "license": "Public domain",
+     "title": "KIC_8462852_in_IR_and_UV.png"
+    }
+   ],
+   "categories": [
+    "science-cosmos",
+    "anomalies",
+    "aliens-ufo"
+   ],
+   "threads": []
+  },
+  {
+   "id": "crop-circles",
+   "title": "Crop circles",
+   "lane": "history",
+   "status": "debunked",
+   "priority": 3,
+   "start": 1976,
+   "end": 1991,
+   "evidenceTypes": [
+    "documentary"
+   ],
+   "mainstream": "Doug Bower and Dave Chorley admitted in 1991 to making many English crop circles from 1976; most circles are attributed to people.",
+   "alternatives": [
+    {
+     "label": "Paranormal origin",
+     "text": "Some still attribute certain formations to unknown energies or UFOs."
+    }
+   ],
+   "changed": "1991: Bower and Chorley demonstrate their methods.",
+   "sources": [
+    {
+     "title": "Wikipedia: Crop circle",
+     "url": "https://en.wikipedia.org/wiki/Crop_circle",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/CropCircleW.jpg/500px-CropCircleW.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:CropCircleW.jpg",
+     "author": "Jabberocky",
+     "license": "Public domain",
+     "title": "CropCircleW.jpg"
+    }
+   ],
+   "categories": [
+    "hoaxes",
+    "anomalies"
+   ],
+   "threads": [
+    "hoaxes-exposed"
+   ]
+  },
+  {
+   "id": "cottingley-fairies",
+   "title": "Cottingley Fairies",
+   "lane": "history",
+   "status": "debunked",
+   "priority": 3,
+   "start": 1917,
+   "end": 1983,
+   "evidenceTypes": [
+    "photographic"
+   ],
+   "mainstream": "Photographs taken by two girls in 1917 appeared to show fairies; endorsed by Arthur Conan Doyle, they were admitted in 1983 to be faked with paper cut-outs.",
+   "alternatives": [],
+   "sources": [
+    {
+     "title": "Wikipedia: Cottingley Fairies",
+     "url": "https://en.wikipedia.org/wiki/Cottingley_Fairies",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [],
+   "categories": [
+    "hoaxes"
+   ],
+   "threads": [
+    "hoaxes-exposed"
+   ]
   }
  ]
 }
