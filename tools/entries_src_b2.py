@@ -109,7 +109,7 @@ X('vimanas','Vimanas (flying chariots in Indian texts)',M,'myth-legend',3,-300,[
  [('Ancient aircraft','Some claim they describe real ancient aircraft; the 20th-century "Vaimanika Shastra" text cited for this was shown by a 1974 IISc study to be aeronautically unworkable.')],['wiki:Vimana'],'Vimana'),
 X('dogon-sirius','Dogon and Sirius B',M,'disputed',3,1950,['ethnographic','oral tradition'],
  'Griaule and Dieterlen reported (1950s) that the Dogon of Mali knew of Sirius\'s invisible companion. Anthropologist Walter van Beek\'s 1991 restudy found no such knowledge among the Dogon.',
- [('Ancient contact','Robert Temple\'s "The Sirius Mystery" (1976) argued it came from extraterrestrials.'),('Cultural contamination','Others suggest Western astronomy reached the Dogon before Griaule\'s work.')],['doi:10.1086/203952','wiki:Dogon_people'],None),
+ [('Ancient contact','Robert Temple\'s "The Sirius Mystery" (1976) argued it came from extraterrestrials.'),('Cultural contamination','Others suggest Western astronomy reached the Dogon before Griaule\'s work.')],['doi:10.1086/203932','wiki:Dogon_people'],None),
 X('nephilim','Nephilim (Genesis 6)',M,'myth-legend',2,-600,['textual'],
  'Genesis 6:1–4 mentions "sons of God" and the Nephilim; 1 Enoch expands this into the Watchers story. Interpretations vary between fallen angels, human lineages and giants.',
  [('Ancient-astronaut reading','Some modern writers interpret them as extraterrestrial or hybrid beings (speculative).')],['wiki:Nephilim'],'Nephilim'),

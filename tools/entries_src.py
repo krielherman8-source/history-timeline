@@ -182,3 +182,8 @@ dict(id='eht-m87',title='First image of a black hole (M87*)',lane=H,status='conf
  main='In April 2019 the Event Horizon Telescope collaboration published the first image of a black hole’s shadow, in galaxy M87.',alts=[],
  src=['doi:10.3847/2041-8213/ab0ec7','wiki:Event_Horizon_Telescope'],img='Messier_87'),
 ]
+
+try:
+  from entries_src_b2 import E as _B2
+  E+=_B2
+except ImportError: pass
