@@ -169,3 +169,16 @@ dict(id='gunung-padang',title='Gunung Padang "oldest pyramid" claim',lane=H,stat
  main='A 2023 paper claimed parts of the Indonesian site were built over 20,000 years ago; the journal retracted it in 2024 because the dated soil was not shown to be connected to human activity.',
  alts=[('Proponents','The authors and supporters maintain an ancient construction date.')],changed='2023: published; 2024: retracted.',src=['doi:10.1002/arp.1912','wiki:Gunung_Padang'],img='Gunung_Padang'),
 ]
+E+=[
+dict(id='oumuamua',title='ʻOumuamua: first known interstellar object',lane=H,status='confirmed',priority=2,start=2017,ev=['observational/astronomical'],
+ main='Discovered in October 2017 by Pan-STARRS in Hawaii, ʻOumuamua was the first object confirmed to come from outside the Solar System; it was small, elongated and showed slight non-gravitational acceleration.',
+ alts=[('Natural origin explanations','Researchers have proposed outgassing of hydrogen or nitrogen ice, among other natural causes, for the acceleration.'),('Artificial origin (minority view)','Astronomer Avi Loeb suggested it could be an artificial light-sail; most astronomers consider a natural origin far more likely.')],
+ src=['doi:10.1038/nature25020','wiki:ʻOumuamua'],img='ʻOumuamua'),
+dict(id='uap-hearing-2023',title='US House hearing on UAP (UFOs)',lane=H,status='disputed',priority=2,start=2023,ev=['testimony','documentary'],
+ main='On 26 July 2023 a US House Oversight subcommittee held a hearing on unidentified anomalous phenomena. That the hearing and testimony happened is confirmed; claims made in it (e.g. of recovered non-human craft) are unverified and were denied by the US Department of Defense.',
+ alts=[('Disclosure view','Some witnesses and supporters argue the government holds evidence of non-human technology.'),('Sceptical view','Officials and many scientists say no verifiable evidence of extraterrestrial technology has been presented.')],
+ src=['url:https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/|House Oversight Committee hearing page: Unidentified Anomalous Phenomena (26 July 2023)|government record','wiki:Unidentified_anomalous_phenomena'],img=None),
+dict(id='eht-m87',title='First image of a black hole (M87*)',lane=H,status='confirmed',priority=3,start=2019,ev=['observational/astronomical'],
+ main='In April 2019 the Event Horizon Telescope collaboration published the first image of a black hole’s shadow, in galaxy M87.',alts=[],
+ src=['doi:10.3847/2041-8213/ab0ec7','wiki:Event_Horizon_Telescope'],img='Messier_87'),
+]

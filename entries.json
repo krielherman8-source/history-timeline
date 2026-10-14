@@ -2340,6 +2340,145 @@
     "lost-civilisations",
     "changed-understanding"
    ]
+  },
+  {
+   "id": "oumuamua",
+   "title": "ʻOumuamua: first known interstellar object",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 2017,
+   "end": null,
+   "evidenceTypes": [
+    "observational/astronomical"
+   ],
+   "mainstream": "Discovered in October 2017 by Pan-STARRS in Hawaii, ʻOumuamua was the first object confirmed to come from outside the Solar System; it was small, elongated and showed slight non-gravitational acceleration.",
+   "alternatives": [
+    {
+     "label": "Natural origin explanations",
+     "text": "Researchers have proposed outgassing of hydrogen or nitrogen ice, among other natural causes, for the acceleration."
+    },
+    {
+     "label": "Artificial origin (minority view)",
+     "text": "Astronomer Avi Loeb suggested it could be an artificial light-sail; most astronomers consider a natural origin far more likely."
+    }
+   ],
+   "sources": [
+    {
+     "title": "A brief visit from a red and extremely elongated interstellar asteroid",
+     "authors": "Meech, K. et al.",
+     "year": 2017,
+     "doi": "10.1038/nature25020",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: 1I/ʻOumuamua",
+     "url": "https://en.wikipedia.org/wiki/1I%2F%CA%BBOumuamua",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/A2017U1_5gsmoothWHT_enhanced.jpg/500px-A2017U1_5gsmoothWHT_enhanced.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:A2017U1_5gsmoothWHT_enhanced.jpg",
+     "author": "Alan Fitzsimmons (Astrophysics Research Centre, Queen's University Belfast), Isaac Newton Group (https://www.ing.iac.es/",
+     "license": "Public domain",
+     "title": "A2017U1_5gsmoothWHT_enhanced.jpg"
+    }
+   ],
+   "categories": [
+    "science-cosmos",
+    "anomalies"
+   ],
+   "threads": []
+  },
+  {
+   "id": "uap-hearing-2023",
+   "title": "US House hearing on UAP (UFOs)",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 2023,
+   "end": null,
+   "evidenceTypes": [
+    "testimony",
+    "documentary"
+   ],
+   "mainstream": "On 26 July 2023 a US House Oversight subcommittee held a hearing on unidentified anomalous phenomena. That the hearing and testimony happened is confirmed; claims made in it (e.g. of recovered non-human craft) are unverified and were denied by the US Department of Defense.",
+   "alternatives": [
+    {
+     "label": "Disclosure view",
+     "text": "Some witnesses and supporters argue the government holds evidence of non-human technology."
+    },
+    {
+     "label": "Sceptical view",
+     "text": "Officials and many scientists say no verifiable evidence of extraterrestrial technology has been presented."
+    }
+   ],
+   "sources": [
+    {
+     "title": "House Oversight Committee hearing page: Unidentified Anomalous Phenomena (26 July 2023)",
+     "url": "https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/",
+     "type": "government record"
+    },
+    {
+     "title": "Wikipedia: Unidentified flying object",
+     "url": "https://en.wikipedia.org/wiki/Unidentified_flying_object",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [],
+   "categories": [
+    "aliens-ufo",
+    "anomalies",
+    "history"
+   ],
+   "threads": [
+    "sky-beings"
+   ]
+  },
+  {
+   "id": "eht-m87",
+   "title": "First image of a black hole (M87*)",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 3,
+   "start": 2019,
+   "end": null,
+   "evidenceTypes": [
+    "observational/astronomical"
+   ],
+   "mainstream": "In April 2019 the Event Horizon Telescope collaboration published the first image of a black hole’s shadow, in galaxy M87.",
+   "alternatives": [],
+   "sources": [
+    {
+     "title": "First M87 Event Horizon Telescope Results. I. The Shadow of the Supermassive Black Hole",
+     "authors": " et al.",
+     "year": 2019,
+     "doi": "10.3847/2041-8213/ab0ec7",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: Event Horizon Telescope",
+     "url": "https://en.wikipedia.org/wiki/Event_Horizon_Telescope",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Messier_87_Hubble_WikiSky.jpg/500px-Messier_87_Hubble_WikiSky.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Messier_87_Hubble_WikiSky.jpg",
+     "author": "en:NASA, en:STScI, en:WikiSky",
+     "license": "Public domain",
+     "title": "Messier_87_Hubble_WikiSky.jpg"
+    }
+   ],
+   "categories": [
+    "science-cosmos"
+   ],
+   "threads": []
   }
  ]
 }

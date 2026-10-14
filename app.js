@@ -1,9 +1,10 @@
 (function(){
 var D=window.TIMELINE_DATA,c=document.getElementById('c'),x=c.getContext('2d'),side=document.getElementById('side'),content=document.getElementById('content');
 document.getElementById('close').onclick=function(){side.classList.remove('open');};
-var NOW=new Date().getFullYear();
-function toU(y){return Math.log10(Math.max(NOW-y,1));} // u = log10(years ago)
-var U_LO=-0.2,U_HI=10.4,MIN_SPAN=0.002,MAX_SPAN=U_HI-U_LO;
+var _d=new Date(),NOW=_d.getFullYear()+(_d-new Date(_d.getFullYear(),0,1))/31557600000,NOWY=_d.getFullYear(); // fractional current year
+var OFF=1; // u = log10(years before now + OFF): keeps the present finite and the last decades zoomable
+function toU(y){return Math.log10(Math.max(NOW-y,0)+OFF);}
+var U_LO=-0.02,U_HI=10.4,MIN_SPAN=0.002,MAX_SPAN=U_HI-U_LO;
 var uMin=U_LO,uMax=U_HI,W=0,H=0,hits=[],raf=0;
 function clamp(){var s=uMax-uMin;if(s<MIN_SPAN){var m=(uMin+uMax)/2;uMin=m-MIN_SPAN/2;uMax=m+MIN_SPAN/2;s=MIN_SPAN;}
  if(s>MAX_SPAN){uMin=U_LO;uMax=U_HI;return;}if(uMin<U_LO){uMax+=U_LO-uMin;uMin=U_LO;}if(uMax>U_HI){uMin-=uMax-U_HI;uMax=U_HI;}}
@@ -25,14 +26,15 @@ function visible(e){return on('st',e.status)&&on('lane',e.lane)&&(e.categories||
 function save(){try{localStorage.setItem('tl-filters',JSON.stringify(F));}catch(_){}}
 var CAL=1e5; // below this many years ago, ticks/labels use round calendar years
 function lbl(t){if(t.y!=null)return t.y<0?(-t.y)+' BCE':t.y+' CE';var ya=t.v;if(ya>=1e9)return+(ya/1e9).toPrecision(3)+' Bya';if(ya>=1e6)return+(ya/1e6).toPrecision(3)+' Mya';return+(ya/1e3).toPrecision(4)+' kya';}
-function ticks(){var a=Math.pow(10,Math.max(uMin,0)),b=Math.pow(10,uMax),out=[],seen={};
- for(var p=Math.ceil(uMax);p>=0;p--){[1,5,2].forEach(function(m){var s=m*Math.pow(10,p);
+function ticks(){var a=Math.max(Math.pow(10,uMin)-OFF,0),b=Math.pow(10,uMax)-OFF,out=[],seen={};
+ var steps=[];for(var p=Math.ceil(uMax);p>=0;p--)[5,2,1].forEach(function(m){steps.push(m*Math.pow(10,p));});
+ steps.forEach(function(s){(function(){
   var cal=s<CAL; // calendar-year grid
   var lo=cal?NOW-Math.min(b,CAL):Math.max(a,CAL),hi=cal?NOW-a:b;if(lo>hi)return;
   var vals=[];if((hi-lo)/s<=300){for(var v=Math.ceil(lo/s)*s;v<=hi;v+=s)vals.push(v);}
   else for(var k=-9;k<10;k++){var v2=k*s;if(v2>=lo&&v2<=hi)vals.push(v2);}
   vals.forEach(function(v){var key=(cal?'y':'a')+v;if(seen[key])return;seen[key]=1;
-   out.push(cal?{y:v===0?1:v,u:Math.log10(Math.max(NOW-(v===0?1:v),1))}:{v:v,u:Math.log10(v)});});});}
+   if(cal&&v>NOWY)return;out.push(cal?{y:v===0?1:v,u:toU(v===0?1:v)}:{v:v,u:Math.log10(v+OFF)});});})();});
  return out;} // coarse->fine: rounder values claim label space first
 function draw(){x.setTransform(window.devicePixelRatio||1,0,0,window.devicePixelRatio||1,0,0);x.fillStyle='#000';x.fillRect(0,0,W,H);
  var L=Math.round(H/2)+0.5;hits=[];
@@ -45,7 +47,7 @@ function draw(){x.setTransform(window.devicePixelRatio||1,0,0,window.devicePixel
  x.textAlign='left';x.font='12px sans-serif';var labels=[],rows=[],RH=18,maxRows=Math.max(2,Math.floor((H/2-28-150)/RH)+1);
  var eff=(uMax-uMin)*390/Math.max(W,1),level=eff>6?1:eff>2.5?2:3;
  D.entries.filter(visible).sort(function(m,n){return(m.priority||2)-(n.priority||2)||m.start-n.start;}).forEach(function(e){var a=px(toU(e.start)),b=e.end!=null?px(toU(e.end)):a;
-  if(Math.max(a,b)<-200||Math.min(a,b)>W+10)return;
+  if(Math.max(a,b)<-8||Math.min(a,b)>W+8)return;
   var dim=F.thread&&(e.threads||[]).indexOf(F.thread)<0,pr=e.priority||2,show=pr<=level||(F.thread&&!dim),col=(ST[e.status]||['#ccc'])[0],myth=e.lane==='myth',R=show?6:3.5;x.fillStyle=col;x.globalAlpha=dim?0.2:1;
   if(show&&b-a>2){x.globalAlpha=.4;x.fillRect(Math.max(a,0),L-3,Math.min(b,W)-Math.max(a,0),6);x.globalAlpha=1;}
   x.globalAlpha=dim?0.2:1;x.beginPath();if(myth){x.moveTo(a,L-R-1);x.lineTo(a+R+1,L);x.lineTo(a,L+R+1);x.lineTo(a-R-1,L);}else x.arc(a,L,R,0,7);x.fill();

@@ -3,6 +3,8 @@ Canonical data: `entries.json`. `data.js` is generated from it (lets index.html 
 `python3 -c "import json;d=json.load(open('entries.json'));open('data.js','w').write('window.TIMELINE_DATA='+json.dumps(d,ensure_ascii=False)+';')"`
 Filter choices persist in the browser (localStorage key `tl-filters`). Bump `?v=N` on the script tags in index.html after changes (phone cache-busting).
 
+Scale: x = log10(years before now + 1), with "now" computed from the browser clock (fractional year), so the present is reachable and recent decades zoom linearly-ish.
+
 Entry fields:
 - `id` (unique), `title`, `lane`: `"history"` | `"myth"` (marker shape: circle / diamond)
 - `status`: `confirmed` | `disputed` | `hypothesis` | `debunked` | `myth-legend` (marker colour + badge)
