@@ -2479,6 +2479,446 @@
     "science-cosmos"
    ],
    "threads": []
+  },
+  {
+   "id": "kenneth-arnold",
+   "title": "Kenneth Arnold sighting (\"flying saucers\")",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 1947,
+   "end": null,
+   "evidenceTypes": [
+    "eyewitness"
+   ],
+   "mainstream": "On 24 June 1947 pilot Kenneth Arnold reported nine fast objects near Mount Rainier; press coverage coined \"flying saucer\". The sighting is documented; what he saw is unexplained.",
+   "alternatives": [
+    {
+     "label": "Conventional explanations",
+     "text": "Proposed explanations include mirages, birds, or aircraft."
+    },
+    {
+     "label": "Extraterrestrial craft",
+     "text": "Some UFO researchers regard it as an early sighting of non-human craft."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Kenneth Arnold UFO sighting",
+     "url": "https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Chicago_Sun_1947-06-26-2_Flying_Saucer_headline-th.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Chicago_Sun_1947-06-26-2_Flying_Saucer_headline-th.jpg",
+     "author": "UPI",
+     "license": "Public domain",
+     "title": "Chicago_Sun_1947-06-26-2_Flying_Saucer_headline-th.jpg"
+    }
+   ],
+   "categories": [
+    "aliens-ufo",
+    "anomalies"
+   ],
+   "threads": [
+    "ufo-encounters"
+   ]
+  },
+  {
+   "id": "roswell",
+   "title": "Roswell incident",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 1,
+   "start": 1947,
+   "end": null,
+   "evidenceTypes": [
+    "documentary",
+    "testimony"
+   ],
+   "mainstream": "In July 1947 debris was recovered near Roswell, New Mexico; the US Air Force later (1994–97 reports) identified it as from Project Mogul, a classified balloon programme.",
+   "alternatives": [
+    {
+     "label": "Crashed alien craft",
+     "text": "Many UFO researchers and witnesses since the late 1970s claim an alien spacecraft and bodies were recovered and covered up."
+    }
+   ],
+   "changed": "1947: Army announces a \"flying disc\", then a weather balloon. Late 1970s: interest revives with alien-crash claims. 1994–1997: USAF reports attribute debris to Project Mogul.",
+   "sources": [
+    {
+     "title": "Wikipedia: Roswell incident",
+     "url": "https://en.wikipedia.org/wiki/Roswell_incident",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Roswell_Daily_Record._July_8%2C_1947._RAAF_Captures_Flying_Saucer_On_Ranch_in_Roswell_Region._Top_of_front_page.jpg/500px-Roswell_Daily_Record._July_8%2C_1947._RAAF_Captures_Flying_Saucer_On_Ranch_in_Roswell_Region._Top_of_front_page.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Roswell_Daily_Record._July_8,_1947._RAAF_Captures_Flying_Saucer_On_Ranch_in_Roswell_Region._Top_of_front_page.jpg",
+     "author": "Roswell Daily Record.",
+     "license": "Public domain",
+     "title": "Roswell_Daily_Record._July_8,_1947._RAAF_Captures_Flying_Saucer_On_Ranch_in_Roswell_Region._Top_of_front_page.jpg"
+    }
+   ],
+   "categories": [
+    "aliens-ufo",
+    "anomalies",
+    "history"
+   ],
+   "threads": [
+    "changed-understanding",
+    "ufo-encounters"
+   ]
+  },
+  {
+   "id": "project-blue-book",
+   "title": "Project Blue Book",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 3,
+   "start": 1952,
+   "end": 1969,
+   "evidenceTypes": [
+    "documentary"
+   ],
+   "mainstream": "US Air Force programme that investigated over 12,000 UFO reports; most were explained, a minority remained \"unidentified\". Closed in 1969 after the Condon Report.",
+   "alternatives": [
+    {
+     "label": "Cover-up view",
+     "text": "Some critics argue the project was designed to debunk rather than investigate."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Project Blue Book",
+     "url": "https://en.wikipedia.org/wiki/Project_Blue_Book",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Project Blue Book – Unidentified Flying Objects (US National Archives)",
+     "url": "https://www.archives.gov/research/military/air-force/ufos",
+     "type": "government record"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Project_Blue_Book%2C_complete_status_reports.pdf/page1-500px-Project_Blue_Book%2C_complete_status_reports.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Project_Blue_Book,_complete_status_reports.pdf",
+     "author": "US Air Force",
+     "license": "Public domain",
+     "title": "Project_Blue_Book,_complete_status_reports.pdf"
+    }
+   ],
+   "categories": [
+    "aliens-ufo",
+    "history"
+   ],
+   "threads": [
+    "ufo-encounters"
+   ]
+  },
+  {
+   "id": "betty-barney-hill",
+   "title": "Betty and Barney Hill abduction claim",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 1961,
+   "end": null,
+   "evidenceTypes": [
+    "testimony"
+   ],
+   "mainstream": "The Hills reported a UFO sighting in New Hampshire in September 1961 and later, under hypnosis, described an abduction — the first widely publicised abduction account.",
+   "alternatives": [
+    {
+     "label": "Sceptical view",
+     "text": "Psychologists note hypnosis can create false memories and suggest cultural influences."
+    },
+    {
+     "label": "Genuine abduction",
+     "text": "Supporters regard their account, including Betty Hill's \"star map\", as evidence of contact."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Barney and Betty Hill incident",
+     "url": "https://en.wikipedia.org/wiki/Barney_and_Betty_Hill_incident",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [],
+   "categories": [
+    "aliens-ufo"
+   ],
+   "threads": [
+    "sky-beings",
+    "ufo-encounters"
+   ]
+  },
+  {
+   "id": "chariots-of-the-gods",
+   "title": "Ancient astronauts (Chariots of the Gods?)",
+   "lane": "history",
+   "status": "hypothesis",
+   "priority": 1,
+   "start": 1968,
+   "end": null,
+   "evidenceTypes": [
+    "speculative"
+   ],
+   "mainstream": "Erich von Däniken's 1968 book popularised the claim that extraterrestrials visited ancient peoples and inspired monuments and religions. Archaeologists widely reject it as pseudoarchaeology.",
+   "alternatives": [
+    {
+     "label": "Ancient astronaut theory",
+     "text": "Proponents cite Nazca lines, pyramids and sacred texts as evidence of ancient contact."
+    },
+    {
+     "label": "Criticism",
+     "text": "Critics note factual errors and argue it underestimates ancient peoples' abilities."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Ancient astronauts",
+     "url": "https://en.wikipedia.org/wiki/Ancient_astronauts",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Chariots of the Gods?",
+     "url": "https://en.wikipedia.org/wiki/Chariots_of_the_Gods%3F",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [],
+   "categories": [
+    "aliens-ufo",
+    "lost-civilisations"
+   ],
+   "threads": [
+    "lost-civilisations",
+    "sky-beings"
+   ]
+  },
+  {
+   "id": "rendlesham",
+   "title": "Rendlesham Forest incident",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 1980,
+   "end": null,
+   "evidenceTypes": [
+    "testimony",
+    "documentary"
+   ],
+   "mainstream": "In December 1980 US Air Force personnel near RAF Woodbridge, England, reported lights and a craft in Rendlesham Forest; Lt Col Halt's memo documents the reports.",
+   "alternatives": [
+    {
+     "label": "Sceptical view",
+     "text": "Investigators suggest the Orford Ness lighthouse, a bright meteor and stars as explanations."
+    },
+    {
+     "label": "UFO landing",
+     "text": "Some witnesses maintain they encountered a craft of unknown origin."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Rendlesham Forest incident",
+     "url": "https://en.wikipedia.org/wiki/Rendlesham_Forest_incident",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/RAF_Woodbridge_East_Gate.jpg/500px-RAF_Woodbridge_East_Gate.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:RAF_Woodbridge_East_Gate.jpg",
+     "author": "Taras Young",
+     "license": "CC BY-SA 4.0",
+     "title": "RAF_Woodbridge_East_Gate.jpg"
+    }
+   ],
+   "categories": [
+    "aliens-ufo",
+    "anomalies"
+   ],
+   "threads": [
+    "ufo-encounters"
+   ]
+  },
+  {
+   "id": "phoenix-lights",
+   "title": "Phoenix Lights",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 3,
+   "start": 1997,
+   "end": null,
+   "evidenceTypes": [
+    "eyewitness",
+    "video"
+   ],
+   "mainstream": "On 13 March 1997 thousands reported lights over Arizona. The later lights were attributed by the US military to flares dropped during an exercise; the earlier V-shaped formation is attributed by many to aircraft.",
+   "alternatives": [
+    {
+     "label": "Unexplained craft",
+     "text": "Some witnesses, including then-governor Fife Symington (later), describe a huge structured craft."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Phoenix Lights",
+     "url": "https://en.wikipedia.org/wiki/Phoenix_Lights",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [],
+   "categories": [
+    "aliens-ufo",
+    "anomalies"
+   ],
+   "threads": [
+    "ufo-encounters"
+   ]
+  },
+  {
+   "id": "nimitz-tic-tac",
+   "title": "USS Nimitz \"Tic Tac\" encounter",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 2004,
+   "end": null,
+   "evidenceTypes": [
+    "testimony",
+    "sensor data",
+    "video"
+   ],
+   "mainstream": "In November 2004 US Navy pilots from the Nimitz carrier group reported a fast white object; infrared video (\"FLIR1\") was released in 2017 and acknowledged by the Navy in 2020.",
+   "alternatives": [
+    {
+     "label": "Sceptical view",
+     "text": "Analysts have proposed sensor artefacts or misidentified aircraft."
+    },
+    {
+     "label": "Advanced unknown technology",
+     "text": "Some pilots and researchers say its performance exceeds known technology."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Pentagon UFO videos",
+     "url": "https://en.wikipedia.org/wiki/Pentagon_UFO_videos",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [],
+   "categories": [
+    "aliens-ufo",
+    "anomalies"
+   ],
+   "threads": [
+    "ufo-encounters"
+   ]
+  },
+  {
+   "id": "fermi-paradox",
+   "title": "Fermi paradox (\"Where is everybody?\")",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 3,
+   "start": 1950,
+   "end": null,
+   "evidenceTypes": [
+    "theoretical"
+   ],
+   "mainstream": "In 1950 Enrico Fermi asked why, if intelligent life is common, there is no evidence of it. The question is real; proposed answers range from rarity of life to self-destruction to deliberate silence.",
+   "alternatives": [
+    {
+     "label": "Rare Earth",
+     "text": "Complex life may be very rare."
+    },
+    {
+     "label": "Zoo / hidden contact",
+     "text": "Some propose aliens avoid contact or are already present (speculative)."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Fermi paradox",
+     "url": "https://en.wikipedia.org/wiki/Fermi_paradox",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Enrico_Fermi_1943-49.jpg/500px-Enrico_Fermi_1943-49.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Enrico_Fermi_1943-49.jpg",
+     "author": "Department of Energy-Office of Public Affairs, restored by Yann",
+     "license": "Public domain",
+     "title": "Enrico_Fermi_1943-49.jpg"
+    }
+   ],
+   "categories": [
+    "science-cosmos",
+    "aliens-ufo"
+   ],
+   "threads": []
+  },
+  {
+   "id": "wow-signal",
+   "title": "Wow! signal",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 1977,
+   "end": null,
+   "evidenceTypes": [
+    "observational/radio"
+   ],
+   "mainstream": "A strong narrowband radio signal detected by Ohio State's Big Ear telescope on 15 August 1977; it was never detected again and its origin is unknown.",
+   "alternatives": [
+    {
+     "label": "Natural source",
+     "text": "Proposals include hydrogen-cloud emission or interference."
+    },
+    {
+     "label": "Artificial origin",
+     "text": "Some consider it a possible extraterrestrial transmission."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Wow! signal",
+     "url": "https://en.wikipedia.org/wiki/Wow!_signal",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Wow_signal.jpg/500px-Wow_signal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Wow_signal.jpg",
+     "author": "Credit: Big Ear Radio Observatory and North American AstroPhysical Observatory (NAAPO).",
+     "license": "Public domain",
+     "title": "Wow_signal.jpg"
+    }
+   ],
+   "categories": [
+    "science-cosmos",
+    "aliens-ufo",
+    "anomalies"
+   ],
+   "threads": [
+    "ufo-encounters"
+   ]
   }
  ]
 }
