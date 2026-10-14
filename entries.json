@@ -3786,6 +3786,355 @@
     "science-cosmos"
    ],
    "threads": []
+  },
+  {
+   "id": "wegener",
+   "title": "Wegener proposes continental drift",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 3,
+   "start": 1912,
+   "end": null,
+   "evidenceTypes": [
+    "textual"
+   ],
+   "mainstream": "Alfred Wegener presented continental drift in 1912; widely rejected for decades, it was vindicated by plate tectonics in the 1960s.",
+   "alternatives": [],
+   "sources": [
+    {
+     "title": "Wikipedia: Alfred Wegener",
+     "url": "https://en.wikipedia.org/wiki/Alfred_Wegener",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Alfred_Wegener_ca.1924-30.jpg/500px-Alfred_Wegener_ca.1924-30.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Alfred_Wegener_ca.1924-30.jpg",
+     "author": "Unknown authorUnknown author",
+     "license": "Public domain",
+     "title": "Alfred_Wegener_ca.1924-30.jpg"
+    }
+   ],
+   "categories": [
+    "science-cosmos"
+   ],
+   "threads": [
+    "changed-understanding"
+   ]
+  },
+  {
+   "id": "anunnaki",
+   "title": "Anunnaki: scholarship vs ancient-astronaut claims",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": -2100,
+   "end": null,
+   "evidenceTypes": [
+    "textual",
+    "speculative"
+   ],
+   "mainstream": "The Anunnaki are a group of deities in Mesopotamian texts. Assyriologists read them as gods within Sumerian/Akkadian religion.",
+   "alternatives": [
+    {
+     "label": "Sitchin's claims",
+     "text": "Zecharia Sitchin (1976) claimed they were extraterrestrials from a planet \"Nibiru\" who created humans; Assyriologists reject his translations."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Anunnaki",
+     "url": "https://en.wikipedia.org/wiki/Anunnaki",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Zecharia Sitchin",
+     "url": "https://en.wikipedia.org/wiki/Zecharia_Sitchin",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Ea_%28Babilonian%29_-_EnKi_%28Sumerian%29.jpg/500px-Ea_%28Babilonian%29_-_EnKi_%28Sumerian%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Ea_(Babilonian)_-_EnKi_(Sumerian).jpg",
+     "author": "Unknown",
+     "license": "Public domain",
+     "title": "Ea_(Babilonian)_-_EnKi_(Sumerian).jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion",
+    "aliens-ufo"
+   ],
+   "threads": [
+    "sky-beings"
+   ]
+  },
+  {
+   "id": "vimanas",
+   "title": "Vimanas (flying chariots in Indian texts)",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 3,
+   "start": -300,
+   "end": null,
+   "evidenceTypes": [
+    "textual",
+    "speculative"
+   ],
+   "mainstream": "Flying palaces or chariots of gods appear in Sanskrit epics such as the Ramayana (e.g. the Pushpaka vimana).",
+   "alternatives": [
+    {
+     "label": "Ancient aircraft",
+     "text": "Some claim they describe real ancient aircraft; the 20th-century \"Vaimanika Shastra\" text cited for this was shown by a 1974 IISc study to be aeronautically unworkable."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Vimana",
+     "url": "https://en.wikipedia.org/wiki/Vimana",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/The_Celestial_Chariot_%286124515635%29.jpg/500px-The_Celestial_Chariot_%286124515635%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:The_Celestial_Chariot_(6124515635).jpg",
+     "author": "thesandiegomuseumofartcollection",
+     "license": "Public domain",
+     "title": "The_Celestial_Chariot_(6124515635).jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion",
+    "aliens-ufo"
+   ],
+   "threads": [
+    "sky-beings"
+   ]
+  },
+  {
+   "id": "dogon-sirius",
+   "title": "Dogon and Sirius B",
+   "lane": "myth",
+   "status": "disputed",
+   "priority": 3,
+   "start": 1950,
+   "end": null,
+   "evidenceTypes": [
+    "ethnographic",
+    "oral tradition"
+   ],
+   "mainstream": "Griaule and Dieterlen reported (1950s) that the Dogon of Mali knew of Sirius's invisible companion. Anthropologist Walter van Beek's 1991 restudy found no such knowledge among the Dogon.",
+   "alternatives": [
+    {
+     "label": "Ancient contact",
+     "text": "Robert Temple's \"The Sirius Mystery\" (1976) argued it came from extraterrestrials."
+    },
+    {
+     "label": "Cultural contamination",
+     "text": "Others suggest Western astronomy reached the Dogon before Griaule's work."
+    }
+   ],
+   "sources": [
+    {
+     "title": "The Human Community as a Primate Society [and Comments]",
+     "authors": "Rodseth, L. et al.",
+     "year": 1991,
+     "doi": "10.1086/203952",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: Dogon people",
+     "url": "https://en.wikipedia.org/wiki/Dogon_people",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [],
+   "categories": [
+    "myth-legend",
+    "aliens-ufo",
+    "science-cosmos"
+   ],
+   "threads": [
+    "sky-beings"
+   ]
+  },
+  {
+   "id": "nephilim",
+   "title": "Nephilim (Genesis 6)",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": -600,
+   "end": null,
+   "evidenceTypes": [
+    "textual"
+   ],
+   "mainstream": "Genesis 6:1–4 mentions \"sons of God\" and the Nephilim; 1 Enoch expands this into the Watchers story. Interpretations vary between fallen angels, human lineages and giants.",
+   "alternatives": [
+    {
+     "label": "Ancient-astronaut reading",
+     "text": "Some modern writers interpret them as extraterrestrial or hybrid beings (speculative)."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Nephilim",
+     "url": "https://en.wikipedia.org/wiki/Nephilim",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [],
+   "categories": [
+    "religion",
+    "myth-legend"
+   ],
+   "threads": [
+    "sky-beings"
+   ]
+  },
+  {
+   "id": "ezekiel-wheel",
+   "title": "Ezekiel's vision of the wheels",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 3,
+   "start": -590,
+   "end": null,
+   "evidenceTypes": [
+    "textual"
+   ],
+   "mainstream": "The prophet Ezekiel describes a vision of living creatures and wheels (Ezekiel 1); traditionally interpreted theologically.",
+   "alternatives": [
+    {
+     "label": "Spacecraft interpretation",
+     "text": "NASA engineer Josef Blumrich's 1974 book argued it described a spacecraft; biblical scholars reject this."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Merkabah mysticism",
+     "url": "https://en.wikipedia.org/wiki/Merkabah_mysticism",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [],
+   "categories": [
+    "religion",
+    "aliens-ufo"
+   ],
+   "threads": [
+    "sky-beings"
+   ]
+  },
+  {
+   "id": "miracle-of-sun",
+   "title": "Miracle of the Sun (Fátima)",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 3,
+   "start": 1917,
+   "end": null,
+   "evidenceTypes": [
+    "eyewitness"
+   ],
+   "mainstream": "On 13 October 1917 a crowd at Fátima, Portugal, reported the sun dancing; the Catholic Church approved it as worthy of belief.",
+   "alternatives": [
+    {
+     "label": "Sceptical view",
+     "text": "Scientists suggest optical effects from staring at the sun, or mass suggestion."
+    },
+    {
+     "label": "UFO reading",
+     "text": "Some UFO writers interpret it as a sighting."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Miracle of the Sun",
+     "url": "https://en.wikipedia.org/wiki/Miracle_of_the_Sun",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [],
+   "categories": [
+    "religion",
+    "anomalies"
+   ],
+   "threads": []
+  },
+  {
+   "id": "loch-ness",
+   "title": "Loch Ness Monster and the \"surgeon's photograph\"",
+   "lane": "myth",
+   "status": "debunked",
+   "priority": 3,
+   "start": 1934,
+   "end": null,
+   "evidenceTypes": [
+    "photographic",
+    "eyewitness"
+   ],
+   "mainstream": "The famous 1934 photograph was revealed in 1994 to be a hoax using a toy submarine; a 2018 eDNA survey found no reptile DNA in the loch.",
+   "alternatives": [
+    {
+     "label": "Believers",
+     "text": "Sightings continue and some believe an unknown animal lives there."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Loch Ness Monster",
+     "url": "https://en.wikipedia.org/wiki/Loch_Ness_Monster",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [],
+   "categories": [
+    "hoaxes",
+    "myth-legend"
+   ],
+   "threads": [
+    "hoaxes-exposed"
+   ]
+  },
+  {
+   "id": "bigfoot-film",
+   "title": "Patterson–Gimlin Bigfoot film",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 3,
+   "start": 1967,
+   "end": null,
+   "evidenceTypes": [
+    "film"
+   ],
+   "mainstream": "A 1967 film shows a large ape-like figure in California; scientists generally consider it a person in a costume, though no costume has been conclusively produced.",
+   "alternatives": [
+    {
+     "label": "Genuine creature",
+     "text": "Some researchers argue the gait and proportions are not human."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Patterson–Gimlin film",
+     "url": "https://en.wikipedia.org/wiki/Patterson%E2%80%93Gimlin_film",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [],
+   "categories": [
+    "anomalies"
+   ],
+   "threads": []
   }
  ]
 }
