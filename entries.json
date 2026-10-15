@@ -5412,6 +5412,399 @@
    "threads": [
     "sky-beings"
    ]
+  },
+  {
+   "id": "westall-ufo",
+   "title": "Westall UFO encounter (1966)",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 1966,
+   "end": null,
+   "evidenceTypes": [
+    "eyewitness"
+   ],
+   "mainstream": "On 6 April 1966 hundreds of students and staff at Westall High School (Melbourne, Australia) reported a low-flying silver disc that landed in a nearby field then rose and departed. Official explanations proposed a balloon or aircraft; many witnesses disagree.",
+   "alternatives": [
+    {
+     "label": "Sceptical view",
+     "text": "Proposed prosaic causes include weather balloons or light aircraft."
+    },
+    {
+     "label": "Unknown craft",
+     "text": "Witnesses and some researchers maintain an unexplained craft was seen."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Westall UFO",
+     "url": "https://en.wikipedia.org/wiki/Westall_UFO",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/LocationAU.svg/500px-LocationAU.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:LocationAU.svg",
+     "author": "User:Kelvinc: based on Image:LocationUSA.svg by User:Rei-artur",
+     "license": "CC BY-SA 3.0",
+     "title": "LocationAU.svg"
+    }
+   ],
+   "categories": [
+    "aliens-ufo",
+    "anomalies"
+   ],
+   "threads": [
+    "ufo-encounters"
+   ]
+  },
+  {
+   "id": "ruwa-ariel",
+   "title": "Ariel School UFO encounter (Ruwa, 1994)",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 1994,
+   "end": null,
+   "evidenceTypes": [
+    "eyewitness"
+   ],
+   "mainstream": "On 16 September 1994 about 60 children at Ariel School near Ruwa, Zimbabwe, reported a landed craft and beings. Harvard psychiatrist John Mack interviewed pupils; explanations proposed include mass hysteria, a known meteor fireball that day, or a hoax.",
+   "alternatives": [
+    {
+     "label": "Sceptical view",
+     "text": "Critics cite contagion, expectation and a bright fireball reported over southern Africa that morning."
+    },
+    {
+     "label": "Contact experience",
+     "text": "Mack and some witnesses treated the children's accounts as genuine encounters."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Ariel School UFO incident",
+     "url": "https://en.wikipedia.org/wiki/Ariel_School_UFO_incident",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [],
+   "categories": [
+    "aliens-ufo",
+    "anomalies"
+   ],
+   "threads": [
+    "ufo-encounters"
+   ]
+  },
+  {
+   "id": "vela-incident",
+   "title": "Vela Incident",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 1979,
+   "end": null,
+   "evidenceTypes": [
+    "instrumental",
+    "documentary"
+   ],
+   "mainstream": "On 22 September 1979 a US Vela satellite detected a double flash over the southern Atlantic/Indian Ocean consistent with a nuclear test. The US government never confirmed a test; suspected parties include South Africa and/or Israel.",
+   "alternatives": [
+    {
+     "label": "Nuclear test",
+     "text": "Many analysts conclude a clandestine test occurred."
+    },
+    {
+     "label": "Non-nuclear explanation",
+     "text": "A 1980 scientific panel favoured a meteoroid striking the satellite; that view remains contested."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Vela incident",
+     "url": "https://en.wikipedia.org/wiki/Vela_incident",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [],
+   "categories": [
+    "anomalies",
+    "history",
+    "science-cosmos"
+   ],
+   "threads": [
+    "cosmic-impacts"
+   ]
+  },
+  {
+   "id": "mokele-mbembe",
+   "title": "Mokele-mbembe",
+   "lane": "myth",
+   "status": "disputed",
+   "priority": 3,
+   "start": 1776,
+   "end": null,
+   "evidenceTypes": [
+    "oral tradition",
+    "eyewitness"
+   ],
+   "mainstream": "Central African folklore describes a large water creature in the Congo Basin, popularised in the West as a possible living sauropod. No specimen or convincing evidence has been produced; biologists treat it as legend or misidentified animals.",
+   "alternatives": [
+    {
+     "label": "Living dinosaur (cryptozoology)",
+     "text": "Some cryptozoologists treat expedition anecdotes as evidence of a surviving dinosaur (speculative)."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Mokele-mbembe",
+     "url": "https://en.wikipedia.org/wiki/Mokele-mbembe",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [],
+   "categories": [
+    "myth-legend",
+    "anomalies"
+   ],
+   "threads": [
+    "cryptids"
+   ]
+  },
+  {
+   "id": "popobawa",
+   "title": "Popobawa",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 3,
+   "start": 1995,
+   "end": null,
+   "evidenceTypes": [
+    "oral tradition",
+    "testimony"
+   ],
+   "mainstream": "Popobawa is a shape-shifting spirit in Zanzibar folklore, associated with panic waves (notably 1995) in which people reported nocturnal attacks. Anthropologists study it as a social and psychological phenomenon.",
+   "alternatives": [],
+   "sources": [
+    {
+     "title": "Wikipedia: Popobawa",
+     "url": "https://en.wikipedia.org/wiki/Popobawa",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [],
+   "categories": [
+    "myth-legend"
+   ],
+   "threads": []
+  },
+  {
+   "id": "nyaminyami",
+   "title": "Nyaminyami (Zambezi river spirit)",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": 1950,
+   "end": null,
+   "dateNote": "Tradition older; dam-era events 1950s–60s",
+   "evidenceTypes": [
+    "oral tradition"
+   ],
+   "mainstream": "Nyaminyami is the Zambezi River god/serpent in Tonga tradition. Floods during Kariba Dam construction (1950s–60s) were widely linked by local people to the spirit's anger at separation from his wife.",
+   "alternatives": [],
+   "sources": [
+    {
+     "title": "Wikipedia: Nyami Nyami",
+     "url": "https://en.wikipedia.org/wiki/Nyami_Nyami",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Nyaminyami.jpg/500px-Nyaminyami.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Nyaminyami.jpg",
+     "author": "Mangwanani",
+     "license": "CC BY-SA 3.0",
+     "title": "Nyaminyami.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "catastrophes"
+   ],
+   "threads": [
+    "flood-myths"
+   ]
+  },
+  {
+   "id": "wilusa",
+   "title": "Wilusa and the historicity of Troy",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -1280,
+   "end": null,
+   "dateNote": "Alaksandu treaty c. 1280 BCE; Homeric tradition later",
+   "evidenceTypes": [
+    "textual",
+    "archaeological"
+   ],
+   "mainstream": "Hittite texts mention Wilusa and a conflict involving Alaksandu — widely identified with Ilios/Troy and Alexandros (Paris). Combined with Schliemann's and later excavations, this supports a historical core behind the Trojan War tradition.",
+   "alternatives": [],
+   "changed": "Late 20th century: Hittite geography and the Alaksandu treaty strengthened the Troy–Wilusa link.",
+   "sources": [
+    {
+     "title": "Wikipedia: Wilusa",
+     "url": "https://en.wikipedia.org/wiki/Wilusa",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Alaksandu",
+     "url": "https://en.wikipedia.org/wiki/Alaksandu",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Hethiter.svg/500px-Hethiter.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Hethiter.svg",
+     "author": "Al-qamar",
+     "license": "CC BY-SA 3.0",
+     "title": "Hethiter.svg"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology",
+    "myth-legend"
+   ],
+   "threads": [
+    "changed-understanding",
+    "stories-proven-true"
+   ]
+  },
+  {
+   "id": "izanagi-izanami",
+   "title": "Izanagi and Izanami",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": -700,
+   "end": null,
+   "dateNote": "Recorded in 8th-century chronicles; mythic time",
+   "evidenceTypes": [
+    "textual"
+   ],
+   "mainstream": "Creator pair in Japanese mythology (Kojiki and Nihon Shoki) who stir the ocean to form the first islands and produce deities; Izanami dies after birthing the fire god.",
+   "alternatives": [],
+   "sources": [
+    {
+     "title": "Wikipedia: Izanagi",
+     "url": "https://en.wikipedia.org/wiki/Izanagi",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Izanami",
+     "url": "https://en.wikipedia.org/wiki/Izanami",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Kobayashi_Izanami_and_Izanagi.jpg/500px-Kobayashi_Izanami_and_Izanagi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Kobayashi_Izanami_and_Izanagi.jpg",
+     "author": "Originally uploaded on sv:wiki 10 April 2005 kl.18.50 by Lamré",
+     "license": "Public domain",
+     "title": "Kobayashi_Izanami_and_Izanagi.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion"
+   ],
+   "threads": []
+  },
+  {
+   "id": "bunjil",
+   "title": "Bunjil",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": -1000,
+   "end": null,
+   "dateNote": "Living oral tradition; date is schematic for timeline placement",
+   "evidenceTypes": [
+    "oral tradition"
+   ],
+   "mainstream": "Bunjil (or Bunjil the Eaglehawk) is a creator ancestor in Kulin Nation traditions of south-eastern Australia, associated with the creation of people, animals and landscape laws.",
+   "alternatives": [],
+   "sources": [
+    {
+     "title": "Wikipedia: Bunjil",
+     "url": "https://en.wikipedia.org/wiki/Bunjil",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/20120705_Bunjil_Shelter.JPG/500px-20120705_Bunjil_Shelter.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:20120705_Bunjil_Shelter.JPG",
+     "author": "Michael Barnett",
+     "license": "CC BY-SA 3.0",
+     "title": "20120705_Bunjil_Shelter.JPG"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion"
+   ],
+   "threads": []
+  },
+  {
+   "id": "curuca-event",
+   "title": "Curuçá (Brazilian Tunguska) event",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 3,
+   "start": 1930,
+   "end": null,
+   "evidenceTypes": [
+    "eyewitness",
+    "historical"
+   ],
+   "mainstream": "In August 1930 a bright fireball and explosions were reported near the Curuçá River in Brazil's Amazon. Later researchers compared it to Tunguska; documentation is thinner and the event remains poorly constrained.",
+   "alternatives": [
+    {
+     "label": "Sceptical view",
+     "text": "Accounts may mix a meteor airburst with exaggeration or other phenomena."
+    },
+    {
+     "label": "Major airburst",
+     "text": "Some atmospheric scientists treat it as a significant Tunguska-like airburst."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: 1930 Curuçá River event",
+     "url": "https://en.wikipedia.org/wiki/1930_Curu%C3%A7%C3%A1_River_event",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [],
+   "categories": [
+    "catastrophes",
+    "science-cosmos",
+    "anomalies"
+   ],
+   "threads": [
+    "cosmic-impacts"
+   ]
   }
  ]
 }
