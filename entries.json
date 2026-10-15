@@ -4993,6 +4993,425 @@
     "history"
    ],
    "threads": []
+  },
+  {
+   "id": "cahokia",
+   "title": "Cahokia",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1050,
+   "end": 1350,
+   "evidenceTypes": [
+    "archaeological"
+   ],
+   "mainstream": "Largest pre-Columbian city north of Mexico, near present-day St. Louis; peaked c. 1050–1200 CE with massive earthen mounds including Monks Mound.",
+   "alternatives": [],
+   "sources": [
+    {
+     "title": "Cahokia Mounds State Historic Site (UNESCO)",
+     "url": "https://whc.unesco.org/en/list/198",
+     "type": "institution"
+    },
+    {
+     "title": "Wikipedia: Cahokia",
+     "url": "https://en.wikipedia.org/wiki/Cahokia",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Monks_Mound_-_Summer_2024.jpg/500px-Monks_Mound_-_Summer_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Monks_Mound_-_Summer_2024.jpg",
+     "author": "Skubasteve834",
+     "license": "CC BY 4.0",
+     "title": "Monks_Mound_-_Summer_2024.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history"
+   ],
+   "threads": [
+    "giant-monuments"
+   ]
+  },
+  {
+   "id": "teotihuacan",
+   "title": "Teotihuacan",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": 100,
+   "end": 550,
+   "evidenceTypes": [
+    "archaeological"
+   ],
+   "mainstream": "Major Mesoamerican city in the Valley of Mexico (flourished c. 1st–6th centuries CE) with the Pyramid of the Sun and Avenue of the Dead; its rulers' ethnic identity remains debated.",
+   "alternatives": [],
+   "sources": [
+    {
+     "title": "Pre-Hispanic City of Teotihuacan (UNESCO)",
+     "url": "https://whc.unesco.org/en/list/414",
+     "type": "institution"
+    },
+    {
+     "title": "Wikipedia: Teotihuacan",
+     "url": "https://en.wikipedia.org/wiki/Teotihuacan",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/ZA77_Teotihuac%C3%A1n_edo_de_mex_Herberto_de_la_rosa.jpg/500px-ZA77_Teotihuac%C3%A1n_edo_de_mex_Herberto_de_la_rosa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:ZA77_Teotihuac%C3%A1n_edo_de_mex_Herberto_de_la_rosa.jpg",
+     "author": "Hdlrosa",
+     "license": "CC BY-SA 4.0",
+     "title": "ZA77_Teotihuacán_edo_de_mex_Herberto_de_la_rosa.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history"
+   ],
+   "threads": [
+    "giant-monuments"
+   ]
+  },
+  {
+   "id": "olmec-heads",
+   "title": "Olmec colossal heads",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -1200,
+   "end": -400,
+   "evidenceTypes": [
+    "archaeological"
+   ],
+   "mainstream": "Large basalt portrait heads of the Olmec civilisation (Gulf Coast Mexico, roughly 1200–400 BCE); transported from distant quarries without wheeled vehicles.",
+   "alternatives": [
+    {
+     "label": "African contact claim",
+     "text": "Ivan Van Sertima and others argued Negroid features imply ancient African contact; most Mesoamericanists reject this as unsupported."
+    },
+    {
+     "label": "Alien / lost technology",
+     "text": "Fringe accounts cite the size as evidence of unknown tech; archaeologists attribute them to Olmec labour organisation."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Olmec colossal heads",
+     "url": "https://en.wikipedia.org/wiki/Olmec_colossal_heads",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/San_Lorenzo_Monument_4_crop.jpg/500px-San_Lorenzo_Monument_4_crop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:San_Lorenzo_Monument_4_crop.jpg",
+     "author": "Marshall Astor (Life on the Edge)",
+     "license": "CC BY-SA 2.0",
+     "title": "San_Lorenzo_Monument_4_crop.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history",
+    "anomalies"
+   ],
+   "threads": [
+    "giant-monuments"
+   ]
+  },
+  {
+   "id": "caral",
+   "title": "Caral-Supe",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -2600,
+   "end": -2000,
+   "evidenceTypes": [
+    "archaeological",
+    "radiocarbon"
+   ],
+   "mainstream": "Early urban centre in Peru's Supe Valley (c. 2600–2000 BCE), among the oldest known cities in the Americas; monumental platform mounds without ceramics in early phases.",
+   "alternatives": [],
+   "sources": [
+    {
+     "title": "Sacred City of Caral-Supe (UNESCO)",
+     "url": "https://whc.unesco.org/en/list/1269",
+     "type": "institution"
+    },
+    {
+     "title": "Wikipedia: Caral",
+     "url": "https://en.wikipedia.org/wiki/Caral",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Mayor_Pyramid_and_circular_enclosure._Caral%2C_Peru.jpg/500px-Mayor_Pyramid_and_circular_enclosure._Caral%2C_Peru.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Mayor_Pyramid_and_circular_enclosure._Caral,_Peru.jpg",
+     "author": "Jon Gudorf Photography",
+     "license": "CC BY-SA 2.0",
+     "title": "Mayor_Pyramid_and_circular_enclosure._Caral,_Peru.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history"
+   ],
+   "threads": []
+  },
+  {
+   "id": "monte-verde",
+   "title": "Monte Verde",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -14500,
+   "end": null,
+   "evidenceTypes": [
+    "archaeological"
+   ],
+   "mainstream": "Late Pleistocene site in southern Chile with accepted dates around 14,500 years ago (and debated older claims), important evidence against a strict \"Clovis First\" peopling model.",
+   "alternatives": [],
+   "changed": "1997 onward: a research consensus panel accepted the c. 14.5 ka occupation, shifting the peopling debate.",
+   "sources": [
+    {
+     "title": "Wikipedia: Monte Verde",
+     "url": "https://en.wikipedia.org/wiki/Monte_Verde",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Monte_Verde_2012.jpg/500px-Monte_Verde_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Monte_Verde_2012.jpg",
+     "author": "Geología Valdivia",
+     "license": "CC BY 2.0",
+     "title": "Monte_Verde_2012.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history"
+   ],
+   "threads": [
+    "changed-understanding"
+   ]
+  },
+  {
+   "id": "clovis-first",
+   "title": "Clovis First debate",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": -13000,
+   "end": null,
+   "evidenceTypes": [
+    "archaeological"
+   ],
+   "mainstream": "Clovis culture (c. 13,000 years ago) was long held to be the first widespread people in the Americas. Pre-Clovis sites such as Monte Verde challenged that model; the debate continues on timing and routes.",
+   "alternatives": [
+    {
+     "label": "Still Clovis-centred views",
+     "text": "Some researchers still emphasise Clovis as the first pan-continental culture while accepting limited earlier coastal presence."
+    }
+   ],
+   "changed": "Late 20th–21st century: pre-Clovis sites gained wider acceptance.",
+   "sources": [
+    {
+     "title": "Wikipedia: Clovis culture",
+     "url": "https://en.wikipedia.org/wiki/Clovis_culture",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Peopling of the Americas",
+     "url": "https://en.wikipedia.org/wiki/Peopling_of_the_Americas",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Clovis_spearpoints_-_Cleveland_Museum_of_Natural_History.jpg/500px-Clovis_spearpoints_-_Cleveland_Museum_of_Natural_History.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Clovis_spearpoints_-_Cleveland_Museum_of_Natural_History.jpg",
+     "author": "Tim Evanson",
+     "license": "CC BY-SA 2.0",
+     "title": "Clovis_spearpoints_-_Cleveland_Museum_of_Natural_History.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history"
+   ],
+   "threads": [
+    "changed-understanding"
+   ]
+  },
+  {
+   "id": "ica-stones",
+   "title": "Ica stones",
+   "lane": "history",
+   "status": "debunked",
+   "priority": 3,
+   "start": 1966,
+   "end": null,
+   "evidenceTypes": [
+    "documentary"
+   ],
+   "mainstream": "Carved andesite stones from Ica, Peru, popularised in the 1960s depicting dinosaurs and advanced technology. Farmers admitted carving them for collectors; no secure archaeological context.",
+   "alternatives": [
+    {
+     "label": "Believers",
+     "text": "Some ancient-astronaut and creationist writers still treat them as genuine ancient artefacts."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Ica stones",
+     "url": "https://en.wikipedia.org/wiki/Ica_stones",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [],
+   "categories": [
+    "hoaxes",
+    "anomalies"
+   ],
+   "threads": [
+    "hoaxes-exposed"
+   ]
+  },
+  {
+   "id": "acambaro-figures",
+   "title": "Acámbaro figures",
+   "lane": "history",
+   "status": "debunked",
+   "priority": 3,
+   "start": 1944,
+   "end": null,
+   "evidenceTypes": [
+    "documentary"
+   ],
+   "mainstream": "Thousands of ceramic figurines including dinosaur-like creatures collected near Acámbaro, Mexico, from 1944. Mainstream archaeology regards them as modern fakes made for Waldemar Julsrud.",
+   "alternatives": [
+    {
+     "label": "Genuine ancient artefacts",
+     "text": "A minority of fringe researchers claim thermoluminescence or context supports antiquity; this is not accepted by mainstream archaeology."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Acámbaro figures",
+     "url": "https://en.wikipedia.org/wiki/Ac%C3%A1mbaro_figures",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [],
+   "categories": [
+    "hoaxes"
+   ],
+   "threads": [
+    "hoaxes-exposed"
+   ]
+  },
+  {
+   "id": "quetzalcoatl",
+   "title": "Quetzalcoatl",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": -200,
+   "end": null,
+   "evidenceTypes": [
+    "textual",
+    "archaeological"
+   ],
+   "mainstream": "Feathered-serpent deity of Mesoamerica, important in Teotihuacan, Toltec and Aztec religion; associated with wind, learning and priesthood.",
+   "alternatives": [
+    {
+     "label": "Bearded foreign god / alien reading",
+     "text": "Colonial and later writers sometimes equated Quetzalcoatl with a historical foreigner or visitor; these readings are speculative."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Quetzalcōātl",
+     "url": "https://en.wikipedia.org/wiki/Quetzalc%C5%8D%C4%81tl",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Quetzalc%C3%B3atl_como_la_serpiente_emplumada_y_el_dios_del_viento_Eh%C3%A9catl%2C_en_el_folio_19.jpg/500px-Quetzalc%C3%B3atl_como_la_serpiente_emplumada_y_el_dios_del_viento_Eh%C3%A9catl%2C_en_el_folio_19.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Quetzalc%C3%B3atl_como_la_serpiente_emplumada_y_el_dios_del_viento_Eh%C3%A9catl,_en_el_folio_19.jpg",
+     "author": "Unknown authorUnknown author",
+     "license": "Public domain",
+     "title": "Quetzalcóatl_como_la_serpiente_emplumada_y_el_dios_del_viento_Ehécatl,_en_el_folio_19.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion"
+   ],
+   "threads": [
+    "sky-beings"
+   ]
+  },
+  {
+   "id": "viracocha",
+   "title": "Viracocha",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": 500,
+   "end": null,
+   "evidenceTypes": [
+    "textual",
+    "oral tradition"
+   ],
+   "mainstream": "Creator deity in Andean (Inca and earlier) tradition, sometimes described as a bearded culture-bringer who walked away across the sea.",
+   "alternatives": [
+    {
+     "label": "Ancient visitor claim",
+     "text": "Some 19th–20th century and fringe authors read Viracocha as a memory of overseas or extraterrestrial visitors (speculative)."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Viracocha",
+     "url": "https://en.wikipedia.org/wiki/Viracocha",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Stamp_of_Bolivia_-_1960_-_Colnect_229987_-_Gate_of_the_Sun.jpeg/500px-Stamp_of_Bolivia_-_1960_-_Colnect_229987_-_Gate_of_the_Sun.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Stamp_of_Bolivia_-_1960_-_Colnect_229987_-_Gate_of_the_Sun.jpeg",
+     "author": "Post of Bolivia",
+     "license": "Public domain",
+     "title": "Stamp_of_Bolivia_-_1960_-_Colnect_229987_-_Gate_of_the_Sun.jpeg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion"
+   ],
+   "threads": [
+    "sky-beings"
+   ]
   }
  ]
 }

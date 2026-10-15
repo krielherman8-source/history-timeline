@@ -115,7 +115,7 @@ X('quetzalcoatl','Quetzalcoatl',M,'myth-legend',2,-200,['textual','archaeologica
 X('viracocha','Viracocha',M,'myth-legend',2,500,['textual','oral tradition'],
  'Creator deity in Andean (Inca and earlier) tradition, sometimes described as a bearded culture-bringer who walked away across the sea.',
  [('Ancient visitor claim','Some 19th–20th century and fringe authors read Viracocha as a memory of overseas or extraterrestrial visitors (speculative).')],
- ['wiki:Viracocha'],'Viracocha'),
+ ['wiki:Viracocha'],'Staff_God'),
 # --- chunk 4: UFO/cryptids/floods/anomalies / stories-proven-true
 X('westall-ufo','Westall UFO encounter (1966)',H,'disputed',2,1966,['eyewitness'],
  'On 6 April 1966 hundreds of students and staff at Westall High School (Melbourne, Australia) reported a low-flying silver disc that landed in a nearby field then rose and departed. Official explanations proposed a balloon or aircraft; many witnesses disagree.',
