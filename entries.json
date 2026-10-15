@@ -4537,6 +4537,462 @@
     "archaeology"
    ],
    "threads": []
+  },
+  {
+   "id": "jomon-pottery",
+   "title": "Jōmon pottery",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -14000,
+   "end": -300,
+   "evidenceTypes": [
+    "archaeological",
+    "radiocarbon"
+   ],
+   "mainstream": "Early pottery of Japan's Jōmon period; some vessels date to about 14,000 BCE or earlier — among the world's oldest known ceramics.",
+   "alternatives": [],
+   "sources": [
+    {
+     "title": "Wikipedia: Jōmon period",
+     "url": "https://en.wikipedia.org/wiki/J%C5%8Dmon_period",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Jōmon pottery",
+     "url": "https://en.wikipedia.org/wiki/J%C5%8Dmon_pottery",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Jomon_Flame_Style_Pottery%2C_3000_BC.jpg/500px-Jomon_Flame_Style_Pottery%2C_3000_BC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Jomon_Flame_Style_Pottery,_3000_BC.jpg",
+     "author": "Netherzone",
+     "license": "CC BY-SA 4.0",
+     "title": "Jomon_Flame_Style_Pottery,_3000_BC.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history"
+   ],
+   "threads": []
+  },
+  {
+   "id": "sanxingdui",
+   "title": "Sanxingdui",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -1200,
+   "end": -1000,
+   "evidenceTypes": [
+    "archaeological"
+   ],
+   "mainstream": "Bronze Age site in Sichuan, China, with large bronze masks, trees and statues unlike typical Central Plains styles; flourished roughly late 2nd–early 1st millennium BCE.",
+   "alternatives": [
+    {
+     "label": "Lost / unknown civilisation",
+     "text": "Popular accounts emphasise mystery; archaeologists link it to the ancient Shu culture."
+    },
+    {
+     "label": "Alien contact (speculative)",
+     "text": "Fringe writers occasionally cite the masks as non-human; this is not supported by archaeology."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Sanxingdui",
+     "url": "https://en.wikipedia.org/wiki/Sanxingdui",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Gold_Mask_%28%E9%BB%84%E9%87%91%E9%9D%A2%E7%BD%A9%29.jpg/500px-Gold_Mask_%28%E9%BB%84%E9%87%91%E9%9D%A2%E7%BD%A9%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Gold_Mask_(%E9%BB%84%E9%87%91%E9%9D%A2%E7%BD%A9).jpg",
+     "author": "momo",
+     "license": "CC BY 2.0",
+     "title": "Gold_Mask_(黄金面罩).jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "anomalies",
+    "lost-civilisations"
+   ],
+   "threads": [
+    "lost-civilisations"
+   ]
+  },
+  {
+   "id": "xia-dynasty",
+   "title": "Xia dynasty debate",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": -2070,
+   "end": -1600,
+   "dateNote": "Traditional dates c. 2070–1600 BCE",
+   "evidenceTypes": [
+    "textual",
+    "archaeological"
+   ],
+   "mainstream": "Traditional Chinese historiography places a Xia dynasty before the Shang (c. 2070–1600 BCE). The Erlitou culture is often proposed as Xia, but the link remains debated.",
+   "alternatives": [
+    {
+     "label": "Legendary only",
+     "text": "Some scholars treat early Xia kings as legendary until firmer textual–archaeological links emerge."
+    },
+    {
+     "label": "Confirmed dynasty",
+     "text": "Others argue Erlitou and related sites substantiate the Xia."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Xia dynasty",
+     "url": "https://en.wikipedia.org/wiki/Xia_dynasty",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Erlitou culture",
+     "url": "https://en.wikipedia.org/wiki/Erlitou_culture",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Xia_dynasty.svg/500px-Xia_dynasty.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Xia_dynasty.svg",
+     "author": "w:en:User:Gurdjieff (Lamassu Design)",
+     "license": "CC BY-SA 3.0",
+     "title": "Xia_dynasty.svg"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology"
+   ],
+   "threads": []
+  },
+  {
+   "id": "harappan-script",
+   "title": "Indus (Harappan) script",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": -2600,
+   "end": -1900,
+   "evidenceTypes": [
+    "textual",
+    "archaeological"
+   ],
+   "mainstream": "Short inscriptions from the Indus Valley Civilisation remain undeciphered; whether the signs encode language is still debated.",
+   "alternatives": [
+    {
+     "label": "Non-linguistic symbols",
+     "text": "Some researchers argue the signs were non-linguistic markers."
+    },
+    {
+     "label": "Undeciphered language",
+     "text": "Others treat them as writing awaiting decipherment."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Indus script",
+     "url": "https://en.wikipedia.org/wiki/Indus_script",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Indus_seal_impression.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Indus_seal_impression.jpg",
+     "author": "PHGCOM \n\nIndusValleySeals.JPG",
+     "license": "CC BY-SA 3.0",
+     "title": "Indus_seal_impression.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology",
+    "anomalies"
+   ],
+   "threads": []
+  },
+  {
+   "id": "angkor",
+   "title": "Angkor",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": 802,
+   "end": 1431,
+   "evidenceTypes": [
+    "archaeological"
+   ],
+   "mainstream": "Capital region of the Khmer Empire in present-day Cambodia (c. 9th–15th centuries), including Angkor Wat; one of the largest pre-industrial urban complexes.",
+   "alternatives": [],
+   "sources": [
+    {
+     "title": "Angkor (UNESCO)",
+     "url": "https://whc.unesco.org/en/list/668",
+     "type": "institution"
+    },
+    {
+     "title": "Wikipedia: Angkor",
+     "url": "https://en.wikipedia.org/wiki/Angkor",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Karta_AngkorWat.PNG/500px-Karta_AngkorWat.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Karta_AngkorWat.PNG",
+     "author": "Hobe / Holger Behr",
+     "license": "Public domain",
+     "title": "Karta_AngkorWat.PNG"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology"
+   ],
+   "threads": [
+    "giant-monuments"
+   ]
+  },
+  {
+   "id": "nan-madol",
+   "title": "Nan Madol",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1180,
+   "end": 1500,
+   "evidenceTypes": [
+    "archaeological"
+   ],
+   "mainstream": "Megalithic basalt city built on artificial islets off Pohnpei, Micronesia; associated with the Saudeleur dynasty. Construction peaked around the 12th–13th centuries CE.",
+   "alternatives": [
+    {
+     "label": "Lost advanced civilisation",
+     "text": "Some alternative writers claim unknown builders or lost technology; archaeology attributes it to local Micronesian societies."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Nan Madol: Ceremonial Centre of Eastern Micronesia (UNESCO)",
+     "url": "https://whc.unesco.org/en/list/1503",
+     "type": "institution"
+    },
+    {
+     "title": "Wikipedia: Nan Madol",
+     "url": "https://en.wikipedia.org/wiki/Nan_Madol",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Nan_madol.jpg/500px-Nan_madol.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Nan_madol.jpg",
+     "author": "NOAA",
+     "license": "Public domain",
+     "title": "Nan_madol.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "lost-civilisations",
+    "anomalies"
+   ],
+   "threads": [
+    "lost-civilisations",
+    "giant-monuments"
+   ]
+  },
+  {
+   "id": "rapa-nui-moai",
+   "title": "Rapa Nui (Easter Island) moai",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1200,
+   "end": 1600,
+   "evidenceTypes": [
+    "archaeological"
+   ],
+   "mainstream": "Nearly 1,000 stone statues carved by Polynesian settlers on Rapa Nui, mainly c. 13th–16th centuries. Ecological and social causes of later societal stress remain researched.",
+   "alternatives": [
+    {
+     "label": "Alien / lost civilisation builders",
+     "text": "Fringe theories deny Polynesian capability; archaeology and genetics support Polynesian settlement and craftsmanship."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Rapa Nui National Park (UNESCO)",
+     "url": "https://whc.unesco.org/en/list/715",
+     "type": "institution"
+    },
+    {
+     "title": "Wikipedia: Moai",
+     "url": "https://en.wikipedia.org/wiki/Moai",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/AhuTongariki.JPG/500px-AhuTongariki.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:AhuTongariki.JPG",
+     "author": "Ian Sewell",
+     "license": "CC BY 2.5",
+     "title": "AhuTongariki.JPG"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history",
+    "anomalies"
+   ],
+   "threads": [
+    "lost-civilisations",
+    "giant-monuments"
+   ]
+  },
+  {
+   "id": "lapita",
+   "title": "Lapita culture",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -1500,
+   "end": -500,
+   "evidenceTypes": [
+    "archaeological"
+   ],
+   "mainstream": "Austronesian seafaring culture of Remote Oceania (c. 1500–500 BCE) marked by dentate-stamped pottery; ancestral to many Polynesian, Micronesian and some Melanesian societies.",
+   "alternatives": [],
+   "sources": [
+    {
+     "title": "Wikipedia: Lapita culture",
+     "url": "https://en.wikipedia.org/wiki/Lapita_culture",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Carte_lapita.png/500px-Carte_lapita.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Carte_lapita.png",
+     "author": "Christophe cagé",
+     "license": "CC BY-SA 3.0",
+     "title": "Carte_lapita.png"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history"
+   ],
+   "threads": []
+  },
+  {
+   "id": "wandjina",
+   "title": "Wandjina rock art",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": -4000,
+   "end": null,
+   "dateNote": "Tradition ongoing; some paintings may be thousands of years old",
+   "evidenceTypes": [
+    "archaeological",
+    "oral tradition"
+   ],
+   "mainstream": "Wandjina are ancestral creator beings in the rock art and oral traditions of Kimberley Aboriginal peoples (north-western Australia). Paintings are maintained by Traditional Owners.",
+   "alternatives": [
+    {
+     "label": "Ancient astronaut reading",
+     "text": "Some popular writers misread the halo-like headdresses as spacesuits; Aboriginal custodians and archaeologists reject this."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Wandjina",
+     "url": "https://en.wikipedia.org/wiki/Wandjina",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Wandjina_rock_art.jpg/500px-Wandjina_rock_art.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Wandjina_rock_art.jpg",
+     "author": "Claire Taylor from Everywhere, Australia",
+     "license": "CC BY-SA 2.0",
+     "title": "Wandjina_rock_art.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion",
+    "archaeology"
+   ],
+   "threads": [
+    "sky-beings"
+   ]
+  },
+  {
+   "id": "kupe",
+   "title": "Kupe and Māori discovery traditions",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": 1300,
+   "end": null,
+   "dateNote": "Settlement archaeology c. late 1200s CE; traditions vary by iwi",
+   "evidenceTypes": [
+    "oral tradition"
+   ],
+   "mainstream": "Māori oral traditions name ancestors such as Kupe among early Polynesian voyagers to Aotearoa/New Zealand. Archaeology places Polynesian settlement around the late 13th century CE.",
+   "alternatives": [],
+   "sources": [
+    {
+     "title": "Wikipedia: Kupe",
+     "url": "https://en.wikipedia.org/wiki/Kupe",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Māori migration canoes",
+     "url": "https://en.wikipedia.org/wiki/M%C4%81ori_migration_canoes",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Kupe_Statue.jpg/500px-Kupe_Statue.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Kupe_Statue.jpg",
+     "author": "Heather Cuthill",
+     "license": "CC BY-SA 2.0",
+     "title": "Kupe_Statue.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "history"
+   ],
+   "threads": []
   }
  ]
 }

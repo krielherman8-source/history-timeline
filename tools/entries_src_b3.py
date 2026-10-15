@@ -43,7 +43,7 @@ X('laetoli','Laetoli footprints',H,'confirmed',2,-3.66e6,['geological','archaeol
 # --- chunk 2: Asia & Oceania archaeology / myth
 X('jomon-pottery','Jōmon pottery',H,'confirmed',2,-14000,['archaeological','radiocarbon'],
  'Early pottery of Japan\'s Jōmon period; some vessels date to about 14,000 BCE or earlier — among the world\'s oldest known ceramics.',
- [],['wiki:Jōmon_period','wiki:Jōmon_pottery'],'Jōmon_period',end=-300),
+ [],['wiki:Jōmon_period','wiki:Jōmon_pottery'],'Jōmon_pottery',end=-300),
 X('sanxingdui','Sanxingdui',H,'confirmed',2,-1200,['archaeological'],
  'Bronze Age site in Sichuan, China, with large bronze masks, trees and statues unlike typical Central Plains styles; flourished roughly late 2nd–early 1st millennium BCE.',
  [('Lost / unknown civilisation','Popular accounts emphasise mystery; archaeologists link it to the ancient Shu culture.'),('Alien contact (speculative)','Fringe writers occasionally cite the masks as non-human; this is not supported by archaeology.')],
