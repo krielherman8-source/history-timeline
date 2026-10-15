@@ -1,0 +1,68 @@
+{
+ "great-zimbabwe": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=CdKD4-fVnyE",
+  "title": "Great Zimbabwe & The First Cities of Southern Africa // History Documentary",
+  "channel": "History Time"
+ },
+ "mapungubwe": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=U2JR2FVrDHM",
+  "title": "Mapungubwe - Lost Kingdoms of Africa - Great Zimbabwe - BBC 4",
+  "channel": "BBC"
+ },
+ "aksum": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=A4OSEpexs_Q",
+  "title": "The Rise Of Aksum - History Of Africa With Zeinab Badawi [Episode 5]",
+  "channel": "BBC News Africa"
+ },
+ "mansa-musa": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=O3YJMaL55TM",
+  "title": "Mansa Musa, one of the wealthiest people who ever lived - Jessica Smith",
+  "channel": "TED-Ed"
+ },
+ "benin-bronzes": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=3IlUMUGUorw",
+  "title": "George the Poet – The Benin bronze",
+  "channel": "The British Museum"
+ },
+ "laetoli": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=3bFtotU0of4",
+  "title": "When We First Walked",
+  "channel": "PBS Eons"
+ },
+ "angkor": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=ghmjIBD2Fd4",
+  "title": "5. The Khmer Empire - Fall of the God Kings",
+  "channel": "Fall of Civilizations"
+ },
+ "nan-madol": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=0fdreKvuqgs",
+  "title": "Ancient City of Nan Madol | Lost Cities With Albert Lin",
+  "channel": "National Geographic"
+ },
+ "rapa-nui-moai": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=KljZ28SXz0c",
+  "title": "The Mysteries of the Moai on Easter Island | National Geographic",
+  "channel": "National Geographic"
+ },
+ "meroe": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=O7tAuPi_azU",
+  "title": "Amazing Drone Footage of Nubian Pyramids | Expedition Raw",
+  "channel": "National Geographic"
+ },
+ "olmec-heads": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=vyGr4iakR64",
+  "title": "The little-known 'mother culture' that inspired the Maya - BBC REEL",
+  "channel": "BBC Global"
+ }
+}
