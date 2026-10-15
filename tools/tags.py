@@ -43,3 +43,57 @@ addt('ufo-encounters','kenneth-arnold roswell project-blue-book betty-barney-hil
 addt('hoaxes-exposed','piltdown crop-circles cottingley-fairies loch-ness dropa-stones gunung-padang')
 addt('flood-myths','sumerian-king-list')
 addt('changed-understanding','wegener nebra-sky-disc roswell')
+
+# --- batch 3
+C.update({
+'great-zimbabwe':'history archaeology lost-civilisations',
+'mapungubwe':'history archaeology',
+'aksum':'history archaeology',
+'nok-culture':'archaeology history',
+'mansa-musa':'history',
+'benin-bronzes':'history archaeology',
+'blombos':'archaeology science-cosmos',
+'border-cave':'archaeology science-cosmos',
+'meroe':'history archaeology',
+'laetoli':'science-cosmos archaeology',
+'jomon-pottery':'archaeology history',
+'sanxingdui':'archaeology anomalies lost-civilisations',
+'xia-dynasty':'history archaeology',
+'harappan-script':'history archaeology anomalies',
+'angkor':'history archaeology',
+'nan-madol':'archaeology lost-civilisations anomalies',
+'rapa-nui-moai':'archaeology history anomalies',
+'lapita':'archaeology history',
+'wandjina':'myth-legend religion archaeology',
+'kupe':'myth-legend history',
+'cahokia':'archaeology history',
+'teotihuacan':'archaeology history',
+'olmec-heads':'archaeology history anomalies',
+'caral':'archaeology history',
+'monte-verde':'archaeology history',
+'clovis-first':'archaeology history',
+'ica-stones':'hoaxes anomalies',
+'acambaro-figures':'hoaxes',
+'quetzalcoatl':'myth-legend religion',
+'viracocha':'myth-legend religion',
+'westall-ufo':'aliens-ufo anomalies',
+'ruwa-ariel':'aliens-ufo anomalies',
+'vela-incident':'anomalies history science-cosmos',
+'mokele-mbembe':'myth-legend anomalies',
+'popobawa':'myth-legend',
+'nyaminyami':'myth-legend catastrophes',
+'wilusa':'history archaeology myth-legend',
+'izanagi-izanami':'myth-legend religion',
+'bunjil':'myth-legend religion',
+'curuca-event':'catastrophes science-cosmos anomalies',
+})
+addt('lost-civilisations','great-zimbabwe sanxingdui nan-madol rapa-nui-moai')
+addt('hoaxes-exposed','ica-stones acambaro-figures')
+addt('ufo-encounters','westall-ufo ruwa-ariel')
+addt('sky-beings','wandjina quetzalcoatl viracocha')
+addt('flood-myths','nyaminyami')
+addt('cosmic-impacts','vela-incident curuca-event')
+addt('changed-understanding','great-zimbabwe monte-verde clovis-first wilusa')
+addt('giant-monuments','great-zimbabwe nan-madol rapa-nui-moai baalbek puma-punku olmec-heads teotihuacan angkor cahokia meroe')
+addt('cryptids','mokele-mbembe loch-ness bigfoot-film')
+addt('stories-proven-true','wilusa troy great-zimbabwe')

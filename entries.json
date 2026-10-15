@@ -4135,6 +4135,408 @@
     "anomalies"
    ],
    "threads": []
+  },
+  {
+   "id": "great-zimbabwe",
+   "title": "Great Zimbabwe",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": 1100,
+   "end": 1450,
+   "evidenceTypes": [
+    "archaeological"
+   ],
+   "mainstream": "Stone city in present-day Zimbabwe built by ancestors of the Shona, c. 11th–15th centuries CE; a major inland trading centre linked to the Indian Ocean. UNESCO World Heritage Site.",
+   "alternatives": [
+    {
+     "label": "Non-African builders (colonial claim)",
+     "text": "Colonial-era writers often denied African authorship and attributed the ruins to outsiders; archaeology has established local Shona construction."
+    }
+   ],
+   "changed": "Colonial period: African origin denied. Mid–late 20th century: archaeology confirms local construction.",
+   "sources": [
+    {
+     "title": "Great Zimbabwe National Monument (UNESCO)",
+     "url": "https://whc.unesco.org/en/list/364",
+     "type": "institution"
+    },
+    {
+     "title": "Wikipedia: Great Zimbabwe",
+     "url": "https://en.wikipedia.org/wiki/Great_Zimbabwe",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Conical_Tower_-_Great_Enclosure_III_%2833736918448%29.jpg/500px-Conical_Tower_-_Great_Enclosure_III_%2833736918448%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Conical_Tower_-_Great_Enclosure_III_(33736918448).jpg",
+     "author": "Andrew Moore from Johannesburg, South Africa",
+     "license": "CC BY-SA 2.0",
+     "title": "Conical_Tower_-_Great_Enclosure_III_(33736918448).jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology",
+    "lost-civilisations"
+   ],
+   "threads": [
+    "lost-civilisations",
+    "changed-understanding",
+    "giant-monuments",
+    "stories-proven-true"
+   ]
+  },
+  {
+   "id": "mapungubwe",
+   "title": "Mapungubwe kingdom",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 900,
+   "end": 1300,
+   "evidenceTypes": [
+    "archaeological"
+   ],
+   "mainstream": "First major indigenous kingdom in southern Africa (c. 900–1300 CE) at the Limpopo–Shashe confluence; gold artefacts and trade goods show Indian Ocean links. Power later shifted toward Great Zimbabwe.",
+   "alternatives": [],
+   "sources": [
+    {
+     "title": "Mapungubwe Cultural Landscape (UNESCO)",
+     "url": "https://whc.unesco.org/en/list/1099",
+     "type": "institution"
+    },
+    {
+     "title": "Wikipedia: Kingdom of Mapungubwe",
+     "url": "https://en.wikipedia.org/wiki/Kingdom_of_Mapungubwe",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/MapungubweHill.jpg/500px-MapungubweHill.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:MapungubweHill.jpg",
+     "author": "JJ van Zyl",
+     "license": "CC BY-SA 3.0",
+     "title": "MapungubweHill.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology"
+   ],
+   "threads": []
+  },
+  {
+   "id": "aksum",
+   "title": "Kingdom of Aksum",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": 100,
+   "end": 800,
+   "evidenceTypes": [
+    "archaeological",
+    "textual"
+   ],
+   "mainstream": "Powerful Horn of Africa state (c. 1st–8th centuries CE) controlling Red Sea trade; known for monumental stelae, coinage and early adoption of Christianity.",
+   "alternatives": [],
+   "sources": [
+    {
+     "title": "Aksum (UNESCO)",
+     "url": "https://whc.unesco.org/en/list/15",
+     "type": "institution"
+    },
+    {
+     "title": "Wikipedia: Kingdom of Aksum",
+     "url": "https://en.wikipedia.org/wiki/Kingdom_of_Aksum",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/KingEndybisEthiopia227-235CE.jpg/500px-KingEndybisEthiopia227-235CE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:KingEndybisEthiopia227-235CE.jpg",
+     "author": "PHGCOM",
+     "license": "CC BY-SA 3.0",
+     "title": "KingEndybisEthiopia227-235CE.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology"
+   ],
+   "threads": []
+  },
+  {
+   "id": "nok-culture",
+   "title": "Nok culture terracotta",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -900,
+   "end": 200,
+   "evidenceTypes": [
+    "archaeological"
+   ],
+   "mainstream": "Iron Age culture of central Nigeria (roughly 9th century BCE–early CE) known for distinctive terracotta figures; among the earliest iron-working societies in West Africa.",
+   "alternatives": [],
+   "sources": [
+    {
+     "title": "Wikipedia: Nok culture",
+     "url": "https://en.wikipedia.org/wiki/Nok_culture",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Verbreitung_Nok-Kultur-en.png/500px-Verbreitung_Nok-Kultur-en.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Verbreitung_Nok-Kultur-en.png",
+     "author": "NordNordWest",
+     "license": "CC BY-SA 3.0",
+     "title": "Verbreitung_Nok-Kultur-en.png"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history"
+   ],
+   "threads": []
+  },
+  {
+   "id": "mansa-musa",
+   "title": "Mansa Musa's pilgrimage",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": 1324,
+   "end": null,
+   "evidenceTypes": [
+    "textual"
+   ],
+   "mainstream": "Mansa Musa of Mali made the hajj in 1324–25; contemporary Arabic sources describe his wealth and gold gifts in Cairo. The Mali Empire was a major West African state.",
+   "alternatives": [],
+   "sources": [
+    {
+     "title": "Wikipedia: Mansa Musa",
+     "url": "https://en.wikipedia.org/wiki/Mansa_Musa",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Mali Empire",
+     "url": "https://en.wikipedia.org/wiki/Mali_Empire",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Catalan_Atlas_BNF_Sheet_6_Mansa_Musa_%28cropped%29.jpg/500px-Catalan_Atlas_BNF_Sheet_6_Mansa_Musa_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Catalan_Atlas_BNF_Sheet_6_Mansa_Musa_(cropped).jpg",
+     "author": "attributed to Abraham Cresques",
+     "license": "Public domain",
+     "title": "Catalan_Atlas_BNF_Sheet_6_Mansa_Musa_(cropped).jpg"
+    }
+   ],
+   "categories": [
+    "history"
+   ],
+   "threads": []
+  },
+  {
+   "id": "benin-bronzes",
+   "title": "Benin Bronzes",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1200,
+   "end": 1897,
+   "evidenceTypes": [
+    "archaeological"
+   ],
+   "mainstream": "Brass and bronze plaques and sculptures from the Kingdom of Benin (present-day Nigeria), produced from at least the 13th century; many were looted by British forces in 1897 and are now in museums worldwide.",
+   "alternatives": [],
+   "sources": [
+    {
+     "title": "Wikipedia: Benin Bronzes",
+     "url": "https://en.wikipedia.org/wiki/Benin_Bronzes",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Benin_brass_plaque_03_%28cropped%29.jpg/500px-Benin_brass_plaque_03_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Benin_brass_plaque_03_(cropped).jpg",
+     "author": "Unknown",
+     "license": "CC BY-SA 3.0",
+     "title": "Benin_brass_plaque_03_(cropped).jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology"
+   ],
+   "threads": []
+  },
+  {
+   "id": "blombos",
+   "title": "Blombos Cave symbolic behaviour",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -75000,
+   "end": null,
+   "dateNote": "Key assemblages c. 100–70 ka",
+   "evidenceTypes": [
+    "archaeological"
+   ],
+   "mainstream": "Blombos Cave (South Africa) yields engraved ochre, shell beads and tool kits dated to roughly 100–70 thousand years ago — early evidence of symbolic behaviour in Homo sapiens.",
+   "alternatives": [],
+   "sources": [
+    {
+     "title": "Wikipedia: Blombos Cave",
+     "url": "https://en.wikipedia.org/wiki/Blombos_Cave",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Blombos.jpg/500px-Blombos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Blombos.jpg",
+     "author": "Vincent Mourre / Inrap",
+     "license": "CC BY-SA 3.0",
+     "title": "Blombos.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "science-cosmos"
+   ],
+   "threads": []
+  },
+  {
+   "id": "border-cave",
+   "title": "Border Cave early modern humans",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 3,
+   "start": -170000,
+   "end": null,
+   "evidenceTypes": [
+    "archaeological",
+    "genetic"
+   ],
+   "mainstream": "Border Cave (South Africa–Eswatini border) has Middle Stone Age deposits with early modern human remains and material culture spanning roughly 200–40 thousand years ago.",
+   "alternatives": [],
+   "sources": [
+    {
+     "title": "Wikipedia: Border Cave",
+     "url": "https://en.wikipedia.org/wiki/Border_Cave",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Border_Cave00.jpg/500px-Border_Cave00.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Border_Cave00.jpg",
+     "author": "Androstachys",
+     "license": "Public domain",
+     "title": "Border_Cave00.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "science-cosmos"
+   ],
+   "threads": []
+  },
+  {
+   "id": "meroe",
+   "title": "Meroë and the Nubian pyramids",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -800,
+   "end": 350,
+   "evidenceTypes": [
+    "archaeological"
+   ],
+   "mainstream": "Capital of the Kingdom of Kush in present-day Sudan; hundreds of steep Nubian pyramids mark royal burials from about the 8th century BCE to the 4th century CE.",
+   "alternatives": [],
+   "sources": [
+    {
+     "title": "Archaeological Sites of the Island of Meroe (UNESCO)",
+     "url": "https://whc.unesco.org/en/list/1336",
+     "type": "institution"
+    },
+    {
+     "title": "Wikipedia: Meroë",
+     "url": "https://en.wikipedia.org/wiki/Mero%C3%AB",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/NubianMeroePyramids30sep2005%282%29.jpg/500px-NubianMeroePyramids30sep2005%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:NubianMeroePyramids30sep2005(2).jpg",
+     "author": "Wufei07",
+     "license": "Public domain",
+     "title": "NubianMeroePyramids30sep2005(2).jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology"
+   ],
+   "threads": [
+    "giant-monuments"
+   ]
+  },
+  {
+   "id": "laetoli",
+   "title": "Laetoli footprints",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -3660000.0,
+   "end": null,
+   "evidenceTypes": [
+    "geological",
+    "archaeological"
+   ],
+   "mainstream": "Fossilised bipedal footprints at Laetoli, Tanzania, dated to about 3.66 million years ago and attributed to early hominins (often Australopithecus afarensis).",
+   "alternatives": [],
+   "sources": [
+    {
+     "title": "Wikipedia: Laetoli",
+     "url": "https://en.wikipedia.org/wiki/Laetoli",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Test-pit_L8_at_Laetoli_Site_S.jpg/500px-Test-pit_L8_at_Laetoli_Site_S.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Test-pit_L8_at_Laetoli_Site_S.jpg",
+     "author": "Fidelis T Masao and colleagues",
+     "license": "CC BY 4.0",
+     "title": "Test-pit_L8_at_Laetoli_Site_S.jpg"
+    }
+   ],
+   "categories": [
+    "science-cosmos",
+    "archaeology"
+   ],
+   "threads": []
   }
  ]
 }
