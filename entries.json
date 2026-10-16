@@ -7000,6 +7000,501 @@
     "sky-omens",
     "volcanoes-and-memory"
    ]
+  },
+  {
+   "id": "anansi",
+   "title": "Anansi the spider",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": 1600,
+   "end": null,
+   "dateNote": "Living oral tradition; date schematic (spread with the Atlantic slave trade)",
+   "evidenceTypes": [
+    "oral tradition"
+   ],
+   "mainstream": "Anansi is a spider trickster in Akan (Ghana) religion and folklore, associated with stories, wisdom and cunning; in one well-known tale he buys all stories from the sky god Nyame. Through the Atlantic slave trade, Anansi stories spread to the Caribbean and the Americas, where they remain widely told.",
+   "alternatives": [],
+   "sources": [
+    {
+     "title": "Wikipedia: Anansi",
+     "url": "https://en.wikipedia.org/wiki/Anansi",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Anansi-34.png/500px-Anansi-34.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Anansi-34.png",
+     "author": "Pamela Colman Smith",
+     "license": "Public domain",
+     "title": "Anansi-34.png"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion"
+   ],
+   "threads": [
+    "creation-myths"
+   ]
+  },
+  {
+   "id": "rainbow-serpent",
+   "title": "The Rainbow Serpent",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 1,
+   "start": -5000,
+   "end": null,
+   "dateNote": "Living oral tradition; date is schematic for timeline placement",
+   "evidenceTypes": [
+    "oral tradition",
+    "rock art"
+   ],
+   "mainstream": "A creator being found, under many names, across many Aboriginal Australian cultures (e.g. Yurlunggur among the Yolngu of Arnhem Land). It shapes land and waterways and gives law, but can bring floods and chaos when disturbed. It appears widely in rock art.",
+   "alternatives": [
+    {
+     "label": "Environmental memory",
+     "text": "Some researchers relate Rainbow Serpent imagery to seasonal monsoon floods or to post-glacial sea-level rise; these are interpretive readings."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Rainbow Serpent",
+     "url": "https://en.wikipedia.org/wiki/Rainbow_Serpent",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/RainbowSerpent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:RainbowSerpent.jpg",
+     "author": "The original uploader was Digitaltribes at English Wikipedia.",
+     "license": "CC BY 2.5",
+     "title": "RainbowSerpent.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion"
+   ],
+   "threads": [
+    "flood-myths",
+    "serpent-beings",
+    "creation-myths"
+   ]
+  },
+  {
+   "id": "maui",
+   "title": "Māui the trickster demigod",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": 1300,
+   "end": null,
+   "dateNote": "Pan-Polynesian tradition; date schematic (Aotearoa settlement c. 1300)",
+   "evidenceTypes": [
+    "oral tradition"
+   ],
+   "mainstream": "Across Polynesia, Māui is a culture hero and trickster who steals fire, slows the sun with snares, and fishes up land. In Māori tradition the North Island of New Zealand is Te Ika-a-Māui, \"the fish of Māui\", hauled up with a hook made from his grandmother's jawbone.",
+   "alternatives": [
+    {
+     "label": "Island-finding memory",
+     "text": "Some writers read \"fishing up islands\" as a poetic memory of voyagers discovering new islands (interpretive)."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Māui (Māori mythology)",
+     "url": "https://en.wikipedia.org/wiki/M%C4%81ui_(M%C4%81ori_mythology)",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Māui",
+     "url": "https://en.wikipedia.org/wiki/M%C4%81ui",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Te_Tohunga_-_p49.png/500px-Te_Tohunga_-_p49.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Te_Tohunga_-_p49.png",
+     "author": "Wilhelm Dittmer",
+     "license": "Public domain",
+     "title": "Te_Tohunga_-_p49.png"
+    }
+   ],
+   "categories": [
+    "myth-legend"
+   ],
+   "threads": [
+    "creation-myths",
+    "ocean-voyagers"
+   ]
+  },
+  {
+   "id": "pele",
+   "title": "Pele, goddess of Kīlauea",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": 1410,
+   "end": null,
+   "dateNote": "Tradition older; oral history linked to eruptions from c. 1410",
+   "evidenceTypes": [
+    "oral tradition",
+    "geological"
+   ],
+   "mainstream": "In Hawaiian religion Pele is the goddess of volcanoes and fire, said to have voyaged from Kahiki (Tahiti) and to live in Halemaʻumaʻu crater at Kīlauea. Volcanologists dated a major Kīlauea eruption around 1410, the first mentioned in Native Hawaiian oral history, with the 60-year ʻAilāʻau eruption ending around 1470.",
+   "alternatives": [
+    {
+     "label": "Chants as eruption records",
+     "text": "A 2008 study by volcanologists argued that Pele and Hiʻiaka traditions describe about 400 years of real Kīlauea activity, including major lava flows and summit collapse."
+    },
+    {
+     "label": "Living deity",
+     "text": "For many Hawaiians Pele is a living presence, not only a symbol; this is a religious view rather than a testable claim."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Hawaiian oral tradition describes 400 years of volcanic activity at Kīlauea",
+     "authors": "Swanson, D.",
+     "year": 2008,
+     "doi": "10.1016/j.jvolgeores.2008.01.033",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: Pele (deity)",
+     "url": "https://en.wikipedia.org/wiki/Pele_(deity)",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Kīlauea",
+     "url": "https://en.wikipedia.org/wiki/K%C4%ABlauea",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Halema%CA%BBuma%CA%BBu_crater2.jpg/500px-Halema%CA%BBuma%CA%BBu_crater2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Halema%CA%BBuma%CA%BBu_crater2.jpg",
+     "author": "Hawaii Volcano Observatory, USGS",
+     "license": "Public domain",
+     "title": "Halemaʻumaʻu_crater2.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion",
+    "catastrophes"
+   ],
+   "threads": [
+    "stories-proven-true",
+    "deep-oral-memory",
+    "creation-myths",
+    "volcanoes-and-memory"
+   ]
+  },
+  {
+   "id": "five-suns",
+   "title": "The Five Suns (Aztec world ages)",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 1,
+   "start": 1500,
+   "end": null,
+   "dateNote": "Late Postclassic Aztec form; older Mesoamerican roots",
+   "evidenceTypes": [
+    "textual",
+    "iconographic"
+   ],
+   "mainstream": "In Nahua and Aztec belief the world has been created and destroyed four times; each age, or \"Sun\", ended in catastrophe. In one version the fourth sun, ruled by the water goddess Chalchiuhtlicue, ended in a great flood that turned people into fish. We live in the Fifth Sun, fated to end in earthquakes. The Aztec Sun Stone is commonly interpreted as depicting the five suns.",
+   "alternatives": [
+    {
+     "label": "Memory of real catastrophes",
+     "text": "Some writers link the world-ages to real floods, eruptions or impacts (speculative)."
+    },
+    {
+     "label": "Cross-cultural pattern",
+     "text": "Cyclic world ages also appear in Hindu yugas, Hesiod's ages and Maya creation stories; diffusion versus independent invention is debated."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Five Suns",
+     "url": "https://en.wikipedia.org/wiki/Five_Suns",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Aztec sun stone",
+     "url": "https://en.wikipedia.org/wiki/Aztec_sun_stone",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Monolito_de_la_Piedra_del_Sol.jpg/500px-Monolito_de_la_Piedra_del_Sol.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Monolito_de_la_Piedra_del_Sol.jpg",
+     "author": "El Comandante",
+     "license": "CC BY-SA 3.0",
+     "title": "Monolito_de_la_Piedra_del_Sol.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion",
+    "catastrophes"
+   ],
+   "threads": [
+    "flood-myths",
+    "world-ages-and-resets",
+    "creation-myths"
+   ]
+  },
+  {
+   "id": "el-dorado",
+   "title": "El Dorado and the Muisca raft",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 1,
+   "start": 1537,
+   "end": null,
+   "dateNote": "Spanish reach Muisca lands 1537; raft found 1969",
+   "evidenceTypes": [
+    "textual",
+    "archaeological"
+   ],
+   "mainstream": "The legend began in 16th-century Spanish accounts of a \"Golden One\", a Muisca ruler who covered himself in gold dust and washed it off in a sacred lake, linked to Lake Guatavita in Colombia. It grew into the myth of a lost city of gold that drove many failed expeditions. In 1969 a gold Muisca votive raft showing a chief on a raft was found in a cave near Pasca.",
+   "alternatives": [
+    {
+     "label": "Kernel of truth",
+     "text": "Many scholars consider the Guatavita offering ceremony real, so the legend may be a story with a true core that was exaggerated into a lost golden city."
+    }
+   ],
+   "changed": "16th–18th c.: hunted as a city of gold. 1969: Muisca raft supports the ritual behind the legend.",
+   "sources": [
+    {
+     "title": "Wikipedia: El Dorado",
+     "url": "https://en.wikipedia.org/wiki/El_Dorado",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Muisca raft",
+     "url": "https://en.wikipedia.org/wiki/Muisca_raft",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Gold_Museum%2C_Bogota_%2836145671394%29.jpg/500px-Gold_Museum%2C_Bogota_%2836145671394%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Gold_Museum,_Bogota_(36145671394).jpg",
+     "author": "Pedro Szekely from Los Angeles, USA",
+     "license": "CC BY-SA 2.0",
+     "title": "Gold_Museum,_Bogota_(36145671394).jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "lost-civilisations",
+    "archaeology"
+   ],
+   "threads": [
+    "lost-civilisations",
+    "stories-proven-true"
+   ]
+  },
+  {
+   "id": "nuwa",
+   "title": "Nüwa mends the sky",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": -139,
+   "end": null,
+   "dateNote": "Huainanzi compiled c. 139 BCE; tradition older",
+   "evidenceTypes": [
+    "textual"
+   ],
+   "mainstream": "In Chinese mythology Nüwa is a mother goddess who moulded humans from clay. In the Huainanzi (2nd century BCE), the pillars of Heaven break, the sky collapses and floods spread, and Nüwa patches the sky with five-coloured stones and props it up with a giant turtle's legs.",
+   "alternatives": [
+    {
+     "label": "Sky catastrophe memory",
+     "text": "Some writers read the collapsing sky and flood as a memory of a cosmic impact or great flood (speculative)."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Nüwa",
+     "url": "https://en.wikipedia.org/wiki/N%C3%BCwa",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Ping_Sien_Si_-_065_Nu_Wa_Niang_Niang_%2816140351273%29.jpg/500px-Ping_Sien_Si_-_065_Nu_Wa_Niang_Niang_%2816140351273%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Ping_Sien_Si_-_065_Nu_Wa_Niang_Niang_(16140351273).jpg",
+     "author": "Photo Dharma from Penang, Malaysia",
+     "license": "CC BY 2.0",
+     "title": "Ping_Sien_Si_-_065_Nu_Wa_Niang_Niang_(16140351273).jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion"
+   ],
+   "threads": [
+    "flood-myths",
+    "creation-myths"
+   ]
+  },
+  {
+   "id": "bakunawa",
+   "title": "Bakunawa, the moon-eating serpent",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 3,
+   "start": 1500,
+   "end": null,
+   "dateNote": "Pre-colonial oral tradition; date schematic",
+   "evidenceTypes": [
+    "oral tradition"
+   ],
+   "mainstream": "In Philippine mythology the Bakunawa is a giant sea or sky serpent that rises to swallow the moon, causing eclipses. Its movements were used as a calendar system by babaylan priestesses. Through Indian influence it was syncretised with the Nāga and the eclipse deities Rahu and Ketu.",
+   "alternatives": [
+    {
+     "label": "Cross-cultural pattern",
+     "text": "Eclipse-devouring creatures also appear in Hindu (Rahu), Norse (sky wolves) and Chinese (celestial dog) traditions."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Bakunawa",
+     "url": "https://en.wikipedia.org/wiki/Bakunawa",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [],
+   "categories": [
+    "myth-legend",
+    "science-cosmos"
+   ],
+   "threads": [
+    "serpent-beings",
+    "sky-omens"
+   ]
+  },
+  {
+   "id": "naga-fireballs",
+   "title": "Naga fireballs of the Mekong",
+   "lane": "myth",
+   "status": "disputed",
+   "priority": 2,
+   "start": 1990,
+   "end": null,
+   "dateNote": "Lights said to be centuries old; mass public events since c. 1990s",
+   "evidenceTypes": [
+    "eyewitness",
+    "video"
+   ],
+   "mainstream": "Glowing reddish balls are reported to rise from the Mekong River in Thailand and Laos, especially around the end of Buddhist Lent (Wan Ok Phansa) in October. Locally they are attributed to the phaya nak, a giant serpent living in the river, and the event draws large crowds.",
+   "alternatives": [
+    {
+     "label": "Natural gas",
+     "text": "One hypothesis is ignition of phosphine or methane from river sediments; critics say such gas would not ignite or stay lit as described."
+    },
+    {
+     "label": "Human-made",
+     "text": "A Thai biologist analysing footage concluded the lights were flares fired from the far bank; others dispute this."
+    },
+    {
+     "label": "Supernatural",
+     "text": "Many locals see the Naga as the true source, a religious view that cannot be tested."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Naga fireball",
+     "url": "https://en.wikipedia.org/wiki/Naga_fireball",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Beung_Fai_Phraya_Nag_%28187%29_ball.JPG/500px-Beung_Fai_Phraya_Nag_%28187%29_ball.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Beung_Fai_Phraya_Nag_(187)_ball.JPG",
+     "author": "J A Forbes",
+     "license": "CC BY-SA 4.0",
+     "title": "Beung_Fai_Phraya_Nag_(187)_ball.JPG"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "anomalies"
+   ],
+   "threads": [
+    "serpent-beings"
+   ]
+  },
+  {
+   "id": "kumari-kandam",
+   "title": "Kumari Kandam (lost Tamil continent)",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": 800,
+   "end": null,
+   "dateNote": "Kadalkol story in an early-medieval commentary; earlier hints in Sangam verses; \"Kumari Kandam\" concept 20th c.",
+   "evidenceTypes": [
+    "textual"
+   ],
+   "mainstream": "Tamil literary tradition tells of Pandyan lands \"seized by the ocean\" (kadalkol), including the cities of the first two Tamil Sangams. Twentieth-century Tamil revivalists merged this with the European Lemuria idea, picturing a sunken Tamil continent in the Indian Ocean called Kumari Kandam.",
+   "alternatives": [
+    {
+     "label": "Sea-level memory",
+     "text": "Some suggest the stories echo real coastal losses: post-glacial sea-level rise or later storms and tsunamis, such as the flood that Manimekalai says destroyed Kaverippumpattinam (speculative to partly plausible)."
+    },
+    {
+     "label": "Geology",
+     "text": "Plate tectonics rules out a sunken continent in the Indian Ocean during human times."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Kumari Kandam",
+     "url": "https://en.wikipedia.org/wiki/Kumari_Kandam",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Kumari_Kandam_map.png/500px-Kumari_Kandam_map.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Kumari_Kandam_map.png",
+     "author": "Unknown",
+     "license": "CC BY-SA 3.0",
+     "title": "Kumari_Kandam_map.png"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "lost-civilisations"
+   ],
+   "threads": [
+    "flood-myths",
+    "lost-civilisations",
+    "deep-oral-memory",
+    "lost-continents"
+   ]
   }
  ]
 }
