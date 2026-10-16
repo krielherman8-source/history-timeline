@@ -7495,6 +7495,501 @@
     "deep-oral-memory",
     "lost-continents"
    ]
+  },
+  {
+   "id": "nuremberg-1561",
+   "title": "1561 celestial phenomenon over Nuremberg",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 1561,
+   "end": null,
+   "evidenceTypes": [
+    "textual",
+    "woodcut"
+   ],
+   "mainstream": "A broadsheet by Hans Glaser reports that at dawn on 14 April 1561 many people in Nuremberg saw crosses, spheres, crescents and cylinders in an apparent \"battle\" in the sky out of the sun, followed by a large black triangular object and spheres falling to earth in smoke.",
+   "alternatives": [
+    {
+     "label": "Atmospheric optics",
+     "text": "Sceptics and many historians interpret it as a vivid sun-dog or halo display, described through the religious-omen conventions of the time."
+    },
+    {
+     "label": "UFO interpretation",
+     "text": "Ufologists have proposed that observers saw extraterrestrial craft (speculative)."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: 1561 celestial phenomenon over Nuremberg",
+     "url": "https://en.wikipedia.org/wiki/1561_celestial_phenomenon_over_Nuremberg",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Himmelserscheinung_%C3%BCber_N%C3%BCrnberg_vom_14._April_1561.jpg/500px-Himmelserscheinung_%C3%BCber_N%C3%BCrnberg_vom_14._April_1561.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Himmelserscheinung_%C3%BCber_N%C3%BCrnberg_vom_14._April_1561.jpg",
+     "author": "Hanns Glaser (print)",
+     "license": "Public domain",
+     "title": "Himmelserscheinung_über_Nürnberg_vom_14._April_1561.jpg"
+    }
+   ],
+   "categories": [
+    "aliens-ufo",
+    "anomalies",
+    "history"
+   ],
+   "threads": [
+    "sky-beings",
+    "ufo-encounters",
+    "sky-omens"
+   ]
+  },
+  {
+   "id": "tehran-1976",
+   "title": "1976 Tehran UFO incident",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 1976,
+   "end": null,
+   "evidenceTypes": [
+    "eyewitness",
+    "radar",
+    "documentary"
+   ],
+   "mainstream": "On 19 September 1976, civilians and military personnel over Tehran saw a bright object, also tracked on radar. Two Imperial Iranian Air Force F-4 jets reported losing instruments and communications as they approached it, and one reported a temporary weapons failure. A US military report on the case was distributed to the DIA, CIA, State Department and White House.",
+   "alternatives": [
+    {
+     "label": "Sceptical view",
+     "text": "Philip Klass and James Oberg argued the pilots initially saw a bright astronomical object (probably Jupiter) and that the failures came from equipment faults and stress."
+    },
+    {
+     "label": "Genuine anomaly",
+     "text": "Ufologists regard it as one of the best multi-witness, radar-supported cases."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: 1976 Tehran UFO incident",
+     "url": "https://en.wikipedia.org/wiki/1976_Tehran_UFO_incident",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [],
+   "categories": [
+    "aliens-ufo",
+    "anomalies"
+   ],
+   "threads": [
+    "ufo-encounters"
+   ]
+  },
+  {
+   "id": "colares-1977",
+   "title": "Colares \"chupa-chupa\" lights and Operação Prato",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 3,
+   "start": 1977,
+   "end": 1978,
+   "evidenceTypes": [
+    "eyewitness",
+    "documentary"
+   ],
+   "mainstream": "In 1977 residents of Colares island (Pará, Brazil) reported lights in the sky that they said injured people, calling them \"chupa-chupa\". The Brazilian Air Force ran an investigation, Operação Prato (1977–78), led by Captain Uyrangê Hollanda; it closed without officially finding unusual phenomena, and its documents are now in the National Archives.",
+   "alternatives": [
+    {
+     "label": "Real phenomenon",
+     "text": "In a 1997 interview with ufologists, Hollanda recounted the operation's experiences; he died three months later, apparently by suicide, which drew conspiracy interest. Ufologists treat the case as significant."
+    },
+    {
+     "label": "Sceptical view",
+     "text": "Others suggest mass panic, misidentified lights and medical conditions explain the reports."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Operação Prato",
+     "url": "https://en.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/ET_Colares.jpg/500px-ET_Colares.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:ET_Colares.jpg",
+     "author": "LeRoc",
+     "license": "CC BY-SA 4.0",
+     "title": "ET_Colares.jpg"
+    }
+   ],
+   "categories": [
+    "aliens-ufo",
+    "anomalies"
+   ],
+   "threads": [
+    "ufo-encounters"
+   ]
+  },
+  {
+   "id": "valentich-1978",
+   "title": "Disappearance of Frederick Valentich",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 1978,
+   "end": null,
+   "evidenceTypes": [
+    "radio transcript"
+   ],
+   "mainstream": "On 21 October 1978, 20-year-old pilot Frederick Valentich, flying a Cessna 182 over Bass Strait, Australia, told Melbourne air traffic control that an unknown aircraft was hovering above him and his engine was running rough, and said \"it's not an aircraft\". He and the plane were never found.",
+   "alternatives": [
+    {
+     "label": "Sceptical view",
+     "text": "Investigators considered disorientation (possibly flying upside down and seeing his own lights reflected in the water) or an accident; the Department of Transport could not determine the cause and presumed the loss fatal."
+    },
+    {
+     "label": "UFO interpretation",
+     "text": "Ufologists cite belated reports of UFO sightings that night (speculative)."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Disappearance of Frederick Valentich",
+     "url": "https://en.wikipedia.org/wiki/Disappearance_of_Frederick_Valentich",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Valentich_disappearance.png/500px-Valentich_disappearance.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Valentich_disappearance.png",
+     "author": "Bass-Strasse.png: The original uploader was Ulfl at German Wikipedia.\nderivative work: TVJunkie",
+     "license": "Public domain",
+     "title": "Valentich_disappearance.png"
+    }
+   ],
+   "categories": [
+    "aliens-ufo",
+    "anomalies"
+   ],
+   "threads": [
+    "ufo-encounters"
+   ]
+  },
+  {
+   "id": "hessdalen-lights",
+   "title": "Hessdalen lights",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1981,
+   "end": null,
+   "dateNote": "Reports since at least 1930s; peak 1981–84",
+   "evidenceTypes": [
+    "eyewitness",
+    "instrumental"
+   ],
+   "mainstream": "Unexplained lights have been reported in the Hessdalen valley in central Norway since at least the 1930s, with a peak of 15–20 sightings a week in 1981–84. Project Hessdalen (from 1983) and later automated stations run by Østfold University College and Italian researchers have recorded them; the phenomenon itself is real and documented, but its cause is unknown.",
+   "alternatives": [
+    {
+     "label": "Natural physics",
+     "text": "Proposed explanations include combustion of airborne dust (possibly linked to local scandium deposits) or a dusty plasma formed by radon decay; no consensus."
+    },
+    {
+     "label": "Unknown intelligence",
+     "text": "Some ufologists suggest an intelligent or non-human origin (speculative)."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Hessdalen lights",
+     "url": "https://en.wikipedia.org/wiki/Hessdalen_lights",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Hessdalen_-_Fo30141603210085.jpg/500px-Hessdalen_-_Fo30141603210085.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Hessdalen_-_Fo30141603210085.jpg",
+     "author": "Unknown authorUnknown author",
+     "license": "CC BY-SA 4.0",
+     "title": "Hessdalen_-_Fo30141603210085.jpg"
+    }
+   ],
+   "categories": [
+    "anomalies",
+    "science-cosmos",
+    "aliens-ufo"
+   ],
+   "threads": [
+    "ufo-encounters"
+   ]
+  },
+  {
+   "id": "aaro-2024",
+   "title": "AARO historical UAP report (2024)",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 2024,
+   "end": null,
+   "evidenceTypes": [
+    "documentary"
+   ],
+   "mainstream": "The Pentagon's All-domain Anomaly Resolution Office (AARO), set up in 2022, published a report in March 2024 on the historical record of US government UAP investigations from 1945. It found no evidence that any sighting involved extraterrestrial technology. It also revealed a proposed, never-approved DHS programme (\"Kona Blue\") to reverse-engineer any craft obtained, and rejected its advocates' claims.",
+   "alternatives": [
+    {
+     "label": "Cover-up claims",
+     "text": "Whistle-blowers and some members of Congress maintain that crash-retrieval programmes exist and were withheld from AARO; no public evidence has confirmed this (disputed)."
+    },
+    {
+     "label": "Unresolved cases",
+     "text": "A share of reported UAP cases remain unexplained because of insufficient data, which both sides cite."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: All-domain Anomaly Resolution Office",
+     "url": "https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [],
+   "categories": [
+    "aliens-ufo",
+    "history"
+   ],
+   "threads": [
+    "ufo-encounters"
+   ]
+  },
+  {
+   "id": "cardiff-giant",
+   "title": "Cardiff Giant",
+   "lane": "history",
+   "status": "debunked",
+   "priority": 2,
+   "start": 1869,
+   "end": null,
+   "evidenceTypes": [
+    "documentary"
+   ],
+   "mainstream": "A 3 m \"petrified man\" dug up on 16 October 1869 on William Newell's farm in Cardiff, New York, which became a paid attraction. It was carved from gypsum on the orders of tobacconist George Hull, reportedly after an argument about biblical giants; P. T. Barnum even exhibited a copy.",
+   "alternatives": [],
+   "sources": [
+    {
+     "title": "Wikipedia: Cardiff Giant",
+     "url": "https://en.wikipedia.org/wiki/Cardiff_Giant",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Cardiff_giant_exhumed_1869.jpg/500px-Cardiff_giant_exhumed_1869.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Cardiff_giant_exhumed_1869.jpg",
+     "author": "Unknown",
+     "license": "Public domain",
+     "title": "Cardiff_giant_exhumed_1869.jpg"
+    }
+   ],
+   "categories": [
+    "hoaxes"
+   ],
+   "threads": [
+    "hoaxes-exposed",
+    "giants-and-little-people"
+   ]
+  },
+  {
+   "id": "fujimura-hoax",
+   "title": "Japanese Paleolithic hoax (Fujimura)",
+   "lane": "history",
+   "status": "debunked",
+   "priority": 2,
+   "start": 2000,
+   "end": null,
+   "evidenceTypes": [
+    "documentary",
+    "video"
+   ],
+   "mainstream": "From the 1970s, amateur archaeologist Shinichi Fujimura \"found\" ever-older Lower and Middle Palaeolithic artefacts in Japan, some sites (e.g. Zazaragi) becoming national historic sites. On 5 November 2000 the Mainichi Shimbun published hidden-camera footage of him planting artefacts; he confessed, and reviews of his sites rewrote Japan's early prehistory.",
+   "alternatives": [],
+   "changed": "1970s–90s: Fujimura sites push Japanese occupation far back into the Lower Palaeolithic. 2000: exposed. 2003: Japanese Archaeological Association review confirms the hoax.",
+   "sources": [
+    {
+     "title": "Wikipedia: Japanese Paleolithic hoax",
+     "url": "https://en.wikipedia.org/wiki/Japanese_Paleolithic_hoax",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [],
+   "categories": [
+    "hoaxes",
+    "archaeology"
+   ],
+   "threads": [
+    "changed-understanding",
+    "hoaxes-exposed"
+   ]
+  },
+  {
+   "id": "coelacanth",
+   "title": "Coelacanth: the \"extinct\" fish found alive",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1938,
+   "end": null,
+   "evidenceTypes": [
+    "biological"
+   ],
+   "mainstream": "Coelacanths were known only as fossils and thought to have died out about 66 million years ago. On 22 December 1938, museum curator Marjorie Courtenay-Latimer spotted one in a fisherman's catch off the Chalumna River, South Africa; J. L. B. Smith described it as Latimeria. Populations were later found off the Comoros, and a second species in Indonesia (late 1990s).",
+   "alternatives": [],
+   "changed": "Before 1938: extinct since the Cretaceous. 1938: living specimen. 1990s: Indonesian species.",
+   "sources": [
+    {
+     "title": "A Living Fish of Mesozoic Type",
+     "authors": "SMITH, J.",
+     "year": 1939,
+     "doi": "10.1038/143455a0",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: Coelacanth",
+     "url": "https://en.wikipedia.org/wiki/Coelacanth",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Coelacanth_off_Pumula_on_the_KwaZulu-Natal_South_Coast%2C_South_Africa%2C_on_22_November_2019.png/500px-Coelacanth_off_Pumula_on_the_KwaZulu-Natal_South_Coast%2C_South_Africa%2C_on_22_November_2019.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Coelacanth_off_Pumula_on_the_KwaZulu-Natal_South_Coast,_South_Africa,_on_22_November_2019.png",
+     "author": "Bruce A.S. Henderson",
+     "license": "CC BY 4.0",
+     "title": "Coelacanth_off_Pumula_on_the_KwaZulu-Natal_South_Coast,_South_Africa,_on_22_November_2019.png"
+    }
+   ],
+   "categories": [
+    "science-cosmos",
+    "anomalies"
+   ],
+   "threads": [
+    "changed-understanding",
+    "cryptids",
+    "stories-proven-true"
+   ]
+  },
+  {
+   "id": "laigle-meteorites",
+   "title": "L'Aigle 1803: stones from the sky accepted",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1803,
+   "end": null,
+   "evidenceTypes": [
+    "eyewitness",
+    "scientific investigation"
+   ],
+   "mainstream": "Before 1803 many scientists dismissed reports of stones falling from the sky as superstition, despite Ernst Chladni's 1794 argument that they came from space. On 26 April 1803 more than 3,000 fragments fell on L'Aigle, Normandy, and Jean-Baptiste Biot's investigation for the French Academy convinced scientists that meteorites are real.",
+   "alternatives": [],
+   "changed": "Pre-1794: falling stones widely dismissed. 1794: Chladni. 1803: L'Aigle settles the question.",
+   "sources": [
+    {
+     "title": "Wikipedia: L'Aigle (meteorite)",
+     "url": "https://en.wikipedia.org/wiki/L'Aigle_(meteorite)",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Ernst Chladni",
+     "url": "https://en.wikipedia.org/wiki/Ernst_Chladni",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Meteorite_L%27Aigle_MNHN_Min%C3%A9ralogie.jpg/500px-Meteorite_L%27Aigle_MNHN_Min%C3%A9ralogie.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Meteorite_L%27Aigle_MNHN_Min%C3%A9ralogie.jpg",
+     "author": "Marie-Lan Taÿ Pamart",
+     "license": "CC BY 4.0",
+     "title": "Meteorite_L'Aigle_MNHN_Minéralogie.jpg"
+    }
+   ],
+   "categories": [
+    "science-cosmos",
+    "history"
+   ],
+   "threads": [
+    "cosmic-impacts",
+    "changed-understanding",
+    "stories-proven-true"
+   ]
+  },
+  {
+   "id": "lemuria-mu",
+   "title": "Lemuria and Mu (lost continents)",
+   "lane": "myth",
+   "status": "debunked",
+   "priority": 2,
+   "start": 1864,
+   "end": null,
+   "evidenceTypes": [
+    "textual"
+   ],
+   "mainstream": "Lemuria was proposed in 1864 by zoologist Philip Sclater as a sunken land bridge in the Indian Ocean to explain lemur distributions, and Ernst Haeckel even suggested it as humanity's homeland. Plate tectonics made it unnecessary. Occultists (Blavatsky, 1888) and writers such as Augustus Le Plongeon and James Churchward (Mu, Pacific) recast it as a lost civilisation.",
+   "alternatives": [
+    {
+     "label": "Esoteric tradition",
+     "text": "Theosophical and New Age groups still describe Lemuria/Mu as a spiritual ancestral homeland (belief rather than testable claim)."
+    },
+    {
+     "label": "Geology",
+     "text": "Geologists state that a continent cannot sink in the time frames claimed; ocean-floor data show no sunken continent."
+    }
+   ],
+   "changed": "1864: scientific hypothesis. 1880s–1920s: occult and lost-civilisation versions. Mid-20th c.: plate tectonics retires the scientific idea.",
+   "sources": [
+    {
+     "title": "Wikipedia: Lemuria",
+     "url": "https://en.wikipedia.org/wiki/Lemuria",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Mu (mythical lost continent)",
+     "url": "https://en.wikipedia.org/wiki/Mu_(mythical_lost_continent)",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Hypothetical_sketch_of_the_monophylitic_origin_and_of_the_diffusion_of_the_12_varieties_of_men_from_Lemuria_over_the_earth_LCCN2014649358_%28cropped%29.jpg/500px-Hypothetical_sketch_of_the_monophylitic_origin_and_of_the_diffusion_of_the_12_varieties_of_men_from_Lemuria_over_the_earth_LCCN2014649358_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Hypothetical_sketch_of_the_monophylitic_origin_and_of_the_diffusion_of_the_12_varieties_of_men_from_Lemuria_over_the_earth_LCCN2014649358_(cropped).jpg",
+     "author": "Popular Graphic Arts",
+     "license": "Public domain",
+     "title": "Hypothetical_sketch_of_the_monophylitic_origin_and_of_the_diffusion_of_the_12_varieties_of_men_from_Lemuria_over_the_earth_LCCN2014649358_(cropped).jpg"
+    }
+   ],
+   "categories": [
+    "lost-civilisations",
+    "myth-legend",
+    "hoaxes"
+   ],
+   "threads": [
+    "lost-civilisations",
+    "changed-understanding",
+    "lost-continents"
+   ]
   }
  ]
 }
