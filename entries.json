@@ -5871,6 +5871,560 @@
    "threads": [
     "cosmic-impacts"
    ]
+  },
+  {
+   "id": "lalibela",
+   "title": "Rock-hewn churches of Lalibela",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1181,
+   "end": 1221,
+   "dateNote": "Traditional date = reign of King Lalibela (c. 1181–1221); some parts may be older",
+   "evidenceTypes": [
+    "archaeological",
+    "textual",
+    "oral tradition"
+   ],
+   "mainstream": "Eleven monolithic churches carved down into the rock in the Ethiopian Highlands, traditionally attributed to the Zagwe king Gebre Meskel Lalibela (r. c. 1181–1221) as a \"New Jerusalem\". Many archaeologists think they took shape over several construction phases. UNESCO World Heritage Site (1978) and still an active pilgrimage centre.",
+   "alternatives": [
+    {
+     "label": "Built with angelic help (tradition)",
+     "text": "Local tradition, recorded by 16th-century Portuguese visitors, attributes the churches to angels working alongside human builders; this is a religious tradition, not a testable claim."
+    },
+    {
+     "label": "Older Aksumite origin",
+     "text": "Archaeologist David Phillipson proposed that some structures were first cut c. 600–800 CE as fortifications or palaces and only later converted to churches; others dispute this dating."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Rock-Hewn Churches, Lalibela (UNESCO)",
+     "url": "https://whc.unesco.org/en/list/18",
+     "type": "institution"
+    },
+    {
+     "title": "Wikipedia: Rock-Hewn Churches, Lalibela",
+     "url": "https://en.wikipedia.org/wiki/Rock-Hewn_Churches%2C_Lalibela",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Lalibela",
+     "url": "https://en.wikipedia.org/wiki/Lalibela",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Lalibela%2C_san_giorgio%2C_esterno_24.jpg/500px-Lalibela%2C_san_giorgio%2C_esterno_24.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Lalibela,_san_giorgio,_esterno_24.jpg",
+     "author": "Sailko",
+     "license": "CC BY 3.0",
+     "title": "Lalibela,_san_giorgio,_esterno_24.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology",
+    "religion"
+   ],
+   "threads": [
+    "giant-monuments"
+   ]
+  },
+  {
+   "id": "kilwa",
+   "title": "Kilwa Kisiwani and the Swahili coast",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1100,
+   "end": 1505,
+   "evidenceTypes": [
+    "archaeological",
+    "textual"
+   ],
+   "mainstream": "Island city off southern Tanzania that led the Kilwa Sultanate, a Swahili trading state whose influence peaked in the 13th–15th centuries. Kilwa minted its own coins (found as far inland as Great Zimbabwe); Ibn Battuta praised it c. 1331; the Portuguese sacked it in 1505. UNESCO World Heritage Site.",
+   "alternatives": [
+    {
+     "label": "Founding tradition",
+     "text": "The Kilwa Chronicle tells of a founding by a Persian (Shirazi) prince; historians debate how far this reflects actual migration versus later prestige claims, noting little evidence of Shirazi Shia Islam on the coast."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Ruins of Kilwa Kisiwani and Songo Mnara (UNESCO)",
+     "url": "https://whc.unesco.org/en/list/144",
+     "type": "institution"
+    },
+    {
+     "title": "Wikipedia: Kilwa Kisiwani",
+     "url": "https://en.wikipedia.org/wiki/Kilwa_Kisiwani",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Kilwa Sultanate",
+     "url": "https://en.wikipedia.org/wiki/Kilwa_Sultanate",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Great_Mosque_Kilwa_Interior.jpg/500px-Great_Mosque_Kilwa_Interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Great_Mosque_Kilwa_Interior.jpg",
+     "author": "Khalidsalewa",
+     "license": "CC BY-SA 4.0",
+     "title": "Great_Mosque_Kilwa_Interior.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology"
+   ],
+   "threads": []
+  },
+  {
+   "id": "timbuktu-manuscripts",
+   "title": "Timbuktu manuscripts",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1300,
+   "end": 2013,
+   "dateNote": "Manuscripts date from the late 13th to the early 20th century; rescue 2012–13",
+   "evidenceTypes": [
+    "textual"
+   ],
+   "mainstream": "A vast, still uncounted body of manuscripts (late 13th to early 20th centuries; one project alone has photographed over 150,000) on law, religion, astronomy, medicine, history and more, kept for generations in Timbuktu family libraries in Mali. In 2012–13, during the Northern Mali conflict, 4,203 were burned or stolen, while families and librarians smuggled most of the rest to Bamako; large digitisation projects followed.",
+   "alternatives": [
+    {
+     "label": "Hidden knowledge angle",
+     "text": "Because most manuscripts remain uncatalogued and unstudied, their full content is unknown; claims about what they might reveal are speculative until they are read and published."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Timbuktu (UNESCO)",
+     "url": "https://whc.unesco.org/en/list/119",
+     "type": "institution"
+    },
+    {
+     "title": "Wikipedia: Timbuktu Manuscripts",
+     "url": "https://en.wikipedia.org/wiki/Timbuktu_Manuscripts",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Timbuktu-manuscripts-astronomy-mathematics.jpg/500px-Timbuktu-manuscripts-astronomy-mathematics.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Timbuktu-manuscripts-astronomy-mathematics.jpg",
+     "author": "Elias Altmimi",
+     "license": "Public domain",
+     "title": "Timbuktu-manuscripts-astronomy-mathematics.jpg"
+    }
+   ],
+   "categories": [
+    "history"
+   ],
+   "threads": []
+  },
+  {
+   "id": "ishango-bone",
+   "title": "Ishango bone",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -18000,
+   "end": null,
+   "dateNote": "Usually dated c. 20,000 years ago; dating debated",
+   "evidenceTypes": [
+    "archaeological"
+   ],
+   "mainstream": "Engraved bone tool (animal species undetermined) found in 1950 at Ishango, DR Congo, by Jean de Heinzelin; now usually dated to about 20,000 years ago. Its grouped notches are often described as one of the oldest possible mathematical artefacts; older notched bones exist, such as the c. 42,000-year-old Lebombo bone from southern Africa.",
+   "alternatives": [
+    {
+     "label": "Arithmetic / prime numbers",
+     "text": "De Heinzelin and later writers suggested the notch groups show deliberate arithmetic, and one column has been read as the primes between 10 and 20 (speculative; may be coincidence)."
+    },
+    {
+     "label": "Lunar calendar",
+     "text": "Some researchers have proposed the marks track lunar phases (speculative)."
+    },
+    {
+     "label": "Sceptical view",
+     "text": "The marks could be tallies or simply grip-improving scratches; dating is also debated because volcanic activity disturbed carbon ratios."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Ishango bone",
+     "url": "https://en.wikipedia.org/wiki/Ishango_bone",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Lebombo bone",
+     "url": "https://en.wikipedia.org/wiki/Lebombo_bone",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Ishango_bone_%28cropped%29.jpg/500px-Ishango_bone_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Ishango_bone_(cropped).jpg",
+     "author": "Joeykentin",
+     "license": "CC BY-SA 4.0",
+     "title": "Ishango_bone_(cropped).jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "science-cosmos",
+    "anomalies"
+   ],
+   "threads": []
+  },
+  {
+   "id": "prester-john",
+   "title": "Prester John: the lost Christian king",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": 1145,
+   "end": 1700,
+   "evidenceTypes": [
+    "textual"
+   ],
+   "mainstream": "Medieval European legend of a rich Christian priest-king ruling a lost realm \"in the Indies\". It is first recorded by Otto of Freising (1145), and a widely copied Letter of Prester John (c. 1165, probably a Western forgery) spread it. The legend was attached first to Central Asia and later to Ethiopia, whose rulers never used the title.",
+   "alternatives": [
+    {
+     "label": "Real kernel",
+     "text": "Scholars link the legend to real but distant Christians (Church of the East converts such as the Kerait of Central Asia, Christian Ethiopia), and the 1145 report to the Qara Khitai victory over the Seljuks at Qatwan in 1141."
+    },
+    {
+     "label": "Propaganda",
+     "text": "Some historians read it partly as crusade-era wishful thinking or propaganda about a powerful eastern ally."
+    }
+   ],
+   "changed": "12th c.: placed in Asia. c. 1250 onward: increasingly identified with Ethiopia. 17th c.: Hiob Ludolf shows no native Ethiopian link and the search fades.",
+   "sources": [
+    {
+     "title": "Wikipedia: Prester John",
+     "url": "https://en.wikipedia.org/wiki/Prester_John",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Prester_John.jpg/500px-Prester_John.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Prester_John.jpg",
+     "author": "Diogo Homem",
+     "license": "Public domain",
+     "title": "Prester_John.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion",
+    "history",
+    "lost-civilisations"
+   ],
+   "threads": [
+    "lost-civilisations",
+    "hoaxes-exposed"
+   ]
+  },
+  {
+   "id": "qin-mausoleum",
+   "title": "Mausoleum of Qin Shi Huang (mercury rivers)",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": -246,
+   "end": -208,
+   "evidenceTypes": [
+    "archaeological",
+    "textual",
+    "geochemical"
+   ],
+   "mainstream": "Tomb complex of China's first emperor near Xi'an, built 246–208 BCE under a 76 m mound and guarded by the Terracotta Army. The main tomb chamber has never been opened. Sima Qian wrote that it contained rivers and seas of mercury; soil surveys over the mound have measured anomalously high mercury levels.",
+   "alternatives": [
+    {
+     "label": "Sima Qian confirmed",
+     "text": "Many researchers see the soil mercury as support for Sima Qian's account of mercury rivers in the sealed chamber."
+    },
+    {
+     "label": "Sceptical view",
+     "text": "Some argue the mercury readings may reflect local industrial pollution; only excavation could settle it, and archaeologists have delayed opening the tomb over preservation and safety concerns."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Mausoleum of the First Qin Emperor (UNESCO)",
+     "url": "https://whc.unesco.org/en/list/441",
+     "type": "institution"
+    },
+    {
+     "title": "Wikipedia: Mausoleum of Qin Shi Huang",
+     "url": "https://en.wikipedia.org/wiki/Mausoleum_of_Qin_Shi_Huang",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Terracotta Army",
+     "url": "https://en.wikipedia.org/wiki/Terracotta_Army",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/51714-Terracota-Army.jpg/500px-51714-Terracota-Army.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:51714-Terracota-Army.jpg",
+     "author": "xiquinhosilva",
+     "license": "CC BY 2.0",
+     "title": "51714-Terracota-Army.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history",
+    "anomalies"
+   ],
+   "threads": [
+    "giant-monuments",
+    "stories-proven-true"
+   ]
+  },
+  {
+   "id": "borobudur",
+   "title": "Borobudur",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 800,
+   "end": null,
+   "evidenceTypes": [
+    "archaeological"
+   ],
+   "mainstream": "Huge 9th-century Mahayana Buddhist monument in Central Java, Indonesia, built as a stepped stupa with thousands of relief panels. It was later abandoned, possibly after volcanic eruptions and the shift of power to East Java (10th century) or after conversion to Islam, and lay under ash and jungle. Restored with UNESCO by 1983; World Heritage Site 1991.",
+   "alternatives": [
+    {
+     "label": "Abandonment mystery",
+     "text": "Why and when Borobudur was abandoned is still unresolved; volcanic, political and religious explanations are all proposed."
+    }
+   ],
+   "changed": "1814: brought to European attention by Stamford Raffles after local Javanese reported it. 1975–82: major Indonesian–UNESCO restoration.",
+   "sources": [
+    {
+     "title": "Borobudur Temple Compounds (UNESCO)",
+     "url": "https://whc.unesco.org/en/list/592",
+     "type": "institution"
+    },
+    {
+     "title": "Wikipedia: Borobudur",
+     "url": "https://en.wikipedia.org/wiki/Borobudur",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Pradaksina.jpg/500px-Pradaksina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Pradaksina.jpg",
+     "author": "Heri nugroho",
+     "license": "CC BY-SA 4.0",
+     "title": "Pradaksina.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history",
+    "religion"
+   ],
+   "threads": [
+    "giant-monuments"
+   ]
+  },
+  {
+   "id": "zheng-he",
+   "title": "Zheng He's treasure voyages",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1405,
+   "end": 1433,
+   "evidenceTypes": [
+    "textual",
+    "archaeological"
+   ],
+   "mainstream": "Between 1405 and 1433 the Ming admiral Zheng He commanded seven large fleets across Southeast Asia and the Indian Ocean as far as Arabia and East Africa (a giraffe from Malindi was presented at court as a qilin). The voyages ended and Ming China turned inward.",
+   "alternatives": [
+    {
+     "label": "China discovered America (1421 claim)",
+     "text": "Gavin Menzies's 2002 book 1421 argued that Zheng He's fleets reached the Americas and circled the globe; historians reject this as pseudohistory for lack of evidence."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Zheng He",
+     "url": "https://en.wikipedia.org/wiki/Zheng_He",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Ming treasure voyages",
+     "url": "https://en.wikipedia.org/wiki/Ming_treasure_voyages",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Gavin Menzies",
+     "url": "https://en.wikipedia.org/wiki/Gavin_Menzies",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/2016_Malakka%2C_Stadhuys_%2809%29.jpg/500px-2016_Malakka%2C_Stadhuys_%2809%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:2016_Malakka,_Stadhuys_(09).jpg",
+     "author": "Marcin Konsek",
+     "license": "CC BY-SA 4.0",
+     "title": "2016_Malakka,_Stadhuys_(09).jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "hoaxes"
+   ],
+   "threads": [
+    "ocean-voyagers"
+   ]
+  },
+  {
+   "id": "homo-floresiensis",
+   "title": "Homo floresiensis (\"hobbits\") and the Ebu Gogo",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -100000,
+   "end": -50000,
+   "evidenceTypes": [
+    "archaeological",
+    "geological"
+   ],
+   "mainstream": "A small-bodied archaic human species found in 2003 at Liang Bua cave on Flores, Indonesia. Revised dating (2016) puts the skeletal remains at about 100,000–60,000 years ago and stone tools to about 50,000 years ago, around when modern humans arrived. Its small size is usually explained by island dwarfism.",
+   "alternatives": [
+    {
+     "label": "Pathology hypothesis",
+     "text": "Some researchers argued the LB1 skeleton was a modern human with microcephaly or another disorder; later analyses mostly support a separate species."
+    },
+    {
+     "label": "Folk memory (Ebu Gogo)",
+     "text": "Flores folklore tells of small, hairy \"Ebu Gogo\" people; ethnologist Gregory Forth suggested such tales might preserve memories of real hominins. This has little support since the remains were dated to well before recent times (speculative)."
+    }
+   ],
+   "changed": "2004: initially thought to have survived until c. 12,000 years ago, fuelling Ebu Gogo speculation. 2016: re-dating pushes the remains back to 100–60 ka.",
+   "sources": [
+    {
+     "title": "A new small-bodied hominin from the Late Pleistocene of Flores, Indonesia",
+     "authors": "Brown, P. et al.",
+     "year": 2004,
+     "doi": "10.1038/nature02999",
+     "type": "paper"
+    },
+    {
+     "title": "Revised stratigraphy and chronology for Homo floresiensis at Liang Bua in Indonesia",
+     "authors": "Sutikna, T. et al.",
+     "year": 2016,
+     "doi": "10.1038/nature17179",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: Homo floresiensis",
+     "url": "https://en.wikipedia.org/wiki/Homo_floresiensis",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Ebu gogo",
+     "url": "https://en.wikipedia.org/wiki/Ebu_gogo",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Homo_Florensiensis-MGL_95216-P5030051-white.jpg/500px-Homo_Florensiensis-MGL_95216-P5030051-white.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Homo_Florensiensis-MGL_95216-P5030051-white.jpg",
+     "author": "Rama",
+     "license": "CC BY-SA 3.0 fr",
+     "title": "Homo_Florensiensis-MGL_95216-P5030051-white.jpg"
+    }
+   ],
+   "categories": [
+    "science-cosmos",
+    "archaeology",
+    "myth-legend"
+   ],
+   "threads": [
+    "changed-understanding",
+    "cryptids",
+    "deep-oral-memory",
+    "giants-and-little-people"
+   ]
+  },
+  {
+   "id": "siberian-ice-maiden",
+   "title": "Siberian Ice Maiden (Ukok princess)",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 3,
+   "start": -500,
+   "end": null,
+   "evidenceTypes": [
+    "archaeological",
+    "genetic"
+   ],
+   "mainstream": "Naturally frozen mummy of a young woman of the Pazyryk culture (5th century BCE), found in 1993 by Natalia Polosmak on the Ukok Plateau in the Altai Republic, Siberia, with intact clothing, deer-style tattoos and sacrificed horses. Returned to Gorno-Altaisk in 2012.",
+   "alternatives": [
+    {
+     "label": "Indigenous view",
+     "text": "Many Altaians regard her as an ancestral figure (linked to the epic heroine Ochy-bala) and some have sought her reburial; further excavation on Ukok is barred at their request."
+    },
+    {
+     "label": "Contested ancestry",
+     "text": "Genetic claims about her European or Altaian ancestry became politically charged; scholars caution against using them to settle modern identity disputes."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Siberian Ice Maiden",
+     "url": "https://en.wikipedia.org/wiki/Siberian_Ice_Maiden",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Pazyryk culture",
+     "url": "https://en.wikipedia.org/wiki/Pazyryk_culture",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Mummy_of_the_Ukok_Princess.jpg/500px-Mummy_of_the_Ukok_Princess.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Mummy_of_the_Ukok_Princess.jpg",
+     "author": "The original uploader was Kobsev at Russian Wikipedia.",
+     "license": "Public domain",
+     "title": "Mummy_of_the_Ukok_Princess.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history"
+   ],
+   "threads": []
   }
  ]
 }

@@ -97,3 +97,68 @@ addt('changed-understanding','great-zimbabwe monte-verde clovis-first wilusa')
 addt('giant-monuments','great-zimbabwe nan-madol rapa-nui-moai baalbek puma-punku olmec-heads teotihuacan angkor cahokia meroe')
 addt('cryptids','mokele-mbembe loch-ness bigfoot-film')
 addt('stories-proven-true','wilusa troy great-zimbabwe')
+
+# --- batch 4
+C.update({
+'lalibela':'history archaeology religion',
+'kilwa':'history archaeology',
+'timbuktu-manuscripts':'history',
+'ishango-bone':'archaeology science-cosmos anomalies',
+'prester-john':'myth-legend religion history lost-civilisations',
+'qin-mausoleum':'archaeology history anomalies',
+'borobudur':'archaeology history religion',
+'zheng-he':'history hoaxes',
+'homo-floresiensis':'science-cosmos archaeology myth-legend',
+'siberian-ice-maiden':'archaeology history',
+'chaco-canyon':'archaeology science-cosmos',
+'kennewick-man':'archaeology science-cosmos',
+'polynesia-america-contact':'history archaeology science-cosmos',
+'budj-bim':'archaeology catastrophes myth-legend',
+'cascadia-1700':'catastrophes history myth-legend',
+'sn-1054':'science-cosmos history',
+'volcanic-winter-536':'catastrophes history science-cosmos',
+'giant-impact-moon':'science-cosmos catastrophes',
+'great-dying':'science-cosmos catastrophes',
+'draupner-wave':'science-cosmos anomalies',
+'anansi':'myth-legend religion',
+'rainbow-serpent':'myth-legend religion',
+'maui':'myth-legend',
+'pele':'myth-legend religion catastrophes',
+'five-suns':'myth-legend religion catastrophes',
+'el-dorado':'myth-legend lost-civilisations archaeology',
+'nuwa':'myth-legend religion',
+'bakunawa':'myth-legend science-cosmos',
+'naga-fireballs':'myth-legend anomalies',
+'kumari-kandam':'myth-legend lost-civilisations',
+'nuremberg-1561':'aliens-ufo anomalies history',
+'tehran-1976':'aliens-ufo anomalies',
+'colares-1977':'aliens-ufo anomalies',
+'valentich-1978':'aliens-ufo anomalies',
+'hessdalen-lights':'anomalies science-cosmos aliens-ufo',
+'aaro-2024':'aliens-ufo history',
+'cardiff-giant':'hoaxes',
+'fujimura-hoax':'hoaxes archaeology',
+'coelacanth':'science-cosmos anomalies',
+'laigle-meteorites':'science-cosmos history',
+'lemuria-mu':'lost-civilisations myth-legend hoaxes',
+})
+addt('flood-myths','nuwa five-suns kumari-kandam cascadia-1700 rainbow-serpent')
+addt('lost-civilisations','kumari-kandam lemuria-mu el-dorado prester-john')
+addt('sky-beings','nuremberg-1561')
+addt('cosmic-impacts','giant-impact-moon laigle-meteorites great-dying')
+addt('changed-understanding','kennewick-man polynesia-america-contact homo-floresiensis coelacanth laigle-meteorites draupner-wave lemuria-mu cascadia-1700 giant-impact-moon fujimura-hoax')
+addt('ufo-encounters','nuremberg-1561 tehran-1976 colares-1977 valentich-1978 hessdalen-lights aaro-2024')
+addt('hoaxes-exposed','cardiff-giant fujimura-hoax prester-john')
+addt('giant-monuments','lalibela borobudur chaco-canyon qin-mausoleum')
+addt('cryptids','homo-floresiensis coelacanth')
+addt('stories-proven-true','cascadia-1700 coelacanth draupner-wave laigle-meteorites el-dorado budj-bim qin-mausoleum pele polynesia-america-contact')
+addt('deep-oral-memory','budj-bim cascadia-1700 pele mazama-klamath aboriginal-coast homo-floresiensis kumari-kandam wilusa')
+addt('serpent-beings','rainbow-serpent bakunawa naga-fireballs nyaminyami quetzalcoatl')
+addt('lost-continents','atlantis lemuria-mu kumari-kandam sundaland doggerland')
+addt('sky-omens','sn-1054 nuremberg-1561 volcanic-winter-536 bakunawa miracle-of-sun')
+addt('world-ages-and-resets','five-suns popol-vuh ragnarok viracocha')
+addt('creation-myths','pangu izanagi-izanami bunjil nuwa rainbow-serpent maui pele five-suns popol-vuh viracocha anansi')
+addt('volcanoes-and-memory','budj-bim pele mazama-klamath thera toba volcanic-winter-536')
+addt('giants-and-little-people','nephilim cardiff-giant homo-floresiensis')
+addt('ocean-voyagers','zheng-he polynesia-america-contact kupe lapita maui vinland')
+addt('mass-extinctions','great-dying kpg')
