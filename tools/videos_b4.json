@@ -1,0 +1,68 @@
+{
+ "kilwa": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=V-Ki1rLcD9Y",
+  "title": "Kilwa Kisiwani, Tanzania",
+  "channel": "Smarthistory"
+ },
+ "timbuktu-manuscripts": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=d-s7fhgCI5g",
+  "title": "Preserving the priceless manuscripts of Timbuktu",
+  "channel": "PBS NewsHour"
+ },
+ "qin-mausoleum": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=-6Ia-SEidBA",
+  "title": "The First Emperor's Mega Tomb: Uncovering a Lost World | SPECIAL | National Geographic",
+  "channel": "National Geographic"
+ },
+ "homo-floresiensis": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=hp123flyH8I",
+  "title": "When Hobbits Were Real",
+  "channel": "PBS Eons"
+ },
+ "siberian-ice-maiden": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=pwa682G4pO8",
+  "title": "The 'curse' of Siberia's 2,500-year-old 'Ice Maiden' - BBC REEL",
+  "channel": "BBC Global"
+ },
+ "sn-1054": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=Bw-NtS3lM9w",
+  "title": "The Supernova of 1054, Our Very Special \"Guest Star\"",
+  "channel": "SciShow Space"
+ },
+ "giant-impact-moon": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=kRlhlCWplqk",
+  "title": "New Supercomputer Simulation Sheds Light on Moon’s Origin",
+  "channel": "NASA's Ames Research Center"
+ },
+ "great-dying": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=ovLCVK9zgNU",
+  "title": "Could You Survive The Great Dying?",
+  "channel": "PBS Eons"
+ },
+ "anansi": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=6nWba9Ii5Lo",
+  "title": "The myth of Anansi, the trickster spider - Emily Zobel Marshall",
+  "channel": "TED-Ed"
+ },
+ "five-suns": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=fMPG-2vXi-s",
+  "title": "The Aztec myth of the unlikeliest sun god - Kay Almere Read",
+  "channel": "TED-Ed"
+ },
+ "coelacanth": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=ujKL1pUHDfo",
+  "title": "The coelacanth: A living fossil of a fish - Erin Eastwood",
+  "channel": "TED-Ed"
+ }
+}
