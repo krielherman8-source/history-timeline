@@ -6425,6 +6425,581 @@
     "history"
    ],
    "threads": []
+  },
+  {
+   "id": "chaco-canyon",
+   "title": "Chaco Canyon and the Sun Dagger",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 900,
+   "end": 1150,
+   "evidenceTypes": [
+    "archaeological",
+    "archaeoastronomical"
+   ],
+   "mainstream": "Between about 900 and 1150 CE Chaco Canyon (New Mexico) was a major Ancestral Puebloan centre with great houses built from quarried sandstone and timber hauled long distances, linked by roads. On Fajada Butte, a \"Sun Dagger\" petroglyph where light passes through stone slabs onto spirals was recorded in 1977. UNESCO World Heritage Site.",
+   "alternatives": [
+    {
+     "label": "Deliberate solar–lunar calendar",
+     "text": "Researchers led by Anna Sofaer argue the Sun Dagger and building alignments track solstices, equinoxes and lunar cycles."
+    },
+    {
+     "label": "Sceptical view",
+     "text": "Others think some alignments may be coincidental; the extent of planned astronomy is debated. In 1989 erosion from visitors shifted one slab, reducing the site's precision."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Chaco Culture (UNESCO)",
+     "url": "https://whc.unesco.org/en/list/353",
+     "type": "institution"
+    },
+    {
+     "title": "Chaco Culture National Historical Park (US NPS)",
+     "url": "https://www.nps.gov/chcu/index.htm",
+     "type": "institution"
+    },
+    {
+     "title": "Wikipedia: Chaco Culture National Historical Park",
+     "url": "https://en.wikipedia.org/wiki/Chaco_Culture_National_Historical_Park",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Fajada Butte",
+     "url": "https://en.wikipedia.org/wiki/Fajada_Butte",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Chaco_Culture_NHP_%288023723138%29.jpg/500px-Chaco_Culture_NHP_%288023723138%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Chaco_Culture_NHP_(8023723138).jpg",
+     "author": "Greg Willis from Denver, CO, usa",
+     "license": "CC BY-SA 2.0",
+     "title": "Chaco_Culture_NHP_(8023723138).jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "science-cosmos"
+   ],
+   "threads": [
+    "giant-monuments"
+   ]
+  },
+  {
+   "id": "kennewick-man",
+   "title": "Kennewick Man (the Ancient One)",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -6600,
+   "end": null,
+   "dateNote": "Lived c. 8,400–8,700 years ago; found 1996",
+   "evidenceTypes": [
+    "archaeological",
+    "radiocarbon",
+    "genetic"
+   ],
+   "mainstream": "Skeleton found in 1996 by the Columbia River in Washington State, radiocarbon-dated to about 8,400–8,700 years ago. A 2015 genome study found him closest to modern Native Americans. After nearly 20 years of legal dispute he was reburied by Columbia Basin tribes in 2017.",
+   "alternatives": [
+    {
+     "label": "Early non-Native origin (superseded)",
+     "text": "Early skull-shape analyses called him \"Caucasoid\", fuelling claims that ancient Europeans or Ainu-like people reached America first; ancient DNA did not support this."
+    }
+   ],
+   "changed": "1996–2014: skull morphology suggests non-Native affinities. 2015: genome shows Native American ancestry. 2017: reburial.",
+   "sources": [
+    {
+     "title": "The ancestry and affiliations of Kennewick Man",
+     "authors": "Rasmussen, M. et al.",
+     "year": 2015,
+     "doi": "10.1038/nature14625",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: Kennewick Man",
+     "url": "https://en.wikipedia.org/wiki/Kennewick_Man",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Kennewick_Man.jpg/500px-Kennewick_Man.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Kennewick_Man.jpg",
+     "author": "Ghedoghedo",
+     "license": "CC BY-SA 4.0",
+     "title": "Kennewick_Man.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "science-cosmos"
+   ],
+   "threads": [
+    "changed-understanding"
+   ]
+  },
+  {
+   "id": "polynesia-america-contact",
+   "title": "Polynesian–American contact (Kon-Tiki to genomes)",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1200,
+   "end": null,
+   "evidenceTypes": [
+    "genetic",
+    "botanical",
+    "experimental"
+   ],
+   "mainstream": "In 1947 Thor Heyerdahl's Kon-Tiki raft sailed from Peru to Polynesia to argue that South Americans settled Polynesia. Most scholars rejected that model, since language and archaeology show Polynesians came from the west. A 2020 genome study found Native American ancestry in eastern Polynesians from a single contact around 1200 CE, and the sweet potato's spread also points to pre-Columbian contact.",
+   "alternatives": [
+    {
+     "label": "Who travelled?",
+     "text": "It is unresolved whether Polynesian voyagers reached South America and returned, or South Americans drifted west; the genetic signal fits either (open question)."
+    },
+    {
+     "label": "Heyerdahl vindicated?",
+     "text": "Some see the genetics as partly vindicating Heyerdahl; most researchers note it shows brief contact, not South American settlement of Polynesia."
+    }
+   ],
+   "changed": "1947: Kon-Tiki popularises an American-origin theory. Late 20th c.: rejected in favour of a western origin. 2020: genomics confirms limited contact c. 1200 CE.",
+   "sources": [
+    {
+     "title": "Native American gene flow into Polynesia predating Easter Island settlement",
+     "authors": "Ioannidis, A. et al.",
+     "year": 2020,
+     "doi": "10.1038/s41586-020-2487-2",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: Kon-Tiki expedition",
+     "url": "https://en.wikipedia.org/wiki/Kon-Tiki_expedition",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Pre-Columbian transoceanic contact theories",
+     "url": "https://en.wikipedia.org/wiki/Pre-Columbian_transoceanic_contact_theories",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Kon-Tiki%2C_Kon-Tiki_Museum%2C_2019_%2802%29.jpg/500px-Kon-Tiki%2C_Kon-Tiki_Museum%2C_2019_%2802%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Kon-Tiki,_Kon-Tiki_Museum,_2019_(02).jpg",
+     "author": "Bahnfrend",
+     "license": "CC BY-SA 4.0",
+     "title": "Kon-Tiki,_Kon-Tiki_Museum,_2019_(02).jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology",
+    "science-cosmos"
+   ],
+   "threads": [
+    "changed-understanding",
+    "stories-proven-true",
+    "ocean-voyagers"
+   ]
+  },
+  {
+   "id": "cascadia-1700",
+   "title": "1700 Cascadia earthquake and the \"orphan tsunami\"",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": 1700,
+   "end": null,
+   "evidenceTypes": [
+    "geological",
+    "textual",
+    "oral tradition"
+   ],
+   "mainstream": "On 26 January 1700 a magnitude ~8.7–9.2 megathrust earthquake ruptured about 1,000 km of the Cascadia subduction zone off western North America. Its tsunami reached Japan, where records of a wave with no felt earthquake allowed scientists in 1996 to date it to about 9 pm local time. Indigenous oral traditions from British Columbia to California describe a great quake and flood, e.g. the Huu-ay-aht account of Pachena Bay on a winter night.",
+   "alternatives": [
+    {
+     "label": "Thunderbird and Whale",
+     "text": "A widespread Northwest Coast motif of a battle between Thunderbird and Whale has been interpreted by some researchers as a mythic memory of earthquakes (interpretive)."
+    }
+   ],
+   "changed": "Before 1980s: Cascadia not thought capable of giant quakes. 1980s–90s: \"ghost forests\" (tree rings ending 1699) and Japanese records confirm the 1700 event and oral histories.",
+   "sources": [
+    {
+     "title": "Time and size of a giant earthquake in Cascadia inferred from Japanese tsunami records of January 1700",
+     "authors": "Satake, K. et al.",
+     "year": 1996,
+     "doi": "10.1038/379246a0",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: 1700 Cascadia earthquake",
+     "url": "https://en.wikipedia.org/wiki/1700_Cascadia_earthquake",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Cascadia_subduction_zone_USGS.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Cascadia_subduction_zone_USGS.png",
+     "author": "The original uploader was Curps at English Wikipedia.\n\nLater versions were uploaded by Remember the dot at en.wikipedia.",
+     "license": "Public domain",
+     "title": "Cascadia_subduction_zone_USGS.png"
+    }
+   ],
+   "categories": [
+    "catastrophes",
+    "history",
+    "myth-legend"
+   ],
+   "threads": [
+    "flood-myths",
+    "changed-understanding",
+    "stories-proven-true",
+    "deep-oral-memory"
+   ]
+  },
+  {
+   "id": "sn-1054",
+   "title": "SN 1054: the Crab supernova \"guest star\"",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1054,
+   "end": 1056,
+   "evidenceTypes": [
+    "textual",
+    "astronomical"
+   ],
+   "mainstream": "Chinese astronomers recorded a \"guest star\" in July 1054 that remained visible until April 1056. Its remnant is the Crab Nebula, identified in the 20th century through the work of Lundmark, Mayall and Oort. The event is also mentioned in a later Japanese document and an Islamic-world source.",
+   "alternatives": [
+    {
+     "label": "Ancestral Puebloan record",
+     "text": "A pictograph near Peñasco Blanco in Chaco Canyon showing a star, crescent and hand is proposed to depict the supernova (plausible but unproven)."
+    },
+    {
+     "label": "Cahokia link",
+     "text": "Some have speculated that the event influenced the rise or building at Cahokia (speculative)."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: SN 1054",
+     "url": "https://en.wikipedia.org/wiki/SN_1054",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Crab Nebula",
+     "url": "https://en.wikipedia.org/wiki/Crab_Nebula",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Crab_Nebula.jpg/500px-Crab_Nebula.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Crab_Nebula.jpg",
+     "author": "NASA, ESA, J. Hester and A. Loll (Arizona State University)",
+     "license": "Public domain",
+     "title": "Crab_Nebula.jpg"
+    }
+   ],
+   "categories": [
+    "science-cosmos",
+    "history"
+   ],
+   "threads": [
+    "sky-omens"
+   ]
+  },
+  {
+   "id": "giant-impact-moon",
+   "title": "Giant impact forms the Moon (Theia)",
+   "lane": "history",
+   "status": "hypothesis",
+   "priority": 1,
+   "start": -4500000000.0,
+   "end": null,
+   "evidenceTypes": [
+    "geochemical",
+    "computer modelling"
+   ],
+   "mainstream": "The leading explanation for the Moon's origin: about 4.5 billion years ago, 20–100 million years after the Solar System formed, a Mars-sized body (often called Theia) collided with the proto-Earth, and the debris re-accreted as the Moon. Proposed in 1946 (Daly) and revived in 1974–75 (Hartmann and Davis), it was tested against Apollo-sample data and computer simulations.",
+   "alternatives": [
+    {
+     "label": "Isotope puzzle",
+     "text": "Lunar and Earth rocks are almost identical isotopically, which some models struggle to explain; alternatives include a high-energy impact, a synestia, or multiple smaller impacts."
+    },
+    {
+     "label": "Other models",
+     "text": "Older ideas such as capture or fission are now largely out of favour."
+    }
+   ],
+   "changed": "1946: Daly proposes it. 1974–75: revived (Hartmann & Davis); Apollo-era data debated. 2001: high-resolution simulations (Canup & Asphaug).",
+   "sources": [
+    {
+     "title": "Origin of the Moon in a giant impact near the end of the Earth's formation",
+     "authors": "Canup, R. et al.",
+     "year": 2001,
+     "doi": "10.1038/35089010",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: Giant-impact hypothesis",
+     "url": "https://en.wikipedia.org/wiki/Giant-impact_hypothesis",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Artist%27s_concept_of_collision_at_HD_172555.jpg/500px-Artist%27s_concept_of_collision_at_HD_172555.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Artist%27s_concept_of_collision_at_HD_172555.jpg",
+     "author": "NASA/JPL-Caltech",
+     "license": "Public domain",
+     "title": "Artist's_concept_of_collision_at_HD_172555.jpg"
+    }
+   ],
+   "categories": [
+    "science-cosmos",
+    "catastrophes"
+   ],
+   "threads": [
+    "cosmic-impacts",
+    "changed-understanding"
+   ]
+  },
+  {
+   "id": "great-dying",
+   "title": "The Great Dying (end-Permian extinction)",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": -251900000.0,
+   "end": -251880000.0,
+   "evidenceTypes": [
+    "geological",
+    "paleontological",
+    "radiometric"
+   ],
+   "mainstream": "The most severe mass extinction known, about 251.9 million years ago: roughly 81% of marine species and 70% of land vertebrate species vanished. High-precision dating (2014) puts the main pulse at about 60,000 years. The consensus cause is Siberian Traps flood-basalt eruptions, which drove warming, ocean acidification and oxygen-starved seas.",
+   "alternatives": [
+    {
+     "label": "Impact contribution",
+     "text": "Some researchers have proposed an asteroid impact played a role, but no accepted crater or impact signature has been confirmed (minority view)."
+    }
+   ],
+   "sources": [
+    {
+     "title": "High-precision timeline for Earth’s most severe extinction",
+     "authors": "Burgess, S. et al.",
+     "year": 2014,
+     "doi": "10.1073/pnas.1317692111",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: Permian–Triassic extinction event",
+     "url": "https://en.wikipedia.org/wiki/Permian%E2%80%93Triassic_extinction_event",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Extent_of_Siberian_traps_german.png/500px-Extent_of_Siberian_traps_german.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Extent_of_Siberian_traps_german.png",
+     "author": "derivative work: Jo (talk)\nSibirien_topo2.png: Ulamm 21:06, 18 April 2008 (UTC)",
+     "license": "CC BY-SA 3.0",
+     "title": "Extent_of_Siberian_traps_german.png"
+    }
+   ],
+   "categories": [
+    "science-cosmos",
+    "catastrophes"
+   ],
+   "threads": [
+    "cosmic-impacts",
+    "mass-extinctions"
+   ]
+  },
+  {
+   "id": "draupner-wave",
+   "title": "Draupner wave: sailors' \"freak waves\" proven",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1995,
+   "end": null,
+   "evidenceTypes": [
+    "instrumental"
+   ],
+   "mainstream": "On 1 January 1995, a laser sensor on the Draupner gas platform in the North Sea measured a single 25.6 m wave, far larger than its surroundings. It was the first instrumental record of a rogue wave. For a long time sailors' reports of such waves had been treated as exaggeration because standard models made them vanishingly rare.",
+   "alternatives": [],
+   "changed": "Before 1995: rogue waves widely regarded as sailors' tales. 1995: first measured. 2000s: satellite surveys show they are more common than models predicted.",
+   "sources": [
+    {
+     "title": "Wikipedia: Draupner wave",
+     "url": "https://en.wikipedia.org/wiki/Draupner_wave",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Rogue wave",
+     "url": "https://en.wikipedia.org/wiki/Rogue_wave",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Draupner_wave%282048x1270px%29.png/500px-Draupner_wave%282048x1270px%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Draupner_wave(2048x1270px).png",
+     "author": "Ingvald Straume",
+     "license": "CC BY-SA 3.0",
+     "title": "Draupner_wave(2048x1270px).png"
+    }
+   ],
+   "categories": [
+    "science-cosmos",
+    "anomalies"
+   ],
+   "threads": [
+    "changed-understanding",
+    "stories-proven-true"
+   ]
+  },
+  {
+   "id": "budj-bim",
+   "title": "Budj Bim: eruption memory and eel traps",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -34900,
+   "end": null,
+   "dateNote": "Eruption c. 36,900 years ago (Ar–Ar, 2020); eel traps from c. 6,600 years ago",
+   "evidenceTypes": [
+    "geological",
+    "archaeological",
+    "oral tradition"
+   ],
+   "mainstream": "Budj Bim (Mount Eccles), a volcano in south-western Victoria, Australia, was dated in 2020 by argon–argon methods to about 36,900 years ago. Gunditjmara creation stories tell of an ancestral being transforming into the volcano. The lava flow later hosted Gunditjmara eel-trap aquaculture, with one trap system carbon-dated to about 6,600 years ago (UNESCO World Heritage, 2019).",
+   "alternatives": [
+    {
+     "label": "Oldest oral tradition?",
+     "text": "Some researchers suggest Gunditjmara stories may preserve memory of eruptions in this volcanic province, possibly among the oldest surviving oral traditions; this is hard to test directly."
+    },
+    {
+     "label": "Sceptical view",
+     "text": "Others caution that stories could describe later eruptions in the region, or be later interpretations of the volcanic landscape."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Early human occupation of southeastern Australia: New insights from 40Ar/39Ar dating of young volcanoes",
+     "authors": "Matchan, E. et al.",
+     "year": 2020,
+     "doi": "10.1130/G47166.1",
+     "type": "paper"
+    },
+    {
+     "title": "Budj Bim Cultural Landscape (UNESCO)",
+     "url": "https://whc.unesco.org/en/list/1577",
+     "type": "institution"
+    },
+    {
+     "title": "Wikipedia: Budj Bim",
+     "url": "https://en.wikipedia.org/wiki/Budj_Bim",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Budj_Bim_%E2%80%90_Mt_Eccles_National_Park%2C_Victoria%2C_Australia_39.jpg/500px-Budj_Bim_%E2%80%90_Mt_Eccles_National_Park%2C_Victoria%2C_Australia_39.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Budj_Bim_%E2%80%90_Mt_Eccles_National_Park,_Victoria,_Australia_39.jpg",
+     "author": "Dhx1",
+     "license": "CC0",
+     "title": "Budj_Bim_‐_Mt_Eccles_National_Park,_Victoria,_Australia_39.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "catastrophes",
+    "myth-legend"
+   ],
+   "threads": [
+    "stories-proven-true",
+    "deep-oral-memory",
+    "volcanoes-and-memory"
+   ]
+  },
+  {
+   "id": "volcanic-winter-536",
+   "title": "Volcanic winter of 536 (\"worst year to be alive\")",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 536,
+   "end": 660,
+   "evidenceTypes": [
+    "ice core",
+    "tree ring",
+    "textual"
+   ],
+   "mainstream": "From 536 CE, at least three volcanic eruptions of uncertain location loaded the atmosphere with sulfate aerosols. Procopius wrote that the sun gave light \"without brightness\"; Northern Hemisphere summers cooled by up to ~2.5 °C, crops failed, and the Late Antique Little Ice Age (536–660) followed alongside the Plague of Justinian. Ice-core and tree-ring work published in 2015 helped fix the timing.",
+   "alternatives": [
+    {
+     "label": "Impact or comet",
+     "text": "Dallas Abbott and colleagues reported nickel- and copper-bearing spherules in an ice core, suggesting an impact may have contributed; most researchers emphasise volcanism (minority view)."
+    },
+    {
+     "label": "Myth echoes",
+     "text": "Some writers link the darkness to later legends (e.g. Fimbulwinter before Ragnarök or Arthurian dates); such links are speculative."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Timing and climate forcing of volcanic eruptions for the past 2,500 years",
+     "authors": "Sigl, M. et al.",
+     "year": 2015,
+     "doi": "10.1038/nature14565",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: Volcanic winter of 536",
+     "url": "https://en.wikipedia.org/wiki/Volcanic_winter_of_536",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Late Antique Little Ice Age",
+     "url": "https://en.wikipedia.org/wiki/Late_Antique_Little_Ice_Age",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/2000%2B_year_global_temperature_including_Late_Antique_Little_Ice_Age%2C_Medieval_Warm_Period_and_Little_Ice_Age_-_Ed_Hawkins.svg/500px-2000%2B_year_global_temperature_including_Late_Antique_Little_Ice_Age%2C_Medieval_Warm_Period_and_Little_Ice_Age_-_Ed_Hawkins.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:2000%2B_year_global_temperature_including_Late_Antique_Little_Ice_Age,_Medieval_Warm_Period_and_Little_Ice_Age_-_Ed_Hawkins.svg",
+     "author": "User:RCraig09, based on an original source by British climate scientist Ed Hawkins",
+     "license": "CC BY-SA 4.0",
+     "title": "2000+_year_global_temperature_including_Late_Antique_Little_Ice_Age,_Medieval_Warm_Period_and_Little_Ice_Age_-_Ed_Hawkins.svg"
+    }
+   ],
+   "categories": [
+    "catastrophes",
+    "history",
+    "science-cosmos"
+   ],
+   "threads": [
+    "sky-omens",
+    "volcanoes-and-memory"
+   ]
   }
  ]
 }
