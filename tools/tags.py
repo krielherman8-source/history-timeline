@@ -202,3 +202,37 @@ addt('giant-monuments','plain-of-jars kerma')
 addt('hidden-tombs','genghis-tomb qin-mausoleum')
 addt('volcanoes-and-memory','tambora-1815 kuwae')
 addt('lost-continents','kuwae')
+C.update({
+'serpent-mound':'archaeology history religion',
+'mound-builders-myth':'hoaxes lost-civilisations history',
+'amazon-cities':'archaeology history lost-civilisations',
+'maya-collapse':'history archaeology catastrophes',
+'cortes-quetzalcoatl':'history myth-legend religion',
+'tokoloshe':'myth-legend anomalies',
+'mami-wata':'myth-legend religion',
+'ram-setu':'myth-legend religion science-cosmos anomalies',
+'yonaguni':'archaeology lost-civilisations anomalies',
+'sunken-dwarka':'myth-legend religion archaeology lost-civilisations',
+'crystal-skulls':'hoaxes anomalies',
+'maya-2012':'hoaxes myth-legend catastrophes',
+'nazca-mummies':'hoaxes aliens-ufo',
+'utsuro-bune':'myth-legend aliens-ufo anomalies',
+'varginha-1996':'aliens-ufo anomalies',
+'kaikoura-1978':'aliens-ufo anomalies',
+'okapi':'science-cosmos anomalies myth-legend',
+'giant-squid':'science-cosmos myth-legend anomalies',
+})
+addt('serpent-beings','serpent-mound mami-wata')
+addt('sky-omens','serpent-mound cortes-quetzalcoatl')
+addt('lost-civilisations','mound-builders-myth amazon-cities yonaguni sunken-dwarka')
+addt('hoaxes-exposed','mound-builders-myth crystal-skulls nazca-mummies')
+addt('giants-and-little-people','mound-builders-myth tokoloshe')
+addt('changed-understanding','mound-builders-myth amazon-cities cortes-quetzalcoatl okapi giant-squid')
+addt('stories-proven-true','amazon-cities okapi giant-squid')
+addt('giant-monuments','serpent-mound')
+addt('civilisation-collapses','bronze-collapse rome-fall maya-collapse')
+addt('lost-continents','ram-setu yonaguni mound-builders-myth')
+addt('flood-myths','sunken-dwarka')
+addt('world-ages-and-resets','maya-2012')
+addt('ufo-encounters','utsuro-bune varginha-1996 kaikoura-1978')
+addt('cryptids','okapi giant-squid')

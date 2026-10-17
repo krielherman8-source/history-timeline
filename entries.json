@@ -1442,7 +1442,9 @@
     "history",
     "catastrophes"
    ],
-   "threads": []
+   "threads": [
+    "civilisation-collapses"
+   ]
   },
   {
    "id": "troy",
@@ -3767,7 +3769,9 @@
    "categories": [
     "history"
    ],
-   "threads": []
+   "threads": [
+    "civilisation-collapses"
+   ]
   },
   {
    "id": "mazama-klamath",
@@ -8716,11 +8720,11 @@
    "media": [
     {
      "type": "image",
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Catalan_Atlas_BNF_Sheet_6_Mansa_Musa_%28cropped%29.jpg/500px-Catalan_Atlas_BNF_Sheet_6_Mansa_Musa_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:Catalan_Atlas_BNF_Sheet_6_Mansa_Musa_(cropped).jpg",
-     "author": "attributed to Abraham Cresques",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/AFR_V3_D029_Atlantic_Winds_and_Currents.jpg/500px-AFR_V3_D029_Atlantic_Winds_and_Currents.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:AFR_V3_D029_Atlantic_Winds_and_Currents.jpg",
+     "author": "Élisee Reclus, Translated by Augustus Henry Keane, 1833-1912",
      "license": "Public domain",
-     "title": "Catalan_Atlas_BNF_Sheet_6_Mansa_Musa_(cropped).jpg"
+     "title": "AFR_V3_D029_Atlantic_Winds_and_Currents.jpg"
     }
    ],
    "categories": [
@@ -9241,6 +9245,523 @@
    "threads": [
     "stories-proven-true",
     "deep-oral-memory"
+   ]
+  },
+  {
+   "id": "serpent-mound",
+   "title": "Great Serpent Mound",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": -300,
+   "end": null,
+   "dateNote": "c. 300 BCE (Adena) or c. 1070 CE (Fort Ancient), dates debated",
+   "evidenceTypes": [
+    "archaeological",
+    "radiocarbon"
+   ],
+   "mainstream": "A 411 m (1,348 ft) long effigy mound in Adams County, Ohio, the largest serpent effigy known, with a triple-coiled tail and an open mouth around an oval feature. First surveyed by Squier and Davis (1848). It sits on the Serpent Mound crater, a 14 km impact structure formed 252–330 million years ago. Who built it, and when, is debated.",
+   "alternatives": [
+    {
+     "label": "Adena builders, c. 300 BCE",
+     "text": "Radiocarbon studies from 2014 onward (e.g. Romain et al. 2017), corroborated in 2019, place construction c. 300 BCE by Adena people, with repair or rebuilding c. 1100 CE."
+    },
+    {
+     "label": "Fort Ancient builders, c. 1070 CE",
+     "text": "Charcoal from a reopened trench (1996) gave c. 1070 CE; Brad Lepper argues the dated \"organic sediment\" from cores can read too old, and that serpent imagery and effigy mounds fit the Fort Ancient culture. Some suggest Halley's Comet (1066) inspired it (speculative)."
+    },
+    {
+     "label": "Religious / New Age readings",
+     "text": "In 1901 Rev. Landon West claimed it marked the Garden of Eden; today New Age visitors and others see astronomical or spiritual meanings (belief rather than testable claim)."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Radiocarbon Dates Reveal Serpent Mound Is More than Two Thousand Years Old",
+     "authors": "Romain, W. et al.",
+     "year": 2017,
+     "doi": "10.1080/01461109.2017.1371871",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: Serpent Mound",
+     "url": "https://en.wikipedia.org/wiki/Serpent_Mound",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Serpent_Mound%2C_Peebles%2C_Ohio_04.jpg/500px-Serpent_Mound%2C_Peebles%2C_Ohio_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Serpent_Mound,_Peebles,_Ohio_04.jpg",
+     "author": "Stephanie A. Terry",
+     "license": "CC BY-SA 4.0",
+     "title": "Serpent_Mound,_Peebles,_Ohio_04.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history",
+    "religion"
+   ],
+   "threads": [
+    "giant-monuments",
+    "serpent-beings",
+    "sky-omens"
+   ]
+  },
+  {
+   "id": "mound-builders-myth",
+   "title": "The \"lost race\" of the Mound Builders",
+   "lane": "myth",
+   "status": "debunked",
+   "priority": 2,
+   "start": 1833,
+   "end": 1894,
+   "evidenceTypes": [
+    "textual",
+    "archaeological"
+   ],
+   "mainstream": "Indigenous peoples of eastern North America built earthen mounds for over 5,000 years, from Watson Brake (c. 3500 BCE) to Mississippian centres such as Cahokia. In the 19th century many Americans claimed instead that a vanished \"lost race\" built them: Israelites, Vikings, Welsh, people from Atlantis, or giants. Newspapers reported giant skeletons, and Josiah Priest's American Antiquities (1833) popularised the idea. Cyrus Thomas's 1894 Bureau of Ethnology report established that ancestors of Native Americans built the mounds.",
+   "alternatives": [
+    {
+     "label": "Why it spread",
+     "text": "Writers such as Robert Silverberg and Jason Colavito link the myth to racist views of Native Americans common at the time; Thomas Jefferson had already noted similarities between mound burials and Native practice."
+    },
+    {
+     "label": "Hoaxes involved",
+     "text": "Rafinesque's Walam Olum (1836) was later argued to be a hoax, and William Pidgeon's claims were exposed as fraudulent in 1886."
+    },
+    {
+     "label": "Modern echoes",
+     "text": "Versions linking mounds to Atlantis or Mu still circulate online (speculative)."
+    }
+   ],
+   "changed": "1830s–1880s: \"lost race\" theories popular. 1886: Pidgeon's claims exposed. 1894: Cyrus Thomas report credits Native Americans.",
+   "sources": [
+    {
+     "title": "Wikipedia: Mound Builders",
+     "url": "https://en.wikipedia.org/wiki/Mound_Builders",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Cyrus Thomas",
+     "url": "https://en.wikipedia.org/wiki/Cyrus_Thomas",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Monks_Mound_in_July.JPG/500px-Monks_Mound_in_July.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Monks_Mound_in_July.JPG",
+     "author": "Skubasteve834",
+     "license": "CC BY-SA 3.0",
+     "title": "Monks_Mound_in_July.JPG"
+    }
+   ],
+   "categories": [
+    "hoaxes",
+    "lost-civilisations",
+    "history"
+   ],
+   "threads": [
+    "lost-civilisations",
+    "changed-understanding",
+    "hoaxes-exposed",
+    "lost-continents",
+    "giants-and-little-people"
+   ]
+  },
+  {
+   "id": "amazon-cities",
+   "title": "Lost cities of the Amazon: from Fawcett's \"Z\" to lidar",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": -500,
+   "end": 1400,
+   "evidenceTypes": [
+    "archaeological",
+    "lidar"
+   ],
+   "mainstream": "Lidar surveys have mapped extensive pre-Columbian settlements in the Amazon rainforest: the Upano Valley sites in Ecuador (from c. 500 BCE, over a millennium earlier than other known complex Amazonian societies; about 6,000 platforms linked by roads, Science 2024) and the Casarabe culture of the Bolivian Llanos de Moxos (c. 500–1400 CE; platform mounds, pyramids up to 22 m, causeways and canals, Nature 2022).",
+   "alternatives": [
+    {
+     "label": "Fawcett's \"Z\"",
+     "text": "Explorer Percy Fawcett believed a lost city he called \"Z\" lay in the Mato Grosso and vanished searching for it in 1925; journalist David Grann reported (2005) that archaeologist Michael Heckenberger's work suggests a monumental culture, Kuhikugu, may have existed near where Fawcett was searching."
+    }
+   ],
+   "changed": "1914: Fawcett formulates \"Z\". 1925: he disappears. 2015: Ecuador funds Upano lidar. 2022: Casarabe lidar published. 2024: Upano Valley lidar published.",
+   "sources": [
+    {
+     "title": "Two thousand years of garden urbanism in the Upper Amazon",
+     "authors": "Rostain, S. et al.",
+     "year": 2024,
+     "doi": "10.1126/science.adi6317",
+     "type": "paper"
+    },
+    {
+     "title": "Lidar reveals pre-Hispanic low-density urbanism in the Bolivian Amazon",
+     "authors": "Prümers, H. et al.",
+     "year": 2022,
+     "doi": "10.1038/s41586-022-04780-4",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: Upano Valley sites",
+     "url": "https://en.wikipedia.org/wiki/Upano_Valley_sites",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Casarabe culture",
+     "url": "https://en.wikipedia.org/wiki/Casarabe_culture",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Percy Fawcett",
+     "url": "https://en.wikipedia.org/wiki/Percy_Fawcett",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Llanos_de_moxos1.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Llanos_de_moxos1.png",
+     "author": "Klaus Ehlers",
+     "license": "CC BY-SA 3.0",
+     "title": "Llanos_de_moxos1.png"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history",
+    "lost-civilisations"
+   ],
+   "threads": [
+    "lost-civilisations",
+    "changed-understanding",
+    "stories-proven-true"
+   ]
+  },
+  {
+   "id": "maya-collapse",
+   "title": "Classic Maya collapse",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 750,
+   "end": 950,
+   "dateNote": "Decline mainly 8th–9th c. CE; northern cities flourished afterwards",
+   "evidenceTypes": [
+    "archaeological",
+    "paleoclimate",
+    "textual"
+   ],
+   "mainstream": "In the 8th–9th centuries CE many southern lowland Maya cities, including Tikal, Copán, Palenque and Calakmul, stopped raising dated monuments and were abandoned. Maya civilisation continued in northern Yucatán (Chichén Itzá, Mayapán) and the highlands until the Spanish conquest (Nojpetén, 1697); millions of Maya live there today. More than 80 explanations have been proposed.",
+   "alternatives": [
+    {
+     "label": "Drought",
+     "text": "Lake sediments and cave records show severe drought; Evans et al. (2018) estimated annual rainfall fell 41–54%, up to 70% at peak. Drought is now the leading single explanation."
+    },
+    {
+     "label": "Rupture, not collapse",
+     "text": "Many scholars prefer \"rupture\" or transformation, pointing to warfare, political change (abandonment of the ajawlel system of kingship) and reduced trade as well as climate."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Quantification of drought during the collapse of the classic Maya civilization",
+     "authors": "Evans, N. et al.",
+     "year": 2018,
+     "doi": "10.1126/science.aas9871",
+     "type": "paper"
+    },
+    {
+     "title": "Climate and the Collapse of Maya Civilization",
+     "authors": "Haug, G. et al.",
+     "year": 2003,
+     "doi": "10.1126/science.1080444",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: Classic Maya collapse",
+     "url": "https://en.wikipedia.org/wiki/Classic_Maya_collapse",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Tikal_3.jpg/500px-Tikal_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Tikal_3.jpg",
+     "author": "Mundo Maya",
+     "license": "CC BY-SA 4.0",
+     "title": "Tikal_3.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology",
+    "catastrophes"
+   ],
+   "threads": [
+    "civilisation-collapses"
+   ]
+  },
+  {
+   "id": "cortes-quetzalcoatl",
+   "title": "Omens of the conquest: was Cortés taken for Quetzalcoatl?",
+   "lane": "myth",
+   "status": "disputed",
+   "priority": 2,
+   "start": 1519,
+   "end": null,
+   "dateNote": "Omens said to begin c. 1509–1517; Spanish arrival 1519",
+   "evidenceTypes": [
+    "textual"
+   ],
+   "mainstream": "Nahua accounts written after the fall of Tenochtitlan (1521) describe eight omens before the Spanish arrived: a column of fire in the night sky (1517), temples burning, comets in threes, a lake boiling, a weeping woman, and a bird with a mirror in its crown. A famous later story says Moctezuma believed Cortés was the god Quetzalcoatl returning in the year Ce Acatl (1519).",
+   "alternatives": [
+    {
+     "label": "Belief was real",
+     "text": "Historian Hugh Thomas and others describe Moctezuma as weighing whether Cortés was a god or an envoy, and some scholars think some of the omens were real events later linked to the conquest."
+    },
+    {
+     "label": "Post-conquest invention",
+     "text": "Others note that Cortés never claimed in his letters to have been taken for a god, that the idea appears in European writings only in the 1540s, and that Spanish and friar-supervised sources had reasons to present the conquest as foretold."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Spanish conquest of the Aztec Empire",
+     "url": "https://en.wikipedia.org/wiki/Spanish_conquest_of_the_Aztec_Empire",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Moctezuma II",
+     "url": "https://en.wikipedia.org/wiki/Moctezuma_II",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Quetzalcōātl",
+     "url": "https://en.wikipedia.org/wiki/Quetzalc%C5%8D%C4%81tl",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Conquista-de-M%C3%A9xico-por-Cort%C3%A9s-Tenochtitlan-Painting.png/500px-Conquista-de-M%C3%A9xico-por-Cort%C3%A9s-Tenochtitlan-Painting.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Conquista-de-M%C3%A9xico-por-Cort%C3%A9s-Tenochtitlan-Painting.png",
+     "author": "Unknown authorUnknown author",
+     "license": "Public domain",
+     "title": "Conquista-de-México-por-Cortés-Tenochtitlan-Painting.png"
+    }
+   ],
+   "categories": [
+    "history",
+    "myth-legend",
+    "religion"
+   ],
+   "threads": [
+    "changed-understanding",
+    "sky-omens"
+   ]
+  },
+  {
+   "id": "tokoloshe",
+   "title": "Tokoloshe",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 3,
+   "start": 1900,
+   "end": null,
+   "dateNote": "Undated oral tradition; placed at c. 1900 for display only",
+   "evidenceTypes": [
+    "oral tradition"
+   ],
+   "mainstream": "In Nguni (Zulu, Xhosa and related) folklore of southern Africa the tokoloshe is a small, dwarf-like, mischievous or evil water spirit that can turn invisible by drinking water or swallowing a stone, and can be sent by a malevolent person to cause illness or death. A common protection is raising the bed on bricks; traditional healers (sangomas) or pastors may be called to banish it. It also features widely in South African satire and pop culture.",
+   "alternatives": [
+    {
+     "label": "Proposed natural explanation",
+     "text": "One explanation offered is that people sleeping on the floor around indoor fires in rondavels died of carbon-monoxide build-up near the ground, while those on raised beds survived, giving rise to the bed-on-bricks custom (interpretive, untested)."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Tokoloshe",
+     "url": "https://en.wikipedia.org/wiki/Tokoloshe",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [],
+   "categories": [
+    "myth-legend",
+    "anomalies"
+   ],
+   "threads": [
+    "giants-and-little-people"
+   ]
+  },
+  {
+   "id": "mami-wata",
+   "title": "Mami Wata, the African water spirit",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": 1450,
+   "end": null,
+   "dateNote": "Iconography from 15th c. contact onward; snake-charmer image 19th c.",
+   "evidenceTypes": [
+    "oral tradition",
+    "iconographic"
+   ],
+   "mainstream": "Mami Wata (\"Mother Water\") is a mermaid-like water spirit or goddess of wealth, fertility, healing and beauty venerated across West, Central, East and Southern Africa and the Atlantic diaspora. Scholars trace her image to encounters with Europeans from the 15th century and European mermaid figures; from the mid-19th century a European print of the snake charmer Nala Damajanti reshaped her iconography, and Hindu imagery added a male consort, Papi Wata.",
+   "alternatives": [
+    {
+     "label": "Diaspora relatives",
+     "text": "Some scholars relate her to similar water spirits in the Caribbean and Latin America."
+    },
+    {
+     "label": "Demonised",
+     "text": "Some African Christian and Islamic communities regard her as a demon."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Mami Wata",
+     "url": "https://en.wikipedia.org/wiki/Mami_Wata",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Figure_of_Mammy_Wata_in_Boat%2C_Nigeria_-_Staatliches_Museum_f%C3%BCr_V%C3%B6lkerkunde_M%C3%BCnchen_-_DSC08436.JPG/500px-Figure_of_Mammy_Wata_in_Boat%2C_Nigeria_-_Staatliches_Museum_f%C3%BCr_V%C3%B6lkerkunde_M%C3%BCnchen_-_DSC08436.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Figure_of_Mammy_Wata_in_Boat,_Nigeria_-_Staatliches_Museum_f%C3%BCr_V%C3%B6lkerkunde_M%C3%BCnchen_-_DSC08436.JPG",
+     "author": "Daderot",
+     "license": "Public domain",
+     "title": "Figure_of_Mammy_Wata_in_Boat,_Nigeria_-_Staatliches_Museum_für_Völkerkunde_München_-_DSC08436.JPG"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion"
+   ],
+   "threads": [
+    "serpent-beings"
+   ]
+  },
+  {
+   "id": "ram-setu",
+   "title": "Rama Setu / Adam's Bridge",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": -500,
+   "end": null,
+   "dateNote": "Ramayana composed c. 8th c. BCE–3rd c. CE; placed at 500 BCE",
+   "evidenceTypes": [
+    "textual",
+    "geological"
+   ],
+   "mainstream": "A 48 km chain of limestone shoals between India and Sri Lanka. In the Ramayana (composed between the 8th c. BCE and 3rd c. CE) Rama's army builds a bridge to Lanka to rescue Sita; Islamic tradition says Adam crossed it after leaving Eden (name recorded c. 1030). Geologists say the strait was dry land during the last glacial period, flooded by around 7,000 years ago, and the shoals re-emerged as sea levels fell from about 5,000 years ago.",
+   "alternatives": [
+    {
+     "label": "Built by humans?",
+     "text": "A former Geological Survey of India director, a 2008 court submission and an episode of the Science Channel series What on Earth? claimed the structure is man-made; geologists describe the shoals as natural limestone formations."
+    },
+    {
+     "label": "NASA images misread",
+     "text": "During protests against the Sethusamudram canal project, NASA said its satellite photos had been misinterpreted: \"remote sensing images ... cannot determine whether humans were involved.\""
+    },
+    {
+     "label": "Location of Lanka",
+     "text": "Many scholars place the epic's Lanka in central India rather than Sri Lanka."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Adam's Bridge",
+     "url": "https://en.wikipedia.org/wiki/Adam's_Bridge",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Ramayana",
+     "url": "https://en.wikipedia.org/wiki/Ramayana",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Adams_Bridge_aerial.jpg/500px-Adams_Bridge_aerial.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Adams_Bridge_aerial.jpg",
+     "author": "This Image was created by User:PlaneMad.\nIf you are using the image under the creative commons share alike license pleas",
+     "license": "CC BY-SA 2.5",
+     "title": "Adams_Bridge_aerial.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion",
+    "science-cosmos",
+    "anomalies"
+   ],
+   "threads": [
+    "lost-continents"
+   ]
+  },
+  {
+   "id": "yonaguni",
+   "title": "Yonaguni \"underwater pyramid\"",
+   "lane": "history",
+   "status": "debunked",
+   "priority": 2,
+   "start": 1986,
+   "end": null,
+   "evidenceTypes": [
+    "geological",
+    "speculative"
+   ],
+   "mainstream": "Stepped rock terraces off Yonaguni, Japan's southernmost island, found by a diver in 1986. Geologists including Robert Schoch, Wolf Wichmann, Patrick Nunn and Ogata et al. (2019) conclude they are natural Miocene sandstone (about 20 million years old) split along bedding planes and vertical joints, like similar terraces on shore. Japan's cultural agencies do not treat it as an archaeological site.",
+   "alternatives": [
+    {
+     "label": "Man-made monument (speculative)",
+     "text": "Marine geologist Masaaki Kimura argues it is a carved stepped monument with roads and a \"stadium\", first dating it to at least 10,000 years ago (possibly linked to Mu) and later (2007) to 2,000–3,000 years ago; Graham Hancock says so many odd features in one place is unlikely to be natural."
+    },
+    {
+     "label": "Sceptical view",
+     "text": "Critics note the steps are attached to bedrock, the \"carvings\" look like natural scratches, and strong currents explain the lack of loose blocks."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Yonaguni Monument",
+     "url": "https://en.wikipedia.org/wiki/Yonaguni_Monument",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Yonaguni_Monument_Terraces_midpart_NWW.jpg/500px-Yonaguni_Monument_Terraces_midpart_NWW.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Yonaguni_Monument_Terraces_midpart_NWW.jpg",
+     "author": "Melkov",
+     "license": "CC0",
+     "title": "Yonaguni_Monument_Terraces_midpart_NWW.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "lost-civilisations",
+    "anomalies"
+   ],
+   "threads": [
+    "lost-civilisations",
+    "lost-continents"
    ]
   }
  ]
