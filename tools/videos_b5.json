@@ -1,0 +1,74 @@
+{
+ "homo-naledi": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=6B4XEmFZ3M4",
+  "title": "The Extinct Human Species Found In Remote Cave Chambers",
+  "channel": "PBS Eons"
+ },
+ "ife-heads": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=JNmCg3nNi1U",
+  "title": "Kingdom of Ife: Ife uncovered",
+  "channel": "The British Museum"
+ },
+ "oracle-bones": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=s9gfIqOo__I",
+  "title": "Oracle Bone, Shang Dynasty",
+  "channel": "Smarthistory"
+ },
+ "genghis-tomb": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=heO9fV_iTRQ",
+  "title": "Forbidden Tomb of Genghis Khan | SPECIAL | National Geographic",
+  "channel": "National Geographic"
+ },
+ "yonaguni": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=h6mT7TD1ETo",
+  "title": "The truth behind Japan's mysterious 'Atlantis' – BBC REEL",
+  "channel": "BBC Global"
+ },
+ "sunken-dwarka": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=zTeCw1twHRY",
+  "title": "Dwarka: Have archaeologists finally found India's sunken kingdom? - BBC REEL",
+  "channel": "BBC Global"
+ },
+ "crystal-skulls": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=TJ0bZGdlo0A",
+  "title": "The Mystery of the Crystal Skulls | Strangest Things | National Geographic UK",
+  "channel": "National Geographic UK"
+ },
+ "punt": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=Zv0myuOFIeY",
+  "title": "How Baboons Led Us to a Lost Civilization",
+  "channel": "SciShow"
+ },
+ "maya-collapse": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=5KZfVGj8h38",
+  "title": "Why did the Maya Abandon Their Cities? (Full Episode) | The Rise and Fall of the Maya | Nat Geo",
+  "channel": "National Geographic"
+ },
+ "amazon-cities": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=VaXrX0veR9Y",
+  "title": "Lost beneath the leaves: Lasers reveal an ancient Amazonian civilisation",
+  "channel": "nature video"
+ },
+ "okapi": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=_kiNq9TFj9I",
+  "title": "Zebra, Horse or Neither? | National Geographic",
+  "channel": "National Geographic"
+ },
+ "maya-2012": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=2wimiRUHMI4",
+  "title": "ScienceCasts: Why the World Didn't End Yesterday",
+  "channel": "NASA"
+ }
+}
