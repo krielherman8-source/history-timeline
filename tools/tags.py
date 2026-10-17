@@ -162,3 +162,43 @@ addt('volcanoes-and-memory','budj-bim pele mazama-klamath thera toba volcanic-wi
 addt('giants-and-little-people','nephilim cardiff-giant homo-floresiensis')
 addt('ocean-voyagers','zheng-he polynesia-america-contact kupe lapita maui vinland')
 addt('mass-extinctions','great-dying kpg')
+
+# --- batch 5
+C.update({
+'vredefort':'science-cosmos catastrophes',
+'homo-naledi':'science-cosmos archaeology',
+'madjedbebe':'archaeology history',
+'lake-mungo':'archaeology history religion',
+'nabta-playa':'archaeology science-cosmos anomalies',
+'kerma':'history archaeology',
+'punt':'history archaeology',
+'queen-of-sheba':'myth-legend religion history',
+'ife-heads':'history archaeology lost-civilisations',
+'sundiata':'myth-legend history',
+'mali-atlantic-voyage':'history anomalies',
+'jiahu-symbols':'archaeology history anomalies',
+'oracle-bones':'history archaeology religion',
+'plain-of-jars':'archaeology history myth-legend',
+'genghis-tomb':'history myth-legend anomalies',
+'xu-fu':'history myth-legend',
+'tambora-1815':'catastrophes history science-cosmos lost-civilisations',
+'kuk-swamp':'archaeology history',
+'kuwae':'myth-legend catastrophes science-cosmos',
+'haasts-eagle':'science-cosmos myth-legend',
+})
+addt('cosmic-impacts','vredefort')
+addt('changed-understanding','homo-naledi madjedbebe lake-mungo kerma ife-heads oracle-bones')
+addt('ancient-astronomy','nabta-playa stonehenge chaco-canyon nebra-sky-disc antikythera sn-1054 ishango-bone')
+addt('ocean-voyagers','punt mali-atlantic-voyage xu-fu')
+addt('serpent-beings','queen-of-sheba')
+addt('sacred-relics','queen-of-sheba shroud')
+addt('lost-civilisations','ife-heads tambora-1815')
+addt('deep-oral-memory','sundiata kuwae haasts-eagle')
+addt('origins-of-writing','writing harappan-script jiahu-symbols oracle-bones')
+addt('dragons-and-fossils','oracle-bones')
+addt('stories-proven-true','oracle-bones haasts-eagle')
+addt('giants-and-little-people','plain-of-jars')
+addt('giant-monuments','plain-of-jars kerma')
+addt('hidden-tombs','genghis-tomb qin-mausoleum')
+addt('volcanoes-and-memory','tambora-1815 kuwae')
+addt('lost-continents','kuwae')

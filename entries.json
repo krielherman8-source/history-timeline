@@ -238,7 +238,8 @@
    "threads": [
     "cosmic-impacts",
     "changed-understanding",
-    "dragons-and-fossils"
+    "dragons-and-fossils",
+    "mass-extinctions"
    ]
   },
   {
@@ -428,7 +429,9 @@
     "catastrophes",
     "science-cosmos"
    ],
-   "threads": []
+   "threads": [
+    "volcanoes-and-memory"
+   ]
   },
   {
    "id": "neanderthal-dna",
@@ -839,7 +842,8 @@
    ],
    "threads": [
     "flood-myths",
-    "lost-civilisations"
+    "lost-civilisations",
+    "lost-continents"
    ]
   },
   {
@@ -875,7 +879,8 @@
     "catastrophes"
    ],
    "threads": [
-    "flood-myths"
+    "flood-myths",
+    "deep-oral-memory"
    ]
   },
   {
@@ -926,7 +931,8 @@
     "archaeology"
    ],
    "threads": [
-    "flood-myths"
+    "flood-myths",
+    "lost-continents"
    ]
   },
   {
@@ -1048,7 +1054,9 @@
     "history",
     "archaeology"
    ],
-   "threads": []
+   "threads": [
+    "origins-of-writing"
+   ]
   },
   {
    "id": "stonehenge",
@@ -1094,7 +1102,9 @@
     "archaeology",
     "history"
    ],
-   "threads": []
+   "threads": [
+    "ancient-astronomy"
+   ]
   },
   {
    "id": "great-pyramid",
@@ -1363,7 +1373,8 @@
     "archaeology"
    ],
    "threads": [
-    "lost-civilisations"
+    "lost-civilisations",
+    "volcanoes-and-memory"
    ]
   },
   {
@@ -1487,7 +1498,8 @@
     "myth-legend"
    ],
    "threads": [
-    "changed-understanding"
+    "changed-understanding",
+    "stories-proven-true"
    ]
   },
   {
@@ -1674,7 +1686,8 @@
     "lost-civilisations"
    ],
    "threads": [
-    "lost-civilisations"
+    "lost-civilisations",
+    "lost-continents"
    ]
   },
   {
@@ -1781,7 +1794,9 @@
     "science-cosmos",
     "anomalies"
    ],
-   "threads": []
+   "threads": [
+    "ancient-astronomy"
+   ]
   },
   {
    "id": "popol-vuh",
@@ -1819,7 +1834,9 @@
     "religion"
    ],
    "threads": [
-    "flood-myths"
+    "flood-myths",
+    "world-ages-and-resets",
+    "creation-myths"
    ]
   },
   {
@@ -1855,7 +1872,9 @@
    "categories": [
     "myth-legend"
    ],
-   "threads": []
+   "threads": [
+    "creation-myths"
+   ]
   },
   {
    "id": "ragnarok",
@@ -1888,7 +1907,9 @@
     "myth-legend",
     "religion"
    ],
-   "threads": []
+   "threads": [
+    "world-ages-and-resets"
+   ]
   },
   {
    "id": "vinland",
@@ -1934,7 +1955,8 @@
     "archaeology"
    ],
    "threads": [
-    "changed-understanding"
+    "changed-understanding",
+    "ocean-voyagers"
    ]
   },
   {
@@ -2024,7 +2046,9 @@
     "religion",
     "anomalies"
    ],
-   "threads": []
+   "threads": [
+    "sacred-relics"
+   ]
   },
   {
    "id": "printing",
@@ -2191,7 +2215,8 @@
     "science-cosmos"
    ],
    "threads": [
-    "changed-understanding"
+    "changed-understanding",
+    "hoaxes-exposed"
    ]
   },
   {
@@ -2338,7 +2363,8 @@
    ],
    "threads": [
     "lost-civilisations",
-    "changed-understanding"
+    "changed-understanding",
+    "hoaxes-exposed"
    ]
   },
   {
@@ -2435,7 +2461,8 @@
     "history"
    ],
    "threads": [
-    "sky-beings"
+    "sky-beings",
+    "ufo-encounters"
    ]
   },
   {
@@ -3458,7 +3485,8 @@
     "lost-civilisations"
    ],
    "threads": [
-    "lost-civilisations"
+    "lost-civilisations",
+    "giant-monuments"
    ]
   },
   {
@@ -3506,7 +3534,8 @@
     "anomalies"
    ],
    "threads": [
-    "lost-civilisations"
+    "lost-civilisations",
+    "giant-monuments"
    ]
   },
   {
@@ -3590,7 +3619,8 @@
     "science-cosmos"
    ],
    "threads": [
-    "changed-understanding"
+    "changed-understanding",
+    "ancient-astronomy"
    ]
   },
   {
@@ -3785,7 +3815,10 @@
     "catastrophes",
     "science-cosmos"
    ],
-   "threads": []
+   "threads": [
+    "deep-oral-memory",
+    "volcanoes-and-memory"
+   ]
   },
   {
    "id": "wegener",
@@ -3997,7 +4030,8 @@
     "myth-legend"
    ],
    "threads": [
-    "sky-beings"
+    "sky-beings",
+    "giants-and-little-people"
    ]
   },
   {
@@ -4068,7 +4102,9 @@
     "religion",
     "anomalies"
    ],
-   "threads": []
+   "threads": [
+    "sky-omens"
+   ]
   },
   {
    "id": "loch-ness",
@@ -4102,7 +4138,8 @@
     "myth-legend"
    ],
    "threads": [
-    "hoaxes-exposed"
+    "hoaxes-exposed",
+    "cryptids"
    ]
   },
   {
@@ -4134,7 +4171,9 @@
    "categories": [
     "anomalies"
    ],
-   "threads": []
+   "threads": [
+    "cryptids"
+   ]
   },
   {
    "id": "great-zimbabwe",
@@ -4767,7 +4806,9 @@
     "archaeology",
     "anomalies"
    ],
-   "threads": []
+   "threads": [
+    "origins-of-writing"
+   ]
   },
   {
    "id": "angkor",
@@ -4964,7 +5005,9 @@
     "archaeology",
     "history"
    ],
-   "threads": []
+   "threads": [
+    "ocean-voyagers"
+   ]
   },
   {
    "id": "wandjina",
@@ -5052,7 +5095,9 @@
     "myth-legend",
     "history"
    ],
-   "threads": []
+   "threads": [
+    "ocean-voyagers"
+   ]
   },
   {
    "id": "cahokia",
@@ -5432,7 +5477,8 @@
     "religion"
    ],
    "threads": [
-    "sky-beings"
+    "sky-beings",
+    "serpent-beings"
    ]
   },
   {
@@ -5476,7 +5522,9 @@
     "religion"
    ],
    "threads": [
-    "sky-beings"
+    "sky-beings",
+    "world-ages-and-resets",
+    "creation-myths"
    ]
   },
   {
@@ -5702,7 +5750,8 @@
     "catastrophes"
    ],
    "threads": [
-    "flood-myths"
+    "flood-myths",
+    "serpent-beings"
    ]
   },
   {
@@ -5750,7 +5799,8 @@
    ],
    "threads": [
     "changed-understanding",
-    "stories-proven-true"
+    "stories-proven-true",
+    "deep-oral-memory"
    ]
   },
   {
@@ -5793,7 +5843,9 @@
     "myth-legend",
     "religion"
    ],
-   "threads": []
+   "threads": [
+    "creation-myths"
+   ]
   },
   {
    "id": "bunjil",
@@ -5830,7 +5882,9 @@
     "myth-legend",
     "religion"
    ],
-   "threads": []
+   "threads": [
+    "creation-myths"
+   ]
   },
   {
    "id": "curuca-event",
@@ -6097,7 +6151,9 @@
     "science-cosmos",
     "anomalies"
    ],
-   "threads": []
+   "threads": [
+    "ancient-astronomy"
+   ]
   },
   {
    "id": "prester-john",
@@ -6214,7 +6270,8 @@
    ],
    "threads": [
     "giant-monuments",
-    "stories-proven-true"
+    "stories-proven-true",
+    "hidden-tombs"
    ]
   },
   {
@@ -6516,7 +6573,8 @@
     "science-cosmos"
    ],
    "threads": [
-    "giant-monuments"
+    "giant-monuments",
+    "ancient-astronomy"
    ]
   },
   {
@@ -6751,7 +6809,8 @@
     "history"
    ],
    "threads": [
-    "sky-omens"
+    "sky-omens",
+    "ancient-astronomy"
    ]
   },
   {
@@ -8055,6 +8114,568 @@
     "lost-civilisations",
     "changed-understanding",
     "lost-continents"
+   ]
+  },
+  {
+   "id": "vredefort",
+   "title": "Vredefort impact structure",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -2023000000,
+   "end": null,
+   "evidenceTypes": [
+    "geological"
+   ],
+   "mainstream": "The eroded remains of one of the largest impact structures on Earth, in the Free State, South Africa, dated to about 2.023 billion years ago (±4 million). The original crater is estimated at 170–300 km across; erosion of 7–11 km has removed it, leaving the Vredefort Dome (the rebounded central uplift). It is among the oldest accepted impact structures, after Yarrabubba. UNESCO World Heritage Site since 2005.",
+   "alternatives": [
+    {
+     "label": "Impactor size",
+     "text": "Older estimates put the asteroid at 10–15 km across; studies around 2022 suggest 20–25 km, which researchers say fits the shock features better."
+    }
+   ],
+   "changed": "1937: Albritton and Boon propose an impact. 1961: Dietz and Hargraves find shatter cones, establishing the impact origin. 2005: UNESCO listing.",
+   "sources": [
+    {
+     "title": "Vredefort Dome (UNESCO)",
+     "url": "https://whc.unesco.org/en/list/1162",
+     "type": "institution"
+    },
+    {
+     "title": "Wikipedia: Vredefort impact structure",
+     "url": "https://en.wikipedia.org/wiki/Vredefort_impact_structure",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Vredefort_Crater%2C_South_Africa%2C_OLI_satellite_image%2C_27_June_2018_cropped.png/500px-Vredefort_Crater%2C_South_Africa%2C_OLI_satellite_image%2C_27_June_2018_cropped.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Vredefort_Crater,_South_Africa,_OLI_satellite_image,_27_June_2018_cropped.png",
+     "author": "NASA Earth Observatory image created by Lauren Dauphin, using Operational Land Imager (OLI) on Landsat 8; data provided ",
+     "license": "Public domain",
+     "title": "Vredefort_Crater,_South_Africa,_OLI_satellite_image,_27_June_2018_cropped.png"
+    }
+   ],
+   "categories": [
+    "science-cosmos",
+    "catastrophes"
+   ],
+   "threads": [
+    "cosmic-impacts"
+   ]
+  },
+  {
+   "id": "homo-naledi",
+   "title": "Homo naledi and the disputed cave \"burials\"",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -335000,
+   "end": -236000,
+   "evidenceTypes": [
+    "fossil",
+    "radiometric dating"
+   ],
+   "mainstream": "A small-brained human species (brain 465–610 cm³, about 1.44 m tall) found in 2013 by cavers deep in the Rising Star Cave system, Cradle of Humankind, South Africa: more than 1,550 bone pieces from at least 15 individuals. In 2017 the remains were dated to 335,000–236,000 years ago, much younger than first expected for such a mosaic anatomy.",
+   "alternatives": [
+    {
+     "label": "Deliberate burial (excavators)",
+     "text": "Lee Berger, Paul Dirks and colleagues argue the bodies were deliberately carried or placed in the chamber, and in 2023 proposed burials and engraved signs; if true this would be the oldest known hominin burial."
+    },
+    {
+     "label": "Natural deposition (critics)",
+     "text": "Other researchers (e.g. Val 2016, Egeland et al. 2018, Foecke et al. 2025) argue the evidence is insufficient and that natural processes or non-burial deposition have not been ruled out; reviewers of the 2023 papers were largely critical."
+    }
+   ],
+   "changed": "2015: species named; age unknown, often assumed 1–2 million years. 2017: dated to 335,000–236,000 years. 2023–2025: burial claims published and contested.",
+   "sources": [
+    {
+     "title": "Homo naledi, a new species of the genus Homo from the Dinaledi Chamber, South Africa",
+     "authors": "Berger, L. et al.",
+     "year": 2015,
+     "doi": "10.7554/eLife.09560",
+     "type": "paper"
+    },
+    {
+     "title": "The age of Homo naledi and associated sediments in the Rising Star Cave, South Africa",
+     "authors": "Dirks, P. et al.",
+     "year": 2017,
+     "doi": "10.7554/eLife.24231",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: Homo naledi",
+     "url": "https://en.wikipedia.org/wiki/Homo_naledi",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Homo_naledi_skeletal_specimens.jpg/500px-Homo_naledi_skeletal_specimens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Homo_naledi_skeletal_specimens.jpg",
+     "author": "Lee Roger Berger research team",
+     "license": "CC BY 4.0",
+     "title": "Homo_naledi_skeletal_specimens.jpg"
+    }
+   ],
+   "categories": [
+    "science-cosmos",
+    "archaeology"
+   ],
+   "threads": [
+    "changed-understanding"
+   ]
+  },
+  {
+   "id": "madjedbebe",
+   "title": "Madjedbebe: the oldest dated site in Australia?",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": -65000,
+   "end": null,
+   "dateNote": "Proposed c. 65,000 ± 6,000 years ago; at least 50,000 years widely accepted",
+   "evidenceTypes": [
+    "archaeological",
+    "luminescence dating"
+   ],
+   "mainstream": "A sandstone rock shelter in Arnhem Land, on Mirarr country, with more than 100,000 artefacts including ground stone axe heads, grinding stones and ground ochre. Occupation of at least 50,000 years has been widely accepted since the 1990s; excavations by Clarkson et al. (2012, 2015, published 2017) proposed about 65,000 ± 6,000 years.",
+   "alternatives": [
+    {
+     "label": "Younger arrival",
+     "text": "Some experts have questioned the 65,000-year estimate since its publication; the long-accepted minimum of about 50,000 years is not in dispute."
+    }
+   ],
+   "changed": "1973: first test pit. 1989: thermoluminescence suggests c. 50,000 years. 2017: Clarkson et al. publish c. 65,000 years; debate continues.",
+   "sources": [
+    {
+     "title": "Human occupation of northern Australia by 65,000 years ago",
+     "authors": "Clarkson, C. et al.",
+     "year": 2017,
+     "doi": "10.1038/nature22968",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: Madjedbebe",
+     "url": "https://en.wikipedia.org/wiki/Madjedbebe",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Arnhem_Land_map.png/500px-Arnhem_Land_map.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Arnhem_Land_map.png",
+     "author": "Nigel Malone",
+     "license": "CC BY-SA 4.0",
+     "title": "Arnhem_Land_map.png"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history"
+   ],
+   "threads": [
+    "changed-understanding"
+   ]
+  },
+  {
+   "id": "lake-mungo",
+   "title": "Mungo Lady and Mungo Man",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -40000,
+   "end": null,
+   "dateNote": "Around 40,000 years ago (estimates ranged 28,000–62,000)",
+   "evidenceTypes": [
+    "archaeological",
+    "radiometric dating"
+   ],
+   "mainstream": "Human remains found by geomorphologist Jim Bowler at the dry Lake Mungo, Willandra Lakes, New South Wales: Mungo Lady (1968), one of the world's oldest known cremations, and Mungo Man (1974), laid on his back and sprinkled with red ochre, the earliest known example of such a burial. Mungo Man is dated to around 40,000 years ago and is the oldest Homo sapiens found in Australia. Mungo Lady was repatriated to Aboriginal custodians in 1992, and both were reburied in 2022.",
+   "alternatives": [
+    {
+     "label": "Age debate",
+     "text": "Estimates for Mungo Man have ranged from 28,000–32,000 years (1976) to 62,000 ± 6,000 years (Thorne et al. 1999); the commonly cited age today is around 40,000 years (Bowler et al. 2003)."
+    }
+   ],
+   "changed": "Before 1974 Aboriginal arrival in Australia was often put at c. 20,000 years ago; Mungo pushed it back to 40,000+ years.",
+   "sources": [
+    {
+     "title": "New ages for human occupation and climatic change at Lake Mungo, Australia",
+     "authors": "Bowler, J. et al.",
+     "year": 2003,
+     "doi": "10.1038/nature01383",
+     "type": "paper"
+    },
+    {
+     "title": "Willandra Lakes Region (UNESCO)",
+     "url": "https://whc.unesco.org/en/list/167",
+     "type": "institution"
+    },
+    {
+     "title": "Wikipedia: Lake Mungo remains",
+     "url": "https://en.wikipedia.org/wiki/Lake_Mungo_remains",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Red_Top_Lookout%2C_2_Oct_2024.jpg/500px-Red_Top_Lookout%2C_2_Oct_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Red_Top_Lookout,_2_Oct_2024.jpg",
+     "author": "MrActiniuM",
+     "license": "CC BY-SA 4.0",
+     "title": "Red_Top_Lookout,_2_Oct_2024.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history",
+    "religion"
+   ],
+   "threads": [
+    "changed-understanding"
+   ]
+  },
+  {
+   "id": "nabta-playa",
+   "title": "Nabta Playa stone circle",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": -4800,
+   "end": null,
+   "dateNote": "Site used from c. 9th millennium BCE; stone circle c. 4800 BCE (Malville et al.)",
+   "evidenceTypes": [
+    "archaeological",
+    "archaeoastronomy"
+   ],
+   "mainstream": "Neolithic site at a former seasonal lake in the Nubian Desert of southern Egypt, used by cattle herders. Malville, Wendorf and colleagues describe a ceremonial centre (c. 6100–5600 BCE), cattle burials, a small stone circle (c. 4800 BCE) roughly aligned with summer-solstice sunrise, and megalith lines possibly aligned with bright stars (4500–3600 BCE). It is often called one of the earliest archaeoastronomical sites; a UNESCO inventory rated its solar and stellar alignments as \"hypothetical\".",
+   "alternatives": [
+    {
+     "label": "Older star-map claim (speculative)",
+     "text": "Astrophysicist Thomas Brophy proposed that stones in the circle map Orion and that alignments date to c. 6270 BCE; the original excavators replied that these dates are about 1,500 years earlier than the megalithic phase."
+    },
+    {
+     "label": "Sceptical view",
+     "text": "Some researchers note the \"calendar circle\" gaps are too wide for precise calendrical use and that some \"aligned\" stones rest on dunes and may not be in original positions."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Megaliths and Neolithic astronomy in southern Egypt",
+     "authors": "Malville, J. et al.",
+     "year": 1998,
+     "doi": "10.1038/33131",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: Nabta Playa",
+     "url": "https://en.wikipedia.org/wiki/Nabta_Playa",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Calendar_aswan.JPG/500px-Calendar_aswan.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Calendar_aswan.JPG",
+     "author": "Raymbetz",
+     "license": "CC BY-SA 3.0",
+     "title": "Calendar_aswan.JPG"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "science-cosmos",
+    "anomalies"
+   ],
+   "threads": [
+    "ancient-astronomy"
+   ]
+  },
+  {
+   "id": "kerma",
+   "title": "Kingdom of Kerma (Nubia)",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -2500,
+   "end": -1500,
+   "evidenceTypes": [
+    "archaeological",
+    "textual"
+   ],
+   "mainstream": "Early Nubian civilisation centred at Kerma in Sudan, developing from about 2500 BCE and peaking c. 1750–1500 BCE, when it was a large urban kingdom rivalling Egypt. Remains include the huge mudbrick temple known as the Western Deffufa and royal tumuli with many human sacrifices. Egypt's New Kingdom absorbed it c. 1500 BCE; the later Kingdom of Kush may have grown out of it.",
+   "alternatives": [
+    {
+     "label": "Changing interpretation",
+     "text": "Excavator George Reisner (1920s) thought Kerma was an Egyptian governor's outpost; Charles Bonnet's later work showed it was an independent African kingdom, a view Egyptologists accepted only after about 20 years."
+    }
+   ],
+   "changed": "1920s: Reisner sees an Egyptian trading fort. Late 20th c.: Bonnet establishes Kerma as an indigenous kingdom.",
+   "sources": [
+    {
+     "title": "Wikipedia: Kerma culture",
+     "url": "https://en.wikipedia.org/wiki/Kerma_culture",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Kerma_city.JPG/500px-Kerma_city.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Kerma_city.JPG",
+     "author": "Lassi",
+     "license": "CC BY-SA 4.0",
+     "title": "Kerma_city.JPG"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology"
+   ],
+   "threads": [
+    "changed-understanding",
+    "giant-monuments"
+   ]
+  },
+  {
+   "id": "punt",
+   "title": "Land of Punt (\"God's Land\")",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -2450,
+   "end": -1150,
+   "dateNote": "Expeditions recorded c. 25th–12th centuries BCE",
+   "evidenceTypes": [
+    "textual",
+    "iconographic",
+    "isotopic",
+    "genetic"
+   ],
+   "mainstream": "A trading partner known from Egyptian records from the 5th Dynasty (Sahure, 25th c. BCE) to the 20th Dynasty, supplying gold, incense, ebony, ivory and live animals. Hatshepsut's five-ship expedition is shown on her temple at Deir el-Bahri; ship remains at Mersa/Wadi Gawasis show the Red Sea port used. Egyptians sometimes called it Ta netjer, \"God's Land\". Its location is debated; most scholars place it in the Horn of Africa.",
+   "alternatives": [
+    {
+     "label": "Location from baboons",
+     "text": "Isotope studies of mummified baboons (2010, 2020) and ancient DNA (2023) point to Eritrea, Ethiopia and northwest Somalia; the 2023 DNA team suggested Adulis in Eritrea."
+    },
+    {
+     "label": "Ancestral homeland idea",
+     "text": "Early Egyptologists such as Petrie and Budge read \"God's Land\" as meaning Egyptians thought Punt was their ancestral homeland; later scholars connect the name with eastern (sunrise) lands and temple goods."
+    },
+    {
+     "label": "Arabian location",
+     "text": "Some identify Punt partly or wholly with the Arabian coast of the Red Sea."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Mummified baboons reveal the far reach of early Egyptian mariners",
+     "authors": "Dominy, N. et al.",
+     "year": 2020,
+     "doi": "10.7554/eLife.60860",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: Land of Punt",
+     "url": "https://en.wikipedia.org/wiki/Land_of_Punt",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Egypt_1450_BC.svg/500px-Egypt_1450_BC.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Egypt_1450_BC.svg",
+     "author": "ArdadN at English Wikipedia",
+     "license": "Public domain",
+     "title": "Egypt_1450_BC.svg"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology"
+   ],
+   "threads": [
+    "ocean-voyagers"
+   ]
+  },
+  {
+   "id": "queen-of-sheba",
+   "title": "Queen of Sheba, Menelik and the Ark in Aksum",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": -950,
+   "end": null,
+   "dateNote": "Story set in Solomon's reign (traditionally 10th c. BCE); Kebra Nagast written 14th c. CE",
+   "evidenceTypes": [
+    "textual",
+    "oral tradition"
+   ],
+   "mainstream": "In the Hebrew Bible an unnamed queen of Sheba brings spices, gold and gems to King Solomon (1 Kings 10). The story grew in Jewish, Ethiopian Christian and Islamic traditions (Bilqis in Arabic, Makeda in Ge'ez). Ethiopia's 14th-century Kebra Nagast makes her (as the daughter of the man who killed the serpent-king Arwe) the mother of Menelik I, ancestor of the Solomonic dynasty, who brings the Ark of the Covenant to Ethiopia. The Church of Our Lady Mary of Zion in Aksum says it holds the Ark. Historians locate Sheba (Saba) in Yemen; no trace of the queen herself has been found.",
+   "alternatives": [
+    {
+     "label": "Ethiopian Orthodox tradition",
+     "text": "The Ark (or the original tablets) is held in a chapel at Aksum, which only the guardian monk, appointed for life, may view; this is a matter of faith rather than a testable claim."
+    },
+    {
+     "label": "Sceptical view",
+     "text": "Edward Ullendorff said in 1992 that in 1941 he had seen the object, describing it as an empty medieval construction; the lack of access has led both Ethiopian and foreign scholars to doubt the claim."
+    },
+    {
+     "label": "Trade-mission reading",
+     "text": "Some scholars read the visit as a memory of South Arabian incense trade with Judah; a disputed reading of the Ophel inscription has been cited in support."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Queen of Sheba",
+     "url": "https://en.wikipedia.org/wiki/Queen_of_Sheba",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Kebra Nagast",
+     "url": "https://en.wikipedia.org/wiki/Kebra_Nagast",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Church of Our Lady Mary of Zion",
+     "url": "https://en.wikipedia.org/wiki/Church_of_Our_Lady_Mary_of_Zion",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Queen_of_Sheba_%281907%29%2C_by_Edward_Slocombe.jpg/500px-Queen_of_Sheba_%281907%29%2C_by_Edward_Slocombe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Queen_of_Sheba_(1907),_by_Edward_Slocombe.jpg",
+     "author": "Edward Slocombe",
+     "license": "Public domain",
+     "title": "Queen_of_Sheba_(1907),_by_Edward_Slocombe.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion",
+    "history"
+   ],
+   "threads": [
+    "serpent-beings",
+    "sacred-relics"
+   ]
+  },
+  {
+   "id": "ife-heads",
+   "title": "Ife heads and Frobenius's \"African Atlantis\"",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1300,
+   "end": 1500,
+   "evidenceTypes": [
+    "archaeological"
+   ],
+   "mainstream": "Naturalistic copper-alloy heads from Ife, the sacred and royal centre of the Yoruba (Nigeria), probably made in the 14th–15th centuries, likely representing kings (Ooni). Eighteen were found in 1938 at the Wunmonije Compound; one is in the British Museum. Their realism challenged dismissive Western views of African art.",
+   "alternatives": [
+    {
+     "label": "Atlantis claim (debunked)",
+     "text": "After finding an earlier Ife head, German ethnologist Leo Frobenius proposed they were made by an ancient Greek colony and that Yoruba culture preserved the lost civilisation of Atlantis (press headlines in 1911). Archaeology shows they are Yoruba works."
+    },
+    {
+     "label": "Frobenius in context",
+     "text": "Frobenius rejected the colonial idea that a \"white\" civilisation underlay African achievements, and W. E. B. Du Bois cited him; his Atlantis theory still assumed an outside origin."
+    }
+   ],
+   "changed": "1910–1911: Frobenius links Ife to Atlantis. 1938: Wunmonije heads found; now recognised as Yoruba masterpieces of the 14th–15th c.",
+   "sources": [
+    {
+     "title": "Wikipedia: Bronze Head from Ife",
+     "url": "https://en.wikipedia.org/wiki/Bronze_Head_from_Ife",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Leo Frobenius",
+     "url": "https://en.wikipedia.org/wiki/Leo_Frobenius",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Arte_yoruba%2C_nigeria%2C_testa_da_ife%2C_12-15mo_secolo.JPG/500px-Arte_yoruba%2C_nigeria%2C_testa_da_ife%2C_12-15mo_secolo.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Arte_yoruba,_nigeria,_testa_da_ife,_12-15mo_secolo.JPG",
+     "author": "sailko",
+     "license": "CC BY-SA 3.0",
+     "title": "Arte_yoruba,_nigeria,_testa_da_ife,_12-15mo_secolo.JPG"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology",
+    "lost-civilisations"
+   ],
+   "threads": [
+    "lost-civilisations",
+    "changed-understanding"
+   ]
+  },
+  {
+   "id": "sundiata",
+   "title": "Epic of Sundiata (founding of Mali)",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": 1235,
+   "end": 1255,
+   "evidenceTypes": [
+    "oral tradition",
+    "textual"
+   ],
+   "mainstream": "Mande epic, kept by griots (jeliw) for centuries, about Sundiata Keita, founder of the Mali Empire (ruled c. 1235–1255). A prophecy foretells his birth; he cannot walk as a child, rises with a staff, goes into exile and returns to defeat the sorcerer-king Soumaoro Kanté of Sosso at the Battle of Kirina (c. 1235). Mansa Musa was his great-nephew. The best-known version, from griot Djeli Mamoudou Kouyaté, was published by D. T. Niane in 1960.",
+   "alternatives": [
+    {
+     "label": "Historical core",
+     "text": "Historians accept Sundiata as the real founder of Mali and Kirina (c. 1235) as a real battle; Ibn Battuta and Ibn Khaldun, who travelled to Mali in the following century, provide independent information. The magical episodes are epic tradition."
+    },
+    {
+     "label": "Oral history",
+     "text": "The epic is studied as an example of oral tradition carrying political history (and the Kouroukan Fouga \"constitution\") across many generations; versions differ in details."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Epic of Sundiata",
+     "url": "https://en.wikipedia.org/wiki/Epic_of_Sundiata",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Sundiata Keita",
+     "url": "https://en.wikipedia.org/wiki/Sundiata_Keita",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Map_of_the_Mali_Empire.png/500px-Map_of_the_Mali_Empire.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Map_of_the_Mali_Empire.png",
+     "author": "HetmanTheResearcher",
+     "license": "CC BY 4.0",
+     "title": "Map_of_the_Mali_Empire.png"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "history"
+   ],
+   "threads": [
+    "deep-oral-memory"
    ]
   }
  ]
