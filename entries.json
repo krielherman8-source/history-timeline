@@ -9763,6 +9763,463 @@
     "lost-civilisations",
     "lost-continents"
    ]
+  },
+  {
+   "id": "sunken-dwarka",
+   "title": "Sunken Dwarka and the Gulf of Khambhat \"city\"",
+   "lane": "myth",
+   "status": "disputed",
+   "priority": 2,
+   "start": -1500,
+   "end": null,
+   "dateNote": "Rao's date c. 1500 BCE; epic dating uncertain",
+   "evidenceTypes": [
+    "textual",
+    "archaeological",
+    "speculative"
+   ],
+   "mainstream": "In the Mahabharata's Mausala Parva, Arjuna watches the sea flood and submerge Krishna's city of Dvaraka; the Harivamsa says it was built on land \"released by the ocean\". Underwater surveys off modern Dwarka and Bet Dwarka (1983–1990) found walls, a stone jetty and stone anchors; the Archaeological Survey of India interprets them as a port of the Middle kingdoms period destroyed probably by coastal erosion.",
+   "alternatives": [
+    {
+     "label": "Dvaraka found",
+     "text": "Marine archaeologist S. R. Rao concluded the remains show a city-state of c. 1500 BCE that is reasonably the Dvaraka of the epic (based on one carbon date)."
+    },
+    {
+     "label": "Gulf of Khambhat (disputed)",
+     "text": "In 2001 India's science minister announced a submerged city in the Gulf of Khambhat older than the Indus civilisation; a dredged piece of wood dated to about 9,500 years. Archaeologists reject the dating because artefacts were dredged, not excavated, and some \"tools\" may be natural geofacts."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Dvārakā",
+     "url": "https://en.wikipedia.org/wiki/Dv%C4%81rak%C4%81",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Dwarka",
+     "url": "https://en.wikipedia.org/wiki/Dwarka",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Marine archaeology in the Gulf of Khambhat",
+     "url": "https://en.wikipedia.org/wiki/Marine_archaeology_in_the_Gulf_of_Khambhat",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Dwarka1.jpg/500px-Dwarka1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Dwarka1.jpg",
+     "author": "Grindlay's",
+     "license": "Public domain",
+     "title": "Dwarka1.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion",
+    "archaeology",
+    "lost-civilisations"
+   ],
+   "threads": [
+    "flood-myths",
+    "lost-civilisations"
+   ]
+  },
+  {
+   "id": "crystal-skulls",
+   "title": "Crystal skulls",
+   "lane": "history",
+   "status": "debunked",
+   "priority": 2,
+   "start": 1870,
+   "end": null,
+   "evidenceTypes": [
+    "scientific analysis"
+   ],
+   "mainstream": "Quartz skulls sold as Aztec or Maya relics. None comes from a documented excavation. Studies at the British Museum (1967, 1996, 2004) and a British Museum–Smithsonian study (2008) found tool marks from rotary wheels and hard abrasives, showing 19th-century or later manufacture, probably in workshops at Idar-Oberstein, Germany. Many passed through the Paris dealer Eugène Boban (from 1870). The Mitchell-Hedges \"Skull of Doom\", said to have been found at Lubaantun, was bought at Sotheby's in 1943.",
+   "alternatives": [
+    {
+     "label": "Mystical skulls (New Age)",
+     "text": "Some New Age groups claim the skulls have paranormal powers; legends of magical crystal skulls do not appear in genuine Mesoamerican traditions."
+    }
+   ],
+   "changed": "1880s–1930s: skulls displayed as pre-Columbian. 1967–2008: museum studies show modern tool marks.",
+   "sources": [
+    {
+     "title": "The origins of two purportedly pre-Columbian Mexican crystal skulls",
+     "authors": "Sax, M. et al.",
+     "year": 2008,
+     "doi": "10.1016/j.jas.2008.05.007",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: Crystal skull",
+     "url": "https://en.wikipedia.org/wiki/Crystal_skull",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Crystal_skull_british_museum_random9834672.jpg/500px-Crystal_skull_british_museum_random9834672.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Crystal_skull_british_museum_random9834672.jpg",
+     "author": "Unknown",
+     "license": "CC BY 3.0",
+     "title": "Crystal_skull_british_museum_random9834672.jpg"
+    }
+   ],
+   "categories": [
+    "hoaxes",
+    "anomalies"
+   ],
+   "threads": [
+    "hoaxes-exposed"
+   ]
+  },
+  {
+   "id": "maya-2012",
+   "title": "The 2012 \"Maya apocalypse\"",
+   "lane": "myth",
+   "status": "debunked",
+   "priority": 2,
+   "start": 2012,
+   "end": null,
+   "evidenceTypes": [
+    "textual",
+    "speculative"
+   ],
+   "mainstream": "21 December 2012 ended a b'ak'tun, a 5,126-year cycle in the Mesoamerican Long Count calendar. Claims spread that the date would bring the end of the world (a collision with \"Nibiru\", a galactic alignment, solar storms) or a spiritual transformation. Maya scholars said no Classic Maya text predicts doom, and astronomers called the scenarios pseudoscience. The date passed with festivities at Chichén Itzá and Tikal.",
+   "alternatives": [
+    {
+     "label": "Spiritual-transformation reading",
+     "text": "New Age writers saw the date as the start of a new era of consciousness (belief rather than testable claim)."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: 2012 phenomenon",
+     "url": "https://en.wikipedia.org/wiki/2012_phenomenon",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Mesoamerican Long Count calendar",
+     "url": "https://en.wikipedia.org/wiki/Mesoamerican_Long_Count_calendar",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/East_side_of_stela_C%2C_Quirigua.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:East_side_of_stela_C,_Quirigua.PNG",
+     "author": "Maudslay",
+     "license": "Public domain",
+     "title": "East_side_of_stela_C,_Quirigua.PNG"
+    }
+   ],
+   "categories": [
+    "hoaxes",
+    "myth-legend",
+    "catastrophes"
+   ],
+   "threads": [
+    "world-ages-and-resets"
+   ]
+  },
+  {
+   "id": "nazca-mummies",
+   "title": "\"Alien\" Nazca mummies at Mexico's Congress",
+   "lane": "history",
+   "status": "debunked",
+   "priority": 2,
+   "start": 2017,
+   "end": 2023,
+   "evidenceTypes": [
+    "forensic analysis"
+   ],
+   "mainstream": "In 2017 small three-fingered \"mummies\" said to come from near the Nazca Lines in Peru were promoted online, and Mexican journalist Jaime Maussan presented two to a Mexican Congress hearing on UFOs on 12 September 2023, claiming a third of their DNA was of \"unknown origin\". UNAM said it had made no such finding. Peru's prosecutor's office (2017) and forensic archaeologist Flavio Estrada concluded they are recently made dolls of human and animal bones joined with synthetic glue and paper.",
+   "alternatives": [
+    {
+     "label": "Non-human beings (claim)",
+     "text": "Maussan and doctors at a second hearing (November 2023) said the bodies were once living organisms and \"potential evidence of non-human life forms\", while declining to certify them as extraterrestrial."
+    }
+   ],
+   "changed": "2017: first videos; Peru prosecutor finds dolls. 2023: shown at Mexican Congress; experts reaffirm hoax.",
+   "sources": [
+    {
+     "title": "Wikipedia: Jaime Maussan",
+     "url": "https://en.wikipedia.org/wiki/Jaime_Maussan",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Wiki_JM.jpg/500px-Wiki_JM.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Wiki_JM.jpg",
+     "author": "Dimaussan",
+     "license": "CC BY-SA 4.0",
+     "title": "Wiki_JM.jpg"
+    }
+   ],
+   "categories": [
+    "hoaxes",
+    "aliens-ufo"
+   ],
+   "threads": [
+    "hoaxes-exposed"
+   ]
+  },
+  {
+   "id": "utsuro-bune",
+   "title": "Utsuro-bune: the \"hollow ship\" of 1803",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": 1803,
+   "end": null,
+   "dateNote": "Event dated 22 Feb 1803 in texts written 1815–1844",
+   "evidenceTypes": [
+    "textual",
+    "folklore"
+   ],
+   "mainstream": "Four Japanese texts (1815–1844) say that on 22 February 1803 fishermen in Hitachi Province found a round vessel like an incense burner, with windows and strange writing inside, carrying a pale young woman with red hair who spoke an unknown language and clutched a box; they set her adrift again. Folklorists such as Yanagita Kunio see it as part of a long Japanese tradition of drifting-boat tales (e.g. Princess Wake, Konjiki-hime).",
+   "alternatives": [
+    {
+     "label": "UFO encounter (speculative)",
+     "text": "Some ufologists cite the story as an early close encounter with an extraterrestrial craft."
+    },
+    {
+     "label": "Foreign castaway",
+     "text": "In 1844 writer Kyokutei Bakin suggested from a book on Russian customs that the woman may have been Russian; a villager in one version suggests an exiled foreign princess."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Utsuro-bune",
+     "url": "https://en.wikipedia.org/wiki/Utsuro-bune",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Utsuro-Bune-Manjud%C5%8D-Drifted-Ashore-on_Fief-of-Lord-Ogasawara.png/500px-Utsuro-Bune-Manjud%C5%8D-Drifted-Ashore-on_Fief-of-Lord-Ogasawara.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Utsuro-Bune-Manjud%C5%8D-Drifted-Ashore-on_Fief-of-Lord-Ogasawara.png",
+     "author": "From “Hyoryu-ki-shu (Archives of Castaways)”",
+     "license": "Public domain",
+     "title": "Utsuro-Bune-Manjudō-Drifted-Ashore-on_Fief-of-Lord-Ogasawara.png"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "aliens-ufo",
+    "anomalies"
+   ],
+   "threads": [
+    "ufo-encounters"
+   ]
+  },
+  {
+   "id": "varginha-1996",
+   "title": "Varginha \"ET\" incident (Brazil, 1996)",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 1996,
+   "end": null,
+   "evidenceTypes": [
+    "eyewitness",
+    "official inquiry"
+   ],
+   "mainstream": "On 20 January 1996 three young women in Varginha, Minas Gerais, said they saw a large-headed creature with red eyes and three bumps on its head. Rumours followed of UFOs, alien captures by the army, a hospital examination, a police officer's death and unexplained zoo animal deaths, and the case drew huge media coverage. A 1997 Brazilian military inquiry concluded the women had seen a local man nicknamed \"Mudinho\", crouching and dirty after heavy rain, and that military movements were routine.",
+   "alternatives": [
+    {
+     "label": "Captured alien (claim)",
+     "text": "Ufologists allege that one or more extraterrestrials were captured and moved by the military and that officials covered it up."
+    },
+    {
+     "label": "Sceptical view",
+     "text": "Sceptic Brian Dunning calls it a case where \"literally nothing at all happened that was remotely unusual\", with rumours linked together afterwards."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Varginha UFO incident",
+     "url": "https://en.wikipedia.org/wiki/Varginha_UFO_incident",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Cxdagua_varginha.jpg/500px-Cxdagua_varginha.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Cxdagua_varginha.jpg",
+     "author": "Olimor",
+     "license": "Public domain",
+     "title": "Cxdagua_varginha.jpg"
+    }
+   ],
+   "categories": [
+    "aliens-ufo",
+    "anomalies"
+   ],
+   "threads": [
+    "ufo-encounters"
+   ]
+  },
+  {
+   "id": "kaikoura-1978",
+   "title": "Kaikōura lights (New Zealand, 1978)",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 1978,
+   "end": null,
+   "evidenceTypes": [
+    "eyewitness",
+    "radar",
+    "film"
+   ],
+   "mainstream": "On 21 December 1978 Safe Air cargo pilots saw strange lights near the Kaikōura ranges, also tracked by Wellington radar. On 30–31 December an Australian TV crew aboard another flight filmed bright lights, including a large orb that seemed to pace the aircraft; the footage was shown worldwide.",
+   "alternatives": [
+    {
+     "label": "Unexplained (Maccabee)",
+     "text": "US optical physicist Bruce Maccabee calculated the object was very bright and 20 m or more across, and concluded it was an unknown phenomenon."
+    },
+    {
+     "label": "Squid boats and optics",
+     "text": "New Zealand's DSIR said the lights were most likely squid-fishing boats' lamps, with atmospheric bending of radar and light, and distortion from filming through the window; astronomers suggested Jupiter or Mars (which would not show on radar), ball lightning or meteors, and Patrick Moore reflections, a balloon or an aircraft."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Kaikōura lights",
+     "url": "https://en.wikipedia.org/wiki/Kaik%C5%8Dura_lights",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Kaikoura_Lights%2C_December_31_1978_%2823623047260%29.jpg/500px-Kaikoura_Lights%2C_December_31_1978_%2823623047260%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Kaikoura_Lights,_December_31_1978_(23623047260).jpg",
+     "author": "Archives New Zealand from New Zealand",
+     "license": "CC BY-SA 2.0",
+     "title": "Kaikoura_Lights,_December_31_1978_(23623047260).jpg"
+    }
+   ],
+   "categories": [
+    "aliens-ufo",
+    "anomalies"
+   ],
+   "threads": [
+    "ufo-encounters"
+   ]
+  },
+  {
+   "id": "okapi",
+   "title": "Okapi: the \"African unicorn\" confirmed",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1901,
+   "end": null,
+   "evidenceTypes": [
+    "biological"
+   ],
+   "mainstream": "Europeans heard reports of an unknown forest animal, nicknamed the \"African unicorn\"; Henry Morton Stanley (1887) mentioned a donkey-like animal the local people called the atti. Harry Johnston, told about the animal by Congo forest people he had rescued from a showman, obtained striped skin and a skull, and the species was formally described in 1901 (first as Equus johnstoni, then Okapia johnstoni). It turned out to be a forest relative of the giraffe, found only in the northeast of the DR Congo.",
+   "alternatives": [],
+   "changed": "1887: Stanley reports the atti. 1901: described by science from skin and skull.",
+   "sources": [
+    {
+     "title": "Wikipedia: Okapi",
+     "url": "https://en.wikipedia.org/wiki/Okapi",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Saint-Aignan_%28Loir-et-Cher%29._Okapi.jpg/500px-Saint-Aignan_%28Loir-et-Cher%29._Okapi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Saint-Aignan_(Loir-et-Cher)._Okapi.jpg",
+     "author": "Daniel Jolivet",
+     "license": "CC BY 2.0",
+     "title": "Saint-Aignan_(Loir-et-Cher)._Okapi.jpg"
+    }
+   ],
+   "categories": [
+    "science-cosmos",
+    "anomalies",
+    "myth-legend"
+   ],
+   "threads": [
+    "changed-understanding",
+    "cryptids",
+    "stories-proven-true"
+   ]
+  },
+  {
+   "id": "giant-squid",
+   "title": "The kraken and the giant squid",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1857,
+   "end": null,
+   "evidenceTypes": [
+    "biological",
+    "textual"
+   ],
+   "mainstream": "The kraken, a Norwegian sea monster big as an island, appears in a 1646 glossary and was described by Bishop Pontoppidan (1753). Giant squid tales are old among mariners, and zoologist Japetus Steenstrup named the giant squid Architeuthis in 1857; a French warship secured part of one in 1861. Its feeding tentacles can reach about 10 m. The first photos of a live giant squid in the wild were taken on 30 September 2004 by Tsunemi Kubodera and Kyoichi Mori; video followed in 2012.",
+   "alternatives": [
+    {
+     "label": "Legend from squid?",
+     "text": "Many think kraken stories (and perhaps the \"sea monk\" of c. 1550, the Caribbean Lusca or Greek Scylla) came from sightings of giant squid; claims of 20 m+ specimens remain undocumented."
+    }
+   ],
+   "changed": "1753: kraken described as fact by Pontoppidan. 1857: Architeuthis named. 2004: first photos alive. 2012: first video.",
+   "sources": [
+    {
+     "title": "First-ever observations of a live giant squid in the wild",
+     "authors": "Kubodera, T. et al.",
+     "year": 2005,
+     "doi": "10.1098/rspb.2005.3158",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: Giant squid",
+     "url": "https://en.wikipedia.org/wiki/Giant_squid",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Kraken",
+     "url": "https://en.wikipedia.org/wiki/Kraken",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Le_Poulpe_Colossal.jpg/500px-Le_Poulpe_Colossal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Le_Poulpe_Colossal.jpg",
+     "author": "Pierre Denys de Montfort (1766–1820) / Étienne Claude Voysard (1746–1812.)",
+     "license": "Public domain",
+     "title": "Le_Poulpe_Colossal.jpg"
+    }
+   ],
+   "categories": [
+    "science-cosmos",
+    "myth-legend",
+    "anomalies"
+   ],
+   "threads": [
+    "changed-understanding",
+    "cryptids",
+    "stories-proven-true"
+   ]
   }
  ]
 }
