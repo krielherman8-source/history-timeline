@@ -8677,6 +8677,571 @@
    "threads": [
     "deep-oral-memory"
    ]
+  },
+  {
+   "id": "mali-atlantic-voyage",
+   "title": "Mali's lost Atlantic fleet",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 1311,
+   "end": null,
+   "dateNote": "Before Musa's accession (c. 1312); story told in Cairo in 1324",
+   "evidenceTypes": [
+    "textual"
+   ],
+   "mainstream": "In Cairo in 1324, Mansa Musa said that his predecessor sent 200 ships (plus 200 supply ships) to find the far edge of the Atlantic; one returned, reporting a \"river\" in the sea (probably the Canary Current). The ruler then sailed with 2,000 ships and never came back. The only account is al-Umari's record. The ruler is popularly called \"Abu Bakr II\", but that name comes from a 19th-century mistranslation; Ibn Khaldun names Musa's predecessor as Muhammad ibn Qu.",
+   "alternatives": [
+    {
+     "label": "Reached the Americas (speculative)",
+     "text": "Ivan van Sertima and Gaoussou Diawara proposed the fleet reached the New World, citing reports in Columbus-era sources."
+    },
+    {
+     "label": "Mainstream view",
+     "text": "Scholars note that no genuine African artefact has been found in a controlled excavation in the Americas and that there is no accepted evidence of pre-Columbian African contact."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Atlantic voyage of the predecessor of Mansa Musa",
+     "url": "https://en.wikipedia.org/wiki/Atlantic_voyage_of_the_predecessor_of_Mansa_Musa",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Mansa Musa",
+     "url": "https://en.wikipedia.org/wiki/Mansa_Musa",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Catalan_Atlas_BNF_Sheet_6_Mansa_Musa_%28cropped%29.jpg/500px-Catalan_Atlas_BNF_Sheet_6_Mansa_Musa_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Catalan_Atlas_BNF_Sheet_6_Mansa_Musa_(cropped).jpg",
+     "author": "attributed to Abraham Cresques",
+     "license": "Public domain",
+     "title": "Catalan_Atlas_BNF_Sheet_6_Mansa_Musa_(cropped).jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "anomalies"
+   ],
+   "threads": [
+    "ocean-voyagers"
+   ]
+  },
+  {
+   "id": "jiahu-symbols",
+   "title": "Jiahu symbols",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 3,
+   "start": -6500,
+   "end": null,
+   "dateNote": "Seventh millennium BCE (often rounded to c. 6000 BCE)",
+   "evidenceTypes": [
+    "archaeological"
+   ],
+   "mainstream": "Signs incised on tortoise shells and bones at Jiahu, a Neolithic Peiligang-culture site in Henan, China (excavated 1989). Of 17 groups first identified, 11 are definite incised signs. A few resemble much later oracle-bone characters such as \"eye\" and \"sun\".",
+   "alternatives": [
+    {
+     "label": "Earliest writing?",
+     "text": "Some researchers see a very early writing system, partly because the tortoise shells hint at later Shang divination practice."
+    },
+    {
+     "label": "Proto-writing / sign use",
+     "text": "A 2003 Antiquity report interpreted them not as writing but as part of a long period of sign-use that eventually led to writing; most scholars doubt they are systematic writing."
+    }
+   ],
+   "sources": [
+    {
+     "title": "The earliest writing? Sign use in the seventh millennium BC at Jiahu, Henan Province, China",
+     "authors": "Li, X. et al.",
+     "year": 2003,
+     "doi": "10.1017/S0003598X00061329",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: Jiahu symbols",
+     "url": "https://en.wikipedia.org/wiki/Jiahu_symbols",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/%E6%B2%B3%E5%8D%97%E8%88%9E%E9%98%B3%E8%B4%BE%E6%B9%96%E9%81%97%E5%9D%80-%E5%88%BB%E7%AC%A6%E9%BE%9F%E7%94%B2-%E8%A3%B4%E6%9D%8E%E5%B2%97%E6%96%87%E5%8C%96-%E6%B2%B3%E5%8D%97%E5%8D%9A%E7%89%A9%E9%99%A2.jpg/500px-%E6%B2%B3%E5%8D%97%E8%88%9E%E9%98%B3%E8%B4%BE%E6%B9%96%E9%81%97%E5%9D%80-%E5%88%BB%E7%AC%A6%E9%BE%9F%E7%94%B2-%E8%A3%B4%E6%9D%8E%E5%B2%97%E6%96%87%E5%8C%96-%E6%B2%B3%E5%8D%97%E5%8D%9A%E7%89%A9%E9%99%A2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:%E6%B2%B3%E5%8D%97%E8%88%9E%E9%98%B3%E8%B4%BE%E6%B9%96%E9%81%97%E5%9D%80-%E5%88%BB%E7%AC%A6%E9%BE%9F%E7%94%B2-%E8%A3%B4%E6%9D%8E%E5%B2%97%E6%96%87%E5%8C%96-%E6%B2%B3%E5%8D%97%E5%8D%9A%E7%89%A9%E9%99%A2.jpg",
+     "author": "Kcx36",
+     "license": "CC BY-SA 4.0",
+     "title": "河南舞阳贾湖遗址-刻符龟甲-裴李岗文化-河南博物院.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history",
+    "anomalies"
+   ],
+   "threads": [
+    "origins-of-writing"
+   ]
+  },
+  {
+   "id": "oracle-bones",
+   "title": "Oracle bones: \"dragon bones\" that proved the Shang",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -1250,
+   "end": -1050,
+   "evidenceTypes": [
+    "archaeological",
+    "textual"
+   ],
+   "mainstream": "Ox shoulder blades and turtle shells used for divination in the late Shang dynasty (c. 1250–1050 BCE): questions were carved, heat cracked the bone and the answer was read. About 13,000 bones with 130,000+ inscriptions are known. In the 19th century villagers near Anyang sold them as \"dragon bones\" for traditional medicine; in 1899 Wang Yirong recognised the marks as ancient Chinese writing. Excavations (1928–37) at Yinxu proved the Shang dynasty and its last capital were real.",
+   "alternatives": [
+    {
+     "label": "Lost to medicine",
+     "text": "Historian Xu Yahui notes no one knows how many inscribed bones were ground up by pharmacies before 1899."
+    },
+    {
+     "label": "Malaria tale",
+     "text": "The story that Wang noticed the writing on his own malaria medicine is described as a legend; how he actually obtained the bones is not known."
+    }
+   ],
+   "changed": "Before 1899: Shang known only from later texts and sometimes doubted. 1899: inscriptions recognised. 1908: source traced to Anyang. 1928–37: excavations confirm the Shang capital.",
+   "sources": [
+    {
+     "title": "Wikipedia: Oracle bone",
+     "url": "https://en.wikipedia.org/wiki/Oracle_bone",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Wang Yirong",
+     "url": "https://en.wikipedia.org/wiki/Wang_Yirong",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Orakelknochen.JPG/500px-Orakelknochen.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Orakelknochen.JPG",
+     "author": "Unknown",
+     "license": "CC BY-SA 3.0",
+     "title": "Orakelknochen.JPG"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology",
+    "religion"
+   ],
+   "threads": [
+    "changed-understanding",
+    "dragons-and-fossils",
+    "stories-proven-true",
+    "origins-of-writing"
+   ]
+  },
+  {
+   "id": "plain-of-jars",
+   "title": "Plain of Jars and the giants' rice wine",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -1240,
+   "end": null,
+   "dateNote": "Jars placed c. 1240–660 BCE (OSL); Site 1 burials 8th–13th c. CE",
+   "evidenceTypes": [
+    "archaeological",
+    "luminescence dating",
+    "oral tradition"
+   ],
+   "mainstream": "Thousands of large stone jars in clusters across the Xiangkhoang Plateau, Laos. Madeleine Colani (1930s) linked them to burial, and later excavations found cremated and secondary burials, beads and grave goods. Luminescence dating suggests jars were placed as early as 1240–660 BCE, while burials at Site 1 date to the 8th–13th centuries CE. The area was heavily bombed by the US Air Force during the Secret War in Laos (1960s), and only some sites have been cleared of unexploded bombs. UNESCO World Heritage Site.",
+   "alternatives": [
+    {
+     "label": "Local legend",
+     "text": "Lao legend tells of a race of giants whose king Khun Cheung defeated the enemy king Chao Angka and made the jars to brew and store rice wine (lau hai) for the victory feast."
+    },
+    {
+     "label": "\"Distilling vessel\" idea",
+     "text": "Some researchers suggested bodies were first placed in jars to decompose before cremation and secondary burial, as in later royal funeral customs of the region."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Excavating among the megaliths: recent research at the ‘Plain of Jars’ site 1 in Laos",
+     "authors": "O'Reilly, D. et al.",
+     "year": 2019,
+     "doi": "10.15184/aqy.2019.102",
+     "type": "paper"
+    },
+    {
+     "title": "Megalithic Jar Sites in Xiengkhuang – Plain of Jars (UNESCO)",
+     "url": "https://whc.unesco.org/en/list/1587",
+     "type": "institution"
+    },
+    {
+     "title": "Wikipedia: Plain of Jars",
+     "url": "https://en.wikipedia.org/wiki/Plain_of_Jars",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Plainofjars_2.jpg/500px-Plainofjars_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Plainofjars_2.jpg",
+     "author": "Unknown",
+     "license": "CC BY-SA 2.5",
+     "title": "Plainofjars_2.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history",
+    "myth-legend"
+   ],
+   "threads": [
+    "giant-monuments",
+    "giants-and-little-people"
+   ]
+  },
+  {
+   "id": "genghis-tomb",
+   "title": "The lost grave of Genghis Khan",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1227,
+   "end": null,
+   "dateNote": "Death August 1227; location of grave unknown",
+   "evidenceTypes": [
+    "textual",
+    "oral tradition"
+   ],
+   "mainstream": "Genghis Khan died in August 1227; his grave has never been found. It is generally thought to be near the sacred mountain Burkhan Khaldun in the Khentii Mountains of Mongolia, and searches (recently with drones) face cultural objections because of the mountain's sanctity. The Genghis Khan Mausoleum in Inner Mongolia is a memorial, not his grave.",
+   "alternatives": [
+    {
+     "label": "Legend: no witnesses",
+     "text": "A frequently retold story says the funeral slaves were killed by guards who were themselves killed; this does not appear in contemporary sources."
+    },
+    {
+     "label": "Legend: hidden by nature",
+     "text": "Other tales say a river was diverted over the grave (echoing stories told of Gilgamesh and Alaric), horses trampled it flat, or trees were planted over it."
+    },
+    {
+     "label": "Legend: the weeping camel",
+     "text": "One tale says a baby camel was buried with the Khan so its mother could later lead the family back to the grave."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Burial place of Genghis Khan",
+     "url": "https://en.wikipedia.org/wiki/Burial_place_of_Genghis_Khan",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Burkhan Khaldun",
+     "url": "https://en.wikipedia.org/wiki/Burkhan_Khaldun",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Burkhan_Khaldun_mount3.jpg/500px-Burkhan_Khaldun_mount3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Burkhan_Khaldun_mount3.jpg",
+     "author": "Ganzorig Gavaa",
+     "license": "CC BY-SA 2.0",
+     "title": "Burkhan_Khaldun_mount3.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "myth-legend",
+    "anomalies"
+   ],
+   "threads": [
+    "hidden-tombs"
+   ]
+  },
+  {
+   "id": "xu-fu",
+   "title": "Xu Fu's voyage for the elixir of life",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": -219,
+   "end": -210,
+   "evidenceTypes": [
+    "textual",
+    "oral tradition"
+   ],
+   "mainstream": "Xu Fu, a court sorcerer of Qin Shi Huang, was sent twice (219–210 BCE) to find the elixir of immortality on the mythical Mount Penglai in the eastern sea, reportedly with thousands of young men and women. Sima Qian's Records of the Grand Historian says he reached a land of \"flat plains and wide swamps\", made himself king and never returned.",
+   "alternatives": [
+    {
+     "label": "Legend in Japan",
+     "text": "From a 10th-century account by the monk Yichu onward, Xu Fu is said to have landed in Japan; many Japanese shrines honour him as a bringer of farming, medicine and silk. Some writers even identified him with Emperor Jimmu (speculative)."
+    },
+    {
+     "label": "Mainstream view",
+     "text": "The Japanese landing first appears in a text written more than 1,100 years after the voyage, and the accounts crediting him with new crops and techniques are also much later."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Xu Fu",
+     "url": "https://en.wikipedia.org/wiki/Xu_Fu",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/X%C3%BC_Fu.jpg/500px-X%C3%BC_Fu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:X%C3%BC_Fu.jpg",
+     "author": "Fanghong",
+     "license": "CC BY-SA 3.0",
+     "title": "Xü_Fu.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "myth-legend"
+   ],
+   "threads": [
+    "ocean-voyagers"
+   ]
+  },
+  {
+   "id": "tambora-1815",
+   "title": "Tambora 1815: the lost kingdom and the year without a summer",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": 1815,
+   "end": null,
+   "evidenceTypes": [
+    "eyewitness",
+    "geological",
+    "archaeological"
+   ],
+   "mainstream": "The April 1815 eruption of Mount Tambora on Sumbawa, Indonesia (VEI 7) is the most powerful in recorded history. Pyroclastic flows destroyed the village and kingdom of Tambora; deaths from the eruption, famine and disease are estimated at roughly 71,000–100,000. The ash veil helped cause the \"Year Without a Summer\" in 1816, with harvest failures in many parts of the world. In 2004 excavations found a house and its inhabitants buried under ash, prompting the label \"Pompeii of the East\".",
+   "alternatives": [
+    {
+     "label": "Lost language",
+     "text": "The Tambora language, wiped out by the eruption, appears to have been an isolate, possibly the last survivor of the pre-Austronesian languages of central Indonesia."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: 1815 eruption of Mount Tambora",
+     "url": "https://en.wikipedia.org/wiki/1815_eruption_of_Mount_Tambora",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Tambora culture",
+     "url": "https://en.wikipedia.org/wiki/Tambora_culture",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Year Without a Summer",
+     "url": "https://en.wikipedia.org/wiki/Year_Without_a_Summer",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/1815_tambora_explosion-2.png/500px-1815_tambora_explosion-2.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:1815_tambora_explosion-2.png",
+     "author": "myself",
+     "license": "CC BY-SA 3.0",
+     "title": "1815_tambora_explosion-2.png"
+    }
+   ],
+   "categories": [
+    "catastrophes",
+    "history",
+    "science-cosmos",
+    "lost-civilisations"
+   ],
+   "threads": [
+    "lost-civilisations",
+    "volcanoes-and-memory"
+   ]
+  },
+  {
+   "id": "kuk-swamp",
+   "title": "Kuk Swamp: farming invented in New Guinea",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -7000,
+   "end": null,
+   "dateNote": "Earliest drainage c. 9,000 years ago (c. 7000 BCE)",
+   "evidenceTypes": [
+    "archaeological",
+    "archaeobotanical"
+   ],
+   "mainstream": "Wetland site in the Wahgi Valley highlands of Papua New Guinea with drainage ditches and planting features from about 9,000 years ago, used to grow taro, with bananas and sugar cane cultivated from about 6,900–6,400 years ago. UNESCO (2008) lists it as one of the few places where people independently invented agriculture.",
+   "alternatives": [],
+   "sources": [
+    {
+     "title": "Origins of Agriculture at Kuk Swamp in the Highlands of New Guinea",
+     "authors": "Denham, T. et al.",
+     "year": 2003,
+     "doi": "10.1126/science.1085255",
+     "type": "paper"
+    },
+    {
+     "title": "Kuk Early Agricultural Site (UNESCO)",
+     "url": "https://whc.unesco.org/en/list/887",
+     "type": "institution"
+    },
+    {
+     "title": "Wikipedia: Kuk Swamp",
+     "url": "https://en.wikipedia.org/wiki/Kuk_Swamp",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Kuk_New_Guinea_2002.jpg/500px-Kuk_New_Guinea_2002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Kuk_New_Guinea_2002.jpg",
+     "author": "NASA: JPL",
+     "license": "Public domain",
+     "title": "Kuk_New_Guinea_2002.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history"
+   ],
+   "threads": []
+  },
+  {
+   "id": "kuwae",
+   "title": "Kuwae: the island swallowed by an eruption",
+   "lane": "myth",
+   "status": "disputed",
+   "priority": 2,
+   "start": 1452,
+   "end": null,
+   "dateNote": "15th century CE; once dated 1452 from ice cores, now uncertain",
+   "evidenceTypes": [
+    "oral tradition",
+    "geological",
+    "ice core"
+   ],
+   "mainstream": "Oral traditions of Tongoa, Vanuatu, tell of a land called Kuwae destroyed by a great eruption; in the legend of Ti Tongoa Liseiriki a young man escapes along the coast to Tongariki. Thick 15th-century pyroclastic deposits blanket Tongoa and Epi, and a 6 × 12 km submarine caldera between them was found in 1994 and named Kuwae caldera.",
+   "alternatives": [
+    {
+     "label": "Huge eruption linked to ice cores",
+     "text": "Earlier studies linked Kuwae to a large sulphate spike in Antarctic ice dated 1452–1453 and estimated 30–60 km³ of magma; a 2012 study re-dated the spike to 1458, and tephra geochemistry does not match Kuwae, so the source remains unidentified."
+    },
+    {
+     "label": "Smaller eruption",
+     "text": "Another team argues the deposits indicate only a small to moderate eruption, possibly from a different caldera south of Tongoa, where the traditions actually place Kuwae."
+    }
+   ],
+   "sources": [
+    {
+     "title": "The Kuwae (Vanuatu) eruption of AD 1452: potential magnitude and volatile release",
+     "authors": "Witter, J. et al.",
+     "year": 2006,
+     "doi": "10.1007/s00445-006-0075-4",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: Kuwae",
+     "url": "https://en.wikipedia.org/wiki/Kuwae",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/ShepherdIslandsMap.png/500px-ShepherdIslandsMap.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:ShepherdIslandsMap.png",
+     "author": "Unknown",
+     "license": "CC BY-SA 3.0",
+     "title": "ShepherdIslandsMap.png"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "catastrophes",
+    "science-cosmos"
+   ],
+   "threads": [
+    "deep-oral-memory",
+    "lost-continents",
+    "volcanoes-and-memory"
+   ]
+  },
+  {
+   "id": "haasts-eagle",
+   "title": "Haast's eagle and the pouākai legend",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1300,
+   "end": null,
+   "dateNote": "Coexisted with Māori from c. 1250–1275 until extinction c. 1445",
+   "evidenceTypes": [
+    "fossil",
+    "genetic",
+    "oral tradition",
+    "rock art"
+   ],
+   "mainstream": "The largest eagle known (10–18 kg), Hieraaetus moorei lived on New Zealand's South Island and hunted moa weighing up to 200 kg. Ancient DNA (2005) showed its closest relatives are small Hieraaetus eagles, implying very rapid growth in size. After Māori arrived (c. 1250–1275) the moa were hunted out, and the eagle died out about 1445. Māori rock art in South Canterbury appears to depict it.",
+   "alternatives": [
+    {
+     "label": "Pouākai / Hōkioi legends",
+     "text": "The eagle is commonly accepted as the pouākai of Māori tradition, a giant bird said to kill people as well as moa, which scientists consider physically plausible."
+    },
+    {
+     "label": "Sceptical view",
+     "text": "Some argue the hakawai and hōkioi stories refer instead to a snipe, and that pouākai may not refer to Haast's eagle since it is not known from the North Island."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Ancient DNA Provides New Insights into the Evolutionary History of New Zealand's Extinct Giant Eagle",
+     "authors": "Bunce, M. et al.",
+     "year": 2005,
+     "doi": "10.1371/journal.pbio.0030009",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: Haast's eagle",
+     "url": "https://en.wikipedia.org/wiki/Haast's_eagle",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Canterbury_Museum%2C_Christchurch_-_Joy_of_Museums_-_Haast%27s_Eagle.jpg/500px-Canterbury_Museum%2C_Christchurch_-_Joy_of_Museums_-_Haast%27s_Eagle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Canterbury_Museum,_Christchurch_-_Joy_of_Museums_-_Haast%27s_Eagle.jpg",
+     "author": "GordonMakryllos",
+     "license": "CC BY-SA 4.0",
+     "title": "Canterbury_Museum,_Christchurch_-_Joy_of_Museums_-_Haast's_Eagle.jpg"
+    }
+   ],
+   "categories": [
+    "science-cosmos",
+    "myth-legend"
+   ],
+   "threads": [
+    "stories-proven-true",
+    "deep-oral-memory"
+   ]
   }
  ]
 }

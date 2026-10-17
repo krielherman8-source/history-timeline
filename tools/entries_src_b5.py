@@ -71,7 +71,7 @@ X('mali-atlantic-voyage','Mali\'s lost Atlantic fleet',H,'disputed',2,1311,['tex
  'In Cairo in 1324, Mansa Musa said that his predecessor sent 200 ships (plus 200 supply ships) to find the far edge of the Atlantic; one returned, reporting a "river" in the sea (probably the Canary Current). The ruler then sailed with 2,000 ships and never came back. The only account is al-Umari\'s record. The ruler is popularly called "Abu Bakr II", but that name comes from a 19th-century mistranslation; Ibn Khaldun names Musa\'s predecessor as Muhammad ibn Qu.',
  [('Reached the Americas (speculative)','Ivan van Sertima and Gaoussou Diawara proposed the fleet reached the New World, citing reports in Columbus-era sources.'),
   ('Mainstream view','Scholars note that no genuine African artefact has been found in a controlled excavation in the Americas and that there is no accepted evidence of pre-Columbian African contact.')],
- ['wiki:Abu_Bakr_II','wiki:Mansa_Musa'],None,
+ ['wiki:Abu_Bakr_II','wiki:Mansa_Musa'],'Mansa_Musa',
  dateNote='Before Musa\'s accession (c. 1312); story told in Cairo in 1324'),
 X('jiahu-symbols','Jiahu symbols',H,'disputed',3,-6500,['archaeological'],
  'Signs incised on tortoise shells and bones at Jiahu, a Neolithic Peiligang-culture site in Henan, China (excavated 1989). Of 17 groups first identified, 11 are definite incised signs. A few resemble much later oracle-bone characters such as "eye" and "sun".',
