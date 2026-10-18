@@ -4246,7 +4246,8 @@
     "changed-understanding",
     "giant-monuments",
     "stories-proven-true",
-    "knowledge-and-power"
+    "knowledge-and-power",
+    "outsider-builder-claims"
    ]
   },
   {
@@ -9422,7 +9423,8 @@
     "hoaxes-exposed",
     "lost-continents",
     "giants-and-little-people",
-    "knowledge-and-power"
+    "knowledge-and-power",
+    "outsider-builder-claims"
    ]
   },
   {
@@ -10059,7 +10061,8 @@
     "aliens-ufo"
    ],
    "threads": [
-    "hoaxes-exposed"
+    "hoaxes-exposed",
+    "mummies"
    ]
   },
   {
@@ -10594,7 +10597,8 @@
     "history"
    ],
    "threads": [
-    "changed-understanding"
+    "changed-understanding",
+    "outsider-builder-claims"
    ]
   },
   {
@@ -10692,7 +10696,8 @@
    "threads": [
     "lost-civilisations",
     "sky-beings",
-    "ancient-astronomy"
+    "ancient-astronomy",
+    "outsider-builder-claims"
    ]
   },
   {
@@ -11419,6 +11424,602 @@
     "changed-understanding",
     "ancient-astronomy",
     "origins-of-writing"
+   ]
+  },
+  {
+   "id": "tasaday",
+   "title": "The Tasaday: Stone Age tribe or hoax?",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 1971,
+   "end": null,
+   "evidenceTypes": [
+    "ethnographic",
+    "linguistic",
+    "journalistic"
+   ],
+   "mainstream": "In 1971 Manuel Elizalde, head of the Philippine minorities agency PANAMIN and a crony of President Ferdinand Marcos, announced the discovery of the Tasaday, a small group in the rainforest of Mindanao said to live in caves with \"Stone Age\" tools in complete isolation. National Geographic covered them (cover story, August 1972), and visitors included Charles Lindbergh and Gina Lollobrigida. In 1972 Marcos declared a 77 km² reserve around their caves, and in 1976, under martial law, closed it to all visitors; no anthropologist had studied them for more than six weeks. Elizalde fled the country in 1983 amid allegations that he squandered foundation money.",
+   "alternatives": [
+    {
+     "label": "Hoax (1986 claim)",
+     "text": "After Marcos fell in 1986, Swiss journalist Oswald Iten and Joey Lozano made an unauthorised two-hour visit, found the caves deserted and claimed the Tasaday were members of known local tribes who had posed as cave-dwellers under pressure from Elizalde; some local people admitted pretending to be Tasaday for money and goods."
+    },
+    {
+     "label": "Genuine but recent isolation",
+     "text": "Linguist Lawrence Reid, after ten months of fieldwork (1993–1996), concluded they \"probably were as isolated as they claim\", unfamiliar with agriculture, with a distinct dialect, and that the original reporters perpetrated no hoax; he estimated their isolation lasted perhaps no more than 150 years. A widely held summary is that they were a separate forest-gathering group rarely in contact with neighbours, but not a Stone Age survival."
+    }
+   ],
+   "changed": "1971–72: hailed as a \"Stone Age\" tribe. 1986: denounced as a hoax. 1990s: linguistic work supports a real, recently isolated group.",
+   "sources": [
+    {
+     "title": "Wikipedia: Tasaday",
+     "url": "https://en.wikipedia.org/wiki/Tasaday",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Lobo_und_gruppe_or_wald_322.jpg/500px-Lobo_und_gruppe_or_wald_322.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Lobo_und_gruppe_or_wald_322.jpg",
+     "author": "Susanne Haerpfer",
+     "license": "CC BY-SA 3.0",
+     "title": "Lobo_und_gruppe_or_wald_322.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "hoaxes",
+    "anomalies"
+   ],
+   "threads": [
+    "changed-understanding",
+    "hoaxes-exposed",
+    "knowledge-and-power"
+   ]
+  },
+  {
+   "id": "iram-ubar",
+   "title": "Iram of the Pillars and Ubar, \"Atlantis of the Sands\"",
+   "lane": "myth",
+   "status": "disputed",
+   "priority": 2,
+   "start": 610,
+   "end": null,
+   "dateNote": "Named in the Quran (7th century CE); the city or people it refers to are undated",
+   "evidenceTypes": [
+    "textual",
+    "archaeological"
+   ],
+   "mainstream": "The Quran (Surah 89) mentions \"Iram, who had lofty pillars\" alongside the destroyed people of ʿĀd; later the Thousand and One Nights tells of the many-columned city of Iram. Ubar, a legendary land of southern Arabia, is often equated with it and nicknamed the Atlantis of the Sands. Interpretations range from a city (Alexandria, Damascus, or a city that moved) to a region (the biblical Aram) or a tribe whose \"pillars\" were tent poles. Inscriptions at the Temple of al-Lat at Wadi Ramm in Jordan mention Iram and the tribe of ʿĀd, making it a more plausible candidate for some scholars.",
+   "alternatives": [
+    {
+     "label": "Found at Shisr? (Clapp)",
+     "text": "Amateur archaeologist Nicholas Clapp proposed that Iram is Ubar and identified it with the archaeological site of Shisr in Dhofar, Oman, a former oasis trading post on the frankincense routes (part of the UNESCO Land of Frankincense since 2000). Scholars generally do not accept this, and Clapp himself later denied the Shisr identification."
+    },
+    {
+     "label": "Source of the legend",
+     "text": "Ubar is described by ancient and medieval authors as a land rather than a city; it has been suggested that the drying of the spring and abandonment of Shisr could have inspired the legend of a lost city."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Iram of the Pillars",
+     "url": "https://en.wikipedia.org/wiki/Iram_of_the_Pillars",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Archaeological site of Shisr",
+     "url": "https://en.wikipedia.org/wiki/Archaeological_site_of_Shisr",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Land of Frankincense (UNESCO)",
+     "url": "https://whc.unesco.org/en/list/1010",
+     "type": "institution"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Shisr_Oman.JPG/500px-Shisr_Oman.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Shisr_Oman.JPG",
+     "author": "Ulf Rydin",
+     "license": "CC BY-SA 4.0",
+     "title": "Shisr_Oman.JPG"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion",
+    "lost-civilisations",
+    "archaeology"
+   ],
+   "threads": [
+    "lost-civilisations",
+    "lost-continents"
+   ]
+  },
+  {
+   "id": "tooth-relic",
+   "title": "The tooth of the Buddha in Kandy",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 310,
+   "end": null,
+   "dateNote": "Tradition: arrived in Sri Lanka in the reign of Sirimeghavanna (301–328 CE)",
+   "evidenceTypes": [
+    "textual",
+    "religious tradition"
+   ],
+   "mainstream": "Sri Lanka venerates a tooth of the Buddha at the Temple of the Sacred Tooth Relic (Sri Dalada Maligawa) in the former royal palace complex of Kandy, part of a UNESCO World Heritage Site. Tradition holds that after the Buddha's cremation his left canine was kept in Kalinga, India, and that when Kalinga was attacked Princess Hemamali and Prince Dantha carried it to Sri Lanka, hidden in her hair, in the reign of Sirimeghavanna of Anuradhapura (301–328). Because whoever held the relic was believed to hold the right to rule, kings kept it beside their palaces, moving it with each capital; it was hidden in a grinding stone at one point and carried away from Kandy during the Portuguese invasion of 1603. Today it lies within seven golden caskets and is honoured by the annual Esala Perahera procession.",
+   "alternatives": [
+    {
+     "label": "Destroyed in Goa? (Portuguese account)",
+     "text": "Portuguese chroniclers João de Barros and Diogo do Couto wrote that a tooth relic seized in the 1560 expedition against the Jaffna Kingdom was taken to Goa and destroyed, by burning and casting into the sea, on the viceroy Constantino de Bragança's orders."
+    },
+    {
+     "label": "Survival (Sri Lankan tradition)",
+     "text": "The relic venerated in Kandy is held by Buddhists to be the authentic tooth; the relationship between it and the relic destroyed in Goa is a matter of differing accounts. A 2024 survey found 32 museums and temples worldwide claiming one or more Buddha tooth relics."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Relic of the tooth of the Buddha",
+     "url": "https://en.wikipedia.org/wiki/Relic_of_the_tooth_of_the_Buddha",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Temple of the Tooth",
+     "url": "https://en.wikipedia.org/wiki/Temple_of_the_Tooth",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Sacred City of Kandy (UNESCO)",
+     "url": "https://whc.unesco.org/en/list/450",
+     "type": "institution"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/SL_Kandy_asv2020-01_img33_Sacred_Tooth_Temple.jpg/500px-SL_Kandy_asv2020-01_img33_Sacred_Tooth_Temple.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:SL_Kandy_asv2020-01_img33_Sacred_Tooth_Temple.jpg",
+     "author": "A.Savin",
+     "license": "FAL (Free Art License)",
+     "title": "SL_Kandy_asv2020-01_img33_Sacred_Tooth_Temple.jpg"
+    }
+   ],
+   "categories": [
+    "religion",
+    "history"
+   ],
+   "threads": [
+    "sacred-relics",
+    "sacred-kingship"
+   ]
+  },
+  {
+   "id": "ningyo-mermaids",
+   "title": "Mermaid mummies of Japan and the \"Fiji mermaid\"",
+   "lane": "history",
+   "status": "debunked",
+   "priority": 2,
+   "start": 1736,
+   "end": 2023,
+   "evidenceTypes": [
+    "physical analysis",
+    "textual",
+    "radiocarbon"
+   ],
+   "mainstream": "Japanese tradition knows the ningyo (\"human-fish\"); the oldest pictures (scroll copy of 1069) show one presented to Prince Shōtoku in the 7th century, and some temples keep preserved \"mermaids\" tied to such legends. In the Edo period craftsmen made them commercially: a Dutch official on Dejima (1820s) saw \"mermaids\", two-headed men and dragons for sale. One reportedly bought from Japanese sailors in 1822 became the \"Fiji mermaid\" (a monkey's torso sewn to a fish), shown in London that year and by P. T. Barnum in New York in 1842. In 2022–23 researchers from Kurashiki University of Science and the Arts scanned the \"mermaid mummy\" of Enjuin temple, Asakuchi (Okayama), which came with a note saying it was netted off Tosa (Kōchi) between 1736 and 1740.",
+   "alternatives": [
+    {
+     "label": "Result of the 2023 study",
+     "text": "X-ray CT, microscopy and radiocarbon dating showed no skeleton except fish jaws and fin bones: the body is cloth, paper and cotton with plaster-like material, covered with layered paper, pufferfish skin and animal hair above and croaker-fish skin below; scales date it to the late 19th century, and no DNA was found."
+    },
+    {
+     "label": "Real animals behind the legend?",
+     "text": "Proposed sources for ningyo lore include giant salamanders (the earliest were caught in fresh water), dugongs or Steller's sea cows, seals, and oarfish (whose red crest matches some descriptions)."
+    }
+   ],
+   "changed": "1822: Fiji mermaid exhibited in London. 1842: Barnum shows it in New York. 2023: CT study shows a Japanese temple mermaid is a made object of the late 1800s.",
+   "sources": [
+    {
+     "title": "Wikipedia: Ningyo",
+     "url": "https://en.wikipedia.org/wiki/Ningyo",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Fiji mermaid",
+     "url": "https://en.wikipedia.org/wiki/Fiji_mermaid",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Kurashiki University of Science and the Arts: final report on the Enjuin mermaid mummy (2023, Japanese)",
+     "url": "https://www.kusa.ac.jp/news/2023/02/20230207mermaid.html",
+     "type": "institution"
+    },
+    {
+     "title": "Asahi Shimbun: Study finds \"mermaid mummy\" largely a molded object (2023)",
+     "url": "https://www.asahi.com/ajw/articles/14834950",
+     "type": "news"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Feejee_Mermaid%2C_shown_in_P.T._Barnum%27s_American_Museum%2C_1842%2C_as_leased_from_Moses_Kimball_of_the_Boston_Museum%2C_papier-mache_-_Peabody_Museum%2C_Harvard_University_-_DSC06154.jpg/500px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Feejee_Mermaid,_shown_in_P.T._Barnum%27s_American_Museum,_1842,_as_leased_from_Moses_Kimball_of_the_Boston_Museum,_papier-mache_-_Peabody_Museum,_Harvard_University_-_DSC06154.jpg",
+     "author": "Daderot",
+     "license": "Public domain",
+     "title": "Feejee_Mermaid,_shown_in_P.T._Barnum's_American_Museum,_1842,_as_leased_from_Moses_Kimball_of_the_Boston_Museum,_papier-mache_-_Peabody_Museum,_Harvard_University_-_DSC06154.jpg"
+    }
+   ],
+   "categories": [
+    "hoaxes",
+    "myth-legend",
+    "anomalies"
+   ],
+   "threads": [
+    "hoaxes-exposed",
+    "cryptids",
+    "mummies"
+   ]
+  },
+  {
+   "id": "rongorongo",
+   "title": "Rongorongo: the undeciphered script of Rapa Nui",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 1450,
+   "end": null,
+   "dateNote": "Wood of one tablet dated to the mid-15th century (2024); texts collected from the 1860s",
+   "evidenceTypes": [
+    "textual",
+    "radiocarbon"
+   ],
+   "mainstream": "A system of glyphs on about two dozen wooden objects from Easter Island (Rapa Nui), collected in the late 19th century and now scattered among museums; none remain on the island. The glyphs (outlines of humans, animals, plants and shapes) run in reverse boustrophedon, every other line upside down. Apart from part of one tablet that relates to a lunar calendar and a possible genealogy, none can be read. Oral history says only an elite was literate and the tablets were sacred; the scribes and their knowledge were lost when Rapa Nui society collapsed after Peruvian slave raids and epidemics in the 1860s. A 2024 radiocarbon study of tablets in Rome securely dated the wood of one to the mid-15th century, though the carving could be younger.",
+   "alternatives": [
+    {
+     "label": "Independent invention",
+     "text": "If rongorongo is true writing and was invented on the island before European contact, it would be one of very few independent inventions of writing in human history; the 2024 date supports pre-contact use."
+    },
+    {
+     "label": "Inspired by Europeans",
+     "text": "Others suggest the islanders created it after seeing writing during the Spanish treaty-signing visit of 1770; some tablets are carved on European oars or South African yellowwood, and the script was not reported by early explorers (possibly because it was taboo)."
+    },
+    {
+     "label": "Fanciful readings",
+     "text": "As with most undeciphered scripts, there are many fanciful interpretations and claimed translations; scholars accept none of them."
+    }
+   ],
+   "changed": "1860s: tablets first reported by missionaries. 1958: Barthel publishes the corpus. 2024: radiocarbon dating suggests pre-contact origin for at least one tablet.",
+   "sources": [
+    {
+     "title": "The invention of writing on Rapa Nui (Easter Island). New radiocarbon dates on the Rongorongo script",
+     "authors": "Ferrara, S. et al.",
+     "year": 2024,
+     "doi": "10.1038/s41598-024-53063-7",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: Rongorongo",
+     "url": "https://en.wikipedia.org/wiki/Rongorongo",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Rapa Nui National Park (UNESCO)",
+     "url": "https://whc.unesco.org/en/list/715",
+     "type": "institution"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Rongorongo_B-v_Aruku-Kurenga_%28color%29_edit1.jpg/500px-Rongorongo_B-v_Aruku-Kurenga_%28color%29_edit1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Rongorongo_B-v_Aruku-Kurenga_(color)_edit1.jpg",
+     "author": "Rongorongo_B-v_Aruku-Kurenga_(color).jpg: unknown\nderivative work: Mfield (talk)",
+     "license": "Public domain",
+     "title": "Rongorongo_B-v_Aruku-Kurenga_(color)_edit1.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology",
+    "anomalies"
+   ],
+   "threads": [
+    "changed-understanding",
+    "ancient-astronomy",
+    "origins-of-writing",
+    "civilisation-collapses"
+   ]
+  },
+  {
+   "id": "roi-mata",
+   "title": "Roi Mata: a legend that led to a grave",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1600,
+   "end": null,
+   "dateNote": "The last Roi Mata lived around 1600; grave located in 1967",
+   "evidenceTypes": [
+    "oral tradition",
+    "archaeological"
+   ],
+   "mainstream": "Roi Mata was a chiefly title in central Vanuatu borne by a dynasty from the 11th to the 17th century; the most famous holder, often simply called Roi Mata, lived around 1600. Oral tradition says he united the tribes, ruled peacefully, was poisoned by his brother, and was buried away from his homeland on the island of Eretoka, where his name was then avoided for fear of his spirit. In 1967 French archaeologist José Garanger used these stories to locate the grave on Eretoka: an elaborate burial with Roi Mata and over 25 members of his retinue. Three associated sites on Efate, Lelepa and Eretoka (his residence, the site of his death and the burial site) became UNESCO's Chief Roi Mata's Domain in 2008.",
+   "alternatives": [
+    {
+     "label": "Oral history as evidence",
+     "text": "The find shows oral tradition guiding archaeologists to a burial of about 370 years earlier, including details such as a mass burial of the chief's retinue."
+    }
+   ],
+   "changed": "1967: Garanger finds the grave using oral tradition. 2008: UNESCO World Heritage listing.",
+   "sources": [
+    {
+     "title": "Chief Roi Mata's Domain (UNESCO)",
+     "url": "https://whc.unesco.org/en/list/1280",
+     "type": "institution"
+    },
+    {
+     "title": "Wikipedia: Roi Mata",
+     "url": "https://en.wikipedia.org/wiki/Roi_Mata",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Fele%27s_Cave.jpg/500px-Fele%27s_Cave.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Fele%27s_Cave.jpg",
+     "author": "PhillipC",
+     "license": "CC BY 2.0",
+     "title": "Fele's_Cave.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology",
+    "myth-legend"
+   ],
+   "threads": [
+    "stories-proven-true",
+    "deep-oral-memory",
+    "hidden-tombs"
+   ]
+  },
+  {
+   "id": "haamonga",
+   "title": "Haʻamonga ʻa Maui, the \"Stonehenge of the Pacific\"",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 1200,
+   "end": null,
+   "dateNote": "Around 1200 CE (traditional history)",
+   "evidenceTypes": [
+    "archaeological",
+    "oral tradition",
+    "archaeoastronomy"
+   ],
+   "mainstream": "A coral-limestone trilithon at Niutōua on Tongatapu, Tonga: two uprights about 5.2 m high, each weighing about 30–40 tonnes above ground, with a lintel set into deep mortises. Historical analysis places it around 1200 CE under Tuʻitātui, the eleventh Tuʻi Tonga, probably as a gateway to the royal compound, representing his two sons joined by the lintel. Nearby is a stone \"throne\" the king leaned against to avoid being attacked from behind. A national park since 1972.",
+   "alternatives": [
+    {
+     "label": "Built by Māui (tradition)",
+     "text": "Traditional accounts say the hero Māui made it, carrying the stones from ʻUvea in a giant canoe, as they were too big for mortals; its name means \"the burden of Māui\". Some believe it points to Pulotu, the land of the gods."
+    },
+    {
+     "label": "Solar calendar?",
+     "text": "In 1967 King Taufaʻahau Tupou IV concluded it marked the sunrise at the solstices and equinoxes, a view supported by historian Tevita Fale, who described a V-shaped mark on the lintel aligned with these sunrises."
+    },
+    {
+     "label": "Sceptical view",
+     "text": "Astronomer Kik Velt of ʻAtenisi Institute argued the V-mark is only about 10 cm long and points along the lintel's main axis, too short to be a reliable direction marker."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Haʻamonga ʻa Maui",
+     "url": "https://en.wikipedia.org/wiki/Ha%CA%BBamonga_%CA%BBa_Maui",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Ha%CA%BBamonga.jpg/500px-Ha%CA%BBamonga.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Ha%CA%BBamonga.jpg",
+     "author": "Tauʻolunga",
+     "license": "CC BY-SA 3.0",
+     "title": "Haʻamonga.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "science-cosmos",
+    "myth-legend"
+   ],
+   "threads": [
+    "giant-monuments",
+    "ancient-astronomy"
+   ]
+  },
+  {
+   "id": "seven-sisters",
+   "title": "The Seven Sisters and the lost Pleiad",
+   "lane": "myth",
+   "status": "hypothesis",
+   "priority": 2,
+   "start": -100000,
+   "end": null,
+   "dateNote": "Proposed origin about 100,000 years ago (speculative); recorded versions are much later",
+   "evidenceTypes": [
+    "mythological",
+    "astronomical",
+    "speculative"
+   ],
+   "mainstream": "Many cultures call the Pleiades star cluster the \"seven sisters\" although most people see six stars, and many tell a story to explain the missing seventh. In Greek myth the Pleiades are daughters of Atlas, turned into stars to escape the hunter Orion; one sister went into hiding. Across Aboriginal Australia the cluster is a group of young women pursued by a man or men in Orion, and one sister has died, hidden or been abducted. Folklorist Stith Thompson noted the cluster is \"nearly always imagined\" as seven sisters. The cluster appears on the Nebra sky disc and heads Babylonian star lists, and Japan's 8th-century Kojiki calls it Mutsuraboshi, \"six stars\".",
+   "alternatives": [
+    {
+     "label": "100,000-year-old story (Norris & Norris)",
+     "text": "Astronomers Ray and Barnaby Norris (2021) used Gaia star motions to show that about 100,000 years ago the star Pleione was farther from Atlas and easy to see, so the cluster would have shown seven stars; they suggest the stories could date back to before modern humans left Africa, which would make them perhaps the oldest stories on Earth."
+    },
+    {
+     "label": "European diffusion (older view)",
+     "text": "Anthropologists once thought Europeans brought the Greek story to Australia, where it was adapted; Norris notes the Aboriginal stories appear much older than European contact."
+    },
+    {
+     "label": "Independent origins (interpretation)",
+     "text": "Because the cluster is a conspicuous group of six or so stars, similar stories could also have arisen independently in different cultures; the deep-time explanation remains a hypothesis."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Why Are There Seven Sisters?",
+     "authors": "Norris, R. et al.",
+     "year": 2021,
+     "doi": "10.1007/978-3-030-64606-6_11",
+     "type": "paper"
+    },
+    {
+     "title": "The world’s oldest story? Astronomers say global myths about ‘seven sisters’ stars may reach back 100,000 years",
+     "authors": "Norris, R.",
+     "year": 2020,
+     "doi": "10.64628/aa.thef4qfdd",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: Pleiades",
+     "url": "https://en.wikipedia.org/wiki/Pleiades",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Pleiades_large.jpg/500px-Pleiades_large.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Pleiades_large.jpg",
+     "author": "NASA, ESA, AURA/Caltech, Palomar Observatory\n\nThe science team consists of: D. Soderblom and E. Nelan (STScI), F. Benedi",
+     "license": "Public domain",
+     "title": "Pleiades_large.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "science-cosmos"
+   ],
+   "threads": [
+    "deep-oral-memory",
+    "ancient-astronomy"
+   ]
+  },
+  {
+   "id": "menehune",
+   "title": "Menehune: Hawaiʻi's hidden builders",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": 1820,
+   "end": null,
+   "dateNote": "Traditions recorded from the 19th century; 1820 census claim",
+   "evidenceTypes": [
+    "oral tradition",
+    "textual"
+   ],
+   "mainstream": "In Hawaiian tradition the Menehune are a race of small, dwarf-like people who live hidden in deep forests and valleys and are superb craftspeople, said to have lived in Hawaiʻi before settlers came from elsewhere in Polynesia. They work only at night and abandon any project not finished by dawn; only their children and people connected to them can see them. Structures attributed to them include the Alekoko (Menehune) fishpond wall at Niumalu and the Kīkīaola ditch at Waimea on Kauaʻi, structures on Necker Island and Ulupō Heiau on Oʻahu.",
+   "alternatives": [
+    {
+     "label": "Remembered first settlers",
+     "text": "Some early scholars proposed a first settlement from the Marquesas and a second from Tahiti, whose newcomers oppressed the \"commoners\" (manahune in Tahitian), who fled to the mountains; supporters cite a census of Kauaʻi ordered by Kaumualiʻi around 1820 that listed 65 people as menehune."
+    },
+    {
+     "label": "Post-contact legend",
+     "text": "Folklorist Katharine Luomala argued the small-people legends are a post-European adaptation of the term manahune (\"lowly people\") to European tales of brownies; others reply that absence from early records proves little for an oral tradition."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Menehune",
+     "url": "https://en.wikipedia.org/wiki/Menehune",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Alekoko_fishpond.jpg/500px-Alekoko_fishpond.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Alekoko_fishpond.jpg",
+     "author": "Collin Grady",
+     "license": "CC BY-SA 2.0",
+     "title": "Alekoko_fishpond.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "lost-civilisations"
+   ],
+   "threads": [
+    "deep-oral-memory",
+    "giants-and-little-people",
+    "outsider-builder-claims"
+   ]
+  },
+  {
+   "id": "kaimanawa-wall",
+   "title": "The Kaimanawa \"wall\"",
+   "lane": "history",
+   "status": "debunked",
+   "priority": 2,
+   "start": 1996,
+   "end": null,
+   "evidenceTypes": [
+    "geological",
+    "archaeological"
+   ],
+   "mainstream": "A line of block-like stones in the Kaimanawa State Forest south of Lake Taupō, New Zealand. In May 1996 the NZ Listener and the Holmes TV show featured archaeologist and historian Barry Brailsford's view that it was \"the best evidence so far\" of a pre-Māori \"Waitaha nation\" settled 2,000 years ago, because nothing like it exists in Māori culture. Department of Conservation archaeologist Neville Ritchie examined it on 7 May 1996 and found matching micro-irregularities across the joints and imperfect joint alignments, showing the \"blocks\" were one rock. Geologist Peter Wood identified it as jointed Rangitaiki ignimbrite, a 330,000-year-old volcanic rock that cracks this way as it cools.",
+   "alternatives": [
+    {
+     "label": "Pre-Māori civilisation (claim)",
+     "text": "The idea that the wall was built by an earlier culture remains popular in alternative literature; Tūwharetoa people refer to the place in oral tradition as a kōhatu (rock)."
+    },
+    {
+     "label": "Natural formation (finding)",
+     "text": "Both specialists who inspected it found no evidence of human working; Te Ara, the encyclopedia of New Zealand, describes it as a natural phenomenon."
+    }
+   ],
+   "changed": "May 1996: claimed as a megalith; within weeks archaeological and geological inspections conclude it is natural ignimbrite.",
+   "sources": [
+    {
+     "title": "Te Ara: The Kaimanawa wall (Ideas about Māori origins, K. R. Howe)",
+     "url": "https://teara.govt.nz/en/document/1603/the-kaimanawa-wall",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Ritchie, N. A. (1996). A New Age Myth: the Kaimanawa Wall. NZ Skeptics",
+     "url": "https://articles.skeptics.nz/1996/11/01/a-new-age-myth-the-kaimanawa-wall/",
+     "type": "article"
+    },
+    {
+     "title": "Wikipedia: Kaimanawa Range",
+     "url": "https://en.wikipedia.org/wiki/Kaimanawa_Range",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [],
+   "categories": [
+    "hoaxes",
+    "lost-civilisations",
+    "science-cosmos"
+   ],
+   "threads": [
+    "lost-civilisations",
+    "hoaxes-exposed",
+    "outsider-builder-claims"
    ]
   }
  ]

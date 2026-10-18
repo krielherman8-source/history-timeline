@@ -290,3 +290,33 @@ addt('ancient-astronomy','cheomseongdae laguna-copperplate')
 addt('sacred-relics','imperial-regalia')
 addt('serpent-beings','imperial-regalia')
 addt('origins-of-writing','laguna-copperplate')
+C.update({
+'tasaday':'history hoaxes anomalies',
+'iram-ubar':'myth-legend religion lost-civilisations archaeology',
+'tooth-relic':'religion history',
+'ningyo-mermaids':'hoaxes myth-legend anomalies',
+'rongorongo':'history archaeology anomalies',
+'roi-mata':'history archaeology myth-legend',
+'haamonga':'archaeology science-cosmos myth-legend',
+'seven-sisters':'myth-legend science-cosmos',
+'menehune':'myth-legend lost-civilisations',
+'kaimanawa-wall':'hoaxes lost-civilisations science-cosmos',
+})
+addt('hoaxes-exposed','tasaday ningyo-mermaids kaimanawa-wall')
+addt('changed-understanding','tasaday rongorongo')
+addt('knowledge-and-power','tasaday')
+addt('lost-civilisations','iram-ubar kaimanawa-wall')
+addt('lost-continents','iram-ubar')
+addt('stories-proven-true','roi-mata')
+addt('sacred-relics','tooth-relic')
+addt('sacred-kingship','tooth-relic')
+addt('mummies','ningyo-mermaids nazca-mummies')
+addt('cryptids','ningyo-mermaids')
+addt('origins-of-writing','rongorongo')
+addt('ancient-astronomy','rongorongo haamonga seven-sisters')
+addt('civilisation-collapses','rongorongo')
+addt('hidden-tombs','roi-mata')
+addt('deep-oral-memory','roi-mata seven-sisters menehune')
+addt('giant-monuments','haamonga')
+addt('giants-and-little-people','menehune')
+addt('outsider-builder-claims','menehune kaimanawa-wall mound-builders-myth great-zimbabwe adams-calendar igbo-ukwu')
