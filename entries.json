@@ -2817,7 +2817,8 @@
     "anomalies"
    ],
    "threads": [
-    "ufo-encounters"
+    "ufo-encounters",
+    "collective-experiences"
    ]
   },
   {
@@ -3444,7 +3445,8 @@
    "threads": [
     "flood-myths",
     "lost-civilisations",
-    "sky-beings"
+    "sky-beings",
+    "sacred-kingship"
    ]
   },
   {
@@ -4114,7 +4116,8 @@
     "anomalies"
    ],
    "threads": [
-    "sky-omens"
+    "sky-omens",
+    "collective-experiences"
    ]
   },
   {
@@ -4242,7 +4245,8 @@
     "lost-civilisations",
     "changed-understanding",
     "giant-monuments",
-    "stories-proven-true"
+    "stories-proven-true",
+    "knowledge-and-power"
    ]
   },
   {
@@ -5620,7 +5624,8 @@
     "anomalies"
    ],
    "threads": [
-    "ufo-encounters"
+    "ufo-encounters",
+    "collective-experiences"
    ]
   },
   {
@@ -5723,7 +5728,9 @@
    "categories": [
     "myth-legend"
    ],
-   "threads": []
+   "threads": [
+    "collective-experiences"
+   ]
   },
   {
    "id": "nyaminyami",
@@ -6106,7 +6113,9 @@
    "categories": [
     "history"
    ],
-   "threads": []
+   "threads": [
+    "knowledge-and-power"
+   ]
   },
   {
    "id": "ishango-bone",
@@ -6522,7 +6531,9 @@
     "archaeology",
     "history"
    ],
-   "threads": []
+   "threads": [
+    "mummies"
+   ]
   },
   {
    "id": "chaco-canyon",
@@ -7623,7 +7634,8 @@
     "flood-myths",
     "lost-civilisations",
     "deep-oral-memory",
-    "lost-continents"
+    "lost-continents",
+    "knowledge-and-power"
    ]
   },
   {
@@ -9409,7 +9421,8 @@
     "changed-understanding",
     "hoaxes-exposed",
     "lost-continents",
-    "giants-and-little-people"
+    "giants-and-little-people",
+    "knowledge-and-power"
    ]
   },
   {
@@ -10837,7 +10850,576 @@
     "myth-legend",
     "religion"
    ],
-   "threads": []
+   "threads": [
+    "sacred-kingship"
+   ]
+  },
+  {
+   "id": "tanganyika-laughter",
+   "title": "Tanganyika laughter epidemic",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1962,
+   "end": 1963,
+   "evidenceTypes": [
+    "documentary",
+    "medical reports"
+   ],
+   "mainstream": "On 30 January 1962 three girls at a mission-run girls' boarding school in Kashasha, on the western shore of Lake Victoria in Tanganyika (now Tanzania), began laughing uncontrollably. It spread to 95 of the 159 pupils; symptoms (laughter and crying, restlessness, pain, fainting, breathing problems, rashes) lasted hours to 16 days. The school closed on 18 March, and a second wave hit when it reopened in May. The episode spread to the village of Nshamba (217 people in April–May), to Ramashenye girls' middle school and to other places within about 100 miles of Bukoba. About 1,000 people were affected and 14 schools shut before it faded after some 18 months. It is generally classed as mass psychogenic illness.",
+   "alternatives": [
+    {
+     "label": "Stress of independence",
+     "text": "Linguist Christian Hempelmann theorised the outbreak was stress-induced: Tanganyika had just become independent and pupils reported pressure from raised expectations; he notes such illness tends to affect people with little power."
+    },
+    {
+     "label": "Cultural dissonance",
+     "text": "Sociologist Robert Bartholomew and psychiatrist Simon Wessely proposed a culture-specific epidemic hysteria arising from conflict between conservative home values and the new ideas of missionary schools."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Tanganyika laughter epidemic",
+     "url": "https://en.wikipedia.org/wiki/Tanganyika_laughter_epidemic",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [],
+   "categories": [
+    "history",
+    "anomalies"
+   ],
+   "threads": [
+    "collective-experiences"
+   ]
+  },
+  {
+   "id": "liangzhu",
+   "title": "Liangzhu: a Neolithic state drowned by floods?",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -3300,
+   "end": -2300,
+   "evidenceTypes": [
+    "archaeological",
+    "palaeoclimate"
+   ],
+   "mainstream": "The Liangzhu culture (c. 3300–2300 BCE) of the Yangtze River Delta was the last great Neolithic jade culture of China and is often considered one of East Asia's earliest state societies. Its capital near Hangzhou had 290 hectares within clay walls with six gates, a 30-hectare palace complex (Mojiaoshan), canals, docks, workshops, and dams about 8 km to the north interpreted as an ancient flood-control system. Jade, silk, ivory and lacquer appear only in elite graves. UNESCO inscribed the Archaeological Ruins of Liangzhu City in 2019. After about 2300 BCE the culture vanishes from the Taihu Lake area.",
+   "alternatives": [
+    {
+     "label": "Floods and rain",
+     "text": "Cultural layers interrupted by muddy, marshy and sandy layers suggest repeated flooding; a 2021 cave-record study (Zhang et al.) found decades of extreme rainfall around 4,345–4,324 years ago, perhaps linked to more frequent El Niño conditions, and concluded that flooding may have forced the abandonment of the capital and the collapse of Liangzhu."
+    },
+    {
+     "label": "Part of a wider crisis (interpretation)",
+     "text": "The collapse is sometimes placed in or just before the c. 4.2-kiloyear climate event credited with stressing other early civilisations (Indus, Old Kingdom Egypt, Akkad), though the timing and causes differ by region."
+    },
+    {
+     "label": "Pattern note (timeline)",
+     "text": "Chinese tradition places the great flood tamed by Gun and Yu in roughly the same late-third-millennium era (see Gun-Yu flood); no source cited here connects Liangzhu to that story directly."
+    }
+   ],
+   "changed": "1936: first excavated by Shi Xingeng. 2007: city wall base announced. 2019: UNESCO listing. 2021: flood/rainfall collapse study.",
+   "sources": [
+    {
+     "title": "Collapse of the Liangzhu and other Neolithic cultures in the lower Yangtze region in response to climate change",
+     "authors": "Zhang, H. et al.",
+     "year": 2021,
+     "doi": "10.1126/sciadv.abi9275",
+     "type": "paper"
+    },
+    {
+     "title": "Archaeological Ruins of Liangzhu City (UNESCO)",
+     "url": "https://whc.unesco.org/en/list/1592",
+     "type": "institution"
+    },
+    {
+     "title": "Wikipedia: Liangzhu culture",
+     "url": "https://en.wikipedia.org/wiki/Liangzhu_culture",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Liangzhu_map.svg/500px-Liangzhu_map.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Liangzhu_map.svg",
+     "author": "Kanguole",
+     "license": "CC BY-SA 4.0",
+     "title": "Liangzhu_map.svg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history",
+    "catastrophes",
+    "lost-civilisations"
+   ],
+   "threads": [
+    "flood-myths",
+    "lost-civilisations",
+    "civilisation-collapses"
+   ]
+  },
+  {
+   "id": "tarim-mummies",
+   "title": "Tarim mummies: \"Europeans\" in the desert?",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -2135,
+   "end": null,
+   "dateNote": "Earliest c. 2135–1939 BCE; burials continue into the 1st millennium BCE",
+   "evidenceTypes": [
+    "archaeological",
+    "genetic",
+    "radiocarbon"
+   ],
+   "mainstream": "Hundreds of naturally mummified bodies from cemeteries around the Taklamakan Desert in the Tarim Basin, Xinjiang, China, many with intact hair (blond, red or brown), woollen textiles and tattoos. The oldest known burials are at Gumugou (c. 2135–1939 BCE), Xiaohe (c. 1884–1736 BCE) and Beifang (c. 1785–1664 BCE); Xiaohe, found by local hunter Ördek in 1911 and excavated by Folke Bergman in 1934, was lost for over 60 years before being relocated by GPS in 2000. Later, Iron Age mummies such as those of the Subeshi culture resemble the Saka (Scythian) Pazyryk culture.",
+   "alternatives": [
+    {
+     "label": "Western migrants (earlier view)",
+     "text": "Their features and twill and tartan-like textiles (compared by Elizabeth Wayland Barber with Hallstatt finds in Austria) led Mallory and Mair (2000) and others to see \"Proto-Europoid\" migrants, possibly early speakers of Tocharian Indo-European languages."
+    },
+    {
+     "label": "Local isolated population (2021 genomes)",
+     "text": "Zhang et al. (2021) sequenced the oldest mummies and found mostly Ancient North Eurasian ancestry with some Ancient Northeast Asian ancestry and no detectable Western Steppe ancestry: a genetically isolated local population that adopted neighbouring herding and farming practices. Later Tarim groups do show steppe and other ancestries, reflecting several waves of movement."
+    }
+   ],
+   "changed": "1990s–2000s: widely presented as Western/Indo-European migrants. 2003: craniometrics fail to show close European affinity. 2021: ancient genomes point to an isolated local population.",
+   "sources": [
+    {
+     "title": "The genomic origins of the Bronze Age Tarim Basin mummies",
+     "authors": "Zhang, F. et al.",
+     "year": 2021,
+     "doi": "10.1038/s41586-021-04052-7",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: Tarim mummies",
+     "url": "https://en.wikipedia.org/wiki/Tarim_mummies",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Map_of_the_Tarim_Mummies_%28Tarim_detail%29.png/500px-Map_of_the_Tarim_Mummies_%28Tarim_detail%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Map_of_the_Tarim_Mummies_(Tarim_detail).png",
+     "author": "naturalearthdata.com, offered to the Public Domain per Terms of Use",
+     "license": "CC BY-SA 4.0",
+     "title": "Map_of_the_Tarim_Mummies_(Tarim_detail).png"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "science-cosmos",
+    "anomalies"
+   ],
+   "threads": [
+    "changed-understanding",
+    "mummies"
+   ]
+  },
+  {
+   "id": "roopkund",
+   "title": "Roopkund: the Skeleton Lake",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 800,
+   "end": 1800,
+   "evidenceTypes": [
+    "archaeological",
+    "genetic",
+    "radiocarbon",
+    "oral tradition"
+   ],
+   "mainstream": "A small glacial lake at 5,020 m in the Himalayas of Uttarakhand, India, where the remains of more than 300 people lie at the shore and on the bottom. Rediscovered by forest ranger Hari Kishan Madhwal in 1942 (British authorities first feared a hidden Japanese force), the bones come with wooden artefacts, iron spearheads, leather slippers and rings. A 2019 study combining radiocarbon dates and genomes of 38 individuals found three groups: 23 with South Asian ancestry who died around 800 CE (apparently over an extended period), and, around 1800 CE, 14 people with eastern Mediterranean ancestry (like people of mainland Greece and Crete) and one with Southeast Asian ancestry, who died in a single event.",
+   "alternatives": [
+    {
+     "label": "Hailstorm legend",
+     "text": "Local songs tell that Raja Jasdhaval of Kanauj, his pregnant wife Rani Balampa and their retinue, on pilgrimage to the Nanda Devi shrine, were killed by giant hailstones. 1950s studies of skulls reported injuries from round objects from above, which some took to confirm the legend; an Oxford radiocarbon date gave 850 CE ± 30."
+    },
+    {
+     "label": "Still unexplained",
+     "text": "The genetic results rule out a single catastrophe for all the dead, and it remains unknown why people of Mediterranean ancestry died at this remote lake around 1800. The Nanda Devi Raj Jat festival, held once every twelve years, takes place at Roopkund."
+    }
+   ],
+   "changed": "1942: skeletons noticed. 1950s: hailstorm interpretation. 2000s: single-date ~850 CE. 2019: genomes show three groups dying about 1,000 years apart.",
+   "sources": [
+    {
+     "title": "Ancient DNA from the skeletons of Roopkund Lake reveals Mediterranean migrants in India",
+     "authors": "Harney, É. et al.",
+     "year": 2019,
+     "doi": "10.1038/s41467-019-11357-9",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: Roopkund",
+     "url": "https://en.wikipedia.org/wiki/Roopkund",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Roopkund_Lake.jpg/500px-Roopkund_Lake.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Roopkund_Lake.jpg",
+     "author": "Schwiki",
+     "license": "CC BY-SA 4.0",
+     "title": "Roopkund_Lake.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "anomalies",
+    "myth-legend",
+    "catastrophes"
+   ],
+   "threads": [
+    "changed-understanding",
+    "deep-oral-memory"
+   ]
+  },
+  {
+   "id": "hou-yi",
+   "title": "Hou Yi shoots down the ten suns",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": -2300,
+   "end": null,
+   "dateNote": "Set in the legendary reign of Emperor Yao (traditional 2357–2256 BCE) and early Xia",
+   "evidenceTypes": [
+    "mythological",
+    "textual"
+   ],
+   "mainstream": "In Chinese mythology there were once ten suns (in some versions sons of the Jade Emperor) that crossed the sky one at a time until they all rose together and scorched the earth. The archer Hou Yi, sent by the sage-emperor Yao, shot them down one by one; each fell as a three-legged crow, until only one sun was spared. Hou Yi also killed monsters plaguing humanity. His wife Chang'e swallowed the elixir of immortality and flew to the Moon, a story remembered at the Mid-Autumn Festival. The Chu Ci \"Heavenly Questions\" already refers to Yi being sent to reform the people of Xia.",
+   "alternatives": [
+    {
+     "label": "Historical ruler",
+     "text": "Classical sources such as the Bamboo Annals also describe a Yi who seized the Xia capital from King Taikang and was later deposed by his lieutenant Han Zhuo; the archer and the usurper are usually conflated."
+    },
+    {
+     "label": "Textual origin",
+     "text": "Recent research suggests the \"shooting ten suns\" story may have arisen from a miswriting of Yi shooting Xiang, a Xia king."
+    },
+    {
+     "label": "Pattern note (timeline)",
+     "text": "Successive or multiple suns also appear in the Aztec Five Suns (see entry), where each world age ends with its sun."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Hou Yi",
+     "url": "https://en.wikipedia.org/wiki/Hou_Yi",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Houyi_Shooting_an_Arrow%2C_Xiao_Yuncong.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Houyi_Shooting_an_Arrow,_Xiao_Yuncong.gif",
+     "author": "Xiao Yuncong (蕭雲從)",
+     "license": "Public domain",
+     "title": "Houyi_Shooting_an_Arrow,_Xiao_Yuncong.gif"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "catastrophes"
+   ],
+   "threads": [
+    "sky-omens",
+    "world-ages-and-resets"
+   ]
+  },
+  {
+   "id": "dangun",
+   "title": "Dangun, grandson of heaven, and his \"found\" tomb",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": -2333,
+   "end": null,
+   "dateNote": "Traditional founding date 2333 BCE (Tongguk t'onggam, 1485); North Korea says early 30th century BCE",
+   "evidenceTypes": [
+    "mythological",
+    "textual",
+    "archaeological"
+   ],
+   "mainstream": "Korea's founding myth, first recorded in the 13th-century Samguk yusa: Hwanung, son of the Lord of Heaven Hwanin, descended to a sacred mountain with 3,000 followers and ministers of cloud, rain and wind, and taught laws, medicine and agriculture. A bear that endured 100 days in a cave on mugwort and garlic became a woman, and their son Dangun founded Gojoseon, the first Korean kingdom, traditionally in 2333 BCE. National Foundation Day (3 October) celebrates it in South Korea, which counted years in the Dangi era until 1961.",
+   "alternatives": [
+    {
+     "label": "Real tomb (North Korean claim)",
+     "text": "After Kim Il Sung insisted Dangun was a historical person, North Korean archaeologists announced in October 1993 that they had found his tomb near Pyongyang, with bones of a man and a woman dated by electron spin resonance to over 5,011 years ago; a stone step pyramid was built over it in 1994. North Korea now treats the myth as history."
+    },
+    {
+     "label": "Sceptical view",
+     "text": "Outside observers consider the data compromised by politics and nationalism; no independent testing has been allowed. A nail of the Goguryeo period (37 BCE–668 CE) was found, and South Korean historians think it more likely the tomb of a Goguryeo-era regional leader."
+    },
+    {
+     "label": "Symbolic reading",
+     "text": "Scholars often read the bear and tiger as two tribes seeking the favour of a heavenly prince, and the myth as an ideology of Gojoseon kingship."
+    }
+   ],
+   "changed": "13th century: earliest written version (Samguk yusa). 1993: North Korea announces Dangun's tomb. 1994: mausoleum pyramid built.",
+   "sources": [
+    {
+     "title": "Wikipedia: Tan'gun",
+     "url": "https://en.wikipedia.org/wiki/Tan'gun",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Mausoleum of Tangun",
+     "url": "https://en.wikipedia.org/wiki/Mausoleum_of_Tangun",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Laika_ac_Mausoleum_of_Tangun_%287987312460%29.jpg/500px-Laika_ac_Mausoleum_of_Tangun_%287987312460%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Laika_ac_Mausoleum_of_Tangun_(7987312460).jpg",
+     "author": "Laika ac from USA",
+     "license": "CC BY-SA 2.0",
+     "title": "Laika_ac_Mausoleum_of_Tangun_(7987312460).jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion",
+    "history",
+    "hoaxes"
+   ],
+   "threads": [
+    "sky-beings",
+    "hidden-tombs",
+    "knowledge-and-power",
+    "sacred-kingship"
+   ]
+  },
+  {
+   "id": "cheomseongdae",
+   "title": "Cheomseongdae star-gazing tower",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 632,
+   "end": 647,
+   "dateNote": "Built during the reign of Queen Seondeok (632–647)",
+   "evidenceTypes": [
+    "architectural",
+    "textual"
+   ],
+   "mainstream": "A 9.17 m stone tower in Gyeongju, South Korea, built in the Silla kingdom under Queen Seondeok (r. 632–647). Its name means \"star-gazing tower\", and it is often described as the oldest surviving astronomical observatory in Asia, possibly the world. A square base of 12 stones supports a curved cylindrical body with a square window halfway up and a square top; an observation device is presumed to have stood on top. It is part of the Gyeongju Historic Areas UNESCO World Heritage Site and now tilts slightly to the north-east.",
+   "alternatives": [
+    {
+     "label": "Calendar symbolism (interpretation)",
+     "text": "The body is said to use 365 cut stones, one per day of the year, and the window divides it into 12 courses above and below, read as months and the 24 solar terms; the 12 base stones may also stand for months."
+    },
+    {
+     "label": "Counting dispute",
+     "text": "Documents report different numbers of stones; a 1962 survey by Hong Sa-jun counted 366, so the \"365\" symbolism depends on how stones are counted."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Gyeongju Historic Areas (UNESCO)",
+     "url": "https://whc.unesco.org/en/list/976",
+     "type": "institution"
+    },
+    {
+     "title": "Wikipedia: Cheomseongdae",
+     "url": "https://en.wikipedia.org/wiki/Cheomseongdae",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Cheomseongdae_Observatory_under_blue_sky_in_Gyeongju_South_Korea.jpg/500px-Cheomseongdae_Observatory_under_blue_sky_in_Gyeongju_South_Korea.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Cheomseongdae_Observatory_under_blue_sky_in_Gyeongju_South_Korea.jpg",
+     "author": "Basile Morin",
+     "license": "CC BY-SA 4.0",
+     "title": "Cheomseongdae_Observatory_under_blue_sky_in_Gyeongju_South_Korea.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "science-cosmos",
+    "history"
+   ],
+   "threads": [
+    "ancient-astronomy"
+   ]
+  },
+  {
+   "id": "xin-zhui",
+   "title": "Lady Dai (Xin Zhui): the soft-skinned mummy",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -168,
+   "end": null,
+   "dateNote": "Died 169 or 168 BCE; tomb found 1968–71, excavated from 1972",
+   "evidenceTypes": [
+    "archaeological",
+    "medical"
+   ],
+   "mainstream": "Xin Zhui, Marchioness of Dai, wife of the chancellor of the Changsha Kingdom in the Western Han dynasty, died about 169 or 168 BCE aged about 50. Her tomb at Mawangdui, Changsha, found by workers digging an air-raid shelter near a hospital and excavated from January 1972 with the help of over 1,500 local high-school students, held four nested coffins, about 1,400 artefacts and more than 150 kinds of food. Her body is one of the best-preserved ever found: skin still soft and moist, joints flexible, organs and blood vessels intact with traces of type A blood. An autopsy found arteriosclerosis, gallstones, schistosomiasis and 130 melon seeds in her digestive tract, showing she died in summer within hours of eating melon.",
+   "alternatives": [
+    {
+     "label": "How was she preserved?",
+     "text": "Scientists point to careful preparation, airtight nested coffins and a deep chamber sealed with charcoal and white clay, which kept water and air out and the temperature cool; an acidic liquid containing salt and magnesium surrounded the body, possibly from the body itself. They do not know for certain which combination of factors worked."
+    },
+    {
+     "label": "Not unique",
+     "text": "Other \"Mawangdui-type\" bodies have been found in China (Sui Xiaoyuan in Jingzhou, Ling Huiping in Lianyungang), also in liquid-filled coffins, but no consistent explanation fits all of them."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Xin Zhui",
+     "url": "https://en.wikipedia.org/wiki/Xin_Zhui",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Mawangdui",
+     "url": "https://en.wikipedia.org/wiki/Mawangdui",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Xin_Zhui.jpg/500px-Xin_Zhui.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Xin_Zhui.jpg",
+     "author": "Flazaza",
+     "license": "CC BY-SA 4.0",
+     "title": "Xin_Zhui.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history",
+    "anomalies"
+   ],
+   "threads": [
+    "hidden-tombs",
+    "mummies"
+   ]
+  },
+  {
+   "id": "imperial-regalia",
+   "title": "The hidden Imperial Regalia of Japan",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 690,
+   "end": null,
+   "dateNote": "Used in enthronements since 690; legendary origin in the age of the gods",
+   "evidenceTypes": [
+    "textual",
+    "mythological"
+   ],
+   "mainstream": "The Three Sacred Treasures of Japan: the sword Kusanagi no Tsurugi, the mirror Yata no Kagami and the jewel Yasakani no Magatama. Since 690 their presentation to the emperor has been central to the enthronement, but the ceremony is not public and by tradition the objects are seen only by the emperor and certain priests. They are commonly thought to be kept at Atsuta Shrine (sword), the Imperial Palace sanctuaries (jewel) and Ise Grand Shrine (mirror). Their actual historical status is unknown because they are deliberately kept from view; even at the enthronements of 1990 and 2019 they stayed shrouded in packages or boxes. In July 1945 Emperor Hirohito ordered them protected \"at all costs\" and said he was ready to share their fate.",
+   "alternatives": [
+    {
+     "label": "Divine origin (legend)",
+     "text": "The sun goddess Amaterasu gave them to her grandson Ninigi when sending him to pacify Japan, and they passed to the first emperor, Jimmu. The mirror and jewel lured Amaterasu out of the cave where she had hidden and plunged the world into darkness; the sword was taken from the tail of the eight-headed serpent Yamata no Orochi."
+    },
+    {
+     "label": "Lost and replaced?",
+     "text": "The six-year-old Emperor Antoku and the regalia went into the sea at the Battle of Dan-no-ura (1185). Medieval texts disagree whether the sword was lost, was already a replica, or returned by supernatural means; replicas of the sword and mirror are known from as early as the 9th century."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Imperial Regalia of Japan",
+     "url": "https://en.wikipedia.org/wiki/Imperial_Regalia_of_Japan",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/%E4%B8%89%E7%A8%AE%E3%81%AE%E7%A5%9E%E5%99%A8_1200x1200.png/500px-%E4%B8%89%E7%A8%AE%E3%81%AE%E7%A5%9E%E5%99%A8_1200x1200.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:%E4%B8%89%E7%A8%AE%E3%81%AE%E7%A5%9E%E5%99%A8_1200x1200.png",
+     "author": "菊竹若狭 (Kikutake Wakasa)",
+     "license": "CC BY-SA 4.0",
+     "title": "三種の神器_1200x1200.png"
+    }
+   ],
+   "categories": [
+    "history",
+    "myth-legend",
+    "religion"
+   ],
+   "threads": [
+    "serpent-beings",
+    "sacred-relics",
+    "knowledge-and-power",
+    "sacred-kingship"
+   ]
+  },
+  {
+   "id": "laguna-copperplate",
+   "title": "Laguna Copperplate Inscription",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 900,
+   "end": null,
+   "evidenceTypes": [
+    "textual",
+    "archaeological"
+   ],
+   "mainstream": "The oldest known document from the Philippines: a copper plate about 20 × 30 cm, found in 1987 by a labourer dredging sand near the mouth of the Lumbang River in Lumban, Laguna. It is dated to the Shaka year 822, which corresponds to Monday 21 April 900 CE, and certifies that the children of one Namwaran were released from a debt of gold (1 kati and 8 suwarnas, about 865 g). Written mostly in Old Malay in the Kawi script, with Sanskrit technical words and Old Javanese or Old Tagalog honorifics, it names the polity of Tondo (Tundun) and other places. Sold to an antique dealer and then to the National Museum, it was translated by Dutch anthropologist Antoon Postma in 1991.",
+   "alternatives": [
+    {
+     "label": "Javanese link?",
+     "text": "Some historians link the toponym Medang (Mdang) to the Medang palace in Java; others note it is a common Malayo-Polynesian term. Postma himself left open that Mdang and Tondo might originally be Javanese place names."
+    },
+    {
+     "label": "Local places",
+     "text": "The Pila Historical Society Foundation and historian Jaime Tiongson argue that Pailah and Puliran refer to places near where the plate was found, citing a large precolonial settlement at Pila."
+    },
+    {
+     "label": "Precolonial knowledge",
+     "text": "It is the earliest evidence of mathematics in precolonial Philippine societies: a standard system of weights for gold and a date fixed by the phases of the Moon."
+    }
+   ],
+   "changed": "1987: found while dredging. 1991: translated by Antoon Postma; it is now the oldest known document from the Philippines and a key source on 10th-century polities such as Tondo.",
+   "sources": [
+    {
+     "title": "Wikipedia: Laguna Copperplate Inscription",
+     "url": "https://en.wikipedia.org/wiki/Laguna_Copperplate_Inscription",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Laguna_Copperplate_Inscription_in_the_National_Museum_of_Anthropology.jpg/500px-Laguna_Copperplate_Inscription_in_the_National_Museum_of_Anthropology.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Laguna_Copperplate_Inscription_in_the_National_Museum_of_Anthropology.jpg",
+     "author": "Chipmunkdavis",
+     "license": "CC BY-SA 4.0",
+     "title": "Laguna_Copperplate_Inscription_in_the_National_Museum_of_Anthropology.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology"
+   ],
+   "threads": [
+    "changed-understanding",
+    "ancient-astronomy",
+    "origins-of-writing"
+   ]
   }
  ]
 }

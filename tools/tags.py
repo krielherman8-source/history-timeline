@@ -261,3 +261,32 @@ addt('ancient-technology','dendera-light baghdad-battery antikythera vimanas')
 addt('stories-proven-true','thonis-heracleion')
 addt('sunken-cities','thonis-heracleion sunken-dwarka yonaguni atlantis kuwae')
 addt('vanished-landscapes','green-sahara tassili-round-heads nabta-playa doggerland sundaland')
+C.update({
+'tanganyika-laughter':'history anomalies',
+'liangzhu':'archaeology history catastrophes lost-civilisations',
+'tarim-mummies':'archaeology science-cosmos anomalies',
+'roopkund':'archaeology anomalies myth-legend catastrophes',
+'hou-yi':'myth-legend catastrophes',
+'dangun':'myth-legend religion history hoaxes',
+'cheomseongdae':'archaeology science-cosmos history',
+'xin-zhui':'archaeology history anomalies',
+'imperial-regalia':'history myth-legend religion',
+'laguna-copperplate':'history archaeology',
+})
+addt('collective-experiences','tanganyika-laughter popobawa ruwa-ariel miracle-of-sun phoenix-lights')
+addt('civilisation-collapses','liangzhu')
+addt('flood-myths','liangzhu')
+addt('lost-civilisations','liangzhu')
+addt('mummies','tarim-mummies xin-zhui siberian-ice-maiden')
+addt('changed-understanding','tarim-mummies roopkund laguna-copperplate')
+addt('deep-oral-memory','roopkund')
+addt('sky-omens','hou-yi')
+addt('world-ages-and-resets','hou-yi')
+addt('sky-beings','dangun')
+addt('hidden-tombs','dangun xin-zhui')
+addt('knowledge-and-power','dangun imperial-regalia great-zimbabwe mound-builders-myth timbuktu-manuscripts kumari-kandam')
+addt('sacred-kingship','rain-queen dangun imperial-regalia sumerian-king-list')
+addt('ancient-astronomy','cheomseongdae laguna-copperplate')
+addt('sacred-relics','imperial-regalia')
+addt('serpent-beings','imperial-regalia')
+addt('origins-of-writing','laguna-copperplate')
