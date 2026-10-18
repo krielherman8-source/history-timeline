@@ -236,3 +236,28 @@ addt('flood-myths','sunken-dwarka')
 addt('world-ages-and-resets','maya-2012')
 addt('ufo-encounters','utsuro-bune varginha-1996 kaikoura-1978')
 addt('cryptids','okapi giant-squid')
+
+# --- batch 6
+C.update({
+'lebombo-bone':'archaeology science-cosmos anomalies',
+'green-sahara':'science-cosmos catastrophes archaeology',
+'tassili-round-heads':'archaeology anomalies religion',
+'lydenburg-heads':'archaeology history',
+'igbo-ukwu':'archaeology history',
+'sungbo-eredo':'archaeology history myth-legend',
+'adams-calendar':'archaeology lost-civilisations aliens-ufo',
+'thonis-heracleion':'archaeology history lost-civilisations',
+'dendera-light':'archaeology anomalies religion',
+'rain-queen':'history myth-legend religion',
+})
+addt('ancient-astronomy','lebombo-bone adams-calendar')
+addt('changed-understanding','green-sahara igbo-ukwu thonis-heracleion')
+addt('civilisation-collapses','green-sahara')
+addt('sky-beings','adams-calendar')
+addt('lost-civilisations','adams-calendar')
+addt('giant-monuments','sungbo-eredo')
+addt('serpent-beings','dendera-light')
+addt('ancient-technology','dendera-light baghdad-battery antikythera vimanas')
+addt('stories-proven-true','thonis-heracleion')
+addt('sunken-cities','thonis-heracleion sunken-dwarka yonaguni atlantis kuwae')
+addt('vanished-landscapes','green-sahara tassili-round-heads nabta-playa doggerland sundaland')

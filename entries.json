@@ -843,7 +843,8 @@
    "threads": [
     "flood-myths",
     "lost-civilisations",
-    "lost-continents"
+    "lost-continents",
+    "vanished-landscapes"
    ]
   },
   {
@@ -932,7 +933,8 @@
    ],
    "threads": [
     "flood-myths",
-    "lost-continents"
+    "lost-continents",
+    "vanished-landscapes"
    ]
   },
   {
@@ -1689,7 +1691,8 @@
    ],
    "threads": [
     "lost-civilisations",
-    "lost-continents"
+    "lost-continents",
+    "sunken-cities"
    ]
   },
   {
@@ -1797,7 +1800,8 @@
     "anomalies"
    ],
    "threads": [
-    "ancient-astronomy"
+    "ancient-astronomy",
+    "ancient-technology"
    ]
   },
   {
@@ -3069,7 +3073,9 @@
     "archaeology",
     "anomalies"
    ],
-   "threads": []
+   "threads": [
+    "ancient-technology"
+   ]
   },
   {
    "id": "voynich",
@@ -3953,7 +3959,8 @@
     "aliens-ufo"
    ],
    "threads": [
-    "sky-beings"
+    "sky-beings",
+    "ancient-technology"
    ]
   },
   {
@@ -8404,7 +8411,8 @@
     "anomalies"
    ],
    "threads": [
-    "ancient-astronomy"
+    "ancient-astronomy",
+    "vanished-landscapes"
    ]
   },
   {
@@ -9215,7 +9223,8 @@
    "threads": [
     "deep-oral-memory",
     "lost-continents",
-    "volcanoes-and-memory"
+    "volcanoes-and-memory",
+    "sunken-cities"
    ]
   },
   {
@@ -9809,7 +9818,8 @@
    ],
    "threads": [
     "lost-civilisations",
-    "lost-continents"
+    "lost-continents",
+    "sunken-cities"
    ]
   },
   {
@@ -9878,7 +9888,8 @@
    ],
    "threads": [
     "flood-myths",
-    "lost-civilisations"
+    "lost-civilisations",
+    "sunken-cities"
    ]
   },
   {
@@ -10292,6 +10303,541 @@
     "cryptids",
     "stories-proven-true"
    ]
+  },
+  {
+   "id": "lebombo-bone",
+   "title": "Lebombo bone: a 43,000-year-old tally?",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -43000,
+   "end": null,
+   "dateNote": "About 42,000–43,000 years old (24 radiocarbon dates)",
+   "evidenceTypes": [
+    "archaeological",
+    "radiocarbon"
+   ],
+   "mainstream": "A baboon fibula about 8 cm long with incised notches, found in Border Cave in the Lebombo Mountains between South Africa and Eswatini. Twenty-four radiocarbon dates put it at about 42,000–43,000 years old, far older than the Ishango bone it is often confused with. A 2012 reanalysis of Border Cave organic artefacts (d'Errico et al.) concluded that its Early Later Stone Age inhabitants used notched bones \"for notational purposes\", alongside tools closely resembling those of later San hunter-gatherers.",
+   "alternatives": [
+    {
+     "label": "Tally or calendar (interpretation)",
+     "text": "The bone has been conjectured to be a tally stick; popular accounts sometimes call it a lunar calendar or the oldest mathematical object, which goes beyond what the notches alone can show."
+    },
+    {
+     "label": "Ritual marks",
+     "text": "Its discoverer, Peter Beaumont, saw the changes in notch section (made with different cutting edges) as evidence that the marks were made during participation in rituals, like other notched objects worldwide. Even older notched bones (c. 80,000 years) exist, but it is unclear whether such notches are decorative or functional."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Early evidence of San material culture represented by organic artifacts from Border Cave, South Africa",
+     "authors": "d’Errico, F. et al.",
+     "year": 2012,
+     "doi": "10.1073/pnas.1204213109",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: Lebombo bone",
+     "url": "https://en.wikipedia.org/wiki/Lebombo_bone",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Border_Cave00.jpg/500px-Border_Cave00.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Border_Cave00.jpg",
+     "author": "Androstachys",
+     "license": "Public domain",
+     "title": "Border_Cave00.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "science-cosmos",
+    "anomalies"
+   ],
+   "threads": [
+    "ancient-astronomy"
+   ]
+  },
+  {
+   "id": "green-sahara",
+   "title": "The Green Sahara (African Humid Period)",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -12600,
+   "end": -3000,
+   "dateNote": "c. 14,600 to c. 5,000 years ago, with interruptions",
+   "evidenceTypes": [
+    "geological",
+    "palaeoclimate",
+    "archaeological"
+   ],
+   "mainstream": "From about 14,600–14,500 years ago until roughly 6,000–5,000 years ago much of the Sahara was covered by grasses, trees and lakes, caused by changes in Earth's axial tilt, a strengthened African monsoon, vegetation and dust feedbacks and greenhouse gases. Lake Chad expanded, Lake Victoria refilled and the \"Wild Nile\" produced its largest recorded floods. People settled the desert, herded cattle, goats and sheep, and left rock art of swimmers and savanna animals in places that are now hyper-arid. Dry spells interrupted it during the Younger Dryas and the 8.2-kiloyear event; when it ended, people moved toward the Nile Valley and Mesopotamia, where early complex societies arose.",
+   "alternatives": [
+    {
+     "label": "Abrupt end",
+     "text": "deMenocal et al. (2000), using marine sediment off West Africa, argued that the humid period began and ended abruptly, within decades to centuries."
+    },
+    {
+     "label": "Gradual end",
+     "text": "Kröpelin et al. (2008), using a lake record from northern Chad, argued for a gradual drying over thousands of years; the end may have come in several steps, including around the 4.2-kiloyear event."
+    },
+    {
+     "label": "Link to Egypt and myth (interpretation)",
+     "text": "Researchers connect the drying with the rise of Ancient Egyptian civilisation; some also suggest that former lakes such as Nabta Playa may relate to later Egyptian religion. Alternative writers sometimes cite the wetter Sahara in support of an older Sphinx (see Sphinx water-erosion hypothesis), which mainstream Egyptology does not accept."
+    }
+   ],
+   "changed": "1850: Heinrich Barth suggests past wetter climates from Saharan petroglyphs. 1920s–30s: rock art of swimmers and savanna animals strengthens the idea. Late 20th century: lake cores and marine sediments confirm and date the humid period.",
+   "sources": [
+    {
+     "title": "Abrupt onset and termination of the African Humid Period:",
+     "authors": "deMenocal, P. et al.",
+     "year": 2000,
+     "doi": "10.1016/S0277-3791(99)00081-5",
+     "type": "paper"
+    },
+    {
+     "title": "Climate-Driven Ecosystem Succession in the Sahara: The Past 6000 Years",
+     "authors": "Kröpelin, S. et al.",
+     "year": 2008,
+     "doi": "10.1126/science.1154913",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: African humid period",
+     "url": "https://en.wikipedia.org/wiki/African_humid_period",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/WadiSuraSwimmers.jpg/500px-WadiSuraSwimmers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:WadiSuraSwimmers.jpg",
+     "author": "Roland Unger",
+     "license": "CC BY-SA 3.0",
+     "title": "WadiSuraSwimmers.jpg"
+    }
+   ],
+   "categories": [
+    "science-cosmos",
+    "catastrophes",
+    "archaeology"
+   ],
+   "threads": [
+    "changed-understanding",
+    "civilisation-collapses",
+    "vanished-landscapes"
+   ]
+  },
+  {
+   "id": "tassili-round-heads",
+   "title": "Tassili n'Ajjer and the \"Round Head\" paintings",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -7550,
+   "end": -5050,
+   "dateNote": "Round Head period c. 7550–5050 BCE (style-based dating)",
+   "evidenceTypes": [
+    "archaeological",
+    "rock art"
+   ],
+   "mainstream": "The Tassili n'Ajjer plateau in the Algerian Sahara holds one of the world's great concentrations of rock art (UNESCO World Heritage Site). It is usually divided into Archaic (10,000–7500 BCE), Round Head (7550–5050 BCE), Bovidian/Pastoral, Horse and Camel periods. The Round Head paintings, by hunter-gatherers living in a green Sahara, include some of Africa's oldest and largest rock paintings (one figure over five metres tall) and show floating humanoid figures with round, featureless heads. Henri Lhote's 1950s expeditions made the art famous, but his team was later accused of faking images and of damaging paintings while brightening them for tracing and photography, reducing the original colours beyond repair.",
+   "alternatives": [
+    {
+     "label": "Mushroom-ritual hypothesis (speculative)",
+     "text": "Giorgio Samorini (1989) proposed that fungoid figures, such as masked dancers holding mushroom-like objects and the \"mushroom shaman\" of Matalem-Amazar, show ritual use of psychedelic mushrooms; Terence McKenna built on this in Food of the Gods (1992). Other researchers do not accept that the images depict mushrooms."
+    },
+    {
+     "label": "Ritual sanctuaries",
+     "text": "Lhote regarded the painted shelters as secret sanctuaries; the concentration of Round Head motifs at particular sites is taken by researchers to suggest centres of ritual and ceremony."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Tassili n'Ajjer (UNESCO)",
+     "url": "https://whc.unesco.org/en/list/179",
+     "type": "institution"
+    },
+    {
+     "title": "Wikipedia: Tassili n'Ajjer",
+     "url": "https://en.wikipedia.org/wiki/Tassili_n'Ajjer",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Map_of_Tassili_n%27Ajjer_and_surroundings-en.jpg/500px-Map_of_Tassili_n%27Ajjer_and_surroundings-en.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Map_of_Tassili_n%27Ajjer_and_surroundings-en.jpg",
+     "author": "Heribertus2",
+     "license": "CC BY-SA 4.0",
+     "title": "Map_of_Tassili_n'Ajjer_and_surroundings-en.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "anomalies",
+    "religion"
+   ],
+   "threads": [
+    "vanished-landscapes"
+   ]
+  },
+  {
+   "id": "lydenburg-heads",
+   "title": "Lydenburg Heads",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 500,
+   "end": null,
+   "evidenceTypes": [
+    "archaeological",
+    "radiocarbon"
+   ],
+   "mainstream": "Seven hollow terracotta heads from Lydenburg, Mpumalanga, South Africa, among the oldest known Iron Age artworks south of the equator. Charcoal found with them dates to about 1,410 years ago (about 500 CE). Six have human features and one an animal-like snout; the two largest, big enough to be worn over a child's head, carry small figurines (perceived as lions). They may once have been covered in white slip and glittering specularite. A boy, Karl-Ludwig von Bezing, first found fragments while playing on his father's farm and later collected more in 1962 and 1966; they were reconstructed at the University of Cape Town.",
+   "alternatives": [
+    {
+     "label": "Use",
+     "text": "They may have been worn as masks or headdresses (small perforations suggest attachment to a framework) or were part of a significant structure; their exact purpose is unknown."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Lydenburg heads",
+     "url": "https://en.wikipedia.org/wiki/Lydenburg_heads",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Iziko_Lydenburg_Heads_1.JPG/500px-Iziko_Lydenburg_Heads_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Iziko_Lydenburg_Heads_1.JPG",
+     "author": "Nkansahrexford",
+     "license": "CC BY 3.0",
+     "title": "Iziko_Lydenburg_Heads_1.JPG"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history"
+   ],
+   "threads": []
+  },
+  {
+   "id": "igbo-ukwu",
+   "title": "Igbo-Ukwu bronzes",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 850,
+   "end": null,
+   "dateNote": "Radiocarbon c. 850 CE (9th century)",
+   "evidenceTypes": [
+    "archaeological",
+    "radiocarbon"
+   ],
+   "mainstream": "Bronze and copper objects of great intricacy from three sites at Igbo-Ukwu, Anambra State, Nigeria: Igbo Isaiah (a shrine, found in 1938 by villager Isaiah Anozie while digging beside his home), Igbo Richard (a burial chamber with a body in apparent regalia) and Igbo Jonah (a cache), excavated by Thurstan Shaw from 1959. Radiocarbon dates of about the 9th century CE made them the earliest known bronze casting in the region, centuries before other known bronzes there. Igbo-Ukwu was associated with the Kingdom of Nri, and more than 165,000 glass and carnelian beads point to long-distance trade reaching Egypt and North Africa.",
+   "alternatives": [
+    {
+     "label": "Outside origin (early speculation)",
+     "text": "The technical skill and lack of known prototypes led to early academic speculation that the bronzes must post-date European contact, and \"phantom voyagers\" were postulated as their makers."
+    },
+    {
+     "label": "Local origin (current view)",
+     "text": "Isotope analysis shows the metals are of local origin, and radiocarbon dating confirmed a 9th-century date; a later AMS date on a textile from Igbo Isaiah (1027–1180 CE) suggests some material may be younger."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Igbo-Ukwu",
+     "url": "https://en.wikipedia.org/wiki/Igbo-Ukwu",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Archaeology of Igbo-Ukwu",
+     "url": "https://en.wikipedia.org/wiki/Archaeology_of_Igbo-Ukwu",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Bronze_ornamental_staff_head%2C_9th_century%2C_Igbo-Ukwu.JPG/500px-Bronze_ornamental_staff_head%2C_9th_century%2C_Igbo-Ukwu.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Bronze_ornamental_staff_head,_9th_century,_Igbo-Ukwu.JPG",
+     "author": "Ochiwar",
+     "license": "CC BY-SA 3.0",
+     "title": "Bronze_ornamental_staff_head,_9th_century,_Igbo-Ukwu.JPG"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history"
+   ],
+   "threads": [
+    "changed-understanding"
+   ]
+  },
+  {
+   "id": "sungbo-eredo",
+   "title": "Sungbo's Eredo and the Queen of Sheba",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 1000,
+   "end": null,
+   "dateNote": "Disputed: 10th–11th century CE (Darling) or late 14th–15th century CE",
+   "evidenceTypes": [
+    "archaeological",
+    "oral tradition",
+    "radiocarbon"
+   ],
+   "mainstream": "A system of ditches and banks more than 160 km long ringing the old Ijebu kingdom near Ijebu Ode, Ogun State, Nigeria; in places the height from ditch bottom to bank top reaches 20 m. Archaeologist Patrick Darling (1999) called it the largest single monument in Africa. Its dating is disputed: some carbon dates go back to 2000 BCE (which need not date the ditch), Darling proposed the 10th–11th centuries CE, and more recent excavations point to the late 14th–early 15th century. It probably served defence and the unification of diverse communities, like similar earthworks around Ife, Ilesa and Benin. LiDAR mapping began in 2024.",
+   "alternatives": [
+    {
+     "label": "Bilikisu Sungbo",
+     "text": "Ijebu tradition links the Eredo to a wealthy, childless widow, Oloye Bilikisu Sungbo, who built it as her memorial; her grave is believed to be at Oke-Eiri, where Christians and Muslims make an annual pilgrimage."
+    },
+    {
+     "label": "Queen of Sheba",
+     "text": "Some identify Bilikisu with the Queen of Sheba (Bilqis in Islamic tradition). Darling said the idea \"cannot be discounted\" because local people believe it, but that \"the most cogent argument against it at the moment is the dating\"."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Sungbo's Eredo",
+     "url": "https://en.wikipedia.org/wiki/Sungbo's_Eredo",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [],
+   "categories": [
+    "archaeology",
+    "history",
+    "myth-legend"
+   ],
+   "threads": [
+    "giant-monuments"
+   ]
+  },
+  {
+   "id": "adams-calendar",
+   "title": "\"Adam's Calendar\" and the Bokoni stone ruins",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 1500,
+   "end": 1820,
+   "evidenceTypes": [
+    "archaeological",
+    "speculative"
+   ],
+   "mainstream": "Thousands of stone-walled homesteads, cattle paths and agricultural terraces stretch for about 150 km along the Mpumalanga escarpment, South Africa. Archaeologists attribute them to Bokoni, an agro-pastoral society of about 1500–1820 CE that traded farm produce widely and was disrupted during the Mfecane; radiocarbon dates also showed the Lydenburg Bokoni sites predate the Pedi, overturning an older attribution. One stone circle complex, the Blaauboschkraal ruins near Emgwenya (a provincial heritage site), is popularly called \"Adam's Calendar\". Many sites are on private land and threatened by stone removal and vandalism.",
+   "alternatives": [
+    {
+     "label": "Ancient or alien builders (speculative)",
+     "text": "Michael Tellinger, influenced by Zecharia Sitchin's ancient-astronaut ideas (Sitchin's Anunnaki), is the most prominent proponent of alien and/or far more ancient origins for the site; with Johan Heine he has claimed the sites align with Great Zimbabwe and the Pyramids of Egypt and act as portals to other worlds. These claims are classed as pseudoarchaeology by researchers."
+    },
+    {
+     "label": "Other non-local theories",
+     "text": "Earlier, Hromník claimed Indian and \"Indo-San\" builders (dubbed \"the exotic theory\" by local researchers), and some proposed the sites were observatories, often linked to non-African construction; these ideas have mostly been rejected."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Bokoni",
+     "url": "https://en.wikipedia.org/wiki/Bokoni",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Blaauboschkraal stone ruins",
+     "url": "https://en.wikipedia.org/wiki/Blaauboschkraal_stone_ruins",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Bokoni_Stone_Ruins.jpg/500px-Bokoni_Stone_Ruins.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Bokoni_Stone_Ruins.jpg",
+     "author": "MaruAttwood",
+     "license": "CC BY-SA 4.0",
+     "title": "Bokoni_Stone_Ruins.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "lost-civilisations",
+    "aliens-ufo"
+   ],
+   "threads": [
+    "lost-civilisations",
+    "sky-beings",
+    "ancient-astronomy"
+   ]
+  },
+  {
+   "id": "thonis-heracleion",
+   "title": "Thonis-Heracleion: the sunken port of Egypt",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -600,
+   "end": 800,
+   "dateNote": "Flourished 6th–4th centuries BCE; fully submerged by the late 8th century CE",
+   "evidenceTypes": [
+    "archaeological",
+    "textual"
+   ],
+   "mainstream": "An Egyptian port near the Canopic mouth of the Nile, now under about 6 m of water in Abu Qir Bay, about 7 km offshore. It was Egypt's main port for international trade in the Late Period (flourishing 6th–4th centuries BCE), with a great temple of Amun-Gereb. It declined as Alexandria rose; around the 2nd century BCE soil liquefaction, floods and earthquakes collapsed the central island, and the last remains sank by the end of the 8th century CE. Located by Franck Goddio's IEASM team with Egypt's antiquities ministry after a five-year search, finds include a Nectanebo I decree stele (found in 2000) proving that \"Thonis\" and \"Heracleion\" were one city, statues of Serapis and Arsinoe II, a baris river boat matching Herodotus's description, and a 25 m Ptolemaic galley (announced 2021).",
+   "alternatives": [
+    {
+     "label": "Legend of Paris and Helen",
+     "text": "Herodotus tells that Paris and Helen of Troy, fleeing Menelaus, landed at the Canopic mouth, where the watchman Thonis seized them; in another version Menelaus and Helen stayed there. Whether such stories preserve any memory is unknown, but the city they named was real."
+    },
+    {
+     "label": "Before 2000",
+     "text": "Most historians had thought Thonis and Heracleion were two separate cities on what is now the Egyptian mainland."
+    }
+   ],
+   "changed": "Known only from Greek authors until located underwater around 2000; excavations continue (finds announced 2019, 2021, 2023).",
+   "sources": [
+    {
+     "title": "Wikipedia: Heracleion",
+     "url": "https://en.wikipedia.org/wiki/Heracleion",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Canopus_menouthis_herakleion.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Canopus_menouthis_herakleion.jpg",
+     "author": "ChrisOsenbrück",
+     "license": "Public domain",
+     "title": "Canopus_menouthis_herakleion.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history",
+    "lost-civilisations"
+   ],
+   "threads": [
+    "changed-understanding",
+    "stories-proven-true",
+    "sunken-cities"
+   ]
+  },
+  {
+   "id": "dendera-light",
+   "title": "The \"Dendera light\"",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": -54,
+   "end": null,
+   "evidenceTypes": [
+    "archaeological",
+    "textual",
+    "speculative"
+   ],
+   "mainstream": "Reliefs in the crypts of the Hathor temple at Dendera, Egypt (temple begun 54 BCE under Ptolemy XII; some crypt reliefs date to his reign). They show the god Harsomtus as a snake emerging from a lotus flower, sometimes inside an oval container (hn), supported by a djed pillar or a kneeling figure. The accompanying hieroglyphic captions identify them as cult statues of Harsomtus, give their sizes (three palms to one cubit) and materials (gold, metal, precious stones), and relate to a creation myth; the crypts were treated as the underworld (Duat), where the gods' statues were kept.",
+   "alternatives": [
+    {
+     "label": "Ancient electric lamp (speculative)",
+     "text": "A fringe theory holds that the reliefs depict ancient Egyptian electric technology, citing visual similarity to light bulbs, Crookes or Geissler tubes, and the lack of soot in tombs."
+    },
+    {
+     "label": "Mainstream reply",
+     "text": "Egyptologists point to the hieroglyphic captions. Bolko Stern showed that copper-topped poles mentioned in temple texts were magical, not electrical, and Kenneth Feder notes that no glass, sockets or filaments have ever been found; soot-free lighting could be explained by mirrors or by adding salt to torches."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Dendera light",
+     "url": "https://en.wikipedia.org/wiki/Dendera_light",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Dendera temple complex",
+     "url": "https://en.wikipedia.org/wiki/Dendera_temple_complex",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Dendera_Krypta_48_%28cropped%29.jpg/500px-Dendera_Krypta_48_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Dendera_Krypta_48_(cropped).jpg",
+     "author": "Olaf Tausch",
+     "license": "CC BY 3.0",
+     "title": "Dendera_Krypta_48_(cropped).jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "anomalies",
+    "religion"
+   ],
+   "threads": [
+    "serpent-beings",
+    "ancient-technology"
+   ]
+  },
+  {
+   "id": "rain-queen",
+   "title": "Modjadji, the Rain Queen",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1600,
+   "end": null,
+   "dateNote": "Origin traditions set in the 16th century; the queenship continues today",
+   "evidenceTypes": [
+    "oral tradition",
+    "ethnographic"
+   ],
+   "mainstream": "The hereditary queen of the Balobedu in Limpopo, South Africa, believed to be able to control clouds and rainfall: bringing rain to allies and drought to enemies. Origin stories trace the line to a chief's daughter, Dzugundini, who fled 16th-century Monomotapa (Zimbabwe) to the Molototsi Valley. By custom the queen avoids public functions, speaks through councillors, presides over an annual November rainmaking ceremony, and does not marry but receives \"wives\" from subject villages as a diplomatic tie. Eileen and Jack Krige's The Realm of a Rain-Queen (1943) remains a standard study. Her gardens hold the Modjadji cycad, named after her. Masalanabo Modjadji VII took the throne in 2023 after a succession dispute.",
+   "alternatives": [
+    {
+     "label": "Belief and politics",
+     "text": "Neighbouring communities, and even apartheid-era presidents, historically treated the queen with deference; anthropologists study the rain-making role as a basis of authority and diplomacy."
+    },
+    {
+     "label": "Literary echo",
+     "text": "The second Rain Queen, Masalanabo Modjadji, is said to have inspired H. Rider Haggard's novel She, and the title \"She-who-must-be-obeyed\"."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Rain Queen",
+     "url": "https://en.wikipedia.org/wiki/Rain_Queen",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Encephalartostransvenosus.jpg/500px-Encephalartostransvenosus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Encephalartostransvenosus.jpg",
+     "author": "Stickpen",
+     "license": "Public domain",
+     "title": "Encephalartostransvenosus.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "myth-legend",
+    "religion"
+   ],
+   "threads": []
   }
  ]
 }
