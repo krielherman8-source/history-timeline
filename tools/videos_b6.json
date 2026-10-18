@@ -1,0 +1,80 @@
+{
+ "green-sahara": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=ZQP-7BPvvq0",
+  "title": "When the Sahara Was Green",
+  "channel": "PBS Eons"
+ },
+ "thonis-heracleion": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=3QOxsOlhQVg",
+  "title": "Sunken Egyptian treasures on show at the British Museum",
+  "channel": "BBC London"
+ },
+ "seven-sisters": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=PSWcMVn_XgY",
+  "title": "The Disappearing Star and The Oldest Story Ever Told",
+  "channel": "SciShow"
+ },
+ "chichen-equinox": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=Zvv9EnBuem4",
+  "title": "The Descent of Kukulkán",
+  "channel": "SmithsonianNMAI"
+ },
+ "tassili-round-heads": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=dEtnJHeocKg",
+  "title": "Tassili n'Ajjer (UNESCO/NHK)",
+  "channel": "UNESCO"
+ },
+ "hou-yi": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=5JEUEOmyduA",
+  "title": "Hou Yi And The Ten Suns: A Chinese Folktale",
+  "channel": "Smithsonian Folklife"
+ },
+ "roi-mata": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=ROKnPCL7jDk",
+  "title": "Chief Roi Mata's Domain (UNESCO/NHK)",
+  "channel": "UNESCO"
+ },
+ "haudenosaunee-eclipse": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=D0elAQYLdfc",
+  "title": "Haudenosaunee’s Legendary Founding | Native America | Sacred Stories | PBS",
+  "channel": "PBS"
+ },
+ "shag-harbour": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=-wjgwP_N3oM",
+  "title": "Shag Harbour's UFO mystery",
+  "channel": "CBC News Nova Scotia"
+ },
+ "roanoke": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=THqZ8r2Vr2M",
+  "title": "How Roanoke Vanished Into Thin Air",
+  "channel": "Smithsonian Channel"
+ },
+ "roopkund": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=-TOFxuScdwM",
+  "title": "The mystery of the Himalayan 'Skeleton Lake' - BBC REEL",
+  "channel": "BBC Global"
+ },
+ "tooth-relic": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=XXAHZrf3mkQ",
+  "title": "Sacred City of Kandy (UNESCO/NHK)",
+  "channel": "UNESCO"
+ },
+ "cheomseongdae": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=KWO598nNNl8",
+  "title": "Gyeongju Historic Areas (UNESCO/NHK)",
+  "channel": "UNESCO"
+ }
+}

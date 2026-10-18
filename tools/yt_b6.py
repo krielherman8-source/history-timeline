@@ -1,5 +1,5 @@
 import re,json,urllib.request,urllib.parse
-OK=['Fall of Civilizations','SciShow','Veritasium','Smarthistory','Khan Academy','Natural History Museum of Los Angeles County','Scientific American','PBS NewsHour','DW Documentary','Al Jazeera English','Museum of New Zealand Te Papa Tongarewa','NASA','NASA Goddard','European Space Agency, ESA','Royal Museums Greenwich','MinuteEarth','PBS Eons','Kurzgesagt','Crash Course','CrashCourse','BBC','National Geographic','PBS Space Time','Smithsonian','The British Museum','Royal Institution','NOVA PBS Official','Stated Clearly','Natural History Museum','History Time','Ted-Ed','TED-Ed','Sabine Hossenfelder','World History Encyclopedia','Science Magazine','Nature Video']
+OK=['Fall of Civilizations','SciShow','Veritasium','Smarthistory','Khan Academy','Natural History Museum of Los Angeles County','Scientific American','PBS NewsHour','DW Documentary','Al Jazeera English','Museum of New Zealand Te Papa Tongarewa','NASA','NASA Goddard','European Space Agency, ESA','Royal Museums Greenwich','MinuteEarth','PBS Eons','Kurzgesagt','Crash Course','CrashCourse','BBC','National Geographic','PBS Space Time','Smithsonian','The British Museum','Royal Institution','NOVA PBS Official','Stated Clearly','Natural History Museum','History Time','Ted-Ed','TED-Ed','Sabine Hossenfelder','World History Encyclopedia','Science Magazine','Nature Video','UNESCO','The Met','Getty Museum','NHK WORLD-JAPAN','CBC News','ABC News In-depth','ABC Australia','PBS','Penn Museum','INAH TV','Stanford','University of Oxford','Cambridge University','Numberphile']
 Q={
 'lebombo-bone':'Lebombo bone oldest mathematical artifact',
 'green-sahara':'Green Sahara African humid period',
@@ -43,8 +43,8 @@ Q={
 'shag-harbour':'Shag Harbour UFO incident 1967',
 }
 import sys,os
-# second pass (python3 yt_b5.py retry): channel-targeted queries for ids with no hit, merged into the same candidates file
-Q2={}
+# second pass (python3 yt_b6.py retry): channel-targeted queries for ids with no hit, merged into the same candidates file
+Q2={'maya-script': 'Maya hieroglyphs decipherment Smithsonian', 'pakal-lid': 'Pakal Palenque Smithsonian Channel', 'roanoke': 'Roanoke lost colony Smithsonian Channel', 'tarim-mummies': 'Tarim mummies Nature DNA study', 'roopkund': 'Roopkund lake skeletons BBC', 'ningyo-mermaids': 'mermaid mummy Japan BBC', 'rongorongo': 'rongorongo Easter Island Smithsonian', 'sipan': 'Lord of Sipan National Geographic', 'xin-zhui': 'Lady Dai mummy Smithsonian', 'liangzhu': 'Liangzhu archaeology UNESCO', 'lebombo-bone': 'oldest mathematical object tally bone Numberphile', 'tanganyika-laughter': '1962 laughter epidemic SciShow', 'thunderbird': 'Thunderbird legend Smithsonian NMAI', 'menehune': 'Menehune legend Hawaii PBS', 'aztlan': 'Aztec origin Aztlan World History Encyclopedia', 'igbo-ukwu': 'Igbo-Ukwu bronze British Museum', 'tooth-relic': 'Sri Dalada Maligawa Kandy UNESCO', 'cheomseongdae': 'Gyeongju historic areas UNESCO', 'bunyip': 'bunyip ABC', 'dendera-light': 'Dendera light bulb myth'}
 retry=len(sys.argv)>1 and sys.argv[1]=='retry'
 candidates=json.load(open('videos_b6_candidates.json')) if retry and os.path.exists('videos_b6_candidates.json') else {}
 for k,q in (Q2 if retry else Q).items():
