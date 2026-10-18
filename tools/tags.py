@@ -320,3 +320,30 @@ addt('deep-oral-memory','roi-mata seven-sisters menehune')
 addt('giant-monuments','haamonga')
 addt('giants-and-little-people','menehune')
 addt('outsider-builder-claims','menehune kaimanawa-wall mound-builders-myth great-zimbabwe adams-calendar igbo-ukwu')
+C.update({
+'bunyip':'myth-legend anomalies science-cosmos',
+'pakal-lid':'archaeology history aliens-ufo',
+'sipan':'archaeology history',
+'maya-script':'history archaeology',
+'chichen-equinox':'archaeology science-cosmos anomalies',
+'aztlan':'myth-legend lost-civilisations history',
+'haudenosaunee-eclipse':'history science-cosmos myth-legend',
+'thunderbird':'myth-legend religion science-cosmos',
+'roanoke':'history anomalies',
+'shag-harbour':'aliens-ufo anomalies',
+})
+addt('cryptids','bunyip thunderbird')
+addt('dragons-and-fossils','bunyip thunderbird')
+addt('deep-oral-memory','bunyip thunderbird haudenosaunee-eclipse aztlan')
+addt('hidden-tombs','pakal-lid sipan')
+addt('sky-beings','pakal-lid')
+addt('mummies','sipan')
+addt('origins-of-writing','maya-script')
+addt('knowledge-and-power','maya-script')
+addt('changed-understanding','maya-script')
+addt('ancient-astronomy','chichen-equinox haudenosaunee-eclipse')
+addt('serpent-beings','chichen-equinox thunderbird')
+addt('lost-civilisations','aztlan')
+addt('sky-omens','aztlan haudenosaunee-eclipse')
+addt('disappearances','roanoke valentich-1978 mali-atlantic-voyage')
+addt('ufo-encounters','shag-harbour')

@@ -7822,7 +7822,8 @@
     "anomalies"
    ],
    "threads": [
-    "ufo-encounters"
+    "ufo-encounters",
+    "disappearances"
    ]
   },
   {
@@ -8771,7 +8772,8 @@
     "anomalies"
    ],
    "threads": [
-    "ocean-voyagers"
+    "ocean-voyagers",
+    "disappearances"
    ]
   },
   {
@@ -12020,6 +12022,598 @@
     "lost-civilisations",
     "hoaxes-exposed",
     "outsider-builder-claims"
+   ]
+  },
+  {
+   "id": "bunyip",
+   "title": "The bunyip",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": 1812,
+   "end": null,
+   "dateNote": "Oral tradition of unknown age; first printed 1812",
+   "evidenceTypes": [
+    "oral tradition",
+    "textual",
+    "fossil"
+   ],
+   "mainstream": "A creature of Aboriginal tradition in south-eastern Australia said to lurk in swamps, billabongs, creeks and waterholes; the word comes from the Wemba-Wemba or Wergaia language of Victoria and is often translated today as \"devil\" or \"evil spirit\". At least nine regional variants are known. \"Bahnyip\" first appeared in print in the Sydney Gazette in 1812, describing a large black seal-like animal with a terrible voice. An outline of a speared bunyip about 11 paces long, cut into a creek bank at Challicum near Ararat, Victoria, was recorded in 1851 and reportedly retraced by Aboriginal people each year until the mid-1850s. Colonial newspapers reported bunyip fossils (Geelong, 1845) and a \"bunyip skull\" from the Murrumbidgee (1846), which experts including Richard Owen identified in 1847 as the deformed foetal skull of a foal or calf.",
+   "alternatives": [
+    {
+     "label": "Memory of megafauna",
+     "text": "George Bennett of the Australian Museum (1871) proposed that bunyip stories recall extinct marsupials such as Diprotodon; Pat Vickers-Rich and Neil Archbold (1990s) cautiously agreed that legends may stem from encounters with fossil bones or even living prehistoric animals, noting that Aboriginal people often identified such remains as bunyips."
+    },
+    {
+     "label": "Seals, birds and other animals",
+     "text": "Charles Fenner (1933) suggested seals that swam far up the Murray and Darling; others point to the booming call of the Australasian bittern (\"bunyip bird\") or, from an 1845 description with pale blue eggs and a bright chest, the southern cassowary (Karl Brandt, 2017)."
+    },
+    {
+     "label": "Spirit being",
+     "text": "Many accounts treat the bunyip as a spirit rather than an animal; some modern sources suggest a linguistic link to the creator being Bunjil."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Bunyip",
+     "url": "https://en.wikipedia.org/wiki/Bunyip",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Bunyip_1890.jpg/500px-Bunyip_1890.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Bunyip_1890.jpg",
+     "author": "Macfarlane, J.",
+     "license": "Public domain",
+     "title": "Bunyip_1890.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "anomalies",
+    "science-cosmos"
+   ],
+   "threads": [
+    "dragons-and-fossils",
+    "cryptids",
+    "deep-oral-memory"
+   ]
+  },
+  {
+   "id": "pakal-lid",
+   "title": "Pakal's tomb and the \"astronaut\" lid",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 683,
+   "end": null,
+   "evidenceTypes": [
+    "archaeological",
+    "epigraphic"
+   ],
+   "mainstream": "Kʼinich Janaabʼ Pakal ruled the Maya city of Palenque from age 12 in 615 until his death on 29 August 683, a reign of 68 years. In 1948 Mexican archaeologist Alberto Ruz Lhuillier lifted a floor slab in the Temple of the Inscriptions and found a rubble-filled stairway; clearing it took four years, and in 1952 he reached Pakal's tomb with its huge carved sarcophagus. The lid shows Pakal between the heavens and the underworld: above him a cruciform world tree with a celestial bird and serpent, below him the jaws of the underworld, with sun, moon and star signs and six ancestors around the edges. The tomb has since been resealed. An underground water channel beneath the temple was found in 2016 and a stucco mask of an elderly Pakal in 2018.",
+   "alternatives": [
+    {
+     "label": "Ancient astronaut (von Däniken)",
+     "text": "In Chariots of the Gods? (1968) Erich von Däniken reproduced the lid (mislabelled as from Copán), compared Pakal's pose with Mercury astronauts and read the motifs below him as rocket exhaust, as possible evidence of extraterrestrial influence."
+    },
+    {
+     "label": "Maya iconography (mainstream)",
+     "text": "Archaeologists, epigraphers and art historians almost universally reject this, noting that the claim relies on visual impression alone and ignores Maya artistic conventions, cosmology and the accompanying texts, which identify the scene as the king and the world tree."
+    },
+    {
+     "label": "Whose bones?",
+     "text": "Low tooth wear first suggested the skeleton was about 40 years younger than the 80-year-old king of the inscriptions; later skeletal analysis supports an age in the eighth or ninth decade, consistent with the texts (a softer elite diet would explain the teeth)."
+    }
+   ],
+   "changed": "1952: tomb found. 1968: von Däniken's astronaut reading. 1973 onwards: decipherment of Palenque's dynastic texts confirms Pakal's identity and dates.",
+   "sources": [
+    {
+     "title": "Wikipedia: Kʼinich Janaabʼ Pakal",
+     "url": "https://en.wikipedia.org/wiki/K%CA%BCinich_Janaab%CA%BC_Pakal",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Temple of the Inscriptions",
+     "url": "https://en.wikipedia.org/wiki/Temple_of_the_Inscriptions",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Pre-Hispanic City and National Park of Palenque (UNESCO)",
+     "url": "https://whc.unesco.org/en/list/411",
+     "type": "institution"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Tumba_de_pakal%2C_Chiapas.JPG/500px-Tumba_de_pakal%2C_Chiapas.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Tumba_de_pakal,_Chiapas.JPG",
+     "author": "Lousanroj",
+     "license": "CC BY-SA 3.0",
+     "title": "Tumba_de_pakal,_Chiapas.JPG"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history",
+    "aliens-ufo"
+   ],
+   "threads": [
+    "sky-beings",
+    "hidden-tombs"
+   ]
+  },
+  {
+   "id": "sipan",
+   "title": "The Lord of Sipán: a royal tomb saved from looters",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 300,
+   "end": null,
+   "dateNote": "Moche period; the burial platform was built before c. 300 CE; found 1987",
+   "evidenceTypes": [
+    "archaeological"
+   ],
+   "mainstream": "In early 1987 looters digging at Huaca Rajada, an adobe pyramid and platform complex near Sipán in the Lambayeque Valley of northern Peru, found gold objects; a quarrel among them led police to raid the site and call archaeologist Walter Alva. His team found the intact tomb of a Moche ruler, now called the Lord of Sipán: a man about 1.63 m tall, aged 35–45, with gold, silver and copper headdresses, a face mask, a gold pectoral (a man's head with an octopus body) and necklaces of gold and silver peanut-shaped beads (gold on the right for the sun, silver on the left for the moon). Buried with him were three young women, two men (with amputated feet), a child, a dog and 451 offerings; another man sat in a niche above. By 2007 fourteen tombs had been identified. The Royal Tombs of Sipán Museum opened in 2002.",
+   "alternatives": [
+    {
+     "label": "Significance",
+     "text": "Archaeologists consider it one of the most important finds in South America in the late 20th century because the main tomb was untouched by grave robbers, giving a rare complete view of Moche royal burial."
+    },
+    {
+     "label": "The retinue",
+     "text": "The three women apparently died some time before the burial; the warriors' feet were amputated, as if, in the excavators' reading, to prevent them from leaving the tomb."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Lord of Sipán",
+     "url": "https://en.wikipedia.org/wiki/Lord_of_Sip%C3%A1n",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Huaca Rajada",
+     "url": "https://en.wikipedia.org/wiki/Huaca_Rajada",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Tomb_of_Lord_of_Sip%C3%A1n_01.jpg/500px-Tomb_of_Lord_of_Sip%C3%A1n_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Tomb_of_Lord_of_Sip%C3%A1n_01.jpg",
+     "author": "Bernard Gagnon",
+     "license": "CC BY-SA 3.0",
+     "title": "Tomb_of_Lord_of_Sipán_01.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history"
+   ],
+   "threads": [
+    "hidden-tombs",
+    "mummies"
+   ]
+  },
+  {
+   "id": "maya-script",
+   "title": "Breaking the Maya code",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -300,
+   "end": 1697,
+   "evidenceTypes": [
+    "epigraphic",
+    "textual"
+   ],
+   "mainstream": "Maya script is the only Mesoamerican writing system that has been substantially deciphered. The earliest identifiable inscriptions date to the 3rd century BCE (San Bartolo, Chakjobon), and it was used until the Spanish conquest. It combines logograms with syllabic signs. As part of his campaign against \"pagan\" rites, Bishop Diego de Landa ordered Maya books collected and destroyed; only three codices were long known to survive, with the Grolier Codex authenticated as a fourth in 2015. Yet Landa also recorded a supposed Maya \"alphabet\" that became a key to decipherment. By 2008 the sound of about 80% of Maya writing could be read and the meaning of about 60% understood.",
+   "alternatives": [
+    {
+     "label": "Old school: calendar priests",
+     "text": "For much of the 20th century leading scholars such as J. Eric S. Thompson held that the inscriptions were mainly calendrical, astronomical and religious, and that the script was not phonetic."
+    },
+    {
+     "label": "Knorozov and the phonetic breakthrough",
+     "text": "In 1952 Soviet scholar Yuri Knorozov argued that Landa's \"alphabet\" was really syllabic; many Western Mayanists dismissed him, partly because Soviet editors added Marxist-Leninist claims. In 1959 Tatiana Proskouriakoff showed that date patterns at Piedras Negras recorded the lives of rulers, and at the 1973 Palenque round table Linda Schele, Floyd Lounsbury and Peter Mathews reconstructed most of Palenque's king list in an afternoon."
+    }
+   ],
+   "changed": "1952: Knorozov proposes syllabic reading. 1958: Berlin identifies emblem glyphs. 1959: Proskouriakoff finds dynastic history. 1973: Palenque king list reconstructed. 1986: \"The Blood of Kings\" exhibition helps turn the field. 2015: Grolier Codex authenticated.",
+   "sources": [
+    {
+     "title": "Wikipedia: Maya script",
+     "url": "https://en.wikipedia.org/wiki/Maya_script",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Palenque_glyphs-edit1.jpg/500px-Palenque_glyphs-edit1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Palenque_glyphs-edit1.jpg",
+     "author": "User:Kwamikagami",
+     "license": "Public domain",
+     "title": "Palenque_glyphs-edit1.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology"
+   ],
+   "threads": [
+    "changed-understanding",
+    "origins-of-writing",
+    "knowledge-and-power"
+   ]
+  },
+  {
+   "id": "chichen-equinox",
+   "title": "Chichen Itza: the serpent of light and the chirping pyramid",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 900,
+   "end": 1100,
+   "dateNote": "Built sometime between the 8th and 12th centuries CE",
+   "evidenceTypes": [
+    "archaeological",
+    "archaeoastronomy",
+    "acoustic"
+   ],
+   "mainstream": "El Castillo, the Temple of Kukulcán at Chichen Itza in Yucatán, was built by the Maya sometime between the 8th and 12th centuries over an earlier substructure, as a temple to the feathered serpent Kukulcán (related to the Aztec Quetzalcoatl). Plumed serpent sculptures run down the northern balustrade. Around the spring and autumn equinoxes the late-afternoon sun casts triangular shadows on the north-west balustrade, creating the illusion of a serpent crawling down the pyramid, watched by thousands each spring. Handclaps in front of the staircase return a descending \"chirped\" echo.",
+   "alternatives": [
+    {
+     "label": "Designed alignment?",
+     "text": "It is not known whether the serpent of light was purposeful design, since the effect can be seen with little change for several weeks around the equinoxes."
+    },
+    {
+     "label": "Intentional acoustics? (speculative)",
+     "text": "Acoustician David Lubman modelled the chirp as diffraction from the stair treads and speculated that the staircase was deliberately designed to imitate the call of the quetzal bird; others (e.g. Declercq et al. 2004) analysed the effect physically without assuming intent."
+    }
+   ],
+   "sources": [
+    {
+     "title": "A theoretical study of special acoustic effects caused by the staircase of the El Castillo pyramid at the Maya ruins of Chichen-Itza in Mexico",
+     "authors": "Declercq, N. et al.",
+     "year": 2004,
+     "doi": "10.1121/1.1764833",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: El Castillo, Chichen Itza",
+     "url": "https://en.wikipedia.org/wiki/El_Castillo%2C_Chichen_Itza",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Pre-Hispanic City of Chichen-Itza (UNESCO)",
+     "url": "https://whc.unesco.org/en/list/483",
+     "type": "institution"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Chichen_Itza_3.jpg/500px-Chichen_Itza_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Chichen_Itza_3.jpg",
+     "author": "Daniel Schwen",
+     "license": "CC BY-SA 4.0",
+     "title": "Chichen_Itza_3.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "science-cosmos",
+    "anomalies"
+   ],
+   "threads": [
+    "serpent-beings",
+    "ancient-astronomy"
+   ]
+  },
+  {
+   "id": "aztlan",
+   "title": "Aztlán, the lost homeland of the Aztecs",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": 1064,
+   "end": null,
+   "dateNote": "Departure dated 1064–65 in the Anales de Tlatelolco (2004 translation)",
+   "evidenceTypes": [
+    "textual",
+    "oral tradition"
+   ],
+   "mainstream": "Aztlán (\"Aztec\" means \"people from Aztlán\") is the homeland from which the Mexica and other Nahua peoples were said to have migrated to central Mexico, where the Mexica later founded Tenochtitlan. Accounts tell of seven tribes emerging from Chicomoztoc, the Place of the Seven Caves, and of an island in a \"Lake of the Moon\". Some describe a paradise, others (Codex Aubin) a tyranny under the Azteca Chicomoztoca; guided by their priest and the god Huitzilopochtli, who told them to call themselves Mexica, they left. A 2004 translation of the Anales de Tlatelolco gives the only known date for the departure: 4 Eagle in the year 1 Flint (1064–65).",
+   "alternatives": [
+    {
+     "label": "Real place?",
+     "text": "Historians tend to place Aztlán in north-western Mexico or the south-western United States; since the 1960s Mexican scholars have considered the island town of Mexcaltitán de Uribe in Nayarit, an idea still debated. Others think it impossible to locate because the accounts conflict, or regard it as mythological."
+    },
+    {
+     "label": "A royal search",
+     "text": "Friar Diego Durán wrote that Moctezuma I sent warriors and sages to find Aztlán and that they succeeded; Durán wrote after the conquest, before accurate maps existed."
+    },
+    {
+     "label": "Sky sign",
+     "text": "One reconstruction links the start of the migration to the 1054 \"guest star\" supernova (see SN 1054). In 1969 the poet Alurista made Aztlán a symbol of Chicano identity in El Plan Espiritual de Aztlán."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Aztlán",
+     "url": "https://en.wikipedia.org/wiki/Aztl%C3%A1n",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Gemelli_Careri_Aztec_Map.jpg/500px-Gemelli_Careri_Aztec_Map.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Gemelli_Careri_Aztec_Map.jpg",
+     "author": "Gemelli Careri",
+     "license": "Public domain",
+     "title": "Gemelli_Careri_Aztec_Map.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "lost-civilisations",
+    "history"
+   ],
+   "threads": [
+    "lost-civilisations",
+    "deep-oral-memory",
+    "sky-omens"
+   ]
+  },
+  {
+   "id": "haudenosaunee-eclipse",
+   "title": "The Great Law of Peace and the darkened sun",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 1142,
+   "end": null,
+   "dateNote": "Disputed: 1142 or 1451 eclipse; other estimates up to c. 1600",
+   "evidenceTypes": [
+    "oral tradition",
+    "astronomical",
+    "archaeological"
+   ],
+   "mainstream": "Haudenosaunee (Iroquois) oral history tells that the Great Peacemaker (Deganawida), with Hiawatha and Jigonhsasee, united the Mohawk, Oneida, Onondaga, Cayuga and Seneca under the Great Law of Peace (Gayanashagowa), an oral constitution recorded on wampum belts. Jigonhsasee became the first Clan Mother, and clan mothers chose the chiefs. One account says that fighting among the Seneca, the last nation to join, stopped when the sun darkened and day seemed to turn to night. Since William Canfield's Legends of the Iroquois (1902) scholars have asked whether this was a solar eclipse that could date the founding.",
+   "alternatives": [
+    {
+     "label": "1451 eclipse (majority view)",
+     "text": "Most scholars have favoured the solar eclipse of 1451 as the likely founding date, consistent with archaeology; in 1982 Dean Snow argued the evidence did not support any date before 1350."
+    },
+    {
+     "label": "1142 eclipse (Mann and Fields)",
+     "text": "Barbara Mann and Jerry Fields (1997) argued the 1451 eclipse is a poor fit and that the eclipse of 31 August 1142 matches the tradition; by 2007–08 reviews regarded 1142 as possible, though most still saw 1451 as the safer choice."
+    },
+    {
+     "label": "Caution",
+     "text": "A few scholars question dating the confederacy from the eclipse story at all; overall estimates range from the 12th century to the 15th century or later. In 1988 the US Congress formally recognised the confederacy's influence on the US Constitution."
+    }
+   ],
+   "sources": [
+    {
+     "title": "A Sign in the Sky: Dating the League of the Haudenosaunee",
+     "authors": "Mann, B. et al.",
+     "year": 1997,
+     "doi": "10.17953/aicr.21.2.k36m1485r3062510",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: Great Peacemaker",
+     "url": "https://en.wikipedia.org/wiki/Great_Peacemaker",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Great Law of Peace",
+     "url": "https://en.wikipedia.org/wiki/Great_Law_of_Peace",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Hiawatha_Belt_vector.svg/500px-Hiawatha_Belt_vector.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Hiawatha_Belt_vector.svg",
+     "author": "SargassoShearwater",
+     "license": "CC0",
+     "title": "Hiawatha_Belt_vector.svg"
+    }
+   ],
+   "categories": [
+    "history",
+    "science-cosmos",
+    "myth-legend"
+   ],
+   "threads": [
+    "deep-oral-memory",
+    "sky-omens",
+    "ancient-astronomy"
+   ]
+  },
+  {
+   "id": "thunderbird",
+   "title": "The Thunderbird",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": -2000,
+   "end": null,
+   "dateNote": "Depictions date back about 4,000 years",
+   "evidenceTypes": [
+    "oral tradition",
+    "rock art",
+    "fossil"
+   ],
+   "mainstream": "A powerful bird-like spirit in the traditions of many North American Indigenous peoples, especially on the Pacific Northwest Coast but also in the Southwest, Great Lakes, Great Plains and East. In Algonquian tellings it makes thunder by flapping its wings and lightning by flashing its eyes (also among the Iroquois), ruling the upper world and fighting the underwater panther or Great Horned Serpent of the underworld. Depictions of thunderbirds are found at sites dating back about 4,000 years, such as petroglyphs at Twin Bluffs, Wisconsin. Pacific coast peoples tell of struggles between Thunderbird and Whale.",
+   "alternatives": [
+    {
+     "label": "Earthquake memory",
+     "text": "Researchers have examined whether Thunderbird and Whale stories relate to the Cascadia earthquake of 1700 (see entry)."
+    },
+    {
+     "label": "Fossils and extinct birds",
+     "text": "Historian Adrienne Mayor and Tom Holland have suggested the stories may draw on discoveries of pterosaur fossils; anthropologist Paulette Steeves suggests memories of the extinct giant bird Teratornis."
+    },
+    {
+     "label": "Cryptid sightings",
+     "text": "\"Thunderbird\" is also used for alleged modern sightings of giant condor- or pterosaur-like birds, including a supposedly lost 19th-century photograph; scientists attribute such sightings to misidentified known animals. Indigenous traditions hold that the Thunderbird is a spirit, not a physical animal."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Thunderbird (mythology)",
+     "url": "https://en.wikipedia.org/wiki/Thunderbird_(mythology)",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Thunderbird_on_Totem_Pole.jpg/500px-Thunderbird_on_Totem_Pole.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Thunderbird_on_Totem_Pole.jpg",
+     "author": "Dr Haggis",
+     "license": "CC BY-SA 3.0",
+     "title": "Thunderbird_on_Totem_Pole.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion",
+    "science-cosmos"
+   ],
+   "threads": [
+    "dragons-and-fossils",
+    "cryptids",
+    "deep-oral-memory",
+    "serpent-beings"
+   ]
+  },
+  {
+   "id": "roanoke",
+   "title": "The Lost Colony of Roanoke and \"CROATOAN\"",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 1587,
+   "end": 1590,
+   "evidenceTypes": [
+    "textual",
+    "archaeological",
+    "tree-ring"
+   ],
+   "mainstream": "In 1587 English settlers under John White landed on Roanoke Island (now North Carolina), meant for the Chesapeake Bay but left there by pilot Simon Fernandes. White sailed home for supplies; war with Spain delayed his return until August 1590, when he found the settlement fortified but abandoned, with \"CRO\" carved into a tree and \"CROATOAN\" into the palisade, which he took to mean the colonists had moved to Croatoan Island. Storms and a lost anchor forced his ships home. Among the missing was his infant granddaughter Virginia Dare, born in the colony.",
+   "alternatives": [
+    {
+     "label": "Absorbed into Native communities",
+     "text": "Speculation that the colonists joined nearby peoples appears as early as 1605; John Lawson (1701–09) met Hatteras people who said some ancestors were white and some had grey eyes."
+    },
+    {
+     "label": "Killed",
+     "text": "Jamestown sources reported that Wahunsenacawh (Chief Powhatan) had massacred them; William Strachey wrote that a few survived. The source of the claim is unknown, and after 1622 it was used in propaganda to justify war on the Powhatan."
+    },
+    {
+     "label": "Drought",
+     "text": "A 1998 tree-ring study (Stahle, Blanton et al.) found the worst growing season in 800 years in 1587, within an extreme drought of 1587–89, which could have caused famine and conflict."
+    }
+   ],
+   "changed": "1590: colony found deserted. 1834: George Bancroft makes Virginia Dare a national legend. 1998: drought identified from tree rings. Excavations continue.",
+   "sources": [
+    {
+     "title": "The Lost Colony and Jamestown Droughts",
+     "authors": "Stahle, D. et al.",
+     "year": 1998,
+     "doi": "10.1126/science.280.5363.564",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: Roanoke Colony",
+     "url": "https://en.wikipedia.org/wiki/Roanoke_Colony",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/William_Ludwell_Sheppard_%26_William_James_Linton_-_CROATOAN%2C_The_Lost_Colony_%28John_White%29.jpg/500px-William_Ludwell_Sheppard_%26_William_James_Linton_-_CROATOAN%2C_The_Lost_Colony_%28John_White%29.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:William_Ludwell_Sheppard_%26_William_James_Linton_-_CROATOAN,_The_Lost_Colony_(John_White).jpg",
+     "author": "Design by William Ludwell Sheppard, engraving by William James Linton (1876)",
+     "license": "No known copyright restrictions",
+     "title": "William_Ludwell_Sheppard_&_William_James_Linton_-_CROATOAN,_The_Lost_Colony_(John_White).jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "anomalies"
+   ],
+   "threads": [
+    "disappearances"
+   ]
+  },
+  {
+   "id": "shag-harbour",
+   "title": "Shag Harbour UFO incident (Canada, 1967)",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 1967,
+   "end": null,
+   "evidenceTypes": [
+    "eyewitness",
+    "official documents"
+   ],
+   "mainstream": "On the night of 4 October 1967, at about 11:20 pm, at least eleven people saw a low-flying lit object head toward the water off Shag Harbour, a fishing village in Nova Scotia; witnesses heard a whistling \"like a bomb\", a whoosh and a bang. Laurie Wickens and four friends saw it floating 250–300 m offshore and reported a plane crash; RCMP officers watched it before it sank, still lit. Fishing boats and a Coast Guard cutter found no survivors or debris, and the Halifax rescue centre found no aircraft missing. Earlier that evening an Air Canada crew over Quebec, a fishing-boat captain with radar returns and people around Halifax had reported strange lights.",
+   "alternatives": [
+    {
+     "label": "Officially unidentified",
+     "text": "Because conventional explanations such as aircraft and flares had been dismissed, the rescue centre labelled it a \"UFO Report\"; navy divers searched the seabed for three days and found nothing. Canada's Department of National Defence files and the US Condon Committee record the case."
+    },
+    {
+     "label": "Underwater craft (1990s claim)",
+     "text": "From 1993 ufologist Chris Styles and a co-author (in the book Dark Object) claimed the object travelled underwater to a naval sonar facility near Shelburne and was joined by a second craft before both left; no evidence for this has been presented."
+    },
+    {
+     "label": "Flares or a fireball (sceptical view)",
+     "text": "Brian Dunning (Skeptoid, 2017) notes the earliest newspaper accounts describe only a few lights descending and one floating briefly, and argues that marine distress flares or a fragmenting meteor fireball fit the reports; he reads the Coast Guard telex (\"flares, etc. checked - nil results\") as finding no evidence, not ruling flares out."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Shag Harbour UFO incident",
+     "url": "https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Dunning, B. (2017). The Shag Harbour UFO. Skeptoid #565",
+     "url": "https://skeptoid.com/episodes/4565",
+     "type": "podcast"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Shag_Harbour_Nova_Scotia.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Shag_Harbour_Nova_Scotia.gif",
+     "author": "Planiglobe",
+     "license": "CC BY 2.5",
+     "title": "Shag_Harbour_Nova_Scotia.gif"
+    }
+   ],
+   "categories": [
+    "aliens-ufo",
+    "anomalies"
+   ],
+   "threads": [
+    "ufo-encounters"
    ]
   }
  ]
