@@ -12773,6 +12773,12 @@
      "author": "Oleg Kuznetsov - 3depix -  http://3depix.com/",
      "license": "CC BY-SA 4.0",
      "title": "Snowball_Huronian.jpg"
+    },
+    {
+     "type": "video",
+     "url": "https://www.youtube.com/watch?v=YTSTwqbDrRc",
+     "title": "How Did Life Survive Snowball Earth?",
+     "channel": "PBS Eons"
     }
    ],
    "categories": [
@@ -12840,6 +12846,12 @@
      "author": "Photograph:  NASA",
      "license": "Public domain",
      "title": "Lake_turkana_satellite.jpg"
+    },
+    {
+     "type": "video",
+     "url": "https://www.youtube.com/watch?v=dUC0hz__7eU",
+     "title": "Oldest Known Stone Tools Discovered: 3.3 Million Years Old | National Geographic",
+     "channel": "National Geographic"
     }
    ],
    "categories": [
@@ -12956,6 +12968,12 @@
      "author": "Rama",
      "license": "Public domain",
      "title": "Homo_Georgicus_IMG_2921.JPG"
+    },
+    {
+     "type": "video",
+     "url": "https://www.youtube.com/watch?v=ofQh7NzsSh8",
+     "title": "GEORGIA SKULL DISCOVERY IN 60 SEC - BBC NEWS",
+     "channel": "BBC News"
     }
    ],
    "categories": [
@@ -13135,6 +13153,12 @@
      "author": "cj Huo",
      "license": "CC BY-SA 1.0",
      "title": "Tsodilo_rock_paintings_1.jpg"
+    },
+    {
+     "type": "video",
+     "url": "https://www.youtube.com/watch?v=H5h0q1PE2Qk",
+     "title": "Tsodilo Hills, Botswana | Africa’s Cultural Landmarks",
+     "channel": "The Met"
     }
    ],
    "categories": [
@@ -13200,6 +13224,12 @@
      "author": "Museo de Altamira y D. Rodríguez",
      "license": "CC BY-SA 3.0",
      "title": "9_Bisonte_Magdaleniense_polícromo.jpg"
+    },
+    {
+     "type": "video",
+     "url": "https://www.youtube.com/watch?v=qyIfPbn0RDs",
+     "title": "Cave of Altamira and Paleolithic Cave Art of Northern  ... (UNESCO/NHK)",
+     "channel": "UNESCO"
     }
    ],
    "categories": [
@@ -13264,6 +13294,12 @@
      "author": "120",
      "license": "CC BY-SA 3.0",
      "title": "Otzi-Quinson.jpg"
+    },
+    {
+     "type": "video",
+     "url": "https://www.youtube.com/watch?v=mRa0Gi_mRjs",
+     "title": "A 5,300-year-old murder mystery - Albert Zink",
+     "channel": "TED-Ed"
     }
    ],
    "categories": [
@@ -13387,6 +13423,12 @@
      "author": "Photograph taken by Mark A. Wilson (Department of Geology, The College of Wooster).\n\n[1]",
      "license": "Public domain",
      "title": "Iron_Pillar,_Delhi,_May_2008.jpg"
+    },
+    {
+     "type": "video",
+     "url": "https://www.youtube.com/watch?v=6m_7fkjOKmU",
+     "title": "Qutb Minar and its Monuments, Delhi (UNESCO/NHK)",
+     "channel": "UNESCO"
     }
    ],
    "categories": [
@@ -13556,7 +13598,14 @@
      "type": "encyclopedia"
     }
    ],
-   "media": [],
+   "media": [
+    {
+     "type": "video",
+     "url": "https://www.youtube.com/watch?v=ZkUIMRTEe-k",
+     "title": "Japan's mysterious 'keyhole' tombs - BBC REEL",
+     "channel": "BBC Global"
+    }
+   ],
    "categories": [
     "archaeology",
     "history"
@@ -13769,6 +13818,12 @@
      "author": "Unknown",
      "license": "CC BY-SA 4.0",
      "title": "Kailash_temple_(Ellora_cave_no_15)_at_Verul.png"
+    },
+    {
+     "type": "video",
+     "url": "https://www.youtube.com/watch?v=LgzVntqUj60",
+     "title": "Ellora Caves (UNESCO/NHK)",
+     "channel": "UNESCO"
     }
    ],
    "categories": [
@@ -14047,6 +14102,12 @@
      "author": "O. Von Corven",
      "license": "Public domain",
      "title": "Ancientlibraryalex.jpg"
+    },
+    {
+     "type": "video",
+     "url": "https://www.youtube.com/watch?v=jvWncVbXfJ0",
+     "title": "What really happened to the Library of Alexandria? - Elizabeth Cox",
+     "channel": "TED-Ed"
     }
    ],
    "categories": [
@@ -14160,6 +14221,12 @@
      "author": "Mgiganteus",
      "license": "CC BY-SA 3.0",
      "title": "Great_Mosque_of_Gede.jpg"
+    },
+    {
+     "type": "video",
+     "url": "https://www.youtube.com/watch?v=3cTgT6FGb3Y",
+     "title": "Kenya’s ancient Gedi city holds secrets of lost civilisations and efforts to save it from decay",
+     "channel": "Al Jazeera English"
     }
    ],
    "categories": [
@@ -14276,6 +14343,12 @@
      "author": "United States Geological Survey",
      "license": "Public domain",
      "title": "Tml15-16_Nc.jpg"
+    },
+    {
+     "type": "video",
+     "url": "https://www.youtube.com/watch?v=-kw4i6n-vt0",
+     "title": "Lake Nyos disaster survivors to return home after 30 years",
+     "channel": "Al Jazeera English"
     }
    ],
    "categories": [
@@ -14461,6 +14534,12 @@
      "author": "Unknown authorUnknown author",
      "license": "Public domain",
      "title": "Dancingplague2_(alt).jpg"
+    },
+    {
+     "type": "video",
+     "url": "https://www.youtube.com/watch?v=Es3hXUQLQgg",
+     "title": "A Dancing Disease KILLED People: The Dancing Plague Of 1518 | Earth Science",
+     "channel": "BBC Earth Science"
     }
    ],
    "categories": [
@@ -14525,6 +14604,12 @@
      "author": "Joseph E., ca. 1837-1914, artist.",
      "license": "Public domain",
      "title": "Salem_witch2.jpg"
+    },
+    {
+     "type": "video",
+     "url": "https://www.youtube.com/watch?v=NVd8kuufBhM",
+     "title": "What really happened during the Salem Witch Trials - Brian A. Pavlac",
+     "channel": "TED-Ed"
     }
    ],
    "categories": [
@@ -14636,6 +14721,12 @@
      "author": "Unconfirmed, possibly Honore Pellegrin (1800–c.1870). This speculative attribution is suggested in Paul Begg: Mary Celes",
      "license": "Public domain",
      "title": "Mary_Celeste_as_Amazon_in_1861_(cropped).jpg"
+    },
+    {
+     "type": "video",
+     "url": "https://www.youtube.com/watch?v=bTb54_gLd5Q",
+     "title": "The True Story of the Mary Celeste",
+     "channel": "Smithsonian Channel"
     }
    ],
    "categories": [
@@ -14696,6 +14787,12 @@
      "author": "HongKongHuey",
      "license": "CC BY 2.0",
      "title": "Hokule'aSailing2009.jpg"
+    },
+    {
+     "type": "video",
+     "url": "https://www.youtube.com/watch?v=m8bDCaPhOek",
+     "title": "How did Polynesian wayfinders navigate the Pacific Ocean? - Alan Tamayose and Shantell De Silva",
+     "channel": "TED-Ed"
     }
    ],
    "categories": [
@@ -14972,6 +15069,12 @@
      "author": "Дмитрий Никишин.\n\nThe original uploader was Futball80 at Russian Wikipedia.",
      "license": "Public domain",
      "title": "Памятник_дятловцам_на_Михайловском_кладбище.jpg"
+    },
+    {
+     "type": "video",
+     "url": "https://www.youtube.com/watch?v=22OmPK7Ml34",
+     "title": "Explaining the icy mystery of the Dyatlov Pass deaths",
+     "channel": "nature video"
     }
    ],
    "categories": [
@@ -15033,6 +15136,12 @@
      "author": "Aleksandr Ivanov, Cropping and conversion to gif: Hike395",
      "license": "CC BY 3.0",
      "title": "Meteorite_explosion_over_Chelyabinsk_on_February_15,_2013.gif"
+    },
+    {
+     "type": "video",
+     "url": "https://www.youtube.com/watch?v=JB2eoQfOGBA",
+     "title": "The Chelyabinsk Meteor: What We Know",
+     "channel": "SciShow"
     }
    ],
    "categories": [
