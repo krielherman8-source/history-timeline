@@ -347,3 +347,29 @@ addt('lost-civilisations','aztlan')
 addt('sky-omens','aztlan haudenosaunee-eclipse')
 addt('disappearances','roanoke valentich-1978 mali-atlantic-voyage')
 addt('ufo-encounters','shag-harbour')
+
+# --- batch 7 (2026-10-19)
+C.update({
+'snowball-earth':'science-cosmos catastrophes',
+'lomekwi':'archaeology science-cosmos',
+'turkana-boy':'science-cosmos archaeology',
+'dmanisi':'science-cosmos archaeology',
+'peking-man':'science-cosmos archaeology history anomalies',
+'apollo-11-cave':'archaeology myth-legend',
+'tsodilo-python':'archaeology religion myth-legend',
+'altamira':'archaeology history',
+'otzi':'archaeology history science-cosmos',
+'diquis-spheres':'archaeology anomalies lost-civilisations',
+})
+addt('human-origins','first-homo homo-sapiens laetoli homo-naledi homo-floresiensis neanderthal-dna border-cave lomekwi turkana-boy dmanisi peking-man')
+addt('changed-understanding','snowball-earth lomekwi dmanisi altamira')
+addt('lost-evidence','peking-man diquis-spheres timbuktu-manuscripts')
+addt('disappearances','peking-man')
+addt('knowledge-and-power','peking-man altamira')
+addt('stories-proven-true','altamira')
+addt('serpent-beings','tsodilo-python')
+addt('creation-myths','tsodilo-python')
+addt('mummies','otzi')
+addt('lost-civilisations','diquis-spheres')
+addt('giant-monuments','diquis-spheres')
+addt('shapeshifters','apollo-11-cave')

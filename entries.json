@@ -323,7 +323,9 @@
     "science-cosmos",
     "archaeology"
    ],
-   "threads": []
+   "threads": [
+    "human-origins"
+   ]
   },
   {
    "id": "homo-sapiens",
@@ -369,7 +371,8 @@
     "archaeology"
    ],
    "threads": [
-    "changed-understanding"
+    "changed-understanding",
+    "human-origins"
    ]
   },
   {
@@ -484,7 +487,8 @@
     "archaeology"
    ],
    "threads": [
-    "changed-understanding"
+    "changed-understanding",
+    "human-origins"
    ]
   },
   {
@@ -4541,7 +4545,9 @@
     "archaeology",
     "science-cosmos"
    ],
-   "threads": []
+   "threads": [
+    "human-origins"
+   ]
   },
   {
    "id": "meroe",
@@ -4633,7 +4639,9 @@
     "science-cosmos",
     "archaeology"
    ],
-   "threads": []
+   "threads": [
+    "human-origins"
+   ]
   },
   {
    "id": "jomon-pottery",
@@ -6115,7 +6123,8 @@
     "history"
    ],
    "threads": [
-    "knowledge-and-power"
+    "knowledge-and-power",
+    "lost-evidence"
    ]
   },
   {
@@ -6474,7 +6483,8 @@
     "changed-understanding",
     "cryptids",
     "deep-oral-memory",
-    "giants-and-little-people"
+    "giants-and-little-people",
+    "human-origins"
    ]
   },
   {
@@ -8256,7 +8266,8 @@
     "archaeology"
    ],
    "threads": [
-    "changed-understanding"
+    "changed-understanding",
+    "human-origins"
    ]
   },
   {
@@ -12692,6 +12703,619 @@
    ],
    "threads": [
     "ufo-encounters"
+   ]
+  },
+  {
+   "id": "snowball-earth",
+   "title": "Snowball Earth: when the planet froze over?",
+   "lane": "history",
+   "status": "hypothesis",
+   "priority": 2,
+   "start": -717000000,
+   "end": -635000000,
+   "dateNote": "Sturtian c. 717–660 Ma; Marinoan c. 650–635 Ma",
+   "evidenceTypes": [
+    "geological",
+    "palaeomagnetic",
+    "geochemical"
+   ],
+   "mainstream": "A hypothesis that during the Cryogenian Period Earth's surface froze nearly entirely, in two major glacial episodes: the Sturtian (c. 717–660 million years ago) and the Marinoan (c. 650–635 million years ago). It explains glacial deposits laid down at tropical palaeolatitudes, banded iron formations and the \"cap carbonates\" (thick limestone or dolomite layers) that sit sharply on top of the glacial beds. Joseph Kirschvink coined the term in 1992 and proposed the escape mechanism: volcanic CO2 building up until an ultra-greenhouse melted the ice. Paul Hoffman and colleagues revived the idea in Science in 1998 using rocks in Namibia. The episodes came shortly before the Avalon and Cambrian radiations of multicellular life.",
+   "alternatives": [
+    {
+     "label": "Hard snowball",
+     "text": "Proponents argue a fully frozen ocean best explains low-latitude glacial deposits, cap carbonates and isotopic shifts."
+    },
+    {
+     "label": "Slushball Earth",
+     "text": "A competing view holds that a thin equatorial band of open (or seasonally open) water remained, which would make it easier for life to survive and for the planet to escape the icehouse."
+    },
+    {
+     "label": "Sceptics",
+     "text": "Opponents contest the geological evidence for global glaciation and the physical feasibility of an all-ice ocean; as of 2007 only one \"very reliable\" (still challenged) data point identified tropical tillites, and some cap carbonates may instead reflect methane release."
+    }
+   ],
+   "changed": "1871 onward: ancient glacial deposits found in Scotland, Australia, India and Norway. Douglas Mawson speculated about global glaciation but assumed fixed continents. 1964: W. Brian Harland shows tillites in Svalbard and Greenland formed at tropical latitudes. 1992: Kirschvink coins \"snowball Earth\". 1998: Hoffman et al. bring it to wide attention. 2010: Macdonald et al. report evidence that the Sturtian glaciation reached sea level near the equator.",
+   "sources": [
+    {
+     "title": "A Neoproterozoic Snowball Earth",
+     "authors": "Hoffman, P. et al.",
+     "year": 1998,
+     "doi": "10.1126/science.281.5381.1342",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: Snowball Earth",
+     "url": "https://en.wikipedia.org/wiki/Snowball_Earth",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Snowball_Huronian.jpg/500px-Snowball_Huronian.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Snowball_Huronian.jpg",
+     "author": "Oleg Kuznetsov - 3depix -  http://3depix.com/",
+     "license": "CC BY-SA 4.0",
+     "title": "Snowball_Huronian.jpg"
+    }
+   ],
+   "categories": [
+    "science-cosmos",
+    "catastrophes"
+   ],
+   "threads": [
+    "changed-understanding"
+   ]
+  },
+  {
+   "id": "lomekwi",
+   "title": "Lomekwi 3: stone tools older than humans",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -3300000,
+   "end": null,
+   "evidenceTypes": [
+    "archaeological",
+    "stratigraphic",
+    "palaeomagnetic"
+   ],
+   "mainstream": "In July 2011 a team led by Sonia Harmand and Jason Lewis took a wrong turn near Lake Turkana, Kenya, and found stone artefacts at a site they named Lomekwi 3. About 20 excavated artefacts (anvils, cores and flakes, one flake refitting to its core) and about 130 surface finds were dated, from volcanic ash layers and magnetic reversals, to 3.3 million years ago – about 700,000 years older than the Gona tools of Ethiopia and roughly 500,000 years older than the genus Homo. The tools are large (the biggest weighs 15 kg) and were assigned to a new tradition, the \"Lomekwian\". Published in Nature in May 2015.",
+   "alternatives": [
+    {
+     "label": "Who made them",
+     "text": "Because they predate Homo, the makers may have been Australopithecus or Kenyanthropus (found nearby); it is unclear whether the technology is ancestral to later Homo tools or was forgotten and reinvented."
+    },
+    {
+     "label": "Sceptical view",
+     "text": "Some researchers (e.g. Domínguez-Rodrigo and colleagues, 2019) have questioned whether the artefacts were securely in their original layer, and so the 3.3-million-year age; independent researchers who examined the tools were generally supportive of Harmand's conclusions."
+    },
+    {
+     "label": "Invisible older tool use",
+     "text": "Primate studies suggest a still older, archaeologically almost invisible \"organic tool age\" of plant and percussive tools may have come first."
+    }
+   ],
+   "sources": [
+    {
+     "title": "3.3-million-year-old stone tools from Lomekwi 3, West Turkana, Kenya",
+     "authors": "Harmand, S. et al.",
+     "year": 2015,
+     "doi": "10.1038/nature14464",
+     "type": "paper"
+    },
+    {
+     "title": "Pliocene Archaeology at Lomekwi 3? New Evidence Fuels More Skepticism",
+     "authors": "Dominguez-Rodrigo, M. et al.",
+     "year": 2019,
+     "doi": "10.1163/21915784-20190006",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: Lomekwi",
+     "url": "https://en.wikipedia.org/wiki/Lomekwi",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Lake_turkana_satellite.jpg/500px-Lake_turkana_satellite.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Lake_turkana_satellite.jpg",
+     "author": "Photograph:  NASA",
+     "license": "Public domain",
+     "title": "Lake_turkana_satellite.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "science-cosmos"
+   ],
+   "threads": [
+    "changed-understanding",
+    "human-origins"
+   ]
+  },
+  {
+   "id": "turkana-boy",
+   "title": "Turkana Boy (Nariokotome Boy)",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 3,
+   "start": -1600000,
+   "end": null,
+   "dateNote": "1.5–1.6 million years ago",
+   "evidenceTypes": [
+    "fossil",
+    "archaeological"
+   ],
+   "mainstream": "KNM-WT 15000, a nearly complete skeleton (108 bones) of a Homo erectus (or Homo ergaster) youth who lived 1.5–1.6 million years ago, found in 1984 by Kamoya Kimeu by the Nariokotome River near Lake Turkana, Kenya. It is the most complete Homo erectus skeleton ever found. He was tall for his age, with a narrow pelvis suited to fully terrestrial walking and a body shape that would shed heat under a hot sun, but kept a low forehead, strong brow ridges and no chin; brain size was about 880 cc.",
+   "alternatives": [
+    {
+     "label": "How old was he?",
+     "text": "Walker and Leakey (1993) estimated 11–12 years from bone maturity; later work assuming a less human-like growth pattern suggests about 8; overall estimates range from 7 to 11, which also changes estimates of his adult height."
+    },
+    {
+     "label": "Speech",
+     "text": "Whether his anatomy allowed human-like speech has been debated."
+    }
+   ],
+   "sources": [
+    {
+     "title": "The Nariokotome Homo Erectus Skeleton",
+     "authors": "",
+     "year": 1993,
+     "doi": "10.1007/978-3-662-10382-1",
+     "type": "paper"
+    },
+    {
+     "title": "Smithsonian Human Origins Program: KNM-WT 15000",
+     "url": "https://humanorigins.si.edu/evidence/human-fossils/fossils/knm-wt-15000",
+     "type": "museum"
+    },
+    {
+     "title": "Wikipedia: Turkana Boy",
+     "url": "https://en.wikipedia.org/wiki/Turkana_Boy",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [],
+   "categories": [
+    "science-cosmos",
+    "archaeology"
+   ],
+   "threads": [
+    "human-origins"
+   ]
+  },
+  {
+   "id": "dmanisi",
+   "title": "Dmanisi: the first humans outside Africa?",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -1850000,
+   "end": null,
+   "dateNote": "1.85–1.77 million years ago",
+   "evidenceTypes": [
+    "fossil",
+    "archaeological"
+   ],
+   "mainstream": "Fossils and stone tools from Dmanisi in Georgia (southern Caucasus) date to 1.85–1.77 million years ago, making them the earliest well-dated hominin fossils in Eurasia. Over a hundred postcranial bones and five well-preserved skulls (Dmanisi Skulls 1–5) show a mosaic: essentially modern legs for long-distance walking, but small bodies (145–166 cm) and small brains (545–775 cc) closer to Homo habilis, with ape-like arms. Their small size challenged the idea that only large-brained, tall Homo erectus could leave Africa.",
+   "alternatives": [
+    {
+     "label": "One variable species",
+     "text": "The Dmanisi team (Lordkipanidze et al., 2013, describing the complete Skull 5) argue all the skulls belong to one population with large age and sex differences, implying early Homo species named from African fossils may be one variable lineage."
+    },
+    {
+     "label": "Several species",
+     "text": "Others disagree; a massive jaw (D2600) was made the type of a separate species, Homo georgicus, in 2002, and a 2014 comment in Science disputed the single-species reading. The name is still debated."
+    }
+   ],
+   "sources": [
+    {
+     "title": "A Complete Skull from Dmanisi, Georgia, and the Evolutionary Biology of Early Homo",
+     "authors": "Lordkipanidze, D. et al.",
+     "year": 2013,
+     "doi": "10.1126/science.1238484",
+     "type": "paper"
+    },
+    {
+     "title": "Comment on “A Complete Skull from Dmanisi, Georgia, and the Evolutionary Biology of Early Homo ”",
+     "authors": "Schwartz, J. et al.",
+     "year": 2014,
+     "doi": "10.1126/science.1250056",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: Dmanisi hominins",
+     "url": "https://en.wikipedia.org/wiki/Dmanisi_hominins",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Homo_Georgicus_IMG_2921.JPG/500px-Homo_Georgicus_IMG_2921.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Homo_Georgicus_IMG_2921.JPG",
+     "author": "Rama",
+     "license": "Public domain",
+     "title": "Homo_Georgicus_IMG_2921.JPG"
+    }
+   ],
+   "categories": [
+    "science-cosmos",
+    "archaeology"
+   ],
+   "threads": [
+    "changed-understanding",
+    "human-origins"
+   ]
+  },
+  {
+   "id": "peking-man",
+   "title": "Peking Man and the fossils that vanished in 1941",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -780000,
+   "end": -230000,
+   "dateNote": "Deposits c. 800,000–230,000 years ago; fossils lost December 1941",
+   "evidenceTypes": [
+    "fossil",
+    "archaeological",
+    "historical records"
+   ],
+   "mainstream": "Homo erectus fossils from Zhoukoudian cave, about 50 km south-west of Beijing, appear in deposits from about 800,000 to 230,000 years ago (Shen et al. 2009 used aluminium-26/beryllium-10 burial dating, giving about 770,000 years for the lower layers). The first tooth was found in 1921 and Pei Wenzhong found a skullcap in 1929; Zhoukoudian became the most productive Homo erectus site in the world. During the Japanese occupation, the fossils of at least 40 individuals were packed into two footlockers for shipment to the American Museum of Natural History; after they left Peking Union Medical College on 4 December 1941 they were never seen again. Science survives through Franz Weidenreich's casts and descriptions.",
+   "alternatives": [
+    {
+     "label": "Fate of the fossils (unresolved)",
+     "text": "Rumours place them on a sunken ship (such as the Japanese Awa Maru), ground up as traditional medicine, or buried at Qinhuangdao, where a US Marine recalled finding a box of bones in 1947; Japanese and American groups have each been accused of taking them. Large rewards have produced nothing."
+    },
+    {
+     "label": "Out of Asia vs Out of Africa",
+     "text": "In the 1920s–30s Peking Man supported a Central Asian origin of humanity and later became a symbol in Chinese national and Marxist narratives; today Out of Africa is the consensus and Peking Man is seen as an offshoot, though some interbreeding with human ancestors is still discussed."
+    },
+    {
+     "label": "Hunters or prey?",
+     "text": "Whether Peking Man controlled fire and lived in the cave, or was killed by giant hyenas and dragged there, is debated."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Age of Zhoukoudian Homo erectus determined with 26Al/10Be burial dating",
+     "authors": "Shen, G. et al.",
+     "year": 2009,
+     "doi": "10.1038/nature07741",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: Peking Man",
+     "url": "https://en.wikipedia.org/wiki/Peking_Man",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Skull_pekingman.jpg/500px-Skull_pekingman.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Skull_pekingman.jpg",
+     "author": "kevinzim",
+     "license": "CC BY 2.0",
+     "title": "Skull_pekingman.jpg"
+    }
+   ],
+   "categories": [
+    "science-cosmos",
+    "archaeology",
+    "history",
+    "anomalies"
+   ],
+   "threads": [
+    "knowledge-and-power",
+    "disappearances",
+    "human-origins",
+    "lost-evidence"
+   ]
+  },
+  {
+   "id": "apollo-11-cave",
+   "title": "Apollo 11 Cave stones: Africa's oldest figurative art",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -28000,
+   "end": null,
+   "dateNote": "Painted slabs c. 30,000 years BP",
+   "evidenceTypes": [
+    "archaeological",
+    "radiocarbon",
+    "rock art"
+   ],
+   "mainstream": "A rock shelter in the ǀAi-ǀAis/Richtersveld park of south-western Namibia (Nama name \"Goachanas\"), occupied in pulses from about 71,000 to 29,000 years ago. Archaeologist Wolfgang Erich Wendt named it after the Apollo 11 Moon mission, which had just returned to Earth. Seven grey-brown quartzite slabs painted with animals, radiocarbon dated to about 30,000 years BP, are among the oldest figurative art in Africa; the most famous shows a therianthrope combining human hind legs, an antelope body and horns, and a feline head. They are now in the National Museum of Namibia, Windhoek. In 2007 the site was found \"severely vandalised\".",
+   "alternatives": [
+    {
+     "label": "Shamanic interpretation",
+     "text": "Many rock-art researchers read human–animal figures in southern African art as linked to San trance experience and transformation; whether that applies to images this old is an interpretation, not something the stones themselves can prove."
+    },
+    {
+     "label": "Hunting magic or story",
+     "text": "Other readings see the figures as hunting imagery or depictions of myth; the meaning of the composite figure is unknown."
+    }
+   ],
+   "sources": [
+    {
+     "title": "New Excavations of Middle Stone Age Deposits at Apollo 11 Rockshelter, Namibia: Stratigraphy, Archaeology, Chronology and Past Environments",
+     "authors": "Vogelsang, R. et al.",
+     "year": 2010,
+     "doi": "10.3213/1612-1651-10170",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: Apollo 11 Cave",
+     "url": "https://en.wikipedia.org/wiki/Apollo_11_Cave",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Apollo-11-cave-therianthrope.jpg/500px-Apollo-11-cave-therianthrope.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Apollo-11-cave-therianthrope.jpg",
+     "author": "Ratel",
+     "license": "CC0",
+     "title": "Apollo-11-cave-therianthrope.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "myth-legend"
+   ],
+   "threads": [
+    "shapeshifters"
+   ]
+  },
+  {
+   "id": "tsodilo-python",
+   "title": "Tsodilo Hills and the \"python stone\" ritual claim",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": -70000,
+   "end": null,
+   "dateNote": "Claimed c. 70,000 years ago; paintings up to c. 24,000 years old",
+   "evidenceTypes": [
+    "archaeological",
+    "rock art",
+    "oral tradition"
+   ],
+   "mainstream": "The Tsodilo Hills in north-west Botswana (UNESCO World Heritage, 2001) hold over 4,500 rock paintings at some 500 sites, a few dated to about 24,000 years ago, and are sacred to the San, who regard them as a resting place of the spirits of the dead and as the birthplace of all life. In 2006 Sheila Coulson of the University of Oslo announced that a rock in Rhino Cave resembling a python's head, carved with many cup-shaped hollows and associated with 70,000-year-old artefacts, was evidence of the earliest known human ritual.",
+   "alternatives": [
+    {
+     "label": "Earliest ritual (Coulson)",
+     "text": "The python-like rock and the cave's images of python, elephant and giraffe – the San's three most important animals – were read as a 70,000-year-old ritual site."
+    },
+    {
+     "label": "Critics",
+     "text": "Archaeologists who first investigated the site in 1995–96 pointed out that the cupules are not all the same age (some fresh, some heavily patinated), that over 20 nearby rocks have similar hollows without resembling animals, and that the site's dating does not support 70,000 years."
+    }
+   ],
+   "sources": [
+    {
+     "title": "UNESCO World Heritage Centre: Tsodilo",
+     "url": "https://whc.unesco.org/en/list/1021",
+     "type": "heritage body"
+    },
+    {
+     "title": "Wikipedia: Tsodilo",
+     "url": "https://en.wikipedia.org/wiki/Tsodilo",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Tsodilo_rock_paintings_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Tsodilo_rock_paintings_1.jpg",
+     "author": "cj Huo",
+     "license": "CC BY-SA 1.0",
+     "title": "Tsodilo_rock_paintings_1.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "religion",
+    "myth-legend"
+   ],
+   "threads": [
+    "serpent-beings",
+    "creation-myths"
+   ]
+  },
+  {
+   "id": "altamira",
+   "title": "Altamira: cave art dismissed as a forgery",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -36000,
+   "end": null,
+   "dateNote": "Earliest paintings c. 36,000 years ago; most famous polychromes much later",
+   "evidenceTypes": [
+    "archaeological",
+    "uranium-series dating"
+   ],
+   "mainstream": "In 1879 Marcelino Sanz de Sautuola's eight-year-old daughter María led him to the paintings in the Altamira cave in Cantabria, Spain (found in 1868 by tiler Modesto Cubillas). Sautuola and Juan Vilanova y Piera published them in 1880 as Palaeolithic, but leading French prehistorians such as Gabriel de Mortillet and Émile Cartailhac ridiculed the claim at the 1880 congress in Lisbon, partly because prehistoric people were assumed incapable of such art; Sautuola was accused of hiring a contemporary painter. After similar caves were found in France, Cartailhac published \"Mea culpa d'un sceptique\" in 1902, 14 years after Sautuola's death. Uranium-series dating (Pike et al. 2012) indicates that the earliest paintings there go back about 36,000 years.",
+   "alternatives": [
+    {
+     "label": "Forgery accusation (historical)",
+     "text": "Sceptics pointed to the lack of soot on the walls and the paintings' freshness; Sautuola later suggested lamps burning marrow fat would have produced little soot."
+    },
+    {
+     "label": "Lesson drawn",
+     "text": "The case is often cited as an example of experts rejecting evidence that conflicted with assumptions about \"primitive\" ancestors; it also shows the opposite risk, since real forgeries exist (see Piltdown)."
+    }
+   ],
+   "changed": "1880: published as Palaeolithic and widely rejected. 1902: Cartailhac's public retraction. 1985: UNESCO World Heritage. 2012: U-series dating pushes the earliest marks back to c. 36,000 years.",
+   "sources": [
+    {
+     "title": "U-Series Dating of Paleolithic Art in 11 Caves in Spain",
+     "authors": "Pike, A. et al.",
+     "year": 2012,
+     "doi": "10.1126/science.1219957",
+     "type": "paper"
+    },
+    {
+     "title": "UNESCO: Cave of Altamira and Paleolithic Cave Art of Northern Spain",
+     "url": "https://whc.unesco.org/en/list/310",
+     "type": "heritage body"
+    },
+    {
+     "title": "Wikipedia: Cave of Altamira",
+     "url": "https://en.wikipedia.org/wiki/Cave_of_Altamira",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/9_Bisonte_Magdaleniense_pol%C3%ADcromo.jpg/500px-9_Bisonte_Magdaleniense_pol%C3%ADcromo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:9_Bisonte_Magdaleniense_pol%C3%ADcromo.jpg",
+     "author": "Museo de Altamira y D. Rodríguez",
+     "license": "CC BY-SA 3.0",
+     "title": "9_Bisonte_Magdaleniense_polícromo.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history"
+   ],
+   "threads": [
+    "changed-understanding",
+    "stories-proven-true",
+    "knowledge-and-power"
+   ]
+  },
+  {
+   "id": "otzi",
+   "title": "Ötzi the Iceman",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -3250,
+   "end": null,
+   "dateNote": "Died c. 3275–3230 BCE; found 1991",
+   "evidenceTypes": [
+    "archaeological",
+    "forensic",
+    "genetic"
+   ],
+   "mainstream": "The natural mummy of a man who lived around 3275–3230 BCE, found on 19 September 1991 by hikers Helmut and Erika Simon at about 3,210 m near the Tisenjoch pass in the Ötztal Alps on the Austria–Italy border; at first he was taken for a recently dead mountaineer. He carried a copper axe with a yew handle, a flint knife and a quiver of 14 arrows. In 2001 X-rays revealed a flint arrowhead in his left shoulder; he probably bled to death, and he had cuts on his hands and a head injury. A 2023 genome found about 90% Anatolian-farmer ancestry, likely darker skin than present-day Europeans and probable baldness. He is in the South Tyrol Museum of Archaeology, Bolzano.",
+   "alternatives": [
+    {
+     "label": "Murder on the mountain",
+     "text": "Most researchers think he was killed by another person near where he lay; blood traces of several other people on his gear (2003, disputed) led to scenarios of a fight."
+    },
+    {
+     "label": "Burial theory",
+     "text": "A 2010 study (Vanzetti et al.) proposed he died lower down and was ceremonially placed on a stone platform higher up; other researchers argue his intact wound and bones show no sign of being moved."
+    }
+   ],
+   "sources": [
+    {
+     "title": "High-coverage genome of the Tyrolean Iceman reveals unusually high Anatolian farmer ancestry",
+     "authors": "Wang, K. et al.",
+     "year": 2023,
+     "doi": "10.1016/j.xgen.2023.100377",
+     "type": "paper"
+    },
+    {
+     "title": "South Tyrol Museum of Archaeology: Ötzi the Iceman",
+     "url": "https://www.iceman.it/en/the-iceman/",
+     "type": "museum"
+    },
+    {
+     "title": "Wikipedia: Ötzi",
+     "url": "https://en.wikipedia.org/wiki/%C3%96tzi",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Otzi-Quinson.jpg/500px-Otzi-Quinson.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Otzi-Quinson.jpg",
+     "author": "120",
+     "license": "CC BY-SA 3.0",
+     "title": "Otzi-Quinson.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history",
+    "science-cosmos"
+   ],
+   "threads": [
+    "mummies"
+   ]
+  },
+  {
+   "id": "diquis-spheres",
+   "title": "The stone spheres of Costa Rica",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 600,
+   "end": null,
+   "dateNote": "c. 600–1550 CE (uncertain)",
+   "evidenceTypes": [
+    "archaeological"
+   ],
+   "mainstream": "More than 300 stone balls on the Diquís Delta and Isla del Caño in southern Costa Rica, attributed to the Diquís culture, ranging from a few centimetres to over 2 metres across and up to 15 tons, mostly carved from gabbro by hammering and sand polishing. They are believed to date from about 600 CE, mostly after 1000 CE and before the Spanish conquest, but dating is hard because most have been moved. Banana-plantation workers of the United Fruit Company uncovered them in the 1930s and, hoping for hidden gold, dynamited some. Doris Stone published the first study in 1943 and Samuel Lothrop surveyed them in 1948. Their settlements became a UNESCO World Heritage Site in 2014.",
+   "alternatives": [
+    {
+     "label": "Mainstream meaning",
+     "text": "Archaeologists think they were placed in lines along the approach to chiefs' houses; their exact significance is uncertain, and some suggest they represent the sun and moon."
+    },
+    {
+     "label": "Atlantis and stone-softening (alternative)",
+     "text": "Popular myths say they came from Atlantis or were made with a potion that softens rock (geopolymer researcher Joseph Davidovits has been cited for this); most spheres are of acid-resistant gabbro."
+    },
+    {
+     "label": "\"Perfectly round\"? (claim examined)",
+     "text": "Claims of near-perfect roundness came from misreading Lothrop's tables, whose three-decimal figures were averages of tape measurements; some spheres vary by over 5 cm in diameter."
+    }
+   ],
+   "sources": [
+    {
+     "title": "UNESCO: Precolumbian Chiefdom Settlements with Stone Spheres of the Diquís",
+     "url": "https://whc.unesco.org/en/list/1453",
+     "type": "heritage body"
+    },
+    {
+     "title": "Wikipedia: Stone spheres of Costa Rica",
+     "url": "https://en.wikipedia.org/wiki/Stone_spheres_of_Costa_Rica",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Parque_de_las_Esferas_de_Costa_Rica.JPG/500px-Parque_de_las_Esferas_de_Costa_Rica.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Parque_de_las_Esferas_de_Costa_Rica.JPG",
+     "author": "Axxis10",
+     "license": "CC BY-SA 3.0",
+     "title": "Parque_de_las_Esferas_de_Costa_Rica.JPG"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "anomalies",
+    "lost-civilisations"
+   ],
+   "threads": [
+    "lost-civilisations",
+    "giant-monuments",
+    "lost-evidence"
    ]
   }
  ]
