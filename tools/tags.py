@@ -430,3 +430,23 @@ addt('otherworld-visits','green-children oisin')
 addt('sky-beings','green-children')
 addt('collective-experiences','dancing-plague salem')
 addt('disappearances','mary-celeste')
+C.update({
+'hawaiki':'myth-legend religion history',
+'min-min':'anomalies myth-legend aliens-ufo',
+'yowie':'myth-legend anomalies',
+'wendigo':'myth-legend religion',
+'foo-fighters':'aliens-ufo anomalies history',
+'dyatlov':'history anomalies',
+'chelyabinsk':'science-cosmos catastrophes',
+})
+addt('ancestral-homelands','hawaiki aztlan kupe wagadu-bida dangun')
+addt('ocean-voyagers','hawaiki')
+addt('mysterious-lights','min-min foo-fighters hessdalen-lights naga-fireballs kaikoura-1978 phoenix-lights colares-1977')
+addt('deep-oral-memory','min-min')
+addt('cryptids','yowie')
+addt('giants-and-little-people','yowie')
+addt('shapeshifters','wendigo popobawa')
+addt('ufo-encounters','foo-fighters')
+addt('disappearances','dyatlov')
+addt('cosmic-impacts','chelyabinsk')
+addt('sky-omens','chelyabinsk')

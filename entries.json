@@ -2822,7 +2822,8 @@
    ],
    "threads": [
     "ufo-encounters",
-    "collective-experiences"
+    "collective-experiences",
+    "mysterious-lights"
    ]
   },
   {
@@ -5120,7 +5121,8 @@
     "history"
    ],
    "threads": [
-    "ocean-voyagers"
+    "ocean-voyagers",
+    "ancestral-homelands"
    ]
   },
   {
@@ -5738,7 +5740,8 @@
     "myth-legend"
    ],
    "threads": [
-    "collective-experiences"
+    "collective-experiences",
+    "shapeshifters"
    ]
   },
   {
@@ -7598,7 +7601,8 @@
     "anomalies"
    ],
    "threads": [
-    "serpent-beings"
+    "serpent-beings",
+    "mysterious-lights"
    ]
   },
   {
@@ -7789,7 +7793,8 @@
     "anomalies"
    ],
    "threads": [
-    "ufo-encounters"
+    "ufo-encounters",
+    "mysterious-lights"
    ]
   },
   {
@@ -7887,7 +7892,8 @@
     "aliens-ufo"
    ],
    "threads": [
-    "ufo-encounters"
+    "ufo-encounters",
+    "mysterious-lights"
    ]
   },
   {
@@ -10226,7 +10232,8 @@
     "anomalies"
    ],
    "threads": [
-    "ufo-encounters"
+    "ufo-encounters",
+    "mysterious-lights"
    ]
   },
   {
@@ -11252,7 +11259,8 @@
     "sky-beings",
     "hidden-tombs",
     "knowledge-and-power",
-    "sacred-kingship"
+    "sacred-kingship",
+    "ancestral-homelands"
    ]
   },
   {
@@ -12446,7 +12454,8 @@
     "lost-civilisations",
     "deep-oral-memory",
     "sky-omens",
-    "hidden-kingdoms"
+    "hidden-kingdoms",
+    "ancestral-homelands"
    ]
   },
   {
@@ -14104,7 +14113,8 @@
     "serpent-beings",
     "civilisation-collapses",
     "sacred-kingship",
-    "rain-and-drought"
+    "rain-and-drought",
+    "ancestral-homelands"
    ]
   },
   {
@@ -14634,6 +14644,404 @@
    ],
    "threads": [
     "disappearances"
+   ]
+  },
+  {
+   "id": "hawaiki",
+   "title": "Hawaiki, the Polynesian homeland and land of the dead",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": 1280,
+   "end": null,
+   "dateNote": "Undated ancestral tradition; Māori arrival in Aotearoa c. late 13th century",
+   "evidenceTypes": [
+    "oral tradition",
+    "linguistic",
+    "genetic",
+    "archaeological"
+   ],
+   "mainstream": "In Polynesian tradition Hawaiki (ʻAvaiki in the Cook Islands, Savaiʻi in Samoa, Havaiʻi in Tahiti, Hawaiʻi in Hawaiʻi) is the original homeland from which ancestors sailed across the Pacific in open canoes; Māori trace their ancestry to groups arriving in Aotearoa in about 40 named waka. It is also the underworld to which spirits return after death – in New Zealand via Cape Reinga (Te Rerenga Wairua) at the northern tip. Linguists reconstruct the word as Proto-Nuclear Polynesian *sawaiki. Anne Salmond states that Havaiʻi is the old name of Raiatea; when Cook reached New Zealand in 1769, the Raiatean navigator Tupaia discussed Hawaiki and Rangiatea with Māori priests.",
+   "alternatives": [
+    {
+     "label": "A real island (Raiatea and the Society Islands)",
+     "text": "Many scholars identify the Māori Hawaiki with Raiatea (Havaiʻi) in the Society Islands; DNA, linguistic, botanical and archaeological evidence trace Polynesians ultimately to island East Asia, possibly Taiwan."
+    },
+    {
+     "label": "Ancestors rather than a place",
+     "text": "Because cognates mean \"spirits\" (Samoan saualiʻi) and \"chiefs\" (Tongan houʻeiki), some scholars think Hawaiki originally meant chiefly ancestors and the social order rather than one location."
+    },
+    {
+     "label": "Accidental drift vs deliberate voyaging",
+     "text": "Until the early 21st century many anthropologists thought settlement happened by accidental drift; revived double-hulled canoes sailing with traditional navigation (Polynesian Voyaging Society) have shown deliberate voyages were feasible. Thor Heyerdahl's 1947 Kon-Tiki raft argued for settlement from South America, which genetic evidence does not support, although sweet potatoes show some contact with the Americas."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Hawaiki",
+     "url": "https://en.wikipedia.org/wiki/Hawaiki",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Polynesian navigation",
+     "url": "https://en.wikipedia.org/wiki/Polynesian_navigation",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Hokule%27aSailing2009.jpg/500px-Hokule%27aSailing2009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Hokule%27aSailing2009.jpg",
+     "author": "HongKongHuey",
+     "license": "CC BY 2.0",
+     "title": "Hokule'aSailing2009.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion",
+    "history"
+   ],
+   "threads": [
+    "ocean-voyagers",
+    "ancestral-homelands"
+   ]
+  },
+  {
+   "id": "min-min",
+   "title": "The Min Min lights of outback Australia",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 1918,
+   "end": null,
+   "dateNote": "Aboriginal traditions predate colonisation; Min Min Hotel sighting 1918",
+   "evidenceTypes": [
+    "oral tradition",
+    "eyewitness"
+   ],
+   "mainstream": "Fuzzy, disc-shaped lights reported hovering just above the horizon in outback Australia, mostly in the Channel Country of western Queensland (Boulia), but also from Brewarrina in New South Wales to the Pilbara (reported by the Ngarluma people). Stories about them exist in several Aboriginal cultures from before colonisation; a stockman's sighting at the Min Min Hotel in 1918 is often cited, and a possible 1838 account may describe something else. In folklore the lights follow or approach people, vanish when shot at, keep pace with moving cars, and anyone who chases and catches them never returns.",
+   "alternatives": [
+    {
+     "label": "Fata Morgana mirage (Pettigrew)",
+     "text": "Scientist Jack Pettigrew proposed that a temperature inversion refracts distant lights from beyond the horizon – campfires in early accounts (stationary lights), car headlights later (moving lights)."
+    },
+    {
+     "label": "Bioluminescence or geophysics",
+     "text": "Pettigrew also floated glowing insects or owls, and piezoelectric or marsh-gas effects; no such animal has been found, and the lights are seen where the geology does not suit those effects."
+    },
+    {
+     "label": "Spirits or unknown phenomenon",
+     "text": "In Aboriginal traditions the lights are bound up with spirits and country; in settler folklore they are an eerie, unknowable presence. Similar \"ghost lights\" are reported worldwide (Hessdalen, Marfa, the Naga fireballs)."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Min Min light",
+     "url": "https://en.wikipedia.org/wiki/Min_Min_light",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Min-min-light-sign-boulia-outback-queensland-australia.jpg/500px-Min-min-light-sign-boulia-outback-queensland-australia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Min-min-light-sign-boulia-outback-queensland-australia.jpg",
+     "author": "www.gondwananet.com",
+     "license": "CC BY-SA 3.0",
+     "title": "Min-min-light-sign-boulia-outback-queensland-australia.jpg"
+    }
+   ],
+   "categories": [
+    "anomalies",
+    "myth-legend",
+    "aliens-ufo"
+   ],
+   "threads": [
+    "deep-oral-memory",
+    "mysterious-lights"
+   ]
+  },
+  {
+   "id": "yowie",
+   "title": "The Yowie, Australia's \"hairy man\"",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 3,
+   "start": 1875,
+   "end": null,
+   "dateNote": "\"Yō-wī\" recorded 1875; modern wave from the 1970s",
+   "evidenceTypes": [
+    "oral tradition",
+    "eyewitness"
+   ],
+   "mainstream": "An ape-like, hairy, bipedal creature of Australian folklore, 2.1–3.6 m tall, with origins in Aboriginal oral history, particularly in the eastern states, where it has many names (Quinkin in parts of Queensland; Ghindaring, Jurrawarra, Doolaga and others in New South Wales). Rev. William Ridley recorded \"Yō-wī\" among the Gamilaraay in 1875 as a spirit that roams at night. Nineteenth-century settlers wrote of the \"Yahoo\" or \"hairy man of the wood\"; newspaper reports of \"indigenous apes\" followed. A AU$200,000 reward offered in the mid-1970s for a captured Yowie was never claimed.",
+   "alternatives": [
+    {
+     "label": "Relict ape or early human (cryptozoology)",
+     "text": "Self-described cryptozoologist Rex Gilroy, who claims over 3,000 reports since the mid-1970s, argues for a surviving population of extinct apes or early Homo."
+    },
+    {
+     "label": "Folklore and misreading",
+     "text": "Historian Graham Joyner (1977) documented 19th-century \"yahoo\" reports and argues the modern Yowie barely existed before the mid-1970s and grew from conflating those accounts; footprint reports are inconsistent in shape and toe number."
+    },
+    {
+     "label": "Aboriginal tradition",
+     "text": "Some Aboriginal accounts describe the hairy beings as an ancient people or as spirits, a meaning distinct from the zoological \"ape\" framing."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Yowie",
+     "url": "https://en.wikipedia.org/wiki/Yowie",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Yowie-statue-Kilcoy-Queensland.JPG/500px-Yowie-statue-Kilcoy-Queensland.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Yowie-statue-Kilcoy-Queensland.JPG",
+     "author": "Seo75",
+     "license": "CC BY 2.5",
+     "title": "Yowie-statue-Kilcoy-Queensland.JPG"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "anomalies"
+   ],
+   "threads": [
+    "cryptids",
+    "giants-and-little-people"
+   ]
+  },
+  {
+   "id": "wendigo",
+   "title": "The Wendigo: the spirit of hunger",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": 1661,
+   "end": null,
+   "dateNote": "Traditional belief; recorded from 1661",
+   "evidenceTypes": [
+    "oral tradition",
+    "historical records",
+    "psychiatric"
+   ],
+   "mainstream": "In the beliefs of Algonquian-speaking peoples (Ojibwe, Saulteaux, Cree, Naskapi, Innu) the wendigo is a malevolent cannibal spirit linked with the north, winter, cold and famine: gaunt to emaciation, ash-grey, sometimes a giant that grows as it eats, with a heart of ice. It can possess people, giving them insatiable hunger for human flesh; people who broke the cannibalism taboo could become wendigos. The Jesuit Relations described such cases in 1661. In the winter of 1878 Plains Cree trapper Swift Runner killed and ate his family although emergency food supplies were within reach, and was later executed; in 1907 Oji-Cree leader Jack Fiddler, famed for defeating wendigos, was arrested for killing people believed to be turning wendigo.",
+   "alternatives": [
+    {
+     "label": "Wendigo psychosis (culture-bound syndrome)",
+     "text": "Psychiatrists described \"wendigo psychosis\", an intense craving for human flesh and fear of becoming a cannibal; in the 1980s researchers debated whether it was a real syndrome or a fabrication of credulous anthropologists, with others citing credible eyewitness accounts."
+    },
+    {
+     "label": "Moral and social meaning",
+     "text": "Many First Nations writers treat the wendigo as the embodiment of greed and selfishness; some communities see insatiable greed and environmental destruction as wendigo symptoms. A satirical famine dance (wiindigookaanzhimowin) reinforced the taboo."
+    },
+    {
+     "label": "Literary monster",
+     "text": "Algernon Blackwood's 1910 novella The Wendigo popularised the word in English horror fiction."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Wendigo",
+     "url": "https://en.wikipedia.org/wiki/Wendigo",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [],
+   "categories": [
+    "myth-legend",
+    "religion"
+   ],
+   "threads": [
+    "shapeshifters"
+   ]
+  },
+  {
+   "id": "foo-fighters",
+   "title": "Foo fighters: the lights that chased WWII pilots",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 1944,
+   "end": null,
+   "dateNote": "Reported 1942–1945; named November 1944",
+   "evidenceTypes": [
+    "eyewitness",
+    "military records"
+   ],
+   "mainstream": "Allied aircrews in the Second World War reported glowing balls and lights that seemed to follow their aircraft over Europe and the Pacific. RAF crews reported lights following them from as early as March 1942; the name came from the US 415th Night Fighter Squadron in November 1944, after radar operator Donald J. Meiers borrowed \"foo\" from the Smokey Stover comic strip (\"where there's foo, there's fire\"). On 13 December 1944 Allied headquarters in Paris described the phenomenon in a press release as a \"new German weapon\". In the Pacific, crews described a large burning sphere that \"just hung in the sky\".",
+   "alternatives": [
+    {
+     "label": "Enemy secret weapon (wartime view)",
+     "text": "Witnesses presumed they were German or Japanese devices; one wartime intelligence assessment suggested some were Me 262 jets or flak rockets while admitting the evidence was \"sketchy\"."
+    },
+    {
+     "label": "Natural or optical phenomena",
+     "text": "The 1953 Robertson Panel suggested electrostatic effects like St Elmo's fire, electromagnetic phenomena, or light reflecting from ice crystals; ball lightning has also been proposed."
+    },
+    {
+     "label": "Early UAP (ufology)",
+     "text": "Many ufologists see foo fighters as among the first military UAP encounters, a precursor of the 1947 \"flying saucer\" wave."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Foo fighter",
+     "url": "https://en.wikipedia.org/wiki/Foo_fighter",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Foo_Fighter_WWII_germany.png/500px-Foo_Fighter_WWII_germany.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Foo_Fighter_WWII_germany.png",
+     "author": "US Air Force",
+     "license": "Public domain",
+     "title": "Foo_Fighter_WWII_germany.png"
+    }
+   ],
+   "categories": [
+    "aliens-ufo",
+    "anomalies",
+    "history"
+   ],
+   "threads": [
+    "ufo-encounters",
+    "mysterious-lights"
+   ]
+  },
+  {
+   "id": "dyatlov",
+   "title": "The Dyatlov Pass incident",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 1959,
+   "end": null,
+   "dateNote": "1–2 February 1959",
+   "evidenceTypes": [
+    "forensic",
+    "historical records",
+    "modelling"
+   ],
+   "mainstream": "On the night of 1–2 February 1959 nine experienced ski hikers from the Ural Polytechnical Institute, led by Igor Dyatlov, cut their way out of their tent on the slopes of Kholat Syakhl in the northern Urals and fled, poorly dressed, into temperatures as low as −40 °C. Six died of hypothermia; three had severe trauma (skull and chest injuries without matching external wounds), and some bodies found in a creek in May lacked eyes or a tongue. The Soviet inquest concluded a \"compelling natural force\" had killed them and sealed the files. Russian prosecutors reopened the case in 2019 and in 2020 concluded that an avalanche most likely forced them out of the tent.",
+   "alternatives": [
+    {
+     "label": "Slab avalanche",
+     "text": "Gaume and Puzrin (2021) modelled how a small slab avalanche, triggered by cutting the slope for the tent and by wind-blown snow, could cause the injuries; critics note that the site showed no obvious signs of an avalanche, that more than 100 later expeditions reported no avalanche conditions, and that terrain analyses judge the spot unlikely for one."
+    },
+    {
+     "label": "Other natural causes",
+     "text": "Katabatic winds, infrasound-induced panic, or ball lightning."
+    },
+    {
+     "label": "Human or military causes",
+     "text": "Speculation has included an attack by Mansi reindeer herders (rejected by the original investigation), fugitives, a botched spy meeting, or military rocket or nuclear tests (some radiation was found on one victim's clothing)."
+    },
+    {
+     "label": "UFO and paranormal theories",
+     "text": "Another hiking group about 50 km south reported strange orange spheres in the sky that night, and similar spheres were reported in the area in February–March 1959 (witnesses came forward years later); these feed UFO theories, though nothing directly links them to the deaths."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Mechanisms of slab avalanche release and impact in the Dyatlov Pass incident in 1959",
+     "authors": "Gaume, J. et al.",
+     "year": 2021,
+     "doi": "10.1038/s43247-020-00081-8",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: Dyatlov Pass incident",
+     "url": "https://en.wikipedia.org/wiki/Dyatlov_Pass_incident",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA_%D0%B4%D1%8F%D1%82%D0%BB%D0%BE%D0%B2%D1%86%D0%B0%D0%BC_%D0%BD%D0%B0_%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%BC_%D0%BA%D0%BB%D0%B0%D0%B4%D0%B1%D0%B8%D1%89%D0%B5.jpg/500px-%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA_%D0%B4%D1%8F%D1%82%D0%BB%D0%BE%D0%B2%D1%86%D0%B0%D0%BC_%D0%BD%D0%B0_%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%BC_%D0%BA%D0%BB%D0%B0%D0%B4%D0%B1%D0%B8%D1%89%D0%B5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA_%D0%B4%D1%8F%D1%82%D0%BB%D0%BE%D0%B2%D1%86%D0%B0%D0%BC_%D0%BD%D0%B0_%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%BC_%D0%BA%D0%BB%D0%B0%D0%B4%D0%B1%D0%B8%D1%89%D0%B5.jpg",
+     "author": "Дмитрий Никишин.\n\nThe original uploader was Futball80 at Russian Wikipedia.",
+     "license": "Public domain",
+     "title": "Памятник_дятловцам_на_Михайловском_кладбище.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "anomalies"
+   ],
+   "threads": [
+    "disappearances"
+   ]
+  },
+  {
+   "id": "chelyabinsk",
+   "title": "The Chelyabinsk meteor",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 2013,
+   "end": null,
+   "dateNote": "15 February 2013",
+   "evidenceTypes": [
+    "scientific",
+    "video",
+    "infrasound"
+   ],
+   "mainstream": "On the morning of 15 February 2013 an undetected near-Earth asteroid about 18 m across and about 9,100 tonnes entered the atmosphere over the southern Urals at about 19 km/s and exploded at around 30 km altitude above Chelyabinsk Oblast. The flash was briefly brighter than the Sun and some witnesses felt its heat. The airburst released energy equivalent to 400–500 kilotonnes of TNT, about 30 times the Hiroshima bomb, measured by infrasound stations built to detect nuclear tests. The shock wave damaged about 7,200 buildings and injured 1,491 people, mostly from flying glass; no one died. A fragment punched a hole in frozen Lake Chebarkul. It was the largest object to enter the atmosphere since Tunguska in 1908.",
+   "alternatives": [
+    {
+     "label": "Coincidence with 2012 DA14",
+     "text": "It arrived on the same day as the predicted close pass of asteroid 2012 DA14 but on a different orbit; scientists regard the timing as coincidence."
+    },
+    {
+     "label": "Planetary defence",
+     "text": "It showed that objects approaching from the Sun's direction can arrive unseen, spurring calls for better surveys and an international warning network."
+    },
+    {
+     "label": "Ancient parallels (interpretation)",
+     "text": "Its video record of a fireball, blast and falling stones is sometimes compared with ancient accounts of fire from the sky and with the disputed Younger Dryas impact hypothesis."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Chelyabinsk Airburst, Damage Assessment, Meteorite Recovery, and Characterization",
+     "authors": "Popova, O. et al.",
+     "year": 2013,
+     "doi": "10.1126/science.1242642",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: Chelyabinsk meteor",
+     "url": "https://en.wikipedia.org/wiki/Chelyabinsk_meteor",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Meteorite_explosion_over_Chelyabinsk_on_February_15%2C_2013.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Meteorite_explosion_over_Chelyabinsk_on_February_15,_2013.gif",
+     "author": "Aleksandr Ivanov, Cropping and conversion to gif: Hike395",
+     "license": "CC BY 3.0",
+     "title": "Meteorite_explosion_over_Chelyabinsk_on_February_15,_2013.gif"
+    }
+   ],
+   "categories": [
+    "science-cosmos",
+    "catastrophes"
+   ],
+   "threads": [
+    "cosmic-impacts",
+    "sky-omens"
    ]
   }
  ]
