@@ -5778,7 +5778,8 @@
    ],
    "threads": [
     "flood-myths",
-    "serpent-beings"
+    "serpent-beings",
+    "rain-and-drought"
    ]
   },
   {
@@ -7231,7 +7232,8 @@
    "threads": [
     "flood-myths",
     "serpent-beings",
-    "creation-myths"
+    "creation-myths",
+    "rain-and-drought"
    ]
   },
   {
@@ -10889,7 +10891,8 @@
     "religion"
    ],
    "threads": [
-    "sacred-kingship"
+    "sacred-kingship",
+    "rain-and-drought"
    ]
   },
   {
@@ -13132,7 +13135,8 @@
    ],
    "threads": [
     "serpent-beings",
-    "creation-myths"
+    "creation-myths",
+    "rain-and-drought"
    ]
   },
   {
@@ -13601,7 +13605,7 @@
     "anomalies"
    ],
    "threads": [
-    "otherworld-time"
+    "otherworld-visits"
    ]
   },
   {
@@ -13656,7 +13660,7 @@
    ],
    "threads": [
     "world-ages-and-resets",
-    "otherworld-time"
+    "otherworld-visits"
    ]
   },
   {
@@ -13989,6 +13993,647 @@
    ],
    "threads": [
     "ancient-technology"
+   ]
+  },
+  {
+   "id": "library-alexandria",
+   "title": "The Library of Alexandria: burned once, or faded away?",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": -285,
+   "end": 391,
+   "dateNote": "Founded early 3rd century BCE; gradual decline to the 3rd–4th centuries CE",
+   "evidenceTypes": [
+    "textual",
+    "historical records"
+   ],
+   "mainstream": "Part of the Mouseion research institution in Alexandria, Egypt, probably built under Ptolemy II Philadelphus after plans attributed to Demetrius of Phalerum and Ptolemy I. The Ptolemies aggressively acquired papyrus scrolls (estimates range from 40,000 to 700,000), and scholars there included Callimachus (whose Pinakes is sometimes called the first library catalogue), Eratosthenes (who estimated Earth's circumference) and Hero (who described a steam engine). Its decline was gradual: a purge of intellectuals in 145 BCE under Ptolemy VIII, a fire during Julius Caesar's siege in 48 BCE (extent unclear; Strabo still visited the Mouseion c. 20 BCE), dwindling Roman support, and Aurelian's destruction of its quarter around 272 CE. The daughter library in the Serapeum was demolished in 391 CE under Bishop Theophilus.",
+   "alternatives": [
+    {
+     "label": "Single catastrophic burning (popular view)",
+     "text": "Popular culture often imagines one great fire destroying all ancient knowledge, blamed on Caesar, Christians or the Arab conquest."
+    },
+    {
+     "label": "Arab-conquest story (disputed)",
+     "text": "Later Arabic sources, the earliest being al-Qifti centuries afterwards, say Caliph Omar ordered the books burned after the conquest of 642 CE; since Eusèbe Renaudot (1713) most scholars have been sceptical because of the time gap and the authors' political motives."
+    },
+    {
+     "label": "Lost-knowledge speculation",
+     "text": "Some alternative writers suggest the library held records of lost civilisations or advanced science; there is no inventory to test this, and much classical literature survived through copies elsewhere."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Library of Alexandria",
+     "url": "https://en.wikipedia.org/wiki/Library_of_Alexandria",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Ancientlibraryalex.jpg/500px-Ancientlibraryalex.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Ancientlibraryalex.jpg",
+     "author": "O. Von Corven",
+     "license": "Public domain",
+     "title": "Ancientlibraryalex.jpg"
+    }
+   ],
+   "categories": [
+    "history"
+   ],
+   "threads": [
+    "knowledge-and-power",
+    "lost-evidence"
+   ]
+  },
+  {
+   "id": "wagadu-bida",
+   "title": "Wagadu and the serpent Bida",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": 300,
+   "end": null,
+   "dateNote": "Wagadu rose c. 3rd century CE; fell c. 1203",
+   "evidenceTypes": [
+    "oral tradition",
+    "textual",
+    "archaeological"
+   ],
+   "mainstream": "The Ghana Empire (Wagadu in Soninke), in what is now south-eastern Mauritania and western Mali, was described by Arab writers from the 9th century onward and fell to the Sosso around 1203. Soninke oral traditions say the ancestor Dinga came \"from the east\" and had to kill a serpent deity, Bida, or make a pact with it: one maiden sacrificed each year in return for rainfall (and in some versions a constant supply of gold). Wagadu fell when a noble killed Bida to save a maiden (against her wish), unleashing a curse of seven years of drought and famine; some versions add that the gold moved to Bure. Archaeology at Dhar Tichitt shows complex ancestral Soninke settlements by about 1600 BCE.",
+   "alternatives": [
+    {
+     "label": "Memory of real change (interpretation)",
+     "text": "Pythons are associated with water and the seasonal rains, and snake deities are prominent in West African religions; one reading is that the drought and the moving gold echo real Sahelian drying and the shift of gold production from Bambuk to Bure."
+    },
+    {
+     "label": "Foreign-origin theories (rejected)",
+     "text": "Some 16th–17th-century chronicles claimed Ghana's rulers were \"white\" Berbers; modern scholars generally reject this, and earlier Arab accounts describe Ghana's rulers as Black."
+    },
+    {
+     "label": "Myth as charter",
+     "text": "The serpent pact can be read as a charter legitimising the ruling clans and the sacred bond between king, rain and land, a pattern found in other sacred-kingship traditions."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Ghana Empire",
+     "url": "https://en.wikipedia.org/wiki/Ghana_Empire",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Ghana_empire_map.png/500px-Ghana_empire_map.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Ghana_empire_map.png",
+     "author": "Luxo",
+     "license": "CC BY-SA 3.0",
+     "title": "Ghana_empire_map.png"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion",
+    "history"
+   ],
+   "threads": [
+    "deep-oral-memory",
+    "serpent-beings",
+    "civilisation-collapses",
+    "sacred-kingship",
+    "rain-and-drought"
+   ]
+  },
+  {
+   "id": "gedi",
+   "title": "Gedi: the abandoned Swahili town in the forest",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1050,
+   "end": 1650,
+   "dateNote": "11th century to mid-17th century",
+   "evidenceTypes": [
+    "archaeological"
+   ],
+   "mainstream": "A walled medieval Swahili stone town in the Arabuko-Sokoke Forest near the coast of Kenya, occupied from as early as the 11th century and abandoned by the mid-17th century (UNESCO World Heritage: the Historic Town and Archaeological Site of Gedi). It has mosques, a palace, stone houses, grid streets, storm-water sumps and lavatories; finds include Chinese porcelain and coins, Islamic glazed wares, Venetian beads and cowries. Its prosperity peaked in the 15th–16th centuries. Excavated by James Kirkman from 1948. Local Giriama (Mijikenda) people regard it as sacred and say it is guarded by the spirits of its priests, the \"Old Ones\", who curse anyone who harms it.",
+   "alternatives": [
+    {
+     "label": "Why abandoned?",
+     "text": "Explanations include Portuguese attempts to monopolise trade and armed intervention, a falling water table (the well by the Great Mosque was deepened), a Wazimba raid along the coast in 1589, and Oromo migrations and raids."
+    },
+    {
+     "label": "Spirit-guarded ruin (local tradition)",
+     "text": "For many Giriama the site is still inhabited by ancestral and evil spirits; respecting it is a religious obligation rather than a mystery to be solved."
+    }
+   ],
+   "sources": [
+    {
+     "title": "UNESCO: The Historic Town and Archaeological Site of Gedi",
+     "url": "https://whc.unesco.org/en/list/1720",
+     "type": "heritage body"
+    },
+    {
+     "title": "Wikipedia: Ruins of Gedi",
+     "url": "https://en.wikipedia.org/wiki/Ruins_of_Gedi",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Great_Mosque_of_Gede.jpg/500px-Great_Mosque_of_Gede.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Great_Mosque_of_Gede.jpg",
+     "author": "Mgiganteus",
+     "license": "CC BY-SA 3.0",
+     "title": "Great_Mosque_of_Gede.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology",
+    "lost-civilisations"
+   ],
+   "threads": [
+    "civilisation-collapses"
+   ]
+  },
+  {
+   "id": "inkanyamba",
+   "title": "Inkanyamba, the storm serpent of Howick Falls",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 3,
+   "start": 1962,
+   "end": null,
+   "dateNote": "Traditional belief; modern sightings 1962–1995",
+   "evidenceTypes": [
+    "oral tradition",
+    "eyewitness"
+   ],
+   "mainstream": "In Zulu and Xhosa lore of South Africa, the inkanyamba (Xhosa: \"snake cloud\" or \"snake in the sky\", i.e. tornado) is a huge serpent whose coils reach from heaven to earth, the cause of tornadoes and a storm, water and hail power. It is said to live in rivers and pools of KwaZulu-Natal, above all the pool below Howick Falls on the Umgeni River (\"Howie\"), and around Hogsback in the Eastern Cape. Its anger brings summer storms; appeasing it brings rain and fertility. Shiny corrugated-iron roofs are said to attract it, mistaking them for water. A game ranger reported a horse-headed serpent on the Umgeni in 1962, with further local sightings in 1974, 1981 and 1995.",
+   "alternatives": [
+    {
+     "label": "Living creature (cryptozoology)",
+     "text": "Some treat the sightings as an unknown large eel or serpent."
+    },
+    {
+     "label": "Misidentification or hoax",
+     "text": "Commentators suggest Nile crocodiles, large eels or hoaxes to promote tourism."
+    },
+    {
+     "label": "Weather spirit",
+     "text": "In traditional belief it is better understood as the spirit of the storm itself, comparable to other African and Australian rain serpents."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Inkanyamba",
+     "url": "https://en.wikipedia.org/wiki/Inkanyamba",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Howick-Falls-November-2009.jpg/500px-Howick-Falls-November-2009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Howick-Falls-November-2009.jpg",
+     "author": "Bjørn Christian Tørrissen",
+     "license": "CC BY-SA 3.0",
+     "title": "Howick-Falls-November-2009.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "anomalies"
+   ],
+   "threads": [
+    "cryptids",
+    "serpent-beings",
+    "rain-and-drought"
+   ]
+  },
+  {
+   "id": "lake-nyos",
+   "title": "Lake Nyos: the lake that exploded",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1986,
+   "end": null,
+   "dateNote": "21 August 1986",
+   "evidenceTypes": [
+    "scientific",
+    "oral tradition"
+   ],
+   "mainstream": "On the night of 21 August 1986 Lake Nyos, a crater lake in north-western Cameroon, released some 100,000–300,000 tons of carbon dioxide in a limnic eruption. The heavier-than-air cloud flowed down the valleys and suffocated 1,746 people and 3,500 livestock up to about 25 km away. Two years earlier a similar event had occurred at Lake Monoun; these are the only two recorded limnic eruptions in modern history. Degassing pipes were installed from 2001, and by 2019 the lake had reached a near steady state.",
+   "alternatives": [
+    {
+     "label": "Legends of \"bad lakes\"",
+     "text": "Anthropologist Eugenia Shanklin documented that stories of misbehaving or exploding lakes had circulated in the Cameroon Grassfields for decades before 1986, collected over 80 years by ethnographers, administrators and missionaries; some read them as memories of earlier gas releases."
+    },
+    {
+     "label": "What triggered it?",
+     "text": "Most geologists suspect a landslide; others propose a small volcanic eruption on the lake bed or cold rainwater; some argue no trigger was needed because the CO2 layering is inherently unstable."
+    },
+    {
+     "label": "Biblical analogy (speculative)",
+     "text": "The 2006 documentary The Exodus Decoded used Lake Nyos to suggest a natural explanation for some biblical plagues."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Exploding lakes in myth and reality: an African case study",
+     "authors": "Shanklin, E.",
+     "year": 2007,
+     "doi": "10.1144/GSL.SP.2007.273.01.14",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: Lake Nyos disaster",
+     "url": "https://en.wikipedia.org/wiki/Lake_Nyos_disaster",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Tml15-16_Nc.jpg/500px-Tml15-16_Nc.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Tml15-16_Nc.jpg",
+     "author": "United States Geological Survey",
+     "license": "Public domain",
+     "title": "Tml15-16_Nc.jpg"
+    }
+   ],
+   "categories": [
+    "catastrophes",
+    "science-cosmos",
+    "myth-legend"
+   ],
+   "threads": [
+    "stories-proven-true",
+    "deep-oral-memory",
+    "volcanoes-and-memory"
+   ]
+  },
+  {
+   "id": "black-death",
+   "title": "The Black Death",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": 1346,
+   "end": 1353,
+   "dateNote": "1346–1353 in Europe",
+   "evidenceTypes": [
+    "textual",
+    "genetic",
+    "archaeological"
+   ],
+   "mainstream": "A plague pandemic that struck Europe, the Middle East and North Africa in 1346–1353, killing up to 50 million people: around 30–60% of Europe's population and about a third of the Middle East's. It was caused by the bacterium Yersinia pestis, confirmed by ancient-DNA studies of victims (Bos et al. 2011), and in 2022 genomes from 1338–39 graves near Lake Issyk-Kul in Kyrgyzstan, whose tombstones name \"pestilence\", pointed to its source in central Eurasia. It reached Europe via Genoese ships from Kaffa in Crimea in 1347. Europe's population did not recover its 14th-century level until the 16th century.",
+   "alternatives": [
+    {
+     "label": "Contemporary explanations",
+     "text": "The Paris Medical Faculty blamed a conjunction of planets causing \"a great pestilence in the air\"; many saw divine punishment, prompting flagellant movements; others blamed Jews, foreigners, lepers and beggars. In the Strasbourg massacre of February 1349 about 2,000 Jews were murdered."
+    },
+    {
+     "label": "How it spread (debated)",
+     "text": "The classic model is rat-flea-human; a 2018 model argued spread by human fleas and body lice fits death records better, and archaeologist Barney Sloane argued there is too little evidence of rat die-offs in medieval London."
+    }
+   ],
+   "sources": [
+    {
+     "title": "A draft genome of Yersinia pestis from victims of the Black Death",
+     "authors": "Bos, K. et al.",
+     "year": 2011,
+     "doi": "10.1038/nature10549",
+     "type": "paper"
+    },
+    {
+     "title": "The source of the Black Death in fourteenth-century central Eurasia",
+     "authors": "Spyrou, M. et al.",
+     "year": 2022,
+     "doi": "10.1038/s41586-022-04800-3",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: Black Death",
+     "url": "https://en.wikipedia.org/wiki/Black_Death",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/1346-1353_spread_of_the_Black_Death_in_Europe_map.svg/500px-1346-1353_spread_of_the_Black_Death_in_Europe_map.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:1346-1353_spread_of_the_Black_Death_in_Europe_map.svg",
+     "author": "Flappiefh",
+     "license": "CC BY-SA 4.0",
+     "title": "1346-1353_spread_of_the_Black_Death_in_Europe_map.svg"
+    }
+   ],
+   "categories": [
+    "history",
+    "catastrophes",
+    "science-cosmos"
+   ],
+   "threads": [
+    "changed-understanding",
+    "sky-omens",
+    "civilisation-collapses"
+   ]
+  },
+  {
+   "id": "green-children",
+   "title": "The Green Children of Woolpit",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": 1150,
+   "end": null,
+   "dateNote": "12th century (c. 1135–1154?)",
+   "evidenceTypes": [
+    "textual (chronicle)",
+    "folklore"
+   ],
+   "mainstream": "Two children with greenish skin reportedly appeared one summer in the 12th century (possibly under King Stephen, 1135–54) at Woolpit, Suffolk. They spoke an unknown language and would eat only raw broad beans; in time they ate other food and lost their colour, but the boy died. The girl, after learning English, said they came from a land where the sun never shone and the light was like twilight, called St Martin's Land (one version adds that everything there was green). The only near-contemporary accounts are by William of Newburgh (c. 1189) and Ralph of Coggeshall (1220s), who drew on Sir Richard de Calne.",
+   "alternatives": [
+    {
+     "label": "Lost Flemish children (Harris, 1998)",
+     "text": "Paul Harris proposed they were orphans of persecuted Flemish immigrants from Fornham St Martin, perhaps after the Battle of Fornham (1173), green from malnutrition (chlorosis); John Clark questioned his use of the evidence."
+    },
+    {
+     "label": "Otherworld or extraterrestrials",
+     "text": "Others see a folktale of visitors from another world, underground or extraterrestrial; Robert Burton (1621) said they \"fell from Heaven\", an idea used in Francis Godwin's early science fiction The Man in the Moone (1638)."
+    },
+    {
+     "label": "Ritual or literature",
+     "text": "Folklorist Martin Walsh reads it as a garbled harvest (Martinmas) ritual; some literary scholars see it as a chronicler's reflection on outsiders and identity; William Camden (1586) thought it a hoax."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Green children of Woolpit",
+     "url": "https://en.wikipedia.org/wiki/Green_children_of_Woolpit",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/WoolpitSign.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:WoolpitSign.jpg",
+     "author": "Rod Bacon",
+     "license": "CC BY-SA 2.0",
+     "title": "WoolpitSign.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "anomalies",
+    "aliens-ufo"
+   ],
+   "threads": [
+    "sky-beings",
+    "otherworld-visits"
+   ]
+  },
+  {
+   "id": "dancing-plague",
+   "title": "The dancing plague of 1518",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1518,
+   "end": null,
+   "dateNote": "July–September 1518",
+   "evidenceTypes": [
+    "textual",
+    "historical records"
+   ],
+   "mainstream": "From July to September 1518 between about 50 and 400 people in Strasbourg danced uncontrollably for days or weeks. It began on 14 July when a woman, Frau Troffea, started dancing in the street; within days more than thirty joined her. Physician notes, cathedral sermons, chronicles and city-council records agree that people danced; they do not say why. Dancers collapsed from exhaustion and some may have died, though the number of deaths is disputed and some claims (up to 15 a day) come from later accounts. The outbreak subsided in early September.",
+   "alternatives": [
+    {
+     "label": "Stress-induced mass psychogenic illness (Waller)",
+     "text": "Historian John Waller argues that famine, disease and fear of supernatural punishment (such as St Vitus's curse) put people into an altered state in which dancing spread; it is the most popular explanation."
+    },
+    {
+     "label": "Ergot poisoning",
+     "text": "Some propose ergotism from fungus-infected rye; Waller replies that ergot victims could hardly dance for days and would not all react the same way."
+    },
+    {
+     "label": "Divine punishment (contemporary view)",
+     "text": "Many in Strasbourg feared a punishment from Saint Vitus, believed to compel sinners to dance. Physicians prescribed dancing it out, with guild halls and musicians reportedly provided; when that backfired the council banned public dancing and music and sent dancers to the shrine of St Vitus with red shoes, crosses and holy water. Earlier dancing manias (St Vitus's and St John's dances) occurred in medieval central Europe."
+    }
+   ],
+   "sources": [
+    {
+     "title": "A forgotten plague: making sense of dancing mania",
+     "authors": "Waller, J.",
+     "year": 2009,
+     "doi": "10.1016/S0140-6736(09)60386-X",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: Dancing plague of 1518",
+     "url": "https://en.wikipedia.org/wiki/Dancing_plague_of_1518",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Dancingplague2_%28alt%29.jpg/500px-Dancingplague2_%28alt%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Dancingplague2_(alt).jpg",
+     "author": "Unknown authorUnknown author",
+     "license": "Public domain",
+     "title": "Dancingplague2_(alt).jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "anomalies"
+   ],
+   "threads": [
+    "collective-experiences"
+   ]
+  },
+  {
+   "id": "salem",
+   "title": "The Salem witch trials",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1692,
+   "end": 1693,
+   "dateNote": "February 1692 – May 1693",
+   "evidenceTypes": [
+    "historical records",
+    "court records"
+   ],
+   "mainstream": "Between February 1692 and May 1693 more than 200 people in colonial Massachusetts were accused of witchcraft, starting in Salem Village (now Danvers) when girls including Betty Parris and Abigail Williams showed fits. Thirty were found guilty and nineteen hanged; Giles Corey died under torture for refusing to plead, and at least five died in jail. Much evidence was \"spectral evidence\" – testimony that the accused's apparition tormented the afflicted. The trials ended when leading clergy doubted that evidence. Several accusers later admitted fabricating charges; the convictions were annulled in 1711, more victims were exonerated in 1957 and 2001, and the last, Elizabeth Johnson Jr., in 2022.",
+   "alternatives": [
+    {
+     "label": "Mass hysteria and social conflict",
+     "text": "Historians link the panic to stress from frontier wars with Native Americans, village factional feuds (e.g. the Putnam family), and jealousy, spite and need for attention."
+    },
+    {
+     "label": "Ergot poisoning",
+     "text": "Linnda Caporael (1976) proposed convulsive ergotism from infected rye bread; critics argue the symptoms and pattern do not fit well."
+    },
+    {
+     "label": "Other medical theories",
+     "text": "Researchers have also suggested bird-borne encephalitis lethargica and sleep paralysis for the night-time \"attacks\"."
+    },
+    {
+     "label": "Real witchcraft (contemporary view)",
+     "text": "Most people at the time, including the judges, believed the Devil was really at work; some ministers such as Increase Mather urged caution about spectral evidence."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Ergotism: The Satan Loosed in Salem?",
+     "authors": "Caporael, L.",
+     "year": 1976,
+     "doi": "10.1126/science.769159",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: Salem witch trials",
+     "url": "https://en.wikipedia.org/wiki/Salem_witch_trials",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Salem_witch2.jpg/500px-Salem_witch2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Salem_witch2.jpg",
+     "author": "Joseph E., ca. 1837-1914, artist.",
+     "license": "Public domain",
+     "title": "Salem_witch2.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "religion"
+   ],
+   "threads": [
+    "collective-experiences",
+    "knowledge-and-power"
+   ]
+  },
+  {
+   "id": "oisin",
+   "title": "Oisín in Tír na nÓg: three years that were three hundred",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 3,
+   "start": 300,
+   "end": null,
+   "dateNote": "Fenian Cycle setting c. 3rd century CE; surviving texts medieval",
+   "evidenceTypes": [
+    "textual",
+    "folklore"
+   ],
+   "mainstream": "In Irish myth (the Fenian Cycle), Oisín, poet son of Fionn mac Cumhaill, is taken by the fairy woman Niamh of the Golden Hair to Tír na nÓg, \"the land of the young\". After what seems three years he wants to see his comrades, the Fianna. Niamh lends him her white horse and warns him not to touch the ground. In Ireland he finds that 300 years have passed; leaning to help men move a stone, he falls from the horse and instantly becomes a withered old man. In some versions he tells the stories of the Fianna to Saint Patrick before he dies.",
+   "alternatives": [
+    {
+     "label": "Christian frame",
+     "text": "The meeting with Saint Patrick (as in the Acallam na Senórach) sets the old heroes against the new faith; versions differ on whether Oisín defends druidism or converts."
+    },
+    {
+     "label": "Cross-cultural motif",
+     "text": "It closely parallels Urashima Tarō (Japan) and King Kakudmi (India): time runs differently in the otherworld and the return home is catastrophic; folklorists class such tales together (ATU 681 and related)."
+    },
+    {
+     "label": "Modern readings (speculative)",
+     "text": "Some modern writers liken such stories to time dilation or to \"missing time\" in UFO narratives."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Oisín",
+     "url": "https://en.wikipedia.org/wiki/Ois%C3%ADn",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Tír na nÓg",
+     "url": "https://en.wikipedia.org/wiki/T%C3%ADr_na_n%C3%93g",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Irishfairytales01step_0137.jpg/500px-Irishfairytales01step_0137.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Irishfairytales01step_0137.jpg",
+     "author": "Arthur Rackham",
+     "license": "Public domain",
+     "title": "Irishfairytales01step_0137.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend"
+   ],
+   "threads": [
+    "otherworld-visits"
+   ]
+  },
+  {
+   "id": "mary-celeste",
+   "title": "The Mary Celeste: the ship found empty",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1872,
+   "end": null,
+   "dateNote": "Found 4 December 1872",
+   "evidenceTypes": [
+    "historical records",
+    "court records"
+   ],
+   "mainstream": "On 4 December 1872 the Canadian brigantine Dei Gratia found the American-registered Mary Celeste adrift and deserted between the Azores and Portugal, seaworthy, under partial sail, with her lifeboat missing. She had left New York for Genoa on 7 November with Captain Benjamin Briggs, his wife and infant daughter and seven crew, and a cargo of 1,701 barrels of alcohol. The last log entry (25 November) put her off Santa Maria in the Azores. Cargo, provisions and personal belongings were intact; no one aboard was ever seen again. The Gibraltar salvage hearings considered mutiny, piracy and insurance fraud but found no convincing evidence.",
+   "alternatives": [
+    {
+     "label": "Abandoned in fear",
+     "text": "A widely discussed explanation is that the crew took to the lifeboat as a temporary precaution (e.g. fearing the alcohol cargo or a leak) and lost the ship; Briggs's cousin Oliver Cobb suggested such a temporary transfer."
+    },
+    {
+     "label": "Other natural hypotheses",
+     "text": "Alcohol fumes from the cargo, a seaquake, waterspouts, or attack by a giant squid."
+    },
+    {
+     "label": "Paranormal and fiction",
+     "text": "Arthur Conan Doyle's 1884 story \"J. Habakuk Jephson's Statement\" added false details (and the \"Marie Celeste\" spelling); paranormal explanations followed. In 1885 a later captain deliberately wrecked her off Haiti in an insurance fraud."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Mary Celeste",
+     "url": "https://en.wikipedia.org/wiki/Mary_Celeste",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Mary_Celeste_as_Amazon_in_1861_%28cropped%29.jpg/500px-Mary_Celeste_as_Amazon_in_1861_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Mary_Celeste_as_Amazon_in_1861_(cropped).jpg",
+     "author": "Unconfirmed, possibly Honore Pellegrin (1800–c.1870). This speculative attribution is suggested in Paul Begg: Mary Celes",
+     "license": "Public domain",
+     "title": "Mary_Celeste_as_Amazon_in_1861_(cropped).jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "anomalies"
+   ],
+   "threads": [
+    "disappearances"
    ]
   }
  ]

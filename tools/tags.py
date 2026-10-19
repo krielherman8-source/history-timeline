@@ -397,7 +397,36 @@ addt('lost-evidence','jiroft')
 addt('hidden-tombs','mozu-kofun')
 addt('sacred-kingship','mozu-kofun')
 addt('giant-monuments','mozu-kofun kailasa')
-addt('otherworld-time','urashima-taro kakudmi')
+addt('otherworld-visits','urashima-taro kakudmi')
 addt('world-ages-and-resets','kakudmi shambhala')
 addt('sky-beings','kaguya-hime')
 addt('cryptids','yeti death-worm')
+C.update({
+'library-alexandria':'history',
+'wagadu-bida':'myth-legend religion history',
+'gedi':'history archaeology lost-civilisations',
+'inkanyamba':'myth-legend anomalies',
+'lake-nyos':'catastrophes science-cosmos myth-legend',
+'black-death':'history catastrophes science-cosmos',
+'green-children':'myth-legend anomalies aliens-ufo',
+'dancing-plague':'history anomalies',
+'salem':'history religion',
+'oisin':'myth-legend',
+'mary-celeste':'history anomalies',
+})
+addt('lost-evidence','library-alexandria')
+addt('knowledge-and-power','library-alexandria salem')
+addt('serpent-beings','wagadu-bida inkanyamba')
+addt('civilisation-collapses','wagadu-bida gedi black-death')
+addt('sacred-kingship','wagadu-bida')
+addt('rain-and-drought','rain-queen wagadu-bida inkanyamba rainbow-serpent tsodilo-python nyaminyami')
+addt('cryptids','inkanyamba')
+addt('deep-oral-memory','lake-nyos wagadu-bida')
+addt('stories-proven-true','lake-nyos')
+addt('volcanoes-and-memory','lake-nyos')
+addt('sky-omens','black-death')
+addt('changed-understanding','black-death')
+addt('otherworld-visits','green-children oisin')
+addt('sky-beings','green-children')
+addt('collective-experiences','dancing-plague salem')
+addt('disappearances','mary-celeste')
