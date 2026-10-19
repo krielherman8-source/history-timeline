@@ -373,3 +373,31 @@ addt('mummies','otzi')
 addt('lost-civilisations','diquis-spheres')
 addt('giant-monuments','diquis-spheres')
 addt('shapeshifters','apollo-11-cave')
+C.update({
+'delhi-iron-pillar':'archaeology history anomalies',
+'nine-unknown-men':'myth-legend hoaxes',
+'jiroft':'archaeology history lost-civilisations',
+'mozu-kofun':'archaeology history',
+'urashima-taro':'myth-legend anomalies',
+'kakudmi':'myth-legend religion',
+'kaguya-hime':'myth-legend aliens-ufo',
+'kailasa':'archaeology history religion',
+'shambhala':'myth-legend religion lost-civilisations',
+'yeti':'myth-legend anomalies',
+'death-worm':'myth-legend anomalies',
+'baigong-pipes':'anomalies hoaxes',
+})
+addt('ancient-technology','delhi-iron-pillar baigong-pipes')
+addt('outsider-builder-claims','delhi-iron-pillar kailasa')
+addt('knowledge-and-power','nine-unknown-men mozu-kofun')
+addt('hidden-kingdoms','nine-unknown-men shambhala prester-john el-dorado aztlan iram-ubar')
+addt('origins-of-writing','jiroft')
+addt('lost-civilisations','jiroft shambhala')
+addt('lost-evidence','jiroft')
+addt('hidden-tombs','mozu-kofun')
+addt('sacred-kingship','mozu-kofun')
+addt('giant-monuments','mozu-kofun kailasa')
+addt('otherworld-time','urashima-taro kakudmi')
+addt('world-ages-and-resets','kakudmi shambhala')
+addt('sky-beings','kaguya-hime')
+addt('cryptids','yeti death-worm')

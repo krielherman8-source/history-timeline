@@ -6233,7 +6233,8 @@
    ],
    "threads": [
     "lost-civilisations",
-    "hoaxes-exposed"
+    "hoaxes-exposed",
+    "hidden-kingdoms"
    ]
   },
   {
@@ -7460,7 +7461,8 @@
    ],
    "threads": [
     "lost-civilisations",
-    "stories-proven-true"
+    "stories-proven-true",
+    "hidden-kingdoms"
    ]
   },
   {
@@ -11587,7 +11589,8 @@
    ],
    "threads": [
     "lost-civilisations",
-    "lost-continents"
+    "lost-continents",
+    "hidden-kingdoms"
    ]
   },
   {
@@ -12439,7 +12442,8 @@
    "threads": [
     "lost-civilisations",
     "deep-oral-memory",
-    "sky-omens"
+    "sky-omens",
+    "hidden-kingdoms"
    ]
   },
   {
@@ -13316,6 +13320,675 @@
     "lost-civilisations",
     "giant-monuments",
     "lost-evidence"
+   ]
+  },
+  {
+   "id": "delhi-iron-pillar",
+   "title": "The iron pillar of Delhi: \"the pillar that does not rust\"",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 400,
+   "end": null,
+   "dateNote": "c. 375–415 CE (Chandragupta II); moved to Delhi in the 11th century",
+   "evidenceTypes": [
+    "archaeological",
+    "metallurgical",
+    "textual"
+   ],
+   "mainstream": "A 7.21 m iron pillar (1.12 m below ground), 41 cm in diameter and weighing more than six tonnes, now in the Qutb complex at Mehrauli, Delhi. Its oldest Sanskrit inscription, in Gupta script, records a king \"Chandra\" – generally identified as Chandragupta II (r. c. 375–415 CE) – raising a standard of Vishnu on a hill called Vishnupada. It was probably first set up elsewhere (possibly outside the Udayagiri Caves) and moved to Delhi by Anangpal Tomar in the 11th century. Its famous resistance to corrosion comes from an even protective layer of crystalline iron hydrogen phosphate hydrate forming on its high-phosphorus iron.",
+   "alternatives": [
+    {
+     "label": "Ancient astronauts (claim and retraction)",
+     "text": "In Chariots of the Gods? (1969) Erich von Däniken cited its lack of corrosion and \"unknown\" manufacture as evidence of extraterrestrial visitation; told in a 1974 interview that it does rust and that its making is understood, he said he no longer considered it a mystery."
+    },
+    {
+     "label": "Metallurgical view",
+     "text": "Materials scientist R. Balasubramaniam called it \"a living testimony to the skill of metallurgists of ancient India\"; 2009 research found that corrosion has developed evenly over its surface."
+    }
+   ],
+   "sources": [
+    {
+     "title": "On the corrosion resistance of the Delhi iron pillar",
+     "authors": "Balasubramaniam, R.",
+     "year": 2000,
+     "doi": "10.1016/S0010-938X(00)00046-9",
+     "type": "paper"
+    },
+    {
+     "title": "UNESCO: Qutb Minar and its Monuments, Delhi",
+     "url": "https://whc.unesco.org/en/list/233",
+     "type": "heritage body"
+    },
+    {
+     "title": "Wikipedia: Iron pillar of Delhi",
+     "url": "https://en.wikipedia.org/wiki/Iron_pillar_of_Delhi",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Iron_Pillar%2C_Delhi%2C_May_2008.jpg/500px-Iron_Pillar%2C_Delhi%2C_May_2008.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Iron_Pillar,_Delhi,_May_2008.jpg",
+     "author": "Photograph taken by Mark A. Wilson (Department of Geology, The College of Wooster).\n\n[1]",
+     "license": "Public domain",
+     "title": "Iron_Pillar,_Delhi,_May_2008.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history",
+    "anomalies"
+   ],
+   "threads": [
+    "ancient-technology",
+    "outsider-builder-claims"
+   ]
+  },
+  {
+   "id": "nine-unknown-men",
+   "title": "The Nine Unknown Men of Ashoka",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 3,
+   "start": -270,
+   "end": null,
+   "dateNote": "Claimed founding c. 270 BCE; first known as a story in 1923",
+   "evidenceTypes": [
+    "literary",
+    "speculative"
+   ],
+   "mainstream": "A legend of a secret society of nine men guarding nine books of dangerous knowledge. Its best-known form is Talbot Mundy's 1923 adventure novel The Nine Unknown, serialised in Adventure magazine, in which the Nine protect the ancient wisdom of Hindu sages. In their 1960 book The Morning of the Magicians, Louis Pauwels and Jacques Bergier claimed the Nine were real, founded by the Mauryan emperor Ashoka around 270 BCE, that Pope Silvester II had met them, and that the 19th-century French writer Louis Jacolliot had insisted on their existence. No historical source for the society is known; it has since inspired many novels and TV series.",
+   "alternatives": [
+    {
+     "label": "Real secret society (claim)",
+     "text": "Pauwels and Bergier presented the Nine as a real, ongoing guardianship of suppressed science; later fiction adds knowledge of time travel and contact with extraterrestrials."
+    },
+    {
+     "label": "Literary origin",
+     "text": "Mainstream view: the idea is modern literary and esoteric invention, popularised by a novel and an occult bestseller; no historical source for it is known."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: The Nine Unknown",
+     "url": "https://en.wikipedia.org/wiki/The_Nine_Unknown",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Ashoka",
+     "url": "https://en.wikipedia.org/wiki/Ashoka",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Ashoka%27s_visit_to_the_Ramagrama_stupa_Sanchi_Stupa_1_Southern_gateway.jpg/500px-Ashoka%27s_visit_to_the_Ramagrama_stupa_Sanchi_Stupa_1_Southern_gateway.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Ashoka%27s_visit_to_the_Ramagrama_stupa_Sanchi_Stupa_1_Southern_gateway.jpg",
+     "author": "Photo Dharma from Sadao, Thailand",
+     "license": "CC BY 2.0",
+     "title": "Ashoka's_visit_to_the_Ramagrama_stupa_Sanchi_Stupa_1_Southern_gateway.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "hoaxes"
+   ],
+   "threads": [
+    "knowledge-and-power",
+    "hidden-kingdoms"
+   ]
+  },
+  {
+   "id": "jiroft",
+   "title": "Jiroft: a lost Bronze Age civilisation in Iran?",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": -2500,
+   "end": -2200,
+   "dateNote": "Heyday c. 2500–2200 BCE",
+   "evidenceTypes": [
+    "archaeological",
+    "textual"
+   ],
+   "mainstream": "An early Bronze Age culture of south-eastern Iran (Kerman and Sistan-Baluchestan), also called the \"Intercultural\" or Halil Rud style. Before 2001, looters south of Jiroft dug up many carved vessels in the \"Intercultural style\"; Iranian authorities recovered many, and from 2001 a team led by Yusef Majidzadeh excavated two mounds, Konar Sandal A and B, finding a citadel and over two square kilometres of a city whose heyday was c. 2500–2200 BCE. Majidzadeh proposed an independent civilisation between Elam and the Indus Valley, with its own architecture and language.",
+   "alternatives": [
+    {
+     "label": "Aratta (Majidzadeh)",
+     "text": "Majidzadeh identified Jiroft with Aratta, the rich land of Sumerian epics; many scholars are sceptical, and others (e.g. Daniel Potts, Piotr Steinkeller) connect Konar Sandal with Marhashi, a state east of Elam."
+    },
+    {
+     "label": "Earliest writing? (disputed)",
+     "text": "Inscribed bricks and tablets from Konar Sandal, in a geometric script that Majidzadeh related to Elamite writing, were promoted as possibly the oldest writing; a 2007 Science news article asked \"Ancient writing or modern fakery?\", reflecting doubts about some objects."
+    },
+    {
+     "label": "Criticism",
+     "text": "Oscar Muscarella of the Metropolitan Museum criticised sensational announcements and slow scholarly publication, while still acknowledging the site's importance."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Ancient Writing or Modern Fakery?",
+     "authors": "Lawler, A.",
+     "year": 2007,
+     "doi": "10.1126/science.317.5838.588",
+     "type": "paper"
+    },
+    {
+     "title": "Excavations at Konar Sandal in the Region of Jiroft in the Halil Basin: First Preliminary Report (2002–2008)",
+     "authors": "Madjidzadeh, Y. et al.",
+     "year": 2008,
+     "doi": "10.1080/05786967.2008.11864738",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: Jiroft culture",
+     "url": "https://en.wikipedia.org/wiki/Jiroft_culture",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [],
+   "categories": [
+    "archaeology",
+    "history",
+    "lost-civilisations"
+   ],
+   "threads": [
+    "lost-civilisations",
+    "origins-of-writing",
+    "lost-evidence"
+   ]
+  },
+  {
+   "id": "mozu-kofun",
+   "title": "Daisen Kofun: Japan's giant tomb that may not be opened",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 450,
+   "end": null,
+   "dateNote": "Mid-5th century CE",
+   "evidenceTypes": [
+    "archaeological",
+    "textual"
+   ],
+   "mainstream": "The Daisenryō Kofun in Sakai, Osaka, is the largest of Japan's more than 20,000 burial mounds (3rd–7th centuries): a keyhole-shaped tumulus 486 m long, ringed by moats and thought to have been built over about 20 years in the mid-5th century. It is commonly accepted, though it cannot be confirmed, to be the tomb of Emperor Nintoku, and the Imperial Household Agency treats it as such: the mound is off-limits, overgrown and protected as an imperial mausoleum. It belongs to the Mozu-Furuichi Kofun Group, a UNESCO World Heritage Site since 2019; more than half of the Mozu mounds were destroyed by post-war housing development.",
+   "alternatives": [
+    {
+     "label": "Who is buried?",
+     "text": "The identification with Nintoku follows tradition; because the mound is closed as an imperial mausoleum it cannot be tested by excavation."
+    },
+    {
+     "label": "Open or closed? (two views)",
+     "text": "Kofun-period finds show close links with the Korean peninsula (shared armour styles, mirrors from the same moulds, immigrant toraijin clans). Some see closed imperial tombs as limiting inquiry into such questions; others see the closure as proper protection of sacred imperial graves."
+    }
+   ],
+   "sources": [
+    {
+     "title": "UNESCO: Mozu-Furuichi Kofun Group: Mounded Tombs of Ancient Japan",
+     "url": "https://whc.unesco.org/en/list/1593",
+     "type": "heritage body"
+    },
+    {
+     "title": "Wikipedia: Mozu Kofun Group",
+     "url": "https://en.wikipedia.org/wiki/Mozu_Kofun_Group",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Kofun period",
+     "url": "https://en.wikipedia.org/wiki/Kofun_period",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [],
+   "categories": [
+    "archaeology",
+    "history"
+   ],
+   "threads": [
+    "giant-monuments",
+    "hidden-tombs",
+    "knowledge-and-power",
+    "sacred-kingship"
+   ]
+  },
+  {
+   "id": "urashima-taro",
+   "title": "Urashima Tarō: the fisherman who lost 300 years",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": 478,
+   "end": null,
+   "dateNote": "Nihon Shoki dates the voyage to 478 CE; texts from the 8th century",
+   "evidenceTypes": [
+    "textual",
+    "folklore"
+   ],
+   "mainstream": "A Japanese tale in which a fisherman rescues a turtle and is taken to the palace of the sea-god (in older versions, the land of immortals, Hōrai or Tokoyo). He stays what seems a few days; when he goes home, centuries have passed, and when he opens the forbidden box (tamatebako) the princess gave him, he becomes an old man. It goes back to 8th-century texts: the Tango Province Fudoki, the Man'yōshū and the Nihon Shoki, which places Urashimako's departure in the 22nd year of Emperor Yūryaku (478 CE in Aston's translation). A document at Urashima Jinja shrine says he returned in 825 CE.",
+   "alternatives": [
+    {
+     "label": "Folklore type",
+     "text": "Folklorists class it with tales of \"the relativity of time\" (ATU 681), found worldwide, including the Chinese woodcutter Wang Zhi who watches immortals play a game while years pass (\"Rotten Axe Handle Mountain\"); the Chinese story is sometimes conjectured as a source."
+    },
+    {
+     "label": "Modern readings (speculative)",
+     "text": "The motif has been compared with relativistic time dilation (sometimes called the \"Urashima effect\" in Japan) and with \"missing time\" in modern abduction narratives; such parallels are modern interpretations, not part of the tale's origin."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Urashima Tarō",
+     "url": "https://en.wikipedia.org/wiki/Urashima_Tar%C5%8D",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Matsuki_Heikichi%281899%29-Urashima-p04.jpg/500px-Matsuki_Heikichi%281899%29-Urashima-p04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Matsuki_Heikichi(1899)-Urashima-p04.jpg",
+     "author": "Matsuki Heikichi, aka Matsuki Tōkō (松木東江 1836 - 1 Jul 1891",
+     "license": "Public domain",
+     "title": "Matsuki_Heikichi(1899)-Urashima-p04.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "anomalies"
+   ],
+   "threads": [
+    "otherworld-time"
+   ]
+  },
+  {
+   "id": "kakudmi",
+   "title": "King Kakudmi: an audience with Brahma while ages pass",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 3,
+   "start": 500,
+   "end": null,
+   "dateNote": "Undated legend recorded in the Mahabharata, Harivamsha and Puranas",
+   "evidenceTypes": [
+    "textual",
+    "religious text"
+   ],
+   "mainstream": "In Hindu texts (the Mahabharata, Harivamsha, Vishnu Purana, Devi Bhagavatam and Bhagavata Purana), King Kakudmi (Raivata) of Kushasthali takes his daughter Revati to Brahma's realm to ask which suitor she should marry. They wait while Brahma listens to a musical performance; Brahma then explains that many ages have passed on Earth, and all the suitors and their descendants are long dead. Returning, they find that 27 chaturyugas (about 117 million years) have passed, their city Kushasthali has become Dvaraka, and men have \"dwindled in stature\"; Revati marries Balarama, brother of Krishna.",
+   "alternatives": [
+    {
+     "label": "Religious meaning",
+     "text": "Within Hindu cosmology the story illustrates the vast, nested cycles of time (yugas and manvantaras) and the difference between divine and human time."
+    },
+    {
+     "label": "Cross-cultural pattern",
+     "text": "It is one of the oldest stories of time passing differently in another realm, alongside Urashima Tarō (Japan) and Oisín in Tír na nÓg (Ireland); writers have compared it with relativistic time dilation, a modern analogy rather than an ancient claim."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Kakudmi",
+     "url": "https://en.wikipedia.org/wiki/Kakudmi",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Revati",
+     "url": "https://en.wikipedia.org/wiki/Revati",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Revati_Hindu_Lady.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Revati_Hindu_Lady.jpg",
+     "author": "Unknown authorUnknown author",
+     "license": "Public domain",
+     "title": "Revati_Hindu_Lady.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion"
+   ],
+   "threads": [
+    "world-ages-and-resets",
+    "otherworld-time"
+   ]
+  },
+  {
+   "id": "kaguya-hime",
+   "title": "Kaguya-hime: the princess from the Moon",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": 900,
+   "end": null,
+   "dateNote": "Composed late 9th or early 10th century",
+   "evidenceTypes": [
+    "textual",
+    "folklore"
+   ],
+   "mainstream": "The Tale of the Bamboo Cutter (Taketori Monogatari), by an unknown author of the late 9th or early 10th century, is considered the oldest surviving Japanese monogatari. A bamboo cutter finds a tiny girl in a glowing bamboo stalk; she grows into the beautiful Kaguya-hime, sets impossible tasks for five suitors and refuses the emperor. Finally she reveals she is from the Moon; an embassy of heavenly beings descends, the emperor's guards are blinded by a strange light, and she returns to the Moon. The emperor has her elixir of immortality burned on the mountain closest to heaven – one legend of the name of Mount Fuji (fushi, \"immortality\"). The oldest surviving manuscript dates from 1592.",
+   "alternatives": [
+    {
+     "label": "Literary and religious roots",
+     "text": "Scholars relate it to Chinese tales such as Chang'e, who fled to the Moon with the elixir of immortality, and to Daoist and Buddhist ideas of immortals and celestial realms."
+    },
+    {
+     "label": "Visitor from the sky (modern reading, speculative)",
+     "text": "Some modern readers describe the descending heavenly host and blinding light as resembling a UFO encounter and Kaguya as an extraterrestrial; this is a modern interpretation of a court romance."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: The Tale of the Bamboo Cutter",
+     "url": "https://en.wikipedia.org/wiki/The_Tale_of_the_Bamboo_Cutter",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Princess_Kaguya_Stavros_Translation_Book_Jacket.jpg/500px-Princess_Kaguya_Stavros_Translation_Book_Jacket.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Princess_Kaguya_Stavros_Translation_Book_Jacket.jpg",
+     "author": "Mstavros111",
+     "license": "CC BY-SA 4.0",
+     "title": "Princess_Kaguya_Stavros_Translation_Book_Jacket.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "aliens-ufo"
+   ],
+   "threads": [
+    "sky-beings"
+   ]
+  },
+  {
+   "id": "kailasa",
+   "title": "Kailasa temple, Ellora: a temple carved from the top down",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 760,
+   "end": null,
+   "dateNote": "Mainly 8th century CE (Krishna I, r. c. 756–773)",
+   "evidenceTypes": [
+    "archaeological",
+    "epigraphic"
+   ],
+   "mainstream": "The largest of the 34 Hindu, Buddhist and Jain rock-cut temples and monasteries at Ellora, Maharashtra (UNESCO World Heritage). The Kailasa temple (Cave 16) is a monolith cut out of the basalt cliff, carved vertically from the top of the rock downward; its sanctuary rises 32.6 m above the court. It has no dedicatory inscription, but copper-plate grants of c. 812–813 CE credit \"Krishnaraja\", generally identified as the Rashtrakuta king Krishna I (r. c. 756–773), with a temple so wondrous that \"even the gods and the architect were astonished\".",
+   "alternatives": [
+    {
+     "label": "Legend of a temple in a week",
+     "text": "A medieval Marathi legend (Katha-Kalpataru, c. 1470–1535) says a queen vowed to fast until she saw a temple's top; the architect Kokasa finished the shikhara in a week by carving from the top. M. K. Dhavalikar suggests Kokasa may really have been the chief architect."
+    },
+    {
+     "label": "How long did it take?",
+     "text": "Dhavalikar estimated that 250 labourers cutting about 4 cubic feet each per day could finish it in about 5.5 years, and that quarrying a monolith is less work than hauling stone; others think its mixed styles show work over several reigns."
+    },
+    {
+     "label": "Lost-technology claims (speculative)",
+     "text": "Popular alternative-history media sometimes claim such a monolith required lost advanced technology; archaeologists see no need for this, pointing to the inscriptions, labour estimates and comparable temples such as the Virupaksha at Pattadakal."
+    }
+   ],
+   "sources": [
+    {
+     "title": "UNESCO: Ellora Caves",
+     "url": "https://whc.unesco.org/en/list/243",
+     "type": "heritage body"
+    },
+    {
+     "title": "Wikipedia: Kailasa Temple, Ellora",
+     "url": "https://en.wikipedia.org/wiki/Kailasa_Temple%2C_Ellora",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Kailash_temple_%28Ellora_cave_no_15%29_at_Verul.png/500px-Kailash_temple_%28Ellora_cave_no_15%29_at_Verul.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Kailash_temple_(Ellora_cave_no_15)_at_Verul.png",
+     "author": "Unknown",
+     "license": "CC BY-SA 4.0",
+     "title": "Kailash_temple_(Ellora_cave_no_15)_at_Verul.png"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history",
+    "religion"
+   ],
+   "threads": [
+    "giant-monuments",
+    "outsider-builder-claims"
+   ]
+  },
+  {
+   "id": "shambhala",
+   "title": "Shambhala, the hidden kingdom",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": 1050,
+   "end": null,
+   "dateNote": "Kalachakra tradition from the 11th century; prophesied battle in 2424/2425",
+   "evidenceTypes": [
+    "religious text",
+    "esoteric",
+    "speculative"
+   ],
+   "mainstream": "A spiritual kingdom in Tibetan Buddhist tradition, described in the Kalachakra (\"Wheel of Time\") tantra, which reached Tibet in the 11th century; the Bon religion has a similar land, Olmo Lung Ring. The name comes from a city in the Hindu Puranas, where the Vishnu Purana prophesies Shambhala as the birthplace of Kalki, who will begin a new golden age. The Kalachakra prophesies that when the world sinks into war and greed, the 25th Kalki king will ride out of Shambhala with a great army, in a final battle dated to 2424 or 2425, followed by a golden age.",
+   "alternatives": [
+    {
+     "label": "Spiritual reading",
+     "text": "Some Buddhist teachers interpret Shambhala as a pure land or state of mind reached through practice rather than a place on a map."
+    },
+    {
+     "label": "Physical hidden land (searches)",
+     "text": "Nicholas and Helena Roerich led expeditions (1924–28, 1934–35), believing Belukha Mountain in the Altai to be an entrance; in the 1920s Soviet secret-police cryptographer Gleb Bokii and Alexander Barchenko planned an expedition to retrieve its wisdom. Alexandra David-Néel linked it with Balkh in Afghanistan."
+    },
+    {
+     "label": "Esoteric versions",
+     "text": "Theosophical and neo-Theosophical writers such as Alice Bailey made it the seat of a hidden brotherhood of masters guiding humanity; it influenced the fictional Shangri-La."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Shambhala",
+     "url": "https://en.wikipedia.org/wiki/Shambhala",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Kalachakra",
+     "url": "https://en.wikipedia.org/wiki/Kalachakra",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Mandala_Depicting_Kalachakra_and_Vishvamata%2C_Tibet.jpg/500px-Mandala_Depicting_Kalachakra_and_Vishvamata%2C_Tibet.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Mandala_Depicting_Kalachakra_and_Vishvamata,_Tibet.jpg",
+     "author": "AnonymousUnknown author",
+     "license": "Public domain",
+     "title": "Mandala_Depicting_Kalachakra_and_Vishvamata,_Tibet.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion",
+    "lost-civilisations"
+   ],
+   "threads": [
+    "lost-civilisations",
+    "world-ages-and-resets",
+    "hidden-kingdoms"
+   ]
+  },
+  {
+   "id": "yeti",
+   "title": "The Yeti (\"Abominable Snowman\")",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": 1921,
+   "end": null,
+   "dateNote": "Folklore older; Western name from 1921",
+   "evidenceTypes": [
+    "folklore",
+    "eyewitness",
+    "genetic"
+   ],
+   "mainstream": "A large, hairy, ape-like creature said to live in the Himalayas. The English name \"Abominable Snowman\" dates from the 1921 British Everest reconnaissance led by Charles Howard-Bury, who reported footprints at about 6,400 m. Interest peaked after Eric Shipton photographed large prints in 1951 and Hillary and Tenzing reported footprints in 1953. Monastery \"Yeti scalps\" (Pangboche, Khumjung) were examined by Hillary's 1960–61 expedition. DNA studies have repeatedly matched alleged Yeti hair, bone and scat to bears.",
+   "alternatives": [
+    {
+     "label": "Unknown primate (cryptozoology)",
+     "text": "Believers point to consistent Sherpa and Tibetan accounts (several named kinds, such as migoi, \"wild man\"), footprint casts and photographs as evidence of an undiscovered ape."
+    },
+    {
+     "label": "Bears (genetic studies)",
+     "text": "Sykes et al. (2014) matched two Himalayan samples to an ancient polar-bear sequence and suggested a hybrid bear; later work (2015) found brown bear more likely, and Lan et al. (2017) identified most \"Yeti\" samples as Himalayan or Tibetan brown bears or Asian black bear, and one as a domestic dog. Daniel C. Taylor (2017) argues the Asian black bear explains classic footprints."
+    },
+    {
+     "label": "Folklore view",
+     "text": "Folklorists trace the Yeti to Sherpa folklore plus misidentified animals; the Tibetan root word appears to mean \"rock bear\"."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Genetic analysis of hair samples attributed to yeti, bigfoot and other anomalous primates",
+     "authors": "Sykes, B. et al.",
+     "year": 2014,
+     "doi": "10.1098/rspb.2014.0161",
+     "type": "paper"
+    },
+    {
+     "title": "Evolutionary history of enigmatic bears in the Tibetan Plateau–Himalaya region and the identity of the yeti",
+     "authors": "Lan, T. et al.",
+     "year": 2017,
+     "doi": "10.1098/rspb.2017.1804",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: Yeti",
+     "url": "https://en.wikipedia.org/wiki/Yeti",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Yeti_coloris%C3%A9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Yeti_coloris%C3%A9.jpg",
+     "author": "Ipipipourax",
+     "license": "CC BY-SA 3.0",
+     "title": "Yeti_colorisé.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "anomalies"
+   ],
+   "threads": [
+    "cryptids"
+   ]
+  },
+  {
+   "id": "death-worm",
+   "title": "The Mongolian death worm (olgoi-khorkhoi)",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 3,
+   "start": 1926,
+   "end": null,
+   "dateNote": "Described 1922; publicised 1926",
+   "evidenceTypes": [
+    "folklore",
+    "eyewitness"
+   ],
+   "mainstream": "A cryptid of Mongolian folklore said to live in the Gobi Desert: sausage-shaped, about two feet long, headless and legless, and so poisonous that touching it means instant death, according to a description by Mongolian prime minister Damdinbazar in 1922. It reached the West through Roy Chapman Andrews's 1926 book On the Trail of Ancient Man; Andrews himself did not believe in it. Later tales say it can kill at a distance with venom or electric shocks. In 1983, locals who claimed to have seen it identified a Tartar sand boa as the same animal.",
+   "alternatives": [
+    {
+     "label": "Undiscovered animal (cryptozoology)",
+     "text": "Searchers, from Ivan Mackerle (1990, 1992, using a motorised \"thumper\" inspired by Dune) to Richard Freeman (2005) and TV teams, found nothing; Freeman concluded the powers were apocryphal but that sightings might involve an unknown worm lizard."
+    },
+    {
+     "label": "Folklore and known animals",
+     "text": "Mainstream view: a legend built on misidentified real animals such as the sand boa, amplified by retelling; palaeontologist Ivan Yefremov heard the legend many times in the 1940s but met no one who had seen it."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Mongolian death worm",
+     "url": "https://en.wikipedia.org/wiki/Mongolian_death_worm",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Allghoikhorkhoi.jpg/500px-Allghoikhorkhoi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Allghoikhorkhoi.jpg",
+     "author": "The original uploader was Pieter0024 at English Wikipedia.",
+     "license": "CC BY-SA 1.0",
+     "title": "Allghoikhorkhoi.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "anomalies"
+   ],
+   "threads": [
+    "cryptids"
+   ]
+  },
+  {
+   "id": "baigong-pipes",
+   "title": "The Baigong \"pipes\" of Qinghai",
+   "lane": "history",
+   "status": "debunked",
+   "priority": 3,
+   "start": 2002,
+   "end": null,
+   "evidenceTypes": [
+    "geological",
+    "media reports"
+   ],
+   "mainstream": "Pipe-like structures in and around White Mountain (Baigongshan), about 40 km south-west of Delingha in Qinghai, China, found in and near a cave and along the shore of Lake Toson. They became famous through Chinese newspaper reports in June 2002, which described \"rusty\" iron pipes; a local smeltery analysis reported about 30% iron oxide with much silica and calcium oxide. A 2003 report said Chinese scientists had found organic plant material and tree rings in them, so they were judged to be fossilised trees or roots; the local government promotes them as a tourist attraction.",
+   "alternatives": [
+    {
+     "label": "Artificial pipes (popular claim)",
+     "text": "Media and alternative writers presented them as ancient or non-human iron plumbing, sometimes linked to an extraterrestrial base; this view relies on the pipe-like shape and iron content."
+    },
+    {
+     "label": "Natural formations",
+     "text": "Mainstream explanation: iron-rich concretions formed around fossil tree roots; the oxide analysis is consistent with natural minerals such as calcite and iron oxides."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Baigong pipes",
+     "url": "https://en.wikipedia.org/wiki/Baigong_pipes",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Skeptoid #181: The Baigong Pipes (Brian Dunning, 2009)",
+     "url": "https://skeptoid.com/episodes/4181",
+     "type": "podcast"
+    }
+   ],
+   "media": [],
+   "categories": [
+    "anomalies",
+    "hoaxes"
+   ],
+   "threads": [
+    "ancient-technology"
    ]
   }
  ]
