@@ -483,3 +483,39 @@ addt('lost-treasures','paititi el-dorado genghis-tomb')
 addt('returning-saviours','paititi quetzalcoatl cortes-quetzalcoatl arthur viracocha')
 addt('hidden-tombs','llullaillaco')
 addt('sacred-kingship','llullaillaco')
+C.update({
+'bmac':'archaeology history lost-civilisations',
+'arkaim':'archaeology history anomalies',
+'issyk-golden-man':'archaeology history',
+'scythian-amazons':'myth-legend archaeology history',
+'ulugh-beg':'history science-cosmos',
+'tamgaly':'archaeology religion aliens-ufo',
+'dead-sea-scrolls':'history religion archaeology',
+'copper-scroll':'history religion archaeology',
+'derinkuyu':'archaeology history',
+'ark-covenant':'religion myth-legend',
+'durupinar':'religion hoaxes anomalies',
+'etemenanki':'history archaeology religion myth-legend',
+})
+addt('lost-civilisations','bmac')
+addt('civilisation-collapses','bmac')
+addt('changed-understanding','bmac')
+addt('ancestral-homelands','arkaim')
+addt('outsider-builder-claims','arkaim')
+addt('ancient-astronomy','arkaim ulugh-beg tamgaly')
+addt('hidden-tombs','issyk-golden-man')
+addt('sacred-kingship','issyk-golden-man')
+addt('origins-of-writing','issyk-golden-man')
+addt('warrior-women','issyk-golden-man scythian-amazons')
+addt('knowledge-and-power','ulugh-beg dead-sea-scrolls')
+addt('lost-evidence','ulugh-beg')
+addt('sky-beings','tamgaly')
+addt('hoaxes-exposed','dead-sea-scrolls durupinar')
+addt('stories-proven-true','dead-sea-scrolls')
+addt('lost-treasures','copper-scroll ark-covenant')
+addt('sacred-relics','copper-scroll ark-covenant')
+addt('underground-worlds','derinkuyu')
+addt('ancient-technology','derinkuyu')
+addt('flood-myths','durupinar')
+addt('giant-monuments','etemenanki')
+addt('creation-myths','etemenanki')

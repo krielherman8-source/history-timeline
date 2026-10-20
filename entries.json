@@ -15781,6 +15781,756 @@
     "origins-of-writing",
     "outsider-builder-claims"
    ]
+  },
+  {
+   "id": "bmac",
+   "title": "The Oxus Civilisation (BMAC): a forgotten Bronze Age heartland",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -2300,
+   "end": -1700,
+   "dateNote": "c. 2300–1700 BCE (some estimates from 2500 BCE)",
+   "evidenceTypes": [
+    "archaeological",
+    "radiocarbon",
+    "ancient DNA"
+   ],
+   "mainstream": "The Bactria–Margiana Archaeological Complex, or Oxus Civilisation, flourished from about 2300 to 1700 BCE (some say from 2500) in what is now Turkmenistan, Uzbekistan, northern Afghanistan and north-eastern Iran. Excavated mostly from the 1970s by Viktor Sarianidi, sites such as Gonur Depe in the Murghab delta had monumental walled compounds, palaces, temples, irrigation, fine metalwork, stamp seals and elaborate burials, and traded with Mesopotamia, Elam and the Indus civilisation. It was largely unknown to the wider world until the late 20th century. Ancient DNA (Narasimhan et al., Science 2019) shows BMAC people descended mainly from Iranian-plateau and Anatolian-related farmers, with little steppe ancestry, while a few individuals show contacts with the Indus world and the steppe.",
+   "alternatives": [
+    {
+     "label": "Soma/haoma rituals",
+     "text": "Sarianidi argued that vessels at Gonur temples held residues of ephedra, poppy or cannabis used to prepare the sacred drink known as soma in the Rigveda and haoma in the Avesta; other researchers dispute the identifications."
+    },
+    {
+     "label": "Indo-Iranian link",
+     "text": "Whether BMAC influenced early Indo-Iranian speakers passing through Central Asia (as words and religious ideas suggest to some linguists) is debated; the 2019 genetic data indicate steppe groups mixed in after its height."
+    },
+    {
+     "label": "Wider name",
+     "text": "Recent surveys in north-eastern Iran have led some scholars to propose the broader term \"Greater Khorasan Civilisation\"."
+    }
+   ],
+   "sources": [
+    {
+     "title": "The formation of human populations in South and Central Asia",
+     "authors": "Narasimhan, V. et al.",
+     "year": 2019,
+     "doi": "10.1126/science.aat7487",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: Bactria–Margiana Archaeological Complex",
+     "url": "https://en.wikipedia.org/wiki/Bactria%E2%80%93Margiana_Archaeological_Complex",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Gonur Depe",
+     "url": "https://en.wikipedia.org/wiki/Gonur_Depe",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Gonur_ruins.jpg/500px-Gonur_ruins.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Gonur_ruins.jpg",
+     "author": "David Stanley",
+     "license": "CC BY 2.0",
+     "title": "Gonur ruins.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history",
+    "lost-civilisations"
+   ],
+   "threads": [
+    "lost-civilisations",
+    "changed-understanding",
+    "civilisation-collapses"
+   ]
+  },
+  {
+   "id": "arkaim",
+   "title": "Arkaim: a Bronze Age ring-town, and a magnet for Aryan and esoteric myths",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -2100,
+   "end": -1650,
+   "dateNote": "c. 2150–1650 BCE; discovered 1987",
+   "evidenceTypes": [
+    "archaeological",
+    "radiocarbon"
+   ],
+   "mainstream": "A fortified circular settlement of the Sintashta culture in the steppe of the southern Urals (Chelyabinsk region, Russia), dated to about 2150–1650 BCE (most activity c. 2100–1800). It was found in 1987 by archaeologists surveying an area due to be flooded for a reservoir; the discovery led to the flooding being cancelled and a nature-and-history reserve created. Concentric rings of walls with houses built against them surround a central square; Sintashta sites also produced some of the earliest known spoked-wheel chariots, and are linked by many scholars to early Indo-Iranian speakers.",
+   "alternatives": [
+    {
+     "label": "Aryan homeland and \"Russian Stonehenge\" (speculative)",
+     "text": "Since the early 1990s Arkaim has been promoted by Russian nationalists, neo-pagans and esoteric groups as the homeland of the \"Aryans\", the birthplace of Zoroaster, an astronomical observatory or a place of special energies; archaeologists including Victor Shnirelman have documented and criticised these claims, which go well beyond the evidence."
+    },
+    {
+     "label": "Cosmological town plan",
+     "text": "Some scholars compare the ring plan with ideal cities in the Rigveda and Avesta; this is an interpretation, not proof of a direct link."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Passions about Arkaim: Russian Nationalism, the Aryans, and the Politics of Archaeology",
+     "authors": "Shnirelman, V.",
+     "year": 1999,
+     "doi": "10.1163/146481799793648040",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: Arkaim",
+     "url": "https://en.wikipedia.org/wiki/Arkaim",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Sintashta culture",
+     "url": "https://en.wikipedia.org/wiki/Sintashta_culture",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/%D0%90%D1%80%D0%BA%D0%B0%D0%B8%D0%BC_2015_%28cropped%29.jpg/500px-%D0%90%D1%80%D0%BA%D0%B0%D0%B8%D0%BC_2015_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:%D0%90%D1%80%D0%BA%D0%B0%D0%B8%D0%BC_2015_(cropped).jpg",
+     "author": "Rafikova m",
+     "license": "CC BY-SA 4.0",
+     "title": "Аркаим_2015_(cropped).jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history",
+    "anomalies"
+   ],
+   "threads": [
+    "ancient-astronomy",
+    "outsider-builder-claims",
+    "ancestral-homelands"
+   ]
+  },
+  {
+   "id": "issyk-golden-man",
+   "title": "The Golden Man of Issyk",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 3,
+   "start": -300,
+   "end": null,
+   "dateNote": "Burial c. 4th–3rd century BCE; excavated 1969",
+   "evidenceTypes": [
+    "archaeological",
+    "inscription"
+   ],
+   "mainstream": "In 1969 Kemal Akishev's team excavated a side chamber of the Issyk kurgan, about 50 km east of Almaty in south-eastern Kazakhstan, part of a cemetery of 45 royal mounds. It held the skeleton of a young Saka (eastern Scythian) individual aged 16–18 with about 4,000 gold ornaments: a tall pointed headdress with gold plaques of horses, snow leopards and birds, gold-covered clothing, an iron sword and dagger and a gold-tipped arrow, plus a silver cup with a short inscription in a still undeciphered script. The burial is dated to about the 4th–3rd century BCE (some say earlier). Reconstructed as the \"Golden Man\" on a winged snow leopard, the figure became a national symbol of independent Kazakhstan and crowns the Independence Monument in Almaty.",
+   "alternatives": [
+    {
+     "label": "Prince or princess?",
+     "text": "The skeleton's sex has never been firmly established; some researchers have argued the grave goods, including earrings, suit a woman, which would make the national symbol a \"Golden Woman\" – a question bound up with steppe traditions of armed women."
+    },
+    {
+     "label": "The Issyk inscription",
+     "text": "The 26 or so signs on the silver cup have been variously read as an Iranian (Saka) language in a variant of Kharosthi or as an old Turkic script; no reading is accepted."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Issyk kurgan",
+     "url": "https://en.wikipedia.org/wiki/Issyk_kurgan",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Saka",
+     "url": "https://en.wikipedia.org/wiki/Saka",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/A_kurgan_at_Issyk.JPG/500px-A_kurgan_at_Issyk.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:A_kurgan_at_Issyk.JPG",
+     "author": "Firespeaker",
+     "license": "CC BY-SA 3.0",
+     "title": "A_kurgan_at_Issyk.JPG"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history"
+   ],
+   "threads": [
+    "origins-of-writing",
+    "hidden-tombs",
+    "sacred-kingship",
+    "warrior-women"
+   ]
+  },
+  {
+   "id": "scythian-amazons",
+   "title": "Amazons: Greek myth and the armed women of the steppe",
+   "lane": "myth",
+   "status": "disputed",
+   "priority": 2,
+   "start": -700,
+   "end": null,
+   "dateNote": "Myths attested from c. 8th–7th century BCE; steppe burials c. 7th century BCE–4th century CE",
+   "evidenceTypes": [
+    "textual",
+    "archaeological",
+    "osteological"
+   ],
+   "mainstream": "In Greek myth the Amazons were a nation of mounted women warriors and archers who fought Heracles, Achilles and Theseus and lived at the edge of the known world, often placed at Themiscyra on the Black Sea coast of Anatolia. Herodotus (5th century BCE) claimed the Sauromatae of the steppes descended from Amazons and Scythians, and that their women rode, hunted and fought. Archaeology has since found many Scythian and Sarmatian graves of women buried with bows, arrows, spears and horse gear, some with battle wounds: by some counts about 20% of warrior graves on the lower Don and Volga, and up to a quarter of Sarmatian military burials, are female. In 2019 Russian archaeologists reported a Scythian burial near Voronezh with armed women of several generations, one wearing a golden headdress.",
+   "alternatives": [
+    {
+     "label": "Myth rooted in reality",
+     "text": "Historians such as Adrienne Mayor argue Greek contact with steppe peoples whose women fought on horseback inspired the Amazon stories."
+    },
+    {
+     "label": "Literary creation",
+     "text": "Others stress that the Greek Amazons are largely an inverted mirror of Greek gender norms; armed women in graves do not prove all-female societies, which have no archaeological support."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Amazons",
+     "url": "https://en.wikipedia.org/wiki/Amazons",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Sarmatians",
+     "url": "https://en.wikipedia.org/wiki/Sarmatians",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Amazzone_ferita_-_Musei_Capitolini.jpg/500px-Amazzone_ferita_-_Musei_Capitolini.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Amazzone_ferita_-_Musei_Capitolini.jpg",
+     "author": "Copy after original by Phidias. Head is a copy from Polyclitus' original.",
+     "license": "CC BY-SA 3.0",
+     "title": "Amazzone_ferita_-_Musei_Capitolini.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "archaeology",
+    "history"
+   ],
+   "threads": [
+    "warrior-women"
+   ]
+  },
+  {
+   "id": "ulugh-beg",
+   "title": "Ulugh Beg's observatory: a 40-metre sextant in Samarkand",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 3,
+   "start": 1420,
+   "end": 1449,
+   "evidenceTypes": [
+    "archaeological",
+    "textual",
+    "astronomical tables"
+   ],
+   "mainstream": "Ulugh Beg (1394–1449), grandson of Timur and ruler of Samarkand, built a three-storey observatory in the 1420s around a giant meridian arc (the Fakhri sextant) about 40 m in radius, cut partly into a trench in the hill. With astronomers including Jamshid al-Kashi and Ali Qushji he produced the Zij-i Sultani (completed c. 1437), with a catalogue of 1,018 stars – the first major independent star catalogue since Ptolemy – and a value for the sidereal year accurate to within about a minute. After Ulugh Beg was killed in 1449 on the orders of his son, the observatory was destroyed and its location forgotten; archaeologist Vasily Vyatkin rediscovered the sextant trench in 1908.",
+   "alternatives": [
+    {
+     "label": "Accuracy",
+     "text": "Analysis by Verbunt and van Gent (2012) showed most of his star positions were newly measured rather than copied from Ptolemy, and generally more accurate."
+    },
+    {
+     "label": "Science and power",
+     "text": "His fate is often told as a clash between science and religious conservatism; historians note dynastic politics and succession struggles were at least as important."
+    }
+   ],
+   "sources": [
+    {
+     "title": "The star catalogues of Ptolemaios and Ulugh Beg",
+     "authors": "Verbunt, F. et al.",
+     "year": 2012,
+     "doi": "10.1051/0004-6361/201219596",
+     "type": "paper"
+    },
+    {
+     "title": "UNESCO: Samarkand – Crossroad of Cultures",
+     "url": "https://whc.unesco.org/en/list/603",
+     "type": "heritage body"
+    },
+    {
+     "title": "Wikipedia: Ulugh Beg Observatory",
+     "url": "https://en.wikipedia.org/wiki/Ulugh_Beg_Observatory",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/A_model_of_Ulug_Beg_obsrvatory_in_the_Uzbek_National_Muzeum.jpg/500px-A_model_of_Ulug_Beg_obsrvatory_in_the_Uzbek_National_Muzeum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:A_model_of_Ulug_Beg_obsrvatory_in_the_Uzbek_National_Muzeum.jpg",
+     "author": "Victoria",
+     "license": "CC BY-SA 4.0",
+     "title": "A_model_of_Ulug_Beg_obsrvatory_in_the_Uzbek_National_Muzeum.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "science-cosmos"
+   ],
+   "threads": [
+    "ancient-astronomy",
+    "knowledge-and-power",
+    "lost-evidence"
+   ]
+  },
+  {
+   "id": "tamgaly",
+   "title": "Tamgaly petroglyphs and the \"sun-headed\" figures",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 3,
+   "start": -1400,
+   "end": null,
+   "dateNote": "Oldest carvings mid-2nd millennium BCE",
+   "evidenceTypes": [
+    "rock art",
+    "archaeological"
+   ],
+   "mainstream": "About 5,000 petroglyphs pecked into rock outcrops in a gorge about 170 km north-west of Almaty, Kazakhstan, made from the Bronze Age (mid-2nd millennium BCE) up to the 19th–20th centuries. The most famous Bronze Age carvings show human figures with large round heads ringed by rays and dots, usually read as solar deities, alongside dancers, archers in animal masks, bulls, horses, chariots and birthing women. The site, with nearby altars and burials, became a UNESCO World Heritage Site in 2004.",
+   "alternatives": [
+    {
+     "label": "Solar deities",
+     "text": "Archaeologists interpret the sun-heads as gods or shamans connected with sun worship in Bronze Age steppe religion; similar figures appear at other sites in Kazakhstan and Siberia."
+    },
+    {
+     "label": "Ancient astronauts (speculative)",
+     "text": "Popular ancient-astronaut writing presents the rayed heads as helmeted visitors from space; there is no evidence for this, and rayed or haloed heads are a widespread way of depicting divine or solar beings."
+    }
+   ],
+   "sources": [
+    {
+     "title": "UNESCO: Petroglyphs of the Archaeological Landscape of Tanbaly",
+     "url": "https://whc.unesco.org/en/list/1145",
+     "type": "heritage body"
+    },
+    {
+     "title": "Wikipedia: Tanbaly",
+     "url": "https://en.wikipedia.org/wiki/Tanbaly",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Sun_God_at_Tamgaly_Petroglyphs.jpg/500px-Sun_God_at_Tamgaly_Petroglyphs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Sun_God_at_Tamgaly_Petroglyphs.jpg",
+     "author": "Tokatosha",
+     "license": "CC BY-SA 4.0",
+     "title": "Sun God at Tamgaly Petroglyphs.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "religion",
+    "aliens-ufo"
+   ],
+   "threads": [
+    "sky-beings",
+    "ancient-astronomy"
+   ]
+  },
+  {
+   "id": "dead-sea-scrolls",
+   "title": "The Dead Sea Scrolls",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": -250,
+   "end": 70,
+   "dateNote": "Written c. 250 BCE–70 CE; found 1946–1956",
+   "evidenceTypes": [
+    "archaeological",
+    "textual",
+    "radiocarbon",
+    "ancient DNA",
+    "palaeographic"
+   ],
+   "mainstream": "From 1946–47, when Bedouin shepherds found jars of scrolls in a cave near Qumran on the north-west shore of the Dead Sea, until 1956, about 15,000 fragments from some 900–1,000 manuscripts were recovered from eleven caves. Written mostly in Hebrew, also Aramaic and Greek, between the 3rd century BCE and the 1st century CE, they include the oldest surviving copies of almost every book of the Hebrew Bible – the Great Isaiah Scroll is about 1,000 years older than the previously oldest known Hebrew manuscripts – plus community rules, hymns, calendars, commentaries and apocalyptic works such as the War Scroll. New science keeps extracting information: DNA from the animal skins (Cell, 2020) helped group fragments, and AI handwriting analysis (PLOS ONE, 2021) suggested the Isaiah Scroll was written by two scribes.",
+   "alternatives": [
+    {
+     "label": "Who wrote them",
+     "text": "The classic view links them to an Essene-like sect living at Qumran; others (e.g. Norman Golb) argue they were libraries brought from Jerusalem and hidden before the Roman destruction of 70 CE; the debate continues."
+    },
+    {
+     "label": "Forgeries",
+     "text": "Since 2002 dozens of \"new\" fragments sold on the antiquities market appeared; in 2020 investigators concluded that all 16 fragments held by the Museum of the Bible in Washington were modern forgeries."
+    },
+    {
+     "label": "Conspiracy claims",
+     "text": "Delays in publication into the 1990s fed claims that the scrolls held secrets damaging to Christianity; once fully published they revealed no such content, though they transformed understanding of Second Temple Judaism."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Illuminating Genetic Mysteries of the Dead Sea Scrolls",
+     "authors": "Anava, S. et al.",
+     "year": 2020,
+     "doi": "10.1016/j.cell.2020.04.046",
+     "type": "paper"
+    },
+    {
+     "title": "Artificial intelligence based writer identification generates new evidence for the unknown scribes of the Dead Sea Scrolls exemplified by the Great Isaiah Scroll (1QIsaa)",
+     "authors": "Popović, M. et al.",
+     "year": 2021,
+     "doi": "10.1371/journal.pone.0249769",
+     "type": "paper"
+    },
+    {
+     "title": "Leon Levy Dead Sea Scrolls Digital Library (Israel Antiquities Authority)",
+     "url": "https://www.deadseascrolls.org.il/",
+     "type": "archive"
+    },
+    {
+     "title": "Wikipedia: Dead Sea Scrolls",
+     "url": "https://en.wikipedia.org/wiki/Dead_Sea_Scrolls",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Qumran.jpeg/500px-Qumran.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Qumran.jpeg",
+     "author": "Effi Schweizer",
+     "license": "Public domain",
+     "title": "Qumran.jpeg"
+    }
+   ],
+   "categories": [
+    "history",
+    "religion",
+    "archaeology"
+   ],
+   "threads": [
+    "hoaxes-exposed",
+    "stories-proven-true",
+    "knowledge-and-power"
+   ]
+  },
+  {
+   "id": "copper-scroll",
+   "title": "The Copper Scroll: a treasure map from Qumran",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 70,
+   "end": null,
+   "dateNote": "Written c. 50–100 CE; found 1952",
+   "evidenceTypes": [
+    "textual",
+    "archaeological"
+   ],
+   "mainstream": "Found in 1952 in Qumran Cave 3, the Copper Scroll (3Q15) differs from all the other Dead Sea Scrolls: it is engraved on a sheet of copper (about 1% tin) roughly 2.4 m long, and it is not literature but a list of 64 hiding places of gold, silver, vessels and scrolls – \"in the ruin that is in the valley of Achor, under the steps...\". Too corroded to unroll, it was cut into strips at the Manchester College of Technology in 1955–56. Its Hebrew is closer to that of the Mishnah, and it is dated to around 50–100 CE. The quantities, if read literally, would total many tonnes of precious metal. John Allegro led a search in 1960 and found nothing; no listed cache has ever been identified. It is displayed at the Jordan Museum in Amman.",
+   "alternatives": [
+    {
+     "label": "Temple treasure",
+     "text": "Many scholars think it records real treasures of the Jerusalem Temple hidden before the Roman destruction of 70 CE."
+    },
+    {
+     "label": "Folklore or fiction",
+     "text": "Others see it as legend, an exaggerated inventory or a ritual text; the sheer amounts make a literal reading hard to accept."
+    },
+    {
+     "label": "Treasure hunting",
+     "text": "Amateur searchers continue to claim to have decoded its locations; none has produced verified finds."
+    }
+   ],
+   "sources": [
+    {
+     "title": "The Copper Scroll - 3Q15: A Reevaluation",
+     "authors": "Lefkovits, J.",
+     "year": 2000,
+     "doi": "10.1163/9789004350267",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: Copper Scroll",
+     "url": "https://en.wikipedia.org/wiki/Copper_Scroll",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Part_of_Qumran_Copper_Scroll.jpg/500px-Part_of_Qumran_Copper_Scroll.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Part_of_Qumran_Copper_Scroll.jpg",
+     "author": "Unknown (public domain per Wikimedia Commons)",
+     "license": "Public domain",
+     "title": "Part_of_Qumran_Copper_Scroll.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "religion",
+    "archaeology"
+   ],
+   "threads": [
+    "sacred-relics",
+    "lost-treasures"
+   ]
+  },
+  {
+   "id": "derinkuyu",
+   "title": "Derinkuyu: an underground city for 20,000 people",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -700,
+   "end": null,
+   "dateNote": "Possible origins 8th–7th century BCE; main expansion Byzantine era; rediscovered 1963",
+   "evidenceTypes": [
+    "archaeological",
+    "historical records"
+   ],
+   "mainstream": "One of over 200 underground settlements carved into the soft volcanic tuff of Cappadocia, central Turkey, Derinkuyu reaches about 85 m deep across many levels, with ventilation shafts, wells, stables, wine and oil presses, chapels and storerooms, and rolling stone doors that could be closed from inside. It is connected to the underground city of Kaymaklı by a tunnel several kilometres long. The first chambers may have been dug by Phrygians around the 8th–7th centuries BCE; Xenophon (c. 400 BCE) described people in Anatolia living in underground houses. It was greatly enlarged in the Byzantine era, especially during Arab–Byzantine wars (c. 780–1180), and used by local Christians as a refuge into the 20th century. Forgotten by outsiders, it was rediscovered in 1963 when a resident knocked through a basement wall during renovations.",
+   "alternatives": [
+    {
+     "label": "Dating",
+     "text": "Because carved rock is hard to date, the earliest phase is uncertain; Phrygian, Hittite and later origins have all been proposed."
+    },
+    {
+     "label": "Ancient catastrophe refuge (speculative)",
+     "text": "Some alternative writers suggest the cities were dug much earlier to shelter people from a catastrophe or ice-age conditions; there is no dated evidence for a prehistoric origin."
+    }
+   ],
+   "sources": [
+    {
+     "title": "UNESCO: Göreme National Park and the Rock Sites of Cappadocia",
+     "url": "https://whc.unesco.org/en/list/357",
+     "type": "heritage body"
+    },
+    {
+     "title": "Wikipedia: Derinkuyu underground city",
+     "url": "https://en.wikipedia.org/wiki/Derinkuyu_underground_city",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Derinkuyu_Underground_City_9910_Nevit.jpg/500px-Derinkuyu_Underground_City_9910_Nevit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Derinkuyu_Underground_City_9910_Nevit.jpg",
+     "author": "Nevit Dilmen (talk)",
+     "license": "CC BY-SA 3.0",
+     "title": "Derinkuyu_Underground_City_9910_Nevit.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history"
+   ],
+   "threads": [
+    "ancient-technology",
+    "underground-worlds"
+   ]
+  },
+  {
+   "id": "ark-covenant",
+   "title": "The Ark of the Covenant: lost, hidden or in Aksum?",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 1,
+   "start": -950,
+   "end": null,
+   "dateNote": "Biblical tradition; absent from records after 587/586 BCE",
+   "evidenceTypes": [
+    "textual",
+    "religious tradition",
+    "oral tradition"
+   ],
+   "mainstream": "In the Hebrew Bible the Ark of the Covenant was a gold-covered acacia chest made at Mount Sinai to hold the tablets of the law, carried before the Israelites, and later placed in the inner sanctuary of Solomon's Temple in Jerusalem. It disappears from the biblical record; it is not listed among the treasures taken when the Babylonians destroyed the Temple in 587/586 BCE. Jewish traditions say it was taken to Babylon, hidden by King Josiah beneath the Temple, or concealed by Jeremiah in a cave on Mount Nebo. The Ethiopian Orthodox Church holds that it was brought to Ethiopia by Menelik I, son of Solomon and the Queen of Sheba (as told in the Kebra Nagast), and is kept in a chapel at Aksum guarded by a single monk; every Ethiopian church holds a replica tablet (tabot). The Lemba of southern Africa tell of a sacred drum, the ngoma lungundu, as their ark.",
+   "alternatives": [
+    {
+     "label": "Historical question",
+     "text": "Scholars debate whether the Ark existed and what it was; no archaeological trace has been found, and the Aksum object has never been shown to outsiders."
+    },
+    {
+     "label": "Lemba ngoma",
+     "text": "In 2007 historian Tudor Parfitt identified a wooden drum-like object in a Harare museum as the Lemba ngoma lungundu, radiocarbon dated to about 1350 CE; it is a revered object in its own right, not the biblical Ark."
+    },
+    {
+     "label": "Fringe theories (speculative)",
+     "text": "Claims that the Ark was an electrical device or was found by amateur explorers (e.g. Ron Wyatt) are unsupported."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Ark of the Covenant",
+     "url": "https://en.wikipedia.org/wiki/Ark_of_the_Covenant",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Kebra Nagast",
+     "url": "https://en.wikipedia.org/wiki/Kebra_Nagast",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Lemba people",
+     "url": "https://en.wikipedia.org/wiki/Lemba_people",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Tissot_Moses_and_Joshua_in_the_Tabernacle.jpg/500px-Tissot_Moses_and_Joshua_in_the_Tabernacle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Tissot_Moses_and_Joshua_in_the_Tabernacle.jpg",
+     "author": "James Tissot",
+     "license": "Public domain",
+     "title": "Tissot_Moses_and_Joshua_in_the_Tabernacle.jpg"
+    }
+   ],
+   "categories": [
+    "religion",
+    "myth-legend"
+   ],
+   "threads": [
+    "sacred-relics",
+    "lost-treasures"
+   ]
+  },
+  {
+   "id": "durupinar",
+   "title": "The Durupınar formation: \"Noah's Ark\" in the hills of Ararat",
+   "lane": "history",
+   "status": "debunked",
+   "priority": 3,
+   "start": 1959,
+   "end": null,
+   "evidenceTypes": [
+    "geological",
+    "aerial photography"
+   ],
+   "mainstream": "A boat-shaped limonite formation about 164 m long on Mount Tendürek in eastern Turkey, about 29 km south of the summit of Mount Ararat. It drew attention after Turkish army captain İlhan Durupınar noticed it on aerial survey photographs in 1959; Life magazine published it in 1960. American adventurer Ron Wyatt promoted it as the petrified remains of Noah's Ark from 1977, and salvage expert David Fasold, who first supported the idea, later rejected it. Geologist Lorence Collins and Fasold published a study in 1996 concluding it is a natural structure, a view shared by the young-earth creationist geologist Andrew Snelling and by Turkish geologists. Turkey nonetheless created a visitor centre at the site.",
+   "alternatives": [
+    {
+     "label": "Ark claim",
+     "text": "Supporters point to its shape, length close to the biblical 300 cubits, claimed regular iron readings and \"anchor stones\" nearby; these were not confirmed by independent study."
+    },
+    {
+     "label": "Natural formation",
+     "text": "Geologists explain the shape as a doubly plunging syncline or mudflow around a rock outcrop; similar shapes occur nearby."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Bogus “Noah's Ark” from Turkey Exposed as a Common Geologic Structure",
+     "authors": "Collins, L. et al.",
+     "year": 1996,
+     "doi": "10.5408/1089-9995-44.4.439",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: Durupınar site",
+     "url": "https://en.wikipedia.org/wiki/Durup%C4%B1nar_site",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Searches for Noah's Ark",
+     "url": "https://en.wikipedia.org/wiki/Searches_for_Noah's_Ark",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/The_Structure_Claimed_to_be_the_Noah%27s_Ark_near_the_Mount_Ararat_in_Turkey.jpg/500px-The_Structure_Claimed_to_be_the_Noah%27s_Ark_near_the_Mount_Ararat_in_Turkey.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:The_Structure_Claimed_to_be_the_Noah%27s_Ark_near_the_Mount_Ararat_in_Turkey.jpg",
+     "author": "Mfikretyilmaz",
+     "license": "CC BY 3.0",
+     "title": "The_Structure_Claimed_to_be_the_Noah's_Ark_near_the_Mount_Ararat_in_Turkey.jpg"
+    }
+   ],
+   "categories": [
+    "religion",
+    "hoaxes",
+    "anomalies"
+   ],
+   "threads": [
+    "flood-myths",
+    "hoaxes-exposed"
+   ]
+  },
+  {
+   "id": "etemenanki",
+   "title": "Etemenanki: the real Tower of Babel?",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -600,
+   "end": null,
+   "dateNote": "Final rebuilding c. 610–560 BCE",
+   "evidenceTypes": [
+    "archaeological",
+    "textual",
+    "cuneiform"
+   ],
+   "mainstream": "Etemenanki (\"Temple of the foundation of heaven and earth\") was the great ziggurat of the god Marduk in Babylon. Its earliest phases are uncertain; it was rebuilt by Nabopolassar and completed by Nebuchadnezzar II in the 6th century BCE, when the Jews were in exile in Babylon. Cuneiform texts give its base as about 91 m square and imply a height of about the same, in seven stages topped by a temple. Herodotus described a tower of eight levels. It was damaged after Persian conquest, and Alexander the Great ordered it cleared for rebuilding, which never happened; little more than the foundation outline survives. A black stone stele in the Schøyen Collection, published by Andrew George in 2011, shows Nebuchadnezzar beside the stepped tower.",
+   "alternatives": [
+    {
+     "label": "Origin of the Babel story",
+     "text": "Many scholars think Genesis 11 – a tower reaching heaven, halted by God confusing human languages – was inspired by Babylon's ziggurats, probably Etemenanki, encountered during or before the exile."
+    },
+    {
+     "label": "Older parallel",
+     "text": "A Sumerian epic, Enmerkar and the Lord of Aratta, contains a passage in which the god Enki changes or confuses the speech of humanity, which some see as a precursor of the confusion-of-tongues motif; its interpretation is debated."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Etemenanki",
+     "url": "https://en.wikipedia.org/wiki/Etemenanki",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Tower of Babel",
+     "url": "https://en.wikipedia.org/wiki/Tower_of_Babel",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Enmerkar and the Lord of Aratta",
+     "url": "https://en.wikipedia.org/wiki/Enmerkar_and_the_Lord_of_Aratta",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Etemenanki_drawing.gif/500px-Etemenanki_drawing.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Etemenanki_drawing.gif",
+     "author": "Jona Lendering at en.wikipedia",
+     "license": "Public domain",
+     "title": "Etemenanki_drawing.gif"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology",
+    "religion",
+    "myth-legend"
+   ],
+   "threads": [
+    "giant-monuments",
+    "creation-myths"
+   ]
   }
  ]
 }
