@@ -450,3 +450,36 @@ addt('ufo-encounters','foo-fighters')
 addt('disappearances','dyatlov')
 addt('cosmic-impacts','chelyabinsk')
 addt('sky-omens','chelyabinsk')
+# --- batch 8 (2026-10-20)
+C.update({
+'harbin-dragon-man':'science-cosmos archaeology',
+'homo-luzonensis':'science-cosmos archaeology',
+'chavin':'archaeology history religion',
+'kuelap':'archaeology history lost-civilisations',
+'paracas-skulls':'archaeology anomalies aliens-ufo',
+'sacsayhuaman':'archaeology history anomalies',
+'khipu':'history archaeology',
+'paititi':'myth-legend lost-civilisations',
+'llullaillaco':'archaeology history religion',
+'fuente-magna':'archaeology anomalies',
+})
+addt('human-origins','harbin-dragon-man homo-luzonensis')
+addt('changed-understanding','harbin-dragon-man homo-luzonensis khipu')
+addt('lost-evidence','harbin-dragon-man')
+addt('giants-and-little-people','homo-luzonensis')
+addt('ocean-voyagers','homo-luzonensis')
+addt('strange-sounds','chavin')
+addt('underground-worlds','chavin')
+addt('knowledge-and-power','chavin khipu')
+addt('civilisation-collapses','chavin')
+addt('giant-monuments','kuelap sacsayhuaman')
+addt('lost-civilisations','kuelap')
+addt('outsider-builder-claims','kuelap sacsayhuaman paracas-skulls fuente-magna')
+addt('mummies','paracas-skulls llullaillaco')
+addt('ancient-technology','sacsayhuaman')
+addt('origins-of-writing','khipu fuente-magna')
+addt('hidden-kingdoms','paititi')
+addt('lost-treasures','paititi el-dorado genghis-tomb')
+addt('returning-saviours','paititi quetzalcoatl cortes-quetzalcoatl arthur viracocha')
+addt('hidden-tombs','llullaillaco')
+addt('sacred-kingship','llullaillaco')

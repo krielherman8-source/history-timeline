@@ -2008,7 +2008,9 @@
     "myth-legend",
     "history"
    ],
-   "threads": []
+   "threads": [
+    "returning-saviours"
+   ]
   },
   {
    "id": "shroud",
@@ -5504,7 +5506,8 @@
    ],
    "threads": [
     "sky-beings",
-    "serpent-beings"
+    "serpent-beings",
+    "returning-saviours"
    ]
   },
   {
@@ -5550,7 +5553,8 @@
    "threads": [
     "sky-beings",
     "world-ages-and-resets",
-    "creation-myths"
+    "creation-myths",
+    "returning-saviours"
    ]
   },
   {
@@ -7467,7 +7471,8 @@
    "threads": [
     "lost-civilisations",
     "stories-proven-true",
-    "hidden-kingdoms"
+    "hidden-kingdoms",
+    "lost-treasures"
    ]
   },
   {
@@ -9043,7 +9048,8 @@
     "anomalies"
    ],
    "threads": [
-    "hidden-tombs"
+    "hidden-tombs",
+    "lost-treasures"
    ]
   },
   {
@@ -9656,7 +9662,8 @@
    ],
    "threads": [
     "changed-understanding",
-    "sky-omens"
+    "sky-omens",
+    "returning-saviours"
    ]
   },
   {
@@ -15151,6 +15158,628 @@
    "threads": [
     "cosmic-impacts",
     "sky-omens"
+   ]
+  },
+  {
+   "id": "harbin-dragon-man",
+   "title": "Harbin \"Dragon Man\": a skull hidden in a well, and a face for the Denisovans",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -146000,
+   "end": null,
+   "dateNote": "At least c. 146,000 years old; surfaced 2018, described 2021",
+   "evidenceTypes": [
+    "fossil",
+    "uranium-series dating",
+    "ancient proteins",
+    "ancient DNA"
+   ],
+   "mainstream": "A nearly complete archaic human skull said to have been found in 1933 by a labourer building a railway bridge over the Songhua River in Harbin, north-east China, during the Japanese occupation. According to the account given to scientists, he hid it in an abandoned well; his family revealed it only in 2018, and it went to the Hebei GEO University. Described in 2021, it is at least about 146,000 years old (late Middle Pleistocene), has a huge braincase (about 1,420 cc), very heavy brow ridges, a broad flat face and large teeth, and was named the type of a new species, Homo longi (\"dragon man\", after Heilongjiang, \"Black Dragon River\"). In 2025 two studies led by Fu Qiaomei recovered proteins from the skull and mitochondrial DNA from dental calculus on its teeth, both pointing to the Denisovans – a group previously known almost only from a finger bone, teeth and genomes.",
+   "alternatives": [
+    {
+     "label": "Denisovan identity",
+     "text": "The 2025 molecular results led many researchers to treat the Harbin skull as the first fairly complete Denisovan cranium, giving a face to a population known from DNA traces in living people, especially in Oceania and East Asia."
+    },
+    {
+     "label": "Naming dispute",
+     "text": "Whether the right name is Homo longi, a Denisovan population within another species, or something else is debated; species names for Middle Pleistocene Asian fossils (Dali, Jinniushan, Xiahe) are contested."
+    },
+    {
+     "label": "Find story",
+     "text": "The 1933 discovery and well-hiding story comes from family testimony and cannot be independently checked, so the exact find spot is uncertain; geochemical comparison of the skull with Songhua River sediments was used to support it."
+    }
+   ],
+   "changed": "2010: Denisovans identified from a finger bone genome. 2018: Harbin skull handed to scientists. 2021: named Homo longi. 2025: protein and mitochondrial DNA evidence link it to the Denisovans.",
+   "sources": [
+    {
+     "title": "Late Middle Pleistocene Harbin cranium represents a new Homo species",
+     "authors": "Ji, Q. et al.",
+     "year": 2021,
+     "doi": "10.1016/j.xinn.2021.100132",
+     "type": "paper"
+    },
+    {
+     "title": "Denisovan mitochondrial DNA from dental calculus of the >146,000-year-old Harbin cranium",
+     "authors": "Fu, Q. et al.",
+     "year": 2025,
+     "doi": "10.1016/j.cell.2025.05.040",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: Harbin cranium",
+     "url": "https://en.wikipedia.org/wiki/Harbin_cranium",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Homo_longi_holotype.jpg/500px-Homo_longi_holotype.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Homo_longi_holotype.jpg",
+     "author": "Fu et al. (2025)",
+     "license": "CC BY 4.0",
+     "title": "Homo_longi_holotype.jpg"
+    }
+   ],
+   "categories": [
+    "science-cosmos",
+    "archaeology"
+   ],
+   "threads": [
+    "changed-understanding",
+    "human-origins",
+    "lost-evidence"
+   ]
+  },
+  {
+   "id": "homo-luzonensis",
+   "title": "Homo luzonensis: a small human species on an island in the Philippines",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -134000,
+   "end": null,
+   "dateNote": "Fossils c. 134,000 (earlier estimate ≥50,000) years ago; hominins on Luzon by c. 709,000 years ago",
+   "evidenceTypes": [
+    "fossil",
+    "uranium-series dating",
+    "archaeological"
+   ],
+   "mainstream": "Teeth, finger and toe bones and part of a thigh bone from Callao Cave on Luzon, the Philippines, were assigned in 2019 to a new species, Homo luzonensis. A first toe bone was reported in 2010 as possibly modern human; further finds showed an odd mix of small, fairly modern-looking molars with curved finger and toe bones resembling Australopithecus. The remains were first dated to at least 50,000–67,000 years ago; a 2023 study gave about 134,000 years. Separately, butchered rhinoceros bones and stone tools from Kalinga, Luzon, show hominins were on the island by about 709,000 years ago – which means some early humans crossed open sea to get there. Locally the species is nicknamed \"Ubag\", after a mythical caveman.",
+   "alternatives": [
+    {
+     "label": "Island dwarfing",
+     "text": "Like Homo floresiensis on Flores, H. luzonensis may be a lineage that became small after long isolation on an island; how its ancestors (perhaps Homo erectus or an earlier hominin) crossed the sea is unknown – rafting after storms or tsunamis has been suggested."
+    },
+    {
+     "label": "Not a separate species?",
+     "text": "Some researchers argue the few bones are too limited to define a species and could belong to a variable known population; no DNA has been recovered."
+    },
+    {
+     "label": "Folklore echoes (speculative)",
+     "text": "Philippine and Indonesian stories of small wild forest people are sometimes linked in popular writing to these island hominins; no evidence connects such stories to populations that died out tens of thousands of years ago."
+    }
+   ],
+   "sources": [
+    {
+     "title": "A new species of Homo from the Late Pleistocene of the Philippines",
+     "authors": "Détroit, F. et al.",
+     "year": 2019,
+     "doi": "10.1038/s41586-019-1067-9",
+     "type": "paper"
+    },
+    {
+     "title": "Earliest known hominin activity in the Philippines by 709 thousand years ago",
+     "authors": "Ingicco, T. et al.",
+     "year": 2018,
+     "doi": "10.1038/s41586-018-0072-8",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: Homo luzonensis",
+     "url": "https://en.wikipedia.org/wiki/Homo_luzonensis",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/LuzonensisMolars.jpg/500px-LuzonensisMolars.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:LuzonensisMolars.jpg",
+     "author": "Luzonensis",
+     "license": "CC BY-SA 4.0",
+     "title": "LuzonensisMolars.jpg"
+    }
+   ],
+   "categories": [
+    "science-cosmos",
+    "archaeology"
+   ],
+   "threads": [
+    "changed-understanding",
+    "giants-and-little-people",
+    "ocean-voyagers",
+    "human-origins"
+   ]
+  },
+  {
+   "id": "chavin",
+   "title": "Chavín de Huántar: the oracle temple of underground galleries",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -1200,
+   "end": -500,
+   "evidenceTypes": [
+    "archaeological",
+    "radiocarbon",
+    "iconographic"
+   ],
+   "mainstream": "A ceremonial centre at 3,180 m in the Andes of north-central Peru, built and rebuilt from about 1200 BCE and used until about 500–400 BCE by the Chavín culture, whose art style spread widely across Peru. Its stone temples are honeycombed with narrow, dark, stone-lined galleries and ventilation and drainage ducts. At a gallery crossing stands the Lanzón, a 4.5 m carved granite blade showing a fanged deity, probably the centre of an oracle. Carved heads on the outer walls show humans turning into fanged, snot-nosed beings, and a relief of a figure holding a San Pedro cactus (a mescaline source) has been read as evidence of ritual drug use. In 2001 excavations led by John Rick found 20 decorated Strombus-shell trumpets (pututus) inside the galleries. UNESCO World Heritage Site since 1985.",
+   "alternatives": [
+    {
+     "label": "Engineered experience",
+     "text": "Rick and others argue the temple was designed to disorient and awe visitors – darkness, rushing water in ducts, conch-trumpet sounds and psychoactive substances – helping a priestly elite build authority; acoustic studies (e.g. at Stanford) have tested how sound travelled in the galleries."
+    },
+    {
+     "label": "Pilgrimage centre vs capital",
+     "text": "Chavín is now usually seen as a pilgrimage and oracle centre, not the capital of an empire; how its art style spread so far is still debated."
+    },
+    {
+     "label": "Fringe readings",
+     "text": "Popular alternative writers have presented the transforming-head sculptures as non-human beings or the galleries as advanced technology; these readings are speculative and contradicted by the archaeological context."
+    }
+   ],
+   "sources": [
+    {
+     "title": "The Evolution of Authority and Power at Chavin de Huantar, Peru",
+     "authors": "Rick, J.",
+     "year": 2005,
+     "doi": "10.1525/ap3a.2005.14.071",
+     "type": "paper"
+    },
+    {
+     "title": "UNESCO: Chavín (Archaeological Site)",
+     "url": "https://whc.unesco.org/en/list/330",
+     "type": "heritage body"
+    },
+    {
+     "title": "Wikipedia: Chavín de Huántar",
+     "url": "https://en.wikipedia.org/wiki/Chav%C3%ADn_de_Hu%C3%A1ntar",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Chav%C3%ADn_de_Hu%C3%A1ntar_-_51149086708.jpg/500px-Chav%C3%ADn_de_Hu%C3%A1ntar_-_51149086708.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Chav%C3%ADn_de_Hu%C3%A1ntar_-_51149086708.jpg",
+     "author": "Apollo⠀",
+     "license": "CC BY 2.0",
+     "title": "Chavín_de_Huántar_-_51149086708.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history",
+    "religion"
+   ],
+   "threads": [
+    "civilisation-collapses",
+    "knowledge-and-power",
+    "strange-sounds",
+    "underground-worlds"
+   ]
+  },
+  {
+   "id": "kuelap",
+   "title": "Kuélap and the Chachapoyas \"cloud warriors\"",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 3,
+   "start": 500,
+   "end": 1570,
+   "dateNote": "Occupied c. 5th century–c. 1570; main building phase c. 900–1100",
+   "evidenceTypes": [
+    "archaeological",
+    "radiocarbon",
+    "historical records"
+   ],
+   "mainstream": "A walled settlement on a ridge about 3,000 m up above the Utcubamba valley in Amazonas, northern Peru, built by the Chachapoyas culture. Occupation began around the 5th–6th century CE, most of its structures date from about 900–1100, and it was abandoned around 1570 after the Spanish conquest. Limestone walls 10–20 m high enclose about six hectares and over 400 mostly round buildings, decorated with zigzag and rhomboid friezes, entered through funnel-like passages only one person wide. The Inca conquered the Chachapoyas in the late 15th century. A judge from Chachapoyas, Juan Crisóstomo Nieto, rediscovered the site in 1843; part of the wall collapsed in April 2022.",
+   "alternatives": [
+    {
+     "label": "Fortress or town",
+     "text": "Its walls and narrow gates suggest defence, but it was also a densely lived-in town and burial place; the balance is debated."
+    },
+    {
+     "label": "\"White\" Chachapoyas (unsupported)",
+     "text": "Spanish chroniclers described some Chachapoya people as fair-skinned, and some 20th-century writers (e.g. Jacques de Mahieu) proposed Viking or other Old World origins; there is no archaeological or genetic support, and the Chachapoyas are regarded as an indigenous Andean–Amazonian culture."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Kuélap",
+     "url": "https://en.wikipedia.org/wiki/Ku%C3%A9lap",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Chachapoya culture",
+     "url": "https://en.wikipedia.org/wiki/Chachapoya_culture",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Kuelap_-_Ao%C3%BBt_2007_-_05.jpg/500px-Kuelap_-_Ao%C3%BBt_2007_-_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Kuelap_-_Ao%C3%BBt_2007_-_05.jpg",
+     "author": "Martin St-Amant (S23678)",
+     "license": "CC BY 3.0",
+     "title": "Kuelap_-_Août_2007_-_05.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history",
+    "lost-civilisations"
+   ],
+   "threads": [
+    "lost-civilisations",
+    "giant-monuments",
+    "outsider-builder-claims"
+   ]
+  },
+  {
+   "id": "paracas-skulls",
+   "title": "The elongated skulls of Paracas",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": -800,
+   "end": -100,
+   "dateNote": "Paracas culture c. 800–100 BCE",
+   "evidenceTypes": [
+    "archaeological",
+    "osteological",
+    "claimed DNA tests"
+   ],
+   "mainstream": "The Paracas culture of Peru's south coast (about 800–100 BCE) is famous for its necropolis textiles and for the skulls Julio Tello excavated from shaft tombs (the Paracas Cavernas) in the late 1920s. Most of these skulls were deliberately reshaped in infancy by binding the head with boards or cloth – artificial cranial deformation, practised in many Andean societies and around the world – producing tall or long heads. Paracas skulls also show some of the earliest trepanation (surgical skull opening) in the Americas, with many patients surviving. Mainstream bioarchaeology treats the long skulls as a cultural practice marking identity, status or group membership.",
+   "alternatives": [
+    {
+     "label": "Non-human or hybrid origin (speculative)",
+     "text": "From about 2014, promoters including Brien Foerster publicised preliminary DNA tests said to show unusual or unknown lineages and claimed the skulls had larger volume than human skulls; these results were not published in a peer-reviewed journal and are rejected by specialists, who note contamination risks and that binding changes shape, not brain size."
+    },
+    {
+     "label": "Cultural explanation",
+     "text": "Physical anthropologists point to the wear patterns of binding, ceramics depicting shaped heads, and identical practices documented ethnographically, all consistent with ordinary humans."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Paracas culture",
+     "url": "https://en.wikipedia.org/wiki/Paracas_culture",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Artificial cranial deformation",
+     "url": "https://en.wikipedia.org/wiki/Artificial_cranial_deformation",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Craneo_deformado_Paracas.jpg/500px-Craneo_deformado_Paracas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Craneo_deformado_Paracas.jpg",
+     "author": "EnriqueGuia",
+     "license": "CC BY-SA 4.0",
+     "title": "Craneo deformado Paracas.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "anomalies",
+    "aliens-ufo"
+   ],
+   "threads": [
+    "mummies",
+    "outsider-builder-claims"
+   ]
+  },
+  {
+   "id": "sacsayhuaman",
+   "title": "Sacsayhuamán: walls that fit \"without a knife blade\"",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1440,
+   "end": 1536,
+   "dateNote": "Construction mainly 15th–early 16th century; battle 1536",
+   "evidenceTypes": [
+    "archaeological",
+    "historical records",
+    "experimental archaeology"
+   ],
+   "mainstream": "A massive complex on a hill above Cusco, the Inca capital, whose three tiers of zigzag terrace walls are built of huge polygonal limestone and andesite blocks fitted so tightly that, it is often said, a knife blade cannot be slid between them; the largest blocks are estimated at well over 100 tonnes. Spanish chroniclers recorded Inca oral history that it was begun under Pachacuti in the 15th century and continued under Topa Inca and Huayna Capac, with thousands of labourers. It was the scene of fierce fighting in Manco Inca's siege of Cusco in 1536, after which the Spanish quarried much of it for buildings in the city. In the 1980s architect Jean-Pierre Protzen showed experimentally that such blocks could be shaped and fitted with hammerstones and repeated trial fitting.",
+   "alternatives": [
+    {
+     "label": "Older builders (speculative)",
+     "text": "Some alternative writers argue the largest walls predate the Inca and were built by a lost civilisation or with lost technology; no dated evidence supports a pre-Inca origin for the megalithic walls, and Inca quarries, ramps and tool marks are documented."
+    },
+    {
+     "label": "Stone-softening legends",
+     "text": "Stories of a plant juice that makes rock soft like clay (repeated by Percy Fawcett among others) are folklore; there is no physical or chemical evidence of softened stone at Inca sites."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Inca Quarrying and Stonecutting",
+     "authors": "Protzen, J.",
+     "year": 1985,
+     "doi": "10.2307/990027",
+     "type": "paper"
+    },
+    {
+     "title": "UNESCO: City of Cuzco",
+     "url": "https://whc.unesco.org/en/list/273",
+     "type": "heritage body"
+    },
+    {
+     "title": "Wikipedia: Sacsayhuamán",
+     "url": "https://en.wikipedia.org/wiki/Sacsayhuam%C3%A1n",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Sacsayhuam%C3%A1n%2C_Cusco%2C_Per%C3%BA%2C_2015-07-31%2C_DD_27.JPG/500px-Sacsayhuam%C3%A1n%2C_Cusco%2C_Per%C3%BA%2C_2015-07-31%2C_DD_27.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Sacsayhuam%C3%A1n,_Cusco,_Per%C3%BA,_2015-07-31,_DD_27.JPG",
+     "author": "Diego Delso",
+     "license": "CC BY-SA 4.0",
+     "title": "Sacsayhuamán,_Cusco,_Perú,_2015-07-31,_DD_27.JPG"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history",
+    "anomalies"
+   ],
+   "threads": [
+    "giant-monuments",
+    "ancient-technology",
+    "outsider-builder-claims"
+   ]
+  },
+  {
+   "id": "khipu",
+   "title": "Khipu: Inca knotted cords – accounts, or a lost writing?",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 1100,
+   "end": 1600,
+   "dateNote": "Wari precursors 1st millennium CE; Inca use c. 1400–1532, continued into colonial period",
+   "evidenceTypes": [
+    "archaeological",
+    "ethnohistorical",
+    "statistical analysis"
+   ],
+   "mainstream": "Khipu (quipu) are bundles of cotton or camelid-fibre cords whose knots, colours, positions and plying stored information; precursors go back to the Wari state in the 1st millennium CE, and the Inca empire used them for censuses, tribute and calendars, read by specialists called khipukamayuq. In 1912 Leland Locke showed that many khipu record numbers in a base-10 positional system. Just under 1,400 survive, many destroyed by the Spanish as idolatrous. In 2005 Gary Urton and Carrie Brezine showed hierarchical accounting relationships between khipu from Puruchuco; in 2018 Manny Medrano and Urton matched six colonial-era khipu from the Santa Valley to a Spanish census, linking cord colours and ply to social categories.",
+   "alternatives": [
+    {
+     "label": "Narrative writing",
+     "text": "Spanish chroniclers said some khipu recorded histories, laws and stories. Sabine Hyland (2017) reported an 18th-century narrative khipu from Collata whose community described it as a letter, with an estimated 95 distinct cord-signs – enough for a logosyllabic system – but this is not yet deciphered."
+    },
+    {
+     "label": "Mostly numerical",
+     "text": "Other scholars think most khipu were accounting devices plus memory aids for trained readers, not full writing; no general decipherment of non-numerical khipu exists."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Khipu Accounting in Ancient Peru",
+     "authors": "Urton, G. et al.",
+     "year": 2005,
+     "doi": "10.1126/science.1113426",
+     "type": "paper"
+    },
+    {
+     "title": "Toward the Decipherment of a Set of Mid-Colonial Khipus from the Santa Valley, Coastal Peru",
+     "authors": "Medrano, M. et al.",
+     "year": 2018,
+     "doi": "10.1215/00141801-4260638",
+     "type": "paper"
+    },
+    {
+     "title": "Writing with Twisted Cords: The Inscriptive Capacity of Andean Khipus",
+     "authors": "Hyland, S.",
+     "year": 2017,
+     "doi": "10.1086/691682",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: Quipu",
+     "url": "https://en.wikipedia.org/wiki/Quipu",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Inca_Quipu.jpg/500px-Inca_Quipu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Inca_Quipu.jpg",
+     "author": "Claus Ableiter nur hochgeladen aus enWiki",
+     "license": "CC BY-SA 3.0",
+     "title": "Inca_Quipu.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology"
+   ],
+   "threads": [
+    "changed-understanding",
+    "origins-of-writing",
+    "knowledge-and-power"
+   ]
+  },
+  {
+   "id": "paititi",
+   "title": "Paititi: the last refuge of the Inca",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": 1572,
+   "end": null,
+   "evidenceTypes": [
+    "historical records",
+    "oral tradition",
+    "exploration"
+   ],
+   "mainstream": "Paititi is a legendary lost Inca city or rich land said to lie east of the Andes in the rainforests of south-east Peru, northern Bolivia or north-west Brazil. In Peruvian versions it is the refuge of the culture hero Inkarri, who withdrew to the jungle and will one day return; others tie it to Incas fleeing the Spanish after the fall of Vilcabamba in 1572. Colonial documents from 1570 onward describe expeditions in search of it, and in 2001 a Jesuit report of about 1600 by missionary Andrés López, describing a jungle city rich in gold, was found in Rome (it is third-hand). Modern expeditions – some fatal, like the 1971 Nichols expedition – have found Inca remains, petroglyphs at Pusharo and natural \"pyramids\" at Paratoari, but no lost city.",
+   "alternatives": [
+    {
+     "label": "Historical kernel",
+     "text": "Historians including Martti Pärssinen and Ari Siiriäinen link the legend to real Inca expansion into the Amazon lowlands; a Finnish–Bolivian dig at Las Piedras (2001–2003) found some imperial Inca pottery, but its Inca origin is disputed."
+    },
+    {
+     "label": "Utopian myth",
+     "text": "Others treat Paititi like El Dorado – a myth of a hidden kingdom that grew with colonial treasure-seeking and with hopes of Inca return."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Paititi",
+     "url": "https://en.wikipedia.org/wiki/Paititi",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Inkarri",
+     "url": "https://en.wikipedia.org/wiki/Inkarri",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/La_sabidur%C3%ADa%2C_junto_con_la_elocuencia%2C_sacan_a_Atahualpa_del_sepulcro.jpg/500px-La_sabidur%C3%ADa%2C_junto_con_la_elocuencia%2C_sacan_a_Atahualpa_del_sepulcro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:La_sabidur%C3%ADa,_junto_con_la_elocuencia,_sacan_a_Atahualpa_del_sepulcro.jpg",
+     "author": "François Gérard",
+     "license": "Public domain",
+     "title": "La_sabiduría,_junto_con_la_elocuencia,_sacan_a_Atahualpa_del_sepulcro.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "lost-civilisations"
+   ],
+   "threads": [
+    "hidden-kingdoms",
+    "lost-treasures",
+    "returning-saviours"
+   ]
+  },
+  {
+   "id": "llullaillaco",
+   "title": "The children of Llullaillaco: Inca sacrifice at 6,700 metres",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1500,
+   "end": null,
+   "dateNote": "Died c. 1462–1507; found 1999",
+   "evidenceTypes": [
+    "archaeological",
+    "biochemical",
+    "radiological"
+   ],
+   "mainstream": "On 16 March 1999 Johan Reinhard, Constanza Ceruti and their team found three Inca children buried near the 6,739 m summit of Llullaillaco volcano on the Argentina–Chile border – one of the highest archaeological sites on Earth. A girl of about 13 (the \"Maiden\"), and a younger boy and girl died around 1500 in a capacocha ceremony, in which chosen children were taken to sacred mountains and sacrificed. Freezing, dry conditions preserved organs, hair and clothing. Analysis of the Maiden's hair (Wilson et al., PNAS 2013) showed her diet and coca and alcohol consumption rose sharply over her last year, especially in the final weeks, consistent with ritual preparation and sedation. The younger girl's body was later struck by lightning. They are displayed at the Museum of High Altitude Archaeology in Salta.",
+   "alternatives": [
+    {
+     "label": "Interpretation",
+     "text": "Researchers read the changes as a staged transformation of the children into sacred offerings, linking empire, mountains and state religion; how willing the children or families were is unknowable."
+    },
+    {
+     "label": "Ethics",
+     "text": "Indigenous groups and others have criticised displaying the bodies; the museum shows them one at a time under controlled conditions."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Archaeological, radiological, and biological evidence offer insight into Inca child sacrifice",
+     "authors": "Wilson, A. et al.",
+     "year": 2013,
+     "doi": "10.1073/pnas.1305117110",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: Children of Llullaillaco",
+     "url": "https://en.wikipedia.org/wiki/Children_of_Llullaillaco",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Momias_de_Llullaillaco_en_la_Provincia_de_Salta_%28Argentina%29.jpg/500px-Momias_de_Llullaillaco_en_la_Provincia_de_Salta_%28Argentina%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Momias_de_Llullaillaco_en_la_Provincia_de_Salta_(Argentina).jpg",
+     "author": "grooverpedro",
+     "license": "CC BY 2.0",
+     "title": "Momias_de_Llullaillaco_en_la_Provincia_de_Salta_(Argentina).jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history",
+    "religion"
+   ],
+   "threads": [
+    "hidden-tombs",
+    "mummies",
+    "sacred-kingship"
+   ]
+  },
+  {
+   "id": "fuente-magna",
+   "title": "The Fuente Magna bowl: Sumerian writing at Lake Titicaca?",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 3,
+   "start": 1950,
+   "end": null,
+   "dateNote": "Reported find c. 1950; object undated",
+   "evidenceTypes": [
+    "artefact",
+    "epigraphic claims"
+   ],
+   "mainstream": "A large stone vessel reportedly found around 1950 by a farmer near Chua on Lake Titicaca, Bolivia, and now in the Museo de Metales Preciosos in La Paz. Its cultural affiliation, date and find context are uncertain. Its inner surface carries a face and engraved marks that some promoters, especially since the 2000s, have claimed are proto-Sumerian or cuneiform writing, implying ancient Mesopotamian contact with South America. Archaeologist Alexander Joffe has suggested the marks are geometric filler or deliberate gibberish, and that the face looks more like Tiwanaku-era work (c. 200–1000 CE).",
+   "alternatives": [
+    {
+     "label": "Old World contact (speculative)",
+     "text": "Proponents read the marks as a Sumerian text and link the bowl to similar claims about the Pokotia monolith; no specialist in cuneiform has published a confirmed reading, and no other Mesopotamian material is known in the Andes."
+    },
+    {
+     "label": "Mainstream view",
+     "text": "Without a secure find context or dating, most archaeologists treat the bowl as an undated local object of uncertain authenticity and the \"inscription\" as non-linguistic."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Fuente Magna",
+     "url": "https://en.wikipedia.org/wiki/Fuente_Magna",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [],
+   "categories": [
+    "archaeology",
+    "anomalies"
+   ],
+   "threads": [
+    "origins-of-writing",
+    "outsider-builder-claims"
    ]
   }
  ]
