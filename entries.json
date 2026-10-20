@@ -17061,6 +17061,439 @@
     "stories-proven-true",
     "disappearances"
    ]
+  },
+  {
+   "id": "jericho-tower",
+   "title": "The Tower of Jericho: the world's first tower, aligned to the solstice?",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -8300,
+   "end": null,
+   "dateNote": "c. 8300 BCE (Pre-Pottery Neolithic A)",
+   "evidenceTypes": [
+    "archaeological",
+    "radiocarbon",
+    "astronomical analysis"
+   ],
+   "mainstream": "A solid stone tower about 8.5 m high and 9 m across at its base, with an internal staircase of 22 steps, built at Jericho (Tell es-Sultan) in the Jordan Valley around 8300–8000 BCE by Pre-Pottery Neolithic A villagers – over 5,000 years before the Egyptian pyramids. Kathleen Kenyon excavated it in the 1950s along with a wall and ditch, and called Jericho the oldest walled town in the world. Ancient Jericho/Tell es-Sultan was inscribed as a UNESCO World Heritage Site in 2023.",
+   "alternatives": [
+    {
+     "label": "Defence, flood barrier or ritual",
+     "text": "Kenyon saw the tower and wall as defences; Ofer Bar-Yosef argued the wall protected against floods and debris, and that the tower had a communal or ritual role."
+    },
+    {
+     "label": "Solstice shadow",
+     "text": "Ran Barkai and Roy Liran (2008) noted that on the summer solstice the setting sun drops behind Mount Quruntul so that the mountain's shadow falls first on the tower and then over the settlement; they suggest the tower was built to mark this and to create social cohesion – an interpretation others regard as possible but unproven."
+    },
+    {
+     "label": "The biblical walls",
+     "text": "Kenyon also found that Jericho had no standing walls when the Israelites would have arrived in the Late Bronze Age, contradicting a literal reading of the fall of Jericho in the Book of Joshua; some excavators (e.g. Bryant Wood) dispute her dating."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Midsummer Sunset at Neolithic Jericho",
+     "authors": "Barkai, R. et al.",
+     "year": 2008,
+     "doi": "10.2752/175169708x329345",
+     "type": "paper"
+    },
+    {
+     "title": "UNESCO: Ancient Jericho/Tell es-Sultan",
+     "url": "https://whc.unesco.org/en/list/1687",
+     "type": "heritage body"
+    },
+    {
+     "title": "Wikipedia: Tower of Jericho",
+     "url": "https://en.wikipedia.org/wiki/Tower_of_Jericho",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Ziko.jpg/500px-Ziko.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Ziko.jpg",
+     "author": "Salamandra123",
+     "license": "CC BY-SA 3.0",
+     "title": "Ziko.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history",
+    "science-cosmos",
+    "religion"
+   ],
+   "threads": [
+    "changed-understanding",
+    "giant-monuments",
+    "ancient-astronomy"
+   ]
+  },
+  {
+   "id": "cave-of-swimmers",
+   "title": "The Cave of Swimmers: swimming in the Sahara",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -7000,
+   "end": null,
+   "dateNote": "Paintings probably c. 8000–5000 BCE (uncertain); found 1933",
+   "evidenceTypes": [
+    "rock art",
+    "palaeoclimate",
+    "archaeological"
+   ],
+   "mainstream": "A rock shelter in Wadi Sura on the Gilf Kebir plateau of south-western Egypt, in one of the driest places on Earth, whose Neolithic paintings show small human figures with bent limbs apparently swimming, as well as giraffes and other animals. The Hungarian explorer László Almásy found it in October 1933 and argued in 1934 that the painters had lived when the Sahara was wet – an idea so new that his editor added footnotes disagreeing. It is now known that during the African Humid Period (about 9000–3500 BCE) the Sahara had lakes, grasslands and hippos, and that people moved in and out of it as rainfall changed. In 2002 a much larger painted shelter nearby, the \"Cave of Beasts\" (Wadi Sura II), was found, with thousands of figures and strange headless beasts. The site featured in the novel and film The English Patient and has since been damaged by visitors.",
+   "alternatives": [
+    {
+     "label": "Real swimmers",
+     "text": "The traditional reading sees the paintings as scenes of swimming in nearby lakes, proof of a green Sahara."
+    },
+    {
+     "label": "Symbolic swimmers",
+     "text": "Researchers such as András Zboray argue the figures are symbolic, perhaps spirits or the dead floating in a mythical watery realm; Egyptian anthropologist Yasser Al-Laithy compared them to the swimming souls in the Book of Gates in the tomb of Ramesses VI – a speculative link to later Egyptian religion."
+    }
+   ],
+   "changed": "1934: Almásy's wet-Sahara idea treated as eccentric. Late 20th century: palaeoclimate research confirms a Green Sahara. 2006: Kuper and Kröpelin map how human occupation followed Holocene rainfall.",
+   "sources": [
+    {
+     "title": "Climate-Controlled Holocene Occupation in the Sahara: Motor of Africa's Evolution",
+     "authors": "Kuper, R. et al.",
+     "year": 2006,
+     "doi": "10.1126/science.1130989",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: Cave of Swimmers",
+     "url": "https://en.wikipedia.org/wiki/Cave_of_Swimmers",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: African humid period",
+     "url": "https://en.wikipedia.org/wiki/African_humid_period",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/WadiSuraSwimmers.jpg/500px-WadiSuraSwimmers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:WadiSuraSwimmers.jpg",
+     "author": "Roland Unger",
+     "license": "CC BY-SA 3.0",
+     "title": "WadiSuraSwimmers.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "science-cosmos"
+   ],
+   "threads": [
+    "changed-understanding",
+    "vanished-landscapes",
+    "rain-and-drought"
+   ]
+  },
+  {
+   "id": "bigo-chwezi",
+   "title": "Bigo bya Mugenyi and the vanished Chwezi demigods",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 3,
+   "start": 1300,
+   "end": 1500,
+   "dateNote": "Earthworks c. 1300–1500 CE",
+   "evidenceTypes": [
+    "archaeological",
+    "radiocarbon",
+    "oral tradition"
+   ],
+   "mainstream": "Bigo bya Mugenyi in south-western Uganda is a system of ditches and banks more than 10 km long on the south bank of the Katonga River, enclosing a central group of four enclosures and mounds; it has been dated to roughly 1300–1500 CE and called Uganda's largest ancient monument. Banyoro, Batooro and Banyankole oral traditions link it with the Chwezi (Bachwezi), the semi-legendary second dynasty of the Kitara empire – rulers with supernatural powers who, according to some traditions, left or vanished mysteriously after evil omens, some say into lakes. The Chwezi are still venerated as spirits through spirit mediums (the kubandwa cult) across the Great Lakes region, and the Bito dynasty of Bunyoro claims to have succeeded them.",
+   "alternatives": [
+    {
+     "label": "Historical dynasty",
+     "text": "Some historians treat the Chwezi as a real ruling group of the 14th–15th centuries whose capital may have been Bigo or Ntusi; others see them as a pantheon of spirits later turned into kings in tradition. Peter Schmidt links Chwezi spirit cults to early iron-working communities."
+    },
+    {
+     "label": "Defence or cattle and elephants",
+     "text": "Colonial-era writers saw the earthworks as forts; later archaeologists suggest the outer ditches kept elephants from crops or cattle in, and the inner works marked elite power."
+    },
+    {
+     "label": "Hamitic myth (discredited)",
+     "text": "Colonial writers claimed the Chwezi were light-skinned foreign invaders who brought civilisation – the racist \"Hamitic hypothesis\"; historians conclude they were a local Bantu-speaking aristocracy, and local tradition distinguishes them from the Bahima herders."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Bigo bya Mugenyi",
+     "url": "https://en.wikipedia.org/wiki/Bigo_bya_Mugenyi",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Chwezi",
+     "url": "https://en.wikipedia.org/wiki/Chwezi",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Empire of Kitara",
+     "url": "https://en.wikipedia.org/wiki/Empire_of_Kitara",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Kitara_per_D._H._Apuuli.svg/500px-Kitara_per_D._H._Apuuli.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Kitara_per_D._H._Apuuli.svg",
+     "author": "original by MellonDorderivative by Ahiise2",
+     "license": "CC BY-SA 4.0",
+     "title": "Kitara_per_D._H._Apuuli.svg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history",
+    "myth-legend",
+    "religion"
+   ],
+   "threads": [
+    "giant-monuments",
+    "deep-oral-memory",
+    "sacred-kingship",
+    "outsider-builder-claims",
+    "disappearances"
+   ]
+  },
+  {
+   "id": "pied-piper",
+   "title": "The Pied Piper of Hamelin: 130 children who left in 1284",
+   "lane": "myth",
+   "status": "disputed",
+   "priority": 2,
+   "start": 1284,
+   "end": null,
+   "dateNote": "Event dated 26 June 1284; earliest records c. 1300 (window) and c. 1440 (manuscript)",
+   "evidenceTypes": [
+    "textual",
+    "folklore",
+    "onomastic"
+   ],
+   "mainstream": "The legend tells of a piper in coloured clothes who rid Hamelin, in Lower Saxony, of rats; when the town refused to pay, he returned and led away its children, who vanished into a hill. The rats were a later addition (16th century). The core is older and stranger: a church window installed around 1300 (destroyed 1660) showed the piper and children in white, and the Lüneburg manuscript (c. 1440–50) states that on the feast of Saints John and Paul (26 June) 1284 a well-dressed young man playing a silver pipe led 130 children out of the town to the place of execution, where they vanished. Hamelin dated events from the children's departure, and to this day music and dancing are not allowed in the street the children are said to have taken, the Bungelosenstrasse.",
+   "alternatives": [
+    {
+     "label": "Emigration",
+     "text": "The favoured historical theory is that young townspeople were recruited by a \"locator\" to settle lands in eastern Europe; linguist Jürgen Udolph found Hamelin-area family names concentrated in Prignitz, Uckermark and Pomerania."
+    },
+    {
+     "label": "Death in disguise",
+     "text": "Others propose disease, a landslide or sinkhole, drowning in the Weser, a dancing mania, a Children's Crusade, or a battle such as Sedemünder (1260), with the piper as a figure of Death."
+    },
+    {
+     "label": "Folklore motif",
+     "text": "Stories of a magical musician or otherworldly being leading people into a hill echo widespread European fairy lore; any supernatural reading is unsupported."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Pied Piper of Hamelin",
+     "url": "https://en.wikipedia.org/wiki/Pied_Piper_of_Hamelin",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Pied_piper.jpg/500px-Pied_piper.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Pied_piper.jpg",
+     "author": "Creator:Augustin von Moersperg",
+     "license": "Public domain",
+     "title": "Pied_piper.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "history",
+    "anomalies"
+   ],
+   "threads": [
+    "collective-experiences",
+    "disappearances",
+    "otherworld-visits",
+    "strange-sounds",
+    "underground-worlds"
+   ]
+  },
+  {
+   "id": "carrington-event",
+   "title": "The Carrington Event: the day the sky caught fire",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1859,
+   "end": null,
+   "dateNote": "1–2 September 1859",
+   "evidenceTypes": [
+    "astronomical observation",
+    "magnetometer records",
+    "historical records",
+    "tree rings"
+   ],
+   "mainstream": "On 1 September 1859 British astronomers Richard Carrington and Richard Hodgson independently saw a brilliant white-light flare on the Sun – the first solar flare ever recorded. About 17.6 hours later a coronal mass ejection struck Earth, causing the most intense geomagnetic storm in recorded history (1–2 September). Auroras were seen close to the tropics, including in the Caribbean, and were bright enough in places to read by; some people thought dawn had come or cities were burning. Telegraph systems across Europe and North America failed, operators received shocks, paper caught fire from sparks, and some lines carried messages on auroral currents alone with batteries disconnected. A storm of similar size today could badly damage power grids and satellites; a large CME narrowly missed Earth in July 2012.",
+   "alternatives": [
+    {
+     "label": "Even bigger storms",
+     "text": "Radiocarbon spikes in tree rings found by Fusa Miyake and colleagues (2012, 2013) show sudden cosmic-ray events around 774–775 and 993–994 CE, now usually attributed to extreme solar storms far larger than Carrington; links to a \"red crucifix\" in the sky recorded in the Anglo-Saxon Chronicle for 774 are suggestive but speculative."
+    },
+    {
+     "label": "Size estimates",
+     "text": "Estimates of the 1859 storm's magnitude vary by method; some later storms (e.g. 1921) may have been comparable."
+    }
+   ],
+   "sources": [
+    {
+     "title": "The extreme magnetic storm of 1–2 September 1859",
+     "authors": "Tsurutani, B. et al.",
+     "year": 2003,
+     "doi": "10.1029/2002JA009504",
+     "type": "paper"
+    },
+    {
+     "title": "A signature of cosmic-ray increase in ad 774–775 from tree rings in Japan",
+     "authors": "Miyake, F. et al.",
+     "year": 2012,
+     "doi": "10.1038/nature11123",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: Carrington Event",
+     "url": "https://en.wikipedia.org/wiki/Carrington_Event",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Carrington_Richard_drawing_of_1859_sunspots.jpeg/500px-Carrington_Richard_drawing_of_1859_sunspots.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Carrington_Richard_drawing_of_1859_sunspots.jpeg",
+     "author": "Richard Christopher Carrington",
+     "license": "Public domain",
+     "title": "Carrington_Richard_drawing_of_1859_sunspots.jpeg"
+    }
+   ],
+   "categories": [
+    "science-cosmos",
+    "catastrophes",
+    "history"
+   ],
+   "threads": [
+    "sky-omens",
+    "mysterious-lights"
+   ]
+  },
+  {
+   "id": "the-hum",
+   "title": "The Hum: a low drone that only some people hear",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 3,
+   "start": 1970,
+   "end": null,
+   "dateNote": "Reports from the 1970s onward",
+   "evidenceTypes": [
+    "acoustic surveys",
+    "questionnaires",
+    "eyewitness reports"
+   ],
+   "mainstream": "Since at least the 1970s, residents of places including Bristol (UK), Taos (New Mexico), Largs (Scotland), Auckland and Windsor (Ontario) have reported a persistent, low-frequency hum or drone, often worse at night and indoors, that others nearby cannot hear. A study of the Taos Hum in the early 1990s found about 2% of residents heard it, each at a different frequency between about 32 and 80 Hz. Some hums have been traced to machines: the West Seattle Hum to a vacuum pump offloading ships, the Wellington Hum probably to a ship's diesel generator, and the Windsor Hum to steelworks on Zug Island near Detroit – reports stopped when the U.S. Steel blast furnaces shut in April 2020. Many cases remain unexplained.",
+   "alternatives": [
+    {
+     "label": "Not one phenomenon",
+     "text": "Audiologists such as David Baguley suggest roughly a third of cases have a physical environmental source and the rest involve heightened attention to background sounds, tinnitus or spontaneous otoacoustic emissions produced by the ear itself."
+    },
+    {
+     "label": "Exotic causes (speculative)",
+     "text": "Suggested causes such as secret military VLF/ELF transmitters, gas pipelines or Earth's natural vibrations (microseisms) circulate widely; none has been shown to explain the reports."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: The Hum",
+     "url": "https://en.wikipedia.org/wiki/The_Hum",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Zug_Island_%28May_2021%29.jpg/500px-Zug_Island_%28May_2021%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Zug_Island_(May_2021).jpg",
+     "author": "Notorious4life (talk) (Uploads)",
+     "license": "CC0",
+     "title": "Zug Island (May 2021).jpg"
+    }
+   ],
+   "categories": [
+    "anomalies",
+    "science-cosmos"
+   ],
+   "threads": [
+    "collective-experiences",
+    "strange-sounds"
+   ]
+  },
+  {
+   "id": "baltic-anomaly",
+   "title": "The Baltic Sea anomaly: a sunken UFO on the seabed?",
+   "lane": "history",
+   "status": "debunked",
+   "priority": 3,
+   "start": 2011,
+   "end": null,
+   "dateNote": "Sonar image June 2011; media frenzy 2012",
+   "evidenceTypes": [
+    "sonar imaging",
+    "geological samples"
+   ],
+   "mainstream": "In June 2011 the Swedish treasure-hunting team Ocean X, led by Peter Lindberg and Dennis Åsberg, released a blurry side-scan sonar image from the floor of the northern Baltic (Gulf of Bothnia), about 90 m down, showing a roughly circular object some 60 m across with a long \"runway\" trail behind it. Tabloid coverage from 2012 compared it to the Millennium Falcon from Star Wars and speculated about a crashed UFO or Nazi anti-submarine device. Stone samples given to Stockholm University geologist Volker Brüchert were mostly granite, gneiss and sandstone, with a loose basalt piece – consistent with rocks carried by ice-age glaciers. Geologists consider the feature a natural glacial formation, and the \"runway\" part of a field of similar drumlin-like mounds.",
+   "alternatives": [
+    {
+     "label": "Unexplained object (speculative)",
+     "text": "The team and supporters said the shapes looked artificial, with right angles and stair-like features, and suggested something unusual; no independent survey has supported this."
+    },
+    {
+     "label": "Sonar artefacts",
+     "text": "Side-scan sonar images are easily misread, and the original image was low resolution; experts also stressed they had only seen media images, not raw data."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Baltic Sea anomaly",
+     "url": "https://en.wikipedia.org/wiki/Baltic_Sea_anomaly",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Gulf_Bothnia_-_1.jpg/500px-Gulf_Bothnia_-_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Gulf_Bothnia_-_1.jpg",
+     "author": "Tappinen",
+     "license": "CC BY-SA 4.0",
+     "title": "Gulf Bothnia - 1.jpg"
+    }
+   ],
+   "categories": [
+    "aliens-ufo",
+    "anomalies",
+    "hoaxes"
+   ],
+   "threads": [
+    "ufo-encounters",
+    "hoaxes-exposed"
+   ]
   }
  ]
 }

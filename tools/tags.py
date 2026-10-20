@@ -547,3 +547,29 @@ addt('returning-saviours','john-frum')
 addt('collective-experiences','john-frum')
 addt('disappearances','tamam-shud')
 addt('stories-proven-true','tamam-shud')
+C.update({
+'jericho-tower':'archaeology history science-cosmos religion',
+'cave-of-swimmers':'archaeology science-cosmos',
+'bigo-chwezi':'archaeology history myth-legend religion',
+'pied-piper':'myth-legend history anomalies',
+'carrington-event':'science-cosmos catastrophes history',
+'the-hum':'anomalies science-cosmos',
+'baltic-anomaly':'aliens-ufo anomalies hoaxes',
+})
+addt('giant-monuments','jericho-tower bigo-chwezi')
+addt('ancient-astronomy','jericho-tower')
+addt('changed-understanding','jericho-tower cave-of-swimmers')
+addt('vanished-landscapes','cave-of-swimmers green-sahara')
+addt('rain-and-drought','cave-of-swimmers')
+addt('sacred-kingship','bigo-chwezi')
+addt('deep-oral-memory','bigo-chwezi')
+addt('outsider-builder-claims','bigo-chwezi')
+addt('disappearances','pied-piper bigo-chwezi')
+addt('strange-sounds','pied-piper the-hum')
+addt('underground-worlds','pied-piper')
+addt('collective-experiences','pied-piper the-hum')
+addt('otherworld-visits','pied-piper')
+addt('sky-omens','carrington-event')
+addt('mysterious-lights','carrington-event')
+addt('ufo-encounters','baltic-anomaly')
+addt('hoaxes-exposed','baltic-anomaly')
