@@ -519,3 +519,31 @@ addt('ancient-technology','derinkuyu')
 addt('flood-myths','durupinar')
 addt('giant-monuments','etemenanki')
 addt('creation-myths','etemenanki')
+C.update({
+'ban-chiang':'archaeology history',
+'srivijaya':'history archaeology lost-civilisations',
+'orang-pendek':'myth-legend anomalies',
+'manananggal':'myth-legend',
+'night-marchers':'myth-legend religion anomalies',
+'latte-stones':'archaeology history myth-legend',
+'rai-stones':'history archaeology',
+'john-frum':'history religion aliens-ufo',
+'tamam-shud':'history anomalies',
+})
+addt('changed-understanding','ban-chiang srivijaya')
+addt('ancient-technology','ban-chiang')
+addt('lost-civilisations','srivijaya')
+addt('civilisation-collapses','srivijaya')
+addt('ocean-voyagers','srivijaya rai-stones latte-stones')
+addt('cryptids','orang-pendek')
+addt('giants-and-little-people','orang-pendek latte-stones')
+addt('shapeshifters','manananggal')
+addt('strange-sounds','night-marchers')
+addt('sacred-kingship','night-marchers')
+addt('deep-oral-memory','night-marchers rai-stones latte-stones')
+addt('giant-monuments','latte-stones rai-stones')
+addt('sky-beings','john-frum')
+addt('returning-saviours','john-frum')
+addt('collective-experiences','john-frum')
+addt('disappearances','tamam-shud')
+addt('stories-proven-true','tamam-shud')

@@ -16531,6 +16531,536 @@
     "giant-monuments",
     "creation-myths"
    ]
+  },
+  {
+   "id": "ban-chiang",
+   "title": "Ban Chiang: the \"world's oldest bronze\" that wasn't",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -1500,
+   "end": 200,
+   "dateNote": "Occupation from c. 1500 BCE (or earlier) to c. 200 CE; first bronze c. 2000 or c. 1000 BCE depending on chronology",
+   "evidenceTypes": [
+    "archaeological",
+    "radiocarbon",
+    "thermoluminescence"
+   ],
+   "mainstream": "A prehistoric village and cemetery in Udon Thani province, north-east Thailand. In August 1966 Harvard student Steve Young tripped over a tree root and fell onto the rims of buried painted pots; the distinctive red-on-buff pottery set off widespread looting. Early thermoluminescence dates on unprovenanced sherds (about 4420–3400 BCE) and the 1974–75 University of Pennsylvania–Thai Fine Arts Department excavations led by Chester Gorman and Pisit Charoenwongsa suggested Ban Chiang had the world's earliest bronze casting, overturning the idea that metallurgy spread to Southeast Asia from China. Later radiocarbon work cut those dates sharply. The famous painted pots turned out to be late (about 300 BCE–200 CE). UNESCO World Heritage Site since 1992.",
+   "alternatives": [
+    {
+     "label": "Long chronology",
+     "text": "Joyce White and colleagues place the first bronze at about 2000 BCE, possibly reaching Thailand from the Seima–Turbino metalworking tradition of the steppe by a route bypassing central China."
+    },
+    {
+     "label": "Short chronology",
+     "text": "Charles Higham and colleagues, using AMS dates on human and pig bone (2011, 2015), put Neolithic occupation from about the 16th century BCE and the first bronze around 1000 BCE, after bronze working in China; this is now widely accepted, but debate continues."
+    }
+   ],
+   "changed": "1966: discovered. Early 1970s: thermoluminescence suggests 4th millennium BCE bronze. 1974–75: excavations; claims of world's earliest bronze. 2011–2015: AMS bone dates support a bronze start around 1000 BCE; long-chronology advocates contest this.",
+   "sources": [
+    {
+     "title": "A New Chronology for the Bronze Age of Northeastern Thailand and Its Implications for Southeast Asian Prehistory",
+     "authors": "Higham, C. et al.",
+     "year": 2015,
+     "doi": "10.1371/journal.pone.0137542",
+     "type": "paper"
+    },
+    {
+     "title": "The Transmission of Early Bronze Technology to Thailand: New Perspectives",
+     "authors": "White, J. et al.",
+     "year": 2009,
+     "doi": "10.1007/s10963-009-9029-z",
+     "type": "paper"
+    },
+    {
+     "title": "UNESCO: Ban Chiang Archaeological Site",
+     "url": "https://whc.unesco.org/en/list/575",
+     "type": "heritage body"
+    },
+    {
+     "title": "Wikipedia: Ban Chiang",
+     "url": "https://en.wikipedia.org/wiki/Ban_Chiang",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Ban_Chiang_Museum_Excavation.JPG/500px-Ban_Chiang_Museum_Excavation.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Ban_Chiang_Museum_Excavation.JPG",
+     "author": "Kiwiodysee",
+     "license": "CC BY-SA 3.0",
+     "title": "Ban_Chiang_Museum_Excavation.JPG"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history"
+   ],
+   "threads": [
+    "changed-understanding",
+    "ancient-technology"
+   ]
+  },
+  {
+   "id": "srivijaya",
+   "title": "Srivijaya: the forgotten empire of the straits",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 671,
+   "end": 1025,
+   "dateNote": "Late 7th–11th century; rediscovered by scholarship in 1918",
+   "evidenceTypes": [
+    "inscriptions",
+    "textual",
+    "archaeological"
+   ],
+   "mainstream": "A Buddhist kingdom centred on Palembang in south-east Sumatra that dominated the Strait of Malacca and much of western maritime Southeast Asia from the late 7th to the 11th century. The Chinese monk Yijing stayed there in 671 to study Sanskrit and described over a thousand monks; the Kedukan Bukit inscription of 682–683 in Old Malay records the founding expedition of Dapunta Hyang Sri Jayanasa. Srivijaya grew rich on trade between China, India and the Islamic world and was raided by the Chola empire of south India around 1025, after which it declined. It was then almost completely forgotten – even in Palembang – until the French scholar George Cœdès showed in 1918 that Chinese records of \"Sanfoqi\" and Old Malay inscriptions referred to the same empire.",
+   "alternatives": [
+    {
+     "label": "Thalassocracy or land power",
+     "text": "It is traditionally called a maritime empire; recent research argues its power rested more on land and alliances, with fleets mainly in support."
+    },
+    {
+     "label": "Where was the capital?",
+     "text": "Palembang is the leading candidate, but Jambi and other sites have been proposed; few urban remains survive, perhaps because much of the population lived in houses on rafts and stilts along the Musi river, as a 13th-century Chinese account describes."
+    }
+   ],
+   "changed": "Before 1918: unknown as a single empire. 1918: Cœdès identifies Srivijaya. 1920s: news reaches Indonesians, and Srivijaya becomes a symbol of national history.",
+   "sources": [
+    {
+     "title": "Wikipedia: Srivijaya",
+     "url": "https://en.wikipedia.org/wiki/Srivijaya",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Kedukan Bukit inscription",
+     "url": "https://en.wikipedia.org/wiki/Kedukan_Bukit_inscription",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Srivijaya_Empire.svg/500px-Srivijaya_Empire.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Srivijaya_Empire.svg",
+     "author": "Gunawan Kartapranata",
+     "license": "CC BY-SA 3.0",
+     "title": "Srivijaya_Empire.svg"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology",
+    "lost-civilisations"
+   ],
+   "threads": [
+    "lost-civilisations",
+    "changed-understanding",
+    "ocean-voyagers",
+    "civilisation-collapses"
+   ]
+  },
+  {
+   "id": "orang-pendek",
+   "title": "Orang pendek: the \"short person\" of Sumatra's forests",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 3,
+   "start": 1900,
+   "end": null,
+   "dateNote": "Reports since at least the early 20th century",
+   "evidenceTypes": [
+    "eyewitness reports",
+    "footprint casts",
+    "hair samples"
+   ],
+   "mainstream": "In Indonesian folklore the orang pendek (\"short person\") is a creature said to live in the remote mountain forests of Sumatra, especially around Mount Kerinci. Witnesses – local villagers, Dutch colonists from the early 20th century and later Western researchers – describe a ground-dwelling, upright-walking ape-like being about 80–150 cm tall, covered in short fur. British writer Debbie Martyr and others have searched for it since the 1990s, collecting footprint casts and hair samples; analyses have been inconclusive. Interest grew after the 2004 discovery of the small human species Homo floresiensis on nearby Flores.",
+   "alternatives": [
+    {
+     "label": "Unknown primate (speculative)",
+     "text": "Supporters suggest an undiscovered ape, perhaps related to orangutans or gibbons, or even a surviving small hominin; no specimen, clear photograph or verified DNA has been produced."
+    },
+    {
+     "label": "Misidentification and folklore",
+     "text": "Sceptics suggest sightings of sun bears, orangutans or gibbons, combined with traditions about forest people."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Orang Pendek",
+     "url": "https://en.wikipedia.org/wiki/Orang_Pendek",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Orang_Pendek.png/500px-Orang_Pendek.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Orang_Pendek.png",
+     "author": "Tim Bertelink",
+     "license": "CC BY-SA 4.0",
+     "title": "Orang_Pendek.png"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "anomalies"
+   ],
+   "threads": [
+    "cryptids",
+    "giants-and-little-people"
+   ]
+  },
+  {
+   "id": "manananggal",
+   "title": "The manananggal and Southeast Asia's flying severed spirits",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 3,
+   "start": 1589,
+   "end": null,
+   "dateNote": "Recorded from Spanish colonial period; older oral origins",
+   "evidenceTypes": [
+    "oral tradition",
+    "ethnographic",
+    "colonial texts"
+   ],
+   "mainstream": "In Philippine (especially Visayan) folklore, the manananggal (\"remover\") is a woman who at night separates her upper body from her legs, sprouts bat-like wings and flies off to prey on pregnant women, using a long proboscis-like tongue to drink blood or take the unborn child. It was said to explain sudden miscarriages. It can be killed by sprinkling salt, garlic or ash on the abandoned lower half, so it cannot rejoin it before dawn. Spanish colonial writers recorded similar beings in the late 16th century. Strikingly similar creatures appear across Southeast Asia: the penanggalan of Malaysia, the krasue of Thailand and the ap of Cambodia are flying female heads trailing their entrails, also feared by pregnant women and new mothers.",
+   "alternatives": [
+    {
+     "label": "Explaining tragedy",
+     "text": "Folklorists read these beings as ways of explaining miscarriage, infant death and illness, and of policing women who were outsiders, widows or healers."
+    },
+    {
+     "label": "Shared origin",
+     "text": "The near-identical flying-head beings across the region suggest a shared old Austronesian–mainland Southeast Asian belief, spread by contact; the routes are not established."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Manananggal",
+     "url": "https://en.wikipedia.org/wiki/Manananggal",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Penanggalan",
+     "url": "https://en.wikipedia.org/wiki/Penanggalan",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Krasue",
+     "url": "https://en.wikipedia.org/wiki/Krasue",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Manananggal.jpg/500px-Manananggal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Manananggal.jpg",
+     "author": "Gian Bernal",
+     "license": "CC0",
+     "title": "Manananggal.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend"
+   ],
+   "threads": [
+    "shapeshifters"
+   ]
+  },
+  {
+   "id": "night-marchers",
+   "title": "Huakaʻi pō: the Night Marchers of Hawaiʻi",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 3,
+   "start": 1820,
+   "end": null,
+   "dateNote": "Pre-contact tradition; written accounts from the 19th century onward",
+   "evidenceTypes": [
+    "oral tradition",
+    "ethnographic"
+   ],
+   "mainstream": "In Hawaiian tradition the huakaʻi pō (\"night procession\") or ʻoiʻo are processions of ghostly ancient warriors, chiefs and gods who march at night to and from old battlefields, heiau (temples) and sacred places, often on nights sacred to Kāne, Kū, Lono or Kanaloa. They are announced by drums, chanting, conch-shell trumpets, flickering torches and a musty smell, and they walk without touching the ground. Anyone who looks at them may be killed unless they lie face down in respect or a marcher recognises them as a descendant. Accounts continue to be reported today, and some building sites have been rerouted out of respect for marching paths.",
+   "alternatives": [
+    {
+     "label": "Religious and social meaning",
+     "text": "Scholars see the stories as expressing chiefly sacredness (kapu) – commoners once had to prostrate before high chiefs – and continuing ties between the living, ancestors and land."
+    },
+    {
+     "label": "Natural explanations",
+     "text": "Sceptics suggest sounds of wind and surf, fog lights or lava glow, and suggestion; believers regard the experiences as real encounters."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Nightmarchers",
+     "url": "https://en.wikipedia.org/wiki/Nightmarchers",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Pu%27ukohola_Heiau_temple2.jpg/500px-Pu%27ukohola_Heiau_temple2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Pu%27ukohola_Heiau_temple2.jpg",
+     "author": "Bamse",
+     "license": "CC BY-SA 4.0",
+     "title": "Pu'ukohola Heiau temple2.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion",
+    "anomalies"
+   ],
+   "threads": [
+    "deep-oral-memory",
+    "sacred-kingship",
+    "strange-sounds"
+   ]
+  },
+  {
+   "id": "latte-stones",
+   "title": "Latte stones: the megalithic pillars of the Mariana Islands",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 3,
+   "start": 900,
+   "end": 1700,
+   "dateNote": "c. 900–1700 CE",
+   "evidenceTypes": [
+    "archaeological",
+    "radiocarbon",
+    "oral tradition"
+   ],
+   "mainstream": "Latte are two-part stone pillars – a tapering shaft (haligi) topped by a hemispherical capstone (tasa), flat side up – arranged in two parallel rows to raise houses of the ancient Chamorro people of Guam and the Northern Mariana Islands. They appear around 900 CE, became widespread, and were abandoned within about two centuries after Magellan arrived in 1521 and Spanish colonisation began. The tallest still standing, at the House of Taga on Tinian, is about 5 m; at the As Nieves quarry on Rota, unfinished shafts would have stood about 8 m, with a shaft of 34 tonnes and a cap of 22 tonnes. Burials were often placed between the pillars. In Chamorro belief the taotaomoʻna (ancestral spirits) dwell at latte sites, and people traditionally ask permission before entering the jungle.",
+   "alternatives": [
+    {
+     "label": "Why the caps?",
+     "text": "Archaeologists debate whether the capstones kept rats out of raised storehouses, simply supported floors, or primarily signalled rank and lineage."
+    },
+    {
+     "label": "Giant builders (folklore)",
+     "text": "Chamorro legend tells of the strongman chief Taga raising the pillars on Tinian; mainstream archaeology attributes them to organised community labour with stone tools and levers."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Latte stone",
+     "url": "https://en.wikipedia.org/wiki/Latte_stone",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: House of Taga",
+     "url": "https://en.wikipedia.org/wiki/House_of_Taga",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Latte1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Latte1.jpg",
+     "author": "Hajime NAKANO from Tokyo, Japan",
+     "license": "CC BY 2.0",
+     "title": "Latte1.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history",
+    "myth-legend"
+   ],
+   "threads": [
+    "giant-monuments",
+    "deep-oral-memory",
+    "giants-and-little-people",
+    "ocean-voyagers"
+   ]
+  },
+  {
+   "id": "rai-stones",
+   "title": "Rai stones of Yap: money that never moves",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 3,
+   "start": 1500,
+   "end": null,
+   "dateNote": "Begun c. 15th–16th century by tradition; stopped early 20th century",
+   "evidenceTypes": [
+    "ethnographic",
+    "archaeological",
+    "historical records",
+    "oral tradition"
+   ],
+   "mainstream": "Rai are large disc-shaped stones with central holes, carved from crystalline limestone quarried on Palau about 400 km away and brought by canoe and raft to the Yap islands in Micronesia, where around 6,000 survive; the largest, on Rumung, is 3.6 m across and about 4 tonnes. Oral tradition says the practice began some 500–600 years ago when the navigator Anagumang was guided by a god to Palau's shining stone. Rai were exchanged in marriages, alliances and compensations; big stones were rarely moved, and ownership changed by public agreement, recorded in oral history. A stone lost at sea in transit could still be owned and exchanged. From the 1870s the Irish-American trader David O'Keefe used his ship and iron tools to bring larger stones in return for copra, which flooded the system; these newer stones were valued less than older ones whose histories (including lives lost in transport) were known.",
+   "alternatives": [
+    {
+     "label": "Money as shared belief",
+     "text": "Economists from Milton Friedman onward use rai to show that money's value can rest entirely on shared records and trust; some note parallels with ledgers and cryptocurrencies."
+    },
+    {
+     "label": "Not just money",
+     "text": "Anthropologists caution that rai were prestige valuables embedded in social relations, not everyday currency."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Rai stones",
+     "url": "https://en.wikipedia.org/wiki/Rai_stones",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Yap_Stone_Money.jpg/500px-Yap_Stone_Money.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Yap_Stone_Money.jpg",
+     "author": "Eric Guinther",
+     "license": "CC BY-SA 3.0",
+     "title": "Yap_Stone_Money.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology"
+   ],
+   "threads": [
+    "giant-monuments",
+    "deep-oral-memory",
+    "ocean-voyagers"
+   ]
+  },
+  {
+   "id": "john-frum",
+   "title": "John Frum: the cargo cult of Tanna",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1940,
+   "end": null,
+   "dateNote": "Late 1930s onward; John Frum Day 15 February",
+   "evidenceTypes": [
+    "ethnographic",
+    "historical records"
+   ],
+   "mainstream": "John Frum is a figure in a religious and political movement on Tanna island in Vanuatu (then the New Hebrides) which arose in the late 1930s and spread in the early 1940s. Followers rejected missionaries, money and colonial rule and returned to kastom (custom), expecting John Frum – often pictured as an American serviceman – to bring \"cargo\", wealth and freedom. The arrival of tens of thousands of US troops with vast supplies during the Second World War gave the movement the features of a \"cargo cult\": drill with bamboo rifles, red crosses and the American flag. It survives as a church and political party; 15 February is celebrated as John Frum Day, though followers have declined to a few hundred. In 1959 David Attenborough interviewed a leader who described John Frum as a tall white man who would \"bring plenty cargo\".",
+   "alternatives": [
+    {
+     "label": "Who was John Frum?",
+     "text": "Accounts variously make him a local man called Manehivi using the alias, a spirit seen in kava visions, a manifestation of the god Keraperamun, or the name of a returning saviour (\"John from America\" is a popular but uncertain etymology)."
+    },
+    {
+     "label": "Beyond \"cargo cult\"",
+     "text": "Anthropologists such as Lamont Lindstrom stress that the movement is a sophisticated anti-colonial and custom-revival movement; the \"cargo cult\" label is often seen as reductive and colonial."
+    },
+    {
+     "label": "Ancient-astronaut analogy",
+     "text": "The movement is often cited in ancient-astronaut literature as a model for how ancient people might have worshipped technologically advanced visitors; this is an analogy, not evidence that such visits occurred."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Chapter Six. Knowledge of Cargo, Knowledge of Cult: Truth and Power on Tanna, Vanuatu",
+     "authors": "Lindstrom, L.",
+     "year": 1990,
+     "doi": "10.1515/9783110874419.239",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: John Frum",
+     "url": "https://en.wikipedia.org/wiki/John_Frum",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/John_Frum_gathering_area.jpg/500px-John_Frum_gathering_area.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:John_Frum_gathering_area.jpg",
+     "author": "Flickr user Charmaine Tham",
+     "license": "CC BY 2.0",
+     "title": "John_Frum_gathering_area.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "religion",
+    "aliens-ufo"
+   ],
+   "threads": [
+    "sky-beings",
+    "collective-experiences",
+    "returning-saviours"
+   ]
+  },
+  {
+   "id": "tamam-shud",
+   "title": "The Somerton Man and the \"Tamám Shud\" mystery",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 1948,
+   "end": null,
+   "dateNote": "Body found 1 December 1948; identification announced 2022",
+   "evidenceTypes": [
+    "forensic",
+    "historical records",
+    "genetic genealogy"
+   ],
+   "mainstream": "On 1 December 1948 a well-dressed man was found dead on Somerton Park beach, Adelaide, South Australia, with no identification and all labels removed from his clothes. The cause of death was never determined; poison was suspected but not found. Months later a tiny rolled scrap printed \"Tamám Shud\" (\"it is finished\", from the last page of Omar Khayyám's Rubáiyát) was found in a hidden trouser pocket; the torn copy of the book turned up with a nurse's phone number and five lines of capital letters resembling a code, never deciphered. Cold War spy theories flourished. His body was exhumed in 2021, and in July 2022 University of Adelaide professor Derek Abbott and genealogist Colleen Fitzpatrick announced, from genetic genealogy on his hair, that he was Carl \"Charles\" Webb, a Melbourne electrical engineer born in 1905.",
+   "alternatives": [
+    {
+     "label": "Identification",
+     "text": "The Webb identification is widely reported and supported by family-tree evidence; South Australia Police and Forensic Science SA had not formally confirmed it at the time of the announcement."
+    },
+    {
+     "label": "Spy or private tragedy",
+     "text": "Speculation about espionage, a secret code and an undetectable poison persists; the identification suggests a private life story, but how and why he died remains unknown."
+    },
+    {
+     "label": "The code",
+     "text": "The letters may be an acrostic or initialism of a prayer or poem rather than a cipher; none of the proposed solutions is generally accepted."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Finding Somerton Man: How DNA, AI Facial Reconstruction, and Sheer Grit Cracked a 75-Year-Old Cold Case",
+     "authors": "Abbott, D.",
+     "year": 2023,
+     "doi": "10.1109/mspec.2023.10092395",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: Somerton Man",
+     "url": "https://en.wikipedia.org/wiki/Somerton_Man",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/SomertonMan2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:SomertonMan2.jpg",
+     "author": "Australian police. File originally uploaded on English Wikipedia in November 30, 2008 by Bletchley",
+     "license": "Public domain",
+     "title": "SomertonMan2.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "anomalies"
+   ],
+   "threads": [
+    "stories-proven-true",
+    "disappearances"
+   ]
   }
  ]
 }
