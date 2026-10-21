@@ -643,3 +643,37 @@ addt('lost-civilisations','bimini-road')
 addt('hoaxes-exposed','bimini-road bermuda-triangle chupacabra')
 addt('cryptids','chupacabra')
 addt('monster-panics','chupacabra popobawa')
+C.update({
+'bhimbetka':'archaeology history myth-legend',
+'mehrgarh':'archaeology history science-cosmos',
+'sarasvati-river':'myth-legend religion science-cosmos archaeology',
+'rakhigarhi-genome':'archaeology history science-cosmos',
+'patala':'myth-legend religion',
+'sigiriya':'history archaeology',
+'gwion-gwion':'archaeology history lost-civilisations',
+'tycho-supernova':'science-cosmos history religion',
+'eyam-plague':'history catastrophes religion',
+'beast-of-gevaudan':'history myth-legend anomalies',
+'lisbon-1755':'catastrophes history religion science-cosmos',
+})
+addt('changed-understanding','bhimbetka mehrgarh tycho-supernova gwion-gwion lisbon-1755')
+addt('origins-of-writing','bhimbetka')
+addt('ancient-technology','mehrgarh')
+addt('vanished-landscapes','sarasvati-river')
+addt('rain-and-drought','sarasvati-river')
+addt('civilisation-collapses','sarasvati-river')
+addt('knowledge-and-power','sarasvati-river rakhigarhi-genome')
+addt('genetic-migrations','rakhigarhi-genome')
+addt('serpent-beings','patala')
+addt('underground-worlds','patala')
+addt('hidden-kingdoms','patala')
+addt('sacred-kingship','sigiriya')
+addt('outsider-builder-claims','gwion-gwion')
+addt('sky-omens','tycho-supernova sn-1054')
+addt('ancient-astronomy','tycho-supernova')
+addt('plagues-and-epidemics','eyam-plague black-death dancing-plague tanganyika-laughter')
+addt('collective-experiences','eyam-plague beast-of-gevaudan')
+addt('cryptids','beast-of-gevaudan')
+addt('shapeshifters','beast-of-gevaudan')
+addt('monster-panics','beast-of-gevaudan')
+addt('divine-punishment','lisbon-1755 port-royal eyam-plague')

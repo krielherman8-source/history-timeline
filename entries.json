@@ -10953,7 +10953,8 @@
     "anomalies"
    ],
    "threads": [
-    "collective-experiences"
+    "collective-experiences",
+    "plagues-and-epidemics"
    ]
   },
   {
@@ -14442,7 +14443,8 @@
    "threads": [
     "changed-understanding",
     "sky-omens",
-    "civilisation-collapses"
+    "civilisation-collapses",
+    "plagues-and-epidemics"
    ]
   },
   {
@@ -14564,7 +14566,8 @@
    ],
    "threads": [
     "collective-experiences",
-    "altered-states"
+    "altered-states",
+    "plagues-and-epidemics"
    ]
   },
   {
@@ -18730,7 +18733,8 @@
    ],
    "threads": [
     "sunken-cities",
-    "sea-mysteries"
+    "sea-mysteries",
+    "divine-punishment"
    ]
   },
   {
@@ -18955,6 +18959,677 @@
     "hoaxes-exposed",
     "cryptids",
     "monster-panics"
+   ]
+  },
+  {
+   "id": "bhimbetka",
+   "title": "Bhimbetka: India's painted rock shelters and the oldest-art debate",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -30000,
+   "end": null,
+   "dateNote": "Paintings from the Mesolithic (perhaps Upper Palaeolithic) to medieval times; rediscovered 1957",
+   "evidenceTypes": [
+    "archaeological",
+    "rock art",
+    "stratigraphy"
+   ],
+   "mainstream": "In 1957 archaeologist V. S. Wakankar, travelling through Madhya Pradesh, noticed sandstone outcrops resembling painted-cave country he had seen in Spain and France; his team found what became the Bhimbetka rock shelters, a World Heritage Site since 2003. More than 700 shelters have been identified, around 400 with paintings of hunting, dancing, animals, riders and later war scenes, spanning from the Mesolithic (and perhaps the Upper Palaeolithic) to the medieval period. The site's name is popularly linked to Bhima, the strong Pandava hero of the Mahabharata, said to have rested there.",
+   "alternatives": [
+    {
+     "label": "Very old art",
+     "text": "Wakankar dated the earliest paintings to the Upper Palaeolithic, perhaps up to 40,000 years ago; others place most paintings much later, from about 10,000 BCE onward, as direct dating is limited."
+    },
+    {
+     "label": "Lower Palaeolithic cupules (debated)",
+     "text": "Rock-art researcher Robert Bednarik argued that cup-shaped marks (cupules) in the Auditorium Cave lie in Acheulian (Lower Palaeolithic) layers and could be among the oldest known human markings anywhere; this is contested because cupules are hard to date."
+    },
+    {
+     "label": "Living tradition",
+     "text": "Scholars note that local Adivasi communities still make paintings with similar motifs, suggesting a very long continuity of practice."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Bhimbetka rock shelters",
+     "url": "https://en.wikipedia.org/wiki/Bhimbetka_rock_shelters",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "UNESCO: Rock Shelters of Bhimbetka",
+     "url": "https://whc.unesco.org/en/list/925",
+     "type": "heritage body"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Rock_Shelter_8%2C_Bhimbetka_02.jpg/500px-Rock_Shelter_8%2C_Bhimbetka_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Rock_Shelter_8,_Bhimbetka_02.jpg",
+     "author": "Bernard Gagnon",
+     "license": "CC BY-SA 3.0",
+     "title": "Rock_Shelter_8,_Bhimbetka_02.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history",
+    "myth-legend"
+   ],
+   "threads": [
+    "changed-understanding",
+    "origins-of-writing"
+   ]
+  },
+  {
+   "id": "mehrgarh",
+   "title": "Mehrgarh: early farmers of South Asia and the first dentists",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -7000,
+   "end": -2600,
+   "dateNote": "First settlement c. 7000 BCE (excavators) or c. 5250 BCE (revised)",
+   "evidenceTypes": [
+    "archaeological",
+    "radiocarbon",
+    "skeletal analysis"
+   ],
+   "mainstream": "Mehrgarh, near the Bolan Pass in Balochistan, Pakistan, was discovered in 1974 by the French Archaeological Mission led by Jean-François and Catherine Jarrige. It is one of the earliest farming and herding villages in South Asia, with mud-brick houses, barley and wheat, cattle, sheep and goats, and later pottery and copper working; occupation continued for thousands of years, foreshadowing the Indus Civilisation. In 2006 researchers reported in Nature eleven molar crowns from nine adults in the Neolithic cemetery with neat holes drilled in life, probably with flint-tipped bow drills – the earliest known evidence of dentistry, about 7,500–9,000 years old.",
+   "alternatives": [
+    {
+     "label": "Local origin",
+     "text": "Jarrige argued that farming at Mehrgarh developed with a strong local background rather than arriving fully formed from the Near East."
+    },
+    {
+     "label": "Imported package",
+     "text": "Others emphasise similarities with Neolithic sites in Iran and Mesopotamia and see a spread of crops and animals from the west."
+    },
+    {
+     "label": "Dating debate",
+     "text": "The founding date of about 7000 BCE comes from the excavators; later radiocarbon dating of teeth by Mutin and Zazzo placed the first period at about 5250–4650 BCE, which is disputed."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Early Neolithic tradition of dentistry",
+     "authors": "Coppa, A. et al.",
+     "year": 2006,
+     "doi": "10.1038/440755a",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: Mehrgarh",
+     "url": "https://en.wikipedia.org/wiki/Mehrgarh",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Mehrgarh_ruins.jpg/500px-Mehrgarh_ruins.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Mehrgarh_ruins.jpg",
+     "author": "Ashish_Premier",
+     "license": "CC BY-SA 3.0",
+     "title": "Mehrgarh_ruins.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history",
+    "science-cosmos"
+   ],
+   "threads": [
+    "changed-understanding",
+    "ancient-technology"
+   ]
+  },
+  {
+   "id": "sarasvati-river",
+   "title": "The lost Sarasvati: a holy river of the Rigveda that dried up?",
+   "lane": "myth",
+   "status": "disputed",
+   "priority": 2,
+   "start": -1500,
+   "end": null,
+   "dateNote": "Rigveda composed c. 1500–1200 BCE (conventional dating); Ghaggar-Hakra decline c. 2000 BCE",
+   "evidenceTypes": [
+    "textual",
+    "geological",
+    "satellite imagery",
+    "archaeological"
+   ],
+   "mainstream": "The Rigveda praises the Sarasvati as a great, holy river, placed in one hymn between the Yamuna and the Sutlej; it was later personified as the goddess Sarasvati, and Hindu tradition says the river now flows invisibly underground to meet the Ganges and Yamuna at Prayagraj. Since the 19th century many scholars have identified it with the Ghaggar-Hakra, a now seasonal river system of north-west India and eastern Pakistan along whose dry course many Indus Civilisation sites lie. A 2012 study (Giosan et al.) concluded that the Ghaggar-Hakra was fed by monsoon rains rather than Himalayan glaciers in Harappan times, and that the Sutlej had abandoned this channel thousands of years before the Harappans, with the river declining as monsoons weakened about 4,000 years ago.",
+   "alternatives": [
+    {
+     "label": "Memory of a real river",
+     "text": "Some scholars argue the early Rigvedic hymns preserve a memory of a once-mighty river, and that later texts describing it disappearing in the desert at Vinashana match the drying Ghaggar-Hakra."
+    },
+    {
+     "label": "\"Sindhu-Sarasvati Civilisation\"",
+     "text": "Some Indian writers rename the Indus Civilisation the Sarasvati or Indus-Sarasvati civilisation and argue it was Vedic; most international scholars reject equating the two because the Rigveda is usually dated after the Harappan decline."
+    },
+    {
+     "label": "Another river entirely",
+     "text": "Other scholars identify the early Rigvedic Sarasvati with the Helmand (Harakhvaiti) in Afghanistan, or treat the river as partly mythical."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Fluvial landscapes of the Harappan civilization",
+     "authors": "Giosan, L. et al.",
+     "year": 2012,
+     "doi": "10.1073/pnas.1112743109",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: Saraswati River",
+     "url": "https://en.wikipedia.org/wiki/Saraswati_River",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Sarasvati_river.jpg/500px-Sarasvati_river.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Sarasvati_river.jpg",
+     "author": "Joshua Jonathan",
+     "license": "CC BY-SA 4.0",
+     "title": "Sarasvati_river.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion",
+    "science-cosmos",
+    "archaeology"
+   ],
+   "threads": [
+    "civilisation-collapses",
+    "vanished-landscapes",
+    "knowledge-and-power",
+    "rain-and-drought"
+   ]
+  },
+  {
+   "id": "rakhigarhi-genome",
+   "title": "The Rakhigarhi genome: DNA from an Indus city",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 3,
+   "start": -2500,
+   "end": null,
+   "dateNote": "Mature Harappan burial (c. 2600–1900 BCE); published 2019",
+   "evidenceTypes": [
+    "ancient DNA",
+    "archaeological"
+   ],
+   "mainstream": "Rakhigarhi in Haryana, India, is one of the largest cities of the Indus (Harappan) Civilisation. In 2019 a team including Vasant Shinde and David Reich published in Cell the first genome from a Harappan city, from a skeleton buried there in the mature Harappan period. Despite poor preservation, it showed a mix of ancestry related to ancient Iranians (splitting from them before farming began) and to ancient hunter-gatherers of South Asia, and no detectable ancestry from steppe pastoralists or Anatolian farmers. The same pattern matched outlier individuals found in Central Asia, suggesting trade or migration between the Indus and Central Asia.",
+   "alternatives": [
+    {
+     "label": "Supports later steppe arrival",
+     "text": "Many geneticists read the result as consistent with Indo-European (Indo-Aryan) languages arriving in South Asia with steppe-related people after the Harappan period, since steppe ancestry is found in living South Asians."
+    },
+    {
+     "label": "Supports continuity",
+     "text": "Some Indian commentators and members of the team emphasised that Harappans were ancestral to modern South Asians and that farming developed locally, rejecting any \"Aryan invasion\"; the paper itself does not resolve the languages question."
+    },
+    {
+     "label": "One person",
+     "text": "Critics stress that a single, poorly preserved genome cannot represent a whole civilisation of millions."
+    }
+   ],
+   "sources": [
+    {
+     "title": "An Ancient Harappan Genome Lacks Ancestry from Steppe Pastoralists or Iranian Farmers",
+     "authors": "Shinde, V. et al.",
+     "year": 2019,
+     "doi": "10.1016/j.cell.2019.08.048",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: Rakhigarhi",
+     "url": "https://en.wikipedia.org/wiki/Rakhigarhi",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Indo-Aryan migrations",
+     "url": "https://en.wikipedia.org/wiki/Indo-Aryan_migrations",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Rakhigarhi_Harappan_civilization.jpg/500px-Rakhigarhi_Harappan_civilization.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Rakhigarhi_Harappan_civilization.jpg",
+     "author": "Durgeshkushvaha",
+     "license": "CC BY-SA 4.0",
+     "title": "Rakhigarhi_Harappan_civilization.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history",
+    "science-cosmos"
+   ],
+   "threads": [
+    "knowledge-and-power",
+    "genetic-migrations"
+   ]
+  },
+  {
+   "id": "patala",
+   "title": "Patala: the seven jewelled underworlds of the Nagas",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 3,
+   "start": 300,
+   "end": null,
+   "dateNote": "Puranic texts c. 4th–10th c. CE, drawing on older traditions",
+   "evidenceTypes": [
+    "textual",
+    "mythological"
+   ],
+   "mainstream": "In Hindu cosmology, as described in the Puranas, below the earth lie seven subterranean realms (lokas), collectively called Patala, each ruled by daityas, danavas or Nagas – serpent beings, sons of Kadru. The Vishnu Purana tells how the sage Narada visited Patala and found it more beautiful than heaven (Svarga), lit by the jewels on the Nagas' hoods; the Bhagavata Purana calls the lower realms bila-svargas, \"subterranean heavens\". The lowest, Nagaloka, is ruled by the serpent king Vasuki, and the whole cosmos rests on the thousand-headed serpent Shesha. Similar Naga underworld traditions spread with Buddhism and Hinduism through Southeast Asia.",
+   "alternatives": [
+    {
+     "label": "Cosmological symbolism",
+     "text": "Scholars read Patala as part of a symbolic vertical cosmos of upper and lower worlds, not as a physical place."
+    },
+    {
+     "label": "Hidden peoples (speculative)",
+     "text": "Some modern alternative writers link Patala and the Nagas to hidden underground civilisations, reptilian beings or the Americas (as the land on the opposite side of the earth); these ideas have no evidential basis."
+    },
+    {
+     "label": "Cross-cultural pattern",
+     "text": "Comparisons are drawn with other serpent or dragon kingdoms beneath the earth or water, such as Chinese dragon-king palaces and the Mesoamerican underworld."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Patala",
+     "url": "https://en.wikipedia.org/wiki/Patala",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Patala_Shesha.jpg/500px-Patala_Shesha.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Patala_Shesha.jpg",
+     "author": "Unknown authorUnknown author",
+     "license": "Public domain",
+     "title": "Patala_Shesha.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion"
+   ],
+   "threads": [
+    "serpent-beings",
+    "hidden-kingdoms",
+    "underground-worlds"
+   ]
+  },
+  {
+   "id": "sigiriya",
+   "title": "Sigiriya: the lion rock of a parricide king",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 477,
+   "end": 495,
+   "dateNote": "Kashyapa I reigned c. 477–495 CE",
+   "evidenceTypes": [
+    "archaeological",
+    "textual",
+    "art historical"
+   ],
+   "mainstream": "Sigiriya is a 180 m granite rock in central Sri Lanka crowned with palace ruins. According to the Culavamsa chronicle, King Kashyapa I (reigned c. 477–495 CE) seized the throne by killing his father Dhatusena and built his capital on the rock, approached through a gateway shaped as a giant lion (only its paws remain), with water gardens below. Halfway up are frescoes of gracefully painted women and the \"mirror wall\", once polished so smooth the king could see his reflection; visitors from the 8th to 10th centuries scratched more than 1,500 poems on it, 685 of which were deciphered by Senarath Paranavitana. Kashyapa was defeated by his brother Moggallana, and the site became a Buddhist monastery.",
+   "alternatives": [
+    {
+     "label": "Fortress-palace",
+     "text": "The chronicle tradition presents Sigiriya as the fortified palace of a king fearing revenge."
+    },
+    {
+     "label": "Monastery first",
+     "text": "Some scholars argue the site was mainly a Buddhist monastic complex, with the palace story exaggerated by later chroniclers; alternative traditions credit King Dhatusena with starting it."
+    },
+    {
+     "label": "Who are the ladies?",
+     "text": "The fresco women have been interpreted as celestial nymphs (apsaras), court ladies, or goddesses; their identity is debated."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Sigiriya",
+     "url": "https://en.wikipedia.org/wiki/Sigiriya",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "UNESCO: Ancient City of Sigiriya",
+     "url": "https://whc.unesco.org/en/list/202",
+     "type": "heritage body"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Sigiriya_%28141688197%29.jpeg/500px-Sigiriya_%28141688197%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Sigiriya_(141688197).jpeg",
+     "author": "Wrobell",
+     "license": "CC BY-SA 3.0",
+     "title": "Sigiriya_(141688197).jpeg"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology"
+   ],
+   "threads": [
+    "sacred-kingship"
+   ]
+  },
+  {
+   "id": "gwion-gwion",
+   "title": "Gwion Gwion (Bradshaw) paintings and the \"lost race\" claim",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -10000,
+   "end": null,
+   "dateNote": "Most figures c. 12,000 years ago (2020 study); recorded 1891",
+   "evidenceTypes": [
+    "rock art",
+    "luminescence dating",
+    "radiocarbon",
+    "oral tradition"
+   ],
+   "mainstream": "In the north-west Kimberley of Western Australia, thousands of rock shelters bear finely painted, slender human figures with tassels, sashes and elaborate headdresses, now mostly a deep mulberry colour. Pastoralist Joseph Bradshaw recorded them in 1891 and they long carried his name; local Aboriginal names include Gwion Gwion and Kiro Kiro, and some Aboriginal accounts attribute them to a bird, Kujon, or to spirits. A 2020 study dating mud-wasp nests over and under the paintings concluded that most of the figures were made about 12,000 years ago, at the end of the last Ice Age; one experimental date suggests some may be older.",
+   "alternatives": [
+    {
+     "label": "Aboriginal ancestors",
+     "text": "Archaeologists, the Australian Archaeological Association and Aboriginal communities hold that the paintings were made by ancestors of today's Aboriginal people; there is no archaeological break in occupation."
+    },
+    {
+     "label": "A vanished earlier people (rejected)",
+     "text": "Amateur researcher Grahame Walsh, who recorded thousands of sites from 1977, proposed an \"Erudite Epoch\" in which a non-Aboriginal people, perhaps from Indonesia, made the art before being displaced; scholars reject this and critics called it a racist stereotype."
+    },
+    {
+     "label": "Change with climate",
+     "text": "Some researchers link the shift from Gwion to Wandjina-style art to environmental change at the end of the Ice Age; others say it was a normal stylistic change."
+    }
+   ],
+   "sources": [
+    {
+     "title": "12,000-Year-old Aboriginal rock art from the Kimberley region, Western Australia",
+     "authors": "Finch, D. et al.",
+     "year": 2020,
+     "doi": "10.1126/sciadv.aay3922",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: Gwion Gwion rock paintings",
+     "url": "https://en.wikipedia.org/wiki/Gwion_Gwion_rock_paintings",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Bradshaw_rock_paintings.jpg/500px-Bradshaw_rock_paintings.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Bradshaw_rock_paintings.jpg",
+     "author": "TimJN1",
+     "license": "CC BY-SA 2.0",
+     "title": "Bradshaw_rock_paintings.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history",
+    "lost-civilisations"
+   ],
+   "threads": [
+    "changed-understanding",
+    "outsider-builder-claims"
+   ]
+  },
+  {
+   "id": "tycho-supernova",
+   "title": "Tycho's new star (1572): the day the heavens changed",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1572,
+   "end": 1574,
+   "dateNote": "Appeared November 1572; visible until March 1574",
+   "evidenceTypes": [
+    "astronomical observation",
+    "textual",
+    "X-ray astronomy"
+   ],
+   "mainstream": "In November 1572 a brilliant new star appeared in Cassiopeia; by 11 November, when the young Danish nobleman Tycho Brahe noticed it, it was brighter than Jupiter, and around 16 November it peaked about as bright as Venus. It was recorded in Europe, China and Korea, and stayed visible to the naked eye until early 1574. Tycho measured it carefully and found it showed no parallax and did not move against the stars, so it lay far beyond the Moon. In De nova stella (1573) he argued that the heavens – held since Aristotle to be perfect and unchanging – could change. Modern astronomers identified its remnant in 1952 and, from a light echo measured in 2008, showed it was a Type Ia supernova: an exploding white dwarf.",
+   "alternatives": [
+    {
+     "label": "Omen",
+     "text": "Many contemporaries read the star as an omen – of religious upheaval, war or the end times; Queen Elizabeth I consulted the astrologer Thomas Allen about it."
+    },
+    {
+     "label": "Scientific revolution",
+     "text": "Historians of science see the 1572 star, the 1577 comet and SN 1604 as key blows to the Aristotelian cosmos that prepared the way for Kepler and Galileo."
+    },
+    {
+     "label": "Shakespeare's star (speculative)",
+     "text": "Some researchers have argued that the \"star that's westward from the pole\" in Hamlet refers to Tycho's star; this is a literary hypothesis."
+    }
+   ],
+   "changed": "Before 1572: the heavens beyond the Moon held to be unchanging. 1573: Tycho shows the new star lies among the fixed stars. 1952: radio remnant found. 2008: light echo confirms a Type Ia supernova.",
+   "sources": [
+    {
+     "title": "Wikipedia: SN 1572",
+     "url": "https://en.wikipedia.org/wiki/SN_1572",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Tycho Brahe",
+     "url": "https://en.wikipedia.org/wiki/Tycho_Brahe",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Tycho-supernova-xray.jpg/500px-Tycho-supernova-xray.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Tycho-supernova-xray.jpg",
+     "author": "NASA/CXC/Rutgers/J.Warren & J.Hughes et al.",
+     "license": "Public domain",
+     "title": "Tycho-supernova-xray.jpg"
+    }
+   ],
+   "categories": [
+    "science-cosmos",
+    "history",
+    "religion"
+   ],
+   "threads": [
+    "changed-understanding",
+    "sky-omens",
+    "ancient-astronomy"
+   ]
+  },
+  {
+   "id": "eyam-plague",
+   "title": "Eyam: the village that shut itself in with the plague",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1665,
+   "end": 1666,
+   "dateNote": "September 1665 – November 1666",
+   "evidenceTypes": [
+    "historical records",
+    "parish registers",
+    "genetic hypothesis"
+   ],
+   "mainstream": "In late summer 1665 a bundle of cloth from London reached the tailor's house in Eyam, Derbyshire, England; his assistant George Viccars opened the damp bundle and soon died of plague. As deaths mounted, the rector William Mompesson and the ejected Puritan minister Thomas Stanley persuaded villagers, from May 1666, to accept a voluntary quarantine: no one would leave, families buried their own dead, and church services moved outdoors. Neighbouring villages left food at boundary stones, where coins were left in holes filled with vinegar. The plague ran for 14 months; one account says at least 260 villagers died, leaving 83 survivors of 350, though other estimates give about 430 survivors from some 800.",
+   "alternatives": [
+    {
+     "label": "Heroic sacrifice",
+     "text": "The traditional story presents Eyam as a model of self-sacrifice that protected the surrounding region."
+    },
+    {
+     "label": "Did it work?",
+     "text": "Some historians question whether the quarantine increased deaths within the village by keeping people together, and note that the heroic story was elaborated in the 19th century with commemorations and \"plague tourism\"."
+    },
+    {
+     "label": "Genetic resistance (speculative)",
+     "text": "Geneticist Stephen O'Brien suggested that the CCR5-Δ32 mutation, which protects against HIV, was more common among descendants of survivors and might have helped them; this is debated, especially since plague and HIV enter cells differently."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Eyam",
+     "url": "https://en.wikipedia.org/wiki/Eyam",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Eyam_Church_-_geograph.org.uk_-_21749.jpg/500px-Eyam_Church_-_geograph.org.uk_-_21749.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Eyam_Church_-_geograph.org.uk_-_21749.jpg",
+     "author": "Alan Fleming",
+     "license": "CC BY-SA 2.0",
+     "title": "Eyam_Church_-_geograph.org.uk_-_21749.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "catastrophes",
+    "religion"
+   ],
+   "threads": [
+    "collective-experiences",
+    "plagues-and-epidemics",
+    "divine-punishment"
+   ]
+  },
+  {
+   "id": "beast-of-gevaudan",
+   "title": "The Beast of Gévaudan",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 1764,
+   "end": 1767,
+   "dateNote": "30 June 1764 – 19 June 1767",
+   "evidenceTypes": [
+    "historical records",
+    "eyewitness reports",
+    "autopsy report"
+   ],
+   "mainstream": "Between 30 June 1764 and 19 June 1767, a man-eating animal or animals attacked people – mostly women and children herding livestock – in the province of Gévaudan in south-central France, killing perhaps 60 to 100 and injuring many more. Witnesses described a creature \"like a wolf, yet not a wolf\", reddish with dark stripes, a long tufted tail and no fear of humans. King Louis XV sent soldiers and professional wolf hunters; his arquebus bearer François Antoine shot a very large grey wolf in September 1765 and was rewarded, but attacks resumed. On 19 June 1767 local hunter Jean Chastel shot an animal that the royal notary's report described as an extraordinary wolf, and the killings stopped.",
+   "alternatives": [
+    {
+     "label": "Wolves",
+     "text": "Most historians and zoologists attribute the attacks to one or more unusually large or bold wolves, at a time when wolf attacks were common in France; a 2021 proposal suggested an Italian wolf."
+    },
+    {
+     "label": "Exotic animal or hybrid",
+     "text": "Others suggest an escaped striped hyena or lion from a menagerie, or a wolf–dog hybrid, based on the strange descriptions; no remains survive to test this."
+    },
+    {
+     "label": "Human killer or werewolf",
+     "text": "Some writers have proposed a serial killer using a trained animal, and contemporary rumour spoke of a loup-garou (werewolf) or divine punishment, as a local bishop preached; these remain speculative."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Beast of Gévaudan",
+     "url": "https://en.wikipedia.org/wiki/Beast_of_G%C3%A9vaudan",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Gevaudanwolf.jpg/500px-Gevaudanwolf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Gevaudanwolf.jpg",
+     "author": "\"AF\"",
+     "license": "Public domain",
+     "title": "Gevaudanwolf.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "myth-legend",
+    "anomalies"
+   ],
+   "threads": [
+    "cryptids",
+    "collective-experiences",
+    "shapeshifters",
+    "monster-panics"
+   ]
+  },
+  {
+   "id": "lisbon-1755",
+   "title": "The Lisbon earthquake of All Saints' Day, 1755",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": 1755,
+   "end": null,
+   "dateNote": "1 November 1755",
+   "evidenceTypes": [
+    "historical records",
+    "geological",
+    "tsunami deposits"
+   ],
+   "mainstream": "At about 9:40 on the morning of 1 November 1755 – All Saints' Day, when churches were full and candles lit – a great earthquake, probably magnitude 8.5–9 with an epicentre in the Atlantic south-west of Portugal, destroyed much of Lisbon. About 40 minutes later a tsunami surged up the Tagus, and fires burned for days. The disaster struck Portugal, Spain and Morocco; tsunamis reached Cornwall, the Caribbean and Brazil. Estimates of the dead in Portugal, Spain and Morocco range from about 40,000 to 50,000 or more. The chief minister, later Marquis of Pombal, organised relief (\"bury the dead and heal the living\"), rebuilt the Baixa with early earthquake-resistant designs and sent a questionnaire to every parish, an early step towards scientific seismology.",
+   "alternatives": [
+    {
+     "label": "Divine punishment",
+     "text": "Many clergy interpreted the earthquake as God's judgement on Lisbon's sins; the Jesuit Gabriel Malagrida preached this and was later executed under Pombal. A Sebastianist prophet had predicted in 1752 that an earthquake would destroy Lisbon on All Saints' Day, and converts to Sebastianism surged afterwards."
+    },
+    {
+     "label": "Philosophical shock",
+     "text": "Voltaire's Poem on the Lisbon Disaster and Candide used it to attack the optimistic belief that this is \"the best of all possible worlds\"; Rousseau replied that human choices, such as crowded cities, made the disaster worse."
+    },
+    {
+     "label": "Natural science",
+     "text": "Pombal's survey and later studies made it the first earthquake investigated systematically, contributing to modern seismology; the exact fault remains debated."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: 1755 Lisbon earthquake",
+     "url": "https://en.wikipedia.org/wiki/1755_Lisbon_earthquake",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/1755_Lisbon_Earthquake_Location.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:1755_Lisbon_Earthquake_Location.png",
+     "author": "USGS",
+     "license": "Public domain",
+     "title": "1755_Lisbon_Earthquake_Location.png"
+    }
+   ],
+   "categories": [
+    "catastrophes",
+    "history",
+    "religion",
+    "science-cosmos"
+   ],
+   "threads": [
+    "changed-understanding",
+    "divine-punishment"
    ]
   }
  ]
