@@ -677,3 +677,21 @@ addt('cryptids','beast-of-gevaudan')
 addt('shapeshifters','beast-of-gevaudan')
 addt('monster-panics','beast-of-gevaudan')
 addt('divine-punishment','lisbon-1755 port-royal eyam-plague')
+C.update({
+'war-of-the-worlds-1938':'history aliens-ufo hoaxes',
+'philadelphia-experiment':'hoaxes anomalies history',
+'flatwoods-monster':'aliens-ufo anomalies',
+'socorro-zamora':'aliens-ufo anomalies history',
+'kecksburg-1965':'aliens-ufo anomalies',
+'mothman':'anomalies myth-legend',
+})
+addt('collective-experiences','war-of-the-worlds-1938 mothman')
+addt('monster-panics','war-of-the-worlds-1938 flatwoods-monster mothman')
+addt('hoaxes-exposed','war-of-the-worlds-1938 philadelphia-experiment flatwoods-monster')
+addt('sea-mysteries','philadelphia-experiment')
+addt('disappearances','philadelphia-experiment')
+addt('ufo-encounters','flatwoods-monster socorro-zamora kecksburg-1965')
+addt('lost-evidence','kecksburg-1965')
+addt('mysterious-lights','flatwoods-monster kecksburg-1965')
+addt('cryptids','mothman')
+addt('sky-omens','mothman')
