@@ -609,3 +609,37 @@ addt('human-sacrifice','tollund-man llullaillaco knossos-labyrinth')
 addt('mummies','tollund-man')
 addt('genetic-migrations','steppe-migration tarim-mummies polynesia-america-contact kennewick-man neanderthal-dna americas-peopling')
 addt('ancestral-homelands','steppe-migration arkaim')
+C.update({
+'tuniit':'archaeology history myth-legend',
+'sedna':'myth-legend religion',
+'franklin-expedition':'history archaeology',
+'mesa-verde':'archaeology history',
+'taino-ocean-gourd':'myth-legend religion',
+'taino-survival':'history science-cosmos',
+'port-royal':'history catastrophes religion',
+'haitian-zombies':'religion anomalies history',
+'bimini-road':'lost-civilisations anomalies hoaxes',
+'bermuda-triangle':'anomalies hoaxes',
+'chupacabra':'myth-legend anomalies hoaxes',
+})
+addt('giants-and-little-people','tuniit')
+addt('deep-oral-memory','tuniit franklin-expedition')
+addt('genetic-migrations','tuniit taino-survival')
+addt('disappearances','tuniit franklin-expedition mesa-verde bermuda-triangle')
+addt('otherworld-visits','sedna')
+addt('underground-worlds','sedna')
+addt('altered-states','sedna haitian-zombies')
+addt('stories-proven-true','franklin-expedition taino-survival')
+addt('sea-mysteries','franklin-expedition bermuda-triangle bimini-road port-royal mary-celeste draupner-wave valentich-1978 giant-squid')
+addt('rain-and-drought','mesa-verde')
+addt('civilisation-collapses','mesa-verde taino-survival')
+addt('ancestral-homelands','mesa-verde aztlan')
+addt('flood-myths','taino-ocean-gourd')
+addt('creation-myths','taino-ocean-gourd')
+addt('changed-understanding','taino-survival franklin-expedition')
+addt('sunken-cities','port-royal bimini-road')
+addt('lost-continents','bimini-road')
+addt('lost-civilisations','bimini-road')
+addt('hoaxes-exposed','bimini-road bermuda-triangle chupacabra')
+addt('cryptids','chupacabra')
+addt('monster-panics','chupacabra popobawa')

@@ -5747,7 +5747,8 @@
    ],
    "threads": [
     "collective-experiences",
-    "shapeshifters"
+    "shapeshifters",
+    "monster-panics"
    ]
   },
   {
@@ -7023,7 +7024,8 @@
    ],
    "threads": [
     "changed-understanding",
-    "stories-proven-true"
+    "stories-proven-true",
+    "sea-mysteries"
    ]
   },
   {
@@ -7851,7 +7853,8 @@
    ],
    "threads": [
     "ufo-encounters",
-    "disappearances"
+    "disappearances",
+    "sea-mysteries"
    ]
   },
   {
@@ -10352,7 +10355,8 @@
    "threads": [
     "changed-understanding",
     "cryptids",
-    "stories-proven-true"
+    "stories-proven-true",
+    "sea-mysteries"
    ]
   },
   {
@@ -14747,7 +14751,8 @@
     "anomalies"
    ],
    "threads": [
-    "disappearances"
+    "disappearances",
+    "sea-mysteries"
    ]
   },
   {
@@ -18315,6 +18320,641 @@
     "changed-understanding",
     "ancestral-homelands",
     "genetic-migrations"
+   ]
+  },
+  {
+   "id": "tuniit",
+   "title": "The Tuniit: the \"giants\" who were in the Arctic before the Inuit",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -500,
+   "end": 1300,
+   "dateNote": "Dorset culture c. 500 BCE – c. 1300 CE (perhaps later in places)",
+   "evidenceTypes": [
+    "archaeological",
+    "radiocarbon",
+    "ancient DNA",
+    "oral tradition"
+   ],
+   "mainstream": "Inuit oral histories across Arctic Canada and Greenland tell of the Tuniit (singular Tuniq), people who lived in the land before the Inuit arrived: in some accounts giants, taller and stronger than the Inuit yet shy and \"easily put to flight\", who built stone houses and spoke a simple language; some elders describe peaceful contact, others conflict. Archaeologists identify the Tuniit with the Dorset culture, a Palaeo-Inuit people present from about 500 BCE who hunted seals and walrus and made distinctive carvings in ivory and wood. The Thule people, ancestors of today's Inuit, spread east from Alaska from around 1000–1200 CE, and the Dorset disappeared by about 1300–1500 CE. A 2014 ancient-DNA study found the Dorset were genetically distinct from the Thule, with almost no interbreeding.",
+   "alternatives": [
+    {
+     "label": "Oral memory of real people",
+     "text": "Many researchers and Inuit historians see the Tuniit stories as memories of the Dorset, preserved for centuries, though how much the legends record real contact is debated."
+    },
+    {
+     "label": "Why they vanished",
+     "text": "Proposed causes include climate change, competition with or violence from the better-equipped Thule, and introduced diseases; none is proven."
+    },
+    {
+     "label": "Giants or not",
+     "text": "The \"giant\" image may reflect the Dorset's strength or the stature of strangers in stories; there is no skeletal evidence that Dorset people were unusually tall."
+    }
+   ],
+   "sources": [
+    {
+     "title": "The genetic prehistory of the New World Arctic",
+     "authors": "Raghavan, M. et al.",
+     "year": 2014,
+     "doi": "10.1126/science.1255832",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: Dorset culture",
+     "url": "https://en.wikipedia.org/wiki/Dorset_culture",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [],
+   "categories": [
+    "archaeology",
+    "history",
+    "myth-legend"
+   ],
+   "threads": [
+    "deep-oral-memory",
+    "giants-and-little-people",
+    "disappearances",
+    "genetic-migrations"
+   ]
+  },
+  {
+   "id": "sedna",
+   "title": "Sedna, mother of the sea beasts",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": 1000,
+   "end": null,
+   "dateNote": "Inuit oral tradition (Thule ancestors in the eastern Arctic from c. 1000–1200 CE); recorded by Franz Boas in 1888",
+   "evidenceTypes": [
+    "oral tradition",
+    "ethnographic"
+   ],
+   "mainstream": "In Inuit religion the sea goddess known as Sedna, Nuliajuk, Takannaaluk or Arnaqquassaaq lives in a house at the bottom of the sea and controls the seals, walruses and whales. Versions differ, but at the centre a young woman is thrown overboard from a boat by her father; as she clings to the side he cuts off her fingers, joint by joint, and each piece becomes a sea mammal. When people break taboos, the dirt of their misdeeds tangles her hair and she withholds the animals; an angakkuq (shaman) must travel to her under the sea and comb and braid her hair, which she cannot do without fingers, before hunting can succeed. Traditional women's tattoos (kakiniit) on fingers allude to the story. Franz Boas published Central Inuit versions in 1888.",
+   "alternatives": [
+    {
+     "label": "Moral ecology",
+     "text": "Anthropologists read the story as linking human conduct to the supply of animals: taboo-breaking pollutes the sea and causes famine."
+    },
+    {
+     "label": "Shamanic journey",
+     "text": "The shaman's underwater journey to appease her is a classic example of spirit travel to another world, a theme found across Arctic and Siberian traditions."
+    },
+    {
+     "label": "Cross-cultural echoes",
+     "text": "Comparisons are made with other \"mistress of animals\" figures and with mermaid and water-spirit traditions such as Mami Wata; whether these share any common origin is speculative."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Sedna (mythology)",
+     "url": "https://en.wikipedia.org/wiki/Sedna_(mythology)",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Sanna_aux_doigts_coup%C3%A9s.jpg/500px-Sanna_aux_doigts_coup%C3%A9s.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Sanna_aux_doigts_coup%C3%A9s.jpg",
+     "author": "Nuvualiak Alariak",
+     "license": "CC BY-SA 4.0",
+     "title": "Sanna_aux_doigts_coupés.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion"
+   ],
+   "threads": [
+    "otherworld-visits",
+    "underground-worlds",
+    "altered-states"
+   ]
+  },
+  {
+   "id": "franklin-expedition",
+   "title": "Franklin's lost expedition: Inuit testimony ignored for 160 years",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1845,
+   "end": 2016,
+   "dateNote": "Sailed 1845; ships abandoned 1848; wrecks found 2014 and 2016",
+   "evidenceTypes": [
+    "historical records",
+    "oral testimony",
+    "underwater archaeology",
+    "forensic"
+   ],
+   "mainstream": "In 1845 Sir John Franklin sailed from England with 129 men in HMS Erebus and HMS Terror to complete the Northwest Passage. The ships were trapped in ice off King William Island in September 1846; a note found in 1859 recorded that Franklin had died in June 1847 and the survivors abandoned the ships in April 1848 to walk south, and all died. In 1854 John Rae reported Inuit accounts of starving men and of cannibalism, which caused outrage in Britain and were dismissed by figures including Charles Dickens. Inuit testimony collected by Charles Francis Hall and others, and later studied by David Woodman and Inuk historian Louie Kamookak, helped guide searches: Parks Canada found Erebus in 2014, and the Arctic Research Foundation found Terror in Terror Bay in 2016 after an Inuk crew member, Sammy Kogvik, reported seeing a mast sticking through the ice years earlier.",
+   "alternatives": [
+    {
+     "label": "Stories proven true",
+     "text": "Bone studies (cut marks and \"pot polishing\") published in 2015 support the Inuit accounts of cannibalism, and the wreck locations agree broadly with Inuit testimony about a ship sinking far to the south."
+    },
+    {
+     "label": "Lead poisoning, scurvy or zinc?",
+     "text": "Lead from tinned food and water systems was long blamed; later studies emphasise scurvy, malnutrition, tuberculosis and possibly zinc deficiency, and the relative roles are debated."
+    },
+    {
+     "label": "Legends and the uncanny",
+     "text": "The mystery inspired ghost stories and fiction, including Dan Simmons's novel The Terror (2007) and its 2018 TV adaptation, which add a supernatural creature drawn loosely from Inuit lore."
+    }
+   ],
+   "changed": "1854: Inuit reports of cannibalism rejected in Britain. 1859: Victory Point note found. 1990s: Inuit testimony re-examined. 2014/2016: both wrecks found, consistent with Inuit accounts.",
+   "sources": [
+    {
+     "title": "Wikipedia: Franklin's lost expedition",
+     "url": "https://en.wikipedia.org/wiki/Franklin's_lost_expedition",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: HMS Erebus (1826)",
+     "url": "https://en.wikipedia.org/wiki/HMS_Erebus_(1826)",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Franklin%27s-Lost-Expedition.png/500px-Franklin%27s-Lost-Expedition.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Franklin%27s-Lost-Expedition.png",
+     "author": "Hans van der Maarel",
+     "license": "CC BY-SA 4.0",
+     "title": "Franklin's-Lost-Expedition.png"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology"
+   ],
+   "threads": [
+    "changed-understanding",
+    "stories-proven-true",
+    "deep-oral-memory",
+    "disappearances",
+    "sea-mysteries"
+   ]
+  },
+  {
+   "id": "mesa-verde",
+   "title": "Mesa Verde: the cliff dwellings that were abandoned in a generation",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1190,
+   "end": 1300,
+   "dateNote": "Cliff dwellings c. 1190–1280 CE; region left by c. 1300",
+   "evidenceTypes": [
+    "archaeological",
+    "dendrochronology",
+    "oral tradition"
+   ],
+   "mainstream": "Ancestral Puebloans farmed the Mesa Verde region of south-western Colorado from about 600 CE. Late in the 12th century they began to build villages inside cliff alcoves, including Cliff Palace with about 150 rooms; tree-ring dates show most construction between about 1190 and 1260. By about 1285–1300 the whole region was emptied, as people migrated south to the Rio Grande and Arizona, where their descendants live in today's Pueblos (such as Hopi, Zuni and the Rio Grande Pueblos). Ranchers Richard Wetherill and Charlie Mason publicised Cliff Palace in 1888; Mesa Verde became a US national park in 1906.",
+   "alternatives": [
+    {
+     "label": "Drought and conflict",
+     "text": "Archaeologists link the departure to the \"Great Drought\" of 1276–1299 seen in tree rings, overdependence on maize, deforestation and rising violence, shown by defensive towers and some evidence of massacres."
+    },
+    {
+     "label": "Pull, not just push",
+     "text": "Some scholars stress the attraction of new religious movements (such as the katsina tradition) and communities in the south, rather than collapse alone."
+    },
+    {
+     "label": "Migration, not disappearance",
+     "text": "Pueblo people reject the popular idea that the Anasazi \"mysteriously vanished\": their oral histories describe a planned migration, and they regard Mesa Verde as an ancestral home."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Mesa Verde National Park",
+     "url": "https://en.wikipedia.org/wiki/Mesa_Verde_National_Park",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "UNESCO: Mesa Verde National Park",
+     "url": "https://whc.unesco.org/en/list/27",
+     "type": "heritage body"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Cliff_Palace-Colorado-Mesa_Verde_NP.jpg/500px-Cliff_Palace-Colorado-Mesa_Verde_NP.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Cliff_Palace-Colorado-Mesa_Verde_NP.jpg",
+     "author": "Tobi 87",
+     "license": "CC BY-SA 4.0",
+     "title": "Cliff_Palace-Colorado-Mesa_Verde_NP.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history"
+   ],
+   "threads": [
+    "civilisation-collapses",
+    "disappearances",
+    "rain-and-drought",
+    "ancestral-homelands"
+   ]
+  },
+  {
+   "id": "taino-ocean-gourd",
+   "title": "Yaya's gourd: the Taíno story of how the ocean was born",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": 1494,
+   "end": null,
+   "dateNote": "Recorded by Ramón Pané c. 1494–1498",
+   "evidenceTypes": [
+    "textual",
+    "mythological",
+    "archaeological"
+   ],
+   "mainstream": "The earliest written record of an Indigenous American religion is the account of the Taíno of Hispaniola compiled in the 1490s by the friar Ramón Pané on Columbus's orders (the original is lost; it survives in an Italian translation). In one myth the supreme spirit Yaya killed his rebellious son Yayael and hung his bones in a gourd from the roof. When the gourd was opened, the bones had turned into fish. Four brothers born of one mother later crept in to eat the fish, dropped the gourd as Yaya returned, and it broke: so much water poured out that it covered the earth and became the sea, full of fish. The Taíno kept the bones of ancestors in hanging gourds or baskets and venerated zemís, spirit beings embodied in carved objects.",
+   "alternatives": [
+    {
+     "label": "Flood and origin myth",
+     "text": "The broken gourd is read both as an origin story for the sea and as one of the many flood stories of the Americas."
+    },
+    {
+     "label": "Ancestors give life",
+     "text": "Scholars note that the myth makes ancestral bones a source of life and food, matching Taíno burial practice."
+    },
+    {
+     "label": "A filtered record",
+     "text": "Pané spoke a different language, worked through interpreters and wrote as a missionary, so the account is fragmentary and its accuracy is debated."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Taíno mythology",
+     "url": "https://en.wikipedia.org/wiki/Ta%C3%ADno_mythology",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [],
+   "categories": [
+    "myth-legend",
+    "religion"
+   ],
+   "threads": [
+    "flood-myths",
+    "creation-myths"
+   ]
+  },
+  {
+   "id": "taino-survival",
+   "title": "The \"extinct\" Taíno: a people written off in 1550, found in living DNA",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1550,
+   "end": null,
+   "dateNote": "Declared extinct c. 1550; ancient genome published 2018",
+   "evidenceTypes": [
+    "historical records",
+    "ancient DNA",
+    "genetic"
+   ],
+   "mainstream": "The Taíno were the main people of the Greater Antilles and the Bahamas when Columbus landed in 1492. War, enslavement and epidemics caused a catastrophic decline, and Spanish documents declared them extinct as early as about 1550; history books long repeated this. In 2018 a team sequenced the genome of a woman buried in the Bahamas (Preacher's Cave) around the 8th–10th century and found that present-day Puerto Ricans were more closely related to her than to any other Indigenous American group. Many people in Puerto Rico, Cuba and the Dominican Republic carry Indigenous mitochondrial DNA (passed down the female line), and Taíno words, crops and practices survive.",
+   "alternatives": [
+    {
+     "label": "Survival through mixing",
+     "text": "Researchers and Taíno descendant groups argue that the Taíno were absorbed through intermarriage and creolisation rather than wiped out, and that their identity persisted."
+    },
+    {
+     "label": "Ancestry is not identity",
+     "text": "Some historians caution that small percentages of Indigenous ancestry do not by themselves show cultural continuity, and the modern Taíno revival is debated."
+    },
+    {
+     "label": "Myth of extinction",
+     "text": "Scholars note that the \"extinction\" narrative suited colonial claims to land and labour."
+    }
+   ],
+   "changed": "16th century: declared extinct. 20th century: textbooks repeat it. 2000s–2018: mitochondrial and ancient-DNA studies show substantial Taíno ancestry in living Caribbean people.",
+   "sources": [
+    {
+     "title": "Origins and genetic legacies of the Caribbean Taino",
+     "authors": "Schroeder, H. et al.",
+     "year": 2018,
+     "doi": "10.1073/pnas.1716839115",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: Taíno",
+     "url": "https://en.wikipedia.org/wiki/Ta%C3%ADno",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Estatua_de_Ag%C3%BCeyban%C3%A1_II%2C_El_Bravo%2C_en_el_Parque_Monumento_a_Ag%C3%BCeyban%C3%A1_II%2C_El_Bravo%2C_en_Ponce%2C_Puerto_Rico_%28DSC02672C%29.jpg/500px-Estatua_de_Ag%C3%BCeyban%C3%A1_II%2C_El_Bravo%2C_en_el_Parque_Monumento_a_Ag%C3%BCeyban%C3%A1_II%2C_El_Bravo%2C_en_Ponce%2C_Puerto_Rico_%28DSC02672C%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Estatua_de_Ag%C3%BCeyban%C3%A1_II,_El_Bravo,_en_el_Parque_Monumento_a_Ag%C3%BCeyban%C3%A1_II,_El_Bravo,_en_Ponce,_Puerto_Rico_(DSC02672C).jpg",
+     "author": "Tito Caraballo",
+     "license": "CC BY-SA 2.0",
+     "title": "Estatua_de_Agüeybaná_II,_El_Bravo,_en_el_Parque_Monumento_a_Agüeybaná_II,_El_Bravo,_en_Ponce,_Puerto_Rico_(DSC02672C).jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "science-cosmos"
+   ],
+   "threads": [
+    "changed-understanding",
+    "stories-proven-true",
+    "civilisation-collapses",
+    "genetic-migrations"
+   ]
+  },
+  {
+   "id": "port-royal",
+   "title": "Port Royal: the \"wickedest city on Earth\" that sank in an afternoon",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1692,
+   "end": null,
+   "dateNote": "Earthquake 7 June 1692",
+   "evidenceTypes": [
+    "historical records",
+    "underwater archaeology",
+    "geological"
+   ],
+   "mainstream": "Port Royal, on a sand spit at the mouth of Kingston Harbour, Jamaica, was the busiest English port in the Americas in the 1660s–80s and a base for buccaneers such as Henry Morgan; it was nicknamed the \"Sodom of the New World\" and \"the wickedest city on Earth\". On 7 June 1692 an earthquake liquefied the sandy ground and about two-thirds of the town slid or sank into the sea; a pocket watch recovered from the seabed in the 1960s stopped at 11:43. Between 1,000 and 3,000 people died in the earthquake and tsunami, and about 2,000 more of disease afterwards. Underwater excavations, including a 10-year Texas A&M project from 1981, have mapped streets and buildings preserved beneath the harbour.",
+   "alternatives": [
+    {
+     "label": "Divine judgement",
+     "text": "Many preachers at the time, in Jamaica and England, presented the disaster as God's punishment of a sinful city, comparing it to Sodom and Gomorrah."
+    },
+    {
+     "label": "Natural hazard",
+     "text": "Geologists explain the destruction by liquefaction of the saturated sand spit; another earthquake in 1907 liquefied it again."
+    },
+    {
+     "label": "A real \"sunken city\"",
+     "text": "Port Royal is often cited alongside legendary drowned cities (Atlantis, Ys, Dwarka) as an example of a city genuinely swallowed by the sea within memory."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Port Royal",
+     "url": "https://en.wikipedia.org/wiki/Port_Royal",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: 1692 Jamaica earthquake",
+     "url": "https://en.wikipedia.org/wiki/1692_Jamaica_earthquake",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Aerial_view_of_Port_Royal_Jamaica.JPG/500px-Aerial_view_of_Port_Royal_Jamaica.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Port_Royal_Jamaica.JPG",
+     "author": "Raychristofer",
+     "license": "CC BY-SA 4.0",
+     "title": "Aerial_view_of_Port_Royal_Jamaica.JPG"
+    }
+   ],
+   "categories": [
+    "history",
+    "catastrophes",
+    "religion"
+   ],
+   "threads": [
+    "sunken-cities",
+    "sea-mysteries"
+   ]
+  },
+  {
+   "id": "haitian-zombies",
+   "title": "Clairvius Narcisse and the \"zombie powder\" debate",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 3,
+   "start": 1962,
+   "end": null,
+   "dateNote": "\"Death\" 1962; reappearance 1980",
+   "evidenceTypes": [
+    "medical records",
+    "ethnographic",
+    "toxicology"
+   ],
+   "mainstream": "In Haitian Vodou belief a bokor (sorcerer) can raise a dead person as a zombi, a soulless labourer under his control. Clairvius Narcisse was admitted to the Albert Schweitzer Hospital in Deschapelles, Haiti, in April 1962, was declared dead and buried on 2 May 1962. In 1980 a man identifying himself as Narcisse approached his sister in L'Estère, saying he had been dug up, drugged and forced to work on a plantation. Ethnobotanist Wade Davis, then a Harvard graduate student, investigated and in The Serpent and the Rainbow (1985) proposed that a powder containing tetrodotoxin from pufferfish could induce a death-like coma, followed by Datura to keep victims confused.",
+   "alternatives": [
+    {
+     "label": "Pharmacological zombies",
+     "text": "Davis argued that zombification was a real social sanction, using toxins to produce apparent death and resurrection."
+    },
+    {
+     "label": "Toxin not found",
+     "text": "Toxicologists Kao and Yasumoto (1986) and others found little or no tetrodotoxin in powder samples; critics called the work bad science, and Davis replied that preparations vary."
+    },
+    {
+     "label": "Psychiatric and social explanations",
+     "text": "Some researchers suggest that people identified as zombies were often mentally ill or brain-damaged wanderers taken in by families; others stress that the zombi belief reflects the memory of slavery in Haiti."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Clairvius Narcisse",
+     "url": "https://en.wikipedia.org/wiki/Clairvius_Narcisse",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Zombie",
+     "url": "https://en.wikipedia.org/wiki/Zombie",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [],
+   "categories": [
+    "religion",
+    "anomalies",
+    "history"
+   ],
+   "threads": [
+    "altered-states"
+   ]
+  },
+  {
+   "id": "bimini-road",
+   "title": "The Bimini Road: a road to Atlantis on the Bahamas seabed?",
+   "lane": "history",
+   "status": "debunked",
+   "priority": 2,
+   "start": 1968,
+   "end": null,
+   "dateNote": "Found 2 September 1968",
+   "evidenceTypes": [
+    "geological",
+    "radiocarbon",
+    "underwater survey"
+   ],
+   "mainstream": "On 2 September 1968 diver-zoologist Joseph Manson Valentine and companions found a straight line of rounded limestone blocks nearly 0.8 km long in about 5.5 m of water off North Bimini in the Bahamas. Followers of the psychic Edgar Cayce, who had predicted in 1940 that part of Atlantis would rise near Bimini in 1968 or 1969, hailed it as an Atlantean road or wall. Geologists, including Eugene Shinn of the US Geological Survey, found the blocks are beachrock – sand and shells naturally cemented on a beach – that cracked into rectangular slabs; cores show the bedding runs continuously across blocks, and radiocarbon dates suggest the beachrock formed about 3,000 years ago.",
+   "alternatives": [
+    {
+     "label": "Atlantean or human-made (speculative)",
+     "text": "Valentine, Graham Hancock and others argue that the alignment, apparent \"prop\" stones and right angles show deliberate construction, perhaps a harbour or breakwater from a time of lower sea level."
+    },
+    {
+     "label": "Natural beachrock",
+     "text": "Most geologists regard it as natural, noting identical beachrock pavements elsewhere, such as at Loggerhead Key in the Dry Tortugas, and that radiocarbon dates are far too young for an Ice Age civilisation."
+    },
+    {
+     "label": "Self-fulfilling prophecy",
+     "text": "Sceptics note that the find in the very year of Cayce's prediction drove interest; supporters see the timing as significant."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Bimini Road",
+     "url": "https://en.wikipedia.org/wiki/Bimini_Road",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Edgar Cayce",
+     "url": "https://en.wikipedia.org/wiki/Edgar_Cayce",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Bimini_island.jpg/500px-Bimini_island.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Bimini_island.jpg",
+     "author": "Original picture by NASA",
+     "license": "Public domain",
+     "title": "Bimini_island.jpg"
+    }
+   ],
+   "categories": [
+    "lost-civilisations",
+    "anomalies",
+    "hoaxes"
+   ],
+   "threads": [
+    "lost-civilisations",
+    "hoaxes-exposed",
+    "lost-continents",
+    "sunken-cities",
+    "sea-mysteries"
+   ]
+  },
+  {
+   "id": "bermuda-triangle",
+   "title": "The Bermuda Triangle",
+   "lane": "history",
+   "status": "debunked",
+   "priority": 1,
+   "start": 1964,
+   "end": null,
+   "dateNote": "Named 1964; key cases 1918–1949",
+   "evidenceTypes": [
+    "historical records",
+    "statistical analysis",
+    "journalism"
+   ],
+   "mainstream": "The idea that ships and aircraft vanish unusually often in a triangle of the western Atlantic between Miami, Bermuda and San Juan, Puerto Rico, grew from a 1950 Associated Press article and was named by Vincent Gaddis in the February 1964 Argosy article \"The Deadly Bermuda Triangle\". Books by Charles Berlitz (1974) and others made it a global legend. Cases cited include the collier USS Cyclops (lost with 306 aboard in 1918), Flight 19 (five US Navy Avenger torpedo bombers lost on 5 December 1945, along with a rescue flying boat), and the airliners Star Tiger (1948) and Star Ariel (1949). Librarian Larry Kusche's The Bermuda Triangle Mystery: Solved (1975) found that many stories were exaggerated, misdated, happened elsewhere or had ordinary explanations such as storms.",
+   "alternatives": [
+    {
+     "label": "Exotic causes (speculative)",
+     "text": "Proposed explanations include Atlantean energy crystals, magnetic anomalies, time warps, UFOs and sudden methane eruptions from the seabed; none has been demonstrated."
+    },
+    {
+     "label": "No more losses than elsewhere",
+     "text": "Kusche, the US Coast Guard and NOAA say the number of disappearances is not unusually high for one of the world's busiest shipping and flying areas; the insurer Lloyd's of London does not charge higher rates there."
+    },
+    {
+     "label": "Real hazards",
+     "text": "The area has the Gulf Stream, sudden storms, hurricanes and some of the deepest Atlantic waters, which make wreckage hard to find."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Bermuda Triangle",
+     "url": "https://en.wikipedia.org/wiki/Bermuda_Triangle",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "NOAA Ocean Service: What is the Bermuda Triangle?",
+     "url": "https://oceanservice.noaa.gov/facts/bermudatri.html",
+     "type": "government agency"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Bermuda_Triangle.png/500px-Bermuda_Triangle.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Bermuda_Triangle.png",
+     "author": "Bermudan_kolmio.jpg: Alphaios\nderivative work: -Majestic- (talk)",
+     "license": "Public domain",
+     "title": "Bermuda_Triangle.png"
+    }
+   ],
+   "categories": [
+    "anomalies",
+    "hoaxes"
+   ],
+   "threads": [
+    "hoaxes-exposed",
+    "disappearances",
+    "sea-mysteries"
+   ]
+  },
+  {
+   "id": "chupacabra",
+   "title": "The chupacabra: a vampire beast born in 1995",
+   "lane": "history",
+   "status": "debunked",
+   "priority": 2,
+   "start": 1995,
+   "end": null,
+   "dateNote": "Puerto Rico reports from March 1995",
+   "evidenceTypes": [
+    "eyewitness reports",
+    "DNA analysis",
+    "veterinary examination"
+   ],
+   "mainstream": "In March 1995 farmers in Puerto Rico began reporting livestock – goats, sheep, chickens – killed with puncture wounds and said to be drained of blood; more than 200 reports followed that year. Comedian Silverio Pérez is credited with coining the name chupacabras (\"goat-sucker\") on his radio show. In August 1995 Madelyne Tolentino of Canóvanas described a bipedal creature with large dark eyes and spines down its back. Reports spread to Mexico, the southern United States, Chile and Argentina. Later US \"chupacabras\", including Texas carcasses examined from 2004 onward, were identified by DNA and veterinarians as coyotes, dogs or hybrids with severe sarcoptic mange.",
+   "alternatives": [
+    {
+     "label": "Unknown predator or alien pet (speculative)",
+     "text": "Some believers proposed an unknown animal, a creature escaped from secret US genetic experiments, or an extraterrestrial animal; there is no physical evidence for any of these."
+    },
+    {
+     "label": "Film-inspired eyewitness",
+     "text": "After a five-year investigation, Benjamin Radford (Tracking the Chupacabra, 2011) concluded that Tolentino's description closely matched the alien Sil from the 1995 film Species, which she had seen."
+    },
+    {
+     "label": "Ordinary predators",
+     "text": "Necropsies of supposed victims found ordinary bite wounds from dogs and other animals; the blood draining was not confirmed."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Chupacabra",
+     "url": "https://en.wikipedia.org/wiki/Chupacabra",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [],
+   "categories": [
+    "myth-legend",
+    "anomalies",
+    "hoaxes"
+   ],
+   "threads": [
+    "hoaxes-exposed",
+    "cryptids",
+    "monster-panics"
    ]
   }
  ]
