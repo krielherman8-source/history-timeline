@@ -1,0 +1,92 @@
+{
+ "lascaux": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=ZjejoT1gFOc",
+  "title": "Cave Art 101 | National Geographic",
+  "channel": "National Geographic"
+ },
+ "newgrange": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=KVXWZkwV0RQ",
+  "title": "Newgrange | National Geographic",
+  "channel": "National Geographic"
+ },
+ "skara-brae": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=tlwxGvUy4Ks",
+  "title": "Skara Brae: The 'Dark Secret' Hidden Inside 5,000-Year-Old House | BBC Timestamp",
+  "channel": "BBC Timestamp"
+ },
+ "delphi-oracle": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=Wvdy0UQNO9E",
+  "title": "A day in the life of the oracle of Delphi - Mark Robinson",
+  "channel": "TED-Ed"
+ },
+ "tollund-man": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=iK2zPLwxvZM",
+  "title": "The mystery of Europe's most famous bog bodies | BBC Global",
+  "channel": "BBC Global"
+ },
+ "franklin-expedition": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=EKvXFg5iB84",
+  "title": "What happened to this doomed Arctic expedition? #shorts ￼",
+  "channel": "NOVA PBS Official"
+ },
+ "mesa-verde": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=XPI68mdz2HY",
+  "title": "Mesa Verde's Cliffside Dwellings Show a Glimpse of History | National Geographic",
+  "channel": "National Geographic"
+ },
+ "taino-ocean-gourd": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=arlTwhiMxVM",
+  "title": "The Taino myth of the cursed creator - Bill Keegan",
+  "channel": "TED-Ed"
+ },
+ "lisbon-1755": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=IVLGo_SgRfs",
+  "title": "The earthquake that changed history – BBC REEL",
+  "channel": "BBC Global"
+ },
+ "war-of-the-worlds-1938": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=BkG70_wa4a8",
+  "title": "Orson Welles: The 'alien invasion' that fooled America - BBC News",
+  "channel": "BBC News"
+ },
+ "ediacaran-biota": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=PGBf4Q2XWZo",
+  "title": "How We Identified One of Earth’s Earliest Animals",
+  "channel": "PBS Eons"
+ },
+ "knossos-labyrinth": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=2aoIs-5zqoI",
+  "title": "The scientific origins of the Minotaur - Matt Kaplan",
+  "channel": "TED-Ed"
+ },
+ "port-royal": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=tY1o7GIQdjc",
+  "title": "Underwater Pirate Tavern | National Geographic",
+  "channel": "National Geographic"
+ },
+ "sigiriya": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=AJYyp_t4NEc",
+  "title": "Ancient City of Sigiriya (UNESCO/NHK)",
+  "channel": "UNESCO"
+ },
+ "eyam-plague": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=HimTjOqT2mg",
+  "title": "The English town that stopped the plague | BBC Global",
+  "channel": "BBC Global"
+ }
+}
