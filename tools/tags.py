@@ -573,3 +573,39 @@ addt('sky-omens','carrington-event')
 addt('mysterious-lights','carrington-event')
 addt('ufo-encounters','baltic-anomaly')
 addt('hoaxes-exposed','baltic-anomaly')
+# --- batch 9
+C.update({
+'late-heavy-bombardment':'science-cosmos catastrophes',
+'ediacaran-biota':'science-cosmos',
+'lascaux':'archaeology science-cosmos',
+'varna-gold':'archaeology history lost-civilisations',
+'carnac':'archaeology myth-legend anomalies',
+'newgrange':'archaeology myth-legend religion science-cosmos',
+'skara-brae':'archaeology history catastrophes',
+'knossos-labyrinth':'myth-legend archaeology history',
+'delphi-oracle':'religion history science-cosmos anomalies',
+'tollund-man':'archaeology history religion',
+'steppe-migration':'history archaeology science-cosmos',
+})
+addt('cosmic-impacts','late-heavy-bombardment')
+addt('changed-understanding','late-heavy-bombardment ediacaran-biota delphi-oracle steppe-migration')
+addt('mass-extinctions','ediacaran-biota')
+addt('lost-evidence','ediacaran-biota')
+addt('ancient-astronomy','lascaux carnac newgrange')
+addt('altered-states','lascaux delphi-oracle dancing-plague')
+addt('origins-of-writing','lascaux')
+addt('knowledge-and-power','varna-gold delphi-oracle')
+addt('sacred-kingship','varna-gold newgrange tollund-man knossos-labyrinth')
+addt('lost-civilisations','varna-gold')
+addt('civilisation-collapses','varna-gold')
+addt('giant-monuments','carnac newgrange')
+addt('petrified-beings','carnac')
+addt('otherworld-visits','newgrange tollund-man')
+addt('underground-worlds','newgrange knossos-labyrinth')
+addt('hidden-tombs','newgrange')
+addt('vanished-landscapes','skara-brae')
+addt('stories-proven-true','skara-brae knossos-labyrinth')
+addt('human-sacrifice','tollund-man llullaillaco knossos-labyrinth')
+addt('mummies','tollund-man')
+addt('genetic-migrations','steppe-migration tarim-mummies polynesia-america-contact kennewick-man neanderthal-dna americas-peopling')
+addt('ancestral-homelands','steppe-migration arkaim')

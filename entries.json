@@ -488,7 +488,8 @@
    ],
    "threads": [
     "changed-understanding",
-    "human-origins"
+    "human-origins",
+    "genetic-migrations"
    ]
   },
   {
@@ -602,7 +603,8 @@
     "history"
    ],
    "threads": [
-    "changed-understanding"
+    "changed-understanding",
+    "genetic-migrations"
    ]
   },
   {
@@ -6670,7 +6672,8 @@
     "science-cosmos"
    ],
    "threads": [
-    "changed-understanding"
+    "changed-understanding",
+    "genetic-migrations"
    ]
   },
   {
@@ -6735,7 +6738,8 @@
    "threads": [
     "changed-understanding",
     "stories-proven-true",
-    "ocean-voyagers"
+    "ocean-voyagers",
+    "genetic-migrations"
    ]
   },
   {
@@ -11074,7 +11078,8 @@
    ],
    "threads": [
     "changed-understanding",
-    "mummies"
+    "mummies",
+    "genetic-migrations"
    ]
   },
   {
@@ -14554,7 +14559,8 @@
     "anomalies"
    ],
    "threads": [
-    "collective-experiences"
+    "collective-experiences",
+    "altered-states"
    ]
   },
   {
@@ -15762,7 +15768,8 @@
    "threads": [
     "hidden-tombs",
     "mummies",
-    "sacred-kingship"
+    "sacred-kingship",
+    "human-sacrifice"
    ]
   },
   {
@@ -17595,6 +17602,719 @@
    "threads": [
     "ufo-encounters",
     "hoaxes-exposed"
+   ]
+  },
+  {
+   "id": "late-heavy-bombardment",
+   "title": "The Late Heavy Bombardment: a storm of impacts 3.9 billion years ago, or an illusion?",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": -4100000000,
+   "end": -3800000000,
+   "dateNote": "Proposed c. 4.1–3.8 billion years ago",
+   "evidenceTypes": [
+    "radiometric dating",
+    "lunar samples",
+    "planetary modelling"
+   ],
+   "mainstream": "When rocks brought back by the Apollo missions were dated in the 1970s, many impact-melt samples gave ages clustered around 3.9 billion years. Researchers proposed a \"lunar cataclysm\": a spike in asteroid and comet impacts on the Moon – and by implication on the early Earth – hundreds of millions of years after the planets formed, often dated about 4.1–3.8 billion years ago. The Nice model of giant-planet migration (2005) offered a mechanism, with Jupiter and Saturn shifting orbits and scattering small bodies inward. The idea matters for the origin of life, because the earliest evidence for life on Earth falls in or close to this window.",
+   "alternatives": [
+    {
+     "label": "Sampling bias",
+     "text": "Critics argue the Apollo landing sites all sit near the Imbrium basin, so many samples may record a single giant impact and its ejecta rather than a solar-system-wide storm; lunar meteorites, which sample the Moon more randomly, show ages spread out rather than clustered."
+    },
+    {
+     "label": "Illusory spike",
+     "text": "A 2016 analysis by Boehnke and Harrison argued that the apparent 3.9-billion-year spike could be produced by how argon-dating results reset and are interpreted, and that impacts may instead have declined gradually."
+    },
+    {
+     "label": "Cataclysm survives",
+     "text": "Supporters point to dynamical models and to impact signatures in old crust as evidence that some late surge did occur, though perhaps earlier or smaller than first proposed; the question is open."
+    }
+   ],
+   "changed": "1970s: Apollo sample ages lead to the \"lunar cataclysm\" idea. 2005: the Nice model offers a cause. 2010s: lunar meteorites and re-analyses of dating cast doubt on a sharp spike.",
+   "sources": [
+    {
+     "title": "Illusory Late Heavy Bombardments",
+     "authors": "Boehnke, P. et al.",
+     "year": 2016,
+     "doi": "10.1073/pnas.1611535113",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: Late Heavy Bombardment",
+     "url": "https://en.wikipedia.org/wiki/Late_Heavy_Bombardment",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Precambrian_Evolution_of_Life.png/500px-Precambrian_Evolution_of_Life.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Precambrian_Evolution_of_Life.png",
+     "author": "Sciencia58",
+     "license": "CC0",
+     "title": "Precambrian_Evolution_of_Life.png"
+    }
+   ],
+   "categories": [
+    "science-cosmos",
+    "catastrophes"
+   ],
+   "threads": [
+    "cosmic-impacts",
+    "changed-understanding"
+   ]
+  },
+  {
+   "id": "ediacaran-biota",
+   "title": "The Ediacaran biota: Earth's first large living things, and the girl nobody believed",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -575000000,
+   "end": -539000000,
+   "dateNote": "c. 575–539 million years ago",
+   "evidenceTypes": [
+    "fossil",
+    "biomarkers",
+    "radiometric dating"
+   ],
+   "mainstream": "Soft-bodied organisms – fronds, discs, quilted mats and tube-like forms – left impressions in sea-floor sediments from about 575 to 539 million years ago, before the Cambrian explosion. Reg Sprigg noticed \"jellyfishes\" in the Ediacara Hills of South Australia in 1946, but they were assumed to be Cambrian. In England's Charnwood Forest a 15-year-old girl, Tina Negus, found a frond fossil in 1956 and was not believed; schoolboy Roger Mason found it again in 1957 and it was named Charnia, proving complex life existed in the Precambrian. In 2018 cholesterol-derived molecules preserved with Dickinsonia fossils from Russia were used to argue that Dickinsonia was an animal.",
+   "alternatives": [
+    {
+     "label": "Early animals",
+     "text": "Many palaeontologists see at least some Ediacarans (Kimberella, Dickinsonia, Spriggina) as early animals or relatives of later animal groups."
+    },
+    {
+     "label": "A failed experiment",
+     "text": "Adolf Seilacher proposed that many quilted forms belonged to a separate, extinct kingdom (Vendobionta) unrelated to later animals – an \"evolutionary experiment\" that died out; others have suggested lichens, giant protists or fungi for some forms."
+    },
+    {
+     "label": "A lost first world",
+     "text": "Because most Ediacaran forms vanish by the Cambrian, they are sometimes described as an earlier biosphere that was largely replaced; whether this was a mass extinction or gradual turnover is debated."
+    }
+   ],
+   "changed": "1946: Ediacara fossils found but thought Cambrian. 1956–57: Charnia proves Precambrian complex life. 2018: biomarkers suggest Dickinsonia was an animal.",
+   "sources": [
+    {
+     "title": "Ancient steroids establish the Ediacaran fossilDickinsoniaas one of the earliest animals",
+     "authors": "Bobrovskiy, I. et al.",
+     "year": 2018,
+     "doi": "10.1126/science.aat7228",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: Ediacaran biota",
+     "url": "https://en.wikipedia.org/wiki/Ediacaran_biota",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Dickinsonia",
+     "url": "https://en.wikipedia.org/wiki/Dickinsonia",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Ediacaran_ecosystem_diorama_NMNH.jpg/500px-Ediacaran_ecosystem_diorama_NMNH.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Ediacaran_ecosystem_diorama_NMNH.jpg",
+     "author": "Ryan Schwark",
+     "license": "CC0",
+     "title": "Ediacaran_ecosystem_diorama_NMNH.jpg"
+    }
+   ],
+   "categories": [
+    "science-cosmos"
+   ],
+   "threads": [
+    "changed-understanding",
+    "mass-extinctions",
+    "lost-evidence"
+   ]
+  },
+  {
+   "id": "lascaux",
+   "title": "Lascaux: the cave found by a dog, and the \"star map\" debate",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -17000,
+   "end": null,
+   "dateNote": "Paintings c. 17,000–22,000 years old; found 1940",
+   "evidenceTypes": [
+    "archaeological",
+    "rock art",
+    "radiocarbon"
+   ],
+   "mainstream": "On 12 September 1940, 18-year-old Marcel Ravidat found the entrance to a cave near Montignac in the Dordogne, France, at a hole left by an uprooted tree that his dog was investigating. He returned with three friends, Jacques Marsal, Georges Agnel and Simon Coencas, and found more than 600 wall paintings – nearly 6,000 figures in all, including horses, aurochs, stags and bison, plus human figures and abstract signs – and a famous scene in a shaft of a bird-headed man beside a wounded bison. The paintings are usually dated about 17,000–22,000 years ago (early Magdalenian). Breath and lighting from visitors caused lichens and crystals to grow, and the cave was closed to the public in 1963; visitors now see replicas.",
+   "alternatives": [
+    {
+     "label": "Hunting magic and ritual",
+     "text": "Early interpretations (Abbé Breuil) saw the images as hunting magic; later researchers proposed shamanic trance imagery (David Lewis-Williams and Jean Clottes) or structured mythological symbolism (André Leroi-Gourhan)."
+    },
+    {
+     "label": "Sky maps (speculative)",
+     "text": "Researchers such as Michael Rappenglück have proposed that dots near the aurochs represent the Pleiades and that other figures map star groups such as the \"summer triangle\"; most archaeologists consider these readings unproven."
+    },
+    {
+     "label": "Signs as proto-writing (debated)",
+     "text": "The repeated abstract signs in Lascaux and other caves have been studied as a possible shared symbol system; no meaning has been agreed."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Lascaux",
+     "url": "https://en.wikipedia.org/wiki/Lascaux",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "UNESCO: Prehistoric Sites and Decorated Caves of the Vézère Valley",
+     "url": "https://whc.unesco.org/en/list/85",
+     "type": "heritage body"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Lascaux_painting.jpg/500px-Lascaux_painting.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Lascaux_painting.jpg",
+     "author": "EU",
+     "license": "Public domain",
+     "title": "Lascaux_painting.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "science-cosmos"
+   ],
+   "threads": [
+    "ancient-astronomy",
+    "origins-of-writing",
+    "altered-states"
+   ]
+  },
+  {
+   "id": "varna-gold",
+   "title": "The Varna necropolis: the oldest gold treasure in the world",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -4560,
+   "end": -4340,
+   "dateNote": "Graves c. 4560–4340 BCE; found 1972",
+   "evidenceTypes": [
+    "archaeological",
+    "radiocarbon",
+    "metallurgical analysis"
+   ],
+   "mainstream": "In October 1972 excavator operator Raycho Marinov, digging a trench in an industrial zone of Varna on Bulgaria's Black Sea coast, uncovered a Copper Age cemetery. Some 294 graves dated about 4560–4340 BCE contained copper tools, flint blades, pottery and more than 3,000 gold objects. Grave 43 held a man buried with more gold than has been found in the whole rest of the world for that period, together with a sceptre; it was first called a prince's grave and is now also interpreted as a high-status metalworker. Some of the richest graves are cenotaphs with no skeleton, a few with clay masks decorated with gold.",
+   "alternatives": [
+    {
+     "label": "First elites",
+     "text": "Many archaeologists see Varna as the earliest clear evidence of a social elite marked by gold and symbols of authority, more than a thousand years before the pharaohs."
+    },
+    {
+     "label": "A lost first civilisation of Europe",
+     "text": "Bulgarian and international exhibitions (e.g. \"The Oldest Gold in the World – The First European Civilization\", Japan 1982) presented Varna and related Balkan Copper Age cultures as an early European civilisation that collapsed around 4000 BCE; others think \"civilisation\" overstates a chiefdom-level society."
+    },
+    {
+     "label": "Why it ended",
+     "text": "The end of the Balkan Copper Age cultures has been linked to climate change, social breakdown or the arrival of steppe groups; the causes are debated."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Varna Necropolis",
+     "url": "https://en.wikipedia.org/wiki/Varna_Necropolis",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Or_de_Varna_-_N%C3%A9cropole.jpg/500px-Or_de_Varna_-_N%C3%A9cropole.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Or_de_Varna_-_N%C3%A9cropole.jpg",
+     "author": "Yelkrokoyade",
+     "license": "CC BY-SA 3.0",
+     "title": "Or_de_Varna_-_Nécropole.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history",
+    "lost-civilisations"
+   ],
+   "threads": [
+    "lost-civilisations",
+    "civilisation-collapses",
+    "knowledge-and-power",
+    "sacred-kingship"
+   ]
+  },
+  {
+   "id": "carnac",
+   "title": "Carnac: thousands of standing stones, and soldiers turned to stone",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -4500,
+   "end": -3300,
+   "dateNote": "Mostly c. 4500–3300 BCE",
+   "evidenceTypes": [
+    "archaeological",
+    "radiocarbon",
+    "folklore"
+   ],
+   "mainstream": "Around the village of Carnac in Brittany, France, more than 3,000 prehistoric standing stones (menhirs) are arranged in long parallel rows, together with dolmens, tumuli and single menhirs. They were raised by Neolithic communities, mostly between about 4500 and 3300 BCE. Their purpose is unknown: they may have marked processional routes, territories or ancestral or calendar rituals. A local Christian legend says the stones are pagan soldiers who were pursuing Pope Cornelius when he turned them to stone; another tradition calls one tumulus \"Caesar's mound\", an observatory used by Julius Caesar in his war with the Veneti in 56 BCE.",
+   "alternatives": [
+    {
+     "label": "Astronomical alignment (debated)",
+     "text": "Alexander Thom and others proposed in the 1970s that the rows formed a lunar observatory; later researchers found the alignments only loosely astronomical."
+    },
+    {
+     "label": "Ancestral and territorial markers",
+     "text": "Many archaeologists favour interpretations as ritual or social monuments linking communities to land and ancestors."
+    },
+    {
+     "label": "Earth energies (speculative)",
+     "text": "Popular alternative writers link the rows to telluric currents, ley lines or lost Atlantean knowledge; there is no evidence for these ideas."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Carnac stones",
+     "url": "https://en.wikipedia.org/wiki/Carnac_stones",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/4748.1099_Menhire%2C_bis_zu_4_Meter_hoch%2C_von_OstnachWest_in_1167_Meter_Langen_Alignements_%28Granit-Steinreihen%29_in_einem_Halbkreis_endend_Le_M%C3%A9nec%2C_Carnac%2C_Departement_Morbihan%2C_Bretagne_Steffen_Heilfort.jpg/500px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:4748.1099_Menhire,_bis_zu_4_Meter_hoch,_von_OstnachWest_in_1167_Meter_Langen_Alignements_(Granit-Steinreihen)_in_einem_Halbkreis_endend_Le_M%C3%A9nec,_Carnac,_Departement_Morbihan,_Bretagne_Steffen_Heilfort.jpg",
+     "author": "Steffen Heilfort",
+     "license": "CC BY-SA 3.0",
+     "title": "4748.1099_Menhire,_bis_zu_4_Meter_hoch,_von_OstnachWest_in_1167_Meter_Langen_Alignements_(Granit-Steinreihen)_in_einem_Halbkreis_endend_Le_Ménec,_Carnac,_Departement_Morbihan,_Bretagne_Steffen_Heilfort.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "myth-legend",
+    "anomalies"
+   ],
+   "threads": [
+    "giant-monuments",
+    "ancient-astronomy",
+    "petrified-beings"
+   ]
+  },
+  {
+   "id": "newgrange",
+   "title": "Newgrange: the winter-solstice tomb and the home of the Irish gods",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": -3200,
+   "end": null,
+   "dateNote": "Built c. 3200 BCE; solstice light observed 1967",
+   "evidenceTypes": [
+    "archaeological",
+    "radiocarbon",
+    "archaeoastronomy",
+    "ancient DNA",
+    "mythological"
+   ],
+   "mainstream": "A great passage tomb in the Boyne Valley, Ireland, built about 3200–3100 BCE – older than Stonehenge's stone phase and the Giza pyramids. A \"roof-box\" above the entrance lets the rising sun shine down the 19 m passage into the central chamber for about 17 minutes around the winter solstice; archaeologist Michael O'Kelly was the first in modern times to observe this, on 21 December 1967. Medieval Irish literature calls the site Brú na Bóinne, the dwelling of the Dagda and his son Aengus, one of the Tuatha Dé Danann, the old gods believed to live inside the mounds (síde). A 2020 genome study found that a man buried in the chamber was the child of a first-degree incestuous union, which the authors interpreted as a sign of a ruling elite like those of some god-kings.",
+   "alternatives": [
+    {
+     "label": "Solar myth encoded",
+     "text": "Some scholars suggest that the tale in which the Dagda makes \"the sun stand still\" while Aengus is conceived echoes the solstice light entering the chamber; others see this as a modern reading of medieval texts."
+    },
+    {
+     "label": "Reconstruction disputes",
+     "text": "O'Kelly's 1960s–70s rebuilding of the white quartz façade is controversial, and in 2016 one archaeologist claimed the roof-box itself was partly fabricated; most specialists defend the excavation evidence."
+    },
+    {
+     "label": "Dynasty of priest-kings",
+     "text": "The incest finding has been read as evidence of a hereditary elite claiming divine status; critics caution that one burial cannot define a whole society."
+    }
+   ],
+   "sources": [
+    {
+     "title": "A dynastic elite in monumental Neolithic society",
+     "authors": "Cassidy, L. et al.",
+     "year": 2020,
+     "doi": "10.1038/s41586-020-2378-6",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: Newgrange",
+     "url": "https://en.wikipedia.org/wiki/Newgrange",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "UNESCO: Brú na Bóinne – Archaeological Ensemble of the Bend of the Boyne",
+     "url": "https://whc.unesco.org/en/list/659",
+     "type": "heritage body"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Irelands_history.jpg/500px-Irelands_history.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Irelands_history.jpg",
+     "author": "Tjp finn",
+     "license": "CC BY-SA 4.0",
+     "title": "Irelands_history.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "myth-legend",
+    "religion",
+    "science-cosmos"
+   ],
+   "threads": [
+    "giant-monuments",
+    "ancient-astronomy",
+    "hidden-tombs",
+    "sacred-kingship",
+    "otherworld-visits",
+    "underground-worlds"
+   ]
+  },
+  {
+   "id": "skara-brae",
+   "title": "Skara Brae: the Stone Age village uncovered by a storm",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -3180,
+   "end": -2500,
+   "dateNote": "Occupied c. 3180–2500 BCE; exposed 1850",
+   "evidenceTypes": [
+    "archaeological",
+    "radiocarbon"
+   ],
+   "mainstream": "In the winter of 1850 a severe storm stripped sand and turf from a mound on the Bay of Skaill in Orkney, Scotland, exposing the walls of stone houses. Excavations later revealed Europe's most complete Neolithic village, occupied from about 3180 to 2500 BCE: eight linked houses with stone beds, hearths, shelved \"dressers\" and covered drains, joined by roofed passages. A storm in 1924 damaged part of the site again, prompting full excavation. It is part of the Heart of Neolithic Orkney World Heritage Site.",
+   "alternatives": [
+    {
+     "label": "Sudden abandonment",
+     "text": "A popular story says the village was abandoned in haste during a great sandstorm, with necklaces and pins left behind; some writers compared it to Pompeii."
+    },
+    {
+     "label": "Gradual decline",
+     "text": "Archaeologists such as Anna Ritchie argue the burial in sand was gradual and the village had already been abandoned, perhaps as the climate became colder and wetter; the reason is unknown."
+    },
+    {
+     "label": "Threat today",
+     "text": "Rising seas and storms now threaten the site, which could be partly destroyed by one exceptional storm."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Skara Brae",
+     "url": "https://en.wikipedia.org/wiki/Skara_Brae",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "UNESCO: Heart of Neolithic Orkney",
+     "url": "https://whc.unesco.org/en/list/514",
+     "type": "heritage body"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/2018_07_12_Schottland_%2894%29.jpg/500px-2018_07_12_Schottland_%2894%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:2018_07_12_Schottland_(94).jpg",
+     "author": "Bewahrerderwerte",
+     "license": "CC BY-SA 4.0",
+     "title": "2018_07_12_Schottland_(94).jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history",
+    "catastrophes"
+   ],
+   "threads": [
+    "stories-proven-true",
+    "vanished-landscapes"
+   ]
+  },
+  {
+   "id": "knossos-labyrinth",
+   "title": "Knossos, the Labyrinth and the Minotaur",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 1,
+   "start": -1900,
+   "end": null,
+   "dateNote": "Palace c. 1900–1350 BCE; myth recorded in Greek sources from c. 7th–5th c. BCE",
+   "evidenceTypes": [
+    "archaeological",
+    "textual",
+    "mythological"
+   ],
+   "mainstream": "Greek myth says King Minos of Crete had the craftsman Daedalus build the Labyrinth to hold the Minotaur, a bull-headed man born to Queen Pasiphae; Athens sent young men and women to be devoured until Theseus killed it with the help of Ariadne's thread. From 1900 Arthur Evans excavated the Bronze Age palace complex of Knossos, a sprawling many-roomed building of the Minoan civilisation (named by Evans after Minos), with frescoes of bull-leaping and many images of double axes (labrys). Evans and others linked the maze-like palace to the Labyrinth. Linear B tablets contain the word da-pu₂-ri-to, apparently a Mycenaean Greek rendering of \"labyrinth\".",
+   "alternatives": [
+    {
+     "label": "Memory of a real palace",
+     "text": "Many scholars think the myth preserves Greek memories of Minoan Crete: a confusing palace, bull rituals and a sea power that once dominated the Aegean."
+    },
+    {
+     "label": "Word origin",
+     "text": "The derivation of \"labyrinth\" from labrys (\"house of the double axe\"), proposed in 1892, is popular but lost ground after Linear B was deciphered; some linguists see it as speculative and suggest other roots."
+    },
+    {
+     "label": "Evans's reconstruction",
+     "text": "Evans's concrete reconstructions and his picture of peaceful priest-kings shaped the modern image of the Minoans; later archaeologists argue he projected his own ideas onto the ruins."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Minotaur",
+     "url": "https://en.wikipedia.org/wiki/Minotaur",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Knossos",
+     "url": "https://en.wikipedia.org/wiki/Knossos",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Labyrinth",
+     "url": "https://en.wikipedia.org/wiki/Labyrinth",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Tondo_Minotaur_London_E4_MAN.jpg/500px-Tondo_Minotaur_London_E4_MAN.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Tondo_Minotaur_London_E4_MAN.jpg",
+     "author": "Painter of London E 4",
+     "license": "CC BY 2.5",
+     "title": "Tondo_Minotaur_London_E4_MAN.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "archaeology",
+    "history"
+   ],
+   "threads": [
+    "stories-proven-true",
+    "sacred-kingship",
+    "underground-worlds",
+    "human-sacrifice"
+   ]
+  },
+  {
+   "id": "delphi-oracle",
+   "title": "The Oracle of Delphi: did the Pythia breathe intoxicating gas?",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": -800,
+   "end": 390,
+   "dateNote": "Oracle active c. 8th c. BCE – late 4th c. CE",
+   "evidenceTypes": [
+    "textual",
+    "geological",
+    "geochemical"
+   ],
+   "mainstream": "For more than a thousand years the Pythia, priestess of Apollo at Delphi, gave prophecies that shaped Greek decisions on wars and colonies. Ancient writers including Plutarch – himself a priest at Delphi around 100 CE – described a pneuma (vapour) rising in the temple and a sweet smell when the god was present. Early 20th-century excavators found no chasm and many scholars dismissed the vapours as myth. In 2001 geologist Jelle Zeilinga de Boer, archaeologist John Hale and colleagues reported two faults crossing beneath the temple and traces of light hydrocarbon gases, including ethylene, in a nearby spring, proposing that gas seeping through the fractured limestone induced a trance.",
+   "alternatives": [
+    {
+     "label": "Ethylene trance",
+     "text": "Supporters note that ethylene was once used as an anaesthetic and in low doses can produce euphoria and altered speech, resembling ancient descriptions of the Pythia."
+    },
+    {
+     "label": "Gas too weak",
+     "text": "Other researchers argued the measured concentrations were far too low, that ethylene is unlikely from this geology, and proposed other gases such as methane or carbon dioxide, or none at all; historian Daryn Lehoux called the ethylene hypothesis \"impossible\"."
+    },
+    {
+     "label": "Ritual performance",
+     "text": "Many classicists see the Pythia's state as a ritual or cultural performance, with priests interpreting her words, and do not require any gas."
+    }
+   ],
+   "changed": "Ancient: vapours described. Early 1900s: French excavations find no chasm; vapours dismissed. 2001: faults and gas traces revive a geological explanation, which remains contested.",
+   "sources": [
+    {
+     "title": "New evidence for the geological origins of the ancient Delphic oracle (Greece)",
+     "authors": "de Boer, J. et al.",
+     "year": 2001,
+     "doi": "10.1130/0091-7613(2001)029<0707:NEFTGO>2.0.CO;2",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: Pythia",
+     "url": "https://en.wikipedia.org/wiki/Pythia",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Eug%C3%A8ne_Delacroix_-_Lycurgus_Consulting_the_Pythia_-_Google_Art_Project.jpg/500px-Eug%C3%A8ne_Delacroix_-_Lycurgus_Consulting_the_Pythia_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Eug%C3%A8ne_Delacroix_-_Lycurgus_Consulting_the_Pythia_-_Google_Art_Project.jpg",
+     "author": "Eugène Delacroix",
+     "license": "Public domain",
+     "title": "Eugène_Delacroix_-_Lycurgus_Consulting_the_Pythia_-_Google_Art_Project.jpg"
+    }
+   ],
+   "categories": [
+    "religion",
+    "history",
+    "science-cosmos",
+    "anomalies"
+   ],
+   "threads": [
+    "changed-understanding",
+    "knowledge-and-power",
+    "altered-states"
+   ]
+  },
+  {
+   "id": "tollund-man",
+   "title": "Tollund Man and the bog bodies of northern Europe",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -400,
+   "end": null,
+   "dateNote": "Died c. 405–380 BCE; found 1950",
+   "evidenceTypes": [
+    "archaeological",
+    "radiocarbon",
+    "forensic"
+   ],
+   "mainstream": "On 8 May 1950 peat cutters Viggo and Emil Højgaard found a body so well preserved in a bog near Silkeborg, Denmark, that they thought it was a recent murder victim. Tollund Man had died by hanging between about 405 and 380 BCE, in the Pre-Roman Iron Age; a plaited hide noose was still around his neck, and he wore a pointed sheepskin cap and a belt. His last meal was a porridge of barley, flax and wild seeds. Hundreds of bog bodies are known from Denmark, Germany, the Netherlands, Britain and Ireland, many showing violent deaths, preserved by acidic, oxygen-poor peat.",
+   "alternatives": [
+    {
+     "label": "Sacrifice to gods",
+     "text": "Many archaeologists interpret Tollund Man and similar bodies as human sacrifices or ritual killings, placed deliberately in bogs seen as gateways to the otherworld."
+    },
+    {
+     "label": "Executions",
+     "text": "The Roman writer Tacitus (Germania, c. 98 CE) described Germanic peoples drowning traitors and the shameful in marshes; some bog bodies may be punished criminals or outcasts."
+    },
+    {
+     "label": "Kings and failed rulers",
+     "text": "Studies of Irish bog bodies such as Old Croghan Man suggest some were kings or candidates killed when crops failed, linked to sacral kingship; this interpretation is debated."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Tollund Man",
+     "url": "https://en.wikipedia.org/wiki/Tollund_Man",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Bog body",
+     "url": "https://en.wikipedia.org/wiki/Bog_body",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Moorleiche_von_Tollund_J%C3%BCtland_um_100_n_Chr_hingerichtet.jpg/500px-Moorleiche_von_Tollund_J%C3%BCtland_um_100_n_Chr_hingerichtet.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Moorleiche_von_Tollund_J%C3%BCtland_um_100_n_Chr_hingerichtet.jpg",
+     "author": "Unknown authorUnknown author",
+     "license": "Public domain",
+     "title": "Moorleiche_von_Tollund_Jütland_um_100_n_Chr_hingerichtet.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history",
+    "religion"
+   ],
+   "threads": [
+    "mummies",
+    "sacred-kingship",
+    "otherworld-visits",
+    "human-sacrifice"
+   ]
+  },
+  {
+   "id": "steppe-migration",
+   "title": "The steppe migration: ancient DNA and the spread of Indo-European languages",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": -3000,
+   "end": -2500,
+   "dateNote": "Main expansion c. 3000–2500 BCE",
+   "evidenceTypes": [
+    "ancient DNA",
+    "archaeological",
+    "linguistic"
+   ],
+   "mainstream": "Linguists have long known that languages from Ireland to India – the Indo-European family – descend from a common ancestor. In 1956 Marija Gimbutas proposed the \"Kurgan hypothesis\": horse-riding pastoralists from the Pontic–Caspian steppe spread these languages. In 2015 two large ancient-DNA studies (Haak et al.; Allentoft et al.) found that around 3000–2500 BCE people related to the steppe Yamnaya culture contributed a large share of ancestry to Europeans of the Corded Ware culture, a population turnover that the authors linked to the spread of at least some Indo-European languages. Later work traced steppe ancestry into South Asia in the 2nd millennium BCE.",
+   "alternatives": [
+    {
+     "label": "Steppe homeland",
+     "text": "Many linguists and geneticists now consider the steppe hypothesis best supported, at least for Europe."
+    },
+    {
+     "label": "Anatolian farming hypothesis",
+     "text": "Colin Renfrew (1987) proposed Indo-European spread with farming from Anatolia around 7000 BCE; some researchers argue for an ultimate homeland south of the Caucasus, with the steppe as a secondary stage."
+    },
+    {
+     "label": "Out of India and other views",
+     "text": "A minority view, influential in some Indian debates, holds that Indo-European languages spread out of India; most geneticists and linguists reject this, but the 2019 Rakhigarhi genome (no steppe ancestry in a Harappan individual) is cited by both sides."
+    },
+    {
+     "label": "Genes are not languages",
+     "text": "Many archaeologists caution that DNA tracks people, not languages or cultures, and that \"migration\" narratives can echo 19th–20th-century nationalist misuse of the Indo-European idea."
+    }
+   ],
+   "changed": "1956: Kurgan hypothesis. 1987: Anatolian hypothesis. 2015: ancient DNA reveals massive steppe-related migration into Europe.",
+   "sources": [
+    {
+     "title": "Massive migration from the steppe was a source for Indo-European languages in Europe",
+     "authors": "Haak, W. et al.",
+     "year": 2015,
+     "doi": "10.1038/nature14317",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: Yamnaya culture",
+     "url": "https://en.wikipedia.org/wiki/Yamnaya_culture",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Steppe theory",
+     "url": "https://en.wikipedia.org/wiki/Steppe_theory",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Yamnaya_Culture.png/500px-Yamnaya_Culture.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Yamnaya_Culture.png",
+     "author": "Maptist",
+     "license": "CC0",
+     "title": "Yamnaya_Culture.png"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology",
+    "science-cosmos"
+   ],
+   "threads": [
+    "changed-understanding",
+    "ancestral-homelands",
+    "genetic-migrations"
    ]
   }
  ]
