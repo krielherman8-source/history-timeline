@@ -21259,14 +21259,14 @@
    "lane": "history",
    "status": "confirmed",
    "priority": 2,
-   "start": -5500,
-   "end": -2750,
+   "start": -5050,
+   "end": -2950,
    "evidenceTypes": [
     "archaeological",
     "geophysical survey",
     "radiocarbon"
    ],
-   "mainstream": "The Cucuteni–Trypillia culture flourished from about 5500 to 2750 BCE in what are now Romania, Moldova and Ukraine. Around 4100–3600 BCE some of its settlements, such as Talianki and Maidanetske in Ukraine, grew into \"mega-sites\" covering more than 100 hectares – Talianki around 335 hectares – with up to a few thousand houses arranged in concentric ovals, among the largest settlements in the world at the time and earlier than the first Mesopotamian cities. A striking feature is that many houses were burned, apparently in a repeated cycle, and settlements were then rebuilt.",
+   "mainstream": "The Cucuteni–Trypillia culture flourished from roughly 5000 to 3000 BCE (estimates vary; recent ones give c. 5050–2950 BCE) in what are now Romania, Moldova and Ukraine. Around 4100–3600 BCE some of its settlements, such as Talianki and Maidanetske in Ukraine, grew into \"mega-sites\" covering more than 100 hectares – Talianki around 335 hectares – with up to a few thousand houses arranged in concentric ovals, among the largest settlements in the world at the time and earlier than the first Mesopotamian cities. A striking feature is that many houses were burned, apparently in a repeated cycle, and settlements were then rebuilt.",
    "alternatives": [
     {
      "label": "Deliberate burning",
@@ -21782,6 +21782,671 @@
     "stories-proven-true",
     "mass-extinctions",
     "giant-birds"
+   ]
+  },
+  {
+   "id": "wolfe-creek",
+   "title": "Wolfe Creek crater (Kandimalal): where the evening star fell",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -120000,
+   "end": null,
+   "dateNote": "Impact less than c. 120,000 years ago (2019 estimate)",
+   "evidenceTypes": [
+    "geological",
+    "oral tradition",
+    "mythological"
+   ],
+   "mainstream": "Wolfe Creek Crater in the Kimberley region of Western Australia is a well-preserved meteorite impact crater about 875 metres across. It was brought to scientists' attention after being spotted during an aerial survey in 1947 and was described in 1949. It was long thought to be about 300,000 years old, but a 2019 study estimated it to be less than 120,000 years old. Small iron meteorites and iron-rich \"shale balls\" have been found around it. The local Djaru (Jaru) people call it Kandimalal and have several Dreaming stories about its origin.",
+   "alternatives": [
+    {
+     "label": "Dreaming stories",
+     "text": "One story says the round crater was made by a rainbow snake emerging from the earth; another, told by an Elder, says that the evening star passed close to the crescent moon, became so hot that it fell to the ground with a great explosion, flash and dust cloud, and that people long feared to go near the place."
+    },
+    {
+     "label": "Memory of an impact?",
+     "text": "Some writers suggest the falling-star story may preserve a memory of the impact, since people have lived in Australia for perhaps 50,000–65,000 years; others note the story could have arisen after people saw the crater and that the impact's precise age is uncertain."
+    },
+    {
+     "label": "Science and culture",
+     "text": "The crater is a site of interest both for impact science and for discussions of how Aboriginal knowledge records landscape features."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Wolfe Creek Crater",
+     "url": "https://en.wikipedia.org/wiki/Wolfe_Creek_Crater",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Wolfe_creek_crater.jpg/500px-Wolfe_creek_crater.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Wolfe_creek_crater.jpg",
+     "author": "Unknown",
+     "license": "Public domain",
+     "title": "Wolfe_creek_crater.jpg"
+    }
+   ],
+   "categories": [
+    "science-cosmos",
+    "catastrophes",
+    "myth-legend"
+   ],
+   "threads": [
+    "cosmic-impacts",
+    "deep-oral-memory",
+    "serpent-beings",
+    "sky-omens"
+   ]
+  },
+  {
+   "id": "mahogany-ship",
+   "title": "The Mahogany Ship: a lost wreck in the dunes of Victoria",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 3,
+   "start": 1836,
+   "end": null,
+   "dateNote": "Earliest claimed sighting 1836",
+   "evidenceTypes": [
+    "textual (19th-century recollections)",
+    "folklore",
+    "speculative"
+   ],
+   "mainstream": "The Mahogany Ship is a supposed old shipwreck said to lie buried in sand dunes in the Armstrong Bay area west of Warrnambool, Victoria, Australia. 19th-century settlers and whalers told of a wreck of dark timber; the \"1836 Hopkins River incident\", in which shipwrecked sealers reportedly saw an old wreck, became the story's foundation and was popularised by George Dunderdale's The Book of the Bush (1898). A Portland newspaper of 1847 described a wreck in the hummocks near Warrnambool. Searches since the 1980s, and symposia in 1981, 1987 and 2005, have found no conclusive evidence that such a wreck exists.",
+   "alternatives": [
+    {
+     "label": "Portuguese caravel",
+     "text": "In 1977 Kenneth McIntyre argued that it was a caravel from a secret Portuguese voyage under Cristóvão de Mendonça around 1522, part of his theory that the Portuguese reached Australia before the Dutch."
+    },
+    {
+     "label": "Folklore",
+     "text": "Researcher Jenny Fawcett and others argue that the accounts are inconsistent second-hand recollections and that the legend grew in retelling; some suggest a later wreck was misidentified."
+    },
+    {
+     "label": "Other origins",
+     "text": "Spanish, Dutch and Chinese origins have also been proposed; none has been confirmed."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Mahogany Ship",
+     "url": "https://en.wikipedia.org/wiki/Mahogany_Ship",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [],
+   "categories": [
+    "history",
+    "anomalies"
+   ],
+   "threads": [
+    "ocean-voyagers",
+    "lost-evidence",
+    "sea-mysteries"
+   ]
+  },
+  {
+   "id": "great-moon-hoax",
+   "title": "The Great Moon Hoax: bat-people seen through a telescope",
+   "lane": "history",
+   "status": "debunked",
+   "priority": 2,
+   "start": 1835,
+   "end": null,
+   "dateNote": "25 August – September 1835",
+   "evidenceTypes": [
+    "textual (newspaper)"
+   ],
+   "mainstream": "Beginning on 25 August 1835, the New York newspaper The Sun published a series of six articles claiming that the astronomer Sir John Herschel, working at the Cape of Good Hope, had used a powerful new telescope to discover life on the Moon, including bison, unicorn-like goats, beavers walking upright and winged humanoids (\"Vespertilio-homo\", bat-men) living beside temples. The supposed author, Dr Andrew Grant, was fictitious. The series was widely believed and reprinted, and boosted The Sun's circulation. On 16 September 1835 the paper admitted the articles were a hoax, and the reporter Richard Adams Locke publicly admitted authorship in 1840.",
+   "alternatives": [
+    {
+     "label": "Satire and its times",
+     "text": "Historians link the series to popular speculative science of the day, such as the Reverend Thomas Dick's claims that the Moon was inhabited by billions of beings, and some read it partly as satire; many readers took it literally."
+    },
+    {
+     "label": "Media lesson",
+     "text": "It is often cited as an early example of mass-media hoaxing and of how scientific authority (here, Herschel's name) can lend credibility to invented claims."
+    },
+    {
+     "label": "Poe's claim",
+     "text": "Edgar Allan Poe claimed the story plagiarised his own moon-voyage tale, \"Hans Pfaall\", published shortly before."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Great Moon Hoax",
+     "url": "https://en.wikipedia.org/wiki/Great_Moon_Hoax",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Great_Moon_Hoax_-_Day_4.jpg/500px-Great_Moon_Hoax_-_Day_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Great_Moon_Hoax_-_Day_4.jpg",
+     "author": "Benjamin Henry Day (1810-1889)",
+     "license": "Public domain",
+     "title": "Great_Moon_Hoax_-_Day_4.jpg"
+    }
+   ],
+   "categories": [
+    "hoaxes",
+    "aliens-ufo",
+    "science-cosmos"
+   ],
+   "threads": [
+    "sky-beings",
+    "hoaxes-exposed",
+    "seeing-what-we-expect"
+   ]
+  },
+  {
+   "id": "mystery-airships",
+   "title": "The phantom airships of 1896–97: UFOs before aircraft",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 1896,
+   "end": 1897,
+   "evidenceTypes": [
+    "textual (newspaper reports)",
+    "eyewitness testimony"
+   ],
+   "mainstream": "From 17 November 1896, starting in Sacramento, California, and continuing through mid-1897 across the Midwest and Texas, thousands of people in the United States reported seeing mysterious lighted airships in the night sky, years before the first successful powered aeroplane flights. Some newspaper reports described cigar-shaped craft with wings, propellers and searchlights, and encounters with pilots who claimed to be inventors. One of the most famous stories, published in April 1897, said an airship had crashed into a windmill at Aurora, Texas, and that its pilot, \"not an inhabitant of this world\", was buried in the town cemetery.",
+   "alternatives": [
+    {
+     "label": "Hoaxes and misperception",
+     "text": "Historians and sceptics attribute most reports to newspaper hoaxes, tall tales, misidentified stars and planets (such as Venus), balloons and the excitement of a period anticipating flight; the Aurora story is widely considered a hoax."
+    },
+    {
+     "label": "Secret inventors",
+     "text": "Some at the time believed a secret inventor had built a working airship; no evidence of such a craft has been found."
+    },
+    {
+     "label": "Early UFO wave",
+     "text": "UFO researchers regard the wave as an early example of unexplained aerial sightings and note how the objects matched the technology people then expected – airships – just as later sightings resembled rockets and saucers."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Mystery airship",
+     "url": "https://en.wikipedia.org/wiki/Mystery_airship",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Mystery_airship_SFCall_Nov_22_1896.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Mystery_airship_SFCall_Nov_22_1896.jpg",
+     "author": "Unknown authorUnknown author",
+     "license": "Public domain",
+     "title": "Mystery_airship_SFCall_Nov_22_1896.jpg"
+    }
+   ],
+   "categories": [
+    "aliens-ufo",
+    "anomalies",
+    "hoaxes"
+   ],
+   "threads": [
+    "ufo-encounters",
+    "hoaxes-exposed",
+    "collective-experiences",
+    "mysterious-lights",
+    "seeing-what-we-expect"
+   ]
+  },
+  {
+   "id": "fox-sisters",
+   "title": "The Fox sisters: knocking spirits and the birth of Spiritualism",
+   "lane": "history",
+   "status": "debunked",
+   "priority": 2,
+   "start": 1848,
+   "end": 1888,
+   "dateNote": "Rappings began March 1848; confession 1888",
+   "evidenceTypes": [
+    "textual",
+    "confessions",
+    "eyewitness testimony"
+   ],
+   "mainstream": "In March 1848 in Hydesville, New York, the young sisters Kate and Margaretta (Maggie) Fox reported rapping sounds in their home, which they said were messages from a spirit, later identified as a murdered peddler. Managed by their elder sister Leah, they became famous mediums, and their séances helped launch the Spiritualist movement, which spread across the US and Europe. In 1851 doctors from Buffalo concluded the raps were made by cracking joints. In October 1888 Maggie publicly confessed at the New York Academy of Music, demonstrating how she made the sounds with her toe joints, and the confession was published in the New York World; in 1889 she retracted it.",
+   "alternatives": [
+    {
+     "label": "Fraud",
+     "text": "Most historians accept the 1888 confession and the earlier investigations as showing that the raps were produced by the sisters."
+    },
+    {
+     "label": "Spiritualist view",
+     "text": "Spiritualists argued that the confession was given for money (a reporter had offered a fee) and pointed to Maggie's retraction."
+    },
+    {
+     "label": "The bones in the cellar",
+     "text": "In 1904 human remains were reportedly found behind a fallen cellar wall of the house; supporters saw it as proof of the murdered peddler, while sceptics note that no investigation confirmed whose bones they were or how they got there."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Fox sisters",
+     "url": "https://en.wikipedia.org/wiki/Fox_sisters",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Mrs._Fish_and_the_Misses_Fox_LCCN2002710596_%28cropped%29.jpg/500px-Mrs._Fish_and_the_Misses_Fox_LCCN2002710596_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Mrs._Fish_and_the_Misses_Fox_LCCN2002710596_(cropped).jpg",
+     "author": "N. Currier (Firm)",
+     "license": "Public domain",
+     "title": "Mrs._Fish_and_the_Misses_Fox_LCCN2002710596_(cropped).jpg"
+    }
+   ],
+   "categories": [
+    "hoaxes",
+    "religion",
+    "anomalies"
+   ],
+   "threads": [
+    "hoaxes-exposed",
+    "strange-sounds"
+   ]
+  },
+  {
+   "id": "semmelweis",
+   "title": "Ignaz Semmelweis: the doctor who said wash your hands, and was rejected",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": 1847,
+   "end": 1865,
+   "evidenceTypes": [
+    "statistical records",
+    "textual"
+   ],
+   "mainstream": "In 1847, at the Vienna General Hospital, the Hungarian doctor Ignaz Semmelweis noticed that women giving birth in the clinic staffed by doctors and medical students died of childbed (puerperal) fever far more often than those in the clinic staffed by midwives. After his colleague Jakob Kolletschka died of a similar illness following a scalpel cut during an autopsy, Semmelweis concluded that \"cadaverous particles\" on doctors' hands were transmitting the disease, and introduced handwashing in a chlorinated lime solution, which sharply reduced deaths. His ideas were widely rejected; he became increasingly angry, was committed to an asylum in 1865 and died there of an infected wound about two weeks later. The work of Louis Pasteur and Joseph Lister on germs later vindicated him.",
+   "alternatives": [
+    {
+     "label": "Rejected pioneer",
+     "text": "He is often presented as a martyr of science whose evidence was ignored because it contradicted established theories and implied that doctors were killing patients."
+    },
+    {
+     "label": "A more mixed story",
+     "text": "Historians note that Semmelweis was slow to publish his findings in full and could offer no theoretical explanation before germ theory, which contributed to their rejection; some of his students did publicise the results, so the \"lone genius\" narrative is simplified."
+    },
+    {
+     "label": "Semmelweis reflex",
+     "text": "The term \"Semmelweis reflex\" is used for the tendency to reject new evidence that contradicts established norms."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Ignaz Semmelweis",
+     "url": "https://en.wikipedia.org/wiki/Ignaz_Semmelweis",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Borsos_%26_Doctor_Semmelweis_Ign%C3%A1c_cropped.jpg/500px-Borsos_%26_Doctor_Semmelweis_Ign%C3%A1c_cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Borsos_%26_Doctor_Semmelweis_Ign%C3%A1c_cropped.jpg",
+     "author": "József Borsos / Albert Doctor",
+     "license": "Public domain",
+     "title": "Borsos_&_Doctor_Semmelweis_Ignác_cropped.jpg"
+    }
+   ],
+   "categories": [
+    "science-cosmos",
+    "history"
+   ],
+   "threads": [
+    "changed-understanding",
+    "plagues-and-epidemics",
+    "rejected-pioneers"
+   ]
+  },
+  {
+   "id": "martian-canals",
+   "title": "The canals of Mars: a civilisation seen through a telescope",
+   "lane": "history",
+   "status": "debunked",
+   "priority": 2,
+   "start": 1877,
+   "end": 1965,
+   "evidenceTypes": [
+    "telescopic observation",
+    "textual",
+    "spacecraft imaging"
+   ],
+   "mainstream": "During the close approach of Mars in 1877 the Italian astronomer Giovanni Schiaparelli mapped the planet and named long straight features canali, meaning \"channels\" (the word had been used for Mars by Angelo Secchi in 1858). In English this was often read as \"canals\", implying construction. The American Percival Lowell founded an observatory in Flagstaff, Arizona, in 1894 and promoted the idea that Martians had built a vast irrigation network to carry water from the polar caps. Better telescopes in the early 20th century showed the canals were optical illusions, and spacecraft from Mariner 4 (1965) onward found no such features, with the possible exception of the canyon Valles Marineris.",
+   "alternatives": [
+    {
+     "label": "Intelligent Martians",
+     "text": "Lowell and his followers argued the regular network could only be artificial; the idea shaped science fiction, from H. G. Wells's The War of the Worlds onward."
+    },
+    {
+     "label": "Optical illusion",
+     "text": "Astronomers such as E. M. Antoniadi showed that the human eye tends to join faint, scattered markings into lines at the limit of visibility."
+    },
+    {
+     "label": "Lasting pattern",
+     "text": "The episode is sometimes compared with later claims of artificial structures on Mars, such as the \"Face on Mars\", as examples of the mind finding patterns in ambiguous images."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Martian canals",
+     "url": "https://en.wikipedia.org/wiki/Martian_canals",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Mars_-_MEC-1_Prototype._LOC_2013593160.jpg/500px-Mars_-_MEC-1_Prototype._LOC_2013593160.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Mars_-_MEC-1_Prototype._LOC_2013593160.jpg",
+     "author": "Aeronautical Chart And Information Center (U.S.)",
+     "license": "Public domain",
+     "title": "Mars_-_MEC-1_Prototype._LOC_2013593160.jpg"
+    }
+   ],
+   "categories": [
+    "science-cosmos",
+    "aliens-ufo"
+   ],
+   "threads": [
+    "changed-understanding",
+    "seeing-what-we-expect"
+   ]
+  },
+  {
+   "id": "n-rays",
+   "title": "N-rays: a new radiation that existed only in the eye of the beholder",
+   "lane": "history",
+   "status": "debunked",
+   "priority": 2,
+   "start": 1903,
+   "end": 1904,
+   "evidenceTypes": [
+    "laboratory experiment",
+    "textual (scientific papers)"
+   ],
+   "mainstream": "In 1903 the respected French physicist Prosper-René Blondlot, at the University of Nancy, announced a new form of radiation, which he called N-rays, detected by slight brightening of a spark or a phosphorescent screen. Many other scientists reported confirming it and many papers were published, though leading physicists such as Lord Kelvin and William Crookes failed to replicate it. In 1904 the American physicist Robert W. Wood visited Blondlot's laboratory and, in the dark, secretly removed an essential prism from the apparatus; the experimenters still reported seeing the effect. Wood's account in Nature effectively ended belief in N-rays.",
+   "alternatives": [
+    {
+     "label": "Experimenter bias",
+     "text": "N-rays are a classic case of observers seeing what they expect, and are cited by Irving Langmuir as an example of \"pathological science\"."
+    },
+    {
+     "label": "Why many confirmed it",
+     "text": "Writers on the episode point to the subjective nature of judging faint brightness changes by eye, the prestige of Blondlot and the excitement after the discovery of X-rays (1895) as reasons why many researchers reported seeing the effect."
+    }
+   ],
+   "sources": [
+    {
+     "title": "The n-Rays",
+     "authors": "WOOD, R.",
+     "year": 1904,
+     "doi": "10.1038/070530a0",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: N-ray",
+     "url": "https://en.wikipedia.org/wiki/N-ray",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Blondlot_N-rays.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Blondlot_N-rays.png",
+     "author": "Prosper-René Blondlot (1849-1930)",
+     "license": "Public domain",
+     "title": "Blondlot_N-rays.png"
+    }
+   ],
+   "categories": [
+    "science-cosmos",
+    "hoaxes"
+   ],
+   "threads": [
+    "hoaxes-exposed",
+    "seeing-what-we-expect"
+   ]
+  },
+  {
+   "id": "krakatoa-1883",
+   "title": "Krakatoa 1883: the loudest sound in history and a blood-red sky",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": 1883,
+   "end": null,
+   "dateNote": "26–27 August 1883",
+   "evidenceTypes": [
+    "eyewitness testimony",
+    "instrumental records (barographs, tide gauges)",
+    "geological"
+   ],
+   "mainstream": "On 26–27 August 1883 the volcanic island of Krakatoa in the Sunda Strait between Java and Sumatra (in present-day Indonesia) erupted catastrophically. A series of huge explosions on 27 August, heard as far as Rodrigues near Mauritius about 4,800 km away, is considered the loudest sound in recorded history; barometers around the world recorded the pressure wave circling the globe more than three times. Tsunamis devastated nearby coasts, and at least 36,417 deaths are attributed to the eruption. Volcanic aerosols produced vivid red sunsets worldwide for months and cooled global temperatures. A new island, Anak Krakatau (\"Child of Krakatoa\"), emerged from the sea in 1927.",
+   "alternatives": [
+    {
+     "label": "The Scream",
+     "text": "Some researchers have argued that the red sky in Edvard Munch's The Scream (1893) reflects his memory of Krakatoa sunsets in Norway; others suggest nacreous (mother-of-pearl) clouds or simply artistic expression."
+    },
+    {
+     "label": "Global event",
+     "text": "The eruption was among the first natural disasters reported worldwide almost immediately via the telegraph network."
+    },
+    {
+     "label": "Recorded skies",
+     "text": "The British artist William Ascroft made thousands of colour sketches of the strange sunsets seen in London after the eruption, now a record of its atmospheric effects."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: 1883 eruption of Krakatoa",
+     "url": "https://en.wikipedia.org/wiki/1883_eruption_of_Krakatoa",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/De_uitbarsting_van_de_Krakatau%2C_KITLV_5888.tiff/lossy-page1-500px-De_uitbarsting_van_de_Krakatau%2C_KITLV_5888.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:De_uitbarsting_van_de_Krakatau,_KITLV_5888.tiff",
+     "author": "AnonymousUnknown author",
+     "license": "Public domain",
+     "title": "De_uitbarsting_van_de_Krakatau,_KITLV_5888.tiff"
+    }
+   ],
+   "categories": [
+    "catastrophes",
+    "science-cosmos",
+    "history"
+   ],
+   "threads": [
+    "volcanoes-and-memory",
+    "strange-sounds"
+   ]
+  },
+  {
+   "id": "devils-footprints",
+   "title": "The Devil's Footprints: hoof-marks across the snow of Devon",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 1855,
+   "end": null,
+   "dateNote": "8–9 February 1855",
+   "evidenceTypes": [
+    "textual (newspapers, letters)",
+    "eyewitness testimony"
+   ],
+   "mainstream": "On the night of 8–9 February 1855, after heavy snow, trails of hoof-like marks appeared around the Exe Estuary in Devon, England, covering an estimated 40 to 100 miles in total. The prints, about 4 inches long and mostly in a single line, were reported to pass over roofs and walls and through obstacles, and some locals attributed them to the Devil. The event was reported in the Illustrated London News and other newspapers.",
+   "alternatives": [
+    {
+     "label": "Animal tracks",
+     "text": "Proposed explanations include wood mice or other small animals hopping in the snow, badgers, donkeys and ponies, and birds; Mike Dash concluded there was no single source and that some trails were probably hoaxes."
+    },
+    {
+     "label": "A runaway balloon",
+     "text": "Author Geoffrey Household suggested an experimental balloon released from Devonport Dockyard trailing shackles on its mooring ropes; critics doubt it could have followed such a course without snagging."
+    },
+    {
+     "label": "Exaggeration",
+     "text": "Sceptics such as Joe Nickell argue that no one followed the whole trail, and that separate tracks were combined into one story by excited reports."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Devil's Footprints",
+     "url": "https://en.wikipedia.org/wiki/Devil's_Footprints",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Devonshire_Devil_Prints_1855.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Devonshire_Devil_Prints_1855.jpg",
+     "author": "English Papers 1855",
+     "license": "Public domain",
+     "title": "Devonshire_Devil_Prints_1855.jpg"
+    }
+   ],
+   "categories": [
+    "anomalies"
+   ],
+   "threads": [
+    "collective-experiences",
+    "seeing-what-we-expect"
+   ]
+  },
+  {
+   "id": "halley-1910",
+   "title": "Halley's Comet 1910: comet pills and the poison-tail panic",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1910,
+   "end": null,
+   "dateNote": "February–May 1910",
+   "evidenceTypes": [
+    "textual (newspapers)",
+    "spectroscopy"
+   ],
+   "mainstream": "In February 1910 astronomers at Yerkes Observatory reported that the spectrum of Halley's Comet showed cyanogen, a poisonous gas, and it was known that Earth would pass through the comet's tail in May. The French astronomer and popular writer Camille Flammarion was reported as saying the gas could \"impregnate the atmosphere and possibly snuff out all life on the planet\". Although most astronomers explained that the tail was far too thin to cause harm, people in several countries bought \"anti-comet pills\", gas masks and comet umbrellas, sealed their homes, and held comet parties. Earth passed through the tail around 18–19 May 1910 without any effect. Mark Twain, born in the comet year of 1835, had predicted he would \"go out with it\"; he died on 21 April 1910, the day after the comet's perihelion.",
+   "alternatives": [
+    {
+     "label": "Science misread",
+     "text": "Historians use the episode as a case study in how a real scientific finding, amplified by newspapers, can turn into public panic."
+    },
+    {
+     "label": "Ancient fear",
+     "text": "Comets have been seen as omens of disaster in many cultures, including Halley's appearance before the Norman Conquest of 1066, so the 1910 panic drew on a very old tradition."
+    },
+    {
+     "label": "Coincidence",
+     "text": "Twain's death is often told as an uncanny fulfilment; sceptics note that he was 74 and in poor health."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Halley's Comet",
+     "url": "https://en.wikipedia.org/wiki/Halley's_Comet",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Science History Institute: The Comet Panic of 1910, Revisited",
+     "url": "https://www.sciencehistory.org/stories/magazine/the-comet-panic-of-1910-revisited/",
+     "type": "magazine"
+    },
+    {
+     "title": "Library of Congress: Halley's Comet – Topics in Chronicling America",
+     "url": "https://guides.loc.gov/chronicling-america-halleys-comet",
+     "type": "library guide"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Lspn_comet_halley.jpg/500px-Lspn_comet_halley.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Lspn_comet_halley.jpg",
+     "author": "NASA/W. Liller",
+     "license": "Public domain",
+     "title": "Lspn_comet_halley.jpg"
+    }
+   ],
+   "categories": [
+    "science-cosmos",
+    "history",
+    "catastrophes"
+   ],
+   "threads": [
+    "sky-omens",
+    "collective-experiences"
+   ]
+  },
+  {
+   "id": "kaspar-hauser",
+   "title": "Kaspar Hauser: the boy from the dark cell, and the lost-prince theory",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1828,
+   "end": 1833,
+   "evidenceTypes": [
+    "textual",
+    "forensic",
+    "DNA"
+   ],
+   "mainstream": "On 26 May 1828 a teenage boy was found in Nuremberg, Bavaria, carrying two letters and barely able to speak. As Kaspar Hauser he said he had spent his whole childhood alone in a dark cell, fed bread and water by an unseen man. He became a European sensation, was wounded in mysterious attacks, and on 14 December 1833 came home in Ansbach with a deep stab wound, saying a stranger had attacked him in the Court Garden; he died on 17 December. A rumour spread that he was the hereditary prince of Baden, born in 1812 and supposedly switched at birth. DNA tests reported in 1996 and a 2024 study of several samples attributed to him found that his mitochondrial DNA did not match the House of Baden line.",
+   "alternatives": [
+    {
+     "label": "Lost prince",
+     "text": "For nearly two centuries supporters argued he was the Baden heir hidden for dynastic reasons and murdered to keep the secret; the 2024 genetic study is widely seen as ruling this out."
+    },
+    {
+     "label": "Impostor",
+     "text": "Sceptics at the time and since have argued that he exaggerated or invented his story and inflicted his own wounds, possibly including the fatal one by accident; a 1928 medical study supported self-infliction, while a 2005 forensic analysis was inconclusive."
+    },
+    {
+     "label": "Feral child",
+     "text": "Others see him as a genuinely neglected or abused child whose true origins remain unknown; he is often discussed alongside other \"feral children\"."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Kaspar Hauser",
+     "url": "https://en.wikipedia.org/wiki/Kaspar_Hauser",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Hauser_Kreul.jpg/500px-Hauser_Kreul.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Hauser_Kreul.jpg",
+     "author": "Johann Lorenz Kreul",
+     "license": "Public domain",
+     "title": "Hauser_Kreul.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "anomalies"
+   ],
+   "threads": [
+    "disappearances",
+    "impostors-and-lost-heirs"
    ]
   }
  ]

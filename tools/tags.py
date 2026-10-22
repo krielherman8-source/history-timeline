@@ -795,3 +795,38 @@ addt('giant-birds','roc-elephant-bird')
 addt('dragons-and-fossils','roc-elephant-bird')
 addt('stories-proven-true','roc-elephant-bird')
 addt('mass-extinctions','roc-elephant-bird')
+# --- batch 10 part 4 (Australia, 19th-century anomalies, history of science)
+C.update({
+'wolfe-creek':'science-cosmos catastrophes myth-legend',
+'mahogany-ship':'history anomalies',
+'great-moon-hoax':'hoaxes aliens-ufo science-cosmos',
+'mystery-airships':'aliens-ufo anomalies hoaxes',
+'fox-sisters':'hoaxes religion anomalies',
+'semmelweis':'science-cosmos history',
+'martian-canals':'science-cosmos aliens-ufo',
+'n-rays':'science-cosmos hoaxes',
+'krakatoa-1883':'catastrophes science-cosmos history',
+'devils-footprints':'anomalies',
+'halley-1910':'science-cosmos history catastrophes',
+'kaspar-hauser':'history anomalies',
+})
+addt('cosmic-impacts','wolfe-creek')
+addt('deep-oral-memory','wolfe-creek')
+addt('serpent-beings','wolfe-creek')
+addt('sky-omens','wolfe-creek halley-1910')
+addt('sea-mysteries','mahogany-ship')
+addt('lost-evidence','mahogany-ship')
+addt('ocean-voyagers','mahogany-ship')
+addt('hoaxes-exposed','great-moon-hoax fox-sisters mystery-airships n-rays')
+addt('sky-beings','great-moon-hoax')
+addt('ufo-encounters','mystery-airships')
+addt('mysterious-lights','mystery-airships')
+addt('collective-experiences','mystery-airships halley-1910 devils-footprints')
+addt('strange-sounds','fox-sisters krakatoa-1883')
+addt('rejected-pioneers','semmelweis')
+addt('plagues-and-epidemics','semmelweis')
+addt('changed-understanding','semmelweis martian-canals')
+addt('seeing-what-we-expect','martian-canals n-rays mystery-airships devils-footprints great-moon-hoax')
+addt('volcanoes-and-memory','krakatoa-1883')
+addt('impostors-and-lost-heirs','kaspar-hauser')
+addt('disappearances','kaspar-hauser')
