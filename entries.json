@@ -13684,7 +13684,8 @@
     "anomalies"
    ],
    "threads": [
-    "otherworld-visits"
+    "otherworld-visits",
+    "time-slips"
    ]
   },
   {
@@ -14699,7 +14700,8 @@
     "myth-legend"
    ],
    "threads": [
-    "otherworld-visits"
+    "otherworld-visits",
+    "time-slips"
    ]
   },
   {
@@ -21186,6 +21188,599 @@
    "threads": [
     "cryptids",
     "serpent-beings",
+    "giant-birds"
+   ]
+  },
+  {
+   "id": "tartaria-tablets",
+   "title": "The Tărtăria tablets: the world's oldest writing, or not writing at all?",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": -5300,
+   "end": null,
+   "dateNote": "c. 5300 BCE by indirect dating (disputed)",
+   "evidenceTypes": [
+    "archaeological",
+    "epigraphic",
+    "contested stratigraphy"
+   ],
+   "mainstream": "In 1961 the archaeologist Nicolae Vlassa found three small clay tablets incised with symbols at Tărtăria in Transylvania, Romania, in a pit with burnt human bones and figurines. They belong to the world of the Vinča culture of south-eastern Europe, whose pottery and figurines carry a repertoire of signs (the Vinča symbols). If the tablets date to around 5300 BCE, as indirect dating of the associated layers suggests, they are older than the earliest Mesopotamian proto-writing.",
+   "alternatives": [
+    {
+     "label": "Not writing",
+     "text": "Most linguists and archaeologists regard the Vinča signs as symbols, marks of ownership or religious notation rather than a system that recorded language."
+    },
+    {
+     "label": "Proto-writing (\"Danube script\")",
+     "text": "Researchers such as Harald Haarmann and Marco Merlini argue the signs form an early writing or proto-writing system of \"Old Europe\"."
+    },
+    {
+     "label": "Dating dispute",
+     "text": "Because the tablets were baked to conserve them, they cannot be dated directly, and the excavation's stratigraphy has been questioned; early on, some scholars instead compared them with Mesopotamian tablets of around 3000 BCE."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Tărtăria tablets",
+     "url": "https://en.wikipedia.org/wiki/T%C4%83rt%C4%83ria_tablets",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Vinča symbols",
+     "url": "https://en.wikipedia.org/wiki/Vin%C4%8Da_symbols",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Tartaria_amulet_retouched.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Tartaria_amulet_retouched.PNG",
+     "author": "Unknown authorUnknown author",
+     "license": "CC BY-SA 3.0",
+     "title": "Tartaria_amulet_retouched.PNG"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "lost-civilisations",
+    "anomalies"
+   ],
+   "threads": [
+    "lost-civilisations",
+    "changed-understanding",
+    "origins-of-writing"
+   ]
+  },
+  {
+   "id": "cucuteni-trypillia",
+   "title": "Cucuteni–Trypillia: Europe's first giant settlements, burned and rebuilt",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -5500,
+   "end": -2750,
+   "evidenceTypes": [
+    "archaeological",
+    "geophysical survey",
+    "radiocarbon"
+   ],
+   "mainstream": "The Cucuteni–Trypillia culture flourished from about 5500 to 2750 BCE in what are now Romania, Moldova and Ukraine. Around 4100–3600 BCE some of its settlements, such as Talianki and Maidanetske in Ukraine, grew into \"mega-sites\" covering more than 100 hectares – Talianki around 335 hectares – with up to a few thousand houses arranged in concentric ovals, among the largest settlements in the world at the time and earlier than the first Mesopotamian cities. A striking feature is that many houses were burned, apparently in a repeated cycle, and settlements were then rebuilt.",
+   "alternatives": [
+    {
+     "label": "Deliberate burning",
+     "text": "Many archaeologists think houses were burned on purpose, perhaps as a ritual at the end of a house's life or a settlement cycle."
+    },
+    {
+     "label": "Accident or war",
+     "text": "Others suggest accidental fires or attacks; experiments show burning a wattle-and-daub house so thoroughly requires extra fuel, which supports the deliberate view but does not settle the reason."
+    },
+    {
+     "label": "Cities without kings?",
+     "text": "The mega-sites show little sign of palaces, temples or a ruling elite, and are debated as possible early \"egalitarian\" or low-hierarchy cities, or as seasonal gathering places rather than permanent towns."
+    },
+    {
+     "label": "Old Europe",
+     "text": "Marija Gimbutas saw the culture as part of a peaceful, goddess-centred \"Old Europe\" overrun by steppe peoples; this view is influential but widely criticised as too idealised."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Proto-Cities or Non-Proto-Cities? On the Nature of Cucuteni–Trypillia Mega-Sites",
+     "authors": "Diachenko, A. et al.",
+     "year": 2017,
+     "doi": "10.1007/s10963-017-9105-8",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: Cucuteni–Trypillia culture",
+     "url": "https://en.wikipedia.org/wiki/Cucuteni%E2%80%93Trypillia_culture",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/CucuteniOmega.jpg/500px-CucuteniOmega.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:CucuteniOmega.jpg",
+     "author": "CristianChirita",
+     "license": "CC BY-SA 3.0",
+     "title": "CucuteniOmega.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "lost-civilisations",
+    "history"
+   ],
+   "threads": [
+    "lost-civilisations",
+    "changed-understanding",
+    "civilisation-collapses"
+   ]
+  },
+  {
+   "id": "kitezh",
+   "title": "Kitezh: the Russian city that sank to escape the Mongols",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": 1238,
+   "end": null,
+   "dateNote": "Legend set in 1238 (Mongol invasion); text late 18th century",
+   "evidenceTypes": [
+    "textual (legend chronicle)",
+    "oral tradition",
+    "mythological"
+   ],
+   "mainstream": "The legend of Kitezh tells of a city founded by Grand Prince Georgy (Yuri) II of Vladimir that, when the army of Batu Khan attacked during the Mongol invasion of the 13th century, was saved by being submerged in, or made invisible beneath, Lake Svetloyar near Nizhny Novgorod. Only the righteous can see it; pilgrims report hearing its church bells and singing from under the water. The legend survives mainly in the \"Kitezh Chronicle\", copied by Old Believers in the late 18th century, and inspired Rimsky-Korsakov's opera The Legend of the Invisible City of Kitezh (1907).",
+   "alternatives": [
+    {
+     "label": "Sacred lake",
+     "text": "Folklorists see the story as part of Russian Orthodox and Old Believer tradition of a hidden holy city, and pilgrims still walk around the lake on its shores at night."
+    },
+    {
+     "label": "Real ruins?",
+     "text": "Expeditions have searched Svetloyar; geological studies suggest the lake formed long before, and no submerged city has been found, though some local traditions point to older settlement remains in the area."
+    },
+    {
+     "label": "Sunken-city pattern",
+     "text": "Kitezh is often called the \"Russian Atlantis\" and is compared with Ys in Brittany and other drowned cities whose bells are heard under the water."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Kitezh",
+     "url": "https://en.wikipedia.org/wiki/Kitezh",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/GorbatovKI_PotonuvGorodISTR.jpg/500px-GorbatovKI_PotonuvGorodISTR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:GorbatovKI_PotonuvGorodISTR.jpg",
+     "author": "Konstantin Gorbatov",
+     "license": "Public domain",
+     "title": "GorbatovKI_PotonuvGorodISTR.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion",
+    "lost-civilisations"
+   ],
+   "threads": [
+    "sunken-cities",
+    "hidden-kingdoms",
+    "strange-sounds"
+   ]
+  },
+  {
+   "id": "baba-yaga",
+   "title": "Baba Yaga: the witch in the hut on chicken legs",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": 1755,
+   "end": null,
+   "dateNote": "First clear mention 1755; folk roots older",
+   "evidenceTypes": [
+    "oral tradition",
+    "textual (folklore collections)",
+    "mythological"
+   ],
+   "mainstream": "Baba Yaga is one of the best-known figures of Slavic folklore: an old woman who lives deep in the forest in a hut standing on chicken legs, flies in a mortar steered with a pestle and sweeps away her tracks with a broom. In folk tales she may eat children, or test and help heroes and heroines who come to her. The first clear written mention is in Mikhail Lomonosov's Russian Grammar of 1755; most tales were collected in the 19th century, notably by Alexander Afanasyev.",
+   "alternatives": [
+    {
+     "label": "Initiation figure",
+     "text": "The folklorist Vladimir Propp interpreted Baba Yaga and her hut as memories of initiation rites and of the boundary between the living and the dead."
+    },
+    {
+     "label": "Goddess remnant?",
+     "text": "Some scholars see her as a survival of a pre-Christian goddess of death, birth or nature; others caution that there is no early evidence for such a cult."
+    },
+    {
+     "label": "Ambiguity",
+     "text": "Her double nature as dangerous ogress and wise helper is widely discussed and has made her a popular figure in modern fiction."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Baba Yaga",
+     "url": "https://en.wikipedia.org/wiki/Baba_Yaga",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/%D0%A1%D0%BA%D0%B0%D0%B7%D0%BA%D0%B0_%D0%91%D0%B0%D0%B1%D0%B0-%D1%8F%D0%B3%D0%B0_3.jpg/500px-%D0%A1%D0%BA%D0%B0%D0%B7%D0%BA%D0%B0_%D0%91%D0%B0%D0%B1%D0%B0-%D1%8F%D0%B3%D0%B0_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:%D0%A1%D0%BA%D0%B0%D0%B7%D0%BA%D0%B0_%D0%91%D0%B0%D0%B1%D0%B0-%D1%8F%D0%B3%D0%B0_3.jpg",
+     "author": "Богатов Николай Алексеевич",
+     "license": "Public domain",
+     "title": "Сказка_Баба-яга_3.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend"
+   ],
+   "threads": [
+    "shapeshifters",
+    "otherworld-visits"
+   ]
+  },
+  {
+   "id": "arnold-paole",
+   "title": "Arnold Paole: the Serbian vampire case that alarmed Europe",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1726,
+   "end": null,
+   "dateNote": "Died c. 1726; report 1732",
+   "evidenceTypes": [
+    "textual (official military-medical report)",
+    "folk belief"
+   ],
+   "mainstream": "Arnold Paole was a Serbian hajduk (soldier) in the village of Medveđa, then under Habsburg rule, who said he had once been troubled by a vampire and had protected himself by eating earth from its grave. After he died from a fall from a hay wagon around 1726, villagers blamed him for several deaths; his body was exhumed, said to look undecayed with fresh blood, and staked. In 1731–32, after further deaths, Austrian military doctors including Johann Flückinger investigated and their report, Visum et Repertum, dated 26 January 1732, described exhumed bodies that seemed uncorrupted. It was widely published and helped make the word \"vampire\" known across Western Europe.",
+   "alternatives": [
+    {
+     "label": "Folk belief",
+     "text": "Villagers interpreted the deaths through Balkan beliefs in the restless dead who return to drain the living."
+    },
+    {
+     "label": "Decomposition explained",
+     "text": "Researchers such as Paul Barber (Vampires, Burial and Death, 1988) argue that the signs described – bloated bodies, blood at the mouth, apparent growth of nails, sounds when staked – match normal processes of decomposition."
+    },
+    {
+     "label": "Epidemic",
+     "text": "The cluster of deaths has been attributed to an infectious disease; which one is unknown."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Arnold Paole",
+     "url": "https://en.wikipedia.org/wiki/Arnold_Paole",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Moraine_le_vampire.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Moraine_le_vampire.jpg",
+     "author": "After René de Moraine",
+     "license": "Public domain",
+     "title": "Moraine_le_vampire.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "anomalies",
+    "myth-legend"
+   ],
+   "threads": [
+    "monster-panics",
+    "plagues-and-epidemics"
+   ]
+  },
+  {
+   "id": "anna-anderson",
+   "title": "Anna Anderson: the woman who claimed to be Grand Duchess Anastasia",
+   "lane": "history",
+   "status": "debunked",
+   "priority": 2,
+   "start": 1920,
+   "end": 1984,
+   "evidenceTypes": [
+    "textual",
+    "court records",
+    "DNA"
+   ],
+   "mainstream": "In 1920 a young woman was pulled from a canal in Berlin after a suicide attempt and later claimed to be Grand Duchess Anastasia, youngest daughter of Tsar Nicholas II, who was said to have survived the 1918 killing of the Romanov family. As Anna Anderson she drew supporters and opponents among Russian émigrés and royalty; a 1927 investigation identified her as Franziska Schanzkowska, a Polish factory worker who had disappeared in Berlin. A German court case lasting decades ended without a ruling that she was Anastasia. She later lived in Charlottesville, Virginia, and died in 1984. After the Romanov remains were found, DNA tests in 1994 on preserved tissue showed she was not a Romanov and matched a relative of Schanzkowska; the remains of the last two missing children were identified in 2008–09.",
+   "alternatives": [
+    {
+     "label": "Survival legend",
+     "text": "Rumours that one or more of the tsar's children escaped circulated for decades, encouraged by the secrecy over the burial site and by many claimants."
+    },
+    {
+     "label": "DNA verdict",
+     "text": "Scientists regard the DNA evidence as conclusive that Anderson was not Anastasia and that all of the family died in 1918."
+    },
+    {
+     "label": "Lingering doubts",
+     "text": "A few supporters questioned the chain of custody of the tested samples; tests on several independent samples gave the same result."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Identification of the remains of the Romanov family by DNA analysis",
+     "authors": "Gill, P. et al.",
+     "year": 1994,
+     "doi": "10.1038/ng0294-130",
+     "type": "paper"
+    },
+    {
+     "title": "Mystery Solved: The Identification of the Two Missing Romanov Children Using DNA Analysis",
+     "authors": "Coble, M. et al.",
+     "year": 2009,
+     "doi": "10.1371/journal.pone.0004838",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: Anna Anderson",
+     "url": "https://en.wikipedia.org/wiki/Anna_Anderson",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/AnnaAnderson1922.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:AnnaAnderson1922.jpg",
+     "author": "Unknown authorUnknown author",
+     "license": "Public domain",
+     "title": "AnnaAnderson1922.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "hoaxes"
+   ],
+   "threads": [
+    "disappearances",
+    "impostors-and-lost-heirs"
+   ]
+  },
+  {
+   "id": "house-of-wisdom",
+   "title": "The House of Wisdom: Baghdad's translation movement",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": 800,
+   "end": 1258,
+   "dateNote": "c. 800s; Baghdad sacked 1258",
+   "evidenceTypes": [
+    "textual"
+   ],
+   "mainstream": "The Bayt al-Hikma, or House of Wisdom, was a library and centre of learning in Abbasid Baghdad, associated with the caliphs Harun al-Rashid and especially al-Ma'mun (reigned 813–833). It was linked to the Graeco-Arabic translation movement, in which works of Greek philosophy, medicine, mathematics and astronomy, along with Persian, Indian (Sanskrit) and Syriac texts, were translated into Arabic. Scholars connected to the movement include al-Khwarizmi, whose name gave us \"algorithm\", and the translator Hunayn ibn Ishaq. Baghdad was sacked by the Mongols in 1258, and later accounts say the Tigris ran black with the ink of destroyed books.",
+   "alternatives": [
+    {
+     "label": "Golden-age academy",
+     "text": "A popular modern image presents the House of Wisdom as a great university or academy that preserved ancient learning and launched an Islamic scientific golden age."
+    },
+    {
+     "label": "A palace library?",
+     "text": "Historians such as Dimitri Gutas argue that the translation movement was driven by many patrons across Baghdad's elite, and that the Bayt al-Hikma itself was probably a palace library on a Sasanian model rather than a research institution; its role has been mythologised."
+    },
+    {
+     "label": "Lost libraries",
+     "text": "The story of the 1258 destruction is often paired with that of the Library of Alexandria as a symbol of knowledge lost to war; scholars note that both stories have been dramatised."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: House of Wisdom",
+     "url": "https://en.wikipedia.org/wiki/House_of_Wisdom",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Maqamat_hariri.jpg/500px-Maqamat_hariri.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Maqamat_hariri.jpg",
+     "author": "Zereshk",
+     "license": "Public domain",
+     "title": "Maqamat_hariri.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "science-cosmos"
+   ],
+   "threads": [
+    "knowledge-and-power",
+    "lost-evidence"
+   ]
+  },
+  {
+   "id": "ibn-fadlan",
+   "title": "Ibn Fadlan meets the Rus: a ship burning on the Volga",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 922,
+   "end": null,
+   "dateNote": "Embassy 921–922",
+   "evidenceTypes": [
+    "textual (eyewitness account)"
+   ],
+   "mainstream": "Ahmad ibn Fadlan was a member of an embassy sent in 921 by the Abbasid caliph al-Muqtadir from Baghdad to the king of the Volga Bulgars, arriving in May 922. His account (the Risala) describes the peoples he met, including traders he called the Rus, generally identified as Scandinavians (Vikings). It contains a vivid description of the funeral of a Rus chieftain, in which an enslaved girl is killed and burned with him in his ship. A fuller manuscript was found in Mashhad, Iran, in 1923. Michael Crichton drew on it for his novel Eaters of the Dead (1976), filmed as The 13th Warrior (1999).",
+   "alternatives": [
+    {
+     "label": "Rare eyewitness",
+     "text": "Historians value the Risala as one of very few outsider accounts of Viking-age Scandinavians abroad, matching archaeological finds of ship burials."
+    },
+    {
+     "label": "Outsider bias",
+     "text": "Others caution that Ibn Fadlan observed through the lens of his own culture and may have misunderstood rituals; whether the Rus he met were Scandinavian, Slavic or mixed is debated."
+    },
+    {
+     "label": "Fiction blending",
+     "text": "Crichton's novel mixed the real account with the Beowulf story, and the film version has sometimes been taken as history by audiences."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Ahmad ibn Fadlan",
+     "url": "https://en.wikipedia.org/wiki/Ahmad_ibn_Fadlan",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Funeral_of_ruthenian_noble_by_Siemiradzki.jpg/500px-Funeral_of_ruthenian_noble_by_Siemiradzki.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Funeral_of_ruthenian_noble_by_Siemiradzki.jpg",
+     "author": "Henryk Siemiradzki",
+     "license": "Public domain",
+     "title": "Funeral_of_ruthenian_noble_by_Siemiradzki.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "religion"
+   ],
+   "threads": [
+    "ocean-voyagers",
+    "human-sacrifice"
+   ]
+  },
+  {
+   "id": "seven-sleepers",
+   "title": "The Seven Sleepers of Ephesus: a cave sleep of centuries",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": 250,
+   "end": null,
+   "dateNote": "Set c. 250 CE; texts from 5th–7th centuries",
+   "evidenceTypes": [
+    "textual (Christian and Islamic scripture)",
+    "mythological",
+    "pilgrimage sites"
+   ],
+   "mainstream": "A legend told by Christians and Muslims says that during the persecution of the Roman emperor Decius (around 250 CE) a group of young Christian men hid in a cave near Ephesus and fell into a miraculous sleep, waking centuries later – Christian versions place it under the Christian emperor Theodosius II – to find their faith triumphant. Early versions in Syriac appear in the 5th–6th centuries, and the story is told in the Qur'an (Surah 18, al-Kahf, \"The Cave\"), which includes their dog and says they stayed \"three hundred years, and add nine\".",
+   "alternatives": [
+    {
+     "label": "Faith and resurrection",
+     "text": "In Christian tradition the story was read as proof of bodily resurrection; in Islam, as a sign of God's power and of protection for believers."
+    },
+    {
+     "label": "Many caves",
+     "text": "Several places claim the cave, including Ephesus in Turkey, a site near Amman in Jordan and Tarsus; each has become a place of pilgrimage."
+    },
+    {
+     "label": "Time-slip pattern",
+     "text": "The story belongs to a widespread family of tales in which a person sleeps or visits another world and returns after long years, such as Japan's Urashima Tarō, Ireland's Oisín and Washington Irving's Rip Van Winkle."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Seven Sleepers",
+     "url": "https://en.wikipedia.org/wiki/Seven_Sleepers",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Seven_sleepers_%28Menologion_of_Basil_II%29.jpg/500px-Seven_sleepers_%28Menologion_of_Basil_II%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Seven_sleepers_(Menologion_of_Basil_II).jpg",
+     "author": "Authors of Menologion of Basil II (circa 985 AC, Constantinople), Byzantine manuscript illuminators[1]:\nPantoleon with G",
+     "license": "Public domain",
+     "title": "Seven_sleepers_(Menologion_of_Basil_II).jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion"
+   ],
+   "threads": [
+    "otherworld-visits",
+    "time-slips"
+   ]
+  },
+  {
+   "id": "roc-elephant-bird",
+   "title": "The roc and the elephant bird: a giant bird of legend and a real one",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": 1298,
+   "end": null,
+   "dateNote": "Marco Polo c. 1298; legend older",
+   "evidenceTypes": [
+    "textual (travel accounts)",
+    "fossil",
+    "mythological"
+   ],
+   "mainstream": "The roc is a gigantic bird of Middle Eastern legend, said to carry off elephants; it appears in the voyages of Sinbad in the One Thousand and One Nights. Marco Polo, around 1298, reported that the bird lived on islands south of Madagascar and that Kublai Khan had been shown a giant roc feather. Madagascar was home to the real elephant birds (Aepyornithidae), flightless birds up to about 3 metres tall that laid the largest eggs known; they died out within roughly the last thousand years, after people arrived. Huge eggs from Madagascar reached the French Academy of Sciences in 1851.",
+   "alternatives": [
+    {
+     "label": "Memory of real birds",
+     "text": "Some writers think the roc legend grew from sailors' reports of elephant-bird eggs and bones, or of Madagascar's now-extinct giant eagles."
+    },
+    {
+     "label": "Older myth",
+     "text": "Others trace the roc to older traditions such as the Indian Garuda, the Persian Simurgh and the Arabian anqa, and note that a giant flightless bird cannot carry elephants."
+    },
+    {
+     "label": "A real feather?",
+     "text": "The \"roc feathers\" shown in China are often thought to have been fronds of the raffia palm; this is a plausible guess rather than documented."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Unexpected diversity within the extinct elephant birds (Aves: Aepyornithidae) and a new identity for the world's largest bird",
+     "authors": "Hansford, J. et al.",
+     "year": 2018,
+     "doi": "10.1098/rsos.181295",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: Roc (mythology)",
+     "url": "https://en.wikipedia.org/wiki/Roc_(mythology)",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Elephant bird",
+     "url": "https://en.wikipedia.org/wiki/Elephant_bird",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Edward_Julius_Detmold49.jpg/500px-Edward_Julius_Detmold49.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Edward_Julius_Detmold49.jpg",
+     "author": "Charles Maurice Detmold (1883-1908)",
+     "license": "Public domain",
+     "title": "Edward_Julius_Detmold49.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "science-cosmos"
+   ],
+   "threads": [
+    "dragons-and-fossils",
+    "stories-proven-true",
+    "mass-extinctions",
     "giant-birds"
    ]
   }

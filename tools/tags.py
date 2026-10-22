@@ -759,3 +759,39 @@ addt('changed-understanding','white-sands-footprints')
 addt('genetic-migrations','white-sands-footprints')
 addt('giant-birds','piasa')
 addt('cryptids','piasa')
+# --- batch 10 part 3 (Eastern Europe, Slavic world, medieval Islamic world)
+C.update({
+'tartaria-tablets':'archaeology lost-civilisations anomalies',
+'cucuteni-trypillia':'archaeology lost-civilisations history',
+'kitezh':'myth-legend religion lost-civilisations',
+'baba-yaga':'myth-legend',
+'arnold-paole':'history anomalies myth-legend',
+'anna-anderson':'history hoaxes',
+'house-of-wisdom':'history science-cosmos',
+'ibn-fadlan':'history religion',
+'seven-sleepers':'myth-legend religion',
+'roc-elephant-bird':'myth-legend science-cosmos',
+})
+addt('origins-of-writing','tartaria-tablets')
+addt('changed-understanding','tartaria-tablets cucuteni-trypillia')
+addt('lost-civilisations','cucuteni-trypillia tartaria-tablets')
+addt('civilisation-collapses','cucuteni-trypillia')
+addt('sunken-cities','kitezh')
+addt('hidden-kingdoms','kitezh')
+addt('strange-sounds','kitezh')
+addt('shapeshifters','baba-yaga')
+addt('otherworld-visits','baba-yaga')
+addt('monster-panics','arnold-paole')
+addt('plagues-and-epidemics','arnold-paole')
+addt('impostors-and-lost-heirs','anna-anderson')
+addt('disappearances','anna-anderson')
+addt('knowledge-and-power','house-of-wisdom')
+addt('lost-evidence','house-of-wisdom library-alexandria')
+addt('human-sacrifice','ibn-fadlan')
+addt('ocean-voyagers','ibn-fadlan')
+addt('time-slips','seven-sleepers urashima-taro oisin')
+addt('otherworld-visits','seven-sleepers')
+addt('giant-birds','roc-elephant-bird')
+addt('dragons-and-fossils','roc-elephant-bird')
+addt('stories-proven-true','roc-elephant-bird')
+addt('mass-extinctions','roc-elephant-bird')
