@@ -1,0 +1,74 @@
+{
+ "akhenaten": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=ryycDVWXDvc",
+  "title": "Akhenaten, Nefertiti, and Three Daughters",
+  "channel": "Smarthistory"
+ },
+ "taung-child": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=G_hl804lSfc",
+  "title": "When Humans Were Prey",
+  "channel": "PBS Eons"
+ },
+ "nzinga": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=TPyy9gsu86Y",
+  "title": "Queen Njinga Mbande - African Women You Need to Know",
+  "channel": "BBC News Africa"
+ },
+ "tenochtitlan-founding": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=y0fFpNyNJsM",
+  "title": "The Rise and Fall of the Aztec Civilization",
+  "channel": "Smithsonian Magazine"
+ },
+ "white-sands-footprints": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=5hxp_VWFR3A",
+  "title": "These Ancient Footprints Rewrite Human History",
+  "channel": "PBS Terra"
+ },
+ "house-of-wisdom": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=CNO9aOlGNkE",
+  "title": "A day in the life of a teenager in medieval Baghdad - Birte Kristiansen and Petra Sijpesteijn",
+  "channel": "TED-Ed"
+ },
+ "roc-elephant-bird": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=VhIk3AW04Ck",
+  "title": "Why did the Ancient Elephant Bird Disappear? | Attenborough and the Giant Egg | BBC Earth",
+  "channel": "BBC Earth"
+ },
+ "wolfe-creek": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=HRyg0fJf0tI",
+  "title": "Earth from Space: Wolfe Creek",
+  "channel": "European Space Agency, ESA"
+ },
+ "great-moon-hoax": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=93BHCewPiPU",
+  "title": "The 'Great Moon Hoax' that fooled the world – BBC REEL",
+  "channel": "BBC Global"
+ },
+ "semmelweis": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=w04gTXu1mHM",
+  "title": "The surprising history of hand-washing - BBC REEL",
+  "channel": "BBC Global"
+ },
+ "pharaohs-curse": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=rju1Zh1SjR0",
+  "title": "King Tut’s Curse Could Cure Cancer",
+  "channel": "SciShow"
+ },
+ "dahomey-amazons": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=yDyUpjYb3r8",
+  "title": "The Dahomey Mothers, the all-female army trained to kill",
+  "channel": "BBC News Africa"
+ }
+}
