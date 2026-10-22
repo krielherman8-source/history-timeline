@@ -728,3 +728,34 @@ addt('returning-saviours','nongqawuse')
 addt('millenarian-movements','nongqawuse john-frum maya-2012')
 addt('rejected-pioneers','taung-child wegener ediacaran-biota')
 addt('giant-birds','taung-child haasts-eagle thunderbird')
+# --- batch 10 part 2 (Mesoamerica, Native North America)
+C.update({
+'cholula':'archaeology myth-legend history',
+'tenochtitlan-founding':'myth-legend history',
+'la-llorona':'myth-legend anomalies',
+'spiro-mounds':'archaeology history',
+'skinwalker':'myth-legend anomalies aliens-ufo',
+'ghost-dance':'history religion',
+'white-sands-footprints':'archaeology science-cosmos',
+'piasa':'myth-legend archaeology',
+})
+addt('giant-monuments','cholula')
+addt('giants-and-little-people','cholula')
+addt('flood-myths','cholula')
+addt('divine-punishment','cholula')
+addt('ancestral-homelands','tenochtitlan-founding aztlan')
+addt('sky-omens','la-llorona ghost-dance')
+addt('strange-sounds','la-llorona')
+addt('lost-evidence','spiro-mounds')
+addt('hidden-tombs','spiro-mounds')
+addt('serpent-beings','spiro-mounds piasa tenochtitlan-founding')
+addt('shapeshifters','skinwalker')
+addt('ufo-encounters','skinwalker')
+addt('mysterious-lights','skinwalker')
+addt('returning-saviours','ghost-dance')
+addt('millenarian-movements','ghost-dance')
+addt('human-origins','white-sands-footprints')
+addt('changed-understanding','white-sands-footprints')
+addt('genetic-migrations','white-sands-footprints')
+addt('giant-birds','piasa')
+addt('cryptids','piasa')

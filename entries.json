@@ -20701,6 +20701,493 @@
     "returning-saviours",
     "millenarian-movements"
    ]
+  },
+  {
+   "id": "cholula",
+   "title": "The Great Pyramid of Cholula: the world's largest pyramid, hidden under a hill and a church",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": -300,
+   "end": 900,
+   "dateNote": "Built c. 3rd century BCE – 9th century CE",
+   "evidenceTypes": [
+    "archaeological",
+    "textual (colonial)",
+    "mythological"
+   ],
+   "mainstream": "The Great Pyramid of Cholula, or Tlachihualtepetl (\"made mountain\" in Nahuatl), in Puebla, Mexico, is the largest pyramid known by volume. It was built in successive stages from about the 3rd century BCE to the 9th century CE and was later dedicated to Quetzalcoatl. By the Spanish conquest it was overgrown and looked like a natural hill; in 1594 the Spanish built the church of Nuestra Señora de los Remedios on top. Tunnels dug by archaeologists from the 1930s revealed the inner structures.",
+   "alternatives": [
+    {
+     "label": "A giant's tower to the sky",
+     "text": "A tradition recorded in the 1560s by the Dominican friar Pedro de los Ríos (Codex Vaticanus A) and popularised by Alexander von Humboldt says that after a great flood one of seven surviving giants, Xelhua, built the pyramid in memory of the mountain that saved them; the gods, angered that it would reach the clouds, hurled fire and halted the work."
+    },
+    {
+     "label": "Babel echo?",
+     "text": "Humboldt and later writers noted the parallel with the Tower of Babel. Many historians suspect the colonial versions mixed native tradition with biblical stories taught by missionaries; others hold that a pre-conquest core existed."
+    },
+    {
+     "label": "Hidden in plain sight",
+     "text": "The pyramid's burial under earth and vegetation, and the church on its summit, are interpreted variously as natural overgrowth, deliberate concealment, or Christian appropriation of a sacred place."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Great Pyramid of Cholula",
+     "url": "https://en.wikipedia.org/wiki/Great_Pyramid_of_Cholula",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Humboldt, Vues des Cordillères (1810), chapter on the pyramid of Cholula (Wikisource, French)",
+     "url": "https://fr.wikisource.org/wiki/Vues_des_Cordill%C3%A8res/T1/8",
+     "type": "primary text"
+    },
+    {
+     "title": "Elementos (BUAP): Cholula, gigantes y Xelhua – exégesis de una placa conmemorativa",
+     "url": "https://elementos.buap.mx/post.php?id=479",
+     "type": "article"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Gran_Pir%C3%A1mide_de_Cholula%2C_Puebla%2C_M%C3%A9xico%2C_2013-10-12%2C_DD_10.JPG/500px-Gran_Pir%C3%A1mide_de_Cholula%2C_Puebla%2C_M%C3%A9xico%2C_2013-10-12%2C_DD_10.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Gran_Pir%C3%A1mide_de_Cholula,_Puebla,_M%C3%A9xico,_2013-10-12,_DD_10.JPG",
+     "author": "Diego Delso",
+     "license": "CC BY-SA 3.0",
+     "title": "Gran_Pirámide_de_Cholula,_Puebla,_México,_2013-10-12,_DD_10.JPG"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "myth-legend",
+    "history"
+   ],
+   "threads": [
+    "flood-myths",
+    "giant-monuments",
+    "giants-and-little-people",
+    "divine-punishment"
+   ]
+  },
+  {
+   "id": "tenochtitlan-founding",
+   "title": "Eagle on a cactus: the founding of Tenochtitlan",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 1,
+   "start": 1325,
+   "end": null,
+   "dateNote": "Traditional date 1325",
+   "evidenceTypes": [
+    "textual (codices)",
+    "archaeological",
+    "mythological"
+   ],
+   "mainstream": "According to Mexica tradition, the people migrating from Aztlan were told by their god Huitzilopochtli to settle where they saw an eagle perched on a prickly-pear cactus (nopal) growing from a rock. They found the sign on an island in Lake Texcoco and founded Tenochtitlan there, traditionally in 1325 (the date 13 March 1325 was fixed in 1925 for a 600th-anniversary celebration). Tenochtitlan grew into a city of perhaps 200,000 people before the Spanish conquest of 1521; Mexico City was built over it and the lake was largely drained. The eagle and cactus are on Mexico's flag.",
+   "alternatives": [
+    {
+     "label": "Founding myth",
+     "text": "The story follows a widespread pattern of a divinely guided migration ending at a promised sign."
+    },
+    {
+     "label": "The serpent question",
+     "text": "In the best-known modern image the eagle devours a serpent. Some early depictions, such as the Codex Mendoza, show the eagle on the cactus without a snake; scholars suggest the serpent may reflect a later reading of the Aztec war glyph atl-tlachinolli (water and fire), or a blending with European symbolism."
+    },
+    {
+     "label": "History behind the myth",
+     "text": "Archaeologists and historians debate the real founding date and whether the island was already settled; the official story was also shaped by later Mexica rulers who reportedly rewrote their history."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Tenochtitlan",
+     "url": "https://en.wikipedia.org/wiki/Tenochtitlan",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Vista_completa_de_Tenochtitl%C3%A1n.jpg/500px-Vista_completa_de_Tenochtitl%C3%A1n.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Vista_completa_de_Tenochtitl%C3%A1n.jpg",
+     "author": "thomas kole",
+     "license": "CC BY 4.0",
+     "title": "Vista_completa_de_Tenochtitlán.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "history"
+   ],
+   "threads": [
+    "serpent-beings",
+    "ancestral-homelands"
+   ]
+  },
+  {
+   "id": "la-llorona",
+   "title": "La Llorona: the weeping woman of the waters",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": 1550,
+   "end": null,
+   "evidenceTypes": [
+    "oral tradition",
+    "textual (colonial chronicles)",
+    "mythological"
+   ],
+   "mainstream": "La Llorona (\"the weeping woman\") is a ghost of Mexican and wider Latin American folklore: a woman who drowned her children and now wanders by rivers and lakes at night crying for them, and who may seize anyone who hears her. Versions are found from the American Southwest to South America and are often used as warnings to children. Earlier roots are often traced to the Florentine Codex (compiled by Bernardino de Sahagún in the 16th century), which lists among the omens before the Spanish conquest a woman heard weeping at night for her children.",
+   "alternatives": [
+    {
+     "label": "Aztec roots",
+     "text": "Many folklorists connect her with the goddess Cihuacoatl and with Mexica beliefs about women who died in childbirth, whose spirits wandered at crossroads."
+    },
+    {
+     "label": "La Malinche",
+     "text": "She is sometimes conflated with Malintzin (La Malinche), the Nahua interpreter and mother of a son of Hernán Cortés, making the legend an allegory of conquest and betrayal."
+    },
+    {
+     "label": "European parallels",
+     "text": "Others note similarities with European tales of white ladies and water spirits, and see the modern legend as a colonial blend."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: La Llorona",
+     "url": "https://en.wikipedia.org/wiki/La_Llorona",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Estatua_de_la_Llorona.JPG/500px-Estatua_de_la_Llorona.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Estatua_de_la_Llorona.JPG",
+     "author": "EmyPheebs",
+     "license": "CC BY-SA 4.0",
+     "title": "Estatua_de_la_Llorona.JPG"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "anomalies"
+   ],
+   "threads": [
+    "sky-omens",
+    "strange-sounds"
+   ]
+  },
+  {
+   "id": "spiro-mounds",
+   "title": "Spiro Mounds: the looting of \"America's King Tut's tomb\"",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1936,
+   "end": null,
+   "dateNote": "Site c. 800–1450 CE; looted 1936",
+   "evidenceTypes": [
+    "archaeological",
+    "museum collections",
+    "textual"
+   ],
+   "mainstream": "Spiro, in eastern Oklahoma, was a major centre of the Mississippian world from about 800 to 1450 CE, with a ceremonial complex of earthen mounds. In 1936 a group of men leased the site and formed the Pocola Mining Company, tunnelling into Craig Mound, where they found an unusual hollow chamber with extraordinarily preserved objects – engraved shells, copper plates, textiles, pearls, effigy pipes and ceremonial weapons. They sold the finds to collectors around the world, and the looting prompted Oklahoma to pass an antiquities law; professional excavations followed. Craig Mound has been called \"an American King Tut's tomb\".",
+   "alternatives": [
+    {
+     "label": "Lost knowledge",
+     "text": "Archaeologists consider the looting one of the worst in North American archaeology, because the context that would explain the objects was destroyed; objects are scattered across many museums."
+    },
+    {
+     "label": "Descendant communities",
+     "text": "The Caddo and Wichita nations are regarded as descendants of Spiro's people; their perspectives on the site and its objects are part of modern interpretation."
+    },
+    {
+     "label": "Myths in shell",
+     "text": "The engraved shell art, with winged beings, horned serpents and birdmen, is studied as a record of Mississippian cosmology; readings of specific figures differ."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Spiro Mounds",
+     "url": "https://en.wikipedia.org/wiki/Spiro_Mounds",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Oklahoma Historical Society: Spiro Mounds Archaeological Center",
+     "url": "https://www.okhistory.org/sites/spiromounds",
+     "type": "institution"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Spiro_Aerial_HRoe_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Spiro_Aerial_HRoe_2016.jpg",
+     "author": "Herb Roe",
+     "license": "CC BY-SA 4.0",
+     "title": "Spiro_Aerial_HRoe_2016.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history"
+   ],
+   "threads": [
+    "serpent-beings",
+    "hidden-tombs",
+    "lost-evidence"
+   ]
+  },
+  {
+   "id": "skinwalker",
+   "title": "Skin-walkers: a Navajo belief and a ranch of strange claims",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": 1996,
+   "end": null,
+   "dateNote": "Belief traditional; ranch claims from 1996",
+   "evidenceTypes": [
+    "oral tradition",
+    "eyewitness testimony",
+    "speculative"
+   ],
+   "mainstream": "In Navajo (Diné) tradition a yee naaldlooshii (\"by means of it, it goes on all fours\") is one kind of malevolent witch, believed able to transform into or disguise themselves as animals; the term is never used for healers. Traditional Navajo people are reluctant to discuss this lore with outsiders. In 1996 claims about strange lights, cattle mutilations and creatures on the Sherman Ranch in Utah's Uintah Basin – later called Skinwalker Ranch – were published in the Deseret News; Robert Bigelow bought the ranch that year to study them, and it has since been the subject of books, US government-funded research contracts and television series.",
+   "alternatives": [
+    {
+     "label": "Cultural belief",
+     "text": "For many Navajo, skin-walkers are part of a living religious and moral tradition; some, including Native writers, object to outsiders' commercial and fictional use of it."
+    },
+    {
+     "label": "Paranormal hot spot",
+     "text": "Researchers associated with the ranch report unexplained lights, animal deaths and other phenomena, and describe it as a site of interest for UFO and paranormal study."
+    },
+    {
+     "label": "Sceptical view",
+     "text": "Critics note the lack of verifiable evidence and suggest misperception, predators, folklore and the incentives of publicity and television; no claim has been independently confirmed."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Skin-walker",
+     "url": "https://en.wikipedia.org/wiki/Skin-walker",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Skinwalker Ranch",
+     "url": "https://en.wikipedia.org/wiki/Skinwalker_Ranch",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Skinwalker_Ranch_%2810393732103%29.jpg/500px-Skinwalker_Ranch_%2810393732103%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Skinwalker_Ranch_(10393732103).jpg",
+     "author": "Paul from USA",
+     "license": "CC BY-SA 2.0",
+     "title": "Skinwalker_Ranch_(10393732103).jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "anomalies",
+    "aliens-ufo"
+   ],
+   "threads": [
+    "ufo-encounters",
+    "shapeshifters",
+    "mysterious-lights"
+   ]
+  },
+  {
+   "id": "ghost-dance",
+   "title": "The Ghost Dance: a vision during an eclipse, and Wounded Knee",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": 1889,
+   "end": 1890,
+   "evidenceTypes": [
+    "textual",
+    "ethnography",
+    "oral tradition"
+   ],
+   "mainstream": "On 1 January 1889, during a solar eclipse, the Northern Paiute spiritual leader Wovoka (Jack Wilson) in Nevada had a vision. He taught that performing a circle dance and living peacefully and honestly would reunite the living with the spirits of the dead, restore the land and end white expansion. The Ghost Dance spread rapidly among Plains peoples. Among the Lakota, the movement – with \"ghost shirts\" rumoured to stop bullets – alarmed US authorities; the attempt to suppress it led to the killing of Sitting Bull and, on 29 December 1890, the Wounded Knee massacre, in which US soldiers killed some 250–300 Lakota, many of them women and children. An earlier Ghost Dance had arisen among the Paiute around 1870.",
+   "alternatives": [
+    {
+     "label": "Religious revival",
+     "text": "Anthropologist James Mooney (1896) and later scholars describe it as a revitalisation movement responding to loss of land, bison and population."
+    },
+    {
+     "label": "A threat?",
+     "text": "Officials at the time portrayed it as a war movement; historians mostly see the panic as a misreading of a largely peaceful religion, with the ghost-shirt belief a Lakota development."
+    },
+    {
+     "label": "A global pattern",
+     "text": "Scholars compare it with other movements that promised the return of the dead or of ancestors, such as the Xhosa cattle-killing and Melanesian cargo cults."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Ghost Dance",
+     "url": "https://en.wikipedia.org/wiki/Ghost_Dance",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Wovoka",
+     "url": "https://en.wikipedia.org/wiki/Wovoka",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Ghost_Dance_at_Pine_Ridge.png/500px-Ghost_Dance_at_Pine_Ridge.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Ghost_Dance_at_Pine_Ridge.png",
+     "author": "Unknown",
+     "license": "Public domain",
+     "title": "Ghost_Dance_at_Pine_Ridge.png"
+    }
+   ],
+   "categories": [
+    "history",
+    "religion"
+   ],
+   "threads": [
+    "sky-omens",
+    "returning-saviours",
+    "millenarian-movements"
+   ]
+  },
+  {
+   "id": "white-sands-footprints",
+   "title": "White Sands footprints: people in North America 21,000 years ago?",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 1,
+   "start": -21000,
+   "end": null,
+   "dateNote": "c. 23,000–21,000 years ago (contested)",
+   "evidenceTypes": [
+    "fossil trackways",
+    "radiocarbon",
+    "luminescence dating"
+   ],
+   "mainstream": "Human footprints preserved in former lake-shore sediments of Lake Otero in White Sands National Park, New Mexico, were identified from 2009 onwards. In 2021 Matthew Bennett and colleagues reported in Science that seeds of the aquatic plant Ruppia in layers above and below the prints dated them to about 21,000–23,000 years ago, during the Last Glacial Maximum – thousands of years before the long-favoured Clovis-first date of about 13,000 years. The tracks, mostly of teenagers and children, appear alongside those of mammoths and giant ground sloths; one set shows a person carrying a small child. A 2023 study using conifer pollen and quartz luminescence dates supported the older ages.",
+   "alternatives": [
+    {
+     "label": "An early arrival",
+     "text": "If correct, people were south of the ice sheets during the height of the Ice Age, implying an even earlier entry into the Americas."
+    },
+    {
+     "label": "Dating sceptics",
+     "text": "Critics argued that the aquatic seeds may have absorbed old carbon from groundwater, making them seem too old, and questioned the stratigraphy; debate continues on some of these points."
+    },
+    {
+     "label": "Wider debate",
+     "text": "White Sands joins other contested early sites (such as Monte Verde and Chiquihuite Cave) in debates over when and how the Americas were first peopled."
+    }
+   ],
+   "changed": "2009: tracks recognised. 2021: dated to 21,000–23,000 years ago. 2022: reservoir-effect critiques. 2023: independent dates support the older age.",
+   "sources": [
+    {
+     "title": "Evidence of humans in North America during the Last Glacial Maximum",
+     "authors": "Bennett, M. et al.",
+     "year": 2021,
+     "doi": "10.1126/science.abg7586",
+     "type": "paper"
+    },
+    {
+     "title": "Independent age estimates resolve the controversy of ancient human footprints at White Sands",
+     "authors": "Pigati, J. et al.",
+     "year": 2023,
+     "doi": "10.1126/science.adh5007",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: White Sands footprints",
+     "url": "https://en.wikipedia.org/wiki/White_Sands_footprints",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Human_fossil_tracks_at_White_Sands_New_Mexico.jpg/500px-Human_fossil_tracks_at_White_Sands_New_Mexico.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Human_fossil_tracks_at_White_Sands_New_Mexico.jpg",
+     "author": "US Geological Service",
+     "license": "Public domain",
+     "title": "Human_fossil_tracks_at_White_Sands_New_Mexico.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "science-cosmos"
+   ],
+   "threads": [
+    "changed-understanding",
+    "human-origins",
+    "genetic-migrations"
+   ]
+  },
+  {
+   "id": "piasa",
+   "title": "The Piasa: a painted monster on the Mississippi bluffs",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": 1673,
+   "end": null,
+   "dateNote": "Described 1673; original destroyed in the 19th century",
+   "evidenceTypes": [
+    "textual (explorer accounts)",
+    "rock art (lost)",
+    "mythological"
+   ],
+   "mainstream": "In 1673 the French explorers Jacques Marquette and Louis Jolliet, travelling down the Mississippi near present-day Alton, Illinois, described two painted monsters on the river bluffs, with horns like a deer, red eyes, a human-like face and beard, a scaly body and a long tail ending in a fish's fin. Sketches from 1678 and 1682 survive. The bluff face carrying the painting was quarried away in the 19th century (around 1846–47 according to one account); a modern reconstruction now stands nearby.",
+   "alternatives": [
+    {
+     "label": "Underwater panther",
+     "text": "Many scholars relate the image to the underwater panther or horned serpent of regional Native traditions and to Mississippian iconography from nearby Cahokia."
+    },
+    {
+     "label": "A 19th-century legend",
+     "text": "The popular story of the \"Piasa bird\" that devoured people until the chief Ouatoga offered himself as bait was published by John Russell in 1836; later researchers concluded it was largely Russell's literary invention rather than recorded folklore."
+    },
+    {
+     "label": "Dragon or bird?",
+     "text": "The creature has been redrawn over time as a winged dragon-like bird, illustrating how a lost image can change as it is copied."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Piasa",
+     "url": "https://en.wikipedia.org/wiki/Piasa",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Piasa-Bird-Alton-IL.jpg/500px-Piasa-Bird-Alton-IL.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Piasa-Bird-Alton-IL.jpg",
+     "author": "Burfalcy",
+     "license": "CC BY-SA 3.0",
+     "title": "Piasa-Bird-Alton-IL.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "archaeology"
+   ],
+   "threads": [
+    "cryptids",
+    "serpent-beings",
+    "giant-birds"
+   ]
   }
  ]
 }
