@@ -3875,7 +3875,8 @@
     "science-cosmos"
    ],
    "threads": [
-    "changed-understanding"
+    "changed-understanding",
+    "rejected-pioneers"
    ]
   },
   {
@@ -9332,7 +9333,8 @@
    ],
    "threads": [
     "stories-proven-true",
-    "deep-oral-memory"
+    "deep-oral-memory",
+    "giant-birds"
    ]
   },
   {
@@ -10054,7 +10056,8 @@
     "catastrophes"
    ],
    "threads": [
-    "world-ages-and-resets"
+    "world-ages-and-resets",
+    "millenarian-movements"
    ]
   },
   {
@@ -12605,7 +12608,8 @@
     "dragons-and-fossils",
     "cryptids",
     "deep-oral-memory",
-    "serpent-beings"
+    "serpent-beings",
+    "giant-birds"
    ]
   },
   {
@@ -17084,7 +17088,8 @@
    "threads": [
     "sky-beings",
     "collective-experiences",
-    "returning-saviours"
+    "returning-saviours",
+    "millenarian-movements"
    ]
   },
   {
@@ -17746,7 +17751,8 @@
    "threads": [
     "changed-understanding",
     "mass-extinctions",
-    "lost-evidence"
+    "lost-evidence",
+    "rejected-pioneers"
    ]
   },
   {
@@ -20057,6 +20063,643 @@
     "sky-omens",
     "collective-experiences",
     "monster-panics"
+   ]
+  },
+  {
+   "id": "jebel-sahaba",
+   "title": "Jebel Sahaba: the Nile cemetery of the oldest known war",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -11500,
+   "end": null,
+   "dateNote": "Best estimate c. 13,400–13,700 years ago (older estimates up to c. 18,600)",
+   "evidenceTypes": [
+    "archaeological",
+    "skeletal analysis",
+    "radiocarbon"
+   ],
+   "mainstream": "Jebel Sahaba (Site 117) is a Late Pleistocene cemetery on the Nile near the Sudan–Egypt border, found in 1964 by a team led by Fred Wendorf during the rescue campaigns before Lake Nasser flooded the valley; the site now lies under the lake. It held the remains of 61 people of both sexes and all ages. A 2021 re-examination (Crevecoeur and colleagues) found healed and unhealed injuries on 41 of them (about two-thirds), many caused by stone-tipped arrows or spears, and a best date estimate of roughly 13,400–13,700 years ago. It is often cited as the oldest known evidence of repeated, organised violence between groups.",
+   "alternatives": [
+    {
+     "label": "One massacre",
+     "text": "The original interpretation saw the cemetery as the result of a single battle or massacre."
+    },
+    {
+     "label": "Recurrent raids",
+     "text": "The 2021 study argues that the mix of healed and fresh wounds points instead to sporadic, repeated raids and ambushes over a person's lifetime."
+    },
+    {
+     "label": "Climate stress",
+     "text": "Since Hoffman (1993), researchers have linked the violence to competition for scarce resources as the climate and the Nile changed at the end of the last Ice Age; this remains a hypothesis rather than proven."
+    },
+    {
+     "label": "How old is war?",
+     "text": "The site is a key data point in the wider debate over whether organised warfare is ancient and widespread among hunter-gatherers or arose mainly with farming and states."
+    }
+   ],
+   "changed": "1964: cemetery found during the Nubian rescue campaign. 1960s–90s: read as a single battle. 2021: re-analysis argues for repeated violence and a younger date.",
+   "sources": [
+    {
+     "title": "New insights on interpersonal violence in the Late Pleistocene based on the Nile valley cemetery of Jebel Sahaba",
+     "authors": "Crevecoeur, I. et al.",
+     "year": 2021,
+     "doi": "10.1038/s41598-021-89386-y",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: Jebel Sahaba",
+     "url": "https://en.wikipedia.org/wiki/Jebel_Sahaba",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Location_and_images_of_the_observed_osseous_lesions_on_Jebel_Sahaba_skeleton_%22JS_14%22.webp/500px-Location_and_images_of_the_observed_osseous_lesions_on_Jebel_Sahaba_skeleton_%22JS_14%22.webp?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Location_and_images_of_the_observed_osseous_lesions_on_Jebel_Sahaba_skeleton_%22JS_14%22.webp",
+     "author": "Isabelle Crevecoeur, Marie-Hélène Dias-Meirinho, Antoine Zazzo, Daniel Antoine, François Bon",
+     "license": "CC BY 4.0",
+     "title": "Location_and_images_of_the_observed_osseous_lesions_on_Jebel_Sahaba_skeleton_\"JS_14\".webp"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history"
+   ],
+   "threads": [
+    "changed-understanding",
+    "vanished-landscapes"
+   ]
+  },
+  {
+   "id": "garamantes",
+   "title": "The Garamantes: a Saharan kingdom that mined fossil water",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -500,
+   "end": 700,
+   "dateNote": "Kingdom c. 500 BCE – c. 700 CE (roots earlier)",
+   "evidenceTypes": [
+    "archaeological",
+    "textual (classical)",
+    "remote sensing"
+   ],
+   "mainstream": "The Garamantes lived in the Fezzan region of south-west Libya, in the middle of the Sahara, and are mentioned by Herodotus in the 5th century BCE as \"a very great nation\" who used four-horse chariots to hunt \"Troglodyte Ethiopians\". Their capital Garama (modern Germa) was excavated from the 1960s. They built an extensive network of underground channels (foggaras) to tap groundwater stored from wetter millennia, supporting farms, towns and trans-Saharan trade with the Roman world. Their state declined in late antiquity; most researchers connect the decline with falling groundwater levels among other factors.",
+   "alternatives": [
+    {
+     "label": "Herodotus's wonders",
+     "text": "Herodotus also tells of Garamantian oxen that grazed walking backwards because their horns curved forward; scholars debate how much of his account is reliable report and how much traveller's tale. Some read the chariot raids on \"Troglodytes\" as early slave raiding, others as a speculative tale."
+    },
+    {
+     "label": "Why the decline?",
+     "text": "Explanations include depletion of non-renewable fossil water, shifting trade routes, and political changes in late antiquity and after the Arab conquests of the 7th century; the weighting is debated."
+    },
+    {
+     "label": "Lessons for today",
+     "text": "The Garamantes are often cited in discussions of modern \"fossil water\" use, including Libya's Great Man-Made River project; this is an analogy, not a historical claim."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Garamantes",
+     "url": "https://en.wikipedia.org/wiki/Garamantes",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Germa",
+     "url": "https://en.wikipedia.org/wiki/Germa",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Garma_%28Garama%29_-_Ruinen_der_antiken_Stadt_Garma_02.jpg/500px-Garma_%28Garama%29_-_Ruinen_der_antiken_Stadt_Garma_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Garma_(Garama)_-_Ruinen_der_antiken_Stadt_Garma_02.jpg",
+     "author": "Franzfoto",
+     "license": "CC BY-SA 3.0",
+     "title": "Garma_(Garama)_-_Ruinen_der_antiken_Stadt_Garma_02.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology",
+    "lost-civilisations"
+   ],
+   "threads": [
+    "civilisation-collapses",
+    "vanished-landscapes",
+    "rain-and-drought"
+   ]
+  },
+  {
+   "id": "carthage-tophet",
+   "title": "The Carthage Tophet: child sacrifice, or a cemetery for infants?",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": -750,
+   "end": -146,
+   "dateNote": "c. 8th century BCE – 146 BCE",
+   "evidenceTypes": [
+    "archaeological",
+    "skeletal analysis",
+    "textual (classical and biblical)",
+    "inscriptions"
+   ],
+   "mainstream": "The Tophet of Salammbô at Carthage (in modern Tunisia) is a sacred precinct used from about the 8th century BCE until the Roman destruction of Carthage in 146 BCE. It contains thousands of urns holding the cremated remains of infants and young animals, many marked by stone stelae with dedications to the god Baal Hammon and the goddess Tanit recording a vow, often using the term mlk (molk). Greek and Roman writers such as Diodorus Siculus describe Carthaginians sacrificing children, especially in crises, and the Hebrew Bible condemns child sacrifice at a \"Topheth\" near Jerusalem.",
+   "alternatives": [
+    {
+     "label": "Ritual sacrifice",
+     "text": "Many archaeologists and historians argue that the inscriptions, the classical texts and the age profile of the remains together show that children were offered to the gods in fulfilment of vows (Smith and colleagues, Xella and others)."
+    },
+    {
+     "label": "Cemetery for the very young",
+     "text": "An osteological study by Schwartz and colleagues (2010) argued that many of the infants died before or around birth, suggesting a special burial ground for children who died naturally, possibly with rituals attached."
+    },
+    {
+     "label": "Enemy propaganda?",
+     "text": "Because most written accounts come from Carthage's enemies (Greeks, Romans) or from biblical polemic, some scholars see them as exaggerated; others reply that the Punic inscriptions themselves describe offerings."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Skeletal Remains from Punic Carthage Do Not Support Systematic Sacrifice of Infants",
+     "authors": "Schwartz, J. et al.",
+     "year": 2010,
+     "doi": "10.1371/journal.pone.0009177",
+     "type": "paper"
+    },
+    {
+     "title": "Bones, teeth, and estimating age of perinates: Carthaginian infant sacrifice revisited",
+     "authors": "Schwartz, J. et al.",
+     "year": 2012,
+     "doi": "10.1017/s0003598x00047888",
+     "type": "paper"
+    },
+    {
+     "title": "Two tales of one city: data, inference and Carthaginian infant sacrifice",
+     "authors": "Schwartz, J. et al.",
+     "year": 2017,
+     "doi": "10.15184/aqy.2016.270",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: Tophet",
+     "url": "https://en.wikipedia.org/wiki/Tophet",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Tophet_Carthage.2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Tophet_Carthage.2.jpg",
+     "author": "Michel-georges bernard",
+     "license": "CC BY-SA 3.0",
+     "title": "Tophet_Carthage.2.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "religion",
+    "history"
+   ],
+   "threads": [
+    "changed-understanding",
+    "human-sacrifice"
+   ]
+  },
+  {
+   "id": "akhenaten",
+   "title": "Akhenaten: the pharaoh who replaced the gods, and was erased",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": -1353,
+   "end": -1336,
+   "dateNote": "Reigned c. 1353–1336 BCE",
+   "evidenceTypes": [
+    "archaeological",
+    "textual",
+    "genetic",
+    "art historical"
+   ],
+   "mainstream": "Amenhotep IV came to the Egyptian throne around 1353 BCE, renamed himself Akhenaten (\"effective for the Aten\") and promoted the worship of the Aten, the sun disc, above or instead of Egypt's other gods. He founded a new capital, Akhetaten (modern Amarna), and art of his reign showed the royal family with elongated faces, skulls and bellies. After his death the court returned to the old gods; his son Tutankhaten became Tutankhamun, Amarna was abandoned, and later rulers erased Akhenaten's name, calling him \"the enemy\". Much of what is known was recovered only from the 19th century onwards, including the Amarna diplomatic letters found in the 1880s.",
+   "alternatives": [
+    {
+     "label": "First monotheist?",
+     "text": "Some scholars see Atenism as the first known monotheism; others call it henotheism or a royal cult centred on the king as the Aten's sole intermediary. Sigmund Freud (Moses and Monotheism, 1939) speculated that Moses was an Atenist priest; most historians reject this as unsupported."
+    },
+    {
+     "label": "Art or illness?",
+     "text": "His unusual portraits have been explained as religious artistic convention, or as signs of a medical condition such as Marfan syndrome; DNA and CT studies of the Tutankhamun family (2010) reported no evidence of Marfan syndrome in the mummy from tomb KV55, whose identification as Akhenaten is itself debated."
+    },
+    {
+     "label": "Alien-hybrid claims (speculative)",
+     "text": "Some popular writers have claimed the elongated depictions show a non-human or alien lineage; there is no evidence for this, and Egyptologists attribute the style to Amarna art conventions."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Ancestry and Pathology in King Tutankhamun's Family",
+     "authors": "Hawass, Z.",
+     "year": 2010,
+     "doi": "10.1001/jama.2010.121",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: Akhenaten",
+     "url": "https://en.wikipedia.org/wiki/Akhenaten",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "The Amarna Project (University of Cambridge-linked excavation)",
+     "url": "https://www.amarnaproject.com/",
+     "type": "project"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/GD-EG-Caire-Mus%C3%A9e061.JPG/500px-GD-EG-Caire-Mus%C3%A9e061.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:GD-EG-Caire-Mus%C3%A9e061.JPG",
+     "author": "Unknown",
+     "license": "CC BY-SA 2.5",
+     "title": "GD-EG-Caire-Musée061.JPG"
+    }
+   ],
+   "categories": [
+    "history",
+    "religion",
+    "archaeology"
+   ],
+   "threads": [
+    "mummies",
+    "knowledge-and-power",
+    "sacred-kingship",
+    "outsider-builder-claims",
+    "lost-evidence"
+   ]
+  },
+  {
+   "id": "pharaohs-curse",
+   "title": "The curse of Tutankhamun: a newspaper legend tested by statistics",
+   "lane": "history",
+   "status": "debunked",
+   "priority": 2,
+   "start": 1923,
+   "end": null,
+   "dateNote": "Tomb opened 1922; Carnarvon died April 1923",
+   "evidenceTypes": [
+    "textual (press)",
+    "epidemiological study"
+   ],
+   "mainstream": "Howard Carter's team opened Tutankhamun's tomb in the Valley of the Kings in November 1922. When the expedition's sponsor Lord Carnarvon died in Cairo in April 1923 – from blood poisoning after an infected mosquito bite was nicked while shaving – newspapers spread the idea of a pharaoh's curse. The novelist Marie Corelli had published a warning shortly before, and Arthur Conan Doyle suggested \"elementals\" guarding the tomb. Each later death linked to the excavation fed the story. No curse inscription was found in the tomb.",
+   "alternatives": [
+    {
+     "label": "Curse",
+     "text": "The legend holds that disturbing the tomb brought death on those involved; it became a fixture of films and fiction."
+    },
+    {
+     "label": "Statistical test",
+     "text": "A 2002 BMJ cohort study by Mark Nelson compared Westerners present at key openings with those who were not, and found no significant difference in survival; Carter himself lived until 1939."
+    },
+    {
+     "label": "Natural hazards",
+     "text": "Some have suggested moulds or bacteria in sealed tombs could harm visitors; there is no evidence that this caused Carnarvon's death."
+    },
+    {
+     "label": "Media creation",
+     "text": "Historians note that the curse story was amplified by rivalry between newspapers, after Carnarvon sold exclusive rights to The Times."
+    }
+   ],
+   "sources": [
+    {
+     "title": "The mummy's curse: historical cohort study",
+     "authors": "Nelson, M.",
+     "year": 2002,
+     "doi": "10.1136/bmj.325.7378.1482",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: Curse of the pharaohs",
+     "url": "https://en.wikipedia.org/wiki/Curse_of_the_pharaohs",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Tutanchamon_%28js%29_1.jpg/500px-Tutanchamon_%28js%29_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Tutanchamon_(js)_1.jpg",
+     "author": "Jerzy Strzelecki",
+     "license": "CC BY-SA 3.0",
+     "title": "Tutanchamon_(js)_1.jpg"
+    }
+   ],
+   "categories": [
+    "hoaxes",
+    "anomalies",
+    "archaeology"
+   ],
+   "threads": [
+    "hoaxes-exposed",
+    "hidden-tombs",
+    "mummies"
+   ]
+  },
+  {
+   "id": "taung-child",
+   "title": "The Taung Child: Africa's first ape-man, rejected because of a hoax",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": -2800000,
+   "end": null,
+   "dateNote": "c. 2.8 million years ago; found 1924, described 1925",
+   "evidenceTypes": [
+    "fossil",
+    "comparative anatomy"
+   ],
+   "mainstream": "In 1924 quarry workers at the Buxton Limeworks at Taung, South Africa, found a small fossil skull that reached anatomist Raymond Dart in Johannesburg. In 1925 Dart described it in Nature as Australopithecus africanus, a small-brained, upright ancestor linking apes and humans, and argued that humanity originated in Africa. Leading British scientists, including Arthur Keith, rejected his claims, partly because they expected an early large brain like that of Piltdown Man – later exposed (1953) as a hoax. Further finds by Robert Broom and others from the 1930s–40s vindicated Dart. The child is now thought to be roughly 2.8 million years old.",
+   "alternatives": [
+    {
+     "label": "Dart vindicated",
+     "text": "Today Australopithecus is accepted as a hominin genus and Africa as the birthplace of humankind; the Taung case is a textbook example of how expectations shaped the reception of evidence."
+    },
+    {
+     "label": "Killed by an eagle",
+     "text": "In 2006 Lee Berger and Ron Clarke argued, from puncture marks in the eye sockets, that the child was killed by a large bird of prey; this is widely accepted though still discussed."
+    },
+    {
+     "label": "Asia-first theories",
+     "text": "Before Taung many researchers favoured an Asian origin for humans; that view persisted until more African fossils accumulated in the mid-20th century."
+    }
+   ],
+   "changed": "1925: Dart names Australopithecus and is widely rejected. 1940s: further finds turn opinion. 1953: Piltdown exposed. 2006: eagle-predation hypothesis.",
+   "sources": [
+    {
+     "title": "Australopithecus africanus The Man-Ape of South Africa",
+     "authors": "DART, R.",
+     "year": 1925,
+     "doi": "10.1038/115195a0",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: Taung Child",
+     "url": "https://en.wikipedia.org/wiki/Taung_Child",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Australopithecus_africanus_-_Cast_of_taung_child.jpg/500px-Australopithecus_africanus_-_Cast_of_taung_child.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Australopithecus_africanus_-_Cast_of_taung_child.jpg",
+     "author": "Didier Descouens",
+     "license": "CC BY-SA 4.0",
+     "title": "Australopithecus_africanus_-_Cast_of_taung_child.jpg"
+    }
+   ],
+   "categories": [
+    "science-cosmos",
+    "archaeology"
+   ],
+   "threads": [
+    "changed-understanding",
+    "human-origins",
+    "rejected-pioneers",
+    "giant-birds"
+   ]
+  },
+  {
+   "id": "san-rock-art",
+   "title": "San rock art: trance, rain-animals and the spirit world of southern Africa",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -3000,
+   "end": 1880,
+   "dateNote": "Tradition spans thousands of years into the 19th century; start date indicative",
+   "evidenceTypes": [
+    "rock art",
+    "ethnography",
+    "oral tradition",
+    "radiocarbon"
+   ],
+   "mainstream": "Tens of thousands of rock paintings and engravings across southern Africa – in the Drakensberg, the Cederberg, Namibia, Botswana and Zimbabwe – were made by the ancestors of San hunter-gatherers over thousands of years, with some made into the 19th century. Common subjects include eland, human figures, dances and part-human, part-animal beings. In the 1870s Wilhelm Bleek and Lucy Lloyd recorded extensive testimony from /Xam San informants in Cape Town, which later scholars used to interpret the images, including accounts of rain-making in which trance specialists \"captured\" a rain-animal whose blood and milk became rain.",
+   "alternatives": [
+    {
+     "label": "Trance and the spirit world",
+     "text": "From the 1970s–80s David Lewis-Williams and others argued that much of the art depicts the experiences of healers in trance dances – sensations, transformations into animals and journeys to the spirit world – an interpretation now widely influential."
+    },
+    {
+     "label": "Myth and narrative",
+     "text": "Other scholars (for example Anne Solomon) argue the trance model is over-applied and that many images depict myths, the spirits of the dead or narrative scenes."
+    },
+    {
+     "label": "Shared human patterns (debated)",
+     "text": "The neuropsychological model has been extended to European Ice Age caves, suggesting common human trance imagery; critics question applying southern African ethnography to such distant times and places."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: San rock art",
+     "url": "https://en.wikipedia.org/wiki/San_rock_art",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Rock Art Research Institute, University of the Witwatersrand",
+     "url": "https://www.wits.ac.za/rockart/",
+     "type": "institution"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Southern_San_-_Eland_Main_Panel_-_Google_Art_Project.jpg/500px-Southern_San_-_Eland_Main_Panel_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Southern_San_-_Eland_Main_Panel_-_Google_Art_Project.jpg",
+     "author": "Southern San Details on Google Art Project",
+     "license": "Public domain",
+     "title": "Southern_San_-_Eland_Main_Panel_-_Google_Art_Project.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "religion",
+    "myth-legend"
+   ],
+   "threads": [
+    "shapeshifters",
+    "rain-and-drought",
+    "altered-states"
+   ]
+  },
+  {
+   "id": "dahomey-amazons",
+   "title": "The Agojie: the women soldiers of Dahomey",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1700,
+   "end": 1894,
+   "dateNote": "At least 18th century – 1894 (traditions trace them to the 17th)",
+   "evidenceTypes": [
+    "textual (European and oral accounts)",
+    "photographs",
+    "oral tradition"
+   ],
+   "mainstream": "The Kingdom of Dahomey (in present-day Benin) maintained an all-female military corps, called Agojie or Mino (\"our mothers\") in Fon, from at least the 18th century until the kingdom was conquered by France in 1894. Traditions trace the corps to King Houegbadja or to a corps of female elephant hunters (gbeto) and palace guards. At its height it may have numbered several thousand; the women were formally married to the king and lived in the palace. They fought neighbouring states, including the Egba at Abeokuta, and the French in 1890–92. A woman named Nawi, interviewed in 1978 and thought to be the last veteran, died in 1979.",
+   "alternatives": [
+    {
+     "label": "Origins debated",
+     "text": "Explanations include a shortage of men after wars and slave raids, the king's need for loyal guards inside the palace, and older traditions of women hunters."
+    },
+    {
+     "label": "Amazons named by outsiders",
+     "text": "European visitors called them \"Amazons\" after Greek myth, shaping how they were described; Fon terms and oral histories give a different picture."
+    },
+    {
+     "label": "Role in the slave trade",
+     "text": "Dahomey was deeply involved in the Atlantic slave trade, and the Agojie took part in raids that captured people for sale; this was debated publicly around the 2022 film The Woman King."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Dahomey Amazons",
+     "url": "https://en.wikipedia.org/wiki/Dahomey_Amazons",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Smithsonian Magazine: The Real History Behind The Woman King",
+     "url": "https://www.smithsonianmag.com/history/the-real-warrior-women-behind-the-woman-king-180980750/",
+     "type": "magazine"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Dahomey_amazon2.jpg/500px-Dahomey_amazon2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Dahomey_amazon2.jpg",
+     "author": "Unknown authorUnknown author",
+     "license": "Public domain",
+     "title": "Dahomey_amazon2.jpg"
+    }
+   ],
+   "categories": [
+    "history"
+   ],
+   "threads": [
+    "warrior-women"
+   ]
+  },
+  {
+   "id": "nzinga",
+   "title": "Queen Nzinga of Ndongo and Matamba: diplomat, warrior and legend",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1622,
+   "end": 1663,
+   "dateNote": "Embassy 1622; reigned 1624–1663",
+   "evidenceTypes": [
+    "textual (Portuguese, missionary)",
+    "oral tradition"
+   ],
+   "mainstream": "Nzinga Mbande (c. 1583–1663) ruled the Mbundu kingdoms of Ndongo (from 1624) and Matamba (from 1631) in present-day Angola. As envoy to the Portuguese governor in Luanda in 1622 she negotiated a peace treaty; a famous story says that, offered only a mat while the Portuguese sat on chairs, she had an attendant kneel to form a seat. She later allied with the Dutch West India Company, fought the Portuguese for decades, and made peace in 1656, dying in 1663. She is a national heroine in Angola.",
+   "alternatives": [
+    {
+     "label": "Diplomat and strategist",
+     "text": "Historians emphasise her use of baptism, alliances (including with Imbangala war bands) and negotiation to keep her kingdoms independent."
+    },
+    {
+     "label": "Hostile sources",
+     "text": "Much of her life is known from Capuchin missionaries such as Antonio Cavazzi, whose accounts include lurid stories of cruelty and of a male harem dressed as women; scholars treat these with caution as possibly shaped by European prejudice."
+    },
+    {
+     "label": "Symbol",
+     "text": "After independence (1975) she became a symbol of resistance to colonial rule; some critics note that, like many rulers of the time, she also took part in the slave trade."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Nzinga of Ndongo and Matamba",
+     "url": "https://en.wikipedia.org/wiki/Nzinga_of_Ndongo_and_Matamba",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Ann_Zingha.jpg/500px-Ann_Zingha.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Ann_Zingha.jpg",
+     "author": "Achille Devéria",
+     "license": "Public domain",
+     "title": "Ann_Zingha.jpg"
+    }
+   ],
+   "categories": [
+    "history"
+   ],
+   "threads": [
+    "sacred-kingship",
+    "warrior-women"
+   ]
+  },
+  {
+   "id": "nongqawuse",
+   "title": "Nongqawuse and the Xhosa cattle-killing: a prophecy that the dead would rise",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": 1856,
+   "end": 1858,
+   "evidenceTypes": [
+    "textual (colonial records, depositions)",
+    "oral tradition"
+   ],
+   "mainstream": "In April 1856 Nongqawuse, a Xhosa girl of about 15 living near the mouth of the Gxarha River (in the present Eastern Cape, South Africa), said she had met the spirits of ancestors. Her message, relayed by her uncle Mhlakaza and accepted by the paramount chief Sarili, was that if the people killed their cattle and destroyed their crops the dead would rise, healthy new cattle would appear and the colonists would be swept into the sea. The Xhosa were already suffering land loss after frontier wars and an epidemic of bovine lungsickness. Over 1856–57 some 300,000–400,000 cattle were killed; when the prophesied day passed, famine killed about 40,000 people, and the colonial governor Sir George Grey used the crisis to seize land and recruit labour.",
+   "alternatives": [
+    {
+     "label": "Millenarian movement",
+     "text": "Historian Jeff Peires (The Dead Will Arise, 1989) interprets the movement as a rational response within Xhosa belief to disease and colonial pressure, comparable to other movements expecting the return of the dead."
+    },
+    {
+     "label": "Conspiracy explanations",
+     "text": "A belief that Grey or missionaries engineered the prophecy to destroy the Xhosa has circulated; historians generally find no evidence of a plot, though Grey clearly exploited the aftermath."
+    },
+    {
+     "label": "Believers and unbelievers",
+     "text": "Communities split between believers and \"amagogotya\" (unbelievers) who refused; the failure was blamed on them, a pattern seen in other prophecy movements."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Nongqawuse",
+     "url": "https://en.wikipedia.org/wiki/Nongqawuse",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Nongqawuse_and_Nonkosi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Nongqawuse_and_Nonkosi.jpg",
+     "author": "Unknown",
+     "license": "Public domain",
+     "title": "Nongqawuse_and_Nonkosi.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "religion"
+   ],
+   "threads": [
+    "returning-saviours",
+    "millenarian-movements"
    ]
   }
  ]

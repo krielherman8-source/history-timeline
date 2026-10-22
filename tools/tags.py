@@ -695,3 +695,36 @@ addt('lost-evidence','kecksburg-1965')
 addt('mysterious-lights','flatwoods-monster kecksburg-1965')
 addt('cryptids','mothman')
 addt('sky-omens','mothman')
+# --- batch 10 part 1 (Africa)
+C.update({
+'jebel-sahaba':'archaeology history',
+'garamantes':'history archaeology lost-civilisations',
+'carthage-tophet':'archaeology religion history',
+'akhenaten':'history religion archaeology',
+'pharaohs-curse':'hoaxes anomalies archaeology',
+'taung-child':'science-cosmos archaeology',
+'san-rock-art':'archaeology religion myth-legend',
+'dahomey-amazons':'history',
+'nzinga':'history',
+'nongqawuse':'history religion',
+})
+addt('changed-understanding','jebel-sahaba taung-child carthage-tophet')
+addt('human-origins','taung-child')
+addt('civilisation-collapses','garamantes')
+addt('rain-and-drought','garamantes san-rock-art')
+addt('vanished-landscapes','garamantes jebel-sahaba')
+addt('human-sacrifice','carthage-tophet')
+addt('knowledge-and-power','akhenaten')
+addt('lost-evidence','akhenaten')
+addt('sacred-kingship','akhenaten nzinga')
+addt('outsider-builder-claims','akhenaten')
+addt('hidden-tombs','pharaohs-curse')
+addt('mummies','pharaohs-curse akhenaten')
+addt('hoaxes-exposed','pharaohs-curse')
+addt('altered-states','san-rock-art')
+addt('shapeshifters','san-rock-art')
+addt('warrior-women','dahomey-amazons nzinga scythian-amazons')
+addt('returning-saviours','nongqawuse')
+addt('millenarian-movements','nongqawuse john-frum maya-2012')
+addt('rejected-pioneers','taung-child wegener ediacaran-biota')
+addt('giant-birds','taung-child haasts-eagle thunderbird')
