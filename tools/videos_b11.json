@@ -1,0 +1,74 @@
+{
+ "cyrus-cylinder": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=iokGgmrOj4Q",
+  "title": "A new beginning for the Middle East: The Cyrus Cylinder and Ancient Persia",
+  "channel": "The British Museum"
+ },
+ "qanats": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=8lS_ar5UpiU",
+  "title": "Beneath Iran's Dusty Desert Lie Ancient Water Tunnels Still in Use | National Geographic",
+  "channel": "National Geographic"
+ },
+ "lucy": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=sPyb2Z5LXBs",
+  "title": "What Lucy Taught Us About Ourselves | NOVA | PBS",
+  "channel": "NOVA PBS Official"
+ },
+ "laas-geel": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=taLMpsvZmRI",
+  "title": "Somaliland’s 5,000 year old rock paintings",
+  "channel": "Al Jazeera English"
+ },
+ "hatshepsut": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=8bYRy_wZEJI",
+  "title": "The pharaoh that wouldn't be forgotten - Kate Green",
+  "channel": "TED-Ed"
+ },
+ "sutton-hoo": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=HMKkMi_Wggg",
+  "title": "The Sutton Hoo ship burial: excavation",
+  "channel": "The British Museum"
+ },
+ "eddington-1919": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=vF4DENWd_ts",
+  "title": "How an Eclipse Proved Einstein Right",
+  "channel": "NOVA PBS Official"
+ },
+ "hitler-diaries": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=EVqeFZSaGN0",
+  "title": "How fake Hitler diaries fooled the British press | BBC Global",
+  "channel": "BBC Global"
+ },
+ "alh84001": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=2Box8dkz6cQ",
+  "title": "NASA's Most Controversial Rock",
+  "channel": "SciShow"
+ },
+ "havana-syndrome": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=_El5EwhSRuk",
+  "title": "The mystery of Havana Syndrome and claims of a government cover-up",
+  "channel": "PBS NewsHour"
+ },
+ "zarathustra": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=F2tqV9u9vzY",
+  "title": "Zoroastrianism | World History | Khan Academy",
+  "channel": "Khan Academy"
+ },
+ "eleusinian-mysteries": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=zLAYGZeVTPQ",
+  "title": "The myth of Hades and Persephone - Iseult Gillespie",
+  "channel": "TED-Ed"
+ }
+}
