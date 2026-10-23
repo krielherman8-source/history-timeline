@@ -3042,7 +3042,8 @@
     "anomalies"
    ],
    "threads": [
-    "lost-civilisations"
+    "lost-civilisations",
+    "giant-monuments"
    ]
   },
   {
@@ -3975,7 +3976,8 @@
    ],
    "threads": [
     "sky-beings",
-    "ancient-technology"
+    "ancient-technology",
+    "ancient-flight"
    ]
   },
   {
@@ -9879,7 +9881,8 @@
    "threads": [
     "lost-civilisations",
     "lost-continents",
-    "sunken-cities"
+    "sunken-cities",
+    "pareidolia"
    ]
   },
   {
@@ -17623,7 +17626,8 @@
    ],
    "threads": [
     "ufo-encounters",
-    "hoaxes-exposed"
+    "hoaxes-exposed",
+    "pareidolia"
    ]
   },
   {
@@ -20359,7 +20363,8 @@
     "knowledge-and-power",
     "sacred-kingship",
     "outsider-builder-claims",
-    "lost-evidence"
+    "lost-evidence",
+    "erased-from-history"
    ]
   },
   {
@@ -22244,7 +22249,8 @@
    ],
    "threads": [
     "changed-understanding",
-    "seeing-what-we-expect"
+    "seeing-what-we-expect",
+    "pareidolia"
    ]
   },
   {
@@ -23806,6 +23812,672 @@
     "cryptids",
     "giants-and-little-people",
     "ancestral-homelands"
+   ]
+  },
+  {
+   "id": "lepenski-vir",
+   "title": "Lepenski Vir: fish-faced stone heads of the Danube's Iron Gates",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -9500,
+   "end": -6000,
+   "dateNote": "c. 9500 – c. 6000 BCE (several phases)",
+   "evidenceTypes": [
+    "archaeological",
+    "genetic"
+   ],
+   "mainstream": "Lepenski Vir is a Mesolithic and early Neolithic settlement on the Serbian bank of the Danube in the Iron Gates gorge, occupied in phases from about 9500 to about 6000 BCE. It was excavated from 1965 by Dragoslav Srejović and, because the Đerdap dam would flood it, the site was moved about 30 metres higher in 1971. Its inhabitants, mainly fishers and foragers, built houses with trapezoidal floor plans and hearths, buried some of the dead beneath the floors, and carved large river boulders into sculptures with bulging eyes and fish-like mouths. Ancient DNA studies (for example Mathieson et al., Nature 2018) show that the Iron Gates foragers met and mixed with incoming farmers whose ancestry came from Anatolia.",
+   "alternatives": [
+    {
+     "label": "Fish-people",
+     "text": "The sculptures are often described as human-fish hybrids; interpretations include river spirits, ancestors, or deities linked to the Danube's fish (such as sturgeon) on which the community depended."
+    },
+    {
+     "label": "Sacred geometry",
+     "text": "Some writers argue the trapezoidal houses encode deliberate geometry or astronomy aligned with the nearby trapezoid-shaped mountain Treskavac; archaeologists generally see the shape as practical and symbolic rather than evidence of advanced mathematics."
+    },
+    {
+     "label": "Contact zone",
+     "text": "The site is studied as one of the clearest places in Europe where hunter-gatherers and the first farmers met, traded and intermarried rather than one simply replacing the other."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Lepenski Vir",
+     "url": "https://en.wikipedia.org/wiki/Lepenski_Vir",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "The genomic history of southeastern Europe",
+     "authors": "Mathieson, I. et al.",
+     "year": 2018,
+     "doi": "10.1038/nature25778",
+     "type": "paper"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Lepenski_Vir_%282%29.JPG/500px-Lepenski_Vir_%282%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Lepenski_Vir_(2).JPG",
+     "author": "Myself",
+     "license": "CC BY 3.0",
+     "title": "Lepenski_Vir_(2).JPG"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "science-cosmos"
+   ],
+   "threads": [
+    "changed-understanding",
+    "genetic-migrations"
+   ]
+  },
+  {
+   "id": "saqqara-bird",
+   "title": "The Saqqara Bird: an ancient Egyptian model glider?",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": -200,
+   "end": null,
+   "evidenceTypes": [
+    "artefact",
+    "experimental"
+   ],
+   "mainstream": "The Saqqara Bird is a small model made of sycamore wood, with a wingspan of about 18 centimetres, found in 1898 during excavation of the tomb of Pa-di-Imen at Saqqara, Egypt, and dated to about 200 BCE. It is kept in the Egyptian Museum in Cairo. It has a bird's head with painted eyes and a beak, straight outstretched wings and a vertical tail. In 1972 Egyptian physician Khalil Messiha, a model-aircraft enthusiast, argued that its shape resembles a glider and that it might be a scale model of an ancient flying machine.",
+   "alternatives": [
+    {
+     "label": "Glider model",
+     "text": "Messiha and later ancient-astronaut and lost-technology writers argue the wings and fuselage resemble aircraft design and that the bird may be evidence of ancient knowledge of flight."
+    },
+    {
+     "label": "Bird toy or ornament",
+     "text": "Egyptologists see it as a bird figure, possibly a toy, a votive object or a weather vane. Bird figures are common in Egyptian art, and the model has no horizontal tailplane."
+    },
+    {
+     "label": "Replica tests",
+     "text": "Glider replicas have been built and tested; they reportedly flew only poorly or after a horizontal tailplane (which the original lacks) was added, so the tests have not settled the question for supporters."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Saqqara Bird",
+     "url": "https://en.wikipedia.org/wiki/Saqqara_Bird",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Ancient astronauts",
+     "url": "https://en.wikipedia.org/wiki/Ancient_astronauts",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Photo_1-plane_front_view1.jpg/500px-Photo_1-plane_front_view1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Photo_1-plane_front_view1.jpg",
+     "author": "Dawoud Khalil Messiha",
+     "license": "Public domain",
+     "title": "Photo_1-plane_front_view1.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "anomalies"
+   ],
+   "threads": [
+    "ancient-technology",
+    "ancient-flight"
+   ]
+  },
+  {
+   "id": "helicopter-hieroglyphs",
+   "title": "The Abydos \"helicopter\" hieroglyphs",
+   "lane": "history",
+   "status": "debunked",
+   "priority": 2,
+   "start": -1290,
+   "end": null,
+   "evidenceTypes": [
+    "inscription",
+    "photographic"
+   ],
+   "mainstream": "On a ceiling beam in the Temple of Seti I at Abydos, Egypt (built about 1290–1279 BCE), a group of carved hieroglyphs looks like a helicopter, a submarine and a jet plane. Photographs spread widely online from the 1990s onwards, and the carving became a famous example in ancient-astronaut circles. Egyptologists explain it as a palimpsest: the beam was first carved with a royal title of Seti I, then the hollows were filled with plaster and recarved with a title of his son Ramesses II. Over the centuries the plaster fell out, leaving the two sets of signs overlapping, and the combined shapes happen to resemble modern machines.",
+   "alternatives": [
+    {
+     "label": "Ancient aircraft",
+     "text": "Supporters argue the shapes are too close to modern vehicles to be accidental and that they show technology seen or remembered by the ancient Egyptians."
+    },
+    {
+     "label": "Recarving explanation",
+     "text": "Egyptologists can read both inscriptions and point out that the recarving of earlier kings' names was common; the same kind of overlap is visible elsewhere in Egyptian monuments."
+    },
+    {
+     "label": "Retouched photos",
+     "text": "Some widely shared images of the panel were digitally edited to sharpen the machine-like shapes, which made the resemblance look stronger than it is on the stone."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Helicopter hieroglyphs",
+     "url": "https://en.wikipedia.org/wiki/Helicopter_hieroglyphs",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Temple of Seti I (Abydos)",
+     "url": "https://en.wikipedia.org/wiki/Temple_of_Seti_I_(Abydos)",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/AbydosFacade.jpg/500px-AbydosFacade.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:AbydosFacade.jpg",
+     "author": "Roland Unger",
+     "license": "CC BY-SA 3.0",
+     "title": "AbydosFacade.jpg"
+    }
+   ],
+   "categories": [
+    "anomalies",
+    "hoaxes",
+    "archaeology"
+   ],
+   "threads": [
+    "hoaxes-exposed",
+    "outsider-builder-claims",
+    "seeing-what-we-expect",
+    "pareidolia",
+    "ancient-flight"
+   ]
+  },
+  {
+   "id": "hatshepsut",
+   "title": "Hatshepsut: the woman who ruled as pharaoh, and the attempt to erase her",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -1479,
+   "end": -1458,
+   "evidenceTypes": [
+    "archaeological",
+    "inscription",
+    "textual",
+    "scientific (CT scanning)"
+   ],
+   "mainstream": "Hatshepsut was a ruler of Egypt's 18th Dynasty who reigned from about 1479 to 1458 BCE. First regent for her young stepson Thutmose III, she then took the full titles of a pharaoh and was often portrayed with the traditional male regalia, including a false beard. Her reign was prosperous: she built the temple at Deir el-Bahari and sent a famous trading expedition to Punt. Some decades after her death, many of her statues and images were smashed or chiselled out and her name was left off later king lists. In 2007 a mummy from tomb KV60 was identified as hers, in part because a loose molar in a box bearing her name fitted a gap in its jaw.",
+   "alternatives": [
+    {
+     "label": "Revenge",
+     "text": "An older view held that Thutmose III erased her out of hatred for a usurping stepmother; because the destruction happened late in his reign, perhaps 20 years after her death, many historians now doubt this."
+    },
+    {
+     "label": "Succession politics",
+     "text": "A widely held explanation is that the erasure was meant to secure the succession for Thutmose III's son Amenhotep II and to remove a precedent for female kingship."
+    },
+    {
+     "label": "Mummy identification",
+     "text": "The 2007 identification via the tooth and CT scans was widely reported; some specialists consider it plausible but not conclusive, as it is not based on DNA results that have been fully published."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Hatshepsut",
+     "url": "https://en.wikipedia.org/wiki/Hatshepsut",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Mortuary temple of Hatshepsut",
+     "url": "https://en.wikipedia.org/wiki/Mortuary_temple_of_Hatshepsut",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: KV60",
+     "url": "https://en.wikipedia.org/wiki/KV60",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Seated_Statue_of_Hatshepsut_MET_Hatshepsut2012_%28cropped%29.jpg/500px-Seated_Statue_of_Hatshepsut_MET_Hatshepsut2012_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Seated_Statue_of_Hatshepsut_MET_Hatshepsut2012_(cropped).jpg",
+     "author": "Unknown",
+     "license": "CC0",
+     "title": "Seated_Statue_of_Hatshepsut_MET_Hatshepsut2012_(cropped).jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology"
+   ],
+   "threads": [
+    "mummies",
+    "sacred-kingship",
+    "warrior-women",
+    "erased-from-history"
+   ]
+  },
+  {
+   "id": "pompeii",
+   "title": "Pompeii and Herculaneum: frozen moments, re-read by new science",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": 79,
+   "end": null,
+   "evidenceTypes": [
+    "archaeological",
+    "textual (Pliny the Younger)",
+    "genetic",
+    "imaging"
+   ],
+   "mainstream": "In 79 CE Mount Vesuvius erupted and buried the Roman towns of Pompeii, Herculaneum and others under ash and pyroclastic flows. Pliny the Younger described the eruption and the death of his uncle Pliny the Elder in letters to the historian Tacitus. Excavations from the 18th century onwards revealed streets, houses, graffiti and paintings; from 1863 Giuseppe Fiorelli poured plaster into the cavities left by bodies, creating the famous casts. New methods continue to change the story. A charcoal inscription found in 2018 dated to the 16th day before the Kalends of November supports an eruption in October rather than the traditional 24 August. Ancient DNA from the casts (2024) showed that some long-told stories were wrong. Since 2023 the Vesuvius Challenge has used X-ray scans and machine learning to read carbonised scrolls from Herculaneum without unrolling them.",
+   "alternatives": [
+    {
+     "label": "The eruption date",
+     "text": "The 24 August date comes from manuscript copies of Pliny's letter. Autumn fruits found in the ruins, warm clothing and the 2018 inscription point to October; some scholars still defend August."
+    },
+    {
+     "label": "Stories in the casts",
+     "text": "Guides long described the casts as mothers with children or sisters embracing. The 2024 DNA study (Pilli et al.) found, for example, that an adult holding a child was an unrelated man, showing how modern assumptions had shaped the stories."
+    },
+    {
+     "label": "Lost library",
+     "text": "Hundreds of carbonised papyri from the Villa of the Papyri, largely Epicurean philosophy (e.g. Philodemus), are being read for the first time; many hope that lost classical works will turn up as more scrolls are read."
+    }
+   ],
+   "changed": "1863: plaster casts. 2018: October inscription. 2023–24: first words and passages read from unopened Herculaneum scrolls. 2024: DNA overturns cast stories.",
+   "sources": [
+    {
+     "title": "Wikipedia: Pompeii",
+     "url": "https://en.wikipedia.org/wiki/Pompeii",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Eruption of Mount Vesuvius in 79 AD",
+     "url": "https://en.wikipedia.org/wiki/Eruption_of_Mount_Vesuvius_in_79_AD",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Herculaneum papyri",
+     "url": "https://en.wikipedia.org/wiki/Herculaneum_papyri",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Ancient DNA challenges prevailing interpretations of the Pompeii plaster casts",
+     "authors": "Pilli, E. et al.",
+     "year": 2024,
+     "doi": "10.1016/j.cub.2024.10.007",
+     "type": "paper"
+    },
+    {
+     "title": "Vesuvius Challenge",
+     "url": "https://scrollprize.org/",
+     "type": "project"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Aerial_image_of_Pompeii_and_Mount_Vesuvius_%28view_from_the_southeast%29.jpg/500px-Aerial_image_of_Pompeii_and_Mount_Vesuvius_%28view_from_the_southeast%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Aerial_image_of_Pompeii_and_Mount_Vesuvius_(view_from_the_southeast).jpg",
+     "author": "Carsten Steger",
+     "license": "CC BY-SA 4.0",
+     "title": "Aerial_image_of_Pompeii_and_Mount_Vesuvius_(view_from_the_southeast).jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "catastrophes",
+    "archaeology",
+    "science-cosmos"
+   ],
+   "threads": [
+    "changed-understanding",
+    "volcanoes-and-memory",
+    "lost-evidence",
+    "seeing-what-we-expect",
+    "earthquake-lore"
+   ]
+  },
+  {
+   "id": "eleusinian-mysteries",
+   "title": "The Eleusinian Mysteries: a secret kept for a thousand years, and a psychedelic theory",
+   "lane": "myth",
+   "status": "disputed",
+   "priority": 2,
+   "start": -600,
+   "end": 396,
+   "dateNote": "Attested from c. 7th–6th century BCE; ended c. 392–396 CE",
+   "evidenceTypes": [
+    "textual",
+    "archaeological",
+    "chemical (hypothesis)"
+   ],
+   "mainstream": "The Eleusinian Mysteries were secret initiation rites held at Eleusis near Athens in honour of Demeter and her daughter Persephone, whose descent to the underworld and return explained the seasons. They are described in the Homeric Hymn to Demeter (about 7th–6th century BCE) and drew initiates from across the Greek and later Roman world, including emperors. Initiates fasted, drank a barley drink called kykeon, and saw something in the Telesterion hall that they were forbidden to reveal; ancient writers said it removed the fear of death. The secret was kept so well that what exactly happened is still unknown. The rites ended in the late 4th century CE, after Theodosius I's measures against pagan cults and the sack of Eleusis by Alaric's Goths in 396.",
+   "alternatives": [
+    {
+     "label": "Ergot hypothesis",
+     "text": "In The Road to Eleusis (1978) R. Gordon Wasson, Albert Hofmann (who synthesised LSD) and Carl Ruck proposed that the kykeon contained ergot, a fungus on barley with LSD-like alkaloids. Brian Muraresku's The Immortality Key (2020) revived the idea. There is no direct chemical evidence from Eleusis."
+    },
+    {
+     "label": "Ritual drama",
+     "text": "Many classicists think the experience came from fasting, a night procession, darkness and sudden light, and a dramatic re-enactment of the myth, without needing drugs; the toxicity of ergot is an objection to the drug theory."
+    },
+    {
+     "label": "Origins",
+     "text": "Some scholars trace the cult back to the Mycenaean period (2nd millennium BCE); the evidence for its early origins is debated."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Eleusinian Mysteries",
+     "url": "https://en.wikipedia.org/wiki/Eleusinian_Mysteries",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Kykeon",
+     "url": "https://en.wikipedia.org/wiki/Kykeon",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Ergotism",
+     "url": "https://en.wikipedia.org/wiki/Ergotism",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/NAMA_Myst%C3%A8res_d%27Eleusis.jpg/500px-NAMA_Myst%C3%A8res_d%27Eleusis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:NAMA_Myst%C3%A8res_d%27Eleusis.jpg",
+     "author": "No machine-readable author provided. Marsyas assumed (based on copyright claims).",
+     "license": "Public domain",
+     "title": "NAMA_Mystères_d'Eleusis.jpg"
+    }
+   ],
+   "categories": [
+    "religion",
+    "myth-legend"
+   ],
+   "threads": [
+    "otherworld-visits",
+    "altered-states",
+    "secret-societies"
+   ]
+  },
+  {
+   "id": "sutton-hoo",
+   "title": "Sutton Hoo: the ghost ship of an Anglo-Saxon king",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": 625,
+   "end": null,
+   "evidenceTypes": [
+    "archaeological",
+    "chemical (phosphate)",
+    "textual (Bede)"
+   ],
+   "mainstream": "Sutton Hoo, near Woodbridge in Suffolk, England, is a cemetery of early 7th-century burial mounds. In 1939 the landowner Edith Pretty asked the self-taught local archaeologist Basil Brown to dig the mounds; in Mound 1 he found the impression of a ship about 27 metres long, its wood rotted away but its rivets still in place. The burial chamber held the richest treasure known from Anglo-Saxon England, including the Sutton Hoo helmet, a gold belt buckle, shoulder clasps with garnet cloisonné, silver from the Byzantine Empire and coins from Merovingian Gaul. No body was found because the acidic soil dissolved bone. The story was dramatised in the 2021 film The Dig.",
+   "alternatives": [
+    {
+     "label": "Rædwald",
+     "text": "The most widely accepted identification is Rædwald, king of East Anglia (died about 624), who according to Bede kept both a Christian and a pagan altar. The dating of the coins fits this."
+    },
+    {
+     "label": "Other kings",
+     "text": "Other candidates include his successors Eorpwald and Sigeberht; no inscription names the dead person."
+    },
+    {
+     "label": "Body or cenotaph?",
+     "text": "Because no remains were found, some thought the ship was a memorial without a body; phosphate tests in the 1960s supported the presence of a body that has since dissolved."
+    },
+    {
+     "label": "Rewriting the Dark Ages",
+     "text": "The find showed that early Anglo-Saxon England had sophisticated crafts and connections reaching to Byzantium, contradicting older views of a primitive Dark Age, and gave context to the poem Beowulf with its ship funeral."
+    }
+   ],
+   "changed": "1939: excavated by Basil Brown; treasure given to the British Museum by Edith Pretty.",
+   "sources": [
+    {
+     "title": "Wikipedia: Sutton Hoo",
+     "url": "https://en.wikipedia.org/wiki/Sutton_Hoo",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Basil Brown",
+     "url": "https://en.wikipedia.org/wiki/Basil_Brown",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Rædwald of East Anglia",
+     "url": "https://en.wikipedia.org/wiki/R%C3%A6dwald_of_East_Anglia",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "National Trust: Sutton Hoo",
+     "url": "https://www.nationaltrust.org.uk/visit/suffolk/sutton-hoo",
+     "type": "heritage"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Sutton_Hoo_helmet_2016.png/500px-Sutton_Hoo_helmet_2016.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Sutton_Hoo_helmet_2016.png",
+     "author": "user:Geni",
+     "license": "Public domain",
+     "title": "Sutton_Hoo_helmet_2016.png"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history"
+   ],
+   "threads": [
+    "changed-understanding",
+    "hidden-tombs",
+    "sacred-kingship",
+    "lost-treasures",
+    "rejected-pioneers"
+   ]
+  },
+  {
+   "id": "berserkers",
+   "title": "Berserkers: Norse warriors in a frenzy, mushrooms, henbane or myth?",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 872,
+   "end": null,
+   "dateNote": "Earliest mention in Hrafnsmál (late 9th century); sagas 13th century",
+   "evidenceTypes": [
+    "textual (skaldic poetry, sagas, laws)",
+    "artefact",
+    "ethnobotanical (hypothesis)"
+   ],
+   "mainstream": "In Old Norse sources, berserkers were warriors who fought in a trance-like fury. The skaldic poem Hrafnsmál, about the battle of Hafrsfjord (late 9th century), mentions berserkers and ulfheðnar (\"wolf-skins\") in King Harald Fairhair's army. Snorri Sturluson's Ynglinga saga (13th century) says Odin's warriors went without mail, were mad as dogs or wolves, bit their shields, and could not be hurt by fire or iron. Medieval Icelandic law (the Grágás) made berserk frenzy an offence. Some of the 12th-century Lewis chessmen show warders biting their shields, which is often read as a depiction of berserkers.",
+   "alternatives": [
+    {
+     "label": "Fly agaric",
+     "text": "In 1784 the Swedish priest Samuel Ödman suggested that berserkers ate fly agaric mushrooms (Amanita muscaria). The idea became popular, but critics note that the mushroom usually causes nausea and drowsiness."
+    },
+    {
+     "label": "Henbane",
+     "text": "A 2019 paper by Karsten Fatur in the Journal of Ethnopharmacology argued that henbane (Hyoscyamus niger) fits the described symptoms better; he presents it as speculation."
+    },
+    {
+     "label": "Ritual and psychology",
+     "text": "Many historians see the berserk state as a ritual or cultic warrior identity linked to bear and wolf animal cults and to Odin, possibly with self-induced rage, rather than drug use."
+    },
+    {
+     "label": "Literary exaggeration",
+     "text": "Since most detailed accounts are written centuries later, some scholars think the saga berserkers are partly literary stock characters, villains or bullies, rather than descriptions of real fighters."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Berserker",
+     "url": "https://en.wikipedia.org/wiki/Berserker",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Lewis chessmen",
+     "url": "https://en.wikipedia.org/wiki/Lewis_chessmen",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Sagas of the Solanaceae: Speculative ethnobotanical perspectives on the Norse berserkers",
+     "authors": "Fatur, K.",
+     "year": 2019,
+     "doi": "10.1016/j.jep.2019.112151",
+     "type": "paper"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/NMSLewisChessmen28.jpg/500px-NMSLewisChessmen28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:NMSLewisChessmen28.jpg",
+     "author": "National Museums Scotland",
+     "license": "CC BY-SA 4.0",
+     "title": "NMSLewisChessmen28.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "myth-legend"
+   ],
+   "threads": [
+    "shapeshifters",
+    "altered-states"
+   ]
+  },
+  {
+   "id": "uffington-white-horse",
+   "title": "The Uffington White Horse: a Bronze Age figure kept alive for 3,000 years",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -1000,
+   "end": null,
+   "dateNote": "OSL dating: c. 1380–550 BCE",
+   "evidenceTypes": [
+    "archaeological",
+    "OSL dating",
+    "oral tradition"
+   ],
+   "mainstream": "The Uffington White Horse is a highly stylised figure of a horse, about 110 metres long, cut into the chalk hillside below an Iron Age hillfort in Oxfordshire, England. It was long thought to be Iron Age, Anglo-Saxon or even 17th-century. In the 1990s, excavations by the Oxford Archaeological Unit dated the silt layers of the figure using optically stimulated luminescence (OSL) to between about 1380 and 550 BCE, making it the oldest known hill figure in Britain. It survived only because local communities regularly cleaned it (\"scouring\"), a custom that by the 18th century was accompanied by fairs and games.",
+   "alternatives": [
+    {
+     "label": "Horse or dragon?",
+     "text": "Local tradition links the figure to nearby Dragon Hill, where St George is said to have killed the dragon, and some have suggested the figure represents a dragon rather than a horse."
+    },
+    {
+     "label": "Tribal or sun symbol",
+     "text": "Archaeologists suggest it may have been a tribal emblem or connected to a sun cult; similar horse designs appear on Iron Age coins. Its meaning is unknown."
+    },
+    {
+     "label": "Chain of memory",
+     "text": "It is an unusual case of a monument that only exists because people kept maintaining it for perhaps 3,000 years, through changes of language, religion and population."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Uffington White Horse",
+     "url": "https://en.wikipedia.org/wiki/Uffington_White_Horse",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Hill figure",
+     "url": "https://en.wikipedia.org/wiki/Hill_figure",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Uffington-White-Horse-sat.jpg/500px-Uffington-White-Horse-sat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Uffington-White-Horse-sat.jpg",
+     "author": "USGS",
+     "license": "Public domain",
+     "title": "Uffington-White-Horse-sat.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "myth-legend"
+   ],
+   "threads": [
+    "changed-understanding",
+    "giant-monuments",
+    "deep-oral-memory"
+   ]
+  },
+  {
+   "id": "ulfberht",
+   "title": "Ulfberht swords: Viking blades made of steel from the East?",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 800,
+   "end": null,
+   "dateNote": "9th – 11th century CE",
+   "evidenceTypes": [
+    "artefact",
+    "metallurgical"
+   ],
+   "mainstream": "Around 170 medieval swords found mainly in northern Europe, dated from the 9th to the 11th century, carry the inlaid inscription +VLFBERH+T or similar variants. The name is Frankish, and the blades may have originated in a Rhineland workshop or brand. Metallurgical studies, notably by Alan Williams, found that some of them are made of unusually pure, high-carbon steel with very little slag, comparable to crucible steel, while others are ordinary iron, with differently spelled inscriptions, possibly copies or counterfeits. The swords were popularised by the 2012 PBS documentary Secrets of the Viking Sword.",
+   "alternatives": [
+    {
+     "label": "Steel from the East",
+     "text": "One hypothesis is that the crucible steel came from Central Asia or Iran (where crucible steel was produced) via the Volga trade route with which the Vikings were connected; this would make the best Ulfberhts a product of a long-distance trade."
+    },
+    {
+     "label": "European production",
+     "text": "Others argue that the high-quality blades could have been produced in Europe by skilled smiths using carefully selected or refined iron, without imported crucible steel."
+    },
+    {
+     "label": "Medieval counterfeits",
+     "text": "The variation in spelling and quality suggests that the name was a mark of quality that was imitated, an early example of brand counterfeiting."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Ulfberht swords",
+     "url": "https://en.wikipedia.org/wiki/Ulfberht_swords",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Crucible steel",
+     "url": "https://en.wikipedia.org/wiki/Crucible_steel",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Lorange_1889_TabI.jpg/500px-Lorange_1889_TabI.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Lorange_1889_TabI.jpg",
+     "author": "H Bucher jnr del",
+     "license": "Public domain",
+     "title": "Lorange_1889_TabI.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history",
+    "science-cosmos"
+   ],
+   "threads": [
+    "ancient-technology",
+    "knowledge-and-power"
    ]
   }
  ]

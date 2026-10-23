@@ -901,3 +901,41 @@ addt('mass-extinctions','madagascar-settlement')
 addt('giants-and-little-people','vazimba-kalanoro')
 addt('cryptids','vazimba-kalanoro')
 addt('ancestral-homelands','vazimba-kalanoro')
+# --- batch 11 part 3 (Balkans, Egypt, Greco-Roman, Anglo-Saxon/Norse)
+C.update({
+'lepenski-vir':'archaeology science-cosmos',
+'saqqara-bird':'archaeology anomalies',
+'helicopter-hieroglyphs':'anomalies hoaxes archaeology',
+'hatshepsut':'history archaeology',
+'pompeii':'history catastrophes archaeology science-cosmos',
+'eleusinian-mysteries':'religion myth-legend',
+'sutton-hoo':'archaeology history',
+'berserkers':'history myth-legend',
+'uffington-white-horse':'archaeology myth-legend',
+'ulfberht':'archaeology history science-cosmos',
+})
+addt('genetic-migrations','lepenski-vir')
+addt('changed-understanding','lepenski-vir pompeii sutton-hoo uffington-white-horse')
+addt('pareidolia','helicopter-hieroglyphs martian-canals yonaguni baltic-anomaly')
+addt('ancient-flight','saqqara-bird helicopter-hieroglyphs vimanas')
+addt('ancient-technology','saqqara-bird ulfberht')
+addt('outsider-builder-claims','helicopter-hieroglyphs')
+addt('hoaxes-exposed','helicopter-hieroglyphs')
+addt('erased-from-history','hatshepsut akhenaten')
+addt('warrior-women','hatshepsut')
+addt('sacred-kingship','hatshepsut sutton-hoo')
+addt('mummies','hatshepsut')
+addt('volcanoes-and-memory','pompeii')
+addt('earthquake-lore','pompeii')
+addt('seeing-what-we-expect','pompeii helicopter-hieroglyphs')
+addt('lost-evidence','pompeii')
+addt('altered-states','eleusinian-mysteries berserkers')
+addt('secret-societies','eleusinian-mysteries')
+addt('otherworld-visits','eleusinian-mysteries')
+addt('hidden-tombs','sutton-hoo')
+addt('lost-treasures','sutton-hoo')
+addt('rejected-pioneers','sutton-hoo')
+addt('shapeshifters','berserkers')
+addt('giant-monuments','uffington-white-horse nazca-lines')
+addt('deep-oral-memory','uffington-white-horse')
+addt('knowledge-and-power','ulfberht')
