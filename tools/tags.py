@@ -862,3 +862,42 @@ addt('secret-societies','alamut-assassins nine-unknown-men')
 addt('altered-states','alamut-assassins')
 addt('born-from-eggs','egg-born-kings pangu')
 addt('sky-beings','egg-born-kings')
+# --- batch 11 part 2 (Korea, Japan, Horn of Africa, Madagascar)
+C.update({
+'turtle-ships':'history anomalies',
+'himiko-yamatai':'history archaeology myth-legend',
+'kitsune-tamamo':'myth-legend religion',
+'takeuchi-documents':'hoaxes religion',
+'tsunami-stones':'history catastrophes',
+'namazu':'myth-legend catastrophes',
+'lucy':'science-cosmos archaeology',
+'laas-geel':'archaeology',
+'madagascar-settlement':'history science-cosmos archaeology',
+'vazimba-kalanoro':'myth-legend anomalies',
+})
+addt('ancient-technology','turtle-ships')
+addt('lost-evidence','turtle-ships')
+addt('hidden-kingdoms','himiko-yamatai')
+addt('sacred-kingship','himiko-yamatai')
+addt('hidden-tombs','himiko-yamatai')
+addt('human-sacrifice','himiko-yamatai')
+addt('shapeshifters','kitsune-tamamo')
+addt('petrified-beings','kitsune-tamamo')
+addt('volcanoes-and-memory','kitsune-tamamo')
+addt('forged-documents','takeuchi-documents kensington-runestone')
+addt('hoaxes-exposed','takeuchi-documents')
+addt('outsider-builder-claims','takeuchi-documents')
+addt('earthquake-lore','tsunami-stones namazu cascadia-1700 lisbon-1755 port-royal')
+addt('deep-oral-memory','tsunami-stones')
+addt('stories-proven-true','tsunami-stones')
+addt('serpent-beings','namazu')
+addt('millenarian-movements','namazu')
+addt('human-origins','lucy')
+addt('changed-understanding','lucy madagascar-settlement')
+addt('rain-and-drought','laas-geel')
+addt('ocean-voyagers','madagascar-settlement')
+addt('genetic-migrations','madagascar-settlement')
+addt('mass-extinctions','madagascar-settlement')
+addt('giants-and-little-people','vazimba-kalanoro')
+addt('cryptids','vazimba-kalanoro')
+addt('ancestral-homelands','vazimba-kalanoro')

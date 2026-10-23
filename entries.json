@@ -3682,7 +3682,9 @@
     "history",
     "hoaxes"
    ],
-   "threads": []
+   "threads": [
+    "forged-documents"
+   ]
   },
   {
    "id": "indus-valley",
@@ -6800,7 +6802,8 @@
     "flood-myths",
     "changed-understanding",
     "stories-proven-true",
-    "deep-oral-memory"
+    "deep-oral-memory",
+    "earthquake-lore"
    ]
   },
   {
@@ -18813,7 +18816,8 @@
    "threads": [
     "sunken-cities",
     "sea-mysteries",
-    "divine-punishment"
+    "divine-punishment",
+    "earthquake-lore"
    ]
   },
   {
@@ -19726,7 +19730,8 @@
    ],
    "threads": [
     "changed-understanding",
-    "divine-punishment"
+    "divine-punishment",
+    "earthquake-lore"
    ]
   },
   {
@@ -23158,6 +23163,649 @@
    "threads": [
     "ancient-technology",
     "water-engineering"
+   ]
+  },
+  {
+   "id": "turtle-ships",
+   "title": "Turtle ships: Korea's armoured warships and the \"first ironclad\" debate",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 1592,
+   "end": 1598,
+   "dateNote": "Mentioned 1413; famous in the Imjin War 1592–1598",
+   "evidenceTypes": [
+    "textual (Joseon annals, Yi Sun-sin's war diary)",
+    "later illustrations"
+   ],
+   "mainstream": "The geobukseon (turtle ship) was a Korean warship with a covered deck, often shown with spikes and a dragon head at the bow. Ships called gwiseon are mentioned in the Annals of the Joseon Dynasty in 1413 and 1415. An improved design was used by Admiral Yi Sun-sin against the Japanese invasions of 1592–1598 ordered by Toyotomi Hideyoshi, beginning at the Battle of Sacheon in 1592, alongside the main panokseon warships. Yi's fleet won a series of victories that cut Japanese supply lines. No original turtle ship survives, and searches for wrecks have so far not found one.",
+   "alternatives": [
+    {
+     "label": "First ironclad",
+     "text": "Popular accounts in Korea and elsewhere describe the turtle ship as the world's first ironclad, with a roof of iron plates."
+    },
+    {
+     "label": "Uncertain evidence",
+     "text": "Many historians note that Yi Sun-sin's own reports and other contemporary Korean sources do not clearly describe iron plating; later illustrations show hexagonal plates that could be iron or wood. The armour question is unresolved."
+    },
+    {
+     "label": "Lost wrecks",
+     "text": "Several surveys of the seabed near battle sites have reported possible remains, but none has been confirmed as a turtle ship."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Turtle ship",
+     "url": "https://en.wikipedia.org/wiki/Turtle_ship",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Yi Sun-sin",
+     "url": "https://en.wikipedia.org/wiki/Yi_Sun-sin",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Imjin War",
+     "url": "https://en.wikipedia.org/wiki/Imjin_War",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Korea-Tongyeong_Port-Turtle_ship_replica-01.jpg/500px-Korea-Tongyeong_Port-Turtle_ship_replica-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Korea-Tongyeong_Port-Turtle_ship_replica-01.jpg",
+     "author": "by Junho Jung at Flickr from South Korea",
+     "license": "CC BY-SA 3.0",
+     "title": "Korea-Tongyeong_Port-Turtle_ship_replica-01.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "anomalies"
+   ],
+   "threads": [
+    "ancient-technology",
+    "lost-evidence"
+   ]
+  },
+  {
+   "id": "himiko-yamatai",
+   "title": "Himiko, the shaman queen of Yamatai: Japan's lost kingdom",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 189,
+   "end": 248,
+   "dateNote": "Reigned c. 189 – c. 248 CE (per Chinese sources)",
+   "evidenceTypes": [
+    "textual (Chinese chronicles)",
+    "archaeological"
+   ],
+   "mainstream": "The Chinese Records of Wei (Wei zhi, part of the Records of the Three Kingdoms compiled by Chen Shou in the late 3rd century) describe the land of Wa (Japan) as unified under Himiko, an unmarried queen of Yamatai who \"occupied herself with magic and sorcery\" (kidō), lived secluded with a thousand female attendants and was served by her younger brother. In 238 or 239 CE she sent envoys to the Wei court, which gave her the title \"Queen of Wa, friendly to Wei\", a gold seal and a hundred bronze mirrors. When she died around 248, a large mound was raised and, the text says, over a hundred attendants followed her in death. Japan's own chronicles, the Kojiki (712) and Nihon Shoki (720), do not name her.",
+   "alternatives": [
+    {
+     "label": "Kinai (Nara) location",
+     "text": "Many archaeologists place Yamatai in the Nara basin and link Himiko to the Makimuku site and the Hashihaka kofun, an early keyhole tomb dated to the mid-3rd century; the tomb is managed by the Imperial Household Agency and cannot be excavated freely."
+    },
+    {
+     "label": "Kyushu location",
+     "text": "Others place Yamatai in northern Kyushu, pointing to the Wei zhi's itinerary and to large moated settlements such as Yoshinogari; taken literally, the itinerary's distances lead into the ocean, so both camps must correct it."
+    },
+    {
+     "label": "Identity",
+     "text": "The Nihon Shoki quotes the Wei zhi in its section on Empress Jingū, and some scholars link Himiko with figures such as Yamatototohimomosohime; none of these identifications is proven."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Himiko",
+     "url": "https://en.wikipedia.org/wiki/Himiko",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Yamatai",
+     "url": "https://en.wikipedia.org/wiki/Yamatai",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Hashihaka Kofun",
+     "url": "https://en.wikipedia.org/wiki/Hashihaka_Kofun",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Hashihaka-kofun_entrance-2.jpg/500px-Hashihaka-kofun_entrance-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Hashihaka-kofun_entrance-2.jpg",
+     "author": "Saigen Jiro",
+     "license": "CC0",
+     "title": "Hashihaka-kofun_entrance-2.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology",
+    "myth-legend"
+   ],
+   "threads": [
+    "hidden-tombs",
+    "sacred-kingship",
+    "hidden-kingdoms",
+    "human-sacrifice"
+   ]
+  },
+  {
+   "id": "kitsune-tamamo",
+   "title": "Kitsune and Tamamo-no-Mae: the nine-tailed fox and the Killing Stone",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": 1150,
+   "end": null,
+   "dateNote": "Set in the 12th century; tale written down from the 14th–17th centuries; stone split 2022",
+   "evidenceTypes": [
+    "textual (Japanese tales, Noh)",
+    "oral tradition",
+    "folk religion"
+   ],
+   "mainstream": "In Japanese folklore, kitsune are foxes with magical powers that grow more tails as they age, up to nine, and can take human form, often as beautiful women; some are benevolent messengers of the rice deity Inari, others tricksters. The idea draws on Chinese huli jing (fox spirit) lore. The most famous tale is Tamamo-no-Mae, a brilliant courtesan of a 12th-century emperor (Konoe or Toba, depending on the version) who fell mysteriously ill; the diviner Abe no Yasuchika exposed her as a nine-tailed fox, and warriors killed her on the plain of Nasu. Her body became the Sesshō-seki (Killing Stone), a rock in a volcanic area of Tochigi where poisonous gases rise. The poet Bashō visited it in 1689. On 5 March 2022 the stone was reported to have split in two, probably through weathering, and a ceremony was held to appease the spirit.",
+   "alternatives": [
+    {
+     "label": "Volcanic origin of the legend",
+     "text": "Volcanic gases (such as hydrogen sulphide) at Nasu really do kill small animals near the stone; many see the \"killing\" legend as an explanation of this natural hazard."
+    },
+    {
+     "label": "Fox possession",
+     "text": "Kitsunetsuki (fox possession) was a widely reported belief in Japan into the 20th century; psychiatrists and anthropologists have studied it as a culture-bound way of describing illness or social conflict."
+    },
+    {
+     "label": "Shared Asian motif",
+     "text": "The nine-tailed fox spirit appears in Chinese, Korean (kumiho) and Japanese tradition; the Tamamo story itself links to Chinese tales of fox consorts who ruined kings."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Kitsune",
+     "url": "https://en.wikipedia.org/wiki/Kitsune",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Tamamo-no-Mae",
+     "url": "https://en.wikipedia.org/wiki/Tamamo-no-Mae",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Sessho-seki",
+     "url": "https://en.wikipedia.org/wiki/Sessho-seki",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Tamamo-no-mae-woodblock.jpg/500px-Tamamo-no-mae-woodblock.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Tamamo-no-mae-woodblock.jpg",
+     "author": "Yoshitoshi",
+     "license": "Public domain",
+     "title": "Tamamo-no-mae-woodblock.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion"
+   ],
+   "threads": [
+    "volcanoes-and-memory",
+    "shapeshifters",
+    "petrified-beings"
+   ]
+  },
+  {
+   "id": "takeuchi-documents",
+   "title": "The Takeuchi documents and the \"Tomb of Christ\" in northern Japan",
+   "lane": "history",
+   "status": "debunked",
+   "priority": 2,
+   "start": 1935,
+   "end": null,
+   "evidenceTypes": [
+    "textual (disputed documents)",
+    "tourist site"
+   ],
+   "mainstream": "The Takeuchi documents are texts promoted in the 1920s–30s by Takeuchi Kiyomaro (Kyōmaro), founder of the Kōso Kōtai Jingū religious group, who claimed they were ancient family records written in \"divine characters\". They describe a vast prehistory in which Japan was the centre of the world and figures such as Moses, the Buddha and Jesus came to Japan to serve its emperors. In 1935 Takeuchi identified a grave mound in the village of Herai (now Shingō, Aomori) as the tomb of Christ: according to the story, Jesus studied in Japan, returned to Judea, escaped crucifixion while his brother Isukiri died in his place, and returned to Japan to live to 106. The village has held a \"Christ festival\" every June since 1964, and the site is a tourist attraction.",
+   "alternatives": [
+    {
+     "label": "Modern forgery",
+     "text": "Historian Kanō Kōkichi examined five of the documents in the 1930s and concluded they were modern forgeries; mainstream historians and linguists agree, citing anachronistic language and lack of any earlier provenance."
+    },
+    {
+     "label": "Believers",
+     "text": "A small number of followers continue to treat the documents as genuine; the shrine says the originals and sacred treasures are kept privately. The originals have not been made available for independent study."
+    },
+    {
+     "label": "A wider pattern",
+     "text": "Stories that Jesus survived or lived abroad also appear elsewhere, for example claims of his tomb at Roza Bal in Srinagar, Kashmir, and Nicolas Notovitch's 1894 \"Life of Saint Issa\" set in Tibet; these too are rejected by mainstream historians."
+    }
+   ],
+   "changed": "1935: tomb announced. 1930s: documents examined and judged forgeries. 1964 onwards: annual festival at the site.",
+   "sources": [
+    {
+     "title": "Wikipedia: Takeuchi documents",
+     "url": "https://en.wikipedia.org/wiki/Takeuchi_documents",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Kirisuto no Haka",
+     "url": "https://en.wikipedia.org/wiki/Kirisuto_no_Haka",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Shingō, Aomori",
+     "url": "https://en.wikipedia.org/wiki/Shing%C5%8D%2C_Aomori",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Tomb_of_Jesus_Christ_and_his_brother_in_Shingo_Village.jpg/500px-Tomb_of_Jesus_Christ_and_his_brother_in_Shingo_Village.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Tomb_of_Jesus_Christ_and_his_brother_in_Shingo_Village.jpg",
+     "author": "ウィキ太郎(Wiki Taro)",
+     "license": "CC0",
+     "title": "Tomb_of_Jesus_Christ_and_his_brother_in_Shingo_Village.jpg"
+    }
+   ],
+   "categories": [
+    "hoaxes",
+    "religion"
+   ],
+   "threads": [
+    "hoaxes-exposed",
+    "outsider-builder-claims",
+    "forged-documents"
+   ]
+  },
+  {
+   "id": "tsunami-stones",
+   "title": "Tsunami stones: Japan's warnings carved in rock",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1896,
+   "end": null,
+   "dateNote": "Many erected after 1896 and 1933; some much older",
+   "evidenceTypes": [
+    "inscriptions",
+    "historical records",
+    "eyewitness reports"
+   ],
+   "mainstream": "Along Japan's north-east coast stand hundreds of stone markers, some said to be over 600 years old, that record past tsunamis, list the dead or warn people where not to build. Most were set up after the 1896 Meiji Sanriku earthquake and tsunami, which killed about 22,000 people, and the 1933 Shōwa Sanriku tsunami. The stone at Aneyoshi in Miyako, Iwate, reads in part: \"High dwellings are the peace and harmony of our descendants. Remember the calamity of the great tsunamis. Do not build any homes below this point.\" In the Tōhoku tsunami of 11 March 2011 the water at Aneyoshi stopped short of the stone, and the hamlet's houses, built above it, survived; elsewhere many towns had spread below old markers, trusting sea walls.",
+   "alternatives": [
+    {
+     "label": "Generational forgetting",
+     "text": "Tohoku University disaster researcher Fumihiko Imamura has observed that \"it takes about three generations for people to forget\"; the stones are studied as an attempt to beat that forgetting."
+    },
+    {
+     "label": "Messages to the future",
+     "text": "Researchers compare tsunami stones with other long-term warnings, such as European \"hunger stones\" in river beds and proposals for markers at nuclear-waste sites meant to last 10,000 years."
+    },
+    {
+     "label": "Limits",
+     "text": "Many stones were ignored, moved or eroded; after 2011 some argued that ruined buildings should be preserved as warnings in the same way."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Tsunami stone",
+     "url": "https://en.wikipedia.org/wiki/Tsunami_stone",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: 1896 Sanriku earthquake",
+     "url": "https://en.wikipedia.org/wiki/1896_Sanriku_earthquake",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: 2011 Tōhoku earthquake and tsunami",
+     "url": "https://en.wikipedia.org/wiki/2011_T%C5%8Dhoku_earthquake_and_tsunami",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/%E5%A4%A7%E6%B4%A5%E6%B3%A2%E8%A8%98%E5%BF%B5%E7%A2%91.JPG/500px-%E5%A4%A7%E6%B4%A5%E6%B3%A2%E8%A8%98%E5%BF%B5%E7%A2%91.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:%E5%A4%A7%E6%B4%A5%E6%B3%A2%E8%A8%98%E5%BF%B5%E7%A2%91.JPG",
+     "author": "T.KISHIMOTO",
+     "license": "CC BY-SA 4.0",
+     "title": "大津波記念碑.JPG"
+    }
+   ],
+   "categories": [
+    "history",
+    "catastrophes"
+   ],
+   "threads": [
+    "stories-proven-true",
+    "deep-oral-memory",
+    "earthquake-lore"
+   ]
+  },
+  {
+   "id": "namazu",
+   "title": "Namazu: the giant catfish that shakes Japan",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 3,
+   "start": 1855,
+   "end": null,
+   "dateNote": "Belief older; namazu-e prints flourished after the 1855 Edo earthquake",
+   "evidenceTypes": [
+    "woodblock prints",
+    "folk religion",
+    "textual"
+   ],
+   "mainstream": "In Japanese folk belief, earthquakes are caused by Ōnamazu, a giant catfish living in the mud beneath the islands. The god Kashima (Takemikazuchi) keeps it pinned down with a great stone, the kaname-ishi, which visitors can still see at Kashima Shrine in Ibaraki; when the god's attention lapses, the catfish thrashes. After the Ansei Edo earthquake of 11 November 1855, which devastated Edo (Tokyo), hundreds of popular woodblock prints called namazu-e appeared, showing the catfish being punished by townspeople, apologising, or, in some prints, as an agent of \"world renewal\" (yonaoshi) that redistributed wealth from the rich to the builders and labourers who profited from reconstruction.",
+   "alternatives": [
+    {
+     "label": "Animal precursors",
+     "text": "The belief that catfish behave strangely before earthquakes has prompted scientific study in Japan; animal-behaviour precursors remain unproven, and no reliable prediction method based on them exists."
+    },
+    {
+     "label": "Social commentary",
+     "text": "Historians such as Gregory Smits read the namazu-e as political and economic commentary in late-Tokugawa Japan, expressing hopes and fears about social change."
+    },
+    {
+     "label": "World-supporting creatures",
+     "text": "Many cultures explain earthquakes by a creature carrying or under the earth, such as the Hindu world-elephants or the Greek god Poseidon \"Earth-shaker\"; namazu is the Japanese form of this pattern."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Namazu",
+     "url": "https://en.wikipedia.org/wiki/Namazu",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: 1855 Edo earthquake",
+     "url": "https://en.wikipedia.org/wiki/1855_Edo_earthquake",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Kashima Shrine",
+     "url": "https://en.wikipedia.org/wiki/Kashima_Shrine",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Namazu-e.jpg/500px-Namazu-e.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Namazu-e.jpg",
+     "author": "Unknown authorUnknown author",
+     "license": "Public domain",
+     "title": "Namazu-e.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "catastrophes"
+   ],
+   "threads": [
+    "serpent-beings",
+    "millenarian-movements",
+    "earthquake-lore"
+   ]
+  },
+  {
+   "id": "lucy",
+   "title": "Lucy (Dinkinesh): the skeleton that walked upright 3.2 million years ago",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": -3200000,
+   "end": null,
+   "dateNote": "c. 3.2 million years ago; found 1974",
+   "evidenceTypes": [
+    "fossil",
+    "geological dating"
+   ],
+   "mainstream": "On 24 November 1974, at Hadar in the Afar region of Ethiopia, Donald Johanson and Tom Gray found the first bones of a partial skeleton (AL 288-1) of Australopithecus afarensis, about 40 percent complete and dated to about 3.2 million years ago. That night the team played the Beatles' \"Lucy in the Sky with Diamonds\", and the skeleton was nicknamed Lucy; in Amharic she is Dinkinesh, \"you are marvellous\". Her pelvis and leg bones show she walked upright, while her brain was ape-sized, settling a major debate: upright walking came long before big brains. She is kept at the National Museum of Ethiopia in Addis Ababa.",
+   "alternatives": [
+    {
+     "label": "Fall from a tree",
+     "text": "A 2016 study (Kappelman and colleagues) proposed that compressive fractures in Lucy's bones show she died after falling from a tall tree; Johanson and others replied that such breaks commonly occur during fossilisation."
+    },
+    {
+     "label": "Tree climber too?",
+     "text": "Researchers debate how much time A. afarensis spent in trees: curved finger bones and strong arms suggest climbing, while the feet and hips were adapted for walking."
+    },
+    {
+     "label": "Ancestor or cousin",
+     "text": "Lucy's species is often presented as a likely ancestor of Homo, but newer finds (for example Australopithecus deyiremeda and Kenyanthropus) show several hominin species lived at the same time, making the family tree bushier and the direct line uncertain."
+    }
+   ],
+   "changed": "1974: found. 1978: species Australopithecus afarensis named. 2007–2013: toured the USA. 2016: tree-fall hypothesis published.",
+   "sources": [
+    {
+     "title": "Plio—Pleistocene hominid discoveries in Hadar, Ethiopia",
+     "authors": "Johanson, D. et al.",
+     "year": 1976,
+     "doi": "10.1038/260293a0",
+     "type": "paper"
+    },
+    {
+     "title": "Perimortem fractures in Lucy suggest mortality from fall out of tall tree",
+     "authors": "Kappelman, J. et al.",
+     "year": 2016,
+     "doi": "10.1038/nature19332",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: Lucy (hominid)",
+     "url": "https://en.wikipedia.org/wiki/Lucy_(hominid)",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Reconstruction_of_the_fossil_skeleton_of_%22Lucy%22_the_Australopithecus_afarensis.jpg/500px-Reconstruction_of_the_fossil_skeleton_of_%22Lucy%22_the_Australopithecus_afarensis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Reconstruction_of_the_fossil_skeleton_of_%22Lucy%22_the_Australopithecus_afarensis.jpg",
+     "author": "120 (Wikimedia Commons user)",
+     "license": "CC BY 2.5",
+     "title": "Reconstruction_of_the_fossil_skeleton_of_\"Lucy\"_the_Australopithecus_afarensis.jpg"
+    }
+   ],
+   "categories": [
+    "science-cosmos",
+    "archaeology"
+   ],
+   "threads": [
+    "changed-understanding",
+    "human-origins"
+   ]
+  },
+  {
+   "id": "laas-geel",
+   "title": "Laas Geel: the painted cattle of Somaliland",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -3500,
+   "end": null,
+   "dateNote": "Estimated c. 3500–2500 BCE; documented 2002",
+   "evidenceTypes": [
+    "archaeological",
+    "rock art"
+   ],
+   "mainstream": "Laas Geel is a group of rock shelters on the outskirts of Hargeisa in Somaliland whose walls are covered with vivid painted figures, mainly of humped and long-horned cattle with decorated necks and what look like ceremonial robes, together with people with raised arms, dogs and wild animals. A French archaeological team led by Xavier Gutherz documented them in 2002–2003, although local people had known of the site for centuries. The paintings are estimated to be about 5,500 to 4,500 years old and belong to an \"Ethiopian-Arabian\" rock-art style found across the Horn of Africa and southern Arabia. They are among the earliest evidence of cattle herding in the Horn.",
+   "alternatives": [
+    {
+     "label": "Cattle cult",
+     "text": "Archaeologists interpret the decorated cattle and worshipping figures as evidence of a pastoral society in which cattle had religious as well as economic importance, a pattern also seen among later herders of East Africa and in ancient Egypt."
+    },
+    {
+     "label": "Arabian links",
+     "text": "The shared style with southern Arabian rock art is read as evidence of contacts across the Red Sea and Gulf of Aden in the 4th–3rd millennia BCE; the direction and nature of the contact are debated."
+    },
+    {
+     "label": "Dating uncertainty",
+     "text": "The paintings have not been dated directly; the estimates come from style and regional context, so the age could change with new evidence."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Laas Geel",
+     "url": "https://en.wikipedia.org/wiki/Laas_Geel",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Laas_Geel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Laas_Geel.jpg",
+     "author": "Abdullah Geelah",
+     "license": "CC BY-SA 3.0",
+     "title": "Laas_Geel.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology"
+   ],
+   "threads": [
+    "rain-and-drought"
+   ]
+  },
+  {
+   "id": "madagascar-settlement",
+   "title": "The settlement of Madagascar: voyagers from Borneo to Africa's great island",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 500,
+   "end": null,
+   "dateNote": "Main settlement 1st millennium CE (earlier dates debated)",
+   "evidenceTypes": [
+    "genetic",
+    "linguistic",
+    "archaeological"
+   ],
+   "mainstream": "Madagascar was one of the last large landmasses settled by people. Its language, Malagasy, is Austronesian, and in 1951 the linguist Otto Dahl showed that its closest relative is Ma'anyan, spoken in south-east Borneo, more than 7,000 km away across the Indian Ocean. Genetic studies show that Malagasy people have roughly mixed Southeast Asian (Austronesian) and East African (Bantu) ancestry; one study (Cox and colleagues, 2012) estimated that the Asian maternal lineages trace back to a small founding group of perhaps about 30 women. Most evidence points to substantial settlement during the 1st millennium CE, followed by the extinction of the island's megafauna, including elephant birds and giant lemurs.",
+   "alternatives": [
+    {
+     "label": "Much earlier visitors?",
+     "text": "A 2018 study (Hansford and colleagues) reported cut marks on elephant-bird bones dated to around 10,500 years ago, suggesting a much older human presence; other researchers question whether the marks were made by people. The question is open."
+    },
+    {
+     "label": "How did they come?",
+     "text": "Scholars debate whether settlers sailed directly across the ocean, followed the coasts of the Indian Ocean via India and Arabia, or came in multiple waves; Austronesian outrigger technology made long voyages possible."
+    },
+    {
+     "label": "Accidental or planned",
+     "text": "Some suggest that the founding group may have been small and partly accidental (for example drifting boats); others see deliberate trade-linked voyages. Malagasy oral traditions about the first inhabitants, the Vazimba, add another layer."
+    }
+   ],
+   "sources": [
+    {
+     "title": "A small cohort of Island Southeast Asian women founded Madagascar",
+     "authors": "Cox, M. et al.",
+     "year": 2012,
+     "doi": "10.1098/rspb.2012.0012",
+     "type": "paper"
+    },
+    {
+     "title": "Early Holocene human presence in Madagascar evidenced by exploitation of avian megafauna",
+     "authors": "Hansford, J. et al.",
+     "year": 2018,
+     "doi": "10.1126/sciadv.aat6925",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: History of Madagascar",
+     "url": "https://en.wikipedia.org/wiki/History_of_Madagascar",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Malagasy language",
+     "url": "https://en.wikipedia.org/wiki/Malagasy_language",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Atlas_Van_der_Hagen-KW1049B13_070-INSULA_LAVRENTII%2C_Vulgo_MADAGASCAR.jpeg/500px-Atlas_Van_der_Hagen-KW1049B13_070-INSULA_LAVRENTII%2C_Vulgo_MADAGASCAR.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Atlas_Van_der_Hagen-KW1049B13_070-INSULA_LAVRENTII,_Vulgo_MADAGASCAR.jpeg",
+     "author": "Dirk Jansz van Santen",
+     "license": "Public domain",
+     "title": "Atlas_Van_der_Hagen-KW1049B13_070-INSULA_LAVRENTII,_Vulgo_MADAGASCAR.jpeg"
+    }
+   ],
+   "categories": [
+    "history",
+    "science-cosmos",
+    "archaeology"
+   ],
+   "threads": [
+    "changed-understanding",
+    "ocean-voyagers",
+    "mass-extinctions",
+    "genetic-migrations"
+   ]
+  },
+  {
+   "id": "vazimba-kalanoro",
+   "title": "The Vazimba and the kalanoro: Madagascar's first people and the little forest folk",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 3,
+   "start": 500,
+   "end": null,
+   "dateNote": "Undated tradition; refers to the first settlers",
+   "evidenceTypes": [
+    "oral tradition",
+    "ethnography"
+   ],
+   "mainstream": "In popular Malagasy tradition, the Vazimba were the island's first inhabitants, often described as small people who lived in the forests before later arrivals, knew no iron or rice farming, and kept cattle without eating them; their graves and the spirits of Vazimba are still honoured or feared at sacred sites, especially in the central highlands. Malagasy folklore also tells of the kalanoro, small hairy forest beings with long nails and backward-pointing feet, sometimes said to steal children, sometimes to serve people as spirit helpers and healers who speak through mediums.",
+   "alternatives": [
+    {
+     "label": "Memory of first settlers",
+     "text": "Some historians think Vazimba stories preserve memories of earlier waves of Austronesian settlers, absorbed by later arrivals; the idea that they were a distinct short-statured people has not been proven."
+    },
+    {
+     "label": "Ancestors and land",
+     "text": "Anthropologists emphasise the Vazimba's role as original \"owners of the land\" whose spirits must be respected, a role found in many cultures' stories of first peoples."
+    },
+    {
+     "label": "Cryptid or spirit",
+     "text": "Cryptozoology programmes have searched for the kalanoro as an unknown primate; mainstream researchers treat it as a folklore being, possibly influenced by memories of extinct giant lemurs. A parallel often drawn is Hawaiʻi's menehune."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Vazimba",
+     "url": "https://en.wikipedia.org/wiki/Vazimba",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Kalanoro",
+     "url": "https://en.wikipedia.org/wiki/Kalanoro",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [],
+   "categories": [
+    "myth-legend",
+    "anomalies"
+   ],
+   "threads": [
+    "cryptids",
+    "giants-and-little-people",
+    "ancestral-homelands"
    ]
   }
  ]
