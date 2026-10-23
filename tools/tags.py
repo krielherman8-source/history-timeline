@@ -939,3 +939,30 @@ addt('shapeshifters','berserkers')
 addt('giant-monuments','uffington-white-horse nazca-lines')
 addt('deep-oral-memory','uffington-white-horse')
 addt('knowledge-and-power','ulfberht')
+# --- batch 11 part 4 (20th-21st c. anomalies, hoaxes and science)
+C.update({
+'battle-of-la-1942':'ufo-alien anomalies history',
+'eddington-1919':'science-cosmos history',
+'face-on-mars':'ufo-alien anomalies science-cosmos',
+'black-knight-satellite':'ufo-alien hoaxes science-cosmos',
+'belmez-faces':'anomalies hoaxes',
+'hitler-diaries':'hoaxes history',
+'alien-autopsy':'ufo-alien hoaxes',
+'alh84001':'science-cosmos anomalies',
+'richat-structure':'science-cosmos lost-civilisations',
+'havana-syndrome':'anomalies history science-cosmos',
+})
+addt('ufo-encounters','battle-of-la-1942 face-on-mars black-knight-satellite alien-autopsy')
+addt('collective-experiences','battle-of-la-1942 havana-syndrome')
+addt('seeing-what-we-expect','battle-of-la-1942 eddington-1919 face-on-mars belmez-faces')
+addt('changed-understanding','eddington-1919 alh84001')
+addt('sky-omens','eddington-1919')
+addt('pareidolia','face-on-mars belmez-faces richat-structure')
+addt('lost-civilisations','face-on-mars richat-structure')
+addt('modern-legends','black-knight-satellite alien-autopsy battle-of-la-1942 havana-syndrome')
+addt('hoaxes-exposed','black-knight-satellite belmez-faces hitler-diaries alien-autopsy cottingley-fairies piltdown')
+addt('forged-documents','hitler-diaries')
+addt('life-beyond-earth','alh84001 face-on-mars martian-canals wow-signal')
+addt('lost-continents','richat-structure atlantis')
+addt('strange-sounds','havana-syndrome')
+addt('monster-panics','havana-syndrome')

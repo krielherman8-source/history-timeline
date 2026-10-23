@@ -2961,7 +2961,8 @@
     "anomalies"
    ],
    "threads": [
-    "ufo-encounters"
+    "ufo-encounters",
+    "life-beyond-earth"
    ]
   },
   {
@@ -22250,7 +22251,8 @@
    "threads": [
     "changed-understanding",
     "seeing-what-we-expect",
-    "pareidolia"
+    "pareidolia",
+    "life-beyond-earth"
    ]
   },
   {
@@ -24478,6 +24480,611 @@
    "threads": [
     "ancient-technology",
     "knowledge-and-power"
+   ]
+  },
+  {
+   "id": "battle-of-la-1942",
+   "title": "The \"Battle of Los Angeles\": the night the city fired at the sky",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 1942,
+   "end": null,
+   "evidenceTypes": [
+    "military records",
+    "newspaper",
+    "photographic"
+   ],
+   "mainstream": "On the night of 24–25 February 1942, less than three months after Pearl Harbor and one day after a Japanese submarine shelled an oil field near Santa Barbara, air-raid sirens sounded across Los Angeles. Searchlights swept the sky and anti-aircraft batteries fired about 1,400 shells for roughly an hour at reported enemy aircraft. No bombs fell and no aircraft were shot down; five deaths were attributed to the event (traffic accidents and heart attacks), and falling shell fragments damaged buildings. Navy Secretary Frank Knox called it a false alarm caused by \"jittery nerves\"; the Army maintained that unidentified aircraft had been present. A widely reproduced Los Angeles Times photograph shows searchlights converging on an object.",
+   "alternatives": [
+    {
+     "label": "War nerves",
+     "text": "The mainstream explanation is a false alarm in a tense wartime atmosphere, possibly triggered by a stray weather balloon, after which gun flashes and shell bursts were themselves reported as aircraft."
+    },
+    {
+     "label": "UFO",
+     "text": "From the 1980s onwards UFO writers presented the event as an encounter with an extraterrestrial craft, citing the searchlight photograph."
+    },
+    {
+     "label": "A retouched photo",
+     "text": "The newspaper photograph was heavily retouched before publication, as was common at the time; the darkroom work makes the \"object\" look more solid than in the original negative."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Battle of Los Angeles",
+     "url": "https://en.wikipedia.org/wiki/Battle_of_Los_Angeles",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Battle_of_Los_Angeles_LATimes.jpg/500px-Battle_of_Los_Angeles_LATimes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Battle_of_Los_Angeles_LATimes.jpg",
+     "author": "LA Times.",
+     "license": "Public domain",
+     "title": "Battle_of_Los_Angeles_LATimes.jpg"
+    }
+   ],
+   "categories": [
+    "ufo-alien",
+    "anomalies",
+    "history"
+   ],
+   "threads": [
+    "ufo-encounters",
+    "collective-experiences",
+    "seeing-what-we-expect",
+    "modern-legends"
+   ]
+  },
+  {
+   "id": "eddington-1919",
+   "title": "The 1919 eclipse: the day starlight proved Einstein right, or did it?",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": 1919,
+   "end": null,
+   "evidenceTypes": [
+    "astronomical observation",
+    "photographic plates"
+   ],
+   "mainstream": "General relativity, published by Albert Einstein in 1915, predicted that the Sun's gravity would bend starlight twice as much as Newtonian physics suggested. During the total solar eclipse of 29 May 1919, British expeditions led by Arthur Eddington on the island of Príncipe and by Andrew Crommelin and Charles Davidson at Sobral in Brazil photographed stars near the darkened Sun. On 6 November 1919, the Astronomer Royal Frank Dyson announced that the results supported Einstein, and the story made Einstein world-famous overnight. Later eclipse and radio-astronomy measurements have confirmed the light bending predicted by general relativity with much higher precision.",
+   "alternatives": [
+    {
+     "label": "Selected data?",
+     "text": "In 1980 philosophers John Earman and Clark Glymour argued that Eddington and Dyson had favoured the data that fitted Einstein, discarding a set of Sobral plates that gave a Newton-like value; the episode is often cited as an example of confirmation bias."
+    },
+    {
+     "label": "Vindicated",
+     "text": "A 1979 re-measurement of the Sobral plates with modern methods, and later historical analyses, concluded that the 1919 judgement was reasonable and that the discarded plates had a known focus problem."
+    },
+    {
+     "label": "Science and politics",
+     "text": "Historians note that the expedition by British scientists to test a German theory just after the First World War had symbolic importance for international science."
+    }
+   ],
+   "changed": "1919: confirmed light bending. 1980: data selection questioned. 1979 and later re-analyses: result stands.",
+   "sources": [
+    {
+     "title": "Wikipedia: Eddington experiment",
+     "url": "https://en.wikipedia.org/wiki/Eddington_experiment",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "IX. A determination of the deflection of light by the sun's gravitational field, from observations made at the total eclipse of May 29, 1919",
+     "authors": "Dyson, F. et al.",
+     "year": 1920,
+     "doi": "10.1098/rsta.1920.0009",
+     "type": "paper"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Highest_resolution_image_of_the_1919_solar_eclipse.tif/lossy-page1-500px-Highest_resolution_image_of_the_1919_solar_eclipse.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Highest_resolution_image_of_the_1919_solar_eclipse.tif",
+     "author": "ESO/Landessternwarte Heidelberg-Königstuhl/F. W. Dyson, A. S. Eddington, & C. Davidson",
+     "license": "CC BY 4.0",
+     "title": "Highest_resolution_image_of_the_1919_solar_eclipse.tif"
+    }
+   ],
+   "categories": [
+    "science-cosmos",
+    "history"
+   ],
+   "threads": [
+    "changed-understanding",
+    "sky-omens",
+    "seeing-what-we-expect"
+   ]
+  },
+  {
+   "id": "face-on-mars",
+   "title": "The Face on Mars",
+   "lane": "history",
+   "status": "debunked",
+   "priority": 1,
+   "start": 1976,
+   "end": null,
+   "evidenceTypes": [
+    "spacecraft imagery"
+   ],
+   "mainstream": "On 25 July 1976 NASA's Viking 1 orbiter photographed the Cydonia region of Mars. One image showed a mesa about 2 kilometres across which, at low resolution and with shadows falling in a particular way, looked like a human face. NASA itself mentioned the resemblance in a press release, describing it as a trick of light and shadow. Writers such as Richard C. Hoagland argued it was an artificial monument, part of a complex of ruins including pyramid-shaped hills. Higher-resolution images from Mars Global Surveyor (1998 and 2001), Mars Express (2006) and Mars Reconnaissance Orbiter showed an eroded hill with no facial features.",
+   "alternatives": [
+    {
+     "label": "Artificial monument",
+     "text": "Hoagland and others argued that the Face and nearby \"pyramids\" were built by an ancient civilisation, possibly linked to Earth, and that NASA was hiding the evidence; some still argue the later images were processed to hide features."
+    },
+    {
+     "label": "Pareidolia",
+     "text": "Scientists explain it as pareidolia, the tendency of human vision to see faces in random patterns, combined with low resolution and lighting; it is a common textbook example."
+    },
+    {
+     "label": "Cultural legacy",
+     "text": "The Face became a pop-culture icon in books, films and television and helped draw public interest to Mars exploration."
+    }
+   ],
+   "changed": "1976: Viking image. 1998, 2001, 2006: high-resolution images show an eroded mesa.",
+   "sources": [
+    {
+     "title": "Wikipedia: Cydonia (Mars)",
+     "url": "https://en.wikipedia.org/wiki/Cydonia_(Mars)",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Pareidolia",
+     "url": "https://en.wikipedia.org/wiki/Pareidolia",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Martian_face_viking.jpg/500px-Martian_face_viking.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Martian_face_viking.jpg",
+     "author": "Viking 1, NASA",
+     "license": "Public domain",
+     "title": "Martian_face_viking.jpg"
+    }
+   ],
+   "categories": [
+    "ufo-alien",
+    "anomalies",
+    "science-cosmos"
+   ],
+   "threads": [
+    "lost-civilisations",
+    "ufo-encounters",
+    "seeing-what-we-expect",
+    "pareidolia",
+    "life-beyond-earth"
+   ]
+  },
+  {
+   "id": "black-knight-satellite",
+   "title": "The Black Knight satellite: a 13,000-year-old alien probe?",
+   "lane": "history",
+   "status": "debunked",
+   "priority": 2,
+   "start": 1998,
+   "end": null,
+   "dateNote": "Pieces from 1899–1973; photographs 1998",
+   "evidenceTypes": [
+    "photographic",
+    "radio",
+    "press reports"
+   ],
+   "mainstream": "The Black Knight satellite is a modern legend that an alien spacecraft has been orbiting Earth in a near-polar orbit for about 13,000 years and that NASA is covering it up. As the Armagh Planetarium put it, it is a jumble of unrelated stories: Nikola Tesla's 1899 radio signals (probably natural), long-delayed radio echoes heard from 1928, a 1954 newspaper claim by UFO writer Donald Keyhoe about secret satellites, a dark object detected in 1960 that was identified as part of a US Discoverer satellite, and Scottish writer Duncan Lunan's 1973 speculation about an alien probe from Epsilon Boötis, which he later withdrew. The best-known photograph, taken during the 1998 Space Shuttle mission STS-88, is catalogued by NASA as space debris and is explained as a thermal blanket lost during a spacewalk.",
+   "alternatives": [
+    {
+     "label": "Alien probe",
+     "text": "Believers see the photographs and radio stories as pieces of evidence for a single ancient artificial satellite."
+    },
+    {
+     "label": "Conflation of stories",
+     "text": "Sceptics such as James Oberg and Brian Dunning show how independent, well-documented events were combined online, mostly after the 1998 photographs appeared; none of the original stories used the name Black Knight."
+    },
+    {
+     "label": "Myth-making in real time",
+     "text": "The case is studied as an example of how a modern legend is built by joining unrelated fragments, a process that may also have shaped some older myths."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Black Knight satellite conspiracy theory",
+     "url": "https://en.wikipedia.org/wiki/Black_Knight_satellite_conspiracy_theory",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: STS-88",
+     "url": "https://en.wikipedia.org/wiki/STS-88",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Black_Knight_Satellite_%28cropped%29.jpg/500px-Black_Knight_Satellite_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Black_Knight_Satellite_(cropped).jpg",
+     "author": "NASA",
+     "license": "Public domain",
+     "title": "Black_Knight_Satellite_(cropped).jpg"
+    }
+   ],
+   "categories": [
+    "ufo-alien",
+    "hoaxes",
+    "science-cosmos"
+   ],
+   "threads": [
+    "ufo-encounters",
+    "hoaxes-exposed",
+    "modern-legends"
+   ]
+  },
+  {
+   "id": "belmez-faces",
+   "title": "The faces of Bélmez",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 1971,
+   "end": null,
+   "evidenceTypes": [
+    "photographic",
+    "chemical analysis",
+    "testimony"
+   ],
+   "mainstream": "On 23 August 1971 María Gómez Cámara said that a human face had appeared on the concrete kitchen floor of her house in Bélmez de la Moraleda in Andalusia, Spain. Her family destroyed it and laid new concrete, but, they said, another face formed; the mayor forbade its destruction and the concrete was cut out for study. For about 30 years the family reported faces appearing and disappearing, and the \"House of the Faces\" attracted many visitors. It became one of the best-known paranormal cases in Spain.",
+   "alternatives": [
+    {
+     "label": "Paranormal",
+     "text": "Some parapsychologists claimed the faces were a \"thoughtographic\" phenomenon, images produced unconsciously by María Gómez Cámara's mind."
+    },
+    {
+     "label": "Paint and hoax",
+     "text": "Sceptical investigators argue the faces were painted or chemically applied. In 1993 Luis Ruiz-Noguez, writing in the Journal of the Society for Psychical Research, discussed analyses showing lead, zinc and chromium consistent with paint pigments; sociologist Manuel Martín Serrano described the case as a hoax driven by money and tourism."
+    },
+    {
+     "label": "Seeing faces",
+     "text": "Some faces are vague stains in which viewers recognise features, a pattern-seeking effect (pareidolia) that also played a part."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Bélmez Faces",
+     "url": "https://en.wikipedia.org/wiki/B%C3%A9lmez_Faces",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Cara_mujer.JPG/500px-Cara_mujer.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Cara_mujer.JPG",
+     "author": "Unknown",
+     "license": "CC BY-SA 3.0",
+     "title": "Cara_mujer.JPG"
+    }
+   ],
+   "categories": [
+    "anomalies",
+    "hoaxes"
+   ],
+   "threads": [
+    "hoaxes-exposed",
+    "seeing-what-we-expect",
+    "pareidolia"
+   ]
+  },
+  {
+   "id": "hitler-diaries",
+   "title": "The Hitler Diaries: the forgery that fooled a magazine and a historian",
+   "lane": "history",
+   "status": "debunked",
+   "priority": 2,
+   "start": 1983,
+   "end": null,
+   "evidenceTypes": [
+    "forensic (paper, ink, binding)",
+    "documentary"
+   ],
+   "mainstream": "In April 1983 the German magazine Stern announced that it had obtained Adolf Hitler's secret diaries, 60 volumes reportedly rescued from a plane crash in 1945. Stern journalist Gerd Heidemann had paid about 9 million Deutschmarks for them through Konrad Kujau, a dealer in Nazi memorabilia. The British historian Hugh Trevor-Roper initially vouched for their authenticity, and The Sunday Times bought serialisation rights. Within two weeks, the West German Federal Archives found that the paper, bindings and glue contained substances that did not exist until after the war, and the content was copied from published sources. Kujau, who had written the diaries himself, and Heidemann were convicted in 1985.",
+   "alternatives": [
+    {
+     "label": "Why experts were fooled",
+     "text": "The rush to publish, the secrecy around the deal, the desire for a sensational find, and handwriting comparisons with documents that Kujau had also forged all contributed."
+    },
+    {
+     "label": "Rewriting history",
+     "text": "Had they been accepted, the diaries would have presented a Hitler who did not know about the Holocaust; historians note the danger of forgeries that conveniently change the historical record."
+    },
+    {
+     "label": "Lasting lesson",
+     "text": "The case is still used to teach journalists and historians to check the material provenance of documents, not just their content."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Hitler Diaries",
+     "url": "https://en.wikipedia.org/wiki/Hitler_Diaries",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Konrad Kujau",
+     "url": "https://en.wikipedia.org/wiki/Konrad_Kujau",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Kujau_wiki.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Kujau_wiki.jpg",
+     "author": "Achim Necker",
+     "license": "CC BY-SA 3.0",
+     "title": "Kujau_wiki.jpg"
+    }
+   ],
+   "categories": [
+    "hoaxes",
+    "history"
+   ],
+   "threads": [
+    "hoaxes-exposed",
+    "forged-documents"
+   ]
+  },
+  {
+   "id": "alien-autopsy",
+   "title": "The Alien Autopsy film",
+   "lane": "history",
+   "status": "debunked",
+   "priority": 2,
+   "start": 1995,
+   "end": null,
+   "evidenceTypes": [
+    "film",
+    "confession"
+   ],
+   "mainstream": "In 1995 the London businessman Ray Santilli released black-and-white footage that he said showed the autopsy of an alien recovered from the 1947 Roswell crash, filmed by a US military cameraman. It was shown on television in many countries, including the Fox programme Alien Autopsy: Fact or Fiction?, and drew huge audiences. Pathologists, special-effects artists and UFO researchers raised many objections. In 2006 Santilli said the film was a \"restoration\": he claimed to have seen real footage in 1992 that had since deteriorated, and that he had recreated it in a London flat with a dummy made by the sculptor John Humphreys.",
+   "alternatives": [
+    {
+     "label": "Real footage remade",
+     "text": "Santilli still maintains that the original film existed and that his version only reproduces it; there is no independent evidence of the original film or the cameraman."
+    },
+    {
+     "label": "Staged hoax",
+     "text": "Most consider the entire story a hoax, pointing to the dummy, the absence of the claimed military film and the commercial success of the project."
+    },
+    {
+     "label": "Roswell legend",
+     "text": "The film became part of the Roswell legend and is an example of how a staged reconstruction can be accepted as documentary evidence."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Alien Autopsy",
+     "url": "https://en.wikipedia.org/wiki/Alien_Autopsy",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Ray Santilli",
+     "url": "https://en.wikipedia.org/wiki/Ray_Santilli",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Roswell incident",
+     "url": "https://en.wikipedia.org/wiki/Roswell_incident",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [],
+   "categories": [
+    "ufo-alien",
+    "hoaxes"
+   ],
+   "threads": [
+    "ufo-encounters",
+    "hoaxes-exposed",
+    "modern-legends"
+   ]
+  },
+  {
+   "id": "alh84001",
+   "title": "ALH84001: the Martian meteorite that seemed to contain fossils",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 1,
+   "start": 1996,
+   "end": null,
+   "evidenceTypes": [
+    "meteorite",
+    "microscopy",
+    "geochemical"
+   ],
+   "mainstream": "ALH84001 is a meteorite found on 27 December 1984 in the Allan Hills of Antarctica. It is a piece of the Martian crust about 4 billion years old, blasted off Mars by an impact and landing on Earth about 13,000 years ago. In August 1996 a NASA team led by David McKay published a paper in Science stating that it contained possible signs of ancient Martian life: tiny worm-like structures, carbonate globules, magnetite crystals and organic molecules (PAHs). US President Bill Clinton spoke publicly about the discovery. Over the following years most researchers concluded that each feature could have been formed without life; a 2022 study (Steele et al.) found that its organic material probably formed through reactions between rock and water on early Mars.",
+   "alternatives": [
+    {
+     "label": "Fossil microbes",
+     "text": "McKay's team and some later researchers argued that the combination of features, especially the magnetite chains resembling those made by bacteria, was best explained by biology."
+    },
+    {
+     "label": "Non-biological origin",
+     "text": "Critics argued that the structures are too small for known cells, that magnetite and carbonates form inorganically, and that some organics are terrestrial contamination."
+    },
+    {
+     "label": "A turning point",
+     "text": "Regardless of the outcome, the debate shaped astrobiology and Mars exploration, including missions that are now looking for biosignatures in Martian rocks."
+    }
+   ],
+   "changed": "1984: found. 1996: possible microfossils announced. 2022: organics explained by water–rock chemistry.",
+   "sources": [
+    {
+     "title": "Wikipedia: Allan Hills 84001",
+     "url": "https://en.wikipedia.org/wiki/Allan_Hills_84001",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Search for Past Life on Mars: Possible Relic Biogenic Activity in Martian Meteorite ALH84001",
+     "authors": "McKay, D. et al.",
+     "year": 1996,
+     "doi": "10.1126/science.273.5277.924",
+     "type": "paper"
+    },
+    {
+     "title": "Organic synthesis associated with serpentinization and carbonation on early Mars",
+     "authors": "Steele, A. et al.",
+     "year": 2022,
+     "doi": "10.1126/science.abg7905",
+     "type": "paper"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/ALH84001.jpg/500px-ALH84001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:ALH84001.jpg",
+     "author": "NASA",
+     "license": "Public domain",
+     "title": "ALH84001.jpg"
+    }
+   ],
+   "categories": [
+    "science-cosmos",
+    "anomalies"
+   ],
+   "threads": [
+    "changed-understanding",
+    "life-beyond-earth"
+   ]
+  },
+  {
+   "id": "richat-structure",
+   "title": "The Richat Structure: the \"Eye of the Sahara\" as Atlantis?",
+   "lane": "history",
+   "status": "debunked",
+   "priority": 2,
+   "start": -100000000,
+   "end": null,
+   "dateNote": "Geological formation c. 100 million years ago; Atlantis claims from c. 2018",
+   "evidenceTypes": [
+    "geological",
+    "archaeological",
+    "satellite imagery"
+   ],
+   "mainstream": "The Richat Structure (Guelb er Richât), near Ouadane in Mauritania, is a circular feature about 40 kilometres across, made of concentric rings of rock that are clearly visible from space. Geologists explain it as a deeply eroded dome, raised by an underground igneous intrusion about 100 million years ago (the carbonatite rocks date to roughly 94–104 million years) and later shaped by erosion of harder and softer rock layers. It is not an impact crater. The area contains exceptional quantities of Acheulean (Lower Palaeolithic) stone tools, showing that early humans used it long ago. It is listed among the IUGS's 100 most important geological heritage sites.",
+   "alternatives": [
+    {
+     "label": "Atlantis",
+     "text": "Since about 2018, online videos have proposed that the rings match Plato's description of Atlantis as a city of concentric rings of land and water, pointing to its size and its location relative to the Atlantic."
+    },
+    {
+     "label": "Geology and archaeology",
+     "text": "Geologists note that the rings are natural rock layers, and that there is no evidence of a large city, harbour or Bronze Age settlement; the region's archaeology is Palaeolithic tools and later Neolithic sites."
+    },
+    {
+     "label": "Ring-shaped patterns",
+     "text": "The case is an example of how a striking natural shape seen from space can be matched to an ancient description."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Richat Structure",
+     "url": "https://en.wikipedia.org/wiki/Richat_Structure",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Atlantis",
+     "url": "https://en.wikipedia.org/wiki/Atlantis",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Richat_Structure_ISS030-E-12516.jpg/500px-Richat_Structure_ISS030-E-12516.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Richat_Structure_ISS030-E-12516.jpg",
+     "author": "NASA",
+     "license": "Public domain",
+     "title": "Richat_Structure_ISS030-E-12516.jpg"
+    }
+   ],
+   "categories": [
+    "science-cosmos",
+    "lost-civilisations"
+   ],
+   "threads": [
+    "lost-civilisations",
+    "lost-continents",
+    "pareidolia"
+   ]
+  },
+  {
+   "id": "havana-syndrome",
+   "title": "Havana syndrome: an invisible weapon or something else?",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 2016,
+   "end": null,
+   "evidenceTypes": [
+    "medical studies",
+    "intelligence assessments",
+    "testimony"
+   ],
+   "mainstream": "From late 2016, US diplomats and intelligence officers in Havana, Cuba, and later in China, Europe and elsewhere, reported sudden sensations of pressure or loud sounds followed by headaches, dizziness, hearing problems and cognitive difficulties. The US government calls these \"anomalous health incidents\". Early studies suggested brain changes, and a 2020 National Academies report considered directed pulsed radiofrequency energy to be the most plausible mechanism for some cases. In March 2023 most US intelligence agencies judged it \"very unlikely\" that a foreign adversary was responsible. In 2024, studies by the US National Institutes of Health published in JAMA found no evidence of brain injury in MRI scans or biomarkers of affected people compared with controls, although the symptoms were real.",
+   "alternatives": [
+    {
+     "label": "Directed-energy weapon",
+     "text": "Some affected officials, journalists and investigators (for example a 2024 report linking the incidents to the Russian GRU unit 29155) argue that a foreign weapon was used and that the evidence is being underestimated."
+    },
+    {
+     "label": "Mixed causes",
+     "text": "Many researchers think the cases have several ordinary causes, including existing illnesses, environmental factors and stress; recordings of one Havana sound were matched to the call of a cricket."
+    },
+    {
+     "label": "Mass psychogenic illness",
+     "text": "Some experts have proposed that a shared fear spread through diplomatic communities, a pattern seen in earlier collective episodes; others strongly reject this as dismissive."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Havana syndrome",
+     "url": "https://en.wikipedia.org/wiki/Havana_syndrome",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Neuroimaging Findings in US Government Personnel and Their Family Members Involved in Anomalous Health Incidents",
+     "authors": "Pierpaoli, C. et al.",
+     "year": 2024,
+     "doi": "10.1001/jama.2024.2424",
+     "type": "paper"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Hotelnacionale.jpg/500px-Hotelnacionale.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Hotelnacionale.jpg",
+     "author": "Jongleur100",
+     "license": "Public domain",
+     "title": "Hotelnacionale.jpg"
+    }
+   ],
+   "categories": [
+    "anomalies",
+    "history",
+    "science-cosmos"
+   ],
+   "threads": [
+    "collective-experiences",
+    "strange-sounds",
+    "monster-panics",
+    "modern-legends"
    ]
   }
  ]
