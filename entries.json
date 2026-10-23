@@ -1885,7 +1885,8 @@
     "myth-legend"
    ],
    "threads": [
-    "creation-myths"
+    "creation-myths",
+    "born-from-eggs"
    ]
   },
   {
@@ -4886,7 +4887,8 @@
     "archaeology"
    ],
    "threads": [
-    "giant-monuments"
+    "giant-monuments",
+    "water-engineering"
    ]
   },
   {
@@ -7091,7 +7093,8 @@
    "threads": [
     "stories-proven-true",
     "deep-oral-memory",
-    "volcanoes-and-memory"
+    "volcanoes-and-memory",
+    "water-engineering"
    ]
   },
   {
@@ -13514,7 +13517,8 @@
    ],
    "threads": [
     "knowledge-and-power",
-    "hidden-kingdoms"
+    "hidden-kingdoms",
+    "secret-societies"
    ]
   },
   {
@@ -20193,7 +20197,8 @@
    "threads": [
     "civilisation-collapses",
     "vanished-landscapes",
-    "rain-and-drought"
+    "rain-and-drought",
+    "water-engineering"
    ]
   },
   {
@@ -22519,6 +22524,640 @@
    "threads": [
     "disappearances",
     "impostors-and-lost-heirs"
+   ]
+  },
+  {
+   "id": "zarathustra",
+   "title": "Zarathustra (Zoroaster): a prophet nobody can date",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": -1200,
+   "end": null,
+   "dateNote": "Proposed dates range from c. 1500 BCE to the 6th century BCE",
+   "evidenceTypes": [
+    "textual (Avestan, Greek)",
+    "linguistic"
+   ],
+   "mainstream": "Zarathustra (Greek Zoroaster) is the prophet of Zoroastrianism, the ancient religion of Iran centred on the wise lord Ahura Mazda and a cosmic struggle between truth (asha) and the lie (druj). The oldest texts attributed to him are the Gathas, hymns in Old Avestan preserved in the Avesta. Almost nothing about his life can be confirmed independently, and his date is one of the widest-ranging in the history of religion. Because the language of the Gathas is very close to that of the Rigveda, many linguists place him somewhere around 1500–1000 BCE; a later Zoroastrian tradition dates him \"258 years before Alexander\", i.e. around the 6th century BCE. Zoroastrianism became the main religion of the Achaemenid, Parthian and Sasanian empires and survives today among Parsis and Iranian Zoroastrians.",
+   "alternatives": [
+    {
+     "label": "Early date",
+     "text": "Many Iranists (for example Mary Boyce) place him in the late 2nd millennium BCE, among pastoral peoples of Central Asia, based on the archaic language and the society described in the Gathas."
+    },
+    {
+     "label": "Late date",
+     "text": "Others follow the traditional \"258 years before Alexander\" figure and place him in the 7th–6th century BCE, close to the rise of the Persian Empire."
+    },
+    {
+     "label": "Fabulous antiquity",
+     "text": "Some Greek writers, quoted by Pliny the Elder, placed Zoroaster thousands of years before Plato; scholars regard these figures as legendary."
+    },
+    {
+     "label": "Influence on other religions",
+     "text": "Scholars debate how far Zoroastrian ideas such as a final judgement, resurrection, a saviour figure and heaven and hell influenced post-exilic Judaism, Christianity and Islam; some see strong influence, others parallel development."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Zoroaster",
+     "url": "https://en.wikipedia.org/wiki/Zoroaster",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Gathas",
+     "url": "https://en.wikipedia.org/wiki/Gathas",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Zoroastrianism",
+     "url": "https://en.wikipedia.org/wiki/Zoroastrianism",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Yazd%2C_Templo_del_Fuego_%282000%29_02_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Yazd,_Templo_del_Fuego_(2000)_02_(cropped).jpg",
+     "author": "LBM1948",
+     "license": "CC BY-SA 4.0",
+     "title": "Yazd,_Templo_del_Fuego_(2000)_02_(cropped).jpg"
+    }
+   ],
+   "categories": [
+    "religion",
+    "history",
+    "myth-legend"
+   ],
+   "threads": [
+    "world-ages-and-resets",
+    "creation-myths",
+    "returning-saviours"
+   ]
+  },
+  {
+   "id": "jamshid-var",
+   "title": "Yima's Var: the Persian shelter built against a world-ending winter",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": -500,
+   "end": null,
+   "dateNote": "Text date uncertain (Avestan oral tradition, written down in the Sasanian era); story older",
+   "evidenceTypes": [
+    "textual (Avestan, Middle Persian, Persian epic)",
+    "oral tradition"
+   ],
+   "mainstream": "In the Vendidad (Videvdad), a Zoroastrian text in the Avesta, the god Ahura Mazda warns Yima, the first king, that terrible winters are coming that will destroy most life. He tells Yima to build a var, an enclosure, and to bring into it the seeds of the best men and women, animals, plants and fires, so that they can repopulate the world afterwards. Yima, who presides over a golden age without death or sickness, is the same figure as Jamshid in later Persian tradition, celebrated in Ferdowsi's Shahnameh (c. 1010 CE) as a great king who fell through pride. He is linguistically cognate with Yama, the first mortal and king of the dead in Indian tradition.",
+   "alternatives": [
+    {
+     "label": "Ark parallel",
+     "text": "Many writers note the similarity to Noah, Utnapishtim and Manu: a chosen survivor saves living things from a world-ending disaster; here the disaster is cold rather than water."
+    },
+    {
+     "label": "Ice Age memory?",
+     "text": "Bal Gangadhar Tilak's The Arctic Home in the Vedas (1903) used the Vendidad's winters to argue for an Arctic homeland of the early Indo-Europeans; this idea is not accepted by mainstream scholars and is regarded as speculative."
+    },
+    {
+     "label": "Mythic winter",
+     "text": "Scholars usually read the var as a mythic paradise or a cosmological story rather than a memory of a specific climate event; comparisons are drawn with the Norse Fimbulwinter before Ragnarök."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Yima",
+     "url": "https://en.wikipedia.org/wiki/Yima",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Jamshid",
+     "url": "https://en.wikipedia.org/wiki/Jamshid",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Vendidad",
+     "url": "https://en.wikipedia.org/wiki/Vendidad",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/A_monumental_portrait_of_King_Jamshid%2C_signed_by_Mihr_%E2%80%98Ali%2C_Persia%2C_Qajar%2C_dated_1218_AH_1803_AD_Sotheby%27s.jpg/500px-A_monumental_portrait_of_King_Jamshid%2C_signed_by_Mihr_%E2%80%98Ali%2C_Persia%2C_Qajar%2C_dated_1218_AH_1803_AD_Sotheby%27s.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:A_monumental_portrait_of_King_Jamshid,_signed_by_Mihr_%E2%80%98Ali,_Persia,_Qajar,_dated_1218_AH_1803_AD_Sotheby%27s.jpg",
+     "author": "Mihr 'Ali",
+     "license": "Public domain",
+     "title": "A_monumental_portrait_of_King_Jamshid,_signed_by_Mihr_‘Ali,_Persia,_Qajar,_dated_1218_AH_1803_AD_Sotheby's.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion",
+    "catastrophes"
+   ],
+   "threads": [
+    "flood-myths",
+    "world-ages-and-resets",
+    "ancestral-homelands"
+   ]
+  },
+  {
+   "id": "cyrus-cylinder",
+   "title": "The Cyrus Cylinder: the \"first charter of human rights\"?",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -539,
+   "end": null,
+   "evidenceTypes": [
+    "archaeological",
+    "inscription",
+    "textual"
+   ],
+   "mainstream": "The Cyrus Cylinder is a clay cylinder inscribed in Akkadian cuneiform, made after Cyrus the Great of Persia captured Babylon in 539 BCE. It was found in 1879 by Hormuzd Rassam at Babylon and is in the British Museum. In the traditional style of Mesopotamian building inscriptions, it condemns the previous king Nabonidus, presents Cyrus as chosen by the god Marduk, and describes him restoring temples and returning deported peoples and their gods to their homes. In 2010 the British Museum identified fragments of copies of the same text on tablets in its collection. The Hebrew Bible (Ezra) also credits Cyrus with allowing exiled Jews to return to Jerusalem and rebuild the Temple, although the cylinder does not mention Jews.",
+   "alternatives": [
+    {
+     "label": "Human-rights charter",
+     "text": "In 1971 the Shah of Iran promoted the cylinder as \"the first charter of human rights\", and a replica is displayed at the United Nations; this view remains popular in Iran and elsewhere."
+    },
+    {
+     "label": "Royal propaganda",
+     "text": "Most historians see it as a skilful piece of Mesopotamian royal propaganda in a long-established genre, legitimising a foreign conqueror; it does not set out universal rights."
+    },
+    {
+     "label": "Biblical connection",
+     "text": "Scholars debate whether the cylinder's general policy of repatriation supports the Bible's account of a decree for the Jews (Ezra 1 and 6) or only shows that such a policy was plausible."
+    }
+   ],
+   "changed": "1879: found at Babylon. 1971: promoted as a human-rights charter. 2010: further copies of the text identified.",
+   "sources": [
+    {
+     "title": "Wikipedia: Cyrus Cylinder",
+     "url": "https://en.wikipedia.org/wiki/Cyrus_Cylinder",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Cyrus_Cylinder_front.jpg/500px-Cyrus_Cylinder_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Cyrus_Cylinder_front.jpg",
+     "author": "Prioryman",
+     "license": "CC BY-SA 3.0",
+     "title": "Cyrus_Cylinder_front.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology",
+    "religion"
+   ],
+   "threads": [
+    "changed-understanding",
+    "knowledge-and-power",
+    "sacred-kingship"
+   ]
+  },
+  {
+   "id": "cambyses-army",
+   "title": "The lost army of Cambyses: 50,000 men swallowed by the desert?",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": -524,
+   "end": null,
+   "dateNote": "c. 524 BCE",
+   "evidenceTypes": [
+    "textual (Herodotus)",
+    "archaeological claims"
+   ],
+   "mainstream": "According to Herodotus (Histories 3.26), the Persian king Cambyses II, after conquering Egypt, sent 50,000 soldiers from Thebes to attack the Ammonians of the Siwa oasis and burn the oracle of Amun. The army reached an oasis seven days' march into the desert, then vanished: the Ammonians said a great southern wind buried it under sand. No trace of the army has been confirmed, and the story has become one of the desert's best-known mysteries.",
+   "alternatives": [
+    {
+     "label": "Buried by a sandstorm",
+     "text": "The traditional view takes Herodotus at face value. In 2009 Italian explorers Angelo and Alfredo Castiglioni announced finds of bones, weapons and other objects they linked to the army; these claims were widely reported but not confirmed in peer-reviewed archaeology, and Egyptian authorities were sceptical."
+    },
+    {
+     "label": "Defeated, not buried",
+     "text": "Egyptologist Olaf Kaper (Leiden) argued in 2014 that the army was in fact defeated by an Egyptian rebel leader, Petubastis III, and that the sandstorm tale was later Persian face-saving; this is a hypothesis based on inscriptions from the Dakhla oasis."
+    },
+    {
+     "label": "Exaggeration",
+     "text": "Other historians suggest that the size of the army, or the whole episode, may be exaggerated in Herodotus, who wrote around 70 years later and portrays Cambyses as mad."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Lost Army of Cambyses",
+     "url": "https://en.wikipedia.org/wiki/Lost_Army_of_Cambyses",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Petubastis III",
+     "url": "https://en.wikipedia.org/wiki/Petubastis_III",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Cambyses_II-lost-army.jpg/500px-Cambyses_II-lost-army.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Cambyses_II-lost-army.jpg",
+     "author": "from: Jacob Abbott Makers of History: Darius the Great. page 35",
+     "license": "Public domain",
+     "title": "Cambyses_II-lost-army.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "anomalies",
+    "catastrophes"
+   ],
+   "threads": [
+    "disappearances",
+    "lost-evidence"
+   ]
+  },
+  {
+   "id": "alamut-assassins",
+   "title": "Alamut and the Assassins: hashish gardens and the Old Man of the Mountain",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 1090,
+   "end": 1256,
+   "dateNote": "1090–1256 (Alamut period)",
+   "evidenceTypes": [
+    "textual (Persian, Arabic, Crusader, Marco Polo)",
+    "archaeological"
+   ],
+   "mainstream": "In 1090 the Ismaili missionary Hasan-i Sabbah took the mountain fortress of Alamut in northern Iran and founded the Nizari Ismaili state, a network of castles in Iran and Syria that survived until the Mongols took Alamut in 1256. Facing far larger Seljuk armies, the Nizaris used targeted killings of political and military leaders, which made them notorious. Their enemies called them hashishiyya, a term of abuse that reached Europe through the Crusaders as \"Assassins\". The Mongols destroyed Alamut's famous library, though the historian Juvayni saved some works first.",
+   "alternatives": [
+    {
+     "label": "Hashish and paradise legend",
+     "text": "Marco Polo (c. 1300) and Crusader writers described the \"Old Man of the Mountain\" drugging young men and placing them in a secret garden of paradise so they would die for him; tales also told of followers leaping to their deaths on command."
+    },
+    {
+     "label": "Legends of enemies",
+     "text": "Modern historians of the Ismailis, notably Farhad Daftary, argue that these \"Assassin legends\" were invented or embellished by hostile Sunni and Crusader writers and that there is no evidence the Nizaris used hashish."
+    },
+    {
+     "label": "Lasting myth",
+     "text": "The legends shaped the word \"assassin\" in European languages and modern fiction; the Nizari Ismaili community continues today under the Aga Khan."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Order of Assassins",
+     "url": "https://en.wikipedia.org/wiki/Order_of_Assassins",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Alamut Castle",
+     "url": "https://en.wikipedia.org/wiki/Alamut_Castle",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Hasan-i Sabbah",
+     "url": "https://en.wikipedia.org/wiki/Hasan-i_Sabbah",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Iran_-_Qazvin_-_Alamout_Castle_-_panoramio_%281%29.jpg/500px-Iran_-_Qazvin_-_Alamout_Castle_-_panoramio_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Iran_-_Qazvin_-_Alamout_Castle_-_panoramio_(1).jpg",
+     "author": "Alireza Javaheri",
+     "license": "CC BY 3.0",
+     "title": "Iran_-_Qazvin_-_Alamout_Castle_-_panoramio_(1).jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "myth-legend",
+    "religion"
+   ],
+   "threads": [
+    "knowledge-and-power",
+    "lost-evidence",
+    "altered-states",
+    "secret-societies"
+   ]
+  },
+  {
+   "id": "jikji",
+   "title": "Jikji: the oldest surviving book printed with movable metal type, 78 years before Gutenberg",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1377,
+   "end": null,
+   "evidenceTypes": [
+    "textual",
+    "bibliographic",
+    "museum collection"
+   ],
+   "mainstream": "Jikji (in full Baegun Hwasang Chorok Buljo Jikji Simche Yojeol) is a Korean anthology of Zen (Seon) Buddhist teachings printed with movable metal type at Heungdeok temple near Cheongju in 1377, during the Goryeo dynasty. It is the oldest existing book printed with movable metal type, about 78 years older than the Gutenberg Bible. Only the second of its two volumes survives; it was acquired in Korea in the late 19th century by the French diplomat Victor Collin de Plancy and is held by the Bibliothèque nationale de France, where the Korean scholar Park Byeong-seon identified its significance in 1972. It was added to UNESCO's Memory of the World Register in 2001.",
+   "alternatives": [
+    {
+     "label": "East Asian priority",
+     "text": "Movable type itself was invented earlier in China by Bi Sheng (c. 1040, ceramic type), and Korean records describe metal-type printing in the 13th century, but no earlier metal-type books survive."
+    },
+    {
+     "label": "Did it reach Europe?",
+     "text": "Some writers have suggested that knowledge of East Asian printing reached Gutenberg through trade or travellers; there is no direct evidence, and most historians see European printing as an independent development. This connection remains speculative."
+    },
+    {
+     "label": "Ownership",
+     "text": "Korea has sought the return of Jikji; France holds it as legally acquired. The dispute is part of a wider debate about cultural heritage held abroad."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Jikji",
+     "url": "https://en.wikipedia.org/wiki/Jikji",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Movable type",
+     "url": "https://en.wikipedia.org/wiki/Movable_type",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Jikji_pages.jpg/500px-Jikji_pages.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Jikji_pages.jpg",
+     "author": "Unknown authorUnknown author",
+     "license": "Public domain",
+     "title": "Jikji_pages.jpg"
+    }
+   ],
+   "categories": [
+    "history"
+   ],
+   "threads": [
+    "knowledge-and-power"
+   ]
+  },
+  {
+   "id": "egg-born-kings",
+   "title": "Korea's egg-born kings: Jumong, Bak Hyeokgeose and Kim Suro",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": -57,
+   "end": null,
+   "dateNote": "Traditional dates 57 BCE (Silla), 37 BCE (Goguryeo), 42 CE (Gaya)",
+   "evidenceTypes": [
+    "textual (Korean chronicles)",
+    "inscription",
+    "oral tradition"
+   ],
+   "mainstream": "Korean founding legends repeatedly describe kings hatched from eggs. Jumong (Dongmyeong), founder of Goguryeo (traditionally 37 BCE), was born from an egg laid by Lady Yuhwa, daughter of the river god Habaek, after she was touched by sunlight. Bak Hyeokgeose, founder of Silla (traditionally 57 BCE), hatched from a large egg found beside a well where a white horse knelt. Kim Suro, founder of Geumgwan Gaya (traditionally 42 CE), came from one of six golden eggs lowered from the sky in a box. The stories are recorded in the Samguk sagi (1145) and Samguk yusa (late 13th century); the Gwanggaeto Stele of 414 CE already states that Goguryeo's founder came out of an egg.",
+   "alternatives": [
+    {
+     "label": "Sacred kingship",
+     "text": "Scholars read the eggs as markers of heavenly origin that legitimised royal lineages, linking rulers to the sun or sky; similar motifs appear in Manchurian and other north-east Asian traditions."
+    },
+    {
+     "label": "Wider pattern",
+     "text": "Egg births are widespread in world myth: the cosmic egg of Pangu, the Hindu Hiranyagarbha, the Orphic egg, Leda's eggs in Greek myth; whether these reflect diffusion or independent invention is debated."
+    },
+    {
+     "label": "Historical kernel",
+     "text": "Historians accept that Goguryeo, Silla and Gaya were real states, but the traditional founding dates, especially Silla's early date, are considered unreliable."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Dongmyeong of Goguryeo",
+     "url": "https://en.wikipedia.org/wiki/Dongmyeong_of_Goguryeo",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Hyeokgeose of Silla",
+     "url": "https://en.wikipedia.org/wiki/Hyeokgeose_of_Silla",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Suro of Geumgwan Gaya",
+     "url": "https://en.wikipedia.org/wiki/Suro_of_Geumgwan_Gaya",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Gwanggaeto Stele",
+     "url": "https://en.wikipedia.org/wiki/Gwanggaeto_Stele",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/%EC%B4%88%EB%93%B1%EB%8C%80%ED%95%9C%EC%97%AD%EC%82%AC_%EC%A0%9C2%ED%8E%B8_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:%EC%B4%88%EB%93%B1%EB%8C%80%ED%95%9C%EC%97%AD%EC%82%AC_%EC%A0%9C2%ED%8E%B8_2.jpg",
+     "author": "Original: Jeong Inho\n\nTranscription: History Net, National Institute of Korean History",
+     "license": "Public domain",
+     "title": "초등대한역사_제2편_2.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "history"
+   ],
+   "threads": [
+    "sky-beings",
+    "sacred-kingship",
+    "born-from-eggs"
+   ]
+  },
+  {
+   "id": "shahr-e-sukhteh",
+   "title": "Shahr-e Sukhteh, the \"Burnt City\": an artificial eye and a 5,000-year-old animation?",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -3200,
+   "end": -2000,
+   "dateNote": "c. 3200 – c. 2000 BCE",
+   "evidenceTypes": [
+    "archaeological",
+    "UNESCO documentation"
+   ],
+   "mainstream": "Shahr-e Sukhteh (\"Burnt City\") in Sistan and Baluchestan, south-east Iran, was a large Bronze Age urban settlement occupied from about 3200 BCE until roughly 2000 BCE, and burned several times during its history. Excavations since the 1960s (Italian and later Iranian teams) found evidence of crafts, long-distance trade with Mesopotamia, Central Asia and the Indus, and well-preserved organic remains. Famous finds include an artificial eyeball found in 2006 with the skeleton of a tall woman, dated about 2900–2800 BCE, a game board with dice, and an earthenware goblet painted with a series of images of a goat leaping towards a tree. It was inscribed as a UNESCO World Heritage Site in 2014.",
+   "alternatives": [
+    {
+     "label": "First animation?",
+     "text": "When the goblet's five images are viewed in sequence they appear to show the goat leaping; Iranian archaeologists have called it the earliest known animation. Others think the repetition is decorative and that calling it animation is a modern reading."
+    },
+    {
+     "label": "Ancient surgery",
+     "text": "Excavators have reported a child's skull with signs of surgery, presented as early brain surgery; these claims are discussed mainly in Iranian publications and press reports and are less widely examined in international literature."
+    },
+    {
+     "label": "Lost civilisation?",
+     "text": "Together with Jiroft, Shahr-e Sukhteh is cited as evidence of a sophisticated eastern Iranian Bronze Age culture largely unknown before the late 20th century; it is a lost civilisation in the sense of being forgotten, not mysterious."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Shahr-e Sukhteh",
+     "url": "https://en.wikipedia.org/wiki/Shahr-e_Sukhteh",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "UNESCO World Heritage: Shahr-i Sokhta",
+     "url": "https://whc.unesco.org/en/list/1456/",
+     "type": "heritage"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/C20R1002.jpg/500px-C20R1002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:C20R1002.jpg",
+     "author": "Amirkhan33",
+     "license": "CC BY-SA 4.0",
+     "title": "C20R1002.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history",
+    "lost-civilisations"
+   ],
+   "threads": [
+    "lost-civilisations",
+    "ancient-technology"
+   ]
+  },
+  {
+   "id": "behistun",
+   "title": "The Behistun inscription: a king's cliff boast that unlocked cuneiform, and the impostor he killed",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -520,
+   "end": null,
+   "evidenceTypes": [
+    "inscription",
+    "textual"
+   ],
+   "mainstream": "At Mount Behistun (Bisotun) in western Iran, about 100 metres up a limestone cliff above an ancient road, Darius I of Persia had a relief and a long inscription carved around 520 BCE in three languages and scripts: Old Persian, Elamite and Babylonian (Akkadian). It tells how Darius came to power after defeating Gaumata, a Magian priest who, he says, had pretended to be Bardiya (Smerdis), the brother of the previous king Cambyses. Copied at great risk by Henry Rawlinson between 1835 and 1847, the trilingual text became the key to deciphering cuneiform, much as the Rosetta Stone was for Egyptian hieroglyphs. In 1857 the Royal Asiatic Society asked four scholars (Rawlinson, Edward Hincks, Julius Oppert and William Henry Fox Talbot) to translate a newly found Assyrian text independently; their versions agreed closely, convincing the public that Akkadian could be read.",
+   "alternatives": [
+    {
+     "label": "Darius's account",
+     "text": "Darius says the real Bardiya had been secretly killed by Cambyses and that Gaumata was an impostor; Herodotus tells a similar story of a false Smerdis."
+    },
+    {
+     "label": "Usurper's propaganda?",
+     "text": "Many historians suggest that Darius himself may have killed the genuine Bardiya and invented the impostor story to justify a usurpation; the evidence allows both readings."
+    },
+    {
+     "label": "Decipherment",
+     "text": "The 1857 translation test is often described as one of the first deliberate tests of a decipherment; the convergence of the four versions is still cited as evidence that cuneiform was really understood."
+    }
+   ],
+   "changed": "c. 520 BCE: carved. 1835–47: copied by Rawlinson. 1857: independent translation test confirms cuneiform decipherment.",
+   "sources": [
+    {
+     "title": "Wikipedia: Behistun inscription",
+     "url": "https://en.wikipedia.org/wiki/Behistun_inscription",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "UNESCO World Heritage: Bisotun",
+     "url": "https://whc.unesco.org/en/list/1222/",
+     "type": "heritage"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/%DA%A9%D8%AA%DB%8C%D8%A8%D9%87_%D8%AF%D8%A7%D8%B1%DB%8C%D9%88%D8%B4_%28_%D8%A8%DB%8C%D8%B3%D8%AA%D9%88%D9%86%28.jpg/500px-%DA%A9%D8%AA%DB%8C%D8%A8%D9%87_%D8%AF%D8%A7%D8%B1%DB%8C%D9%88%D8%B4_%28_%D8%A8%DB%8C%D8%B3%D8%AA%D9%88%D9%86%28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:%DA%A9%D8%AA%DB%8C%D8%A8%D9%87_%D8%AF%D8%A7%D8%B1%DB%8C%D9%88%D8%B4_(_%D8%A8%DB%8C%D8%B3%D8%AA%D9%88%D9%86(.jpg",
+     "author": "Korosh.091",
+     "license": "CC BY-SA 4.0",
+     "title": "کتیبه_داریوش_(_بیستون(.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology"
+   ],
+   "threads": [
+    "changed-understanding",
+    "origins-of-writing",
+    "sacred-kingship",
+    "impostors-and-lost-heirs"
+   ]
+  },
+  {
+   "id": "qanats",
+   "title": "Qanats: Persia's underground rivers and their world-wide spread",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -800,
+   "end": null,
+   "dateNote": "Early 1st millennium BCE onwards; still in use",
+   "evidenceTypes": [
+    "archaeological",
+    "textual",
+    "UNESCO documentation"
+   ],
+   "mainstream": "A qanat is a gently sloping underground tunnel that taps groundwater at the foot of hills and carries it by gravity, sometimes for tens of kilometres, to fields and towns, with a line of vertical shafts for digging and maintenance. Developed in Iran in the early 1st millennium BCE (or possibly earlier), the technique spread under the Persian empires and later Islamic and other states, from Oman (aflaj) and North Africa (foggaras) to Spain and the Turpan oasis in China (karez). The Qasabeh qanat at Gonabad, said to date from c. 700–500 BCE, has 427 wells and a total length of about 33 km. Eleven Iranian qanats were inscribed by UNESCO as \"The Persian Qanat\" in 2016.",
+   "alternatives": [
+    {
+     "label": "Where invented?",
+     "text": "Most scholars credit Iran, but some archaeologists argue that similar systems in south-east Arabia (the UAE and Oman) date to the early Iron Age and may have developed independently or earlier; the dating evidence is debated."
+    },
+    {
+     "label": "Water and empire",
+     "text": "Historians link qanats to Achaemenid policy: Polybius records that the Persians granted tax privileges to those who brought water to dry land, and Persian engineers built qanats in Egypt's Kharga oasis."
+    },
+    {
+     "label": "Fossil water",
+     "text": "Like the Garamantes' foggaras in the Sahara, qanats can deplete ancient groundwater; many have dried up in recent decades as deep pumped wells lower the water table."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Qanat",
+     "url": "https://en.wikipedia.org/wiki/Qanat",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Qanats of Ghasabeh",
+     "url": "https://en.wikipedia.org/wiki/Qanats_of_Ghasabeh",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "UNESCO World Heritage: The Persian Qanat",
+     "url": "https://whc.unesco.org/en/list/1506/",
+     "type": "heritage"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Ghasabe_Qanats_of_Gonabad2.jpg/500px-Ghasabe_Qanats_of_Gonabad2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Ghasabe_Qanats_of_Gonabad2.jpg",
+     "author": "Tavasoli mohsen",
+     "license": "CC BY-SA 4.0",
+     "title": "Ghasabe_Qanats_of_Gonabad2.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology"
+   ],
+   "threads": [
+    "ancient-technology",
+    "water-engineering"
    ]
   }
  ]

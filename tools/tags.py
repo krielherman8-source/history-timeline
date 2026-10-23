@@ -830,3 +830,35 @@ addt('seeing-what-we-expect','martian-canals n-rays mystery-airships devils-foot
 addt('volcanoes-and-memory','krakatoa-1883')
 addt('impostors-and-lost-heirs','kaspar-hauser')
 addt('disappearances','kaspar-hauser')
+# --- batch 11 part 1 (Iran/Persia, Korea)
+C.update({
+'zarathustra':'religion history myth-legend',
+'jamshid-var':'myth-legend religion catastrophes',
+'shahr-e-sukhteh':'archaeology history lost-civilisations',
+'behistun':'history archaeology',
+'cyrus-cylinder':'history archaeology religion',
+'cambyses-army':'history anomalies catastrophes',
+'qanats':'history archaeology',
+'alamut-assassins':'history myth-legend religion',
+'jikji':'history',
+'egg-born-kings':'myth-legend history',
+})
+addt('creation-myths','zarathustra')
+addt('world-ages-and-resets','zarathustra jamshid-var')
+addt('returning-saviours','zarathustra')
+addt('flood-myths','jamshid-var')
+addt('ancestral-homelands','jamshid-var')
+addt('lost-civilisations','shahr-e-sukhteh')
+addt('ancient-technology','shahr-e-sukhteh qanats')
+addt('origins-of-writing','behistun')
+addt('changed-understanding','behistun cyrus-cylinder')
+addt('impostors-and-lost-heirs','behistun')
+addt('sacred-kingship','behistun cyrus-cylinder egg-born-kings')
+addt('knowledge-and-power','cyrus-cylinder jikji alamut-assassins')
+addt('disappearances','cambyses-army')
+addt('lost-evidence','cambyses-army alamut-assassins')
+addt('water-engineering','qanats garamantes budj-bim angkor')
+addt('secret-societies','alamut-assassins nine-unknown-men')
+addt('altered-states','alamut-assassins')
+addt('born-from-eggs','egg-born-kings pangu')
+addt('sky-beings','egg-born-kings')
