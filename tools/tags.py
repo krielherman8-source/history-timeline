@@ -1004,3 +1004,40 @@ addt('deep-oral-memory','cantre-gwaelod')
 addt('flood-myths','cantre-gwaelod ys')
 addt('divine-punishment','ys cantre-gwaelod')
 addt('strange-sounds','cantre-gwaelod ys')
+# --- batch 12 part 2 (Baltic/Finnic world, Armenia and Georgia)
+C.update({
+'kaali-crater':'science-cosmos catastrophes myth-legend archaeology',
+'sampo':'myth-legend',
+'lithuania-last-pagans':'history religion',
+'sami-drums':'history religion',
+'amber-road':'history archaeology myth-legend',
+'areni-1':'archaeology history',
+'zorats-karer':'archaeology science-cosmos anomalies',
+'amirani':'myth-legend religion',
+'golden-fleece':'myth-legend history',
+'vishap-stones':'archaeology religion myth-legend',
+})
+addt('suppressed-beliefs','sami-drums lithuania-last-pagans druids')
+addt('trade-networks','amber-road golden-fleece kilwa zheng-he mansa-musa shahr-e-sukhteh punt srivijaya rai-stones')
+addt('sleeping-heroes','amirani')
+addt('cosmic-impacts','kaali-crater')
+addt('sky-omens','kaali-crater')
+addt('deep-oral-memory','kaali-crater amirani')
+addt('ancient-astronomy','zorats-karer sampo')
+addt('giant-monuments','zorats-karer vishap-stones')
+addt('serpent-beings','vishap-stones')
+addt('water-engineering','vishap-stones')
+addt('rain-and-drought','vishap-stones')
+addt('creation-myths','sampo')
+addt('lost-treasures','sampo golden-fleece')
+addt('knowledge-and-power','sampo amirani')
+addt('altered-states','sami-drums')
+addt('sacred-relics','sami-drums')
+addt('ocean-voyagers','golden-fleece')
+addt('stories-proven-true','golden-fleece kaali-crater')
+addt('changed-understanding','areni-1')
+addt('seeing-what-we-expect','zorats-karer')
+addt('outsider-builder-claims','zorats-karer')
+addt('divine-punishment','amirani amber-road')
+addt('sleeping-heroes','arthur seven-sleepers kitezh')
+addt('suppressed-beliefs','ghost-dance')

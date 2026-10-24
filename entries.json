@@ -2013,7 +2013,8 @@
     "history"
    ],
    "threads": [
-    "returning-saviours"
+    "returning-saviours",
+    "sleeping-heroes"
    ]
   },
   {
@@ -4442,7 +4443,9 @@
    "categories": [
     "history"
    ],
-   "threads": []
+   "threads": [
+    "trade-networks"
+   ]
   },
   {
    "id": "benin-bronzes",
@@ -6090,7 +6093,9 @@
     "history",
     "archaeology"
    ],
-   "threads": []
+   "threads": [
+    "trade-networks"
+   ]
   },
   {
    "id": "timbuktu-manuscripts",
@@ -6426,7 +6431,8 @@
     "hoaxes"
    ],
    "threads": [
-    "ocean-voyagers"
+    "ocean-voyagers",
+    "trade-networks"
    ]
   },
   {
@@ -8586,7 +8592,8 @@
     "archaeology"
    ],
    "threads": [
-    "ocean-voyagers"
+    "ocean-voyagers",
+    "trade-networks"
    ]
   },
   {
@@ -16755,7 +16762,8 @@
     "lost-civilisations",
     "changed-understanding",
     "ocean-voyagers",
-    "civilisation-collapses"
+    "civilisation-collapses",
+    "trade-networks"
    ]
   },
   {
@@ -17041,7 +17049,8 @@
    "threads": [
     "giant-monuments",
     "deep-oral-memory",
-    "ocean-voyagers"
+    "ocean-voyagers",
+    "trade-networks"
    ]
   },
   {
@@ -21116,7 +21125,8 @@
    "threads": [
     "sky-omens",
     "returning-saviours",
-    "millenarian-movements"
+    "millenarian-movements",
+    "suppressed-beliefs"
    ]
   },
   {
@@ -21435,7 +21445,8 @@
    "threads": [
     "sunken-cities",
     "hidden-kingdoms",
-    "strange-sounds"
+    "strange-sounds",
+    "sleeping-heroes"
    ]
   },
   {
@@ -21779,7 +21790,8 @@
    ],
    "threads": [
     "otherworld-visits",
-    "time-slips"
+    "time-slips",
+    "sleeping-heroes"
    ]
   },
   {
@@ -23059,7 +23071,8 @@
    ],
    "threads": [
     "lost-civilisations",
-    "ancient-technology"
+    "ancient-technology",
+    "trade-networks"
    ]
   },
   {
@@ -25597,7 +25610,8 @@
     "changed-understanding",
     "human-sacrifice",
     "secret-societies",
-    "forged-documents"
+    "forged-documents",
+    "suppressed-beliefs"
    ]
   },
   {
@@ -25782,6 +25796,657 @@
     "vanished-landscapes",
     "strange-sounds",
     "divine-punishment"
+   ]
+  },
+  {
+   "id": "kaali-crater",
+   "title": "Kaali: a Bronze Age meteorite strike on an Estonian island, and a sacred lake",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -1500,
+   "end": null,
+   "dateNote": "Impact shortly after c. 1530–1450 BCE (other estimates differ)",
+   "evidenceTypes": [
+    "geological",
+    "archaeological",
+    "folklore"
+   ],
+   "mainstream": "Kaali, on the Estonian island of Saaremaa, is a group of nine meteorite craters. The largest is about 110 m across and 22 m deep and holds a small round lake; the other eight are 12–40 m wide and all lie within a kilometre. The latest estimates date the impact to shortly after 1530–1450 BCE, when the island was already inhabited. The impact released energy roughly comparable to the Hiroshima bomb (about 20 kilotons of TNT) and burned forest for several kilometres around. Until the 1930s some thought the crater was volcanic or a sinkhole; Ivan Reinvald showed in 1928–1937 that it was made by a meteorite. Excavations in 1976–79 found a fortified settlement and a stone wall around the lake, with animal bones (horses, dogs, sheep, pigs, oxen) that may be sacrifices, mostly from the pre-Roman Iron Age, so the lake seems to have been a cult site for centuries.",
+   "alternatives": [
+    {
+     "label": "Remembered in myth",
+     "text": "Scholars such as Karl Kello and the writer Lennart Meri suggested that Estonian and Finnish poems about a sun or fire falling from the sky, including the Kalevala episode (runes 47–49) in which a spark of the new Sun falls from the sky, preserve a memory of the impact; this is plausible but cannot be proven."
+    },
+    {
+     "label": "Ultima Thule",
+     "text": "In his book Hõbevalge (Silverwhite, 1976), Meri, later Estonia's president, speculated that the classical name Thule, the land 'where the sun goes to sleep', came from the Kaali story; most historians place Thule elsewhere (Shetland, Iceland or Norway)."
+    },
+    {
+     "label": "Dating debate",
+     "text": "Published estimates of the impact date have varied by about 6,000 years, from roughly 6400 BCE to 400 BCE; the Bronze Age date is now most widely accepted."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Kaali crater",
+     "url": "https://en.wikipedia.org/wiki/Kaali_crater",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Lennart Meri",
+     "url": "https://en.wikipedia.org/wiki/Lennart_Meri",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Kaali-crater-saaremaa-estonia-aug-2007.jpg/500px-Kaali-crater-saaremaa-estonia-aug-2007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Kaali-crater-saaremaa-estonia-aug-2007.jpg",
+     "author": "Mannobult",
+     "license": "CC BY-SA 3.0",
+     "title": "Kaali-crater-saaremaa-estonia-aug-2007.jpg"
+    }
+   ],
+   "categories": [
+    "science-cosmos",
+    "catastrophes",
+    "myth-legend",
+    "archaeology"
+   ],
+   "threads": [
+    "cosmic-impacts",
+    "stories-proven-true",
+    "deep-oral-memory",
+    "sky-omens"
+   ]
+  },
+  {
+   "id": "sampo",
+   "title": "The Sampo: the Finnish magic mill that made grain, salt and gold, and the theft that broke it",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 3,
+   "start": 1835,
+   "end": null,
+   "dateNote": "Runic songs are older; collected from 1817; Kalevala published 1835 and 1849",
+   "evidenceTypes": [
+    "oral poetry (runic songs)",
+    "textual"
+   ],
+   "mainstream": "In Finnish and Karelian runic songs the Sampo is a mysterious object of plenty forged by the smith Ilmarinen, originally a sky god who had also forged the sky. In Elias Lönnrot's Kalevala (1835; expanded 1849), compiled from songs he and others collected, Ilmarinen makes it for Louhi, the mistress of the dark northern land Pohjola, as a bride-price; it grinds out flour, salt and gold. The heroes Väinämöinen, Ilmarinen and Lemminkäinen steal it back, Louhi pursues them, and in the battle at sea the Sampo is smashed; its fragments wash ashore and bring prosperity to Finland. The songs never describe clearly what it looks like, and it has 'a lid of many colours' (kirjokansi).",
+   "alternatives": [
+    {
+     "label": "World pillar",
+     "text": "Uno Harva and others argued that the Sampo was originally a world pillar or world tree holding up the sky, like the Estonian Sammas or the Norse Yggdrasil."
+    },
+    {
+     "label": "Many interpretations",
+     "text": "It has also been read as the Sun, a compass, a treasure chest, a Byzantine coin die, a decorated shield or a Christian relic; Lönnrot himself made it a mill, perhaps influenced by the Norse magic mill Grótti."
+    },
+    {
+     "label": "Cosmic machine",
+     "text": "In Hamlet's Mill (1969), Giorgio de Santillana and Hertha von Dechend argued that the Sampo and similar mills encode ancient knowledge of the precession of the equinoxes; most scholars see this as speculative."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Sampo",
+     "url": "https://en.wikipedia.org/wiki/Sampo",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Kalevala",
+     "url": "https://en.wikipedia.org/wiki/Kalevala",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Elias Lönnrot",
+     "url": "https://en.wikipedia.org/wiki/Elias_L%C3%B6nnrot",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Akseli_Gallen-Kallela_-_Sammon_ry%C3%B6st%C3%B6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Akseli_Gallen-Kallela_-_Sammon_ry%C3%B6st%C3%B6.jpg",
+     "author": "Akseli Gallen-Kallela",
+     "license": "Public domain",
+     "title": "Akseli_Gallen-Kallela_-_Sammon_ryöstö.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend"
+   ],
+   "threads": [
+    "creation-myths",
+    "ancient-astronomy",
+    "knowledge-and-power",
+    "lost-treasures"
+   ]
+  },
+  {
+   "id": "lithuania-last-pagans",
+   "title": "Lithuania: the last pagan state in Europe",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1387,
+   "end": 1417,
+   "dateNote": "Official conversion 1387; Samogitia 1413–1417",
+   "evidenceTypes": [
+    "textual (chronicles)",
+    "archaeological"
+   ],
+   "mainstream": "While the rest of Europe had become Christian, the Grand Duchy of Lithuania kept its old religion, with gods such as the thunder god Perkūnas, into the late 14th century, despite crusades by the Teutonic Knights. King Mindaugas was baptised in the 1250s, but the country went back to the old ways after his death. Lithuania officially converted in 1387, after Grand Duke Jogaila married the Polish queen Jadwiga and became king of Poland; nobles and peasants were baptised in and around Vilnius. Samogitia in the west, long held by the Teutonic Order, was the last region to convert: Grand Duke Vytautas baptised the first Samogitians in 1413, after the Battle of Grunwald, and the diocese of Samogitia was founded in 1417. Pagan customs survived among country people for much longer.",
+   "alternatives": [
+    {
+     "label": "Holy groves and fires",
+     "text": "Chronicles describe sacred groves, holy snakes and eternal fires; how organised the pagan religion was (for example whether there was a high priest, the 'Krivis') is debated because much comes from hostile Christian writers."
+    },
+    {
+     "label": "Temple under the cathedral",
+     "text": "A tradition going back to the 15th-century historian Jan Długosz linked Vilnius Cathedral with an earlier building later used for pagan worship; modern archaeologists and historians question this interpretation."
+    },
+    {
+     "label": "Revival",
+     "text": "Romuva, a modern revival of Baltic pagan religion, began in the 20th century and draws on folklore and these medieval accounts."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Christianization of Lithuania",
+     "url": "https://en.wikipedia.org/wiki/Christianization_of_Lithuania",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Perkūnas",
+     "url": "https://en.wikipedia.org/wiki/Perk%C5%ABnas",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Vilnius Cathedral",
+     "url": "https://en.wikipedia.org/wiki/Vilnius_Cathedral",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Fresco_in_Vilnius_Cathedral_crypt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Fresco_in_Vilnius_Cathedral_crypt.jpg",
+     "author": "Unknown authorUnknown author",
+     "license": "Public domain",
+     "title": "Fresco_in_Vilnius_Cathedral_crypt.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "religion"
+   ],
+   "threads": [
+    "suppressed-beliefs"
+   ]
+  },
+  {
+   "id": "sami-drums",
+   "title": "Sámi drums: the shaman drums burned by missionaries, and the one that came home after 300 years",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1693,
+   "end": null,
+   "dateNote": "Drum persecution 17th–18th centuries; Lars Nilsson executed 1693; drum returned 2023",
+   "evidenceTypes": [
+    "material culture",
+    "court records",
+    "textual"
+   ],
+   "mainstream": "Sámi noaidi (shamans) used drums painted with figures of gods, animals, people and the landscape to enter trance, contact the spirit world and foretell the future. During the 17th and 18th centuries the Swedish and Danish-Norwegian authorities and church tried to wipe out the old Sámi religion: drums were confiscated and burned, and owners were tried. In Arjeplog, Sweden, Lars Nilsson was tried in 1691 for keeping his drum and his old faith and was burned at the stake in 1693. About 70 drums survive, mostly in museums across Europe. One of the best documented, Freavnantjahke gievrie (the Folldal drum), was taken by the missionary Thomas von Westen in 1723, passed through Copenhagen and ended up in Meiningen, Germany; the Meiningen Museum decided to return it in June 2023 and handed it over to the South Sámi museum Saemien Sijte in October 2023.",
+   "alternatives": [
+    {
+     "label": "What the symbols mean",
+     "text": "Only a few drums were explained by their owners; later scholars such as Ernst Manker interpreted the figures as gods and spirits, while some contemporary explanations relate them to weather, animals and daily life, so readings remain uncertain."
+    },
+    {
+     "label": "Witchcraft rumours",
+     "text": "During the Thirty Years' War rumours spread that Swedish armies won with the help of Sámi sorcery, part of the background to the state's interest in Sámi religion."
+    },
+    {
+     "label": "Living tradition",
+     "text": "Many Sámi today see the drums as living cultural heritage rather than museum objects, which is why their return matters."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Sámi drum",
+     "url": "https://en.wikipedia.org/wiki/S%C3%A1mi_drum",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Lars Nilsson (shaman)",
+     "url": "https://en.wikipedia.org/wiki/Lars_Nilsson_(shaman)",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Thomas von Westen",
+     "url": "https://en.wikipedia.org/wiki/Thomas_von_Westen",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Sámi Parliament of Norway: speech at the handover ceremony for Freavnantjahke gievrie (20 Oct 2023)",
+     "url": "https://sametinget.no/politikk/taler-og-innlegg/tale-i-overgivelsesseremoni-for-freavnantjahke-gievrie.28092.aspx",
+     "type": "official"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/S%C3%A1mi_mythology_shaman_drum_Samisk_mytologi_schamantrumma_079.png/500px-S%C3%A1mi_mythology_shaman_drum_Samisk_mytologi_schamantrumma_079.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:S%C3%A1mi_mythology_shaman_drum_Samisk_mytologi_schamantrumma_079.png",
+     "author": "Ernst Manker. Scanning, cleaning up minor imperfections in the reproduction and removing the numbers was made by Tor Gje",
+     "license": "Public domain",
+     "title": "Sámi_mythology_shaman_drum_Samisk_mytologi_schamantrumma_079.png"
+    }
+   ],
+   "categories": [
+    "history",
+    "religion"
+   ],
+   "threads": [
+    "sacred-relics",
+    "altered-states",
+    "suppressed-beliefs"
+   ]
+  },
+  {
+   "id": "amber-road",
+   "title": "The Amber Road: Baltic \"tears of the sun\" in Mycenae and Tutankhamun's tomb",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 3,
+   "start": -1600,
+   "end": null,
+   "dateNote": "Baltic amber in the Mediterranean from the 2nd millennium BCE",
+   "evidenceTypes": [
+    "archaeological",
+    "chemical analysis",
+    "textual"
+   ],
+   "mainstream": "Amber, fossilised tree resin washed up on the shores of the Baltic and North Seas, was traded south for thousands of years along routes now called the Amber Road. Heinrich Schliemann found amber beads at Mycenae that spectroscopic analysis showed to be Baltic, and a breast ornament of Tutankhamun (c. 1333–1324 BCE) contains large Baltic amber beads. Amber was also sent as an offering to the temple of Apollo at Delphi. In the Roman period a route ran from the Baltic coast to Aquileia on the Adriatic. Greek myth explained amber as the hardened tears of the Heliades, the sisters of Phaethon, who wept after he crashed the sun's chariot. A Lithuanian legend first written down in 1842 tells of the sea goddess Jūratė, whose amber palace under the Baltic was shattered by the thunder god Perkūnas because she loved a mortal fisherman, Kastytis; the pieces of amber on the shore are its ruins.",
+   "alternatives": [
+    {
+     "label": "Old myth or modern tale",
+     "text": "Because Jūratė does not appear in older Lithuanian mythology, scholars think the legend is largely a 19th-century literary creation, although it uses older gods such as Perkūnas."
+    },
+    {
+     "label": "Magic and medicine",
+     "text": "Amber was widely believed to have protective and healing powers, which helps explain why it travelled so far; amber and other exotic materials in elite graves show long-distance networks long before written records."
+    },
+    {
+     "label": "Wider contacts",
+     "text": "Some writers use amber finds to argue for direct Bronze Age voyages between the Baltic and the Mediterranean; most archaeologists think the amber moved through many hands in stages."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Amber Road",
+     "url": "https://en.wikipedia.org/wiki/Amber_Road",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Jūratė and Kastytis",
+     "url": "https://en.wikipedia.org/wiki/J%C5%ABrat%C4%97_and_Kastytis",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Baltis_amber_road.jpg/500px-Baltis_amber_road.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Baltis_amber_road.jpg",
+     "author": "Bearas",
+     "license": "CC BY-SA 3.0",
+     "title": "Baltis_amber_road.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology",
+    "myth-legend"
+   ],
+   "threads": [
+    "divine-punishment",
+    "trade-networks"
+   ]
+  },
+  {
+   "id": "areni-1",
+   "title": "Areni-1 cave: the world's oldest leather shoe and oldest winery, next to the dead",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -4100,
+   "end": null,
+   "dateNote": "Winery c. 4100–4000 BCE; shoe c. 3600–3500 BCE",
+   "evidenceTypes": [
+    "archaeological",
+    "chemical analysis",
+    "radiocarbon"
+   ],
+   "mainstream": "Areni-1 is a three-chambered cave by the Arpa River in Vayots Dzor, southern Armenia. Excavations by an Armenian, Irish and American team (Boris Gasparyan, Ron Pinhasi, Gregory Areshian) from 2007 to 2010 found remarkably preserved remains from the Late Chalcolithic, protected by the cave's dry, cool air and layers of sheep dung. In 2008 Diana Zardaryan found a complete one-piece leather shoe, about 5,500 years old (c. 3600–3500 BCE), stuffed with grass and laced, the oldest leather shoe known. The cave also held the oldest known winery, from about 4100–4000 BCE: a clay basin used as a press, a 60 cm fermentation vat, storage jars, grape seeds and skins, with traces of the red-wine pigment malvidin. The winery sat among burials, and a human brain preserved in a skull was reported in 2009.",
+   "alternatives": [
+    {
+     "label": "Wine for the dead",
+     "text": "Because the press and vat were found among graves, the excavators suggested that wine was made for funeral rituals, linking the beginnings of wine with religion rather than everyday drinking."
+    },
+    {
+     "label": "Cradle of wine",
+     "text": "The South Caucasus (Armenia and Georgia) and eastern Anatolia have produced the earliest evidence of grape wine; Georgian sites have traces from around 6000 BCE, earlier than Areni's winery but without a press installation."
+    },
+    {
+     "label": "Same shoe for thousands of years",
+     "text": "The shoe resembles one-piece leather shoes known from Europe and the traditional Irish pampootie, suggesting a very long-lived design."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Areni-1 cave",
+     "url": "https://en.wikipedia.org/wiki/Areni-1_cave",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Areni-1 shoe",
+     "url": "https://en.wikipedia.org/wiki/Areni-1_shoe",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Areni-1 winery",
+     "url": "https://en.wikipedia.org/wiki/Areni-1_winery",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "First Direct Evidence of Chalcolithic Footwear from the Near Eastern Highlands",
+     "authors": "Pinhasi, R. et al.",
+     "year": 2010,
+     "doi": "10.1371/journal.pone.0010984",
+     "type": "paper"
+    },
+    {
+     "title": "Chemical evidence for wine production around 4000 BCE in the Late Chalcolithic Near Eastern highlands",
+     "authors": "Barnard, H. et al.",
+     "year": 2011,
+     "doi": "10.1016/j.jas.2010.11.012",
+     "type": "paper"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Chalcolithic_leather_shoe_from_Areni-1_cave.jpg/500px-Chalcolithic_leather_shoe_from_Areni-1_cave.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Chalcolithic_leather_shoe_from_Areni-1_cave.jpg",
+     "author": "Pinhasi R,  Gasparian B,  Areshian G,  Zardaryan D,  Smith A,  et al. (authors of source article)",
+     "license": "CC BY 2.5",
+     "title": "Chalcolithic_leather_shoe_from_Areni-1_cave.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history"
+   ],
+   "threads": [
+    "changed-understanding"
+   ]
+  },
+  {
+   "id": "zorats-karer",
+   "title": "Zorats Karer (Carahunge): Armenia's \"Stonehenge\" of holed stones, observatory or necropolis?",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": -2000,
+   "end": null,
+   "dateNote": "Tombs mainly Middle Bronze to Iron Age (c. 2000–800 BCE); observatory dating claims up to c. 5500 BCE",
+   "evidenceTypes": [
+    "archaeological",
+    "archaeoastronomy"
+   ],
+   "mainstream": "Zorats Karer, also called Carahunge or Karahunj, is a site on a plateau at about 1,770 m near Sisian in Syunik, southern Armenia. It contains stone settings, burial cists and 223 numbered standing stones of basalt, up to 3 m tall and up to 10 tons. About 80 stones have a circular hole bored through them, and the wind can make them whistle, which fits the popular explanation of the name Carahunge as 'speaking stones'. In 1984 the archaeologist Onik Khnkikyan drew attention to possible astronomical meaning, and from 1985 the astrophysicist Elma Parsamyan and later the radiophysicist Paris Herouni proposed that it was an ancient observatory, with some stones aligned on solstice sunrises and lunar extremes. In 2004 the Armenian government officially named the site the Karahunj Observatory.",
+   "alternatives": [
+    {
+     "label": "Necropolis and later wall",
+     "text": "A German team from LMU Munich led by Stephan Kroll identified the site as a necropolis mainly from the Middle Bronze Age to the Iron Age, with large tombs, and suggested that the lines of stones were remains of a later, possibly Hellenistic, wall."
+    },
+    {
+     "label": "Very ancient observatory",
+     "text": "Herouni argued that the alignments dated the site to about 5500 BCE, making it older than Stonehenge; archaeoastronomers such as Clive Ruggles have called such claims speculative and poorly supported."
+    },
+    {
+     "label": "Holes not prehistoric?",
+     "text": "The insides of the holes are much less weathered than the stone surfaces, so some of them may be much later than the stones; conclusions about their use remain provisional."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Carahunge",
+     "url": "https://en.wikipedia.org/wiki/Carahunge",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/1_%282%29_-_Copy.png/500px-1_%282%29_-_Copy.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:1_(2)_-_Copy.png",
+     "author": "Sarkisianarto",
+     "license": "CC BY-SA 4.0",
+     "title": "1_(2)_-_Copy.png"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "science-cosmos",
+    "anomalies"
+   ],
+   "threads": [
+    "giant-monuments",
+    "ancient-astronomy",
+    "outsider-builder-claims",
+    "seeing-what-we-expect"
+   ]
+  },
+  {
+   "id": "amirani",
+   "title": "Amirani: the Georgian Prometheus chained in the Caucasus",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 3,
+   "start": -1000,
+   "end": null,
+   "dateNote": "Oral epic; core possibly 1st–2nd millennium BCE; recorded from the 19th century",
+   "evidenceTypes": [
+    "oral epic",
+    "folklore"
+   ],
+   "mainstream": "Amirani is the hero of a Georgian epic known in many oral versions. Son of Dali, a Caucasian goddess of the hunt, he is a giant-slaying hero who defies God (in some versions by bringing the use of metal to humanity) and is punished by being chained to a stake or beneath a mountain rock in the Caucasus with his winged dog Q'ursha. In some versions an eagle eats his liver, which heals each night. The dog licks the chains until they are about to break, but then blacksmiths strike their anvils and the chains regain their strength; once a year the mountain opens and Amirani may see the sky for a single night.",
+   "alternatives": [
+    {
+     "label": "Source of Prometheus?",
+     "text": "The Greek Prometheus, who brings fire and is chained in the Caucasus with an eagle eating his liver, is strikingly similar; many scholars think the Greeks took the setting, and perhaps elements of the story, from Caucasian peoples."
+    },
+    {
+     "label": "Very old roots",
+     "text": "The core of the legend has been traced to the 3rd–2nd millennia BCE and the beginning of metalworking; this is hard to prove because the epic was written down only in modern times."
+    },
+    {
+     "label": "The hero who will return",
+     "text": "Like King Artavazd in the Armenian tradition recorded by Movses Khorenatsi, chained in a cave of Mount Masis (Ararat) whose chains smiths strengthen by striking their anvils, Amirani is a bound hero whose escape is feared or awaited."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Amirani",
+     "url": "https://en.wikipedia.org/wiki/Amirani",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Prometheus",
+     "url": "https://en.wikipedia.org/wiki/Prometheus",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/So_1956.jpg/500px-So_1956.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:So_1956.jpg",
+     "author": "khalampre",
+     "license": "CC BY-SA 2.0",
+     "title": "So_1956.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion"
+   ],
+   "threads": [
+    "deep-oral-memory",
+    "knowledge-and-power",
+    "divine-punishment",
+    "sleeping-heroes"
+   ]
+  },
+  {
+   "id": "golden-fleece",
+   "title": "The Golden Fleece: Colchis, Jason and the sheepskins used to catch gold",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": -1300,
+   "end": null,
+   "dateNote": "Legendary voyage set before the Trojan War (traditional c. 13th century BCE); fullest text 3rd century BCE",
+   "evidenceTypes": [
+    "textual (Greek)",
+    "archaeological",
+    "ethnographic"
+   ],
+   "mainstream": "In Greek myth Jason and the Argonauts sailed to Colchis, at the eastern end of the Black Sea in what is now western Georgia, to take the Golden Fleece of a flying ram from King Aeëtes, son of the Sun; the king's daughter, the sorceress Medea, helped him. The story is told most fully by Apollonius of Rhodes in the 3rd century BCE, though it is much older. Colchis really was rich in gold: the Greek geographer Strabo (1st century CE) wrote that in the country of the Soani (Svans) gold was carried down by mountain torrents and caught with perforated troughs and fleecy skins, and suggested this was the origin of the myth. Archaeologists have found rich gold jewellery in Colchian graves such as those at Vani.",
+   "alternatives": [
+    {
+     "label": "Gold-washing fleece",
+     "text": "The mainstream rational explanation follows Strabo: sheepskins laid in streams trapped gold dust, a method reportedly used in Svaneti into modern times."
+    },
+    {
+     "label": "Real voyages",
+     "text": "Some historians see the myth as a memory of early Greek trading or exploring voyages into the Black Sea; in 1984 Tim Severin rowed a replica Bronze Age galley from Greece to Georgia to show it was possible."
+    },
+    {
+     "label": "Other readings",
+     "text": "The fleece has also been read as a symbol of kingship, a sun symbol, a record of writing on parchment, or alchemical gold; these are interpretations rather than evidence."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Golden Fleece",
+     "url": "https://en.wikipedia.org/wiki/Golden_Fleece",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Colchis",
+     "url": "https://en.wikipedia.org/wiki/Colchis",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Jason_Pelias_Louvre_K127.jpg/500px-Jason_Pelias_Louvre_K127.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Jason_Pelias_Louvre_K127.jpg",
+     "author": "Underworld Painter",
+     "license": "Public domain",
+     "title": "Jason_Pelias_Louvre_K127.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "history"
+   ],
+   "threads": [
+    "stories-proven-true",
+    "ocean-voyagers",
+    "lost-treasures",
+    "trade-networks"
+   ]
+  },
+  {
+   "id": "vishap-stones",
+   "title": "Vishap stones: Armenia's fish- and bull-shaped dragon stelae high in the mountains",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -4100,
+   "end": null,
+   "dateNote": "Two vishaps at Tirinkatar dated c. 4200–4000 BCE; others undated",
+   "evidenceTypes": [
+    "archaeological",
+    "folklore"
+   ],
+   "mainstream": "Vishapakar ('dragon stones') are tall stone stelae found in the Armenian Highlands, mostly near springs, streams, ancient irrigation channels and mountain lakes, including on the slopes of Mount Aragats and in the Gegham mountains. About 150 are known, 90 of them in Armenia, and the largest is just over 5 m tall. Most are carved as a fish, often like a catfish, with eyes, gills and tail; others show the stretched hide of a bull or ram, sometimes with water flowing from its mouth, and long-legged birds. Armenian folklore calls them vishaps, water dragons. Their age is hard to establish because they stand far from settlements; one was reused for an inscription of the Urartian king Argishti I (8th century BCE), and later ones were carved with Christian crosses, so they are older than both.",
+   "alternatives": [
+    {
+     "label": "Water cult",
+     "text": "In the 1920s–30s Ashkharbek Kalantar linked them to irrigation and a cult of water; a 2025 statistical study of 115 stones by Vahe Gurzadyan and Arsen Bobokhyan found larger stones at high altitudes where little time was available for work, which they took as support for a strong cult motive."
+    },
+    {
+     "label": "6,000 years old",
+     "text": "Excavations since 2012 at Tirinkatar on Mount Aragats, at about 2,700–3,100 m, radiocarbon-dated the erection of two vishaps to about 4200–4000 BCE; the excavators say this cannot automatically be extended to all vishaps, which were also reused in later periods."
+    },
+    {
+     "label": "Dragons and water",
+     "text": "The idea of a water-holding dragon or serpent appears in many cultures, from the Vedic Vritra to Chinese rain dragons, which some see as a shared motif and others as independent responses to the importance of water."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Vishapakar",
+     "url": "https://en.wikipedia.org/wiki/Vishapakar",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Vishap stelae as cult dedicated prehistoric monuments of Armenian Highlands: data analysis and interpretation",
+     "authors": "Gurzadyan, V. et al.",
+     "year": 2025,
+     "doi": "10.1038/s40494-025-01998-z",
+     "type": "paper"
+    },
+    {
+     "title": "UNESCO tentative list: The Vishaps and the Cultural Landscape of Tirinkatar",
+     "url": "https://whc.unesco.org/en/tentativelists/6702",
+     "type": "official"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Vishap02.jpg/500px-Vishap02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Vishap02.jpg",
+     "author": "Hayk",
+     "license": "CC BY-SA 2.5",
+     "title": "Vishap02.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "religion",
+    "myth-legend"
+   ],
+   "threads": [
+    "giant-monuments",
+    "serpent-beings",
+    "rain-and-drought",
+    "water-engineering"
    ]
   }
  ]
