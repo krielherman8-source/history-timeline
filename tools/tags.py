@@ -941,13 +941,13 @@ addt('deep-oral-memory','uffington-white-horse')
 addt('knowledge-and-power','ulfberht')
 # --- batch 11 part 4 (20th-21st c. anomalies, hoaxes and science)
 C.update({
-'battle-of-la-1942':'ufo-alien anomalies history',
+'battle-of-la-1942':'aliens-ufo anomalies history',
 'eddington-1919':'science-cosmos history',
-'face-on-mars':'ufo-alien anomalies science-cosmos',
-'black-knight-satellite':'ufo-alien hoaxes science-cosmos',
+'face-on-mars':'aliens-ufo anomalies science-cosmos',
+'black-knight-satellite':'aliens-ufo hoaxes science-cosmos',
 'belmez-faces':'anomalies hoaxes',
 'hitler-diaries':'hoaxes history',
-'alien-autopsy':'ufo-alien hoaxes',
+'alien-autopsy':'aliens-ufo hoaxes',
 'alh84001':'science-cosmos anomalies',
 'richat-structure':'science-cosmos lost-civilisations',
 'havana-syndrome':'anomalies history science-cosmos',
@@ -966,3 +966,41 @@ addt('life-beyond-earth','alh84001 face-on-mars martian-canals wow-signal')
 addt('lost-continents','richat-structure atlantis')
 addt('strange-sounds','havana-syndrome')
 addt('monster-panics','havana-syndrome')
+# --- batch 12 part 1 (Celtic Ireland, Britain and Brittany)
+C.update({
+'tuatha-de-danann':'myth-legend religion aliens-ufo',
+'brendan-voyage':'myth-legend history religion',
+'hy-brasil':'myth-legend anomalies',
+'gundestrup-cauldron':'archaeology religion',
+'ogham':'history archaeology hoaxes',
+'giants-causeway':'science-cosmos myth-legend',
+'druids':'history religion hoaxes',
+'selkies':'myth-legend',
+'cantre-gwaelod':'myth-legend catastrophes',
+'ys':'myth-legend catastrophes',
+})
+addt('phantom-islands','hy-brasil brendan-voyage atlantis kumari-kandam lemuria-mu')
+addt('otherworld-visits','tuatha-de-danann hy-brasil brendan-voyage')
+addt('hidden-kingdoms','tuatha-de-danann hy-brasil')
+addt('underground-worlds','tuatha-de-danann')
+addt('giants-and-little-people','tuatha-de-danann giants-causeway')
+addt('ancestral-homelands','tuatha-de-danann')
+addt('sky-beings','tuatha-de-danann')
+addt('ocean-voyagers','brendan-voyage')
+addt('sea-mysteries','brendan-voyage hy-brasil selkies')
+addt('human-sacrifice','gundestrup-cauldron druids')
+addt('shapeshifters','gundestrup-cauldron selkies')
+addt('serpent-beings','gundestrup-cauldron')
+addt('origins-of-writing','ogham')
+addt('outsider-builder-claims','ogham')
+addt('seeing-what-we-expect','ogham giants-causeway')
+addt('petrified-beings','giants-causeway')
+addt('forged-documents','druids')
+addt('secret-societies','druids')
+addt('changed-understanding','druids giants-causeway')
+addt('sunken-cities','cantre-gwaelod ys')
+addt('vanished-landscapes','cantre-gwaelod ys')
+addt('deep-oral-memory','cantre-gwaelod')
+addt('flood-myths','cantre-gwaelod ys')
+addt('divine-punishment','ys cantre-gwaelod')
+addt('strange-sounds','cantre-gwaelod ys')

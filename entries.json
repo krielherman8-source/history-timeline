@@ -1698,7 +1698,8 @@
    "threads": [
     "lost-civilisations",
     "lost-continents",
-    "sunken-cities"
+    "sunken-cities",
+    "phantom-islands"
    ]
   },
   {
@@ -7675,7 +7676,8 @@
     "lost-civilisations",
     "deep-oral-memory",
     "lost-continents",
-    "knowledge-and-power"
+    "knowledge-and-power",
+    "phantom-islands"
    ]
   },
   {
@@ -8180,7 +8182,8 @@
    "threads": [
     "lost-civilisations",
     "changed-understanding",
-    "lost-continents"
+    "lost-continents",
+    "phantom-islands"
    ]
   },
   {
@@ -24576,7 +24579,7 @@
     }
    ],
    "categories": [
-    "ufo-alien",
+    "aliens-ufo",
     "anomalies",
     "history"
    ],
@@ -24705,7 +24708,7 @@
     }
    ],
    "categories": [
-    "ufo-alien",
+    "aliens-ufo",
     "anomalies",
     "science-cosmos"
    ],
@@ -24769,7 +24772,7 @@
     }
    ],
    "categories": [
-    "ufo-alien",
+    "aliens-ufo",
     "hoaxes",
     "science-cosmos"
    ],
@@ -24944,7 +24947,7 @@
    ],
    "media": [],
    "categories": [
-    "ufo-alien",
+    "aliens-ufo",
     "hoaxes"
    ],
    "threads": [
@@ -25157,6 +25160,628 @@
     "strange-sounds",
     "monster-panics",
     "modern-legends"
+   ]
+  },
+  {
+   "id": "tuatha-de-danann",
+   "title": "The Tuatha Dé Danann: Ireland's gods who arrived in dark clouds and went into the hills",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": 1050,
+   "end": null,
+   "dateNote": "Text compiled 11th century CE; legendary setting before c. 1000 BCE",
+   "evidenceTypes": [
+    "textual (medieval Irish)",
+    "mythological"
+   ],
+   "mainstream": "The Lebor Gabála Érenn (\"Book of the Taking of Ireland\"), compiled by Christian monks in the 11th century from older material, tells Ireland's history as a series of invasions: Cessair before the Flood, then Partholón, Nemed, the Fir Bolg, the Tuatha Dé Danann (\"peoples of the goddess Danu\") and finally the Milesians, ancestors of the Gaels. The Tuatha Dé arrive in dark clouds, bringing four treasures (the Stone of Fál, the spear of Lugh, the sword of Nuada and the Dagda's cauldron). Defeated by the Milesians, they withdraw into the síde, the ancient mounds such as Newgrange, and become the aos sí, the fairy folk of later Irish belief. Most scholars see them as the pre-Christian gods of Ireland, recast by monastic writers as a human or semi-human people so they could fit into a biblical history of the world.",
+   "alternatives": [
+    {
+     "label": "Gods made human",
+     "text": "The mainstream reading is euhemerism: the monks turned the old gods (Lugh, the Dagda, the Morrígan, Brigid) into early kings and magicians and dated them alongside Noah and Moses."
+    },
+    {
+     "label": "Memory of real invasions",
+     "text": "19th-century antiquarians tried to match the invasions to real peoples (for example the Fir Bolg to the Belgae); modern archaeology and genetics show real population changes in Ireland, but they do not map onto the medieval scheme, so this remains speculative."
+    },
+    {
+     "label": "Sky arrival",
+     "text": "Some ancient-astronaut writers read the arrival \"in dark clouds\" or in ships through the air as a description of aircraft; this is speculative, and other versions simply say they burned their ships on landing so the smoke hid the sun."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Tuatha Dé Danann",
+     "url": "https://en.wikipedia.org/wiki/Tuatha_D%C3%A9_Danann",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Lebor Gabála Érenn",
+     "url": "https://en.wikipedia.org/wiki/Lebor_Gab%C3%A1la_%C3%89renn",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Riders_of_th_Sidhe_%28big%29.jpg/500px-Riders_of_th_Sidhe_%28big%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Riders_of_th_Sidhe_(big).jpg",
+     "author": "John Duncan",
+     "license": "Public domain",
+     "title": "Riders_of_th_Sidhe_(big).jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion",
+    "aliens-ufo"
+   ],
+   "threads": [
+    "sky-beings",
+    "giants-and-little-people",
+    "hidden-kingdoms",
+    "otherworld-visits",
+    "ancestral-homelands",
+    "underground-worlds"
+   ]
+  },
+  {
+   "id": "brendan-voyage",
+   "title": "The voyage of Saint Brendan: Irish monks across the Atlantic in a leather boat?",
+   "lane": "myth",
+   "status": "disputed",
+   "priority": 2,
+   "start": 900,
+   "end": null,
+   "dateNote": "Brendan lived c. 484–577; the Navigatio was written c. 800–1000 CE",
+   "evidenceTypes": [
+    "textual (Latin, medieval)",
+    "experimental voyage"
+   ],
+   "mainstream": "Brendan of Clonfert (c. 484 – c. 577) was a real Irish abbot. The Navigatio Sancti Brendani Abbatis (\"Voyage of Saint Brendan the Abbot\"), a Latin text probably written in the 9th or 10th century, tells how he and a group of monks sailed a hide-covered boat (a currach) for seven years in search of the Promised Land of the Saints. They celebrate Easter on the back of a huge fish, Jasconius, which they first take for an island, pass a floating crystal column, and are pelted with burning rocks by smiths on a dark island. It was hugely popular in medieval Europe, and 'Saint Brendan's Island' appeared on Atlantic charts for centuries. Irish hermits (papar) really did reach the Faroes and Iceland before the Norse, according to the Irish scholar Dicuil (825) and the Icelandic Íslendingabók.",
+   "alternatives": [
+    {
+     "label": "A real crossing",
+     "text": "In 1976–77 the explorer Tim Severin built a leather currach and sailed from Ireland to Newfoundland via the Hebrides, Faroes and Iceland, showing that such a voyage was technically possible; some readers see the crystal column as an iceberg and the smiths' island as an Icelandic eruption."
+    },
+    {
+     "label": "Religious allegory",
+     "text": "Most medievalists read the Navigatio as a spiritual allegory built around the monastic calendar, drawing on the older Irish immram (voyage) tales; possibility is not evidence that Brendan himself reached America."
+    },
+    {
+     "label": "Pre-Columbian claims",
+     "text": "The story is often cited alongside Vinland in debates about pre-Columbian Atlantic crossings; there is no archaeological trace of Irish monks in North America."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Brendan the Navigator",
+     "url": "https://en.wikipedia.org/wiki/Brendan_the_Navigator",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Immram",
+     "url": "https://en.wikipedia.org/wiki/Immram",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Saint_brendan_german_manuscript.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Saint_brendan_german_manuscript.jpg",
+     "author": "Unknown mediaeval scribe.",
+     "license": "Public domain",
+     "title": "Saint_brendan_german_manuscript.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "history",
+    "religion"
+   ],
+   "threads": [
+    "ocean-voyagers",
+    "otherworld-visits",
+    "sea-mysteries",
+    "phantom-islands"
+   ]
+  },
+  {
+   "id": "hy-brasil",
+   "title": "Hy-Brasil: the phantom island west of Ireland that stayed on maps for 500 years",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": 1325,
+   "end": 1865,
+   "dateNote": "On sea charts c. 1325 – 1865",
+   "evidenceTypes": [
+    "cartographic",
+    "folklore",
+    "textual"
+   ],
+   "mainstream": "Hy-Brasil is a phantom island said to lie in the Atlantic west of Ireland. Irish tradition described it as hidden in mist except for one day every seven years, when it can be seen but not reached. An island called \"Bracile\" appears west of Ireland on Angelino Dulcert's portolan chart of about 1325 and on the Catalan Atlas (c. 1375); later charts usually drew it as a circle split by a channel. Expeditions sailed from Bristol to look for it in 1480 and 1481. In 1674 a Captain John Nisbet supposedly landed there and found giant black rabbits and a magician in a stone castle, but the account was a literary invention by the Irish writer Richard Head. It kept appearing on charts south-west of Galway Bay until 1865, by which time it had shrunk to \"Brasil Rock\". The name may come from the Irish Uí Breasail (a clan name) or be linked to the medieval red dye brasile; the country Brazil was later named after brazilwood.",
+   "alternatives": [
+    {
+     "label": "Misread shoals or mirages",
+     "text": "Suggested real origins include the Porcupine Bank, a shallow area west of Ireland, or optical effects such as fata morgana that can make distant land appear over the horizon."
+    },
+    {
+     "label": "Otherworld island",
+     "text": "Folklorists link it to the Irish otherworld islands such as Tír na nÓg, where time runs differently, and to the immram voyage tales."
+    },
+    {
+     "label": "Found America first?",
+     "text": "A letter written shortly after John Cabot's 1497 voyage reports that the land Cabot found had been \"discovered in the past by the men from Bristol who found Brasil\"; some historians suggest Bristol sailors searching for the island reached Newfoundland before John Cabot's 1497 voyage, while others think the letter refers only to the search. The question is unresolved."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Hy Brasil",
+     "url": "https://en.wikipedia.org/wiki/Hy_Brasil",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Phantom island",
+     "url": "https://en.wikipedia.org/wiki/Phantom_island",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Ortelius_1572_Ireland_Map_2.jpg/500px-Ortelius_1572_Ireland_Map_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Ortelius_1572_Ireland_Map_2.jpg",
+     "author": "Abraham Ortelius",
+     "license": "Public domain",
+     "title": "Ortelius_1572_Ireland_Map_2.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "anomalies"
+   ],
+   "threads": [
+    "hidden-kingdoms",
+    "otherworld-visits",
+    "sea-mysteries",
+    "phantom-islands"
+   ]
+  },
+  {
+   "id": "gundestrup-cauldron",
+   "title": "The Gundestrup cauldron: a horned god, a giant dipping men into a cauldron, and elephants in a Danish bog",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -100,
+   "end": null,
+   "dateNote": "Made c. 150 – 1 BCE; found 1891",
+   "evidenceTypes": [
+    "archaeological",
+    "iconographic"
+   ],
+   "mainstream": "The Gundestrup cauldron is a richly decorated silver vessel found in 1891 by peat cutters in a bog near Gundestrup in Himmerland, Denmark, where it had been taken apart and deposited, probably as an offering. It is the largest known piece of European Iron Age silverwork (about 69 cm across) and is usually dated between about 150 BCE and 1 BCE. Its panels show a seated antlered figure holding a torc and a ram-horned serpent, often identified with the Gaulish god Cernunnos; a giant figure plunging a man head-first into a vat while warriors march past; wheel-holding deities; and exotic animals including elephants and lion-like beasts. The workmanship resembles Thracian silverwork from south-east Europe, while much of the imagery looks Celtic, so it is a meeting point of several cultures. It is in the National Museum of Denmark.",
+   "alternatives": [
+    {
+     "label": "Sacrifice or rebirth",
+     "text": "The vat scene has been read as a human sacrifice by drowning (a later commentary on the Roman poet Lucan says victims were drowned for the god Teutates) or as soldiers being brought back to life in a cauldron of rebirth, as in the Welsh Mabinogion."
+    },
+    {
+     "label": "Who made it",
+     "text": "Scholars debate whether Thracian silversmiths made it for Celtic patrons, whether it was booty, or whether it was made in Gaul; elephants suggest knowledge of the Mediterranean or the East."
+    },
+    {
+     "label": "Shamanic imagery",
+     "text": "Some see the antlered figure as a shaman or a lord of animals comparable to images from India (the so-called Pashupati seal of the Indus civilisation); such links are speculative."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Gundestrup cauldron",
+     "url": "https://en.wikipedia.org/wiki/Gundestrup_cauldron",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Silver_cauldron.jpg/500px-Silver_cauldron.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Silver_cauldron.jpg",
+     "author": "Rosemania",
+     "license": "CC BY 2.0",
+     "title": "Silver_cauldron.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "religion"
+   ],
+   "threads": [
+    "serpent-beings",
+    "shapeshifters",
+    "human-sacrifice"
+   ]
+  },
+  {
+   "id": "ogham",
+   "title": "Ogham: Ireland's notched alphabet, invented by a god, and the ogham claims in America",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 3,
+   "start": 350,
+   "end": null,
+   "dateNote": "Oldest inscriptions c. 4th–6th century CE",
+   "evidenceTypes": [
+    "inscriptions",
+    "textual"
+   ],
+   "mainstream": "Ogham is an early medieval alphabet made of groups of strokes and notches cut along a central line, usually the edge of a standing stone. About 400 inscriptions survive, mostly in Ireland and also in Wales, Scotland, the Isle of Man and Cornwall; the oldest are usually dated from about the 4th to the 6th centuries CE. Most record a personal name in the form \"X son of Y\", probably marking land boundaries or graves. Medieval Irish texts such as the Auraicept na nÉces say ogham was invented by Ogma, one of the Tuatha Dé Danann, and name its letters after trees. Scholars think it was designed by people who knew the Latin alphabet and Latin grammar, and adapted to the sounds of Primitive Irish.",
+   "alternatives": [
+    {
+     "label": "Divine invention",
+     "text": "In Irish tradition Ogma created ogham to give learned men a secret script; the stories also describe it being used for magical messages carved on wood."
+    },
+    {
+     "label": "Ogham in America",
+     "text": "In America B.C. (1976) the marine biologist Barry Fell claimed that markings on rocks in West Virginia and elsewhere were ogham left by ancient Irish or Celtic visitors; archaeologists and Celtic scholars reject these readings as natural or later scratches interpreted through wishful thinking."
+    },
+    {
+     "label": "Older origins?",
+     "text": "A few writers suggest ogham grew out of an older tally or sign system; there is no surviving evidence of ogham before the Roman-influenced period."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Ogham",
+     "url": "https://en.wikipedia.org/wiki/Ogham",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Barry Fell",
+     "url": "https://en.wikipedia.org/wiki/Barry_Fell",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Ogham_Stone_Rathass_Church_Tralee_Kerry.jpg/500px-Ogham_Stone_Rathass_Church_Tralee_Kerry.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Ogham_Stone_Rathass_Church_Tralee_Kerry.jpg",
+     "author": "Jaqian",
+     "license": "CC BY-SA 3.0",
+     "title": "Ogham_Stone_Rathass_Church_Tralee_Kerry.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology",
+    "hoaxes"
+   ],
+   "threads": [
+    "origins-of-writing",
+    "outsider-builder-claims",
+    "seeing-what-we-expect"
+   ]
+  },
+  {
+   "id": "giants-causeway",
+   "title": "The Giant's Causeway: a road built by Fionn mac Cumhaill, or cooling lava?",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -55000000,
+   "end": null,
+   "dateNote": "Basalt formed c. 50–60 million years ago; legend recorded in modern folklore",
+   "evidenceTypes": [
+    "geological",
+    "folklore"
+   ],
+   "mainstream": "The Giant's Causeway on the north coast of County Antrim, Northern Ireland, is made of about 40,000 interlocking basalt columns, most of them hexagonal. They formed about 50–60 million years ago, when thick lava flows cooled slowly and contracted, cracking into columns, during the volcanic activity that accompanied the opening of the North Atlantic. Similar columns appear across the sea at Fingal's Cave on Staffa in Scotland. In legend, the giant Fionn mac Cumhaill (Finn McCool) built the causeway to reach his Scottish rival Benandonner; when Benandonner came across, Fionn's wife Oonagh disguised Fionn as a baby, and the Scot fled, tearing up the causeway behind him. It was announced to the Royal Society in 1693, and Susanna Drury's paintings (1739) made it famous; in 1768 the French geologist Nicolas Desmarest, captioning engravings of it, suggested in print for the first time that such columns were volcanic, part of a long argument over whether basalt formed from lava or precipitated from water.",
+   "alternatives": [
+    {
+     "label": "Too regular to be natural?",
+     "text": "Its geometric regularity long fed the feeling that such columns must be built; the same intuition still drives claims about other columnar basalt sites, such as Nan Madol or Gunung Padang."
+    },
+    {
+     "label": "Physics of cracking",
+     "text": "Laboratory work and modelling show that cooling lava naturally cracks into polygons, with hexagons favoured because they release stress efficiently; column size depends on the cooling rate."
+    },
+    {
+     "label": "Giant's road",
+     "text": "The Fionn story is a comic folktale rather than a creation myth; it links two landscapes across the sea that really do share the same geology."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Giant's Causeway",
+     "url": "https://en.wikipedia.org/wiki/Giant's_Causeway",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Fingal's Cave",
+     "url": "https://en.wikipedia.org/wiki/Fingal's_Cave",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "UNESCO World Heritage: Giant's Causeway and Causeway Coast",
+     "url": "https://whc.unesco.org/en/list/369/",
+     "type": "heritage"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Causeway-code_poet-4.jpg/500px-Causeway-code_poet-4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Causeway-code_poet-4.jpg",
+     "author": "code poet on flickr.",
+     "license": "CC BY-SA 2.0",
+     "title": "Causeway-code_poet-4.jpg"
+    }
+   ],
+   "categories": [
+    "science-cosmos",
+    "myth-legend"
+   ],
+   "threads": [
+    "changed-understanding",
+    "giants-and-little-people",
+    "petrified-beings",
+    "seeing-what-we-expect"
+   ]
+  },
+  {
+   "id": "druids",
+   "title": "The druids: what we really know, and the forgers who reinvented them",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": -58,
+   "end": null,
+   "dateNote": "Classical accounts c. 58 BCE – 1st century CE; antiquarian revival 17th–19th centuries",
+   "evidenceTypes": [
+    "textual (Greek and Roman)",
+    "archaeological",
+    "later forgeries"
+   ],
+   "mainstream": "The druids were the learned priestly class of the Iron Age Celtic-speaking peoples of Gaul and Britain. Almost everything known about them comes from outsiders: Julius Caesar (Gallic War, book 6, 50s BCE) says they judged disputes, taught young men orally for up to twenty years, believed souls passed into new bodies after death and met yearly in the land of the Carnutes; he and other writers claim they presided over human sacrifices, including burning victims in huge wicker figures. Pliny the Elder describes them cutting mistletoe from an oak with a golden sickle, and Tacitus describes the Roman attack on their stronghold on Anglesey (Mona) in 60 or 61 CE. The druids left no writing of their own. From the 17th century antiquarians such as John Aubrey and William Stukeley credited them with Stonehenge and Avebury, which are in fact thousands of years older, and in 1792 the Welsh poet Iolo Morganwg founded the Gorsedd, supported partly by manuscripts he had forged.",
+   "alternatives": [
+    {
+     "label": "Roman propaganda?",
+     "text": "Many historians caution that accounts of druidic human sacrifice came from enemies conquering their lands and may be exaggerated; others point to archaeological evidence of ritual killing, such as Lindow Man (found 1984), though linking such bodies to druids is debated."
+    },
+    {
+     "label": "Keepers of lost wisdom",
+     "text": "Romantic and modern pagan traditions see druids as guardians of ancient astronomical and spiritual knowledge; much of this tradition was created in the 18th and 19th centuries."
+    },
+    {
+     "label": "Revived druidry",
+     "text": "Modern druid orders openly describe their practice as a revival inspired by fragments of history and folklore rather than an unbroken tradition."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Druid",
+     "url": "https://en.wikipedia.org/wiki/Druid",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Iolo Morganwg",
+     "url": "https://en.wikipedia.org/wiki/Iolo_Morganwg",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Lindow Man",
+     "url": "https://en.wikipedia.org/wiki/Lindow_Man",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Two_Druids.PNG/500px-Two_Druids.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Two_Druids.PNG",
+     "author": "Bernard de Montfaucon",
+     "license": "Public domain",
+     "title": "Two_Druids.PNG"
+    }
+   ],
+   "categories": [
+    "history",
+    "religion",
+    "hoaxes"
+   ],
+   "threads": [
+    "changed-understanding",
+    "human-sacrifice",
+    "secret-societies",
+    "forged-documents"
+   ]
+  },
+  {
+   "id": "selkies",
+   "title": "Selkies: seal-people of the northern isles, and families who claimed seal ancestry",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 3,
+   "start": 1700,
+   "end": null,
+   "dateNote": "Collected mainly 18th–19th centuries; older oral tradition",
+   "evidenceTypes": [
+    "folklore",
+    "oral tradition"
+   ],
+   "mainstream": "Selkies are shapeshifters of the folklore of Orkney, Shetland, the Hebrides, Ireland, Iceland and the Faroe Islands: seals that can shed their skins and walk ashore as humans. In the commonest story, a man steals and hides a seal-woman's skin so she must stay and marry him; years later she or one of her children finds the skin, and she returns to the sea, sometimes still watching over her family. Some families were said to descend from selkies, such as the MacCodrums of North Uist, the 'MacCodrums of the seals'. The Faroese tale of Kópakonan (the seal woman) of Mikladalur is commemorated by a bronze statue in the village. The word comes from Scots selch, a grey seal. Collected mainly in the 18th and 19th centuries, the stories are much older.",
+   "alternatives": [
+    {
+     "label": "Explaining difference",
+     "text": "Folklorists suggest such stories explained unusual traits: the MacCodrum descent story has been linked to webbed fingers (syndactyly) in the family."
+    },
+    {
+     "label": "Kayaking strangers",
+     "text": "The antiquarian David MacRitchie (1890s) argued that the stories remembered real people in skin boats, perhaps Sámi or Inuit; there are 17th–18th century reports of lone 'Finnmen' in kayaks off Orkney and a kayak kept in Aberdeen. Most historians think any such visitors were Inuit taken to Europe by whalers rather than an ancient seafaring people, and the idea remains debated."
+    },
+    {
+     "label": "Human-animal marriage worldwide",
+     "text": "The seal-wife tale belongs to the international 'swan maiden' type, in which a hidden animal skin or feather cloak binds a supernatural wife; similar tales exist in Japan, Siberia and North America."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Selkie",
+     "url": "https://en.wikipedia.org/wiki/Selkie",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Swan maiden",
+     "url": "https://en.wikipedia.org/wiki/Swan_maiden",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Faroese_stamp_585_the_seal_woman.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Faroese_stamp_585_the_seal_woman.jpg",
+     "author": "Edward Fuglø, Postverk Føroya",
+     "license": "Public domain",
+     "title": "Faroese_stamp_585_the_seal_woman.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend"
+   ],
+   "threads": [
+    "shapeshifters",
+    "sea-mysteries"
+   ]
+  },
+  {
+   "id": "cantre-gwaelod",
+   "title": "Cantre'r Gwaelod: the drowned kingdom of Cardigan Bay and its forest of stumps",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": 500,
+   "end": null,
+   "dateNote": "Legendary setting c. 5th–6th century CE; forest drowned c. 4,000–5,000 years ago",
+   "evidenceTypes": [
+    "textual (medieval Welsh)",
+    "geological",
+    "folklore"
+   ],
+   "mainstream": "Cantre'r Gwaelod (\"the lowland hundred\") is a legendary kingdom said to lie under Cardigan Bay in west Wales. In the oldest version, a poem in the 13th-century Black Book of Carmarthen, a maiden called Mererid lets a well overflow and the land is drowned. In the better-known later version, the drunken Seithennin neglects the sluice gates of the sea wall during a storm and sixteen towns are lost; their bells are said to ring under the water. At Borth and Ynyslas, storms periodically uncover the stumps of a submerged prehistoric forest of oak, pine and birch, thought to have been submerged about 4,000–5,000 years ago as sea levels rose after the Ice Age. Long stony ridges called sarnau, such as Sarn Badrig, run out into the bay; they are glacial deposits left by retreating ice sheets, though legend called them the kingdom's roads.",
+   "alternatives": [
+    {
+     "label": "Memory of rising seas",
+     "text": "Some researchers suggest the legend preserves a very long memory of land lost to rising sea levels after the last Ice Age, comparable to Aboriginal Australian stories; others think the stories were inspired by the visible stumps and ridges rather than remembered from prehistory."
+    },
+    {
+     "label": "Moral tale",
+     "text": "The legend blames a human failing (neglect or drunkenness) for the flood, a theme shared with Ys in Brittany and the biblical flood."
+    },
+    {
+     "label": "Medieval storms",
+     "text": "Another view links the legend to real medieval coastal flooding in the 13th–14th centuries, when the story first appears in writing."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Cantre'r Gwaelod",
+     "url": "https://en.wikipedia.org/wiki/Cantre'r_Gwaelod",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Sarn Badrig",
+     "url": "https://en.wikipedia.org/wiki/Sarn_Badrig",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Submerged_forest_at_Ynyslas%2C_Ceredigion.jpg/500px-Submerged_forest_at_Ynyslas%2C_Ceredigion.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Submerged_forest_at_Ynyslas,_Ceredigion.jpg",
+     "author": "Richerman",
+     "license": "CC BY-SA 3.0",
+     "title": "Submerged_forest_at_Ynyslas,_Ceredigion.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "catastrophes"
+   ],
+   "threads": [
+    "flood-myths",
+    "deep-oral-memory",
+    "sunken-cities",
+    "vanished-landscapes",
+    "strange-sounds",
+    "divine-punishment"
+   ]
+  },
+  {
+   "id": "ys",
+   "title": "Ys: the Breton city drowned when a princess stole the key to the sea gates",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": 500,
+   "end": null,
+   "dateNote": "Legendary setting c. 5th–6th century CE; first written versions 15th–17th centuries",
+   "evidenceTypes": [
+    "folklore",
+    "textual (early modern)"
+   ],
+   "mainstream": "Ys (Breton Kêr-Is) is a legendary city on the coast of Brittany, in or near the Bay of Douarnenez, built by King Gradlon below sea level and protected by a dyke whose gates only the king could open. In the best-known version, his daughter Dahut, who lived a life of pleasure, stole the key from her sleeping father for a lover (sometimes the Devil in disguise) and opened the gates; the sea poured in. Gradlon escaped on horseback, but Saint Gwénnolé told him to cast off Dahut, who fell into the waves and became a mermaid (a morgen). The story is attested from the 15th–16th centuries, and Albert Le Grand's lives of the Breton saints (17th century) contain the first known mention of Dahut. It became famous through the Breton song collection Barzaz Breiz (1839). A popular folk etymology said Paris was named Par-Is, 'equal to Ys'.",
+   "alternatives": [
+    {
+     "label": "Sunken Roman town?",
+     "text": "Some local historians have searched for real remains under the bay, citing Roman roads that run into the sea near Douarnenez; no submerged city has been found."
+    },
+    {
+     "label": "Rising seas",
+     "text": "As with Cantre'r Gwaelod in Wales and Lyonesse in Cornwall, some suggest a folk memory of coastal land lost to the sea; the Breton coast has submerged prehistoric sites, but none linked to a city."
+    },
+    {
+     "label": "Christian vs pagan",
+     "text": "Scholars read the tale as a story of the Christian saint triumphing over a pagan, sensual princess, a reworking of older water-fairy beliefs."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Ys",
+     "url": "https://en.wikipedia.org/wiki/Ys",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Lyonesse",
+     "url": "https://en.wikipedia.org/wiki/Lyonesse",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Evariste-Vital_Luminais_-_Fuite_de_Gradlon.jpg/500px-Evariste-Vital_Luminais_-_Fuite_de_Gradlon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Evariste-Vital_Luminais_-_Fuite_de_Gradlon.jpg",
+     "author": "Évariste-Vital Luminais",
+     "license": "Public domain",
+     "title": "Evariste-Vital_Luminais_-_Fuite_de_Gradlon.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "catastrophes"
+   ],
+   "threads": [
+    "flood-myths",
+    "sunken-cities",
+    "vanished-landscapes",
+    "strange-sounds",
+    "divine-punishment"
    ]
   }
  ]
