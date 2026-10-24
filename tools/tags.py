@@ -1082,3 +1082,45 @@ addt('sunken-cities','titicaca-offerings')
 addt('flood-myths','titicaca-offerings')
 addt('human-sacrifice','titicaca-offerings')
 addt('outsider-builder-claims','senegambian-circles')
+
+# --- batch 12 part 4 (Byzantium, Renaissance Europe, Japan, Indian Ocean/Pacific, deep time)
+C.update({
+'greek-fire':'history anomalies',
+'justinian-plague':'history catastrophes science-cosmos',
+'marble-emperor':'myth-legend history',
+'donation-of-constantine':'history hoaxes religion',
+'john-dee-enochian':'history religion anomalies',
+'dodo':'history science-cosmos',
+'miyake-774':'science-cosmos catastrophes anomalies history',
+'hidden-christians-japan':'history religion',
+'henderson-island':'history archaeology lost-civilisations',
+'kap-kobenhavn-edna':'science-cosmos',
+})
+addt('ancient-technology','greek-fire')
+addt('lost-evidence','greek-fire')
+addt('knowledge-and-power','greek-fire john-dee-enochian donation-of-constantine')
+addt('plagues-and-epidemics','justinian-plague')
+addt('divine-punishment','justinian-plague')
+addt('volcanoes-and-memory','justinian-plague')
+addt('sleeping-heroes','marble-emperor')
+addt('returning-saviours','marble-emperor')
+addt('forged-documents','donation-of-constantine')
+addt('hoaxes-exposed','donation-of-constantine')
+addt('sky-beings','john-dee-enochian')
+addt('altered-states','john-dee-enochian')
+addt('hidden-scriptures','john-dee-enochian')
+addt('mass-extinctions','dodo')
+addt('changed-understanding','dodo kap-kobenhavn-edna miyake-774')
+addt('stories-proven-true','dodo miyake-774')
+addt('sky-omens','miyake-774')
+addt('cosmic-impacts','miyake-774')
+addt('suppressed-beliefs','hidden-christians-japan')
+addt('millenarian-movements','hidden-christians-japan')
+addt('civilisation-collapses','henderson-island')
+addt('disappearances','henderson-island')
+addt('ocean-voyagers','henderson-island')
+addt('trade-networks','henderson-island')
+addt('vanished-landscapes','kap-kobenhavn-edna')
+addt('lost-continents','kap-kobenhavn-edna')
+addt('space-weather','miyake-774 carrington-event')
+addt('vanished-species','dodo kap-kobenhavn-edna haasts-eagle roc-elephant-bird')

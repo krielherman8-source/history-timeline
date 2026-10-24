@@ -9358,7 +9358,8 @@
    "threads": [
     "stories-proven-true",
     "deep-oral-memory",
-    "giant-birds"
+    "giant-birds",
+    "vanished-species"
    ]
   },
   {
@@ -17539,7 +17540,8 @@
    ],
    "threads": [
     "sky-omens",
-    "mysterious-lights"
+    "mysterious-lights",
+    "space-weather"
    ]
   },
   {
@@ -21877,7 +21879,8 @@
     "dragons-and-fossils",
     "stories-proven-true",
     "mass-extinctions",
-    "giant-birds"
+    "giant-birds",
+    "vanished-species"
    ]
   },
   {
@@ -27092,6 +27095,636 @@
     "sunken-cities",
     "lost-treasures",
     "human-sacrifice"
+   ]
+  },
+  {
+   "id": "greek-fire",
+   "title": "Greek fire: the Byzantine liquid fire whose recipe was lost",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 672,
+   "end": 1400,
+   "dateNote": "Invented c. 672 CE; used until about the 14th century",
+   "evidenceTypes": [
+    "textual",
+    "historical"
+   ],
+   "mainstream": "Greek fire was an incendiary weapon used by the Byzantine (Eastern Roman) Empire from the 7th to the 14th centuries. It could keep burning on water, and was sprayed from tubes (siphons) on ships or thrown in grenades. The chronicler Theophanes the Confessor credits its invention, around 672, to Kallinikos, an architect who had fled to Constantinople from Heliopolis in Syria, then overrun by the Muslim conquests. It helped defend Constantinople against Arab fleets, and was later used with devastating effect against Rus' raids on the Bosporus in 941 and 1043. The recipe was a closely guarded state secret: Emperor Constantine VII (r. 945–959) told his son never to reveal it, since it had been 'shown and revealed by an angel' to Constantine the Great. The formula has been lost; rivals tried and failed to copy it.",
+   "alternatives": [
+    {
+     "label": "Petroleum napalm",
+     "text": "Most modern scholars think it was based on crude oil (petroleum) mixed with resins, similar to napalm; the pressurised pumping system may have been as secret as the liquid itself."
+    },
+    {
+     "label": "Other recipes",
+     "text": "Older theories proposed quicklime, which ignites with water, or saltpetre, as in gunpowder; these are now generally rejected."
+    },
+    {
+     "label": "Divine secret",
+     "text": "Byzantine writers described it as a gift from heaven; this is one of many cases where a powerful technology was protected by secrecy and given a sacred origin."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Greek fire",
+     "url": "https://en.wikipedia.org/wiki/Greek_fire",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Greekfire-madridskylitzes1.jpg/500px-Greekfire-madridskylitzes1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Greekfire-madridskylitzes1.jpg",
+     "author": "Unknown authorUnknown author",
+     "license": "Public domain",
+     "title": "Greekfire-madridskylitzes1.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "anomalies"
+   ],
+   "threads": [
+    "ancient-technology",
+    "knowledge-and-power",
+    "lost-evidence"
+   ]
+  },
+  {
+   "id": "justinian-plague",
+   "title": "The Plague of Justinian: the first great plague pandemic",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": 541,
+   "end": 549,
+   "dateNote": "First wave 541–549 CE; recurrences until c. 750",
+   "evidenceTypes": [
+    "textual",
+    "ancient DNA"
+   ],
+   "mainstream": "In 541 CE an epidemic reached the Egyptian port of Pelusium and spread across the Mediterranean, Europe and the Near East, hitting both the Byzantine and the Sasanian Persian empires. The historian Procopius described it in Constantinople, where at its height in 542 it killed about a fifth of the city's population; Emperor Justinian himself caught it and survived. Waves continued until 549, and the disease kept returning in the region for about two centuries. In 2013–2014 DNA from 6th-century skeletons confirmed earlier suspicions that it was caused by Yersinia pestis, the same bacterium behind the Black Death eight centuries later. The ancestor of this strain is related to strains found in the Tian Shan mountains of Central Asia, suggesting it came from there. It struck just a few years after the volcanic 'year without summer' of 536.",
+   "alternatives": [
+    {
+     "label": "How deadly",
+     "text": "Historians disagree on the scale: some see it as a turning point that weakened Rome's attempt to reconquer the West and helped open the way for the early Islamic conquests; Lee Mordechai and Merle Eisenberg argue the sources exaggerate its long-term demographic impact, a view others criticise."
+    },
+    {
+     "label": "Climate and disease",
+     "text": "Some researchers link it to the cold years after the volcanic eruptions of the 530s and 540s, which may have stressed populations and rodents; this connection is still debated."
+    },
+    {
+     "label": "God's punishment",
+     "text": "Contemporary writers, including the church historian John of Ephesus, often understood it in religious terms, as a sign of divine anger and the end times, like many other plagues in history."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Plague of Justinian",
+     "url": "https://en.wikipedia.org/wiki/Plague_of_Justinian",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Yersinia pestis and the Plague of Justinian 541–543 AD: a genomic analysis",
+     "authors": "Wagner, D. et al.",
+     "year": 2014,
+     "doi": "10.1016/S1473-3099(13)70323-2",
+     "type": "paper"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Plaguet03.jpg/500px-Plaguet03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Plaguet03.jpg",
+     "author": "Josse Lieferinxe",
+     "license": "Public domain",
+     "title": "Plaguet03.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "catastrophes",
+    "science-cosmos"
+   ],
+   "threads": [
+    "volcanoes-and-memory",
+    "plagues-and-epidemics",
+    "divine-punishment"
+   ]
+  },
+  {
+   "id": "marble-emperor",
+   "title": "The Marble Emperor: the last Byzantine emperor, turned to stone to await his return",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": 1453,
+   "end": null,
+   "dateNote": "Died 29 May 1453; legend developed under Ottoman rule",
+   "evidenceTypes": [
+    "folklore",
+    "historical"
+   ],
+   "mainstream": "Constantine XI Palaiologos (1404–1453) was the last Byzantine emperor. He died fighting on 29 May 1453 when the Ottoman sultan Mehmed II captured Constantinople, ending an empire that traced its origins to Constantine the Great's founding of the city in 330. Accounts of the details of his death differ. In later Greek folklore he became the Marmaromenos Vasilias, 'the emperor turned into marble'. In the legend, an angel rescued him at the moment of defeat and turned him into marble, hiding him beneath the Golden Gate of Constantinople, where he waits for God's call to come back to life and retake the city and the empire. People also noted that the city was founded by one Constantine and lost under another, just as Rome had been founded by a Romulus and lost under Romulus Augustulus.",
+   "alternatives": [
+    {
+     "label": "National hope",
+     "text": "Under Ottoman rule the legend expressed Greek hopes of liberation and of one day regaining Constantinople."
+    },
+    {
+     "label": "Sleeping king",
+     "text": "The story follows a pattern found across Europe and Asia, where a lost leader sleeps in a hidden place until the moment of greatest need, like Arthur, Frederick Barbarossa or King Gesar."
+    },
+    {
+     "label": "Historical figure",
+     "text": "Historians see Constantine XI mainly as a capable soldier in an impossible position; the legend says more about later memory than about him."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Constantine XI Palaiologos",
+     "url": "https://en.wikipedia.org/wiki/Constantine_XI_Palaiologos",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Fall of Constantinople",
+     "url": "https://en.wikipedia.org/wiki/Fall_of_Constantinople",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Konstantinos_XI_Palaiologos_fresco_%28less_edited%29.jpg/500px-Konstantinos_XI_Palaiologos_fresco_%28less_edited%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Konstantinos_XI_Palaiologos_fresco_(less_edited).jpg",
+     "author": "ILoveHirasawaYui",
+     "license": "CC0",
+     "title": "Konstantinos_XI_Palaiologos_fresco_(less_edited).jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "history"
+   ],
+   "threads": [
+    "returning-saviours",
+    "sleeping-heroes"
+   ]
+  },
+  {
+   "id": "donation-of-constantine",
+   "title": "The Donation of Constantine: the forgery that gave popes an empire",
+   "lane": "history",
+   "status": "debunked",
+   "priority": 1,
+   "start": 750,
+   "end": null,
+   "dateNote": "Forged probably 8th century; exposed by Lorenzo Valla 1439–1440",
+   "evidenceTypes": [
+    "textual",
+    "philological"
+   ],
+   "mainstream": "The Donation of Constantine is a forged Roman imperial decree in which Emperor Constantine the Great supposedly gave Pope Sylvester I and his successors authority over Rome, Italy and the western provinces of the empire, along with imperial insignia and the Lateran Palace, in gratitude for curing his leprosy through baptism. It was probably composed in the 8th century, built on the 5th-century legend of Sylvester (which also has him defeating a dragon in Rome). It was included in the 9th-century Pseudo-Isidorean Decretals and used, especially in the 13th century, to support papal claims to political power. Its authenticity had been challenged since 1001, but in 1439–1440 the Italian humanist Lorenzo Valla proved it a forgery using philology: its Latin used words and forms that did not exist in Constantine's time. It also names the wrong consul for its date.",
+   "alternatives": [
+    {
+     "label": "A founding forgery",
+     "text": "Historians see it as one of the most influential forgeries in history; its exposure is a classic early example of textual criticism, the same methods later used on many other documents."
+    },
+    {
+     "label": "Who forged it",
+     "text": "The forger is unknown; it was probably produced in Rome or in the Frankish world in the 8th century, perhaps linked to papal alliances with the Frankish kings."
+    },
+    {
+     "label": "Belief and power",
+     "text": "For centuries many accepted it in good faith; it shows how a document can shape real politics long before anyone checks it."
+    }
+   ],
+   "changed": 1440,
+   "sources": [
+    {
+     "title": "Wikipedia: Donation of Constantine",
+     "url": "https://en.wikipedia.org/wiki/Donation_of_Constantine",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Lorenzo Valla",
+     "url": "https://en.wikipedia.org/wiki/Lorenzo_Valla",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Sylvester_I_and_Constantine.jpg/500px-Sylvester_I_and_Constantine.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Sylvester_I_and_Constantine.jpg",
+     "author": "Unknown medieval artist in Rome",
+     "license": "Public domain",
+     "title": "Sylvester_I_and_Constantine.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "hoaxes",
+    "religion"
+   ],
+   "threads": [
+    "hoaxes-exposed",
+    "knowledge-and-power",
+    "forged-documents"
+   ]
+  },
+  {
+   "id": "john-dee-enochian",
+   "title": "John Dee, Edward Kelley and the angels' language",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 1582,
+   "end": 1589,
+   "dateNote": "Angelic sessions with Kelley 1582–1589",
+   "evidenceTypes": [
+    "manuscripts (diaries)",
+    "museum objects"
+   ],
+   "mainstream": "John Dee (1527 – 1608/9) was an English mathematician, astronomer, astrologer and adviser to Elizabeth I, who promoted English voyages of exploration and is credited with coining the term 'British Empire'. From 1582 he worked with the scryer Edward Kelley, who gazed into a 'shew-stone' and reported messages from angels. Dee recorded these sessions in detail: the angels dictated several books, some in a special angelic language now called Enochian, with its own alphabet. The two travelled in central Europe, meeting Emperor Rudolf II in Prague and King Stephen Báthory of Poland. In 1587 Kelley said the angel Uriel had ordered them to share everything, including their wives; Dee was distressed but apparently obeyed. Dee died in poverty at Mortlake. The British Museum holds objects linked to him, including an Aztec obsidian mirror, though the link of the mirror to Dee rests on Horace Walpole's later claim.",
+   "alternatives": [
+    {
+     "label": "A made-up language?",
+     "text": "The linguist Donald Laycock found that Enochian's sounds and grammar closely resemble English, with nothing beyond what a person could invent; most scholars think Kelley produced it, consciously or not."
+    },
+    {
+     "label": "Real spirits",
+     "text": "Méric Casaubon, who published the diaries in 1659, believed the spirits were real but evil, deceiving Dee; later occultists adopted Enochian magic as a working system."
+    },
+    {
+     "label": "Scientist and magician",
+     "text": "Historians stress that in Dee's time mathematics, astronomy, astrology and angelic magic were not clearly separated; he hoped the angels would reveal the secrets of nature."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: John Dee",
+     "url": "https://en.wikipedia.org/wiki/John_Dee",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Enochian magic",
+     "url": "https://en.wikipedia.org/wiki/Enochian_magic",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Enochian",
+     "url": "https://en.wikipedia.org/wiki/Enochian",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/John_Dee_Ashmolean.jpg/500px-John_Dee_Ashmolean.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:John_Dee_Ashmolean.jpg",
+     "author": "Unidentified painter",
+     "license": "Public domain",
+     "title": "John_Dee_Ashmolean.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "religion",
+    "anomalies"
+   ],
+   "threads": [
+    "sky-beings",
+    "knowledge-and-power",
+    "altered-states",
+    "hidden-scriptures"
+   ]
+  },
+  {
+   "id": "dodo",
+   "title": "The dodo: a real bird that people later thought was a myth",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1598,
+   "end": 1662,
+   "dateNote": "Recorded 1598; last widely accepted sighting 1662",
+   "evidenceTypes": [
+    "subfossil",
+    "historical accounts",
+    "ancient DNA"
+   ],
+   "mainstream": "The dodo was a flightless bird about 62–75 cm tall that lived only on Mauritius in the Indian Ocean. It belonged to the pigeon family; its closest living relative is the Nicobar pigeon, and its closest relative overall was the also-extinct Rodrigues solitaire. Dutch sailors first recorded it in 1598, and the last widely accepted sighting was in 1662, after hunting and animals introduced by people (such as rats, pigs and monkeys) destroyed it. Its extinction went unnoticed at first, and some later came to think the bird was a myth. Only drawings, paintings and written accounts show what it looked like, and they differ. In 1848 Hugh Strickland and Alexander Melville used the preserved head and foot in Oxford to show it was a real, pigeon-related bird, and large numbers of bones were later dug from the Mare aux Songes swamp. Alice's Adventures in Wonderland (1865) made it famous.",
+   "alternatives": [
+    {
+     "label": "Fat and clumsy?",
+     "text": "The old image of a fat, stupid bird comes partly from overfed captive birds and artists' imagination; modern studies suggest it was well adapted to its island."
+    },
+    {
+     "label": "Symbol of extinction",
+     "text": "The dodo became the world's best-known symbol of human-caused extinction; there are now projects that aim to 'de-extinct' it with genetic engineering, which many scientists question."
+    },
+    {
+     "label": "From fact to myth and back",
+     "text": "Its story shows how quickly a real animal can be doubted, and is often compared with creatures like the okapi or giant squid that moved from legend to science."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Dodo",
+     "url": "https://en.wikipedia.org/wiki/Dodo",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Oxford_Dodo_display.jpg/500px-Oxford_Dodo_display.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Oxford_Dodo_display.jpg",
+     "author": "BazzaDaRambler",
+     "license": "CC BY 2.0",
+     "title": "Oxford_Dodo_display.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "science-cosmos"
+   ],
+   "threads": [
+    "changed-understanding",
+    "stories-proven-true",
+    "mass-extinctions",
+    "vanished-species"
+   ]
+  },
+  {
+   "id": "miyake-774",
+   "title": "The 774 CE cosmic-ray spike and the 'red crucifix' in the sky",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": 774,
+   "end": null,
+   "dateNote": "Spike in 774/775 CE; discovered 2012",
+   "evidenceTypes": [
+    "tree rings",
+    "ice cores",
+    "textual"
+   ],
+   "mainstream": "In 2012 the Japanese physicist Fusa Miyake and colleagues reported a sudden jump in radioactive carbon-14 in the annual rings of Japanese cedars for the year 774/775 CE. It was soon found in trees worldwide, and matching spikes of beryllium-10 and chlorine-36 appear in ice cores. Such 'Miyake events' are now known for 7176 BCE, 5259 BCE, 664–663 BCE, 774 CE and 993 CE, with other candidates including a huge one around 12,350 BCE. Most scientists think they were caused by extreme storms of particles from the Sun, much stronger than any recorded in the modern age; a similar event today could severely damage satellites, communications and power grids. For 774 the Anglo-Saxon Chronicle recorded 'a red crucifix, after sunset', and 'wonderful serpents' seen in Sussex.",
+   "alternatives": [
+    {
+     "label": "What was the red crucifix",
+     "text": "Some have suggested the Chronicle's red cross was an aurora caused by the same solar storm, or a supernova; no supernova remnant of the right age is known, and the link is uncertain."
+    },
+    {
+     "label": "Cosmic time-stamps",
+     "text": "Because the spikes fall in exact years, they can date wood precisely: wood from the Viking site at L'Anse aux Meadows in Newfoundland carries the 993 spike, showing the trees were cut in 1021 CE, proving Europeans were in the Americas that year."
+    },
+    {
+     "label": "Other causes",
+     "text": "A gamma-ray burst from a distant star was proposed for 774, but is considered unlikely because the event also left beryllium and chlorine traces typical of solar particles."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Miyake event",
+     "url": "https://en.wikipedia.org/wiki/Miyake_event",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: 774–775 carbon-14 spike",
+     "url": "https://en.wikipedia.org/wiki/774%E2%80%93775_carbon-14_spike",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "A signature of cosmic-ray increase in ad 774–775 from tree rings in Japan",
+     "authors": "Miyake, F. et al.",
+     "year": 2012,
+     "doi": "10.1038/nature11123",
+     "type": "paper"
+    },
+    {
+     "title": "Evidence for European presence in the Americas in ad 1021",
+     "authors": "Kuitems, M. et al.",
+     "year": 2021,
+     "doi": "10.1038/s41586-021-03972-8",
+     "type": "paper"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Time_profile_of_the_774_AD_spike_in_C-14..jpg/500px-Time_profile_of_the_774_AD_spike_in_C-14..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Time_profile_of_the_774_AD_spike_in_C-14..jpg",
+     "author": "Isosik",
+     "license": "CC BY-SA 4.0",
+     "title": "Time_profile_of_the_774_AD_spike_in_C-14..jpg"
+    }
+   ],
+   "categories": [
+    "science-cosmos",
+    "catastrophes",
+    "anomalies",
+    "history"
+   ],
+   "threads": [
+    "cosmic-impacts",
+    "changed-understanding",
+    "stories-proven-true",
+    "sky-omens",
+    "space-weather"
+   ]
+  },
+  {
+   "id": "hidden-christians-japan",
+   "title": "Shimabara and Japan's hidden Christians: a boy messiah and 250 years of secret faith",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1637,
+   "end": 1873,
+   "dateNote": "Rebellion 1637–1638; hidden Christianity until 1873",
+   "evidenceTypes": [
+    "historical",
+    "ethnographic"
+   ],
+   "mainstream": "Christianity spread in Japan after Jesuit missionaries arrived in the 16th century, but the Tokugawa shogunate banned it. In December 1637, in the Shimabara and Amakusa region of Kyushu, heavy taxes and violent persecution under the lord Matsukura Katsuie sparked a rebellion of peasants and masterless samurai, many of them Catholics. Their leader was a teenager, Amakusa Shirō, known to followers as 'Heaven's messenger', to whom miraculous powers were attributed. The rebels held Hara Castle for months against a shogunate army of more than 125,000, which was helped by Dutch gunpowder, cannon and a Dutch ship. In April 1638 the castle fell; Shirō and an estimated 37,000 rebels and sympathisers were killed, and Japan tightened its seclusion and anti-Christian laws. Many Christians went underground for about 250 years, as Kakure Kirishitan ('hidden Christians'): they disguised the Virgin Mary as the Buddhist Kannon ('Maria Kannon') and passed down prayers orally, with Latin, Portuguese and Spanish words. When the ban was lifted in 1873, about 30,000 came out of hiding.",
+   "alternatives": [
+    {
+     "label": "Religious or economic",
+     "text": "It is often told as a Christian uprising, but the academic consensus is that it was driven mainly by peasant anger at misrule, with Christian identity becoming central as it spread."
+    },
+    {
+     "label": "Prophecy and messiah",
+     "text": "Shirō's role as a charismatic youth with miraculous powers fits a worldwide pattern of messianic leaders in rebellions against overwhelming power."
+    },
+    {
+     "label": "Faith that changed",
+     "text": "Some hidden-Christian communities, the Hanare Kirishitan, chose not to rejoin the Catholic Church, because their own tradition had become a distinct religion over centuries of secrecy."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Shimabara Rebellion",
+     "url": "https://en.wikipedia.org/wiki/Shimabara_Rebellion",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Amakusa Shirō",
+     "url": "https://en.wikipedia.org/wiki/Amakusa_Shir%C5%8D",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Kakure Kirishitan",
+     "url": "https://en.wikipedia.org/wiki/Kakure_Kirishitan",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/C-613_E0183363.jpg/500px-C-613_E0183363.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:C-613_E0183363.jpg",
+     "author": "東京国立博物館",
+     "license": "CC BY 4.0",
+     "title": "C-613_E0183363.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "religion"
+   ],
+   "threads": [
+    "millenarian-movements",
+    "suppressed-beliefs"
+   ]
+  },
+  {
+   "id": "henderson-island",
+   "title": "Henderson Island: a Polynesian island whose people vanished",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 800,
+   "end": 1450,
+   "dateNote": "Settled possibly from c. 800 CE; abandoned before the 1600s",
+   "evidenceTypes": [
+    "archaeological",
+    "historical"
+   ],
+   "mainstream": "Henderson Island is an uninhabited raised coral island of about 37 km² in the Pitcairn group in the South Pacific, with poor soil, little fresh water and cliffs. Polynesians settled it, possibly from around 800 CE, and lived there for about 600 years, but by the 1600s it was empty. When the Portuguese captain Pedro Fernandes de Queirós, sailing for Spain, sighted it in 1606, no one lived there; Captain Henderson of the Hercules rediscovered it in 1819. The next year survivors of the whaleship Essex, sunk by a sperm whale (the inspiration for Moby-Dick), landed there. Its small community seems to have depended on trade with Pitcairn and with Mangareva for stone and other basics; when those links broke, the people disappeared. It is now a UNESCO World Heritage Site (1988) and, ironically, one of the places most polluted by plastic waste on Earth, carried by the South Pacific Gyre.",
+   "alternatives": [
+    {
+     "label": "Collapse of a network",
+     "text": "The mainstream explanation, popularised by Jared Diamond, is that Henderson and Pitcairn were at the end of a trade chain from Mangareva; when Mangareva's forests and society declined, the outlying islands could not survive alone."
+    },
+    {
+     "label": "Moving on",
+     "text": "Some researchers suggest the people may have moved on rather than died out, noting links between Henderson, Pitcairn and Easter Island in language, tools and skulls."
+    },
+    {
+     "label": "Mystery islands",
+     "text": "Henderson is one of several Pacific islands found empty by Europeans but with traces of earlier Polynesian life, a pattern that once fed theories of lost peoples."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Henderson Island (Pitcairn Islands)",
+     "url": "https://en.wikipedia.org/wiki/Henderson_Island_(Pitcairn_Islands)",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Mangareva",
+     "url": "https://en.wikipedia.org/wiki/Mangareva",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Henderson_Island_ESA392791.jpg/500px-Henderson_Island_ESA392791.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Henderson_Island_ESA392791.jpg",
+     "author": "European Space Agency",
+     "license": "CC BY-SA 3.0 igo",
+     "title": "Henderson_Island_ESA392791.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology",
+    "lost-civilisations"
+   ],
+   "threads": [
+    "ocean-voyagers",
+    "civilisation-collapses",
+    "disappearances",
+    "trade-networks"
+   ]
+  },
+  {
+   "id": "kap-kobenhavn-edna",
+   "title": "Two-million-year-old DNA: mastodons in a warm Greenland forest",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": -2000000,
+   "end": null,
+   "dateNote": "Sediments c. 2 million years old; DNA published 2022",
+   "evidenceTypes": [
+    "environmental DNA",
+    "geological"
+   ],
+   "mainstream": "The Kap København Formation is a set of sediments at the northern tip of Greenland. In 2022 a team led by Kurt Kjær and Eske Willerslev published DNA extracted from these sediments, collected in 2006: about two million years old, it was by far the oldest DNA ever sequenced. The DNA, bound to minerals in the sediment, revealed an open forest of poplar, birch and willow with avens and bilberry, animals including mastodons, hares, geese and reindeer, and, in the nearby sea, horseshoe crabs and corals. Average minimum temperatures were more than 10 °C warmer than today. The mastodon DNA showed that these elephant relatives once ranged much further north than anyone knew. Nothing like this ecosystem exists anywhere on Earth today.",
+   "alternatives": [
+    {
+     "label": "A window on warm climates",
+     "text": "The researchers see it as a guide to how life adapted to a much warmer Arctic, useful for understanding future climate change."
+    },
+    {
+     "label": "How DNA survived",
+     "text": "Scientists had assumed DNA could not last this long; the team found that DNA bound to clay and quartz minerals can survive far longer than free DNA, especially in cold conditions."
+    },
+    {
+     "label": "Lost worlds",
+     "text": "The finding is a real example of a 'lost world' in the far north, though from long before humans, so unrelated to legends of Hyperborea or lost polar civilisations."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Kap Kobenhavn Formation",
+     "url": "https://en.wikipedia.org/wiki/Kap_Kobenhavn_Formation",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "A 2-million-year-old ecosystem in Greenland uncovered by environmental DNA",
+     "authors": "Kjær, K. et al.",
+     "year": 2022,
+     "doi": "10.1038/s41586-022-05453-y",
+     "type": "paper"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Kap_Kobenhavn_Formation.jpg/500px-Kap_Kobenhavn_Formation.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Kap_Kobenhavn_Formation.jpg",
+     "author": "Kjær, K. H.; Pedersen, M. W.; De Sanctis, B.; De Cahsan, B.; Korneliussen, T. S.; Michelsen, C. S.; Sand, K. K.; Jelavić",
+     "license": "CC BY-SA 4.0",
+     "title": "Kap_Kobenhavn_Formation.jpg"
+    }
+   ],
+   "categories": [
+    "science-cosmos"
+   ],
+   "threads": [
+    "changed-understanding",
+    "lost-continents",
+    "vanished-landscapes",
+    "vanished-species"
    ]
   }
  ]
