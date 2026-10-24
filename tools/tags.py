@@ -1041,3 +1041,44 @@ addt('outsider-builder-claims','zorats-karer')
 addt('divine-punishment','amirani amber-road')
 addt('sleeping-heroes','arthur seven-sleepers kitezh')
 addt('suppressed-beliefs','ghost-dance')
+
+# --- batch 12 part 3 (Siberia, Mongolia, Tibet; West and Central Africa; the Andes)
+C.update({
+'shigir-idol':'archaeology history anomalies',
+'deer-stones':'archaeology history religion',
+'king-gesar':'myth-legend religion',
+'denisovan-tibet':'science-cosmos archaeology history',
+'terma-tibet':'religion myth-legend',
+'kimpa-vita':'history religion',
+'senegambian-circles':'archaeology history',
+'lake-bosumtwi':'science-cosmos catastrophes myth-legend religion',
+'nsibidi':'history archaeology',
+'titicaca-offerings':'archaeology religion myth-legend',
+})
+addt('hunter-gatherer-monuments','shigir-idol gobekli-tepe lepenski-vir jericho-tower')
+addt('hidden-scriptures','terma-tibet dead-sea-scrolls copper-scroll enoch')
+addt('visionary-women','kimpa-vita nongqawuse delphi-oracle miracle-of-sun')
+addt('stone-circles','senegambian-circles stonehenge carnac nabta-playa zorats-karer')
+addt('changed-understanding','shigir-idol denisovan-tibet')
+addt('seeing-what-we-expect','shigir-idol')
+addt('sleeping-heroes','king-gesar')
+addt('hidden-kingdoms','king-gesar terma-tibet')
+addt('human-origins','denisovan-tibet')
+addt('genetic-migrations','denisovan-tibet')
+addt('giants-and-little-people','denisovan-tibet')
+addt('lost-treasures','terma-tibet titicaca-offerings')
+addt('forged-documents','terma-tibet')
+addt('millenarian-movements','kimpa-vita')
+addt('suppressed-beliefs','kimpa-vita')
+addt('giant-monuments','deer-stones senegambian-circles')
+addt('hidden-tombs','deer-stones senegambian-circles')
+addt('sacred-kingship','deer-stones king-gesar')
+addt('altered-states','deer-stones')
+addt('cosmic-impacts','lake-bosumtwi')
+addt('stories-proven-true','lake-bosumtwi titicaca-offerings')
+addt('origins-of-writing','nsibidi')
+addt('secret-societies','nsibidi')
+addt('sunken-cities','titicaca-offerings')
+addt('flood-myths','titicaca-offerings')
+addt('human-sacrifice','titicaca-offerings')
+addt('outsider-builder-claims','senegambian-circles')

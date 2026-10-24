@@ -804,7 +804,8 @@
    ],
    "threads": [
     "lost-civilisations",
-    "changed-understanding"
+    "changed-understanding",
+    "hunter-gatherer-monuments"
    ]
   },
   {
@@ -1111,7 +1112,8 @@
     "history"
    ],
    "threads": [
-    "ancient-astronomy"
+    "ancient-astronomy",
+    "stone-circles"
    ]
   },
   {
@@ -1749,7 +1751,8 @@
     "aliens-ufo"
    ],
    "threads": [
-    "sky-beings"
+    "sky-beings",
+    "hidden-scriptures"
    ]
   },
   {
@@ -4135,7 +4138,8 @@
    ],
    "threads": [
     "sky-omens",
-    "collective-experiences"
+    "collective-experiences",
+    "visionary-women"
    ]
   },
   {
@@ -8478,7 +8482,8 @@
    ],
    "threads": [
     "ancient-astronomy",
-    "vanished-landscapes"
+    "vanished-landscapes",
+    "stone-circles"
    ]
   },
   {
@@ -16306,7 +16311,8 @@
    "threads": [
     "hoaxes-exposed",
     "stories-proven-true",
-    "knowledge-and-power"
+    "knowledge-and-power",
+    "hidden-scriptures"
    ]
   },
   {
@@ -16368,7 +16374,8 @@
    ],
    "threads": [
     "sacred-relics",
-    "lost-treasures"
+    "lost-treasures",
+    "hidden-scriptures"
    ]
   },
   {
@@ -17258,7 +17265,8 @@
    "threads": [
     "changed-understanding",
     "giant-monuments",
-    "ancient-astronomy"
+    "ancient-astronomy",
+    "hunter-gatherer-monuments"
    ]
   },
   {
@@ -17960,7 +17968,8 @@
    "threads": [
     "giant-monuments",
     "ancient-astronomy",
-    "petrified-beings"
+    "petrified-beings",
+    "stone-circles"
    ]
   },
   {
@@ -18253,7 +18262,8 @@
    "threads": [
     "changed-understanding",
     "knowledge-and-power",
-    "altered-states"
+    "altered-states",
+    "visionary-women"
    ]
   },
   {
@@ -20759,7 +20769,8 @@
    ],
    "threads": [
     "returning-saviours",
-    "millenarian-movements"
+    "millenarian-movements",
+    "visionary-women"
    ]
   },
   {
@@ -23920,7 +23931,8 @@
    ],
    "threads": [
     "changed-understanding",
-    "genetic-migrations"
+    "genetic-migrations",
+    "hunter-gatherer-monuments"
    ]
   },
   {
@@ -26254,7 +26266,8 @@
     "giant-monuments",
     "ancient-astronomy",
     "outsider-builder-claims",
-    "seeing-what-we-expect"
+    "seeing-what-we-expect",
+    "stone-circles"
    ]
   },
   {
@@ -26447,6 +26460,638 @@
     "serpent-beings",
     "rain-and-drought",
     "water-engineering"
+   ]
+  },
+  {
+   "id": "shigir-idol",
+   "title": "The Shigir Idol: a 5-metre wooden god carved by hunter-gatherers 11,500 years ago",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": -9500,
+   "end": null,
+   "dateNote": "Carved c. 11,500 years ago (c. 9500 BCE); found 1890",
+   "evidenceTypes": [
+    "archaeological",
+    "radiocarbon (AMS)",
+    "dendrology"
+   ],
+   "mainstream": "The Shigir Idol is the oldest known monumental wooden sculpture. Gold prospectors' workers found it on 24 January 1890 at a depth of 4 m in the Shigir peat bog on the eastern slope of the Middle Urals, near Kirovgrad, about 100 km from Yekaterinburg. It was carved with stone tools from a single larch trunk at least 159 years old, and pulled out in ten pieces. Its flat body is covered in zigzags and lines and carries several human faces, with a head at the top. Professor D. I. Lobanov reassembled it to 2.8 m; in 1914 the archaeologist Vladimir Tolmachev used extra fragments to propose an original height of 5.3 m, though some of those pieces were later lost and survive only in his drawings. Radiocarbon dates in the 1990s gave about 9,500 years, and later German AMS dating pushed it back to about 11,500 years ago, at the very start of the Holocene, roughly twice the age of the Great Pyramid. It is in the Sverdlovsk Regional Museum of Local Lore in Yekaterinburg.",
+   "alternatives": [
+    {
+     "label": "Hunter-gatherer monument",
+     "text": "The dating means people who lived by hunting, fishing and gathering made monumental, symbolic art, like the contemporary carved pillars of Göbekli Tepe in Turkey; this challenges the older idea that complex ritual art came only after farming."
+    },
+    {
+     "label": "Too old to believe",
+     "text": "When the first radiocarbon date came back, some scholars thought it must be wrong because they did not believe hunter-gatherers could make such an object; later dating proved it even older."
+    },
+    {
+     "label": "Coded meanings",
+     "text": "The faces and zigzags have been read as spirits, a creation myth, a boundary marker or a map; there is no way to test these ideas, and the researchers note that wooden art of this age is almost never preserved."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Shigir Idol",
+     "url": "https://en.wikipedia.org/wiki/Shigir_Idol",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Göbekli Tepe",
+     "url": "https://en.wikipedia.org/wiki/G%C3%B6bekli_Tepe",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/The_Big_Shigir_idol_-_The_Museum_of_History_and_Archeology_of_the_Urals.jpg/500px-The_Big_Shigir_idol_-_The_Museum_of_History_and_Archeology_of_the_Urals.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:The_Big_Shigir_idol_-_The_Museum_of_History_and_Archeology_of_the_Urals.jpg",
+     "author": "Лапоть",
+     "license": "CC0",
+     "title": "The_Big_Shigir_idol_-_The_Museum_of_History_and_Archeology_of_the_Urals.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history",
+    "anomalies"
+   ],
+   "threads": [
+    "changed-understanding",
+    "seeing-what-we-expect",
+    "hunter-gatherer-monuments"
+   ]
+  },
+  {
+   "id": "deer-stones",
+   "title": "Deer stones: Mongolia's tattooed warriors in stone with flying deer",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -1300,
+   "end": null,
+   "dateNote": "Mostly c. 1400–700 BCE",
+   "evidenceTypes": [
+    "archaeological",
+    "iconographic"
+   ],
+   "mainstream": "Deer stones are carved standing stones of granite or greenstone, found mainly in Mongolia and southern Siberia; of more than 1,500 known, over 1,300 are in Mongolia, and a few scattered examples reach as far west as the Kuban, Ukraine, Bulgaria and the Elbe. Most date from about 1400 to 700 BCE, the Late Bronze and Early Iron Age. Most are over 0.9 m tall (some reach 4.6 m), their 'face' usually turns east, and they often stand near khirigsuurs, large stone burial mounds. Each stone is a stylised human body: a belt hung with weapons and tools such as a bow case, a shield on the back, earrings and a necklace, and sometimes a face. The body is covered with elegant 'flying deer' with long beak-like snouts and swept-back antlers. The work required suggests the first complex, hierarchical societies on the Mongolian steppe, ancestors of later nomadic states.",
+   "alternatives": [
+    {
+     "label": "Tattooed bodies",
+     "text": "The flying deer may show tattoos: similar deer tattoos were found on frozen bodies of the later Pazyryk culture in the Altai, so the stones may represent real tattooed leaders."
+    },
+    {
+     "label": "Spirit journeys",
+     "text": "Some scholars connect the flying deer to beliefs in deer carrying souls to the sky, later seen in Siberian shamanism; this is an interpretation."
+    },
+    {
+     "label": "Cut by machine?",
+     "text": "A few stones show cuts that the Wikipedia summary describes as possibly made with a primitive mechanical drill, and the tops of some were deliberately smashed; these details are unexplained but not anomalous for metal-using societies."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Deer stones culture",
+     "url": "https://en.wikipedia.org/wiki/Deer_stones_culture",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Khirigsuur",
+     "url": "https://en.wikipedia.org/wiki/Khirigsuur",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Tsatsyn_Denj_Deerstone.jpg/500px-Tsatsyn_Denj_Deerstone.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Tsatsyn_Denj_Deerstone.jpg",
+     "author": "James Glazier",
+     "license": "CC BY-SA 4.0",
+     "title": "Tsatsyn_Denj_Deerstone.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history",
+    "religion"
+   ],
+   "threads": [
+    "giant-monuments",
+    "hidden-tombs",
+    "sacred-kingship",
+    "altered-states"
+   ]
+  },
+  {
+   "id": "king-gesar",
+   "title": "King Gesar of Ling: the world's longest epic, still sung, and a hero who will return",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": 1100,
+   "end": null,
+   "dateNote": "Core formed by c. 12th century CE; oral tradition still alive",
+   "evidenceTypes": [
+    "oral epic",
+    "textual"
+   ],
+   "mainstream": "The Epic of King Gesar tells of Gesar, a divine being sent to earth to become the fearless king of Ling and to defeat demons and enemy kings, and to bring order to the land. Its classic form probably took shape by about the 12th century, and it spread from Tibet to Mongolia, Buryatia, Ladakh, Baltistan, Hunza and the Kalmyks. It is still performed: about 100 bards remain active in the 'Gesar belt' of China. There is no single text; a Chinese compilation of Tibetan versions fills about 120 volumes and more than a million verses, so it is often called the longest epic in the world. The first printed version was a Mongolian text published in Beijing in 1716. Instead of dying, Gesar departs to a hidden realm from which he may return to save his people.",
+   "alternatives": [
+    {
+     "label": "Caesar in Tibet?",
+     "text": "Some scholars have proposed that the name Gesar comes from the Roman title Caesar, passed via the Byzantine and Turkic world (kaiser), or via the 8th-century Turkic ruler of Kabul called Fromo Kesaro ('Caesar of Rome'); a king Phrom Ge-sar appears in some Tibetan versions. This is debated."
+    },
+    {
+     "label": "Prophecy",
+     "text": "Gesar's withdrawal to a hidden realm, ready to come back, ties him to the worldwide pattern of sleeping or returning heroes such as Arthur; in some later Buddhist writings he is linked to the hidden kingdom of Shambhala."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Epic of King Gesar",
+     "url": "https://en.wikipedia.org/wiki/Epic_of_King_Gesar",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Gesar_Gruschke.jpg/500px-Gesar_Gruschke.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Gesar_Gruschke.jpg",
+     "author": "Gruschke Anonymer tibetischer Maler",
+     "license": "CC BY-SA 3.0 de",
+     "title": "Gesar_Gruschke.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion"
+   ],
+   "threads": [
+    "sacred-kingship",
+    "hidden-kingdoms",
+    "sleeping-heroes"
+   ]
+  },
+  {
+   "id": "denisovan-tibet",
+   "title": "The Denisovan gene that lets Tibetans breathe at altitude, and a jaw found by a meditating monk",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": -160000,
+   "end": null,
+   "dateNote": "Xiahe jaw c. 160,000 years old; found 1980, identified 2019",
+   "evidenceTypes": [
+    "genetic",
+    "fossil",
+    "palaeoproteomic"
+   ],
+   "mainstream": "Denisovans are an extinct group of archaic humans first identified in 2010 from DNA in a finger bone from Denisova Cave in Siberia. In 2014 geneticists showed that many Tibetans carry a version of the gene EPAS1, which helps the body cope with low oxygen, that matches the Denisovan genome; the variant probably entered modern humans through interbreeding and then spread because it helped people live on the high plateau. In 1980 a Tibetan Buddhist monk meditating in Baishiya Karst Cave, a Buddhist sanctuary high on the north-east edge of the Tibetan Plateau, found half of a human lower jaw. In 2019, analysis of ancient proteins in its teeth identified it as Denisovan, about 160,000 years old: the first Denisovan fossil found outside Denisova Cave and proof that archaic humans lived at high altitude long before modern humans. The cave is said in tradition to have been an abode of Padmasambhava.",
+   "alternatives": [
+    {
+     "label": "Inherited adaptation",
+     "text": "The mainstream view is that this is an example of adaptive introgression: modern humans picked up a useful gene from people already adapted to the environment."
+    },
+    {
+     "label": "Hidden people in myths",
+     "text": "Some writers link Denisovans and other archaic humans to legends of wild men, giants and yeti-like beings in Asia; there is no evidence connecting specific legends to them."
+    },
+    {
+     "label": "A face for the Denisovans",
+     "text": "In 2025, proteins and DNA linked the Harbin skull (Homo longi) to the Denisovans, which may finally show what they looked like; research is ongoing."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Denisovan",
+     "url": "https://en.wikipedia.org/wiki/Denisovan",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: EPAS1",
+     "url": "https://en.wikipedia.org/wiki/EPAS1",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Xiahe mandible",
+     "url": "https://en.wikipedia.org/wiki/Xiahe_mandible",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Baishiya Karst Cave",
+     "url": "https://en.wikipedia.org/wiki/Baishiya_Karst_Cave",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Altitude adaptation in Tibetans caused by introgression of Denisovan-like DNA",
+     "authors": "Huerta-Sánchez, E. et al.",
+     "year": 2014,
+     "doi": "10.1038/nature13408",
+     "type": "paper"
+    },
+    {
+     "title": "A late Middle Pleistocene Denisovan mandible from the Tibetan Plateau",
+     "authors": "Chen, F. et al.",
+     "year": 2019,
+     "doi": "10.1038/s41586-019-1139-x",
+     "type": "paper"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Xiahe_mandible.jpg/500px-Xiahe_mandible.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Xiahe_mandible.jpg",
+     "author": "Dongju Zhang",
+     "license": "CC BY-SA 4.0",
+     "title": "Xiahe_mandible.jpg"
+    }
+   ],
+   "categories": [
+    "science-cosmos",
+    "archaeology",
+    "history"
+   ],
+   "threads": [
+    "changed-understanding",
+    "giants-and-little-people",
+    "human-origins",
+    "genetic-migrations"
+   ]
+  },
+  {
+   "id": "terma-tibet",
+   "title": "Terma: Tibetan treasure texts hidden by Padmasambhava for the future",
+   "lane": "myth",
+   "status": "disputed",
+   "priority": 2,
+   "start": 1350,
+   "end": null,
+   "dateNote": "Terma tradition from c. 10th–11th centuries; Bardo Thodol revealed 14th century",
+   "evidenceTypes": [
+    "textual",
+    "religious tradition"
+   ],
+   "mainstream": "In the Nyingma school of Tibetan Buddhism and in Bon, terma ('hidden treasures') are teachings believed to have been hidden in the 8th century by the master Padmasambhava and his consort Yeshe Tsogyal, to be found centuries later by treasure revealers (tertöns) when the time was right. A terma may be a physical object, such as a scroll or ritual tool buried in the ground or hidden in rocks, water or trees, or a 'mind treasure' that arises in the revealer's mind; a few symbolic letters can trigger the revealer's memory of a whole text. The most famous terma outside Tibet is the Bardo Thodol, popularly called the Tibetan Book of the Dead, revealed by Karma Lingpa in the 14th century. Similar ideas of hidden teachings recovered later exist in India, such as Nagarjuna's recovery of a sutra from the realm of the nagas.",
+   "alternatives": [
+    {
+     "label": "Continuous revelation",
+     "text": "Within the tradition, terma are genuine teachings, timed for when people are ready, and are tested by elaborate procedures; believers see this as a way the teaching stays alive."
+    },
+    {
+     "label": "New texts with old authority",
+     "text": "Historians see terma as a way that new religious texts could be accepted by attributing them to an ancient master; Tibetan critics themselves sometimes questioned particular revelations."
+    },
+    {
+     "label": "Global pattern",
+     "text": "Hidden scriptures recovered at the right moment appear in many traditions, from the Book of the Law 'found' in the Jerusalem Temple under King Josiah to Joseph Smith's golden plates."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Terma (religion)",
+     "url": "https://en.wikipedia.org/wiki/Terma_(religion)",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Bardo Thodol",
+     "url": "https://en.wikipedia.org/wiki/Bardo_Thodol",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/BardoThodolChenmo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:BardoThodolChenmo.jpg",
+     "author": "Unknown authorUnknown author.",
+     "license": "Public domain",
+     "title": "BardoThodolChenmo.jpg"
+    }
+   ],
+   "categories": [
+    "religion",
+    "myth-legend"
+   ],
+   "threads": [
+    "hidden-kingdoms",
+    "lost-treasures",
+    "forged-documents",
+    "hidden-scriptures"
+   ]
+  },
+  {
+   "id": "kimpa-vita",
+   "title": "Kimpa Vita: the Kongolese prophetess who said Jesus was born in Kongo",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1704,
+   "end": 1706,
+   "dateNote": "Movement 1704–1706; executed 2 July 1706",
+   "evidenceTypes": [
+    "textual (missionary records)",
+    "historical"
+   ],
+   "mainstream": "Dona Beatriz Kimpa Vita (1684 – 2 July 1706) was a young noblewoman of the Kingdom of Kongo, in today's Angola and DR Congo, which had been officially Catholic since the 16th century. Kongo had been torn by civil war since the Battle of Mbwila in 1665, and the old capital São Salvador (Mbanza Kongo) had been abandoned. In 1704, during an illness, she said she had died and been possessed by Saint Anthony, who sent her to reunite Kongo under one king. Her movement, Antonianism, taught that Jesus and other holy figures were Kongolese, adapted Catholic prayers, and attacked both traditional charms (nkisi) and the European missionaries; thousands of followers resettled the ruined capital. Accused of heresy, she was burned at the stake on 2 July 1706 on the orders of King Pedro IV, after he consulted Italian Capuchin friars including Bernardo da Gallo. Her movement's years are among the best documented in Kongo's history.",
+   "alternatives": [
+    {
+     "label": "African Christianity",
+     "text": "Historians such as John Thornton (The Kongolese Saint Anthony, 1998) see her as part of a long tradition of Kongolese Christianity that made the faith local; she is often compared with later Congolese prophetic movements such as Kimbanguism."
+    },
+    {
+     "label": "Political prophet",
+     "text": "Some today honour her as a heroine of African resistance to European religious and colonial power; others stress that she was above all a religious reformer within Kongo's civil wars."
+    },
+    {
+     "label": "Sainthood and doubt",
+     "text": "She reportedly came to doubt her own mission after becoming pregnant despite preaching chastity; the main sources are hostile Capuchin accounts, so her own voice survives only through them."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Kimpa Vita",
+     "url": "https://en.wikipedia.org/wiki/Kimpa_Vita",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Antonianism",
+     "url": "https://en.wikipedia.org/wiki/Antonianism",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Kimpa_Vita_%C2%B4s_statue_in_Angola.jpg/500px-Kimpa_Vita_%C2%B4s_statue_in_Angola.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Kimpa_Vita_%C2%B4s_statue_in_Angola.jpg",
+     "author": "Somebody040404",
+     "license": "CC BY-SA 4.0",
+     "title": "Kimpa_Vita_´s_statue_in_Angola.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "religion"
+   ],
+   "threads": [
+    "millenarian-movements",
+    "suppressed-beliefs",
+    "visionary-women"
+   ]
+  },
+  {
+   "id": "senegambian-circles",
+   "title": "Senegambian stone circles: the world's largest concentration of stone circles",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -300,
+   "end": 1500,
+   "dateNote": "Built between c. 3rd century BCE and 16th century CE",
+   "evidenceTypes": [
+    "archaeological"
+   ],
+   "mainstream": "Across an area about 350 km long and 100 km wide in the Gambia and central Senegal, along the Gambia River, stand more than 1,000 stone circles and burial mounds, the largest concentration of stone circles in the world. The four main sites, Sine Ngayène and Wanar in Senegal and Wassu and Kerr Batch in the Gambia, together have around 29,000 stones in about 17,000 monuments. The stones are pillars of laterite, cut with iron tools, arranged in circles and double circles; others stand apart, usually to the east (frontal stones), and pairs of connected parallel rows of frontal stones are called lyre stones. Burials, pottery and iron objects are found in and around them. They were built over a long period, generally put between the 3rd century BCE and the 16th century CE. They were inscribed as a UNESCO World Heritage Site in 2006.",
+   "alternatives": [
+    {
+     "label": "Who built them",
+     "text": "There are no written records; archaeologists link them to ancestors of local peoples and to iron-using societies with chiefs or elites honoured by large funerary monuments."
+    },
+    {
+     "label": "Astronomy and sacred space",
+     "text": "Some have suggested astronomical alignments, as for European stone circles; most researchers see them as funerary monuments marking a sacred landscape used for more than 1,500 years."
+    },
+    {
+     "label": "Parallel worlds",
+     "text": "They are often compared with British and Breton stone circles, which are thousands of years older; the similarity is in form, not in time or culture."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Senegambian stone circles",
+     "url": "https://en.wikipedia.org/wiki/Senegambian_stone_circles",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "UNESCO World Heritage: Stone Circles of Senegambia",
+     "url": "https://whc.unesco.org/en/list/1226/",
+     "type": "official"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Wassu_Stone_Circle.jpg/500px-Wassu_Stone_Circle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Wassu_Stone_Circle.jpg",
+     "author": "Niels Broekzitter https://www.flickr.com/people/nbroekzitter86/",
+     "license": "CC BY 2.0",
+     "title": "Wassu_Stone_Circle.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history"
+   ],
+   "threads": [
+    "giant-monuments",
+    "hidden-tombs",
+    "outsider-builder-claims",
+    "stone-circles"
+   ]
+  },
+  {
+   "id": "lake-bosumtwi",
+   "title": "Lake Bosumtwi: Ghana's sacred crater lake, where souls say farewell to the Earth goddess",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -1070000,
+   "end": null,
+   "dateNote": "Crater formed c. 1.07 million years ago",
+   "evidenceTypes": [
+    "geological",
+    "oral tradition",
+    "palaeoclimate"
+   ],
+   "mainstream": "Lake Bosumtwi (Bosomtwe), about 30 km south-east of Kumasi, is Ghana's only natural lake. It lies in a meteorite impact crater about 10.5 km across, formed about 1.07 million years ago; tektites (glassy impact debris) thrown out by it are found in neighbouring Côte d'Ivoire. The Asante consider it sacred: in traditional belief the souls of the dead come here to bid farewell to the Earth goddess Asase Ya, and it has been considered proper to fish in the lake only from wooden planks. About 30 villages, with some 70,000 people, lie around the lake.",
+   "alternatives": [
+    {
+     "label": "Legend confirmed by science",
+     "text": "Local tradition held that the lake was once much smaller; sediment cores show that a period of low water, when forest grew in the basin, lasted until about 300 years ago."
+    },
+    {
+     "label": "Impact memory?",
+     "text": "The impact happened long before modern humans, so the sacredness of the lake cannot be a memory of it; its unusual round shape and lack of outlets are enough to explain why it was seen as special."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Lake Bosumtwi",
+     "url": "https://en.wikipedia.org/wiki/Lake_Bosumtwi",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/An_Explosive_Beginning_for_Lake_Bosumtwi_%28154739_-_151229_lrg%29.jpg/500px-An_Explosive_Beginning_for_Lake_Bosumtwi_%28154739_-_151229_lrg%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:An_Explosive_Beginning_for_Lake_Bosumtwi_(154739_-_151229_lrg).jpg",
+     "author": "NASA Earth Observatory images by Michala Garrison, using Landsat data from the U.S. Geological Survey. Story by Adam Voi",
+     "license": "Public domain",
+     "title": "An_Explosive_Beginning_for_Lake_Bosumtwi_(154739_-_151229_lrg).jpg"
+    }
+   ],
+   "categories": [
+    "science-cosmos",
+    "catastrophes",
+    "myth-legend",
+    "religion"
+   ],
+   "threads": [
+    "cosmic-impacts",
+    "stories-proven-true"
+   ]
+  },
+  {
+   "id": "nsibidi",
+   "title": "Nsibidi: the secret sign-writing of the leopard societies that crossed to Cuba and Haiti",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1500,
+   "end": null,
+   "dateNote": "Age uncertain; documented from c. 1900; possibly centuries older",
+   "evidenceTypes": [
+    "ethnographic",
+    "inscriptions",
+    "textual"
+   ],
+   "mainstream": "Nsibidi is a system of symbols, often called proto-writing, from the Cross River region of south-eastern Nigeria and south-western Cameroon, usually attributed to the Ejagham (Ekoi) people. Hundreds of pictographic and abstract signs were drawn on walls, calabashes, brass, leaves, swords, textiles and as tattoos. Its fullest and most secret forms were kept by the Ekpe (Egbo) and Mgbe 'leopard' societies, men's associations that acted as governments and courts among the Efik, Ejagham, Igbo and their neighbours; a simpler public version could be used by women. Through the Atlantic slave trade nsibidi reached Cuba and Haiti, where it developed into the anaforuana signs of the Cuban Abakuá society (which descends from Ekpe) and influenced Haitian veve symbols. The Ikom monoliths of Cross River, about 300 carved stones possibly from around 200 CE, carry designs that some researchers think may be related.",
+   "alternatives": [
+    {
+     "label": "Writing or symbols",
+     "text": "It is usually classed as pictographic; scholars debate whether some signs worked as logograms or syllabic signs, which would make it a true writing system."
+    },
+    {
+     "label": "How old",
+     "text": "Its age is unknown; claims that it is many centuries or even more than a thousand years old depend mainly on links to the Ikom monoliths, which are themselves poorly dated."
+    },
+    {
+     "label": "Secret societies across the ocean",
+     "text": "The survival of Ekpe/Abakuá and its signs in Cuba is one of the clearest cases of an African institution re-created in the Americas, and part of a wider pattern of secret knowledge passed through initiation."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Nsibidi",
+     "url": "https://en.wikipedia.org/wiki/Nsibidi",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Ikom monoliths",
+     "url": "https://en.wikipedia.org/wiki/Ikom_monoliths",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Abakuá",
+     "url": "https://en.wikipedia.org/wiki/Abaku%C3%A1",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Ikom_monolith%2C_Calabar_Museum.jpg/500px-Ikom_monolith%2C_Calabar_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Ikom_monolith,_Calabar_Museum.jpg",
+     "author": "Jeremy Weate",
+     "license": "CC BY 2.0",
+     "title": "Ikom_monolith,_Calabar_Museum.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology"
+   ],
+   "threads": [
+    "origins-of-writing",
+    "secret-societies"
+   ]
+  },
+  {
+   "id": "titicaca-offerings",
+   "title": "Treasures under Lake Titicaca: the Khoa reef offerings and the Island of the Sun",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 750,
+   "end": null,
+   "dateNote": "Tiwanaku offerings 8th–10th centuries CE; Inca pilgrimages 15th–16th centuries",
+   "evidenceTypes": [
+    "underwater archaeology",
+    "radiocarbon",
+    "oral tradition"
+   ],
+   "mainstream": "Lake Titicaca, on the border of Peru and Bolivia, was sacred in Andean belief. In Inca tradition the Sun hid under a crag on the Island of the Sun during a great flood and emerged there to light the world again, and the Incas built a pilgrimage complex on the island. Divers and local people had long recovered objects from the lake, fuelling stories of sunken temples and treasure. Systematic underwater excavations around the Khoa reef, near the Island of the Sun, recovered thousands of objects: ceramic puma-shaped incense burners, remains of sacrificed young llamas, and gold, shell and stone ornaments. A 2019 study by Christophe Delaere, José Capriles and Charles Stanish showed that many of these offerings were made by the Tiwanaku state between the 8th and 10th centuries CE, centuries before the Incas, as repeated state rituals.",
+   "alternatives": [
+    {
+     "label": "Religion and the first states",
+     "text": "The authors argue that dramatic shared rituals helped Tiwanaku consolidate power and cooperation, making the reef evidence for how religion and state formation went together."
+    },
+    {
+     "label": "Sunken city",
+     "text": "Some expeditions have claimed underwater walls and a submerged temple or city; archaeologists accept that lake levels changed and drowned some structures, but the dramatic 'lost city' claims are not supported by published evidence."
+    },
+    {
+     "label": "Flood stories",
+     "text": "The Inca story of the Sun rising from the lake after a flood belongs to the global pattern of origin-after-flood myths, and Lake Titicaca's water level really has risen and fallen dramatically in the past."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Lake Titicaca",
+     "url": "https://en.wikipedia.org/wiki/Lake_Titicaca",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Isla del Sol",
+     "url": "https://en.wikipedia.org/wiki/Isla_del_Sol",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Underwater ritual offerings in the Island of the Sun and the formation of the Tiwanaku state",
+     "authors": "Delaere, C. et al.",
+     "year": 2019,
+     "doi": "10.1073/pnas.1820749116",
+     "type": "paper"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Isladelsol.jpg/500px-Isladelsol.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Isladelsol.jpg",
+     "author": "Unknown",
+     "license": "CC BY-SA 3.0",
+     "title": "Isladelsol.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "religion",
+    "myth-legend"
+   ],
+   "threads": [
+    "flood-myths",
+    "stories-proven-true",
+    "sunken-cities",
+    "lost-treasures",
+    "human-sacrifice"
    ]
   }
  ]
