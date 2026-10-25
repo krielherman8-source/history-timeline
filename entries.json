@@ -28495,6 +28495,616 @@
     "sky-beings",
     "civilising-teachers"
    ]
+  },
+  {
+   "id": "nag-hammadi",
+   "title": "The Nag Hammadi library: buried Gnostic gospels found in a jar in 1945",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1945,
+   "end": null,
+   "dateNote": "Codices copied 4th century CE; found December 1945",
+   "evidenceTypes": [
+    "archaeological",
+    "textual (Coptic codices)"
+   ],
+   "mainstream": "In December 1945 farmers digging for fertile soil near Nag Hammadi in Upper Egypt found a sealed jar containing thirteen leather-bound papyrus codices. According to the account later gathered from one of them, Muhammad Ali al-Samman, some pages were burned as kindling before the books were sold. The codices, written in Coptic in the 4th century CE and translated from Greek originals, contain 52 texts, most previously unknown, including the Gospel of Thomas (114 sayings attributed to Jesus), the Gospel of Philip, the Apocryphon of John and the Gospel of Truth. Many reflect Gnostic thought: salvation through secret knowledge (gnosis), and a lower creator god distinct from the true, hidden God. They are now in the Coptic Museum in Cairo; a full English translation edited by James M. Robinson appeared in 1977.",
+   "alternatives": [
+    {
+     "label": "Hidden from the authorities?",
+     "text": "A widely repeated idea is that monks of the nearby Pachomian monastery hid the books after Bishop Athanasius's Easter letter of 367 CE listed the accepted biblical books and condemned others; this is plausible but not proven, and some scholars think the books were buried with a burial or by private owners."
+    },
+    {
+     "label": "Early or late?",
+     "text": "Some scholars argue that parts of the Gospel of Thomas preserve sayings as early as those in the canonical gospels; others date it to the 2nd century and see it as dependent on them."
+    },
+    {
+     "label": "Suppressed Christianity",
+     "text": "Popular books, notably Elaine Pagels's The Gnostic Gospels (1979), present the texts as voices of early Christian diversity later suppressed by an emerging orthodoxy; other historians caution that 'Gnosticism' itself is a modern umbrella term covering very different groups."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Nag Hammadi library",
+     "url": "https://en.wikipedia.org/wiki/Nag_Hammadi_library",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Gospel of Thomas",
+     "url": "https://en.wikipedia.org/wiki/Gospel_of_Thomas",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/El_Evangelio_de_Tom%C3%A1s-Gospel_of_Thomas-_Codex_II_Manuscritos_de_Nag_Hammadi-The_Nag_Hammadi_manuscripts.png/500px-El_Evangelio_de_Tom%C3%A1s-Gospel_of_Thomas-_Codex_II_Manuscritos_de_Nag_Hammadi-The_Nag_Hammadi_manuscripts.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:El_Evangelio_de_Tom%C3%A1s-Gospel_of_Thomas-_Codex_II_Manuscritos_de_Nag_Hammadi-The_Nag_Hammadi_manuscripts.png",
+     "author": "Unknown authorUnknown author",
+     "license": "Public domain",
+     "title": "El_Evangelio_de_Tomás-Gospel_of_Thomas-_Codex_II_Manuscritos_de_Nag_Hammadi-The_Nag_Hammadi_manuscripts.png"
+    }
+   ],
+   "categories": [
+    "religion",
+    "history",
+    "archaeology"
+   ],
+   "threads": [
+    "knowledge-and-power",
+    "lost-evidence",
+    "suppressed-beliefs",
+    "hidden-scriptures",
+    "lost-libraries",
+    "accidental-discoveries"
+   ]
+  },
+  {
+   "id": "gospel-of-judas",
+   "title": "The Gospel of Judas: the betrayer as hero, from a codex that rotted in a bank vault",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 3,
+   "start": 2006,
+   "end": null,
+   "dateNote": "Text probably 2nd century; codex c. 280 CE; published 2006",
+   "evidenceTypes": [
+    "textual (Coptic codex)",
+    "radiocarbon"
+   ],
+   "mainstream": "The Gospel of Judas is a Gnostic text in which Jesus shares secret teachings with Judas Iscariot and tells him that he will 'exceed' the other disciples by sacrificing 'the man that clothes me'. A gospel of that name was condemned by Bishop Irenaeus of Lyon around 180 CE, but no copy was known until a Coptic codex, later called Codex Tchacos, surfaced on the antiquities market after being found in Egypt in the 1970s. It spent years in poor conditions, including a safe-deposit box in New York, and crumbled badly before it was bought by the Maecenas Foundation, restored and published by the National Geographic Society in 2006. Radiocarbon dating placed the codex around 280 CE (±60 years).",
+   "alternatives": [
+    {
+     "label": "Judas as hero",
+     "text": "The first published interpretation presented Judas as the favoured disciple who helped Jesus escape his body."
+    },
+    {
+     "label": "Judas as demon",
+     "text": "Other Coptic scholars, notably April DeConick (2007), argued the translation was mistaken in key places and that the text actually calls Judas the 'thirteenth daemon' and condemns him; the meaning remains debated."
+    },
+    {
+     "label": "Provenance problems",
+     "text": "Because the codex was looted and traded without a clear record, scholars use it with caution and the case is cited in debates about the ethics of publishing unprovenanced manuscripts."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Gospel of Judas",
+     "url": "https://en.wikipedia.org/wiki/Gospel_of_Judas",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Codex Tchacos",
+     "url": "https://en.wikipedia.org/wiki/Codex_Tchacos",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Codex_Tchacos_p33.jpg/500px-Codex_Tchacos_p33.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Codex_Tchacos_p33.jpg",
+     "author": "WolfgangRieger",
+     "license": "Public domain",
+     "title": "Codex_Tchacos_p33.jpg"
+    }
+   ],
+   "categories": [
+    "religion",
+    "history"
+   ],
+   "threads": [
+    "hidden-scriptures"
+   ]
+  },
+  {
+   "id": "gospel-jesus-wife",
+   "title": "The 'Gospel of Jesus's Wife': a papyrus scrap that fooled Harvard",
+   "lane": "history",
+   "status": "debunked",
+   "priority": 3,
+   "start": 2012,
+   "end": 2016,
+   "evidenceTypes": [
+    "textual",
+    "forensic (ink, papyrus)",
+    "investigative journalism"
+   ],
+   "mainstream": "In September 2012 the Harvard historian Karen L. King announced a business-card-sized papyrus fragment in Coptic containing the words 'Jesus said to them, \"My wife...\"'. She was careful to say it did not show the historical Jesus was married, but that some early Christians discussed it; the media dubbed it the Gospel of Jesus's Wife. Coptic scholars quickly raised doubts: the text appeared to copy words and even a typographical error from an online edition of the Gospel of Thomas. Lab tests in 2014 dated the papyrus to the early medieval period and found the ink consistent with ancient ink, which did not settle the question. In 2016 the journalist Ariel Sabar traced the fragment's owner, Walter Fritz, a former Egyptology student who had run adult websites, and showed the provenance documents were doubtful. King then said the evidence 'tips the balance' toward forgery.",
+   "alternatives": [
+    {
+     "label": "Scholarly consensus",
+     "text": "The fragment is now generally regarded as a modern forgery written on a genuine old piece of papyrus."
+    },
+    {
+     "label": "Owner's position",
+     "text": "Fritz denied forging the text in interviews with Sabar, and no court finding exists; the forgery conclusion rests on textual, documentary and journalistic evidence."
+    },
+    {
+     "label": "Wider debate",
+     "text": "The case showed that scientific testing of materials cannot by itself authenticate a text, and fed into a broader debate about unprovenanced manuscripts such as the Museum of the Bible's forged 'Dead Sea Scroll' fragments."
+    }
+   ],
+   "changed": "Announced 2012 as a possible ancient text; by 2016 even the scholar who announced it accepted it was probably forged.",
+   "sources": [
+    {
+     "title": "Wikipedia: Gospel of Jesus' Wife",
+     "url": "https://en.wikipedia.org/wiki/Gospel_of_Jesus'_Wife",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "“Jesus said to them, ‘My wife . . .'”: A New Coptic Papyrus Fragment",
+     "authors": "King, K.",
+     "year": 2014,
+     "doi": "10.1017/S0017816014000133",
+     "type": "paper"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Gospel_of_Jesus%27_Wife.jpg/500px-Gospel_of_Jesus%27_Wife.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Gospel_of_Jesus%27_Wife.jpg",
+     "author": "Unknown authorUnknown author",
+     "license": "Public domain",
+     "title": "Gospel_of_Jesus'_Wife.jpg"
+    }
+   ],
+   "categories": [
+    "religion",
+    "hoaxes"
+   ],
+   "threads": [
+    "hoaxes-exposed",
+    "seeing-what-we-expect",
+    "forged-documents"
+   ]
+  },
+  {
+   "id": "knights-templar",
+   "title": "The Knights Templar: arrested on Friday 13 October 1307",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1119,
+   "end": 1314,
+   "evidenceTypes": [
+    "textual (trial records, papal documents)"
+   ],
+   "mainstream": "The Poor Fellow-Soldiers of Christ and of the Temple of Solomon were founded in Jerusalem around 1119 to protect pilgrims, and named after their headquarters in the al-Aqsa mosque, believed to be the Temple of Solomon. They grew into a rich international order of warrior monks with an early form of banking. After the loss of the Holy Land in 1291 they lost their purpose. At dawn on Friday 13 October 1307 King Philip IV of France, who owed them money, had all Templars in France arrested on charges of heresy, spitting on the cross, idolatry (worshipping a head called Baphomet) and sodomy; many confessed under torture. Pope Clement V dissolved the order in 1312 and the last Grand Master, Jacques de Molay, was burned in Paris in March 1314 after retracting his confession. The Chinon Parchment, rediscovered in the Vatican Secret Archives in 2001, shows that Clement had privately absolved the leaders in 1308.",
+   "alternatives": [
+    {
+     "label": "Mainstream view",
+     "text": "Most historians think the charges were fabricated or extracted under torture and that Philip's motives were largely financial and political."
+    },
+    {
+     "label": "Secret survival",
+     "text": "Legends from the 18th century onward claim the Templars survived in secret, passing their knowledge to the Freemasons or to Scotland (Rosslyn Chapel), or that they held the Holy Grail, the Ark of the Covenant or the Shroud of Turin; historians find no documentary support (speculative)."
+    },
+    {
+     "label": "Friday the 13th",
+     "text": "The idea that the arrest is the origin of Friday the 13th as an unlucky day is popular but unsupported; that superstition is not documented before the 19th century."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Knights Templar",
+     "url": "https://en.wikipedia.org/wiki/Knights_Templar",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Trials of the Knights Templar",
+     "url": "https://en.wikipedia.org/wiki/Trials_of_the_Knights_Templar",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Chinon Parchment",
+     "url": "https://en.wikipedia.org/wiki/Chinon_Parchment",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Templars_on_Stake.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Templars_on_Stake.jpg",
+     "author": "AnonymousUnknown author",
+     "license": "Public domain",
+     "title": "Templars_on_Stake.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "religion"
+   ],
+   "threads": [
+    "lost-treasures",
+    "secret-societies",
+    "suppressed-beliefs",
+    "holy-wars"
+   ]
+  },
+  {
+   "id": "holy-grail",
+   "title": "The Holy Grail: from a mysterious dish in a 12th-century romance to bloodline theories",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 1,
+   "start": 1190,
+   "end": null,
+   "dateNote": "First appears c. 1180–1190 CE",
+   "evidenceTypes": [
+    "textual (medieval romance)",
+    "modern pseudo-history"
+   ],
+   "mainstream": "The Grail first appears in Chrétien de Troyes' unfinished romance Perceval, the Story of the Grail (c. 1180–1190), as a precious dish carried in a procession at the castle of a wounded Fisher King; Perceval fails to ask the question that would heal him. Soon afterwards Robert de Boron made it the cup of the Last Supper in which Joseph of Arimathea caught Christ's blood and which was brought to Britain, while Wolfram von Eschenbach's Parzival (c. 1210) made it a stone that fell from heaven. In the 13th-century Vulgate Cycle, the pure knight Galahad achieves the Grail quest. Several real vessels are venerated as the Grail, including the Holy Chalice in Valencia Cathedral.",
+   "alternatives": [
+    {
+     "label": "Celtic roots",
+     "text": "Some scholars trace the Grail to Celtic magic vessels such as the cauldron of plenty of the Dagda or the cauldrons of Welsh tales; others see it as mainly a Christian creation of the 12th century linked to Eucharistic devotion."
+    },
+    {
+     "label": "Bloodline theory",
+     "text": "The Holy Blood and the Holy Grail (1982) argued that san graal (holy grail) should be read sang real (royal blood) and that Jesus's descendants survived in France, protected by a Priory of Sion; the Priory documents were shown to be forgeries created by Pierre Plantard in the 1960s, and historians reject the theory."
+    },
+    {
+     "label": "Psychological reading",
+     "text": "Jungian writers read the quest as a symbol of spiritual wholeness; this is interpretation rather than historical claim."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Holy Grail",
+     "url": "https://en.wikipedia.org/wiki/Holy_Grail",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: The Holy Blood and the Holy Grail",
+     "url": "https://en.wikipedia.org/wiki/The_Holy_Blood_and_the_Holy_Grail",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Priory of Sion",
+     "url": "https://en.wikipedia.org/wiki/Priory_of_Sion",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Dante_Gabriel_Rossetti_-_The_Damsel_of_the_Sanct_Grael_%281874%29.jpg/500px-Dante_Gabriel_Rossetti_-_The_Damsel_of_the_Sanct_Grael_%281874%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Dante_Gabriel_Rossetti_-_The_Damsel_of_the_Sanct_Grael_(1874).jpg",
+     "author": "Dante Gabriel Rossetti",
+     "license": "Public domain",
+     "title": "Dante_Gabriel_Rossetti_-_The_Damsel_of_the_Sanct_Grael_(1874).jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion",
+    "hoaxes"
+   ],
+   "threads": [
+    "sacred-relics",
+    "secret-societies",
+    "forged-documents",
+    "sacred-vessels"
+   ]
+  },
+  {
+   "id": "pope-joan",
+   "title": "Pope Joan: the female pope who supposedly gave birth in a procession",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": 855,
+   "end": null,
+   "dateNote": "Legend first recorded c. 1250; set c. 855–857 CE",
+   "evidenceTypes": [
+    "textual (medieval chronicles)",
+    "absence of evidence"
+   ],
+   "mainstream": "According to a legend first recorded in the mid-13th century (by the Dominican Jean de Mailly, and spread widely by Martin of Opava's chronicle), a learned woman disguised as a man rose through the Church to become pope, reigning for just over two years in the 9th century, often placed between Leo IV (died 855) and Benedict III. She was exposed when she gave birth during a procession between St Peter's and the Lateran, and died soon afterwards. The story was widely believed in the late Middle Ages: a bust of 'Johannes VIII, a woman from England' stood among papal busts in Siena Cathedral, and later Protestant writers used her against the papacy. Historians find no contemporary evidence for her and no gap in the papal succession where she could fit.",
+   "alternatives": [
+    {
+     "label": "Debunked by a Protestant",
+     "text": "The French Protestant scholar David Blondel argued in 1647 that the story was false, showing the chronology does not allow it; most historians since agree."
+    },
+    {
+     "label": "Origins of the legend",
+     "text": "Suggested sources include Roman street names and a statue near the Lateran misread as a woman and child, satire about the influence of women such as Marozia over 10th-century popes, and the use of a pierced chair in papal ceremonies, which later stories claimed was for checking a pope's sex."
+    },
+    {
+     "label": "A real hidden woman?",
+     "text": "A minority of writers, including the novelist Donna Woolfolk Cross, argue that records could have been erased; there is no documentary support for this."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Pope Joan",
+     "url": "https://en.wikipedia.org/wiki/Pope_Joan",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Papesse_Jeanne_BnF_Fran%C3%A7ais_599_fol._88.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Papesse_Jeanne_BnF_Fran%C3%A7ais_599_fol._88.jpg",
+     "author": "Robinet Testard",
+     "license": "Public domain",
+     "title": "Papesse_Jeanne_BnF_Français_599_fol._88.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion",
+    "history"
+   ],
+   "threads": [
+    "hoaxes-exposed",
+    "erased-from-history"
+   ]
+  },
+  {
+   "id": "childrens-crusade",
+   "title": "The Children's Crusade of 1212: a march to the sea that would not part",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 1212,
+   "end": null,
+   "evidenceTypes": [
+    "textual (chronicles)"
+   ],
+   "mainstream": "In 1212 two popular movements, one led by a shepherd boy, Stephen of Cloyes, in France, and one by a youth called Nicholas in the Rhineland, gathered thousands of young people and poor folk who set off to recover Jerusalem, believing that the sea would part for them. Nicholas's followers crossed the Alps to Italy, where the Mediterranean did not open; many dispersed, stayed in Italy or struggled home. Later chroniclers, writing decades afterwards, added that merchants offered them ships and sold them into slavery in North Africa. The contemporary chronicles are short and sometimes contradictory.",
+   "alternatives": [
+    {
+     "label": "Not really children",
+     "text": "The historian Peter Raedts (1977) and others argued that the Latin pueri used by chroniclers meant the poor, landless or young people in general, so the movement was a popular crusade of the poor rather than of children; this view is widely accepted."
+    },
+    {
+     "label": "Myth growth",
+     "text": "The slavery and shipwreck episodes appear in later sources and are thought to be legendary embellishment."
+    },
+    {
+     "label": "Pied Piper link",
+     "text": "Some writers connect the loss of Hamelin's children in 1284 to similar movements of young people (to crusades or eastern colonisation); this is one of several speculative explanations of the Pied Piper legend."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Children's Crusade",
+     "url": "https://en.wikipedia.org/wiki/Children's_Crusade",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Gustave_dor%C3%A9_crusades_the_childrens_crusade.jpg/500px-Gustave_dor%C3%A9_crusades_the_childrens_crusade.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Gustave_dor%C3%A9_crusades_the_childrens_crusade.jpg",
+     "author": "Gustave Doré",
+     "license": "Public domain",
+     "title": "Gustave_doré_crusades_the_childrens_crusade.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "religion",
+    "myth-legend"
+   ],
+   "threads": [
+    "collective-experiences",
+    "disappearances",
+    "millenarian-movements",
+    "holy-wars"
+   ]
+  },
+  {
+   "id": "joan-of-arc",
+   "title": "Joan of Arc: the voices that led a peasant girl to command an army",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": 1429,
+   "end": 1431,
+   "evidenceTypes": [
+    "textual (trial records)"
+   ],
+   "mainstream": "Joan of Arc (c. 1412–1431), a peasant girl from Domrémy in north-eastern France, said that from about the age of 13 she heard the voices of Saint Michael, Saint Catherine and Saint Margaret telling her to help the dauphin Charles drive the English out of France. In 1429, aged about 17, she persuaded Charles to send her with the army to relieve the siege of Orléans, which was lifted within nine days, and she was present when Charles was crowned at Reims. Captured in 1430, she was tried for heresy by a pro-English church court at Rouen, partly for wearing men's clothing, and burned on 30 May 1431. A retrial authorised by the pope annulled the verdict in 1456, and she was canonised in 1920. The detailed transcripts of both trials survive, making her one of the best-documented people of the Middle Ages.",
+   "alternatives": [
+    {
+     "label": "Religious explanation",
+     "text": "For believers, including the Catholic Church, her voices were genuine divine communications."
+    },
+    {
+     "label": "Medical hypotheses",
+     "text": "Modern doctors have proposed conditions such as idiopathic partial epilepsy with auditory features, migraine or psychiatric illness; others point out that diagnosing a person dead for six centuries from trial testimony is speculative."
+    },
+    {
+     "label": "Survival story",
+     "text": "In 1436 a woman, Jeanne (Claude) des Armoises, appeared claiming to be Joan, escaped from execution, and was accepted by some, including reportedly Joan's brothers, before being exposed as an impostor; a modern fringe theory that Joan survived has no support among historians."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Joan of Arc",
+     "url": "https://en.wikipedia.org/wiki/Joan_of_Arc",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Jeanne des Armoises",
+     "url": "https://en.wikipedia.org/wiki/Jeanne_des_Armoises",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Joan_of_Arc_miniature_graded.jpg/500px-Joan_of_Arc_miniature_graded.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Joan_of_Arc_miniature_graded.jpg",
+     "author": "Unknown",
+     "license": "Public domain",
+     "title": "Joan_of_Arc_miniature_graded.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "religion",
+    "anomalies"
+   ],
+   "threads": [
+    "warrior-women",
+    "altered-states",
+    "impostors-and-lost-heirs",
+    "visionary-women",
+    "holy-wars"
+   ]
+  },
+  {
+   "id": "wild-hunt",
+   "title": "The Wild Hunt: a ghostly army seen riding across the sky in 1091 and 1127",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": 1091,
+   "end": null,
+   "dateNote": "Medieval accounts from 1091 and 1127; named by Grimm in 1835",
+   "evidenceTypes": [
+    "textual (chronicles)",
+    "folklore"
+   ],
+   "mainstream": "Across Europe, folklore told of a ghostly procession of the dead, hunters or warriors that rushed across the night sky or along roads, often in winter, led by a figure such as Odin/Wodan, Herne, King Arthur, Herodias or the devil; seeing it could foretell death or disaster. Some of the earliest descriptions are in medieval chronicles. The Norman monk Orderic Vitalis records that on 1 January 1091 a priest named Walchelin met the 'household of Herlechin', a vast column of suffering dead, including people he knew. The Peterborough version of the Anglo-Saxon Chronicle reports that in 1127, after an unpopular abbot arrived, many people saw and heard huntsmen, black and huge, riding on black horses with hounds through the deer park and woods. Jacob Grimm, in his Deutsche Mythologie (1835), coined the term 'wild hunt' (Wilde Jagd) and linked it to a pre-Christian Wodan cult.",
+   "alternatives": [
+    {
+     "label": "Pagan survival",
+     "text": "Grimm and later writers saw the Hunt as a survival of beliefs about Odin leading the dead; modern scholars think this is partly right but warn that the medieval stories were shaped mainly by Christian ideas of purgatory and penance."
+    },
+    {
+     "label": "Natural phenomena",
+     "text": "Possible natural triggers include the calls of migrating geese at night, storms and wind in forests, and auroras; this explains some reports but not the detailed visions."
+    },
+    {
+     "label": "Collective experience or rumour",
+     "text": "The 1127 report is often read as political satire on the abbot or as rumour amplified by fear; believers in the paranormal treat such accounts as genuine sightings."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Wild Hunt",
+     "url": "https://en.wikipedia.org/wiki/Wild_Hunt",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Orderic Vitalis",
+     "url": "https://en.wikipedia.org/wiki/Orderic_Vitalis",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/La_caza_salvaje_de_Od%C3%ADn%2C_por_Peter_Nicolai_Arbo.jpg/500px-La_caza_salvaje_de_Od%C3%ADn%2C_por_Peter_Nicolai_Arbo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:La_caza_salvaje_de_Od%C3%ADn,_por_Peter_Nicolai_Arbo.jpg",
+     "author": "Peter Nicolai Arbo",
+     "license": "Public domain",
+     "title": "La_caza_salvaje_de_Odín,_por_Peter_Nicolai_Arbo.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "anomalies"
+   ],
+   "threads": [
+    "sky-omens",
+    "collective-experiences",
+    "otherworld-visits"
+   ]
+  },
+  {
+   "id": "cathars",
+   "title": "The Cathars: a dualist church destroyed by a crusade, and the legend of their treasure",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 1209,
+   "end": 1244,
+   "evidenceTypes": [
+    "textual (inquisition records, chronicles)"
+   ],
+   "mainstream": "From the 12th century, groups of Christians in Languedoc (southern France) and northern Italy, called Cathars or Albigensians by their opponents, taught a dualist faith in which the material world was created by an evil principle, and a class of 'Perfect' (perfecti) lived strict ascetic lives. In 1209 Pope Innocent III launched the Albigensian Crusade against them and the southern nobles who protected them. At Béziers the crusaders massacred the inhabitants; the monk Caesarius of Heisterbach, writing some years later, attributes to the papal legate Arnaud Amalric the words 'Kill them all; God will know his own', although whether he said them is uncertain. The crusade ended in 1229, and the Inquisition, founded partly to deal with the Cathars, continued the repression. In 1244 more than 200 Perfect who would not recant were burned below the mountain fortress of Montségur.",
+   "alternatives": [
+    {
+     "label": "A real counter-church",
+     "text": "The traditional view, based on inquisition records and Cathar texts such as the Book of the Two Principles, is that Catharism was an organised dualist church with links to the Bogomils of the Balkans."
+    },
+    {
+     "label": "Constructed by opponents",
+     "text": "Historians such as R. I. Moore and Mark Gregory Pegg argue that the idea of a unified Cathar church was largely constructed by churchmen and inquisitors from local religious diversity; this revisionist view is debated."
+    },
+    {
+     "label": "Treasure and Grail",
+     "text": "A legend says that a few Perfect escaped from Montségur on the night before the surrender carrying the Cathar 'treasure'. In the 1930s Otto Rahn, later an SS officer, claimed it was the Holy Grail; there is no evidence for this (speculative)."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Catharism",
+     "url": "https://en.wikipedia.org/wiki/Catharism",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Albigensian Crusade",
+     "url": "https://en.wikipedia.org/wiki/Albigensian_Crusade",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Montségur",
+     "url": "https://en.wikipedia.org/wiki/Monts%C3%A9gur",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Le_massacre_des_Albigeois.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Le_massacre_des_Albigeois.jpg",
+     "author": "Unknown authorUnknown author",
+     "license": "Public domain",
+     "title": "Le_massacre_des_Albigeois.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "religion"
+   ],
+   "threads": [
+    "lost-treasures",
+    "suppressed-beliefs",
+    "holy-wars"
+   ]
   }
  ]
 }
