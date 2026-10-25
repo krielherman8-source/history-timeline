@@ -29728,6 +29728,633 @@
     "space-weather",
     "vanished-species"
    ]
+  },
+  {
+   "id": "unkulunkulu",
+   "title": "Unkulunkulu and the chameleon: the Zulu story of how death came into the world",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": 1868,
+   "end": null,
+   "dateNote": "Oral tradition of unknown age; recorded by Callaway 1868–70",
+   "evidenceTypes": [
+    "oral tradition",
+    "textual (missionary record)"
+   ],
+   "mainstream": "In Zulu tradition as recorded in the 19th century, Unkulunkulu ('the very old one', or 'the great-great-one') was the first ancestor, who came forth from a bed of reeds (uhlanga) and brought out people, cattle and all things. He sent the chameleon to tell humans that they would not die, but the chameleon dawdled, stopping to eat. Unkulunkulu then sent the lizard (intulo) with the message that people would die; the lizard ran fast and arrived first, and so death came into the world. The best-known record is the Anglican missionary Henry Callaway's The Religious System of the Amazulu (1868–70), which printed testimonies in isiZulu with English translation; Callaway's informants differed among themselves, and some distinguished Unkulunkulu from a sky god, uMvelinqangi.",
+   "alternatives": [
+    {
+     "label": "Widespread African pattern",
+     "text": "Versions of the 'failed message' myth, in which a slow messenger with news of immortality is overtaken by a faster one bringing death, are recorded across much of sub-Saharan Africa (often with a chameleon, hare, dog or lizard); folklorists see it as one of the continent's most widespread myths."
+    },
+    {
+     "label": "Missionary filter",
+     "text": "Historians note that Callaway and other missionaries asked questions shaped by Christian ideas of a creator, and that answers given in a colonial context may not reflect pre-colonial belief exactly."
+    },
+    {
+     "label": "Ancestor or god",
+     "text": "Scholars debate whether Unkulunkulu was understood as a creator god or as the first ancestor of humans, honoured within the wider ancestor (amadlozi) tradition."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Unkulunkulu",
+     "url": "https://en.wikipedia.org/wiki/Unkulunkulu",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Flap-necked_chameleon_%28Chamaeleo_dilepis%29_Kruger.jpg/500px-Flap-necked_chameleon_%28Chamaeleo_dilepis%29_Kruger.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Flap-necked_chameleon_(Chamaeleo_dilepis)_Kruger.jpg",
+     "author": "Charles J. Sharp",
+     "license": "CC BY-SA 4.0",
+     "title": "Flap-necked_chameleon_(Chamaeleo_dilepis)_Kruger.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion"
+   ],
+   "threads": [
+    "deep-oral-memory",
+    "creation-myths"
+   ]
+  },
+  {
+   "id": "shaka-zulu",
+   "title": "Shaka and the rise of the Zulu kingdom: history, legend and the 'mfecane' debate",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 1816,
+   "end": 1828,
+   "evidenceTypes": [
+    "oral tradition",
+    "textual (traders' accounts)",
+    "historiographical"
+   ],
+   "mainstream": "Shaka kaSenzangakhona (c. 1787–1828) became chief of the small Zulu clan in about 1816 and within a decade built a powerful kingdom in what is now KwaZulu-Natal, through warfare, alliances and the reorganisation of age-regiments (amabutho). He is credited in tradition with introducing the short stabbing spear (iklwa) and the 'bull's horns' encircling formation, though some historians think these innovations were older or shared with neighbours such as the Mthethwa under Dingiswayo. In 1828 Shaka was assassinated by his half-brothers Dingane and Mhlangana. Much of what was written about him came from a few European traders at Port Natal, especially Nathaniel Isaacs and Henry Francis Fynn, whose accounts portrayed him as a bloodthirsty tyrant, and from oral traditions later collected by James Stuart.",
+   "alternatives": [
+    {
+     "label": "The mfecane",
+     "text": "The traditional view holds that Zulu expansion set off the mfecane ('crushing'), a chain of wars and migrations across southern Africa in the 1820s–30s that produced states such as the Ndebele, Sotho and Gaza."
+    },
+    {
+     "label": "Cobbing's challenge",
+     "text": "In 1988 the historian Julian Cobbing argued that the mfecane was a myth used as a colonial 'alibi', and that slave-raiding and labour demands from the Cape Colony and Delagoa Bay caused much of the upheaval; the debate that followed led many to see a more complex picture with multiple causes."
+    },
+    {
+     "label": "National hero or tyrant",
+     "text": "Shaka is remembered as a founding hero and military genius (Shaka Day, 24 September, is Heritage Day in South Africa), while traders' tales of mass killings may have been exaggerated to attract settlers or to justify intervention."
+    }
+   ],
+   "changed": "From the 1980s, historians re-examined European trader sources and the idea of a Zulu-driven mfecane, giving more weight to colonial slave-raiding and environmental pressures.",
+   "sources": [
+    {
+     "title": "Wikipedia: Shaka",
+     "url": "https://en.wikipedia.org/wiki/Shaka",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Mfecane",
+     "url": "https://en.wikipedia.org/wiki/Mfecane",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Zulu Kingdom",
+     "url": "https://en.wikipedia.org/wiki/Zulu_Kingdom",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/KingShaka.jpg/500px-KingShaka.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:KingShaka.jpg",
+     "author": "James King",
+     "license": "Public domain",
+     "title": "KingShaka.jpg"
+    }
+   ],
+   "categories": [
+    "history"
+   ],
+   "threads": [
+    "changed-understanding",
+    "knowledge-and-power",
+    "sacred-kingship"
+   ]
+  },
+  {
+   "id": "nyai-roro-kidul",
+   "title": "Nyai Roro Kidul: the Queen of the Southern Sea who married Java's kings",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": 1586,
+   "end": null,
+   "dateNote": "Linked to Senopati of Mataram (late 16th century); the belief is older",
+   "evidenceTypes": [
+    "oral tradition",
+    "textual (Javanese chronicles)",
+    "ritual practice"
+   ],
+   "mainstream": "In Javanese and Sundanese belief, Nyai Roro Kidul (also Kanjeng Ratu Kidul) is the spirit queen of the Indian Ocean south of Java, ruling an undersea palace with an army of spirits. According to the Babad Tanah Jawi, a Javanese chronicle, Panembahan Senopati, founder of the Mataram Sultanate in the late 16th century, meditated on the southern shore and entered into a spiritual marriage with her, gaining her support for his dynasty; his successors, the sultans of Yogyakarta and the Susuhunans of Surakarta, are held to renew this bond. The sacred Bedhaya Ketawang dance at the Surakarta court is said to honour her, and offerings are made at the beach of Parangkusumo. Popular belief warns against wearing green on south-coast beaches, as she may take swimmers, and a room at a hotel in Pelabuhan Ratu is kept for her.",
+   "alternatives": [
+    {
+     "label": "Political theology",
+     "text": "Historians read the marriage as a way for Mataram's rulers to anchor Islamic kingship in older Javanese ideas of sacred power over land and sea."
+    },
+    {
+     "label": "Natural danger",
+     "text": "The south coast of Java has powerful rip currents and dangerous surf; the warnings attached to her may encode real hazards, a pattern seen in other water-spirit traditions."
+    },
+    {
+     "label": "Living belief",
+     "text": "For many Javanese she is a real spiritual being; for some Muslim reformers her cult is un-Islamic; and she is a popular figure of horror films and folklore."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Nyai Roro Kidul",
+     "url": "https://en.wikipedia.org/wiki/Nyai_Roro_Kidul",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Babad Tanah Jawi",
+     "url": "https://en.wikipedia.org/wiki/Babad_Tanah_Jawi",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Kanjeng_Ratu_Kidul.jpg/500px-Kanjeng_Ratu_Kidul.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Kanjeng_Ratu_Kidul.jpg",
+     "author": "Gunawan Kartapranata",
+     "license": "CC BY-SA 3.0",
+     "title": "Kanjeng_Ratu_Kidul.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion"
+   ],
+   "threads": [
+    "sacred-kingship",
+    "water-spirits"
+   ]
+  },
+  {
+   "id": "majapahit",
+   "title": "Majapahit: the Javanese empire born from a trick on Kublai Khan's fleet",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1293,
+   "end": 1527,
+   "evidenceTypes": [
+    "textual (Old Javanese, Chinese)",
+    "archaeological"
+   ],
+   "mainstream": "In 1293 a Mongol-Chinese fleet sent by Kublai Khan landed in Java to punish King Kertanegara of Singhasari, who had insulted his envoy. Kertanegara had already been killed by a rebel, and his son-in-law Raden Wijaya allied with the Mongols to defeat the rebel, then turned on them and drove them out, founding the kingdom of Majapahit with its capital near present-day Trowulan in East Java. Under King Hayam Wuruk and his chief minister Gajah Mada, who according to the Pararaton swore the Palapa oath (c. 1336) not to taste spices until he had united the archipelago, Majapahit became the dominant power in maritime Southeast Asia. The court poem Nagarakretagama (1365) by Mpu Prapanca lists dozens of 'tributary' lands across modern Indonesia and beyond. Majapahit declined in the 15th century and ended around 1527 as Islamic sultanates such as Demak rose.",
+   "alternatives": [
+    {
+     "label": "How big was it?",
+     "text": "Indonesian nationalists from the 20th century presented Majapahit as a forerunner of a unified Indonesia; many historians think its direct control was limited mainly to Java, Bali and Madura, and that the Nagarakretagama's list mixes trade partners and claimed vassals."
+    },
+    {
+     "label": "Gajah Mada mystery",
+     "text": "Gajah Mada's origins and death are unknown, which has fed legends; a terracotta face from Trowulan popularly said to be his portrait has no firm identification."
+    },
+    {
+     "label": "Hindu-Buddhist legacy",
+     "text": "After Majapahit fell, tradition holds that nobles and priests fled to Bali, which preserved its Hindu culture; this is broadly supported though simplified."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Majapahit",
+     "url": "https://en.wikipedia.org/wiki/Majapahit",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Nagarakretagama",
+     "url": "https://en.wikipedia.org/wiki/Nagarakretagama",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Gajah Mada",
+     "url": "https://en.wikipedia.org/wiki/Gajah_Mada",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Nagarakertagama.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Nagarakertagama.jpg",
+     "author": "Unknown authorUnknown author",
+     "license": "Public domain",
+     "title": "Nagarakertagama.jpg"
+    }
+   ],
+   "categories": [
+    "history"
+   ],
+   "threads": [
+    "civilisation-collapses",
+    "sacred-kingship",
+    "trade-networks"
+   ]
+  },
+  {
+   "id": "ifugao-terraces",
+   "title": "The Ifugao rice terraces: 2,000 years old, or built in response to the Spanish?",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 1600,
+   "end": null,
+   "dateNote": "Traditional estimate 2,000+ years; radiocarbon evidence suggests major expansion after c. 1600 CE",
+   "evidenceTypes": [
+    "radiocarbon",
+    "archaeological",
+    "oral tradition",
+    "historiographical"
+   ],
+   "mainstream": "The rice terraces of the Ifugao people in the Cordillera mountains of northern Luzon in the Philippines climb steep slopes up to about 1,500 m, fed by forest water channelled down the hills; they became a UNESCO World Heritage Site in 1995. For much of the 20th century they were said to be 2,000–3,000 years old, an estimate popularised by the anthropologist H. Otley Beyer, who assumed the very slow growth needed for such large works. From 2012 the Ifugao Archaeological Project, led by Stephen Acabado with Ifugao community partners, excavated at Old Kiyyangan village and dated terrace and settlement layers by radiocarbon. Their results indicate that wet-rice terracing in the area expanded rapidly after about 1600 CE, around the time Spanish colonial power reached the lowlands.",
+   "alternatives": [
+    {
+     "label": "Recent and resistant",
+     "text": "Acabado and colleagues argue that the Ifugao intensified rice farming and built terraces to support a growing population of people moving uphill to stay out of Spanish control, so the terraces are a monument of resistance rather than of extreme antiquity."
+    },
+    {
+     "label": "Older origins",
+     "text": "Other scholars and many local voices maintain that some terraces are much older; the new dates apply to particular sites, and earlier small-scale terracing could have existed elsewhere in the Cordillera."
+    },
+    {
+     "label": "National identity",
+     "text": "The debate matters because the 2,000-year figure became part of Philippine national pride and school textbooks; supporters of the new dating stress that a recent origin makes the achievement no less remarkable."
+    }
+   ],
+   "changed": "Beyer's 20th-century estimate of 2,000–3,000 years was challenged from the 2010s by radiocarbon results suggesting expansion after c. 1600 CE.",
+   "sources": [
+    {
+     "title": "Wikipedia: Rice Terraces of the Philippine Cordilleras",
+     "url": "https://en.wikipedia.org/wiki/Rice_Terraces_of_the_Philippine_Cordilleras",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Banaue Rice Terraces",
+     "url": "https://en.wikipedia.org/wiki/Banaue_Rice_Terraces",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Batad_Rice_Terraces%2C_Ifugao_Province%2C_Philippines.jpg/500px-Batad_Rice_Terraces%2C_Ifugao_Province%2C_Philippines.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Batad_Rice_Terraces,_Ifugao_Province,_Philippines.jpg",
+     "author": "Seventide",
+     "license": "CC BY-SA 4.0",
+     "title": "Batad_Rice_Terraces,_Ifugao_Province,_Philippines.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology"
+   ],
+   "threads": [
+    "changed-understanding",
+    "giant-monuments",
+    "water-engineering"
+   ]
+  },
+  {
+   "id": "tangata-manu",
+   "title": "The Birdman cult of Rapa Nui: a swimming race for the first sooty tern egg",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1760,
+   "end": 1867,
+   "dateNote": "Practised from at least the 18th century until the 1860s",
+   "evidenceTypes": [
+    "archaeological (petroglyphs)",
+    "oral tradition",
+    "ethnographic"
+   ],
+   "mainstream": "After the era of moai statue building, the people of Rapa Nui (Easter Island) developed a ritual centred on the stone village of Orongo on the rim of the Rano Kau volcano. Each spring, competitors representing chiefs or warrior groups climbed down the cliffs and swam through shark-inhabited water to the islet of Motu Nui to wait for the first egg of the manutara (sooty tern). The first to bring an egg back intact won for his sponsor the title of tangata manu (birdman), who lived in seclusion for a year as a sacred figure associated with the creator god Makemake. Hundreds of petroglyphs of bird-headed men are carved on the rocks at Orongo. The cult is thought to have operated from at least the 18th century until the 1860s, when Peruvian slave raids, disease and the arrival of Catholic missionaries ended it.",
+   "alternatives": [
+    {
+     "label": "Response to crisis",
+     "text": "A traditional view held that the birdman cult replaced moai-building after social collapse and war; recent researchers argue the island's population was more stable before European contact than the 'ecocide' story suggests, and that the cult reflects religious change rather than collapse."
+    },
+    {
+     "label": "Egg and origin",
+     "text": "The cult belongs to a wider Pacific pattern in which birds and eggs symbolise creation and rebirth; some writers compare it with egg-born origin myths elsewhere, which may be coincidental."
+    },
+    {
+     "label": "Hoa Hakananai'a",
+     "text": "The basalt moai Hoa Hakananai'a, taken from Orongo by the crew of HMS Topaze in 1868 and now in the British Museum, has birdman carvings on its back; Rapa Nui have asked for its return."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Tangata manu",
+     "url": "https://en.wikipedia.org/wiki/Tangata_manu",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Orongo",
+     "url": "https://en.wikipedia.org/wiki/Orongo",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Easter_Island_11.jpg/500px-Easter_Island_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Easter_Island_11.jpg",
+     "author": "kallerna",
+     "license": "CC BY-SA 4.0",
+     "title": "Easter_Island_11.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology",
+    "religion"
+   ],
+   "threads": [
+    "sacred-kingship",
+    "born-from-eggs"
+   ]
+  },
+  {
+   "id": "hokulea-1976",
+   "title": "Hōkūleʻa's 1976 voyage: testing Polynesian navigation without instruments",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1976,
+   "end": null,
+   "evidenceTypes": [
+    "experimental voyage",
+    "ethnographic"
+   ],
+   "mainstream": "In the mid-20th century some scholars, notably Andrew Sharp in 1956, argued that Polynesians could not have navigated deliberately across thousands of kilometres of ocean and that islands were settled by accidental drift, while Thor Heyerdahl argued for settlement from South America. To test deliberate voyaging, the Polynesian Voyaging Society, founded in 1973 by the anthropologist Ben Finney, the artist Herb Kawainui Kāne and the sailor Charles Tommy Holmes, built Hōkūleʻa, a replica double-hulled voyaging canoe. In 1976 it sailed about 4,000 km from Hawaiʻi to Tahiti, navigated without compass, charts or instruments by Mau Piailug, a master navigator from Satawal in Micronesia, using stars, swells, winds and birds. Huge crowds greeted the canoe in Papeete. Hōkūleʻa's voyages helped spark a Hawaiian cultural renaissance, and the Hawaiian navigator Nainoa Thompson later revived wayfinding; in 2014–17 it sailed around the world.",
+   "alternatives": [
+    {
+     "label": "Tested by experiment",
+     "text": "The voyage showed that intentional navigation between distant islands with traditional methods was possible; together with computer simulations and archaeology, it led most researchers to reject the accidental-drift theory."
+    },
+    {
+     "label": "Proof versus possibility",
+     "text": "Critics noted that a successful modern voyage proves feasibility rather than what ancient voyagers actually did; genetics and linguistics, rather than the voyage, establish Polynesian origins in Island Southeast Asia and Near Oceania."
+    },
+    {
+     "label": "Living knowledge",
+     "text": "Mau Piailug's willingness to teach non-Micronesians was controversial in his community, but helped save a tradition then close to disappearing."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Hōkūleʻa",
+     "url": "https://en.wikipedia.org/wiki/H%C5%8Dk%C5%ABle%CA%BBa",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Mau Piailug",
+     "url": "https://en.wikipedia.org/wiki/Mau_Piailug",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Polynesian Voyaging Society",
+     "url": "https://en.wikipedia.org/wiki/Polynesian_Voyaging_Society",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Hokule%27a.jpg/500px-Hokule%27a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Hokule%27a.jpg",
+     "author": "Phil Uhl",
+     "license": "CC BY-SA 3.0",
+     "title": "Hokule'a.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "science-cosmos"
+   ],
+   "threads": [
+    "stories-proven-true",
+    "ocean-voyagers",
+    "genetic-migrations",
+    "tested-by-experiment"
+   ]
+  },
+  {
+   "id": "terra-preta",
+   "title": "Terra preta: the Amazon's man-made black earth",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -450,
+   "end": null,
+   "dateNote": "Most sites c. 450 BCE – 950 CE and later",
+   "evidenceTypes": [
+    "soil science",
+    "archaeological",
+    "radiocarbon"
+   ],
+   "mainstream": "Terra preta de índio ('Indian black earth') is very fertile dark soil found in patches across the Amazon basin, often along rivers and bluffs, in a region where natural soils are typically thin and poor. It contains large amounts of charcoal, pottery fragments, bone and other organic waste, and remains fertile centuries after its formation. Most terra preta sites date from roughly 450 BCE to 950 CE and later, and they are associated with long-term settlements. Soil scientists regard it as anthropogenic, created by people through the accumulation of household waste and low-temperature burning, whether deliberately or as a by-product of daily life. Its high stable carbon content has inspired modern research into 'biochar' as a soil improver and a way to store carbon.",
+   "alternatives": [
+    {
+     "label": "Large populations",
+     "text": "Many archaeologists see terra preta as evidence that parts of Amazonia supported large, settled populations before European contact, challenging the old view of the rainforest as a 'counterfeit paradise' too poor to sustain complex societies (Betty Meggers, 1971)."
+    },
+    {
+     "label": "Deliberate or accidental",
+     "text": "Researchers debate whether the soils were deliberately engineered for farming or built up gradually as midden; both processes may have occurred."
+    },
+    {
+     "label": "El Dorado link",
+     "text": "Supporters of the idea that 16th-century reports of dense riverside populations (by the Orellana expedition, 1542) were accurate point to terra preta and earthworks as confirmation; others caution that the soils span many centuries and do not show their size at any one time."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Terra preta",
+     "url": "https://en.wikipedia.org/wiki/Terra_preta",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Amazonia 1492: Pristine Forest or Cultural Parkland?",
+     "authors": "Heckenberger, M. et al.",
+     "year": 2003,
+     "doi": "10.1126/science.1086112",
+     "type": "paper"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Terra_preta_HC1.JPG/500px-Terra_preta_HC1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Terra_preta_HC1.JPG",
+     "author": "Holger Casselmann",
+     "license": "CC BY-SA 3.0",
+     "title": "Terra_preta_HC1.JPG"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "science-cosmos",
+    "lost-civilisations"
+   ],
+   "threads": [
+    "lost-civilisations",
+    "changed-understanding"
+   ]
+  },
+  {
+   "id": "fawcett-z",
+   "title": "Percy Fawcett and the Lost City of Z: vanished in the Amazon, 1925",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1925,
+   "end": null,
+   "evidenceTypes": [
+    "documentary (letters, expedition reports)",
+    "archaeological (later)"
+   ],
+   "mainstream": "Colonel Percy Harrison Fawcett (1867–c. 1925) was a British army officer and surveyor who mapped borders in Bolivia and Brazil for the Royal Geographical Society. He became convinced that a lost city, which he called 'Z', lay in the unexplored forests of Mato Grosso, partly inspired by Manuscript 512, a Portuguese document of 1753 in the National Library of Brazil describing a ruined city found by bandeirantes. In 1925 he set off with his son Jack and Jack's friend Raleigh Rimell; his last letter, dated 29 May 1925 from 'Dead Horse Camp', said they were about to enter unknown territory. They were never seen again. Dozens of later expeditions searched for them, and several searchers also died or disappeared. Bones produced in 1951 by the Kalapalo leader Izarari, said to be Fawcett's, were judged by experts not to be his.",
+   "alternatives": [
+    {
+     "label": "Killed by local people",
+     "text": "The most common explanation is that the party were killed by one of the Indigenous groups of the upper Xingu, or died of starvation or disease; the Kalapalo oral tradition names another group as responsible."
+    },
+    {
+     "label": "Living as a mystic",
+     "text": "Rumours that Fawcett stayed in the forest by choice, as a chief or as the founder of a theosophical commune (he was interested in spiritualism and occultism), circulated for decades without evidence."
+    },
+    {
+     "label": "Z partly vindicated",
+     "text": "From the 1990s Michael Heckenberger and Kuikuro colleagues documented large pre-Columbian settlements with roads, ditches and plazas in the upper Xingu (Kuhikugu), suggesting that Fawcett's idea of complex Amazonian societies was not baseless, even if no stone city has been found."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Percy Fawcett",
+     "url": "https://en.wikipedia.org/wiki/Percy_Fawcett",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Manuscript 512",
+     "url": "https://en.wikipedia.org/wiki/Manuscript_512",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Kuhikugu",
+     "url": "https://en.wikipedia.org/wiki/Kuhikugu",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/PercyFawcett.jpg/500px-PercyFawcett.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:PercyFawcett.jpg",
+     "author": "Unknown",
+     "license": "Public domain",
+     "title": "PercyFawcett.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "lost-civilisations",
+    "anomalies"
+   ],
+   "threads": [
+    "lost-civilisations",
+    "disappearances",
+    "hidden-kingdoms"
+   ]
+  },
+  {
+   "id": "bighorn-medicine-wheel",
+   "title": "The Bighorn Medicine Wheel: a stone circle aligned to the solstice sunrise?",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 1500,
+   "end": null,
+   "dateNote": "Age uncertain; often placed c. 1200–1700 CE",
+   "evidenceTypes": [
+    "archaeological",
+    "archaeoastronomical",
+    "oral tradition"
+   ],
+   "mainstream": "High in the Bighorn Mountains of Wyoming, at about 2,940 m, lies a ring of limestone boulders about 25 m across, with a central cairn and 28 spokes radiating to the rim, and six smaller cairns. It is one of the best-known of the 'medicine wheels' of the northern Plains, mostly in Alberta, Saskatchewan and Montana, some of which date back thousands of years. Its age is uncertain; dates of a few hundred years to around 1,500 years have been suggested, and it may have been built in stages. The site is sacred to many Plains nations, including the Crow, Cheyenne, Arapaho, Lakota and Shoshone, and is still used for ceremonies. It is now a National Historic Landmark managed in consultation with tribes.",
+   "alternatives": [
+    {
+     "label": "Astronomical alignment",
+     "text": "In 1974 the solar astronomer John Eddy argued in Science that lines between some cairns point to the summer solstice sunrise and sunset and to the rising of the bright stars Aldebaran, Rigel and Sirius around 1200–1700 CE."
+    },
+    {
+     "label": "Sceptical response",
+     "text": "Critics have noted that with many cairns, some alignments will occur by chance, that the high site is snow-covered for much of the year, and that the dating needed for the star alignments is uncertain."
+    },
+    {
+     "label": "Indigenous interpretations",
+     "text": "Tribal traditions variously connect the wheel to the Crow figure Burnt Face, to vision quests, or to the lodge of the Sun; for many Native Americans it is a living sacred place rather than an observatory."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Medicine wheel",
+     "url": "https://en.wikipedia.org/wiki/Medicine_wheel",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Medicine Wheel/Medicine Mountain National Historic Landmark",
+     "url": "https://en.wikipedia.org/wiki/Medicine_Wheel%2FMedicine_Mountain_National_Historic_Landmark",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Astronomical Alignment of the Big Horn Medicine Wheel",
+     "authors": "Eddy, J.",
+     "year": 1974,
+     "doi": "10.1126/science.184.4141.1035",
+     "type": "paper"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Bighorn_medicine_wheel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Bighorn_medicine_wheel.jpg",
+     "author": "National Park Service",
+     "license": "Public domain",
+     "title": "Bighorn_medicine_wheel.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "science-cosmos",
+    "religion"
+   ],
+   "threads": [
+    "ancient-astronomy",
+    "stone-circles"
+   ]
   }
  ]
 }
