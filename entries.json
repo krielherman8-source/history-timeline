@@ -1417,7 +1417,9 @@
     "religion",
     "history"
    ],
-   "threads": []
+   "threads": [
+    "abandoned-babies"
+   ]
   },
   {
    "id": "bronze-collapse",
@@ -1511,7 +1513,8 @@
    ],
    "threads": [
     "changed-understanding",
-    "stories-proven-true"
+    "stories-proven-true",
+    "rediscovered-civilisations"
    ]
   },
   {
@@ -1752,7 +1755,8 @@
    ],
    "threads": [
     "sky-beings",
-    "hidden-scriptures"
+    "hidden-scriptures",
+    "civilising-teachers"
    ]
   },
   {
@@ -2919,7 +2923,9 @@
     "science-cosmos",
     "aliens-ufo"
    ],
-   "threads": []
+   "threads": [
+    "contact-attempts"
+   ]
   },
   {
    "id": "wow-signal",
@@ -2967,7 +2973,8 @@
    ],
    "threads": [
     "ufo-encounters",
-    "life-beyond-earth"
+    "life-beyond-earth",
+    "contact-attempts"
    ]
   },
   {
@@ -3769,7 +3776,9 @@
     "myth-legend",
     "history"
    ],
-   "threads": []
+   "threads": [
+    "abandoned-babies"
+   ]
   },
   {
    "id": "rome-fall",
@@ -5525,7 +5534,8 @@
    "threads": [
     "sky-beings",
     "serpent-beings",
-    "returning-saviours"
+    "returning-saviours",
+    "civilising-teachers"
    ]
   },
   {
@@ -5572,7 +5582,8 @@
     "sky-beings",
     "world-ages-and-resets",
     "creation-myths",
-    "returning-saviours"
+    "returning-saviours",
+    "civilising-teachers"
    ]
   },
   {
@@ -5854,7 +5865,8 @@
    "threads": [
     "changed-understanding",
     "stories-proven-true",
-    "deep-oral-memory"
+    "deep-oral-memory",
+    "rediscovered-civilisations"
    ]
   },
   {
@@ -6153,7 +6165,8 @@
    ],
    "threads": [
     "knowledge-and-power",
-    "lost-evidence"
+    "lost-evidence",
+    "lost-libraries"
    ]
   },
   {
@@ -9781,7 +9794,8 @@
     "religion"
    ],
    "threads": [
-    "serpent-beings"
+    "serpent-beings",
+    "water-spirits"
    ]
   },
   {
@@ -11781,7 +11795,8 @@
    "threads": [
     "hoaxes-exposed",
     "cryptids",
-    "mummies"
+    "mummies",
+    "water-spirits"
    ]
   },
   {
@@ -14164,7 +14179,8 @@
    ],
    "threads": [
     "knowledge-and-power",
-    "lost-evidence"
+    "lost-evidence",
+    "lost-libraries"
    ]
   },
   {
@@ -16313,7 +16329,9 @@
     "hoaxes-exposed",
     "stories-proven-true",
     "knowledge-and-power",
-    "hidden-scriptures"
+    "hidden-scriptures",
+    "lost-libraries",
+    "accidental-discoveries"
    ]
   },
   {
@@ -16508,7 +16526,8 @@
    ],
    "threads": [
     "sacred-relics",
-    "lost-treasures"
+    "lost-treasures",
+    "sacred-vessels"
    ]
   },
   {
@@ -18192,7 +18211,8 @@
     "stories-proven-true",
     "sacred-kingship",
     "underground-worlds",
-    "human-sacrifice"
+    "human-sacrifice",
+    "rediscovered-civilisations"
    ]
   },
   {
@@ -21695,7 +21715,8 @@
    ],
    "threads": [
     "knowledge-and-power",
-    "lost-evidence"
+    "lost-evidence",
+    "lost-libraries"
    ]
   },
   {
@@ -25313,7 +25334,8 @@
     "ocean-voyagers",
     "otherworld-visits",
     "sea-mysteries",
-    "phantom-islands"
+    "phantom-islands",
+    "tested-by-experiment"
    ]
   },
   {
@@ -25436,7 +25458,8 @@
    "threads": [
     "serpent-beings",
     "shapeshifters",
-    "human-sacrifice"
+    "human-sacrifice",
+    "sacred-vessels"
    ]
   },
   {
@@ -25702,7 +25725,8 @@
    ],
    "threads": [
     "shapeshifters",
-    "sea-mysteries"
+    "sea-mysteries",
+    "water-spirits"
    ]
   },
   {
@@ -27815,6 +27839,661 @@
     "lost-continents",
     "vanished-landscapes",
     "vanished-species"
+   ]
+  },
+  {
+   "id": "enuma-elish",
+   "title": "Enūma Eliš: Marduk splits the sea-dragon Tiamat to make heaven and earth",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": -1100,
+   "end": null,
+   "dateNote": "Composed c. 18th–12th century BCE; surviving copies mostly 7th century BCE",
+   "evidenceTypes": [
+    "textual (cuneiform tablets)",
+    "mythological"
+   ],
+   "mainstream": "The Enūma Eliš (\"When on high\"), named after its opening words, is the Babylonian creation epic, written on seven clay tablets. Copies were found in the 19th century in the ruins of the Library of Ashurbanipal at Nineveh; the composition is usually dated between the 18th and the 12th century BCE, with many scholars favouring the reign of Nebuchadnezzar I (c. 1100 BCE). It begins with the mingling of two primordial waters, Apsû (fresh water) and Tiamat (salt water). Younger gods are born, conflict follows, and Tiamat raises an army of monsters. The young god Marduk agrees to fight her if he is made king of the gods; he kills her, splits her body in two like a dried fish, and makes the sky from one half and the earth from the other, then creates humans from the blood of her general Kingu so that they can serve the gods. The poem was recited at the Babylonian New Year (Akitu) festival and served to justify Marduk's, and Babylon's, supremacy.",
+   "alternatives": [
+    {
+     "label": "Political theology",
+     "text": "Most Assyriologists read the epic as a statement of Babylon's rise: an older storm-god combat story was retold with Babylon's city god Marduk as the hero. In Assyrian copies Marduk was sometimes replaced by the Assyrian god Ashur."
+    },
+    {
+     "label": "Genesis parallels",
+     "text": "The ordered creation, the dividing of the waters above from the waters below, and the Hebrew word tehom (\"the deep\"), possibly related to Tiamat, have led many scholars to see a Mesopotamian background to Genesis 1; others stress the differences, since Genesis has no divine battle."
+    },
+    {
+     "label": "Chaos-dragon pattern",
+     "text": "The theme of a storm god defeating a sea serpent recurs in Ugaritic Baal and Yam, Hittite Tarhunz and Illuyanka, and biblical Leviathan; whether this reflects shared ancestry, borrowing, or a common human way of picturing order defeating chaos is debated."
+    },
+    {
+     "label": "Ancient-astronaut reading",
+     "text": "Zecharia Sitchin read Tiamat as a former planet destroyed in a collision with the hypothetical planet Nibiru; astronomers and Assyriologists reject this as unsupported by the texts or by planetary science (speculative)."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Enūma Eliš",
+     "url": "https://en.wikipedia.org/wiki/En%C5%ABma_Eli%C5%A1",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Tiamat",
+     "url": "https://en.wikipedia.org/wiki/Tiamat",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Marduk",
+     "url": "https://en.wikipedia.org/wiki/Marduk",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Chaos_Monster_and_Sun_God.png/500px-Chaos_Monster_and_Sun_God.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Chaos_Monster_and_Sun_God.png",
+     "author": "editor Austen Henry Layard , drawing by L. Gruner",
+     "license": "Public domain",
+     "title": "Chaos_Monster_and_Sun_God.png"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion"
+   ],
+   "threads": [
+    "sky-beings",
+    "serpent-beings",
+    "world-ages-and-resets",
+    "creation-myths"
+   ]
+  },
+  {
+   "id": "sargon-akkad",
+   "title": "Sargon of Akkad: the first empire and the baby in the reed basket",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -2334,
+   "end": -2279,
+   "dateNote": "Reign c. 2334–2279 BCE (middle chronology); the basket legend is known from 7th-century BCE copies",
+   "evidenceTypes": [
+    "textual (cuneiform)",
+    "archaeological",
+    "legendary"
+   ],
+   "mainstream": "Sargon of Akkad founded what is often called the first empire, uniting the Sumerian city-states of southern Mesopotamia and campaigning as far as Syria and Elam; his traditional dates are c. 2334–2279 BCE (middle chronology). His capital, Akkad (Agade), has never been located. His dynasty made Akkadian the language of administration and his daughter Enheduanna, high priestess of the moon god at Ur, is the earliest author known by name. Much later, a Neo-Assyrian text known as the 'Legend of Sargon' (7th century BCE) has Sargon say that his mother, a high priestess, bore him in secret, placed him in a basket of rushes sealed with bitumen and set him on the river, where he was found and raised by Akki, a water-drawer, before the goddess Ishtar loved him and he became king.",
+   "alternatives": [
+    {
+     "label": "Founding-hero pattern",
+     "text": "The basket story closely resembles the infancy of Moses in Exodus 2 and recalls other exposed-infant tales (Romulus and Remus, Cyrus the Great in Herodotus, Karna in the Mahabharata). Folklorists such as Otto Rank grouped these as a common \"myth of the birth of the hero\"."
+    },
+    {
+     "label": "Who borrowed from whom",
+     "text": "Some biblical scholars think the Moses story drew on the Sargon legend, which was well known in the Assyrian period; others see independent use of a widespread motif. Neither can be proven from the surviving texts."
+    },
+    {
+     "label": "Real usurper",
+     "text": "Historians generally read the legend as propaganda explaining how a man of humble or uncertain birth (Sargon's name, Sharru-kin, means \"the king is legitimate\") came to rule, rather than as biography."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Sargon of Akkad",
+     "url": "https://en.wikipedia.org/wiki/Sargon_of_Akkad",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Enheduanna",
+     "url": "https://en.wikipedia.org/wiki/Enheduanna",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Sargon_of_Akkad_on_his_victory_stele.jpg/500px-Sargon_of_Akkad_on_his_victory_stele.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Sargon_of_Akkad_on_his_victory_stele.jpg",
+     "author": "ALFGRN",
+     "license": "CC BY-SA 2.0",
+     "title": "Sargon_of_Akkad_on_his_victory_stele.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology",
+    "myth-legend"
+   ],
+   "threads": [
+    "sacred-kingship",
+    "abandoned-babies"
+   ]
+  },
+  {
+   "id": "hattusa-hittites",
+   "title": "The Hittites: a forgotten empire rediscovered in 1906",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -1650,
+   "end": -1180,
+   "evidenceTypes": [
+    "archaeological",
+    "textual (cuneiform)",
+    "linguistic"
+   ],
+   "mainstream": "Until the late 19th century the Hittites were known almost only as a minor people mentioned in the Hebrew Bible (Uriah the Hittite, the sons of Heth). In 1906 Hugo Winckler began excavating at Boğazköy in central Anatolia and found a royal archive of thousands of clay tablets, including a copy of the peace treaty between the Hittite king Hattusili III and Ramesses II of Egypt that had been known from Egyptian temple walls: the site was Hattusa, capital of a great Bronze Age empire (c. 1650–1180 BCE). In 1915 the Czech scholar Bedřich Hrozný showed that the Hittite language was Indo-European, the oldest attested member of that family. The Hittites fought Egypt at Kadesh (c. 1274 BCE) and corresponded with a land called Ahhiyawa, probably Mycenaean Greeks. Hattusa was abandoned around 1180 BCE during the Late Bronze Age collapse.",
+   "alternatives": [
+    {
+     "label": "Kumarbi and Kronos",
+     "text": "The Hittite 'Kingship in Heaven' myth, adapted from Hurrian sources, has the god Kumarbi overthrow and castrate the sky god Anu before being overthrown in turn by the storm god; scholars widely see this as a forerunner of Hesiod's story of Ouranos, Kronos and Zeus, showing myths travelled from Anatolia to Greece."
+    },
+    {
+     "label": "Troy connection",
+     "text": "Hittite letters mention Wilusa and its ruler Alaksandu, which many scholars equate with (W)ilios/Troy and Alexandros (Paris); this identification is widely accepted but not certain."
+    },
+    {
+     "label": "Why the collapse",
+     "text": "Explanations for the fall of the Hittite state include drought and famine (tree-ring and pollen evidence), internal conflict, disruption of trade and the 'Sea Peoples'; most researchers favour a combination."
+    }
+   ],
+   "changed": "Before 1906 the Hittites were an obscure biblical people; the Boğazköy archive and Hrozný's decipherment (1915) revealed a major Bronze Age empire and the oldest written Indo-European language.",
+   "sources": [
+    {
+     "title": "Wikipedia: Hattusa",
+     "url": "https://en.wikipedia.org/wiki/Hattusa",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Hittites",
+     "url": "https://en.wikipedia.org/wiki/Hittites",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Bedřich Hrozný",
+     "url": "https://en.wikipedia.org/wiki/Bed%C5%99ich_Hrozn%C3%BD",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Lion_Gate%2C_Hattusa_13_%28cropped%29.jpg/500px-Lion_Gate%2C_Hattusa_13_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Lion_Gate,_Hattusa_13_(cropped).jpg",
+     "author": "Carole Raddato from FRANKFURT, Germany",
+     "license": "CC BY-SA 2.0",
+     "title": "Lion_Gate,_Hattusa_13_(cropped).jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology"
+   ],
+   "threads": [
+    "changed-understanding",
+    "civilisation-collapses",
+    "rediscovered-civilisations"
+   ]
+  },
+  {
+   "id": "ugarit-baal",
+   "title": "Ugarit: the city of the first alphabet and the Baal Cycle",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -1400,
+   "end": -1185,
+   "dateNote": "City flourished c. 1450–1185 BCE; rediscovered 1928",
+   "evidenceTypes": [
+    "archaeological",
+    "textual (cuneiform alphabet)"
+   ],
+   "mainstream": "In 1928 a farmer ploughing near Ras Shamra on the Syrian coast broke into an ancient tomb, and excavations from 1929 under Claude Schaeffer uncovered Ugarit, a wealthy port city destroyed around 1185 BCE. Its archives held texts in several languages and a local cuneiform alphabet of about 30 signs, one of the earliest alphabets, with abecedaries that list the letters in an order close to the later Phoenician, Hebrew and Greek alphabets. Among the tablets is the Baal Cycle, in which the storm god Baal defeats Yam (Sea), gets a palace, and is swallowed by Mot (Death) before returning to life. The poems call a sea monster Lotan, the 'twisting serpent', with almost the same words that Isaiah 27:1 uses for Leviathan, and they refer to El as father of the gods with his divine council. Letters from the last days describe enemy ships on the coast just before the city fell.",
+   "alternatives": [
+    {
+     "label": "Bible background",
+     "text": "Ugaritic texts transformed biblical studies by showing the Canaanite religious language (El, Baal, Asherah, Leviathan, the divine council) that the Hebrew Bible both drew on and polemicised against; scholars debate how much early Israelite religion overlapped with Canaanite religion."
+    },
+    {
+     "label": "Dying and rising god",
+     "text": "Baal's death and return have been read as a seasonal myth of drought and rain; the broader idea of a common 'dying and rising god' type (from James Frazer) is contested by many modern historians of religion."
+    },
+    {
+     "label": "The final letters",
+     "text": "Letters such as one from the king of Ugarit to the king of Alashiya (Cyprus) describe enemy ships burning towns; they were long said to have been found in a kiln, never sent, but later re-examination of the excavation records questioned that find context, a reminder of how dramatic stories attach to finds."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Ugarit",
+     "url": "https://en.wikipedia.org/wiki/Ugarit",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Baal Cycle",
+     "url": "https://en.wikipedia.org/wiki/Baal_Cycle",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Ugaritic alphabet",
+     "url": "https://en.wikipedia.org/wiki/Ugaritic_alphabet",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Lotan",
+     "url": "https://en.wikipedia.org/wiki/Lotan",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/P1180250_Louvre_Langue_ougaritique_Tablette_poeme_mythologique_AO16641_et_16642_rwk.jpg/500px-P1180250_Louvre_Langue_ougaritique_Tablette_poeme_mythologique_AO16641_et_16642_rwk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:P1180250_Louvre_Langue_ougaritique_Tablette_poeme_mythologique_AO16641_et_16642_rwk.jpg",
+     "author": "Unknown artistUnknown artist",
+     "license": "CC BY-SA 3.0",
+     "title": "P1180250_Louvre_Langue_ougaritique_Tablette_poeme_mythologique_AO16641_et_16642_rwk.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology",
+    "religion",
+    "myth-legend"
+   ],
+   "threads": [
+    "serpent-beings",
+    "origins-of-writing",
+    "civilisation-collapses",
+    "rediscovered-civilisations",
+    "accidental-discoveries"
+   ]
+  },
+  {
+   "id": "necho-circumnavigation",
+   "title": "Did Phoenicians sail around Africa c. 600 BCE? Herodotus and the sun on the wrong side",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": -600,
+   "end": null,
+   "dateNote": "Reported by Herodotus c. 430 BCE; voyage set in the reign of Necho II (610–595 BCE)",
+   "evidenceTypes": [
+    "textual (Herodotus)"
+   ],
+   "mainstream": "In his Histories (Book 4.42), written in the 5th century BCE, the Greek historian Herodotus says that the Egyptian pharaoh Necho II (reigned 610–595 BCE) sent Phoenician sailors south down the Red Sea with orders to return through the 'Pillars of Heracles' (the Strait of Gibraltar). Each autumn they landed, sowed grain and waited for the harvest, and in the third year they arrived back in Egypt. Herodotus adds that he does not believe one detail of their report: that as they sailed westward around the south of Libya (Africa) they had the sun on their right, that is, to the north. No other ancient source independently confirms the voyage, and no archaeology has been found.",
+   "alternatives": [
+    {
+     "label": "The disbelieved detail as evidence",
+     "text": "Many modern historians point out that south of the equator the midday sun really does stand to the north, so the detail Herodotus rejected is exactly what a real crossing would report; for them this makes the voyage plausible."
+    },
+    {
+     "label": "Sceptical view",
+     "text": "Other scholars argue the voyage would have been very hard against the currents and winds off West Africa, that the story could be built from geographical speculation, and that the sun detail could have been reasoned out or added; they classify it as unproven."
+    },
+    {
+     "label": "Later attempts",
+     "text": "Herodotus also tells of a Persian, Sataspes, who failed to sail around Africa, and the Carthaginian Hanno is said to have explored the West African coast; the first documented European rounding of the Cape was by Bartolomeu Dias in 1488."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Necho II",
+     "url": "https://en.wikipedia.org/wiki/Necho_II",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Hanno the Navigator",
+     "url": "https://en.wikipedia.org/wiki/Hanno_the_Navigator",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Herodotus",
+     "url": "https://en.wikipedia.org/wiki/Herodotus",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Necho-KnellingStatue_BrooklynMuseum.png/500px-Necho-KnellingStatue_BrooklynMuseum.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Necho-KnellingStatue_BrooklynMuseum.png",
+     "author": "Keith Schengili-Roberts",
+     "license": "CC BY 2.5",
+     "title": "Necho-KnellingStatue_BrooklynMuseum.png"
+    }
+   ],
+   "categories": [
+    "history",
+    "anomalies"
+   ],
+   "threads": [
+    "stories-proven-true",
+    "ocean-voyagers"
+   ]
+  },
+  {
+   "id": "ashurbanipal-library",
+   "title": "The Library of Ashurbanipal and the 1872 discovery of a flood story older than Noah's",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -650,
+   "end": -612,
+   "evidenceTypes": [
+    "archaeological",
+    "textual (cuneiform)"
+   ],
+   "mainstream": "Ashurbanipal, king of Assyria (668–c. 631 BCE), collected or had copied thousands of tablets on divination, medicine, magic, literature and history into royal libraries at Nineveh; he boasted that he could read and write. When Nineveh was sacked in 612 BCE the fire baked many of the clay tablets hard, preserving them. Austen Henry Layard and Hormuzd Rassam excavated them from 1849 onward and about 30,000 fragments went to the British Museum. In 1872 George Smith, a self-taught former banknote engraver working on them, recognised part of the Epic of Gilgamesh in which Utnapishtim survives a flood in a boat, sends out birds and offers a sacrifice. When Smith presented this to the Society of Biblical Archaeology in December 1872 it caused a sensation, because it showed that a Mesopotamian flood story very like Genesis existed in an older written tradition.",
+   "alternatives": [
+    {
+     "label": "Borrowing or shared memory",
+     "text": "Most scholars think the biblical flood narrative drew on Mesopotamian flood tradition (Atrahasis, Gilgamesh XI), probably during or before the Babylonian exile; some argue both preserve memory of real, very large local floods in Mesopotamia, as found in flood deposits at Ur, Kish and Shuruppak."
+    },
+    {
+     "label": "Literal flood view",
+     "text": "Some religious readers take the Mesopotamian versions as distorted memories of a single real global flood that Genesis records accurately; geologists find no evidence of a single worldwide flood in human times."
+    },
+    {
+     "label": "A library that burned to survive",
+     "text": "Unlike the Library of Alexandria, whose papyrus books were lost, this library survived because of its destruction: fire hardened clay."
+    }
+   ],
+   "changed": "The 1872 identification of the Gilgamesh flood tablet changed debates about the originality and sources of Genesis.",
+   "sources": [
+    {
+     "title": "Wikipedia: Library of Ashurbanipal",
+     "url": "https://en.wikipedia.org/wiki/Library_of_Ashurbanipal",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: George Smith (Assyriologist)",
+     "url": "https://en.wikipedia.org/wiki/George_Smith_(Assyriologist)",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Library_of_Ashurbanipal.jpg/500px-Library_of_Ashurbanipal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Library_of_Ashurbanipal.jpg",
+     "author": "Gary Todd",
+     "license": "CC0",
+     "title": "Library_of_Ashurbanipal.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology",
+    "religion"
+   ],
+   "threads": [
+    "flood-myths",
+    "changed-understanding",
+    "knowledge-and-power",
+    "lost-libraries"
+   ]
+  },
+  {
+   "id": "hanging-gardens",
+   "title": "The Hanging Gardens of Babylon: the Wonder no one can find",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": -600,
+   "end": null,
+   "evidenceTypes": [
+    "textual (Greek and Roman)",
+    "archaeological (absence)"
+   ],
+   "mainstream": "The Hanging Gardens of Babylon are one of the Seven Wonders of the Ancient World. Greek and Roman writers such as Berossus (via Josephus), Diodorus Siculus, Strabo and Quintus Curtius Rufus describe terraced gardens raised on vaults and watered by machinery, usually attributing them to Nebuchadnezzar II (reigned 605–562 BCE) for a wife homesick for the green mountains of Media. However, no Babylonian text, including Nebuchadnezzar's own detailed building inscriptions, mentions them, and Herodotus, who describes Babylon, does not mention them. Robert Koldewey, who excavated Babylon from 1899, proposed that a vaulted building in the Southern Palace was their base, but it is now thought to have been a storehouse or administrative building.",
+   "alternatives": [
+    {
+     "label": "They were at Nineveh",
+     "text": "The Assyriologist Stephanie Dalley (2013) argued that the gardens were built by the Assyrian king Sennacherib (c. 700 BCE) at Nineveh, watered by his aqueducts and Archimedes-screw-like devices described in his inscriptions, and that later Greeks confused the two cities; this has support but is not accepted by everyone."
+    },
+    {
+     "label": "Lost to the river",
+     "text": "Some think the gardens did exist at Babylon but were destroyed and their remains lie under the shifting Euphrates or unexcavated ground."
+    },
+    {
+     "label": "Literary invention",
+     "text": "Others suggest the gardens were a romantic idea built up by Greek writers from reports of Mesopotamian royal parks, and never existed in the form described."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Hanging Gardens of Babylon",
+     "url": "https://en.wikipedia.org/wiki/Hanging_Gardens_of_Babylon",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Sennacherib",
+     "url": "https://en.wikipedia.org/wiki/Sennacherib",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Hanging_Gardens_of_Babylon.jpg/500px-Hanging_Gardens_of_Babylon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Hanging_Gardens_of_Babylon.jpg",
+     "author": "Unknown authorUnknown author",
+     "license": "Public domain",
+     "title": "Hanging_Gardens_of_Babylon.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology",
+    "anomalies"
+   ],
+   "threads": [
+    "giant-monuments",
+    "lost-evidence",
+    "water-engineering"
+   ]
+  },
+  {
+   "id": "ebla-tablets",
+   "title": "The Ebla tablets: an unknown Syrian kingdom and the battle over biblical names",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 3,
+   "start": -2400,
+   "end": null,
+   "dateNote": "Archive c. 2400–2300 BCE; found 1974–76",
+   "evidenceTypes": [
+    "archaeological",
+    "textual (cuneiform)"
+   ],
+   "mainstream": "In 1964 an Italian team led by Paolo Matthiae began digging at Tell Mardikh in northern Syria; in 1968 an inscribed statue identified the site as Ebla, a city known from Mesopotamian texts, and in 1974–76 they found a palace archive of about 17,000 tablets and fragments from around 2400–2300 BCE, written in Sumerian and in a previously unknown Semitic language now called Eblaite. Ebla was a major trading kingdom that was destroyed and rebuilt several times. The archive's first epigrapher, Giovanni Pettinato, initially reported that the tablets mentioned names like Sodom and Gomorrah, Abraham-like personal names and a god 'Ya', apparently linking them to the Bible. These claims caused a worldwide stir, a dispute within the team and political sensitivity, and were later rejected or withdrawn after closer reading by other epigraphers such as Alfonso Archi.",
+   "alternatives": [
+    {
+     "label": "Mainstream outcome",
+     "text": "Scholars now agree that the archive is extremely important for early Syrian history, language and trade, but that it contains no references to biblical people or places."
+    },
+    {
+     "label": "Suppression claims",
+     "text": "During the controversy some writers claimed the biblical evidence was being suppressed for political reasons; specialists attribute the reversal to misreadings of early cuneiform signs, which were corrected as study progressed."
+    },
+    {
+     "label": "Lesson about sensational finds",
+     "text": "The episode is often cited as an example of how early readings of new texts can be shaped by what researchers and the public hope to find."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Ebla",
+     "url": "https://en.wikipedia.org/wiki/Ebla",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Ebla tablets",
+     "url": "https://en.wikipedia.org/wiki/Ebla_tablets",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Calco_di_tavoletta_in_terracotta_da_Ebla_-_Museo_d%27Arte_Orientale_Roma.jpg/500px-Calco_di_tavoletta_in_terracotta_da_Ebla_-_Museo_d%27Arte_Orientale_Roma.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Calco_di_tavoletta_in_terracotta_da_Ebla_-_Museo_d%27Arte_Orientale_Roma.jpg",
+     "author": "Davide Mauro",
+     "license": "CC BY-SA 4.0",
+     "title": "Calco_di_tavoletta_in_terracotta_da_Ebla_-_Museo_d'Arte_Orientale_Roma.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology",
+    "religion"
+   ],
+   "threads": [
+    "origins-of-writing",
+    "knowledge-and-power",
+    "seeing-what-we-expect",
+    "rediscovered-civilisations",
+    "lost-libraries"
+   ]
+  },
+  {
+   "id": "descent-of-inanna",
+   "title": "Inanna's descent to the underworld: a goddess hung on a hook for three days",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": -1900,
+   "end": null,
+   "dateNote": "Surviving tablets c. 1900–1600 BCE; the tradition is probably older",
+   "evidenceTypes": [
+    "textual (Sumerian cuneiform)",
+    "mythological"
+   ],
+   "mainstream": "The Sumerian poem known as the Descent of Inanna into the Underworld survives on tablets mostly from the Old Babylonian period (c. 1900–1600 BCE). Inanna, queen of heaven, decides to visit the underworld ruled by her sister Ereshkigal. At each of seven gates she must give up a piece of her regalia until she arrives naked, is judged, killed, and her corpse is hung on a hook. After three days and nights her servant Ninshubur seeks help, and the god Enki creates two beings who revive her with the food and water of life. But no one may leave the underworld without a substitute, and Inanna chooses her husband Dumuzi, who did not mourn her; in the end Dumuzi and his sister Geshtinanna share the underworld for half the year each. A later Akkadian version tells of Ishtar's descent.",
+   "alternatives": [
+    {
+     "label": "Seasonal myth",
+     "text": "Many scholars connect Dumuzi's half-year in the underworld with the agricultural or pastoral year and with annual mourning rites for Dumuzi (Tammuz), which Ezekiel 8:14 mentions women performing at the Jerusalem temple."
+    },
+    {
+     "label": "Comparative patterns",
+     "text": "The story has been compared with Persephone's half-year in Hades, with Orpheus, and, controversially, with Christian resurrection imagery (the three days); scholars disagree about whether such parallels reflect any historical connection."
+    },
+    {
+     "label": "Initiation reading",
+     "text": "Some psychologists and modern spiritual writers read the descent as a model of an inner journey of loss and renewal; this is an interpretive, not historical, reading."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Descent of Inanna into the Underworld",
+     "url": "https://en.wikipedia.org/wiki/Descent_of_Inanna_into_the_Underworld",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Inanna",
+     "url": "https://en.wikipedia.org/wiki/Inanna",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Dumuzid",
+     "url": "https://en.wikipedia.org/wiki/Dumuzid",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Ishtar_on_an_Akkadian_seal.jpg/500px-Ishtar_on_an_Akkadian_seal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Ishtar_on_an_Akkadian_seal.jpg",
+     "author": "Sailko",
+     "license": "CC BY 3.0",
+     "title": "Ishtar_on_an_Akkadian_seal.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion"
+   ],
+   "threads": [
+    "otherworld-visits",
+    "underground-worlds"
+   ]
+  },
+  {
+   "id": "apkallu-oannes",
+   "title": "Oannes and the seven Apkallu: fish-men who taught humanity civilisation",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": -290,
+   "end": null,
+   "dateNote": "Berossus wrote c. 290–278 BCE; apkallu imagery is attested from at least the 9th century BCE",
+   "evidenceTypes": [
+    "textual (Babylonian, Greek fragments)",
+    "iconographic"
+   ],
+   "mainstream": "Mesopotamian tradition held that before the Flood seven sages, the apkallu, were sent by the wise god Enki (Ea) to teach humans the arts of civilisation, each serving a king. Around 290–278 BCE the Babylonian priest Berossus, writing in Greek for the Seleucid king Antiochus I, described the first of them, Oannes, as a creature with the body of a fish and a human head and feet that came out of the Erythraean Sea, spent the days among people teaching writing, mathematics, laws, building, agriculture and the founding of temples, and returned to the sea at night. Berossus's work survives only in quotations by later authors. Assyrian palace reliefs and figurines show apkallu as men wearing fish cloaks, as bird-headed beings, or as winged genies carrying a bucket and cone, often in protective scenes.",
+   "alternatives": [
+    {
+     "label": "Mythological reading",
+     "text": "Assyriologists see the apkallu as mythic culture-bringers who legitimise civilisation as a divine gift and connect antediluvian kings to later scholars, who traced their learning back to the sages."
+    },
+    {
+     "label": "Ancient-astronaut reading",
+     "text": "Robert Temple (The Sirius Mystery, 1976) and others linked Oannes to the amphibious Nommo of Dogon tradition and proposed visitors from the Sirius system; scholars reject both the Dogon interpretation and the alien hypothesis as unsupported (speculative)."
+    },
+    {
+     "label": "Lost-civilisation reading",
+     "text": "Some alternative writers read the sages who emerge from the sea after or before a flood as memories of survivors of an earlier seafaring culture teaching others; there is no archaeological evidence for this (speculative)."
+    },
+    {
+     "label": "Biblical echoes",
+     "text": "Scholars compare the antediluvian sages with the long-lived patriarchs of Genesis 5 and with the Watchers of the Book of Enoch, who also teach forbidden arts before the Flood."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Apkallu",
+     "url": "https://en.wikipedia.org/wiki/Apkallu",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Oannes",
+     "url": "https://en.wikipedia.org/wiki/Oannes",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Berossus",
+     "url": "https://en.wikipedia.org/wiki/Berossus",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Apkallu_figure-_male_with_a_fish-skin_hood_MET_hb54_117_25.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Apkallu_figure-_male_with_a_fish-skin_hood_MET_hb54_117_25.jpg",
+     "author": "Unknown",
+     "license": "CC0",
+     "title": "Apkallu_figure-_male_with_a_fish-skin_hood_MET_hb54_117_25.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion",
+    "aliens-ufo",
+    "lost-civilisations"
+   ],
+   "threads": [
+    "flood-myths",
+    "lost-civilisations",
+    "sky-beings",
+    "civilising-teachers"
    ]
   }
  ]

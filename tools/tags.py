@@ -1124,3 +1124,113 @@ addt('vanished-landscapes','kap-kobenhavn-edna')
 addt('lost-continents','kap-kobenhavn-edna')
 addt('space-weather','miyake-774 carrington-event')
 addt('vanished-species','dodo kap-kobenhavn-edna haasts-eagle roc-elephant-bird')
+
+# --- batch 13 (2026-10-25): ancient Near East, apocrypha and medieval Europe, Enlightenment and 20th-century science,
+# Southern Africa, Indonesia/Philippines, Polynesia, Amazonia, North American Plains, deep-time geophysics
+C.update({
+'enuma-elish':'myth-legend religion',
+'sargon-akkad':'history archaeology myth-legend',
+'hattusa-hittites':'history archaeology',
+'ugarit-baal':'history archaeology religion myth-legend',
+'necho-circumnavigation':'history anomalies',
+'ashurbanipal-library':'history archaeology religion',
+'hanging-gardens':'history archaeology anomalies',
+'ebla-tablets':'history archaeology religion',
+'descent-of-inanna':'myth-legend religion',
+'apkallu-oannes':'myth-legend religion aliens-ufo lost-civilisations',
+'nag-hammadi':'religion history archaeology',
+'gospel-of-judas':'religion history',
+'gospel-jesus-wife':'religion hoaxes',
+'knights-templar':'history religion',
+'holy-grail':'myth-legend religion hoaxes',
+'pope-joan':'myth-legend religion history',
+'childrens-crusade':'history religion myth-legend',
+'joan-of-arc':'history religion anomalies',
+'wild-hunt':'myth-legend anomalies',
+'cathars':'history religion',
+'mechanical-turk':'hoaxes history',
+'mesmer':'history science-cosmos hoaxes',
+'spring-heeled-jack':'anomalies history myth-legend',
+'missoula-floods':'science-cosmos catastrophes',
+'trinity-1945':'history science-cosmos',
+'dna-photo-51':'science-cosmos history',
+'cmb-1965':'science-cosmos',
+'pulsar-lgm1':'science-cosmos aliens-ufo',
+'voyager-golden-record':'science-cosmos aliens-ufo history',
+'laschamp-excursion':'science-cosmos catastrophes',
+'unkulunkulu':'myth-legend religion',
+'shaka-zulu':'history',
+'nyai-roro-kidul':'myth-legend religion',
+'majapahit':'history',
+'ifugao-terraces':'history archaeology',
+'tangata-manu':'history archaeology religion',
+'hokulea-1976':'history science-cosmos',
+'terra-preta':'archaeology science-cosmos lost-civilisations',
+'fawcett-z':'history lost-civilisations anomalies',
+'bighorn-medicine-wheel':'archaeology science-cosmos religion',
+})
+# new threads (10)
+addt('abandoned-babies','sargon-akkad exodus rome-founding')
+addt('civilising-teachers','apkallu-oannes quetzalcoatl viracocha enoch')
+addt('rediscovered-civilisations','hattusa-hittites ugarit-baal ebla-tablets troy wilusa knossos-labyrinth')
+addt('lost-libraries','ashurbanipal-library library-alexandria house-of-wisdom timbuktu-manuscripts nag-hammadi dead-sea-scrolls ebla-tablets')
+addt('holy-wars','childrens-crusade cathars knights-templar joan-of-arc')
+addt('sacred-vessels','holy-grail gundestrup-cauldron ark-covenant')
+addt('accidental-discoveries','cmb-1965 pulsar-lgm1 nag-hammadi dead-sea-scrolls ugarit-baal')
+addt('contact-attempts','voyager-golden-record pulsar-lgm1 wow-signal fermi-paradox')
+addt('water-spirits','nyai-roro-kidul mami-wata selkies ningyo-mermaids')
+addt('tested-by-experiment','hokulea-1976 mesmer brendan-voyage')
+# existing threads
+addt('creation-myths','enuma-elish unkulunkulu')
+addt('serpent-beings','enuma-elish ugarit-baal')
+addt('world-ages-and-resets','enuma-elish')
+addt('sky-beings','enuma-elish apkallu-oannes')
+addt('sacred-kingship','sargon-akkad majapahit nyai-roro-kidul shaka-zulu tangata-manu')
+addt('changed-understanding','hattusa-hittites ashurbanipal-library missoula-floods cmb-1965 ifugao-terraces shaka-zulu terra-preta laschamp-excursion')
+addt('civilisation-collapses','hattusa-hittites ugarit-baal majapahit')
+addt('origins-of-writing','ugarit-baal ebla-tablets')
+addt('ocean-voyagers','necho-circumnavigation hokulea-1976')
+addt('stories-proven-true','necho-circumnavigation missoula-floods hokulea-1976')
+addt('flood-myths','ashurbanipal-library apkallu-oannes')
+addt('knowledge-and-power','ashurbanipal-library ebla-tablets nag-hammadi trinity-1945 shaka-zulu')
+addt('lost-evidence','hanging-gardens nag-hammadi')
+addt('giant-monuments','hanging-gardens ifugao-terraces')
+addt('water-engineering','hanging-gardens ifugao-terraces')
+addt('seeing-what-we-expect','ebla-tablets mechanical-turk mesmer gospel-jesus-wife')
+addt('otherworld-visits','descent-of-inanna wild-hunt')
+addt('underground-worlds','descent-of-inanna')
+addt('lost-civilisations','apkallu-oannes terra-preta fawcett-z')
+addt('ancient-astronomy','bighorn-medicine-wheel')
+addt('stone-circles','bighorn-medicine-wheel')
+addt('hidden-scriptures','nag-hammadi gospel-of-judas')
+addt('suppressed-beliefs','nag-hammadi cathars knights-templar')
+addt('forged-documents','gospel-jesus-wife holy-grail')
+addt('hoaxes-exposed','gospel-jesus-wife mechanical-turk pope-joan')
+addt('secret-societies','knights-templar holy-grail')
+addt('lost-treasures','knights-templar cathars')
+addt('sacred-relics','holy-grail')
+addt('erased-from-history','pope-joan dna-photo-51 pulsar-lgm1')
+addt('disappearances','childrens-crusade fawcett-z')
+addt('collective-experiences','childrens-crusade wild-hunt spring-heeled-jack')
+addt('millenarian-movements','childrens-crusade')
+addt('visionary-women','joan-of-arc')
+addt('altered-states','joan-of-arc mesmer')
+addt('impostors-and-lost-heirs','joan-of-arc')
+addt('warrior-women','joan-of-arc')
+addt('sky-omens','wild-hunt')
+addt('monster-panics','spring-heeled-jack')
+addt('modern-legends','spring-heeled-jack')
+addt('rejected-pioneers','missoula-floods')
+addt('vanished-landscapes','missoula-floods')
+addt('cosmic-impacts','missoula-floods')
+addt('ancient-technology','trinity-1945')
+addt('life-beyond-earth','pulsar-lgm1 voyager-golden-record')
+addt('space-weather','laschamp-excursion')
+addt('vanished-species','laschamp-excursion')
+addt('mass-extinctions','laschamp-excursion')
+addt('deep-oral-memory','unkulunkulu')
+addt('born-from-eggs','tangata-manu')
+addt('hidden-kingdoms','fawcett-z')
+addt('trade-networks','majapahit')
+addt('genetic-migrations','hokulea-1976')
+addt('mysterious-lights','spring-heeled-jack')
