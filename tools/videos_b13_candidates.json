@@ -1,0 +1,268 @@
+{
+ "enuma-elish": [
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=BV9t3Cp18Rc",
+   "title": "The epic of Gilgamesh, the king who tried to conquer death - Soraya Field Fiorio",
+   "channel": "TED-Ed"
+  }
+ ],
+ "sargon-akkad": [
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=SxTbQ5EgiU8",
+   "title": "Sargon of Akkad: History's First Emperor?",
+   "channel": "History Time"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=Q-mAWItV2q0",
+   "title": "The Entire History of the Akkadians // Ancient Mesopotamia Documentary",
+   "channel": "History Time"
+  }
+ ],
+ "hattusa-hittites": [
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=OusqE7gTUOI",
+   "title": "The Entire History Of The Hittites / Ancient History Documentary",
+   "channel": "History Time"
+  }
+ ],
+ "ugarit-baal": [
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=B965f8AcNbw",
+   "title": "2. The Bronze Age Collapse - Mediterranean Apocalypse",
+   "channel": "Fall of Civilizations"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=01CZBhZM430",
+   "title": "21. Majapahit - Empire of the Islands",
+   "channel": "Fall of Civilizations"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=qRYdivPIWh4",
+   "title": "20. Persia - An Empire in Ashes",
+   "channel": "Fall of Civilizations"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=d2lJUOv0hLA",
+   "title": "8. The Sumerians - Fall of the First Cities",
+   "channel": "Fall of Civilizations"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=glKe9njOB24",
+   "title": "1. Roman Britain  - The Work of Giants Crumbled",
+   "channel": "Fall of Civilizations"
+  }
+ ],
+ "necho-circumnavigation": [],
+ "ashurbanipal-library": [
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=dxk_FtZnb7w",
+   "title": "The palace decoration of Ashurbanipal",
+   "channel": "The British Museum"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=kHl41sXNhao",
+   "title": "The Library of Ashurbanipal",
+   "channel": "The British Museum - Topic"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=0OZe-y5tk9Q",
+   "title": "I am Ashurbanipal",
+   "channel": "The British Museum"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=7eBL5quTa9s",
+   "title": "The revealing details of the Assyrian Lion Hunt Reliefs | Curator’s Corner S10 Ep5",
+   "channel": "The British Museum"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=bQIBf7eeXG8",
+   "title": "A 4,000-year old tale of trade and contraband I Curator's Corner S3 Ep9 #CuratorsCorner",
+   "channel": "The British Museum"
+  }
+ ],
+ "hanging-gardens": [
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=ZsiHrK9DvvQ",
+   "title": "A day in the life of an ancient Babylonian business mogul - Soraya Field Fiorio",
+   "channel": "TED-Ed"
+  }
+ ],
+ "ebla-tablets": [],
+ "descent-of-inanna": [],
+ "apkallu-oannes": [],
+ "nag-hammadi": [],
+ "gospel-of-judas": [
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=Rxkz_ygndLU",
+   "title": "The Missing Years of Jesus | National Geographic",
+   "channel": "National Geographic"
+  }
+ ],
+ "gospel-jesus-wife": [],
+ "knights-templar": [],
+ "holy-grail": [
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=Ik3Y4Oq6TwU",
+   "title": "Galahad, Perceval, and the Holy Grail: Crash Course World Mythology #28",
+   "channel": "CrashCourse"
+  }
+ ],
+ "pope-joan": [],
+ "childrens-crusade": [],
+ "joan-of-arc": [
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=I5mVr2R5D-Y",
+   "title": "Joan of Arc: Martyr and a Patron Saint of France",
+   "channel": "World History Encyclopedia"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=e9-l34TcV_U",
+   "title": "6 myths about the Middle Ages that everyone believes - Stephanie Honchell Smith",
+   "channel": "TED-Ed"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=RmMyXwMAqiQ",
+   "title": "Was Joan of Arc a Messenger of God or Schizophrenic?",
+   "channel": "Smithsonian Channel"
+  }
+ ],
+ "wild-hunt": [],
+ "cathars": [],
+ "mechanical-turk": [
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=7W_kQsO6MPc",
+   "title": "Making Marvels—Reproduction of the Chess Player (The Turk)",
+   "channel": "The Met"
+  }
+ ],
+ "mesmer": [],
+ "spring-heeled-jack": [],
+ "missoula-floods": [],
+ "trinity-1945": [],
+ "dna-photo-51": [
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=BIP0lYrdirI",
+   "title": "Rosalind Franklin: DNA's unsung hero - Cláudio L. Guerra",
+   "channel": "TED-Ed"
+  }
+ ],
+ "cmb-1965": [
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=C4CKtEQJGMY",
+   "title": "Secrets of the Cosmic Microwave Background",
+   "channel": "PBS Space Time"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=3tCMd1ytvWg",
+   "title": "Cosmic Microwave Background Explained",
+   "channel": "PBS Space Time"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=wcBjibuHxEk",
+   "title": "Cosmic Microwave Background Challenge | Space Time | PBS Digital Studios",
+   "channel": "PBS Space Time"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=MB841bF7APo",
+   "title": "There Are 1 Quadrillion Stars Behind This Grain of Sand",
+   "channel": "PBS Space Time"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=WWqmccgf78w",
+   "title": "Can The Crisis in Cosmology Be SOLVED With Cosmic Voids?",
+   "channel": "PBS Space Time"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=eYViePMalJE",
+   "title": "The Universe Has Been Expanding Since the Big Bang. Just Not How We Thought.",
+   "channel": "PBS Space Time"
+  }
+ ],
+ "pulsar-lgm1": [
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=PKtnaTxLARc",
+   "title": "Jocelyn Bell Burnell describes how she discovered pulsars - Beautiful Minds_Ep1 Preview_BBC Four",
+   "channel": "BBC"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=z_3zNw91MSY",
+   "title": "Journeys of Discovery: Jocelyn Bell Burnell and Pulsars",
+   "channel": "Cambridge University"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=d7BL6qcx9KQ",
+   "title": "The woman who discovered a new type of star ✨ - BBC World Service #shorts",
+   "channel": "BBC World Service"
+  }
+ ],
+ "voyager-golden-record": [],
+ "laschamp-excursion": [],
+ "unkulunkulu": [],
+ "shaka-zulu": [],
+ "nyai-roro-kidul": [],
+ "majapahit": [
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=wP14-UMT3dk",
+   "title": "21. Majapahit - Empire of the Islands",
+   "channel": "Fall of Civilizations"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=01CZBhZM430",
+   "title": "21. Majapahit - Empire of the Islands",
+   "channel": "Fall of Civilizations"
+  }
+ ],
+ "ifugao-terraces": [
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=7LqAJoD-PpA",
+   "title": "Soar Over the Lush Rice Terraces of the Philippines | National Geographic",
+   "channel": "National Geographic"
+  }
+ ],
+ "tangata-manu": [
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=VCjLuDlBYpw",
+   "title": "Could You Survive the Birdman Competition",
+   "channel": "Smithsonian Channel"
+  }
+ ],
+ "hokulea-1976": [],
+ "terra-preta": [],
+ "fawcett-z": [],
+ "bighorn-medicine-wheel": []
+}

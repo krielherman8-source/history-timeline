@@ -1,0 +1,80 @@
+{
+ "sargon-akkad": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=SxTbQ5EgiU8",
+  "title": "Sargon of Akkad: History's First Emperor?",
+  "channel": "History Time"
+ },
+ "hattusa-hittites": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=OusqE7gTUOI",
+  "title": "The Entire History Of The Hittites / Ancient History Documentary",
+  "channel": "History Time"
+ },
+ "ashurbanipal-library": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=0OZe-y5tk9Q",
+  "title": "I am Ashurbanipal",
+  "channel": "The British Museum"
+ },
+ "holy-grail": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=Ik3Y4Oq6TwU",
+  "title": "Galahad, Perceval, and the Holy Grail: Crash Course World Mythology #28",
+  "channel": "CrashCourse"
+ },
+ "mechanical-turk": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=7W_kQsO6MPc",
+  "title": "Making Marvels—Reproduction of the Chess Player (The Turk)",
+  "channel": "The Met"
+ },
+ "dna-photo-51": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=BIP0lYrdirI",
+  "title": "Rosalind Franklin: DNA's unsung hero - Cláudio L. Guerra",
+  "channel": "TED-Ed"
+ },
+ "pulsar-lgm1": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=z_3zNw91MSY",
+  "title": "Journeys of Discovery: Jocelyn Bell Burnell and Pulsars",
+  "channel": "Cambridge University"
+ },
+ "majapahit": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=wP14-UMT3dk",
+  "title": "21. Majapahit - Empire of the Islands",
+  "channel": "Fall of Civilizations"
+ },
+ "ifugao-terraces": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=7LqAJoD-PpA",
+  "title": "Soar Over the Lush Rice Terraces of the Philippines | National Geographic",
+  "channel": "National Geographic"
+ },
+ "tangata-manu": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=VCjLuDlBYpw",
+  "title": "Could You Survive the Birdman Competition",
+  "channel": "Smithsonian Channel"
+ },
+ "ugarit-baal": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=B965f8AcNbw",
+  "title": "2. The Bronze Age Collapse - Mediterranean Apocalypse",
+  "channel": "Fall of Civilizations"
+ },
+ "joan-of-arc": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=I5mVr2R5D-Y",
+  "title": "Joan of Arc: Martyr and a Patron Saint of France",
+  "channel": "World History Encyclopedia"
+ },
+ "cmb-1965": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=3tCMd1ytvWg",
+  "title": "Cosmic Microwave Background Explained",
+  "channel": "PBS Space Time"
+ }
+}
