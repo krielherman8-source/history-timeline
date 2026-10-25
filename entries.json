@@ -29105,6 +29105,629 @@
     "suppressed-beliefs",
     "holy-wars"
    ]
+  },
+  {
+   "id": "mechanical-turk",
+   "title": "The Mechanical Turk: the chess-playing machine that beat Napoleon",
+   "lane": "history",
+   "status": "debunked",
+   "priority": 2,
+   "start": 1770,
+   "end": 1854,
+   "evidenceTypes": [
+    "documentary",
+    "eyewitness accounts"
+   ],
+   "mainstream": "In 1770 the Hungarian inventor Wolfgang von Kempelen presented to Empress Maria Theresa a life-size figure dressed in Ottoman robes seated at a cabinet, which appeared to play chess by itself. Before each game the doors were opened to show clockwork inside. For 84 years the Turk toured Europe and America, first with Kempelen and after 1804 with Johann Nepomuk Maelzel, defeating many challengers; a game against Napoleon in 1809 is the best-known story, and it is said to have played Benjamin Franklin in Paris. In reality a skilled human chess player hid inside the cabinet, sliding on a seat as the doors were opened and moving the pieces with a pantograph-like arm while following the game through magnets under the board. Edgar Allan Poe's essay 'Maelzel's Chess-Player' (1836) argued it must be human-operated. The machine was destroyed in a fire at the Chinese Museum in Philadelphia in 1854, and the son of its last owner published its secret in 1857.",
+   "alternatives": [
+    {
+     "label": "Hoax and showmanship",
+     "text": "The Turk is a classic illusion: audiences saw the machinery they expected and filled in the rest, which made it a much-cited example in debates on automata and mind."
+    },
+    {
+     "label": "Did it really beat Napoleon?",
+     "text": "The Napoleon and Franklin games are reported in later accounts and some details are uncertain; historians accept that it played many notable people but treat individual anecdotes with caution."
+    },
+    {
+     "label": "Legacy",
+     "text": "Its name was taken by Amazon Mechanical Turk (2005), a platform where hidden human workers do tasks that appear automated, a modern echo of the original deception."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Mechanical Turk",
+     "url": "https://en.wikipedia.org/wiki/Mechanical_Turk",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Wolfgang von Kempelen",
+     "url": "https://en.wikipedia.org/wiki/Wolfgang_von_Kempelen",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Racknitz_-_The_Turk_3.jpg/500px-Racknitz_-_The_Turk_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Racknitz_-_The_Turk_3.jpg",
+     "author": "Joseph Racknitz",
+     "license": "Public domain",
+     "title": "Racknitz_-_The_Turk_3.jpg"
+    }
+   ],
+   "categories": [
+    "hoaxes",
+    "history"
+   ],
+   "threads": [
+    "hoaxes-exposed",
+    "seeing-what-we-expect"
+   ]
+  },
+  {
+   "id": "mesmer",
+   "title": "Mesmerism and the 1784 Franklin commission: one of the first blind trials",
+   "lane": "history",
+   "status": "debunked",
+   "priority": 2,
+   "start": 1784,
+   "end": null,
+   "evidenceTypes": [
+    "experimental (blinded tests)",
+    "documentary"
+   ],
+   "mainstream": "The German physician Franz Anton Mesmer (1734–1815) claimed that an invisible fluid, 'animal magnetism', flowed through all living things and that illness came from its obstruction. In Paris from 1778 he treated wealthy patients, often in groups around a tub (baquet) filled with magnetised water and iron rods, and many fell into convulsive 'crises' and reported cures. In 1784 King Louis XVI appointed commissions including Benjamin Franklin, the chemist Antoine Lavoisier, the astronomer Jean-Sylvain Bailly and the physician Joseph-Ignace Guillotin. They ran tests in which subjects were blindfolded or deceived about whether they were being magnetised: effects appeared when people believed they were being treated, whether or not they were, and did not appear when they were magnetised without knowing. The commission concluded that the fluid did not exist and the effects came from imagination.",
+   "alternatives": [
+    {
+     "label": "Scientific landmark",
+     "text": "Historians of medicine often cite the 1784 tests as one of the earliest uses of blinding and placebo-like controls, a method now central to clinical trials."
+    },
+    {
+     "label": "Forerunner of hypnosis",
+     "text": "Mesmer's followers, such as the Marquis de Puységur, discovered trance states; the Scottish surgeon James Braid later reinterpreted them as 'hypnotism' (1841), which is now studied scientifically."
+    },
+    {
+     "label": "Believers' view",
+     "text": "Mesmer and his supporters held that the commission had tested the wrong things; ideas of a vital energy field continued in later spiritualism and in some alternative medicine, which mainstream science does not support."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Franz Mesmer",
+     "url": "https://en.wikipedia.org/wiki/Franz_Mesmer",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Animal magnetism",
+     "url": "https://en.wikipedia.org/wiki/Animal_magnetism",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Franz_Anton_Mesmer%2C_MRF_-_Vizille.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Franz_Anton_Mesmer,_MRF_-_Vizille.jpg",
+     "author": "Pujos/Legrand",
+     "license": "CC BY-SA 4.0",
+     "title": "Franz_Anton_Mesmer,_MRF_-_Vizille.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "science-cosmos",
+    "hoaxes"
+   ],
+   "threads": [
+    "altered-states",
+    "seeing-what-we-expect",
+    "tested-by-experiment"
+   ]
+  },
+  {
+   "id": "spring-heeled-jack",
+   "title": "Spring-heeled Jack: the leaping fire-breather of Victorian England",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 1837,
+   "end": 1904,
+   "evidenceTypes": [
+    "newspaper reports",
+    "witness testimony",
+    "folklore"
+   ],
+   "mainstream": "From late 1837, reports spread around the outskirts of London of a figure that could leap great heights and attacked or frightened people, usually women. In January 1838 the Lord Mayor of London, Sir John Cowan, publicly read out a letter about the attacks. In February 1838 Jane Alsop told magistrates that a man in a cloak had come to her family's door in Bow claiming to be a policeman, then vomited blue and white flames into her face, had eyes like red balls of fire and tore at her clothes with metallic claws. Sightings continued sporadically for decades, from the Midlands to Aldershot army camp, where sentries in 1877 reported a figure that leapt over them, and to Liverpool in 1904. Spring-heeled Jack became a stock villain of penny dreadfuls and stage plays.",
+   "alternatives": [
+    {
+     "label": "Pranksters",
+     "text": "The Marquess of Waterford, a notorious aristocratic prankster, was rumoured at the time to be responsible, but there is no proof; imitators probably caused some later incidents."
+    },
+    {
+     "label": "Mass panic and folklore",
+     "text": "Many historians see Spring-heeled Jack as a moral panic or urban legend: a few real assaults and hoaxes, fed by newspapers and fiction, grew into a supernatural figure."
+    },
+    {
+     "label": "Paranormal and alien readings",
+     "text": "Some modern writers have suggested a demon, a ghost, or an alien visitor, pointing to the leaping and glowing eyes; there is no evidence for these ideas (speculative)."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Spring-heeled Jack",
+     "url": "https://en.wikipedia.org/wiki/Spring-heeled_Jack",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Jack6.jpg/500px-Jack6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Jack6.jpg",
+     "author": "Robert Prowse Jr. (1858–died circa 1934)",
+     "license": "Public domain",
+     "title": "Jack6.jpg"
+    }
+   ],
+   "categories": [
+    "anomalies",
+    "history",
+    "myth-legend"
+   ],
+   "threads": [
+    "collective-experiences",
+    "mysterious-lights",
+    "monster-panics",
+    "modern-legends"
+   ]
+  },
+  {
+   "id": "missoula-floods",
+   "title": "The Missoula floods: the geologist laughed at for proposing a giant Ice Age flood",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -16000,
+   "end": -13000,
+   "dateNote": "Floods c. 18,000–15,000 years ago; proposed 1923; accepted by the 1960s–70s",
+   "evidenceTypes": [
+    "geological",
+    "radiocarbon/tephra dating"
+   ],
+   "mainstream": "In 1923 the geologist J Harlen Bretz proposed that the strange Channeled Scablands of eastern Washington state, with dry waterfalls, giant ripple marks and huge boulders, had been carved by a single catastrophic flood. At a time when geologists favoured slow, gradual change (uniformitarianism), the idea was treated as a throwback to biblical catastrophism and was publicly challenged at a meeting in Washington D.C. in 1927. The source of the water was identified by Joseph Pardee: Glacial Lake Missoula, a vast lake dammed by a lobe of the Cordilleran ice sheet in Montana, which repeatedly broke the ice dam and drained across Idaho, Washington and Oregon to the Pacific. Aerial photographs and Pardee's 1940s work on giant ripples convinced most geologists, and in 1979, aged 96, Bretz received the Penrose Medal. The floods happened between about 18,000 and 15,000 years ago.",
+   "alternatives": [
+    {
+     "label": "One flood or many",
+     "text": "Bretz first argued for one flood; work by Richard Waitt and others from about 1980 indicates dozens of separate floods as the ice dam repeatedly re-formed and failed."
+    },
+    {
+     "label": "Younger Dryas impact link",
+     "text": "Supporters of the Younger Dryas impact hypothesis, including the writer Graham Hancock, have connected late Ice Age megafloods to a cosmic impact on the ice sheet; most geologists explain the floods by ice-dam failure alone and see no need for an impact."
+    },
+    {
+     "label": "Lesson for science",
+     "text": "The case is often cited as an example of a correct idea rejected for decades because it conflicted with the prevailing paradigm."
+    }
+   ],
+   "changed": "Bretz's 1923 flood hypothesis was rejected by many geologists in the 1920s–30s; evidence from Pardee and later aerial imagery led to its acceptance, honoured with the Penrose Medal in 1979.",
+   "sources": [
+    {
+     "title": "Wikipedia: Missoula floods",
+     "url": "https://en.wikipedia.org/wiki/Missoula_floods",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: J Harlen Bretz",
+     "url": "https://en.wikipedia.org/wiki/J_Harlen_Bretz",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Wpdms_nasa_topo_missoula_floods.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Wpdms_nasa_topo_missoula_floods.jpg",
+     "author": "Unknown",
+     "license": "CC BY-SA 3.0",
+     "title": "Wpdms_nasa_topo_missoula_floods.jpg"
+    }
+   ],
+   "categories": [
+    "science-cosmos",
+    "catastrophes"
+   ],
+   "threads": [
+    "cosmic-impacts",
+    "changed-understanding",
+    "stories-proven-true",
+    "vanished-landscapes",
+    "rejected-pioneers"
+   ]
+  },
+  {
+   "id": "trinity-1945",
+   "title": "Trinity: the first nuclear explosion, 16 July 1945",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": 1945,
+   "end": null,
+   "evidenceTypes": [
+    "documentary",
+    "physical (trinitite)",
+    "photographic"
+   ],
+   "mainstream": "At 5:29 am on 16 July 1945, scientists of the Manhattan Project detonated a plutonium implosion device, nicknamed 'the Gadget', on a 30-metre tower in the Jornada del Muerto desert of New Mexico. The blast, equivalent to roughly 20–25 kilotons of TNT, was seen hundreds of kilometres away and turned desert sand into a green glass later called trinitite. The official cover story was that an ammunition dump had exploded. Less than a month later, similar weapons destroyed Hiroshima and Nagasaki. The laboratory director J. Robert Oppenheimer later recalled (in a 1965 television interview) that a line from the Bhagavad Gita came to his mind: 'Now I am become Death, the destroyer of worlds.' Trinity marks the start of the Atomic Age, and the radioactive fallout from atmospheric tests later became a global marker layer proposed for the start of the 'Anthropocene'.",
+   "alternatives": [
+    {
+     "label": "Ancient nuclear war claims",
+     "text": "Some alternative writers have claimed that Indian epics such as the Mahabharata describe ancient atomic weapons, or that vitrified forts and desert glass show nuclear blasts in prehistory; scholars explain the texts as poetic descriptions of divine weapons and the glass as volcanic, impact or fire effects, and find no radioactive signature (speculative)."
+    },
+    {
+     "label": "Atomic age and UFOs",
+     "text": "The first modern wave of UFO reports began in 1947, two years after Trinity, and some early cases were near nuclear sites such as Roswell and Los Alamos; sceptics attribute this to Cold War anxiety and secret military projects, while some ufologists argue that nuclear activity attracted non-human attention (speculative)."
+    },
+    {
+     "label": "Downwinders",
+     "text": "Residents of nearby communities, many of them Hispanic and Native American, were not warned or evacuated; their health claims were largely ignored for decades."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Trinity (nuclear test)",
+     "url": "https://en.wikipedia.org/wiki/Trinity_(nuclear_test)",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Trinitite",
+     "url": "https://en.wikipedia.org/wiki/Trinitite",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Trinity_shot_color.jpg/500px-Trinity_shot_color.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Trinity_shot_color.jpg",
+     "author": "Jack W. Aeby, July 16, 1945, Civilian worker at Los Alamos laboratory, working under the aegis of the Manhattan Project.",
+     "license": "Public domain",
+     "title": "Trinity_shot_color.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "science-cosmos"
+   ],
+   "threads": [
+    "ancient-technology",
+    "knowledge-and-power"
+   ]
+  },
+  {
+   "id": "dna-photo-51",
+   "title": "Photo 51 and the double helix: the woman whose data revealed DNA's structure",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": 1953,
+   "end": null,
+   "dateNote": "Photo taken May 1952; double helix published 25 April 1953",
+   "evidenceTypes": [
+    "experimental (X-ray crystallography)",
+    "documentary"
+   ],
+   "mainstream": "In May 1952 Raymond Gosling, a PhD student working under Rosalind Franklin at King's College London, took an X-ray diffraction photograph of the 'B' form of DNA, later known as Photo 51, whose X-shaped pattern indicated a helix. In January 1953 Maurice Wilkins showed the photograph to James Watson without Franklin's knowledge, and Watson and Francis Crick in Cambridge also saw an unpublished report summarising her measurements. On 25 April 1953 Nature published Watson and Crick's double-helix model alongside papers by Wilkins and colleagues and by Franklin and Gosling, presented as supporting evidence. Franklin moved to work on viruses and died of ovarian cancer in 1958, aged 37. Watson, Crick and Wilkins received the Nobel Prize in 1962; the Nobel Prize is not awarded posthumously.",
+   "alternatives": [
+    {
+     "label": "Wronged heroine",
+     "text": "Watson's memoir The Double Helix (1968) portrayed Franklin unflatteringly; later biographers, starting with Anne Sayre (1975), presented her as a pioneer whose data was used without credit."
+    },
+    {
+     "label": "Equal collaborator",
+     "text": "In 2023 the historians Matthew Cobb and Nathaniel Comfort, using newly studied documents, argued in Nature that Franklin was not a victim who failed to understand her data but an equal member of a competitive collaboration."
+    },
+    {
+     "label": "Scientific debate",
+     "text": "Historians still debate how decisive Photo 51 itself was compared with Franklin's numerical measurements and the model-building of Watson and Crick."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Photo 51",
+     "url": "https://en.wikipedia.org/wiki/Photo_51",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Rosalind Franklin",
+     "url": "https://en.wikipedia.org/wiki/Rosalind_Franklin",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Molecular Structure of Nucleic Acids: A Structure for Deoxyribose Nucleic Acid",
+     "authors": "WATSON, J. et al.",
+     "year": 1953,
+     "doi": "10.1038/171737a0",
+     "type": "paper"
+    },
+    {
+     "title": "What Rosalind Franklin truly contributed to the discovery of DNA’s structure",
+     "authors": "Cobb, M. et al.",
+     "year": 2023,
+     "doi": "10.1038/d41586-023-01313-5",
+     "type": "paper"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Rosalind_Franklin_CC-BY-SA.png/500px-Rosalind_Franklin_CC-BY-SA.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Rosalind_Franklin_CC-BY-SA.png",
+     "author": "Rori!",
+     "license": "CC BY-SA 4.0",
+     "title": "Rosalind_Franklin_CC-BY-SA.png"
+    }
+   ],
+   "categories": [
+    "science-cosmos",
+    "history"
+   ],
+   "threads": [
+    "erased-from-history"
+   ]
+  },
+  {
+   "id": "cmb-1965",
+   "title": "The echo of the Big Bang found by mistake: the cosmic microwave background (1965)",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": 1965,
+   "end": null,
+   "dateNote": "Detected 1964; published 1965",
+   "evidenceTypes": [
+    "radio astronomy",
+    "satellite measurement"
+   ],
+   "mainstream": "In 1964 Arno Penzias and Robert Wilson at Bell Labs were using a large horn antenna in Holmdel, New Jersey, for radio astronomy when they found a faint, steady microwave hiss coming from every direction, equivalent to a temperature of about 3 kelvins. They removed nesting pigeons and cleaned out what they called 'white dielectric material' (droppings), but the noise remained. Meanwhile a Princeton group under Robert Dicke was building an instrument to look for the predicted afterglow of a hot early universe; when Penzias called, Dicke reportedly told his team 'Boys, we've been scooped.' The two groups published side by side in 1965. The cosmic microwave background (CMB) was decisive evidence for the Big Bang model over the rival steady-state theory; Penzias and Wilson shared the 1978 Nobel Prize in Physics. Satellites (COBE, WMAP, Planck) later mapped its tiny fluctuations.",
+   "alternatives": [
+    {
+     "label": "Earlier predictions",
+     "text": "Ralph Alpher, Robert Herman and George Gamow had predicted a relic radiation of a few kelvins in the late 1940s, a prediction that had been largely forgotten by 1964."
+    },
+    {
+     "label": "Alternative cosmologies",
+     "text": "Fred Hoyle and colleagues proposed that the radiation could be starlight thermalised by dust in a steady-state or quasi-steady-state universe; most cosmologists regard the CMB's near-perfect blackbody spectrum as strongly against this."
+    },
+    {
+     "label": "Remaining puzzles",
+     "text": "Some features of the CMB maps, such as the 'cold spot' and large-scale alignments sometimes called the 'axis of evil', are discussed as statistical flukes or as possible signs of new physics."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Discovery of cosmic microwave background radiation",
+     "url": "https://en.wikipedia.org/wiki/Discovery_of_cosmic_microwave_background_radiation",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Holmdel Horn Antenna",
+     "url": "https://en.wikipedia.org/wiki/Holmdel_Horn_Antenna",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "A Measurement of Excess Antenna Temperature at 4080 Mc/s.",
+     "authors": "Penzias, A. et al.",
+     "year": 1965,
+     "doi": "10.1086/148307",
+     "type": "paper"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Horn_Antenna-in_Holmdel%2C_New_Jersey_-_restoration1.jpg/500px-Horn_Antenna-in_Holmdel%2C_New_Jersey_-_restoration1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Horn_Antenna-in_Holmdel,_New_Jersey_-_restoration1.jpg",
+     "author": "NASA, restored by Bammesk",
+     "license": "Public domain",
+     "title": "Horn_Antenna-in_Holmdel,_New_Jersey_-_restoration1.jpg"
+    }
+   ],
+   "categories": [
+    "science-cosmos"
+   ],
+   "threads": [
+    "changed-understanding",
+    "accidental-discoveries"
+   ]
+  },
+  {
+   "id": "pulsar-lgm1",
+   "title": "LGM-1: the radio pulse first nicknamed 'Little Green Men' (1967)",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1967,
+   "end": null,
+   "evidenceTypes": [
+    "radio astronomy"
+   ],
+   "mainstream": "In August 1967 the Cambridge PhD student Jocelyn Bell, checking kilometres of chart paper from a new radio telescope, noticed a small 'bit of scruff'. Follow-up showed a pulse repeating every 1.337 seconds with extraordinary regularity. Because no natural source was known to keep such precise time, the team half-seriously labelled it LGM-1, for 'Little Green Men', and briefly considered whether it might be an artificial signal. After Bell found a second similar source elsewhere in the sky, an alien origin became very unlikely, and the discovery was published in Nature in February 1968. The sources were soon explained as pulsars: rapidly spinning neutron stars sweeping beams of radio waves past Earth like a lighthouse. The 1974 Nobel Prize in Physics went to her supervisor Antony Hewish (with Martin Ryle), not to Bell, which drew criticism; Bell Burnell herself said she was not upset. In 2018 she received the Breakthrough Prize and gave the $3 million to fund physics scholarships for under-represented students.",
+   "alternatives": [
+    {
+     "label": "Signal from aliens?",
+     "text": "The episode is a case study in how scientists test for artificial signals: the team looked for planetary orbital motion (Doppler shifts) that would be expected from a transmitter on a planet and did not find it."
+    },
+    {
+     "label": "Credit debate",
+     "text": "Many scientists, including Fred Hoyle, criticised the Nobel decision; others argue that prizes routinely went to project leaders at the time."
+    },
+    {
+     "label": "Pulsars as cosmic beacons",
+     "text": "The Pioneer plaques and Voyager Golden Record later used pulsars as a map to locate the Sun for any alien finder, turning the 'Little Green Men' signal into a message to them."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: PSR B1919+21",
+     "url": "https://en.wikipedia.org/wiki/PSR_B1919%2B21",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Jocelyn Bell Burnell",
+     "url": "https://en.wikipedia.org/wiki/Jocelyn_Bell_Burnell",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Observation of a Rapidly Pulsating Radio Source",
+     "authors": "HEWISH, A. et al.",
+     "year": 1968,
+     "doi": "10.1038/217709a0",
+     "type": "paper"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Chart_Showing_Radio_Signal_of_First_Identified_Pulsar.jpg/500px-Chart_Showing_Radio_Signal_of_First_Identified_Pulsar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Chart_Showing_Radio_Signal_of_First_Identified_Pulsar.jpg",
+     "author": "Billthom",
+     "license": "CC BY-SA 4.0",
+     "title": "Chart_Showing_Radio_Signal_of_First_Identified_Pulsar.jpg"
+    }
+   ],
+   "categories": [
+    "science-cosmos",
+    "aliens-ufo"
+   ],
+   "threads": [
+    "erased-from-history",
+    "life-beyond-earth",
+    "accidental-discoveries",
+    "contact-attempts"
+   ]
+  },
+  {
+   "id": "voyager-golden-record",
+   "title": "The Voyager Golden Record: a message for whoever finds it",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1977,
+   "end": null,
+   "evidenceTypes": [
+    "documentary",
+    "artefact (in space)"
+   ],
+   "mainstream": "When NASA launched Voyager 1 and 2 in 1977, each carried a 12-inch gold-plated copper phonograph record intended as a message from Earth for any intelligent beings who might find it. A committee chaired by Carl Sagan, including Frank Drake, Ann Druyan, Timothy Ferris, Linda Salzman Sagan and Jon Lomberg, chose 115 encoded images, greetings in 55 languages, sounds of Earth such as wind, rain, whales and a heartbeat, and 90 minutes of music from Bach and Beethoven to Chuck Berry, Javanese gamelan and Navajo night chant. The cover shows how to play the record and, using 14 pulsars, where the Sun is. Voyager 1 crossed the heliopause into interstellar space in 2012, and Voyager 2 in 2018; they will not come within about 1.6 light-years of another star for some 40,000 years.",
+   "alternatives": [
+    {
+     "label": "Symbolic message",
+     "text": "Sagan himself said the chances of the record being found were small and that it mattered more as a statement to humanity about itself."
+    },
+    {
+     "label": "Risk of contact",
+     "text": "Some scientists, notably Stephen Hawking, warned in general that announcing our presence to unknown civilisations could be dangerous, a debate also linked to the Fermi paradox; others reply that our radio and TV leakage already travels further than the probes."
+    },
+    {
+     "label": "Reverse of the ancient-astronaut idea",
+     "text": "Writers have noted that the record is exactly the kind of artefact that ancient-astronaut theorists propose other civilisations may have left on Earth; no such artefact has been confirmed."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Voyager Golden Record",
+     "url": "https://en.wikipedia.org/wiki/Voyager_Golden_Record",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/The_Sounds_of_Earth_-_GPN-2000-001976.jpg/500px-The_Sounds_of_Earth_-_GPN-2000-001976.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:The_Sounds_of_Earth_-_GPN-2000-001976.jpg",
+     "author": "NASA",
+     "license": "Public domain",
+     "title": "The_Sounds_of_Earth_-_GPN-2000-001976.jpg"
+    }
+   ],
+   "categories": [
+    "science-cosmos",
+    "aliens-ufo",
+    "history"
+   ],
+   "threads": [
+    "life-beyond-earth",
+    "contact-attempts"
+   ]
+  },
+  {
+   "id": "laschamp-excursion",
+   "title": "The Laschamp excursion: when Earth's magnetic field nearly vanished 41,000 years ago",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -41000,
+   "end": null,
+   "dateNote": "c. 42,000–41,000 years ago",
+   "evidenceTypes": [
+    "geological (palaeomagnetic)",
+    "ice core (beryllium-10)",
+    "radiocarbon (tree rings)"
+   ],
+   "mainstream": "About 41,000 years ago Earth's magnetic field briefly reversed direction and fell to a small fraction of its present strength, an event named after the Laschamp lava flows in France's Massif Central where it was first identified in the 1960s. The reversal itself lasted only a few centuries. With the shield weakened, more cosmic rays reached the atmosphere, producing peaks of beryllium-10 in Greenland and Antarctic ice and of carbon-14 in the record. In 2021 Alan Cooper, Chris Turney and colleagues published in Science a precisely dated radiocarbon record from an ancient New Zealand kauri tree spanning the event and argued that the weakest phase, about 42,000 years ago, which they named the 'Adams event', caused ozone loss, climate shifts and higher ultraviolet levels.",
+   "alternatives": [
+    {
+     "label": "Wide-ranging effects",
+     "text": "Cooper and Turney suggested the event may have contributed to megafauna extinctions in Australia, the final decline of Neanderthals and a rise in cave art and red ochre use as sunscreen; these links are speculative and disputed."
+    },
+    {
+     "label": "Sceptical response",
+     "text": "Other researchers, including archaeologists and palaeoclimatologists, argued that the proposed connections are not supported by the timing or by other climate records, and that previous excursions had no comparable effects."
+    },
+    {
+     "label": "Future reversals",
+     "text": "The present field has weakened by about 9% in the past two centuries, and the South Atlantic Anomaly is growing; geophysicists say this does not necessarily mean a reversal is imminent."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Laschamp event",
+     "url": "https://en.wikipedia.org/wiki/Laschamp_event",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Geomagnetic reversal",
+     "url": "https://en.wikipedia.org/wiki/Geomagnetic_reversal",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "A global environmental crisis 42,000 years ago",
+     "authors": "Cooper, A. et al.",
+     "year": 2021,
+     "doi": "10.1126/science.abb8677",
+     "type": "paper"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Col_de_la_Mor%C3%A9no_-_Puy_de_Laschamps_20220825-01.jpg/500px-Col_de_la_Mor%C3%A9no_-_Puy_de_Laschamps_20220825-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Col_de_la_Mor%C3%A9no_-_Puy_de_Laschamps_20220825-01.jpg",
+     "author": "Pymouss",
+     "license": "CC BY-SA 4.0",
+     "title": "Col_de_la_Moréno_-_Puy_de_Laschamps_20220825-01.jpg"
+    }
+   ],
+   "categories": [
+    "science-cosmos",
+    "catastrophes"
+   ],
+   "threads": [
+    "changed-understanding",
+    "mass-extinctions",
+    "space-weather",
+    "vanished-species"
+   ]
   }
  ]
 }
