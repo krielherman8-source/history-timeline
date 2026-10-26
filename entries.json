@@ -11131,7 +11131,8 @@
    "threads": [
     "changed-understanding",
     "mummies",
-    "genetic-migrations"
+    "genetic-migrations",
+    "silk-road"
    ]
   },
   {
@@ -15944,7 +15945,8 @@
    "threads": [
     "lost-civilisations",
     "changed-understanding",
-    "civilisation-collapses"
+    "civilisation-collapses",
+    "silk-road"
    ]
   },
   {
@@ -16190,7 +16192,8 @@
    "threads": [
     "ancient-astronomy",
     "knowledge-and-power",
-    "lost-evidence"
+    "lost-evidence",
+    "silk-road"
    ]
   },
   {
@@ -21779,7 +21782,8 @@
    ],
    "threads": [
     "ocean-voyagers",
-    "human-sacrifice"
+    "human-sacrifice",
+    "silk-road"
    ]
   },
   {
@@ -31110,6 +31114,610 @@
     "ancient-astronomy",
     "ancient-technology",
     "sun-cults"
+   ]
+  },
+  {
+   "id": "fu-hao",
+   "title": "Fu Hao: a Shang queen, general and priestess, found in an unlooted tomb",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -1200,
+   "end": null,
+   "dateNote": "c. 1200 BCE (reign of Wu Ding)",
+   "evidenceTypes": [
+    "archaeological",
+    "textual (oracle bones)"
+   ],
+   "mainstream": "Fu Hao was one of the wives of King Wu Ding of the Shang dynasty (c. 1250–1192 BCE). Oracle-bone inscriptions from the Shang capital at Anyang record her leading military campaigns, including one said to involve 13,000 troops, conducting sacrifices and being the subject of divinations about childbirth and illness. In 1976 the archaeologist Zheng Zhenxiang excavated her tomb at Anyang, one of the very few Shang royal tombs found intact. It held over 1,600 objects, including about 468 bronzes, 755 jades, some 7,000 cowrie shells, bronze weapons and the remains of 16 sacrificed people and six dogs.",
+   "alternatives": [
+    {
+     "label": "Warrior queen",
+     "text": "Many historians present Fu Hao as one of the earliest documented female military commanders, and her tomb weapons support her martial role."
+    },
+    {
+     "label": "One woman or several?",
+     "text": "Some scholars note that 'Fu' may be a title and that oracle-bone references across many years might concern more than one person, so the unified biography could be partly a modern construction."
+    },
+    {
+     "label": "Religious role",
+     "text": "Her role in sacrifices and divination suggests royal women could hold ritual authority; she was later worshipped as an ancestor."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Fu Hao",
+     "url": "https://en.wikipedia.org/wiki/Fu_Hao",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Tomb of Fu Hao",
+     "url": "https://en.wikipedia.org/wiki/Tomb_of_Fu_Hao",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Fu_Hao_Tomb_and_Statue%2C_c._1200_BC%2C_Reign_of_King_Wu_Ding%2C_Shang_Dynasty_%2810197821303%29.jpg/500px-Fu_Hao_Tomb_and_Statue%2C_c._1200_BC%2C_Reign_of_King_Wu_Ding%2C_Shang_Dynasty_%2810197821303%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Fu_Hao_Tomb_and_Statue,_c._1200_BC,_Reign_of_King_Wu_Ding,_Shang_Dynasty_(10197821303).jpg",
+     "author": "Gary Todd from Xinzheng, China",
+     "license": "CC0",
+     "title": "Fu_Hao_Tomb_and_Statue,_c._1200_BC,_Reign_of_King_Wu_Ding,_Shang_Dynasty_(10197821303).jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology"
+   ],
+   "threads": [
+    "hidden-tombs",
+    "warrior-women",
+    "human-sacrifice",
+    "visionary-women"
+   ]
+  },
+  {
+   "id": "zhang-heng-seismoscope",
+   "title": "Zhang Heng's dragon-and-toad seismoscope (132 CE)",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 3,
+   "start": 132,
+   "end": null,
+   "evidenceTypes": [
+    "textual",
+    "experimental reconstruction"
+   ],
+   "mainstream": "Zhang Heng (78–139 CE), an Eastern Han astronomer, mathematician, poet and inventor, is credited in the Book of the Later Han with building in 132 CE a bronze vessel that detected distant earthquakes. Eight dragons around its outside each held a bronze ball; when the ground shook, a ball dropped from one dragon's mouth into the mouth of a bronze toad below, supposedly indicating the direction of the quake. The text says it once signalled an earthquake that was not felt in the capital Luoyang, and messengers later arrived reporting a quake in Longxi (Gansu), several hundred kilometres away. The original device is lost and only this short description survives.",
+   "alternatives": [
+    {
+     "label": "Working pendulum",
+     "text": "Most historians accept that some kind of earthquake indicator existed and propose a pendulum mechanism inside; modern Chinese reconstructions (1951 and 2005) have been built and tested."
+    },
+    {
+     "label": "Doubts about direction",
+     "text": "Seismologists point out that a simple pendulum could not reliably show the direction of the epicentre, and some suspect the account may idealise the device's performance; the reconstructions are informed guesses."
+    },
+    {
+     "label": "Wider context",
+     "text": "Whatever its exact performance, it is often cited as the world's first seismoscope, more than 1,500 years before comparable European instruments."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Zhang Heng",
+     "url": "https://en.wikipedia.org/wiki/Zhang_Heng",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Seismometer",
+     "url": "https://en.wikipedia.org/wiki/Seismometer",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/20251004_Tomb_of_Zhang_Heng_03.jpg/500px-20251004_Tomb_of_Zhang_Heng_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:20251004_Tomb_of_Zhang_Heng_03.jpg",
+     "author": "Windmemories",
+     "license": "CC BY-SA 4.0",
+     "title": "20251004_Tomb_of_Zhang_Heng_03.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "science-cosmos"
+   ],
+   "threads": [
+    "ancient-technology",
+    "lost-evidence",
+    "earthquake-lore"
+   ]
+  },
+  {
+   "id": "taiping-rebellion",
+   "title": "The Taiping Heavenly Kingdom: Jesus's 'younger brother' and one of history's deadliest wars",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1850,
+   "end": 1864,
+   "evidenceTypes": [
+    "textual",
+    "documentary"
+   ],
+   "mainstream": "Hong Xiuquan, a Hakka villager from Guangdong, failed the imperial civil-service examinations several times. During a long illness in 1837 he had visions of a heavenly father and an elder brother who charged him with destroying demons. After reading a Christian missionary tract in 1843 he concluded that he was the younger brother of Jesus. His God Worshipping Society grew into the Taiping Heavenly Kingdom, which rose against the Qing dynasty in 1850–51, captured Nanjing in 1853 and held much of southern China until 1864. Taiping ideology banned opium, foot-binding and idol worship and proclaimed shared property and equality of the sexes in principle. The war and the famines and epidemics that went with it are estimated to have killed 20–30 million people or more.",
+   "alternatives": [
+    {
+     "label": "Religious movement",
+     "text": "Many historians stress Hong's sincere, if unorthodox, Christian-inspired theology; Western missionaries initially welcomed the movement and then rejected it as heretical."
+    },
+    {
+     "label": "Medical explanations",
+     "text": "Some writers have suggested Hong's visions reflected a psychological or neurological illness during his breakdown; this cannot be tested and others caution against diagnosing historical figures."
+    },
+    {
+     "label": "Political readings",
+     "text": "Chinese Communist historiography long portrayed the Taiping as a peasant revolution and forerunner of socialism, while other historians emphasise Han resistance to the Manchu Qing or the social crisis of overpopulation and economic distress."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Taiping Rebellion",
+     "url": "https://en.wikipedia.org/wiki/Taiping_Rebellion",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Hong Xiuquan",
+     "url": "https://en.wikipedia.org/wiki/Hong_Xiuquan",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Regaining_the_Provincial_City_Anqing2.jpg/500px-Regaining_the_Provincial_City_Anqing2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Regaining_the_Provincial_City_Anqing2.jpg",
+     "author": "Wu Youru",
+     "license": "Public domain",
+     "title": "Regaining_the_Provincial_City_Anqing2.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "religion"
+   ],
+   "threads": [
+    "altered-states",
+    "millenarian-movements",
+    "holy-wars"
+   ]
+  },
+  {
+   "id": "yellow-emperor",
+   "title": "The Yellow Emperor: inventor, sage-king and ancestor of the Chinese",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": -2697,
+   "end": null,
+   "dateNote": "Traditional reign 2697–2597 BCE",
+   "evidenceTypes": [
+    "textual",
+    "mythological"
+   ],
+   "mainstream": "Huangdi, the Yellow Emperor, is a legendary ruler traditionally said to have reigned 2697–2597 BCE (dates calculated much later). The Han-dynasty historian Sima Qian placed him first among the Five Emperors. He is credited with defeating his rival Chiyou at the Battle of Zhuolu, and he and his court are credited with inventing silk-making (his wife Leizu), writing (his scribe Cangjie), the calendar, medicine (the Huangdi Neijing, actually compiled around the Han period) and the south-pointing chariot. Daoists revered him as an immortal who ascended to heaven on a dragon. In the early 20th century he was promoted as the common ancestor of the Chinese nation, and he is still honoured at a mausoleum in Shaanxi.",
+   "alternatives": [
+    {
+     "label": "Deified culture hero",
+     "text": "Historians of the 1920s 'Doubting Antiquity' school, led by Gu Jiegang, argued that the Yellow Emperor was a deity or later invention whose 'history' grew richer the later the sources were; this is widely accepted among scholars."
+    },
+    {
+     "label": "Memory of a real chief",
+     "text": "Some Chinese scholars and the state-backed tradition hold that the legends preserve memories of real Neolithic leaders of the Yellow River valley; there is no direct evidence for an individual."
+    },
+    {
+     "label": "Sky-ascent readings",
+     "text": "His ascent to heaven on a dragon has been read by some ancient-astronaut writers as a memory of flying machines; mythologists see it as a standard motif of Daoist immortality (speculative)."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Yellow Emperor",
+     "url": "https://en.wikipedia.org/wiki/Yellow_Emperor",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Doubting Antiquity School",
+     "url": "https://en.wikipedia.org/wiki/Doubting_Antiquity_School",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Yellowemperor.jpg/500px-Yellowemperor.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Yellowemperor.jpg",
+     "author": "mural painting from Han dynasty",
+     "license": "Public domain",
+     "title": "Yellowemperor.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "history"
+   ],
+   "threads": [
+    "sky-beings",
+    "sacred-kingship",
+    "civilising-teachers",
+    "elixirs-of-immortality"
+   ]
+  },
+  {
+   "id": "xuanzang-journey",
+   "title": "Xuanzang: the real pilgrim behind Journey to the West",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 629,
+   "end": 645,
+   "evidenceTypes": [
+    "textual",
+    "archaeological"
+   ],
+   "mainstream": "The Chinese Buddhist monk Xuanzang (c. 602–664) left the Tang capital Chang'an in 629, against an imperial travel ban, and travelled overland via Central Asia to India, where he studied at Nalanda. He returned in 645 with 657 Buddhist texts, which he spent the rest of his life translating, and dictated an account of the lands he had seen, the Great Tang Records on the Western Regions (646). In the 19th century British archaeologists including Alexander Cunningham used his detailed distances and descriptions to locate Buddhist sites such as Nalanda, Sarnath and Kushinagar. His journey became the basis of the 16th-century novel Journey to the West, in which the monk is escorted by the Monkey King Sun Wukong, a pig and a river spirit.",
+   "alternatives": [
+    {
+     "label": "Reliable guide",
+     "text": "His travel records proved accurate enough to guide excavations, making them an example of an ancient text later confirmed by archaeology."
+    },
+    {
+     "label": "Monkey King origins",
+     "text": "Scholars debate whether Sun Wukong was inspired by the Hindu monkey god Hanuman (argued by Hu Shih) or developed from Chinese folk traditions (argued by Lu Xun); both influences may be involved."
+    },
+    {
+     "label": "Fact and fantasy",
+     "text": "The novel turned a scholarly pilgrimage into a fantastic quest with 81 trials, and is counted among the Four Great Classical Novels of Chinese literature."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Xuanzang",
+     "url": "https://en.wikipedia.org/wiki/Xuanzang",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Journey to the West",
+     "url": "https://en.wikipedia.org/wiki/Journey_to_the_West",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Records of the Western Regions",
+     "url": "https://en.wikipedia.org/wiki/Records_of_the_Western_Regions",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Xuanzang_w.jpg/500px-Xuanzang_w.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Xuanzang_w.jpg",
+     "author": "Unknown authorUnknown author",
+     "license": "Public domain",
+     "title": "Xuanzang_w.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "religion",
+    "archaeology"
+   ],
+   "threads": [
+    "stories-proven-true",
+    "silk-road"
+   ]
+  },
+  {
+   "id": "dunhuang-library-cave",
+   "title": "The Dunhuang Library Cave: a sealed room of 50,000 manuscripts",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1000,
+   "end": null,
+   "dateNote": "Sealed c. 1000 CE; rediscovered 1900",
+   "evidenceTypes": [
+    "archaeological",
+    "textual"
+   ],
+   "mainstream": "In 1900 Wang Yuanlu, a Daoist caretaker of the Mogao Caves near Dunhuang on the Silk Road, found a walled-up chamber, now Cave 17, packed with tens of thousands of manuscripts, paintings and printed items from the 4th to early 11th centuries, in Chinese, Tibetan, Sanskrit, Khotanese, Sogdian, Old Uyghur, Hebrew and other languages. Among them is a copy of the Diamond Sutra dated 868 CE, the oldest dated printed book in the world (now in the British Library). In 1907–08 the explorers Aurel Stein and Paul Pelliot acquired large parts of the collection cheaply, and the rest was dispersed to Beijing, St Petersburg, Japan and elsewhere. The International Dunhuang Project now reunites them digitally.",
+   "alternatives": [
+    {
+     "label": "Hidden from invaders",
+     "text": "A common explanation is that the monks sealed the cave in the early 11th century to protect its contents from an expected invasion, by the Tanguts (Xi Xia) or by the Muslim Karakhanids who had conquered Buddhist Khotan in 1006."
+    },
+    {
+     "label": "Sacred waste store",
+     "text": "Others, following Fujieda Akira, propose that the cave was a repository for worn-out or obsolete sacred texts that could not be destroyed, which would explain the many fragments and duplicates."
+    },
+    {
+     "label": "Rescue or looting?",
+     "text": "Stein and Pelliot are seen by some as having saved the material for scholarship and by others, especially in China, as having taken national treasures; the episode remains part of debates on the return of cultural property."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Mogao Caves",
+     "url": "https://en.wikipedia.org/wiki/Mogao_Caves",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Diamond Sutra",
+     "url": "https://en.wikipedia.org/wiki/Diamond_Sutra",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Mogao_Caves_%2854376969262%29.jpg/500px-Mogao_Caves_%2854376969262%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Mogao_Caves_(54376969262).jpg",
+     "author": "xiquinhosilva",
+     "license": "CC BY 2.0",
+     "title": "Mogao_Caves_(54376969262).jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology",
+    "religion"
+   ],
+   "threads": [
+    "hidden-scriptures",
+    "rediscovered-civilisations",
+    "lost-libraries",
+    "silk-road"
+   ]
+  },
+  {
+   "id": "hongshan-jade-dragon",
+   "title": "The Hongshan jade dragons: the first Chinese dragon?",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 3,
+   "start": -3500,
+   "end": -2900,
+   "dateNote": "Hongshan culture c. 4700–2900 BCE",
+   "evidenceTypes": [
+    "archaeological"
+   ],
+   "mainstream": "The Hongshan culture (c. 4700–2900 BCE) of Inner Mongolia and Liaoning, north-east China, is known for finely worked jades, including curled 'pig-dragons' (zhulong) and a 26 cm C-shaped jade dragon found at Sanxingtala in 1971. At Niuheliang, archaeologists found a 'Goddess Temple' with clay statues and large stone burial mounds. Even earlier, a dragon and a tiger made of mussel shells flank a burial at Xishuipo (Puyang, Henan, c. 4000 BCE). The dragon later became a central symbol of rain, water, emperors and good fortune in Chinese culture.",
+   "alternatives": [
+    {
+     "label": "Animal origins",
+     "text": "Scholars have proposed many models for the Chinese dragon: pigs, snakes, alligators, fish, silkworms or a combination of clan totems; the curled Hongshan jades look to some like embryos or larvae."
+    },
+    {
+     "label": "Fossil inspiration",
+     "text": "For centuries Chinese apothecaries sold fossil bones and teeth as 'dragon bones'; some writers argue that fossils influenced dragon legends, as folklorist Adrienne Mayor has argued for Greek monsters, though this is hard to prove for the earliest Chinese images."
+    },
+    {
+     "label": "Lost-civilisation claims",
+     "text": "Some popular writers present Hongshan as a lost early civilisation or the single source of Chinese culture; archaeologists see it as one of several interacting Neolithic cultures that contributed to later Chinese civilisation."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Hongshan culture",
+     "url": "https://en.wikipedia.org/wiki/Hongshan_culture",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Chinese dragon",
+     "url": "https://en.wikipedia.org/wiki/Chinese_dragon",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Hongshan_Culture_Jade_Dragon.jpg/500px-Hongshan_Culture_Jade_Dragon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Hongshan_Culture_Jade_Dragon.jpg",
+     "author": "Gary Todd",
+     "license": "CC0",
+     "title": "Hongshan_Culture_Jade_Dragon.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "myth-legend"
+   ],
+   "threads": [
+    "dragons-and-fossils",
+    "serpent-beings"
+   ]
+  },
+  {
+   "id": "great-wall",
+   "title": "The Great Wall of China and the myth that it can be seen from space",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -700,
+   "end": 1644,
+   "dateNote": "c. 7th century BCE to 1644 CE",
+   "evidenceTypes": [
+    "archaeological",
+    "textual",
+    "remote sensing"
+   ],
+   "mainstream": "The 'Great Wall' is really many walls built by different Chinese states and dynasties from around the 7th century BCE to the 17th century CE to guard against northern peoples. The first emperor, Qin Shi Huang, linked earlier walls after 221 BCE; most of the brick-and-stone wall visible today was built by the Ming dynasty (1368–1644). A 2012 Chinese survey measured all wall sections at about 21,196 km. It is a UNESCO World Heritage Site.",
+   "alternatives": [
+    {
+     "label": "Visible from space?",
+     "text": "A widely repeated claim, already in print in the 1930s, says the wall is the only human-made structure visible from the Moon or from space. NASA and astronauts, including China's first astronaut Yang Liwei in 2003, say it is not visible to the naked eye from the Moon and is very hard to see even from low Earth orbit, because it is narrow and similar in colour to its surroundings."
+    },
+    {
+     "label": "Meng Jiangnu legend",
+     "text": "A famous folk tale says that Lady Meng Jiang's husband died as a forced labourer on the Qin wall, and her weeping was so bitter that a section of the wall collapsed to reveal his bones; it expresses popular memory of the suffering of wall builders."
+    },
+    {
+     "label": "Bodies in the wall",
+     "text": "The common claim that workers' bodies were buried inside the wall is not supported by archaeological evidence, though many labourers certainly died during construction."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Great Wall of China",
+     "url": "https://en.wikipedia.org/wiki/Great_Wall_of_China",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "NASA: Great Wall (image article)",
+     "url": "https://www.nasa.gov/image-article/great-wall/",
+     "type": "science agency"
+    },
+    {
+     "title": "UNESCO World Heritage Centre: The Great Wall",
+     "url": "https://whc.unesco.org/en/list/438/",
+     "type": "heritage"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/The_Great_Wall_of_China_at_Jinshanling-edit.jpg/500px-The_Great_Wall_of_China_at_Jinshanling-edit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:The_Great_Wall_of_China_at_Jinshanling-edit.jpg",
+     "author": "Severin.stalder",
+     "license": "CC BY-SA 3.0",
+     "title": "The_Great_Wall_of_China_at_Jinshanling-edit.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology"
+   ],
+   "threads": [
+    "giant-monuments",
+    "seeing-what-we-expect",
+    "modern-legends"
+   ]
+  },
+  {
+   "id": "kaifeng-jews",
+   "title": "The Jews of Kaifeng: a Jewish community in imperial China",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 3,
+   "start": 1000,
+   "end": null,
+   "evidenceTypes": [
+    "inscriptions",
+    "textual"
+   ],
+   "mainstream": "A Jewish community lived in Kaifeng, the capital of the Northern Song dynasty, probably from around the 10th–11th centuries. A stele of 1489 says Jews arrived during the Song, bringing cotton goods from the 'Western regions', and built a synagogue in 1163. In 1605 the Jesuit Matteo Ricci met a Kaifeng Jew, Ai Tian, who had come to Beijing, bringing the community to European attention. Through intermarriage, Chinese education and the loss of rabbis, the community gradually assimilated; the synagogue, repeatedly damaged by Yellow River floods, was not rebuilt after the mid-19th century. A few hundred to around a thousand people in Kaifeng today identify as descendants, and some have emigrated to Israel.",
+   "alternatives": [
+    {
+     "label": "Silk Road merchants",
+     "text": "Most historians think the founders were Persian-speaking Jewish merchants who came via the Silk Road or by sea; the community's texts include Persian words."
+    },
+    {
+     "label": "Earlier origins",
+     "text": "A stele of 1663 claims an arrival as early as the Han dynasty, and other claims connect them to the Lost Tribes of Israel; these are not supported by firm evidence (speculative)."
+    },
+    {
+     "label": "Identity today",
+     "text": "Chinese authorities do not recognise the descendants as a separate ethnic group or Judaism as an official religion, and their status remains sensitive."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Kaifeng Jews",
+     "url": "https://en.wikipedia.org/wiki/Kaifeng_Jews",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Jews_of_Kai-Fung-Foo%2C_China.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Jews_of_Kai-Fung-Foo,_China.jpg",
+     "author": "Unknown",
+     "license": "Public domain",
+     "title": "Jews_of_Kai-Fung-Foo,_China.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "religion"
+   ],
+   "threads": [
+    "suppressed-beliefs",
+    "trade-networks",
+    "silk-road"
+   ]
+  },
+  {
+   "id": "hanging-coffins",
+   "title": "The hanging coffins of China: how were they placed on sheer cliffs?",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 3,
+   "start": -1000,
+   "end": null,
+   "dateNote": "Oldest c. 3,000 years old; practice into the Ming dynasty",
+   "evidenceTypes": [
+    "archaeological",
+    "textual"
+   ],
+   "mainstream": "In southern China, notably in the Wuyi Mountains (Fujian), the Three Gorges and the Bo people's homeland in Gongxian, Sichuan, wooden coffins were placed in caves or on wooden beams driven into sheer cliff faces, sometimes more than 100 m above the ground. The oldest are thought to be around 3,000 years old, and the practice continued in some places into the Ming dynasty. The Bo, who used the custom, largely disappear from records after a Ming military campaign against them in 1573. Similar cliff burials exist at Sagada in the Philippines and among the Toraja of Sulawesi.",
+   "alternatives": [
+    {
+     "label": "How they were raised",
+     "text": "Proposed methods include lowering coffins by ropes from the cliff top, building scaffolding or plank walkways, or floating them up on high water; researchers have demonstrated rope-and-winch methods, but no contemporary description survives."
+    },
+    {
+     "label": "Why so high",
+     "text": "Explanations include protecting the dead from animals and robbers, bringing the dead closer to heaven, and showing filial piety; the meaning probably differed between cultures."
+    },
+    {
+     "label": "Vanished people",
+     "text": "The fate of the Bo has been the subject of speculation; most scholars think survivors assimilated into neighbouring populations after 1573."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Hanging coffins",
+     "url": "https://en.wikipedia.org/wiki/Hanging_coffins",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Bo people",
+     "url": "https://en.wikipedia.org/wiki/Bo_people",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Sagada_Hanging_Coffins.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Sagada_Hanging_Coffins.jpg",
+     "author": "Kok Leng, Maurice Yeo from Singapore, Singapore",
+     "license": "CC BY 2.0",
+     "title": "Sagada_Hanging_Coffins.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history",
+    "anomalies"
+   ],
+   "threads": [
+    "hidden-tombs",
+    "erased-from-history"
    ]
   }
  ]
