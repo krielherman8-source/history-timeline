@@ -1273,7 +1273,8 @@
     "religion"
    ],
    "threads": [
-    "flood-myths"
+    "flood-myths",
+    "elixirs-of-immortality"
    ]
   },
   {
@@ -3654,7 +3655,8 @@
    ],
    "threads": [
     "changed-understanding",
-    "ancient-astronomy"
+    "ancient-astronomy",
+    "sun-cults"
    ]
   },
   {
@@ -4860,7 +4862,8 @@
     "anomalies"
    ],
    "threads": [
-    "origins-of-writing"
+    "origins-of-writing",
+    "decipherments"
    ]
   },
   {
@@ -9142,7 +9145,8 @@
     "myth-legend"
    ],
    "threads": [
-    "ocean-voyagers"
+    "ocean-voyagers",
+    "elixirs-of-immortality"
    ]
   },
   {
@@ -11866,7 +11870,8 @@
     "changed-understanding",
     "ancient-astronomy",
     "origins-of-writing",
-    "civilisation-collapses"
+    "civilisation-collapses",
+    "decipherments"
    ]
   },
   {
@@ -12388,7 +12393,8 @@
    "threads": [
     "changed-understanding",
     "origins-of-writing",
-    "knowledge-and-power"
+    "knowledge-and-power",
+    "decipherments"
    ]
   },
   {
@@ -12458,7 +12464,8 @@
    ],
    "threads": [
     "serpent-beings",
-    "ancient-astronomy"
+    "ancient-astronomy",
+    "sun-cults"
    ]
   },
   {
@@ -15703,7 +15710,8 @@
    "threads": [
     "changed-understanding",
     "origins-of-writing",
-    "knowledge-and-power"
+    "knowledge-and-power",
+    "decipherments"
    ]
   },
   {
@@ -18071,7 +18079,8 @@
     "hidden-tombs",
     "sacred-kingship",
     "otherworld-visits",
-    "underground-worlds"
+    "underground-worlds",
+    "sun-cults"
    ]
   },
   {
@@ -20409,7 +20418,8 @@
     "sacred-kingship",
     "outsider-builder-claims",
     "lost-evidence",
-    "erased-from-history"
+    "erased-from-history",
+    "sun-cults"
    ]
   },
   {
@@ -22728,7 +22738,8 @@
    "threads": [
     "flood-myths",
     "world-ages-and-resets",
-    "ancestral-homelands"
+    "ancestral-homelands",
+    "elixirs-of-immortality"
    ]
   },
   {
@@ -23168,7 +23179,8 @@
     "changed-understanding",
     "origins-of-writing",
     "sacred-kingship",
-    "impostors-and-lost-heirs"
+    "impostors-and-lost-heirs",
+    "decipherments"
    ]
   },
   {
@@ -25520,7 +25532,8 @@
    "threads": [
     "origins-of-writing",
     "outsider-builder-claims",
-    "seeing-what-we-expect"
+    "seeing-what-we-expect",
+    "decipherments"
    ]
   },
   {
@@ -28127,7 +28140,8 @@
     "origins-of-writing",
     "civilisation-collapses",
     "rediscovered-civilisations",
-    "accidental-discoveries"
+    "accidental-discoveries",
+    "decipherments"
    ]
   },
   {
@@ -28839,7 +28853,8 @@
     "sacred-relics",
     "secret-societies",
     "forged-documents",
-    "sacred-vessels"
+    "sacred-vessels",
+    "elixirs-of-immortality"
    ]
   },
   {
@@ -30431,7 +30446,670 @@
    ],
    "threads": [
     "ancient-astronomy",
-    "stone-circles"
+    "stone-circles",
+    "sun-cults"
+   ]
+  },
+  {
+   "id": "rigveda-aryan-debate",
+   "title": "The Rigveda and the 'Aryan' debate: who brought Sanskrit to India?",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": -1500,
+   "end": null,
+   "dateNote": "Composition usually dated c. 1500–1200 BCE",
+   "evidenceTypes": [
+    "textual (oral tradition)",
+    "linguistic",
+    "genetic"
+   ],
+   "mainstream": "The Rigveda, a collection of 1,028 hymns in Vedic Sanskrit, is among the oldest texts in any Indo-European language. Most scholars date its composition to about 1500–1200 BCE in the north-west of the Indian subcontinent (the Punjab). It was handed down orally for more than two thousand years with remarkable precision before being written down; manuscripts of the Rigveda are on UNESCO's Memory of the World register. Because Sanskrit is related to Persian, Greek, Latin and the Germanic languages, most linguists conclude that Indo-Aryan speakers entered South Asia from Central Asia in the 2nd millennium BCE, after the Indus civilisation had declined. A 2019 ancient-DNA study (Narasimhan et al., Science) found steppe-related ancestry arriving in South Asia in the early-to-mid 2nd millennium BCE, which most researchers read as support for this migration.",
+   "alternatives": [
+    {
+     "label": "Indo-Aryan migration",
+     "text": "The mainstream view combines linguistics, the Rigveda's own geography and ancient DNA: a gradual movement of steppe-derived pastoralists, not a single violent 'invasion', mixing with existing populations."
+    },
+    {
+     "label": "Indigenous Aryans / Out of India",
+     "text": "A minority of scholars, mostly in India, argue that Vedic culture developed within South Asia, perhaps identical with the Indus civilisation, and that Indo-European languages spread outward from India. They point to the Rigveda's praise of a mighty Sarasvati river, which some identify with the now-dry Ghaggar-Hakra. Most linguists and geneticists consider this view inconsistent with the evidence."
+    },
+    {
+     "label": "Astronomical dating",
+     "text": "Some writers, from B. G. Tilak (The Arctic Home in the Vedas, 1903) onwards, have read astronomical references in the Vedas as pointing to dates of 4000 BCE or much earlier; these interpretations are not accepted by most Indologists (speculative)."
+    },
+    {
+     "label": "Politics of the debate",
+     "text": "Since the colonial era, when 'Aryan' was misused in European race theories, the question has been entangled with nationalism and identity, which both sides accuse the other of letting shape their conclusions."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Rigveda",
+     "url": "https://en.wikipedia.org/wiki/Rigveda",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Indo-Aryan migrations",
+     "url": "https://en.wikipedia.org/wiki/Indo-Aryan_migrations",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "The formation of human populations in South and Central Asia",
+     "authors": "Narasimhan, V. et al.",
+     "year": 2019,
+     "doi": "10.1126/science.aat7487",
+     "type": "paper"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Rigveda_MS2097.jpg/500px-Rigveda_MS2097.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Rigveda_MS2097.jpg",
+     "author": "Unknown authorUnknown author",
+     "license": "Public domain",
+     "title": "Rigveda_MS2097.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "religion",
+    "archaeology"
+   ],
+   "threads": [
+    "deep-oral-memory",
+    "knowledge-and-power",
+    "ancestral-homelands",
+    "genetic-migrations"
+   ]
+  },
+  {
+   "id": "mahabharata-kurukshetra",
+   "title": "The Mahabharata and the Kurukshetra war: a remembered battle or an ancient nuclear war?",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": -1000,
+   "end": null,
+   "dateNote": "Tradition: 3102 BCE; historians who accept a kernel: c. 1000 BCE; text composed c. 400 BCE–400 CE",
+   "evidenceTypes": [
+    "textual",
+    "archaeological",
+    "mythological"
+   ],
+   "mainstream": "The Mahabharata, at around 100,000 verses one of the longest poems ever composed, tells of the war at Kurukshetra between two branches of the Kuru royal family, the Pandavas and the Kauravas, and contains the Bhagavad Gita. The text grew over many centuries, roughly 400 BCE to 400 CE, and is traditionally attributed to the sage Vyasa. Tradition places the war at the start of the Kali Yuga, 3102 BCE. Historians who accept a historical kernel usually link it to the Kuru kingdom of the early first millennium BCE (Painted Grey Ware culture), perhaps c. 1000 BCE; others regard the war as essentially literary. The epic describes divine weapons such as the brahmastra, which can destroy whole armies.",
+   "alternatives": [
+    {
+     "label": "Historical kernel",
+     "text": "Many historians think a real conflict among Iron Age Kuru-Panchala clans may lie behind the story, greatly magnified by later poets; there is no direct archaeological evidence of the battle itself."
+    },
+    {
+     "label": "Traditional and astronomical dates",
+     "text": "Hindu tradition dates the war to 3102 BCE; various writers have used planetary positions described in the epic to propose dates from c. 5500 to 1500 BCE, with little agreement between them."
+    },
+    {
+     "label": "Ancient nuclear war claim",
+     "text": "From the 1960s–70s, writers such as Charles Berlitz and David Davenport claimed that the brahmastra descriptions recall nuclear blasts and that skeletons at Mohenjo-daro show signs of a sudden catastrophe or radiation. Archaeologists note that no unusual radioactivity has been reported, that the skeletons came from different periods, and that George Dales argued in 1964 that the 'massacre' at Mohenjo-daro was a misreading (speculative)."
+    },
+    {
+     "label": "Modern echo",
+     "text": "Robert Oppenheimer famously recalled a line of the Bhagavad Gita, 'Now I am become Death, the destroyer of worlds', after the 1945 Trinity test, which has helped link the epic to nuclear imagery in popular culture."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Kurukshetra War",
+     "url": "https://en.wikipedia.org/wiki/Kurukshetra_War",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Mahabharata",
+     "url": "https://en.wikipedia.org/wiki/Mahabharata",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Brahmastra",
+     "url": "https://en.wikipedia.org/wiki/Brahmastra",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/The_Pandava_and_Kaurava_armies_face_each_other.JPG/500px-The_Pandava_and_Kaurava_armies_face_each_other.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:The_Pandava_and_Kaurava_armies_face_each_other.JPG",
+     "author": "Unknown authorUnknown author",
+     "license": "Public domain",
+     "title": "The_Pandava_and_Kaurava_armies_face_each_other.JPG"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion",
+    "history",
+    "aliens-ufo"
+   ],
+   "threads": [
+    "world-ages-and-resets",
+    "ancient-technology",
+    "ancient-flight",
+    "holy-wars"
+   ]
+  },
+  {
+   "id": "ashoka-edicts",
+   "title": "The edicts of Ashoka: a forgotten emperor read again after 2,000 years",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -260,
+   "end": -232,
+   "evidenceTypes": [
+    "inscriptions",
+    "textual",
+    "archaeological"
+   ],
+   "mainstream": "Ashoka, emperor of the Maurya dynasty (r. c. 268–232 BCE), ruled most of the Indian subcontinent. After his bloody conquest of Kalinga (c. 261 BCE) he turned to Buddhism and had edicts carved on rocks and polished stone pillars across his empire, mostly in Prakrit in the Brahmi script, but also in Kharosthi, Greek and Aramaic. They speak of remorse for the war, tolerance between religious groups, care for animals and the sending of envoys to Hellenistic kings. Over the following centuries the Brahmi script was forgotten. In 1837 the British scholar James Prinsep deciphered it, but the king called 'Devanampiya Piyadasi' ('Beloved of the gods, of gracious mien') was only firmly identified with the Ashoka of Buddhist chronicles when an edict naming him was found at Maski in 1915.",
+   "alternatives": [
+    {
+     "label": "A model ruler?",
+     "text": "Buddhist texts such as the Ashokavadana portray a cruel king transformed into an ideal Buddhist monarch who built 84,000 stupas. Historians debate how much of his 'dhamma' policy was personal conviction and how much was a political tool for holding together a vast, diverse empire."
+    },
+    {
+     "label": "Secret society legend",
+     "text": "Talbot Mundy's 1923 novel The Nine Unknown claimed that Ashoka founded a secret society of nine men to guard dangerous knowledge; the story is fiction, though it is sometimes repeated as fact."
+    },
+    {
+     "label": "Rediscovery",
+     "text": "The rediscovery is often cited as an example of how a major ruler can largely vanish from historical memory and be restored by decipherment; Ashoka's lion capital is now India's national emblem."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Edicts of Ashoka",
+     "url": "https://en.wikipedia.org/wiki/Edicts_of_Ashoka",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Ashoka",
+     "url": "https://en.wikipedia.org/wiki/Ashoka",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: James Prinsep",
+     "url": "https://en.wikipedia.org/wiki/James_Prinsep",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Ashoka_Lauriya_Areraj_inscription.jpg/500px-Ashoka_Lauriya_Areraj_inscription.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Ashoka_Lauriya_Areraj_inscription.jpg",
+     "author": "Sachin kumar tiwary",
+     "license": "CC BY-SA 3.0",
+     "title": "Ashoka_Lauriya_Areraj_inscription.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology",
+    "religion"
+   ],
+   "threads": [
+    "knowledge-and-power",
+    "sacred-kingship",
+    "secret-societies",
+    "erased-from-history",
+    "rediscovered-civilisations",
+    "decipherments"
+   ]
+  },
+  {
+   "id": "nalanda",
+   "title": "Nalanda: the great Buddhist university and the fire that burned for months",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 427,
+   "end": 1200,
+   "dateNote": "Active c. 427–c. 1200 CE",
+   "evidenceTypes": [
+    "archaeological",
+    "textual"
+   ],
+   "mainstream": "Nalanda, in Bihar, India, was a large Buddhist monastic centre of learning from about the 5th century CE, under the Gupta kings, to around 1200 CE. Pilgrim-scholars such as Xuanzang (7th century) and Yijing described thousands of monks studying Buddhist philosophy, logic, grammar and medicine. Nalanda declined and was sacked around 1200, usually attributed to troops of the Turkic general Bakhtiyar Khalji, and was abandoned. Its ruins were identified in the 19th century and excavated by the Archaeological Survey of India from 1915; the site became a UNESCO World Heritage Site in 2016, and a new Nalanda University opened nearby in 2014.",
+   "alternatives": [
+    {
+     "label": "Destroyed by Khalji",
+     "text": "The common account holds that Khalji's forces killed the monks and burned the libraries, which were said to have smouldered for months. The nearest contemporary Persian chronicle (Minhaj-i-Siraj) describes the sacking of a fortified monastery that most scholars identify as Odantapuri or Vikramashila, not Nalanda by name."
+    },
+    {
+     "label": "Tibetan accounts",
+     "text": "Later Tibetan sources, including Taranatha (17th century), describe further destruction and a fire attributed to hostile non-Buddhist ascetics, and say teaching continued in a reduced way for a time after the raid."
+    },
+    {
+     "label": "Long decline",
+     "text": "Some historians stress that Buddhist institutions in India were already declining from loss of royal patronage and competition with Hindu devotional movements, so the raid was the end of a longer process. The story remains politically sensitive in modern India."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Nalanda mahavihara",
+     "url": "https://en.wikipedia.org/wiki/Nalanda_mahavihara",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "UNESCO World Heritage Centre: Archaeological Site of Nalanda Mahavihara",
+     "url": "https://whc.unesco.org/en/list/1502/",
+     "type": "heritage"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Temple_No.-_3%2C_Nalanda_Archaeological_Site.jpg/500px-Temple_No.-_3%2C_Nalanda_Archaeological_Site.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Temple_No.-_3,_Nalanda_Archaeological_Site.jpg",
+     "author": "Odantapuribs",
+     "license": "CC BY-SA 4.0",
+     "title": "Temple_No.-_3,_Nalanda_Archaeological_Site.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology",
+    "religion"
+   ],
+   "threads": [
+    "civilisation-collapses",
+    "knowledge-and-power",
+    "lost-libraries"
+   ]
+  },
+  {
+   "id": "samudra-manthan",
+   "title": "The churning of the ocean: gods and demons pull the serpent Vasuki for the nectar of immortality",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": -400,
+   "end": null,
+   "dateNote": "Texts c. 400 BCE–1000 CE; mythic time",
+   "evidenceTypes": [
+    "textual (Puranas, epics)",
+    "mythological",
+    "iconographic"
+   ],
+   "mainstream": "In a Hindu myth told in the Mahabharata, the Ramayana and the Puranas, the gods (devas) and their rivals the asuras cooperate to churn the cosmic ocean of milk to obtain amrita, the nectar of immortality. They use Mount Mandara as the churning rod and the serpent king Vasuki as the rope, while Vishnu, as the tortoise Kurma, supports the mountain. The churning first releases a deadly poison, halahala, which Shiva drinks, turning his throat blue, and then treasures including the goddess Lakshmi. Vishnu, disguised as the enchantress Mohini, tricks the asuras out of the nectar. The asura Rahu sneaks a sip and is beheaded; his immortal head chases the Sun and Moon, causing eclipses. Drops of nectar falling to earth are linked to the four sites of the Kumbh Mela. A famous 12th-century relief at Angkor Wat depicts the scene.",
+   "alternatives": [
+    {
+     "label": "Religious meaning",
+     "text": "Within Hinduism the story teaches cosmic cooperation and the need to endure poison before reward, and explains rituals and festivals including the Kumbh Mela, one of the largest gatherings of people on Earth."
+    },
+    {
+     "label": "Eclipse explanation",
+     "text": "The Rahu episode is a mythic explanation of eclipses; in Indian astronomy Rahu and Ketu became the names of the lunar nodes, the points where eclipses occur."
+    },
+    {
+     "label": "Precession reading",
+     "text": "In Hamlet's Mill (1969), Giorgio de Santillana and Hertha von Dechend argued that churning and mill myths worldwide encode knowledge of the precession of the equinoxes; most scholars of myth and astronomy consider this unproven (speculative)."
+    },
+    {
+     "label": "Elixir pattern",
+     "text": "Comparativists note parallels with other drinks of immortality, such as Greek ambrosia, Norse mead and the Vedic soma, debated as shared Indo-European inheritance or independent invention."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Samudra Manthana",
+     "url": "https://en.wikipedia.org/wiki/Samudra_Manthana",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Kumbh Mela",
+     "url": "https://en.wikipedia.org/wiki/Kumbh_Mela",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Hamlet's Mill",
+     "url": "https://en.wikipedia.org/wiki/Hamlet's_Mill",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Samudra-Manthan-The-Churning-of-the-Ocean-of-Milk.jpg/500px-Samudra-Manthan-The-Churning-of-the-Ocean-of-Milk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Samudra-Manthan-The-Churning-of-the-Ocean-of-Milk.jpg",
+     "author": "Unknown authorUnknown author",
+     "license": "CC BY-SA 4.0",
+     "title": "Samudra-Manthan-The-Churning-of-the-Ocean-of-Milk.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion"
+   ],
+   "threads": [
+    "serpent-beings",
+    "sky-omens",
+    "creation-myths",
+    "elixirs-of-immortality"
+   ]
+  },
+  {
+   "id": "lothal-dockyard",
+   "title": "Lothal: the oldest dockyard in the world, or a water tank?",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 3,
+   "start": -2400,
+   "end": -1900,
+   "evidenceTypes": [
+    "archaeological"
+   ],
+   "mainstream": "Lothal, in Gujarat, India, was a town of the Harappan (Indus) civilisation, occupied roughly 2400–1900 BCE and excavated by S. R. Rao of the Archaeological Survey of India in 1955–60. It had a planned grid, drains, a bead-making factory and evidence of long-distance trade, including a Persian Gulf-type seal. Its most famous feature is a large brick-lined basin, about 214 by 36 m, connected by channels to an old course of the Sabarmati river.",
+   "alternatives": [
+    {
+     "label": "Tidal dockyard",
+     "text": "Rao interpreted the basin as the world's oldest known dockyard, able to take ships at high tide, with a nearby wharf and warehouse; this view is promoted by the Indian government and a national maritime heritage complex is being built at the site."
+    },
+    {
+     "label": "Reservoir or tank",
+     "text": "Other archaeologists, beginning with L. S. Leshnik in 1968, argued that the basin was a freshwater reservoir for irrigation and drinking, noting its distance from the sea and the lack of clear evidence of ships entering it."
+    },
+    {
+     "label": "Wider significance",
+     "text": "Either way, Lothal shows Harappan expertise in hydraulic engineering and maritime trade with Mesopotamia and the Gulf (Dilmun and Magan), which is attested in cuneiform texts."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Lothal",
+     "url": "https://en.wikipedia.org/wiki/Lothal",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Indus Valley Civilisation",
+     "url": "https://en.wikipedia.org/wiki/Indus_Valley_Civilisation",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/The_drainage_system_at_Lothal_2.JPG/500px-The_drainage_system_at_Lothal_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:The_drainage_system_at_Lothal_2.JPG",
+     "author": "Abhilashdvbk",
+     "license": "CC BY-SA 3.0",
+     "title": "The_drainage_system_at_Lothal_2.JPG"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history"
+   ],
+   "threads": [
+    "ocean-voyagers",
+    "ancient-technology",
+    "water-engineering",
+    "trade-networks"
+   ]
+  },
+  {
+   "id": "bakhshali-zero",
+   "title": "The Bakhshali manuscript and the birth of zero",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 300,
+   "end": null,
+   "dateNote": "Radiocarbon dates of leaves range from 224–383 to 885–993 CE",
+   "evidenceTypes": [
+    "textual (manuscript)",
+    "radiocarbon"
+   ],
+   "mainstream": "The Bakhshali manuscript is an Indian mathematical text written on 70 leaves of birch bark, found by a farmer in 1881 in a field at Bakhshali, near Peshawar (now Pakistan), and held by the Bodleian Library, Oxford, since 1902. It uses a dot as a placeholder zero in a decimal place-value system, the ancestor of the zero used worldwide. In 2017 the Bodleian announced radiocarbon dates showing that different leaves date from 224–383 CE, 680–779 CE and 885–993 CE, and publicised the manuscript as containing the oldest recorded use of the zero symbol. The first known written rules for calculating with zero as a number are in Brahmagupta's Brahmasphutasiddhanta (628 CE).",
+   "alternatives": [
+    {
+     "label": "Earliest zero",
+     "text": "Supporters of the 2017 result argue that the oldest leaves push the dot-zero back by several centuries, before the 876 CE Gwalior inscription that was long cited as the earliest Indian zero."
+    },
+    {
+     "label": "Doubts about the dates",
+     "text": "Historians of mathematics such as Kim Plofker and colleagues pointed out that a single coherent text spread over leaves six centuries apart is implausible, and suggested the dating needs re-examination; many date the text itself to around the 8th–12th century."
+    },
+    {
+     "label": "Wider story",
+     "text": "Placeholders for zero also existed in Babylonian and Maya mathematics; the Indian contribution is usually seen as treating zero as a number in its own right, transmitted through the Islamic world to Europe."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Bakhshali manuscript",
+     "url": "https://en.wikipedia.org/wiki/Bakhshali_manuscript",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Brahmagupta",
+     "url": "https://en.wikipedia.org/wiki/Brahmagupta",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Bakhshali_manuscript.jpg/500px-Bakhshali_manuscript.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Bakhshali_manuscript.jpg",
+     "author": "National Geographic",
+     "license": "Public domain",
+     "title": "Bakhshali_manuscript.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "science-cosmos"
+   ],
+   "threads": [
+    "changed-understanding",
+    "accidental-discoveries"
+   ]
+  },
+  {
+   "id": "soma-drink",
+   "title": "Soma: the lost sacred drink of the Vedas",
+   "lane": "myth",
+   "status": "disputed",
+   "priority": 3,
+   "start": -1500,
+   "end": null,
+   "dateNote": "Rigveda c. 1500–1200 BCE",
+   "evidenceTypes": [
+    "textual",
+    "botanical",
+    "archaeological"
+   ],
+   "mainstream": "In the Rigveda, soma is both a god and a drink pressed from a plant, offered in rituals and drunk by priests; an entire book (Mandala 9) praises it for bringing inspiration, strength and a sense of immortality. The Iranian Avesta describes the same drink as haoma. By the later Vedic period the original plant seems to have been replaced by substitutes, and its identity is not known.",
+   "alternatives": [
+    {
+     "label": "Ephedra",
+     "text": "Many scholars favour ephedra, a stimulant shrub still called hum or homa in parts of Iran and Afghanistan and used in Zoroastrian haoma rituals; Viktor Sarianidi reported traces of ephedra in vessels at Bactria-Margiana (BMAC) sites, although the identification has been questioned."
+    },
+    {
+     "label": "Fly agaric mushroom",
+     "text": "In 1968 the banker and ethnomycologist R. Gordon Wasson argued that soma was the hallucinogenic mushroom Amanita muscaria, used by Siberian shamans; this was popular but is rejected by many Vedic specialists."
+    },
+    {
+     "label": "Other candidates",
+     "text": "Proposals include Syrian rue (Peganum harmala), cannabis, opium poppy, honey and various psychoactive plants; some scholars argue the drink may not have been psychoactive at all, its effects being religious rather than chemical."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Soma (drink)",
+     "url": "https://en.wikipedia.org/wiki/Soma_(drink)",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Haoma",
+     "url": "https://en.wikipedia.org/wiki/Haoma",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: R. Gordon Wasson",
+     "url": "https://en.wikipedia.org/wiki/R._Gordon_Wasson",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Green_ephedra_Ephedra_viridis_close.jpg/500px-Green_ephedra_Ephedra_viridis_close.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Green_ephedra_Ephedra_viridis_close.jpg",
+     "author": "Dcrjsr",
+     "license": "CC BY 3.0",
+     "title": "Green_ephedra_Ephedra_viridis_close.jpg"
+    }
+   ],
+   "categories": [
+    "religion",
+    "myth-legend",
+    "history"
+   ],
+   "threads": [
+    "altered-states",
+    "elixirs-of-immortality"
+   ]
+  },
+  {
+   "id": "kerala-red-rain",
+   "title": "The red rain of Kerala: alien cells or algae?",
+   "lane": "history",
+   "status": "debunked",
+   "priority": 3,
+   "start": 2001,
+   "end": null,
+   "evidenceTypes": [
+    "field samples",
+    "laboratory analysis"
+   ],
+   "mainstream": "From 25 July to 23 September 2001, red-coloured rain fell sporadically over Kerala, southern India, staining clothes pink; yellow, green and black rain was also reported. A study commissioned by the Indian government (Centre for Earth Science Studies and Tropical Botanic Garden and Research Institute) concluded that the colour came from spores of a locally abundant lichen-forming green alga of the genus Trentepohlia. Similar 'blood rain' events had been recorded in Kerala before and have occurred elsewhere, often caused by dust or algae.",
+   "alternatives": [
+    {
+     "label": "Algae",
+     "text": "The mainstream explanation is that large quantities of Trentepohlia spores were lifted into the air and washed out by rain, although exactly how so many spores became airborne at once is not fully explained."
+    },
+    {
+     "label": "Extraterrestrial cells",
+     "text": "In 2006 physicists Godfrey Louis and Santhosh Kumar published a paper in Astrophysics and Space Science suggesting the particles were cells lacking DNA that might have come from a disintegrating comet or meteor, supporting panspermia; Chandra Wickramasinghe also promoted the idea. Most biologists reject this, and later work reported DNA consistent with algae (speculative)."
+    },
+    {
+     "label": "Blood rain tradition",
+     "text": "Red rain has been read as an omen since antiquity, from Homer's Iliad to medieval chronicles; modern cases are generally traced to Saharan dust or microorganisms."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Red rain in Kerala",
+     "url": "https://en.wikipedia.org/wiki/Red_rain_in_Kerala",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "The Red Rain Phenomenon of Kerala and its Possible Extraterrestrial Origin",
+     "authors": "Louis, G. et al.",
+     "year": 2006,
+     "doi": "10.1007/s10509-005-9025-4",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: Blood rain",
+     "url": "https://en.wikipedia.org/wiki/Blood_rain",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/WaterSample.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:WaterSample.jpg",
+     "author": "The original uploader was Vsasi at English Wikipedia.",
+     "license": "CC BY 2.5",
+     "title": "WaterSample.jpg"
+    }
+   ],
+   "categories": [
+    "anomalies",
+    "science-cosmos",
+    "aliens-ufo"
+   ],
+   "threads": [
+    "sky-omens",
+    "seeing-what-we-expect",
+    "life-beyond-earth"
+   ]
+  },
+  {
+   "id": "konark-sun-temple",
+   "title": "Konark Sun Temple: a stone chariot whose wheels tell the time",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 3,
+   "start": 1250,
+   "end": null,
+   "evidenceTypes": [
+    "architectural",
+    "textual",
+    "oral tradition"
+   ],
+   "mainstream": "The Sun Temple at Konark, Odisha, India, was built around 1250 CE by King Narasimhadeva I of the Eastern Ganga dynasty. It was designed as a colossal chariot of the sun god Surya, with 24 elaborately carved stone wheels pulled by seven horses. The main tower, perhaps 70 m tall, collapsed by the 19th century; the surviving assembly hall was filled with sand by British engineers in 1903 to stabilise it. European sailors used the temple as a landmark and called it the 'Black Pagoda'. It is a UNESCO World Heritage Site.",
+   "alternatives": [
+    {
+     "label": "Sundial wheels",
+     "text": "Guides and some scholars describe the wheels as working sundials, with the spokes' shadows marking the time of day; it is unclear whether this function was intended by the builders or is a later interpretation."
+    },
+    {
+     "label": "Lodestone legend",
+     "text": "A popular legend says that a huge magnet at the top held the iron-joined structure together and disturbed ships' compasses, so sailors removed it, causing the collapse. There is no historical evidence for this; engineers attribute the collapse to foundations, weathering and possibly an unfinished structure."
+    },
+    {
+     "label": "Boy architect legend",
+     "text": "Another local legend says 1,200 craftsmen could not set the crowning stone until Dharmapada, the 12-year-old son of the chief architect, succeeded and then leapt into the sea to save the workers from the king's anger."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Konark Sun Temple",
+     "url": "https://en.wikipedia.org/wiki/Konark_Sun_Temple",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "UNESCO World Heritage Centre: Sun Temple, Konârak",
+     "url": "https://whc.unesco.org/en/list/246/",
+     "type": "heritage"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Konarka_Temple.jpg/500px-Konarka_Temple.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Konarka_Temple.jpg",
+     "author": "Subham9423",
+     "license": "CC BY-SA 4.0",
+     "title": "Konarka_Temple.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology",
+    "religion",
+    "science-cosmos"
+   ],
+   "threads": [
+    "giant-monuments",
+    "ancient-astronomy",
+    "ancient-technology",
+    "sun-cults"
    ]
   }
  ]
