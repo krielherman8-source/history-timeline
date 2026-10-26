@@ -1335,3 +1335,23 @@ addt('ancient-technology','viking-sunstone')
 addt('tested-by-experiment','viking-sunstone')
 addt('sun-cults','trundholm-sun-chariot')
 addt('ancient-astronomy','trundholm-sun-chariot')
+C.update({
+'sputnik-1957':'history science-cosmos','starfish-prime':'history science-cosmos catastrophes','malmstrom-1967':'aliens-ufo history anomalies',
+'belgian-ufo-wave':'aliens-ufo anomalies hoaxes','jal-1628':'aliens-ufo anomalies','thylacine':'science-cosmos history anomalies',
+'jersey-devil':'myth-legend anomalies hoaxes','mapinguari':'myth-legend anomalies science-cosmos','gw150914':'science-cosmos',
+'venus-phosphine':'science-cosmos aliens-ufo'})
+addt('space-race','sputnik-1957 moon-landing starfish-prime black-knight-satellite voyager-golden-record')
+addt('cold-war-secrets','starfish-prime malmstrom-1967 vela-incident project-blue-book roswell kecksburg-1965 havana-syndrome trinity-1945')
+addt('space-weather','starfish-prime')
+addt('mysterious-lights','starfish-prime belgian-ufo-wave jal-1628 malmstrom-1967')
+addt('ufo-encounters','malmstrom-1967 belgian-ufo-wave jal-1628')
+addt('seeing-what-we-expect','belgian-ufo-wave jal-1628')
+addt('collective-experiences','belgian-ufo-wave')
+addt('hoaxes-exposed','belgian-ufo-wave')
+addt('vanished-species','thylacine mapinguari')
+addt('cryptids','thylacine jersey-devil mapinguari')
+addt('monster-panics','jersey-devil')
+addt('deep-oral-memory','mapinguari')
+addt('changed-understanding','gw150914 venus-phosphine')
+addt('life-beyond-earth','venus-phosphine')
+addt('tested-by-experiment','gw150914')

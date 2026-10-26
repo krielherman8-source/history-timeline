@@ -2335,7 +2335,9 @@
     "history",
     "science-cosmos"
    ],
-   "threads": []
+   "threads": [
+    "space-race"
+   ]
   },
   {
    "id": "gunung-padang",
@@ -2623,7 +2625,8 @@
    ],
    "threads": [
     "changed-understanding",
-    "ufo-encounters"
+    "ufo-encounters",
+    "cold-war-secrets"
    ]
   },
   {
@@ -2671,7 +2674,8 @@
     "history"
    ],
    "threads": [
-    "ufo-encounters"
+    "ufo-encounters",
+    "cold-war-secrets"
    ]
   },
   {
@@ -5713,7 +5717,8 @@
     "science-cosmos"
    ],
    "threads": [
-    "cosmic-impacts"
+    "cosmic-impacts",
+    "cold-war-secrets"
    ]
   },
   {
@@ -20074,7 +20079,8 @@
    "threads": [
     "ufo-encounters",
     "lost-evidence",
-    "mysterious-lights"
+    "mysterious-lights",
+    "cold-war-secrets"
    ]
   },
   {
@@ -24846,7 +24852,8 @@
    "threads": [
     "ufo-encounters",
     "hoaxes-exposed",
-    "modern-legends"
+    "modern-legends",
+    "space-race"
    ]
   },
   {
@@ -25226,7 +25233,8 @@
     "collective-experiences",
     "strange-sounds",
     "monster-panics",
-    "modern-legends"
+    "modern-legends",
+    "cold-war-secrets"
    ]
   },
   {
@@ -29463,7 +29471,8 @@
    ],
    "threads": [
     "ancient-technology",
-    "knowledge-and-power"
+    "knowledge-and-power",
+    "cold-war-secrets"
    ]
   },
   {
@@ -29738,7 +29747,8 @@
    ],
    "threads": [
     "life-beyond-earth",
-    "contact-attempts"
+    "contact-attempts",
+    "space-race"
    ]
   },
   {
@@ -32355,6 +32365,627 @@
    "threads": [
     "ancient-astronomy",
     "sun-cults"
+   ]
+  },
+  {
+   "id": "sputnik-1957",
+   "title": "Sputnik 1 and the start of the space age",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": 1957,
+   "end": null,
+   "dateNote": "4 October 1957",
+   "evidenceTypes": [
+    "documentary",
+    "radio recordings",
+    "archival"
+   ],
+   "mainstream": "On 4 October 1957 the Soviet Union launched Sputnik 1, a 58 cm polished metal sphere weighing about 84 kg, into Earth orbit on an R-7 rocket from what is now the Baikonur Cosmodrome. Its radio beeps were picked up by amateurs and scientists around the world. It transmitted for about three weeks and burned up in the atmosphere in January 1958. A month later Sputnik 2 carried the dog Laika. In the United States the launch caused the 'Sputnik crisis', a public fear of falling behind the Soviets, leading to the creation of NASA and DARPA in 1958, increased science education funding and the space race.",
+   "alternatives": [
+    {
+     "label": "Cold War shock",
+     "text": "Historians note that US leaders knew a Soviet satellite was possible; the public shock was amplified by the media and by the fact that the same rocket could carry nuclear warheads across continents."
+    },
+    {
+     "label": "Sky-watching boom",
+     "text": "Sputnik and later satellites encouraged large numbers of people to watch the night sky, which some researchers link to waves of UFO reports in the late 1950s."
+    },
+    {
+     "label": "Unidentified satellites",
+     "text": "Its success contributed to later legends of unknown objects in orbit, such as the Black Knight satellite, which experts attribute to misidentified debris and early tracking errors."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Sputnik 1",
+     "url": "https://en.wikipedia.org/wiki/Sputnik_1",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Sputnik crisis",
+     "url": "https://en.wikipedia.org/wiki/Sputnik_crisis",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/%D0%9F%D0%B5%D1%80%D0%B2%D1%8B%D0%B9_%D0%B2_%D0%BC%D0%B8%D1%80%D0%B5_%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D1%81%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA_%D0%97%D0%B5%D0%BC%D0%BB%D0%B8.jpg/500px-%D0%9F%D0%B5%D1%80%D0%B2%D1%8B%D0%B9_%D0%B2_%D0%BC%D0%B8%D1%80%D0%B5_%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D1%81%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA_%D0%97%D0%B5%D0%BC%D0%BB%D0%B8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:%D0%9F%D0%B5%D1%80%D0%B2%D1%8B%D0%B9_%D0%B2_%D0%BC%D0%B8%D1%80%D0%B5_%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D1%81%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA_%D0%97%D0%B5%D0%BC%D0%BB%D0%B8.jpg",
+     "author": "Andrey Butko",
+     "license": "CC BY-SA 3.0",
+     "title": "Первый_в_мире_искусственный_спутник_Земли.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "science-cosmos"
+   ],
+   "threads": [
+    "space-race"
+   ]
+  },
+  {
+   "id": "starfish-prime",
+   "title": "Starfish Prime: the nuclear bomb exploded in space",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1962,
+   "end": null,
+   "dateNote": "9 July 1962",
+   "evidenceTypes": [
+    "documentary",
+    "instrumental",
+    "declassified records"
+   ],
+   "mainstream": "On 9 July 1962 the United States detonated a 1.4-megaton thermonuclear warhead about 400 km above Johnston Atoll in the Pacific, as part of Operation Fishbowl. The explosion created an artificial aurora visible from Hawaii, about 1,450 km away, where its electromagnetic pulse was blamed for knocking out streetlights and damaging telephone equipment. High-energy electrons trapped in Earth's magnetic field formed an artificial radiation belt that damaged or disabled several satellites, including Telstar 1, the first commercial communications satellite. A 2026 study in the Journal of Geophysical Research used Starfish data to examine how such artificial belts limit themselves.",
+   "alternatives": [
+    {
+     "label": "Science and warfare",
+     "text": "The test was meant to study how nuclear explosions affect radar, communications and missile defence; it remains a key data source on electromagnetic pulse (EMP) and space radiation."
+    },
+    {
+     "label": "Lasting effects",
+     "text": "The artificial radiation belt faded only slowly; in 1968 it was reported that some Starfish electrons had remained for five years. The 1963 Partial Test Ban Treaty later banned nuclear tests in outer space."
+    },
+    {
+     "label": "UFO connections",
+     "text": "Some UFO writers claim that nuclear tests attract UFOs or link Cold War tests to unexplained sightings; there is no evidence connecting Starfish Prime to UFO reports."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Starfish Prime",
+     "url": "https://en.wikipedia.org/wiki/Starfish_Prime",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Operation Fishbowl",
+     "url": "https://en.wikipedia.org/wiki/Operation_Fishbowl",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Self‐Limiting of Artificial Electron Radiation Belts: Evidence From the Starfish Prime High‐Altitude Nuclear Explosion",
+     "authors": "Olifer, L. et al.",
+     "year": 2026,
+     "doi": "10.1029/2026ja035724",
+     "type": "paper"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Operation_Dominic_Starfish-Prime_nuclear_test_from_plane.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Operation_Dominic_Starfish-Prime_nuclear_test_from_plane.jpg",
+     "author": "U.S. Air Force 1352nd Photographic Group, Lookout Mountain Station",
+     "license": "Public domain",
+     "title": "Operation_Dominic_Starfish-Prime_nuclear_test_from_plane.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "science-cosmos",
+    "catastrophes"
+   ],
+   "threads": [
+    "mysterious-lights",
+    "space-weather",
+    "space-race",
+    "cold-war-secrets"
+   ]
+  },
+  {
+   "id": "malmstrom-1967",
+   "title": "The Malmstrom missile shutdown: UFO or secret test?",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 1967,
+   "end": null,
+   "dateNote": "16 March 1967; claims public from 1996",
+   "evidenceTypes": [
+    "declassified records",
+    "testimony"
+   ],
+   "mainstream": "On 16 March 1967 all ten Minuteman nuclear missiles of Echo Flight, an underground complex controlled from Malmstrom Air Force Base in Montana, shut down nearly simultaneously with 'No-Go' indications. An Air Force report said rumours of UFOs in the area had been disproven. In 1996 former Air Force officer Robert Salas went public with claims that guards had seen a glowing red object over a launch facility just before missiles went offline. The story became a pillar of ufology. In 2025 a Pentagon report, as reported by the Wall Street Journal, stated that the incident had been caused by a classified test of an electromagnetic pulse device.",
+   "alternatives": [
+    {
+     "label": "UFO interference",
+     "text": "Salas and others argue that UFOs deliberately disabled nuclear missiles, a claim that later became central to the idea that aliens monitor nuclear weapons."
+    },
+    {
+     "label": "Mundane explanations",
+     "text": "Sceptics point out that early accounts did not tie the Echo Flight fault to UFO reports, and that Salas's memories changed over time; a bright planet such as Mars has been suggested as the origin of light sightings."
+    },
+    {
+     "label": "Secrets and disinformation",
+     "text": "The 2025 revelations suggest that secret military tests, and sometimes deliberate disinformation, helped feed UFO stories in the Cold War."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Malmstrom UFO incident",
+     "url": "https://en.wikipedia.org/wiki/Malmstrom_UFO_incident",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Robert Salas",
+     "url": "https://en.wikipedia.org/wiki/Robert_Salas",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Malmstrom Air Force Base",
+     "url": "https://en.wikipedia.org/wiki/Malmstrom_Air_Force_Base",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Minuteman_III_Launch_Control.JPG/500px-Minuteman_III_Launch_Control.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Minuteman_III_Launch_Control.JPG",
+     "author": "Chitrapa",
+     "license": "Public domain",
+     "title": "Minuteman_III_Launch_Control.JPG"
+    }
+   ],
+   "categories": [
+    "aliens-ufo",
+    "history",
+    "anomalies"
+   ],
+   "threads": [
+    "ufo-encounters",
+    "mysterious-lights",
+    "cold-war-secrets"
+   ]
+  },
+  {
+   "id": "belgian-ufo-wave",
+   "title": "The Belgian UFO wave: black triangles and F-16s",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 1989,
+   "end": 1990,
+   "dateNote": "November 1989 to April 1990",
+   "evidenceTypes": [
+    "testimony",
+    "radar",
+    "photographic"
+   ],
+   "mainstream": "From 29 November 1989 to April 1990, many people in Belgium, starting in Eupen, reported large triangular objects with lights underneath flying slowly at low altitude. On the night of 30–31 March 1990, after ground reports and radar contacts, two Belgian Air Force F-16s were scrambled; they obtained brief radar locks but the pilots never saw anything. The Belgian Air Force released its report publicly. The most famous photograph of the wave, the Petit-Rechain photo of a dark triangle, was examined by several institutions without being identified. In 2011 its photographer, Patrick Maréchal, said it was a hoax made from painted polystyrene and lamps.",
+   "alternatives": [
+    {
+     "label": "Unexplained craft",
+     "text": "The Belgian UFO study group SOBEPS and physicist Auguste Meessen argued that the reports showed a real, unexplained phenomenon."
+    },
+    {
+     "label": "Helicopters, radar and psychology",
+     "text": "Sceptics, including Brian Dunning, argue that the first report probably described a helicopter, that the F-16 radar locks were on each other or due to atmospheric interference, and that the wave grew through media coverage as a psychosocial phenomenon."
+    },
+    {
+     "label": "Secret aircraft",
+     "text": "General Wilfried De Brouwer of the Belgian Air Staff initially thought the sightings could be experimental American craft; US authorities stated that no USAF stealth aircraft were operating in the area."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Belgian UFO wave",
+     "url": "https://en.wikipedia.org/wiki/Belgian_UFO_wave",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Vaguebelge%28reconstitution%29.png/500px-Vaguebelge%28reconstitution%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Vaguebelge(reconstitution).png",
+     "author": "No machine-readable author provided. Crobard~commonswiki assumed (based on copyright claims).",
+     "license": "Public domain",
+     "title": "Vaguebelge(reconstitution).png"
+    }
+   ],
+   "categories": [
+    "aliens-ufo",
+    "anomalies",
+    "hoaxes"
+   ],
+   "threads": [
+    "ufo-encounters",
+    "hoaxes-exposed",
+    "collective-experiences",
+    "mysterious-lights",
+    "seeing-what-we-expect"
+   ]
+  },
+  {
+   "id": "jal-1628",
+   "title": "Japan Air Lines Flight 1628: the pilot who saw a mothership",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 3,
+   "start": 1986,
+   "end": null,
+   "dateNote": "17 November 1986",
+   "evidenceTypes": [
+    "testimony",
+    "radar",
+    "official investigation"
+   ],
+   "mainstream": "On 17 November 1986 a Japan Air Lines Boeing 747 cargo plane flying from Reykjavik to Anchorage over eastern Alaska reported three unidentified objects, described by captain Kenji Terauchi as 'two small ships and the mothership', one 'twice the size of an aircraft carrier', which followed the aircraft for several hundred kilometres. Ground radar initially appeared to show something, but on review military radar returns were dismissed as clutter, the FAA object was thought to be a split image of the aircraft, and nearby aircraft saw nothing. The FAA found the crew to be professional and rational.",
+   "alternatives": [
+    {
+     "label": "Credible witnesses",
+     "text": "UFO researchers see the case as important because of the experienced crew, the duration and the initial radar reports; it was widely reported in the press in early 1987."
+    },
+    {
+     "label": "Planets",
+     "text": "Sceptic Philip J. Klass noted that Jupiter and Mars were bright in the direction where Terauchi saw lights, and that the pilot did not mention seeing the planets; he argued that the lights were celestial objects."
+    },
+    {
+     "label": "Witness reliability",
+     "text": "The FAA noted that Terauchi had reported other UFO sightings, including one in January 1987 later explained as lights from villages, and sceptics such as Robert Sheaffer argue he was not an unbiased observer."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Japan Air Lines Cargo Flight 1628",
+     "url": "https://en.wikipedia.org/wiki/Japan_Air_Lines_Cargo_Flight_1628",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Terauchi-moederskip_van_17_November_1986%2C_b.jpg/500px-Terauchi-moederskip_van_17_November_1986%2C_b.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Terauchi-moederskip_van_17_November_1986,_b.jpg",
+     "author": "JMK",
+     "license": "CC BY-SA 4.0",
+     "title": "Terauchi-moederskip_van_17_November_1986,_b.jpg"
+    }
+   ],
+   "categories": [
+    "aliens-ufo",
+    "anomalies"
+   ],
+   "threads": [
+    "ufo-encounters",
+    "mysterious-lights",
+    "seeing-what-we-expect"
+   ]
+  },
+  {
+   "id": "thylacine",
+   "title": "The thylacine: extinct, surviving, or coming back?",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 1936,
+   "end": null,
+   "dateNote": "Last known individual died 7 September 1936",
+   "evidenceTypes": [
+    "specimens",
+    "film",
+    "sightings",
+    "genetic"
+   ],
+   "mainstream": "The thylacine or Tasmanian tiger, a striped carnivorous marsupial, disappeared from mainland Australia and New Guinea thousands of years ago and survived in Tasmania until European settlement. Bounties paid by the Tasmanian government and the Van Diemen's Land Company encouraged hunting, and the species declined rapidly. Official protection came on 10 July 1936, 59 days before the last known thylacine died at Hobart Zoo on 7 September 1936. The species was declared extinct in 1982 (IUCN) and 1986 (Tasmania). Its genome has been sequenced, and in 2022 the US company Colossal Biosciences announced a project to recreate a thylacine-like animal by editing the genome of a living marsupial relative.",
+   "alternatives": [
+    {
+     "label": "Still out there",
+     "text": "Hundreds of sightings have been reported in Tasmania and mainland Australia since 1936, and some researchers argue that the species may have survived for decades after its official extinction; none has been confirmed by a specimen, clear photograph or DNA."
+    },
+    {
+     "label": "Extinct",
+     "text": "Most biologists consider the species extinct, noting that intensive searches and camera trapping have found no proof."
+    },
+    {
+     "label": "De-extinction debate",
+     "text": "Supporters of de-extinction see a chance to restore a lost predator; critics argue that any animal produced would be a genetically modified proxy and that resources would be better spent on species still alive."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Thylacine",
+     "url": "https://en.wikipedia.org/wiki/Thylacine",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Colossal Biosciences",
+     "url": "https://en.wikipedia.org/wiki/Colossal_Biosciences",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Thylacinus_cropped.png/500px-Thylacinus_cropped.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Thylacinus_cropped.png",
+     "author": "E.J. Keller",
+     "license": "Public domain",
+     "title": "Thylacinus_cropped.png"
+    }
+   ],
+   "categories": [
+    "science-cosmos",
+    "history",
+    "anomalies"
+   ],
+   "threads": [
+    "cryptids",
+    "vanished-species"
+   ]
+  },
+  {
+   "id": "jersey-devil",
+   "title": "The Jersey Devil of the Pine Barrens",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 3,
+   "start": 1735,
+   "end": null,
+   "dateNote": "Legend set in 1735; panic in January 1909",
+   "evidenceTypes": [
+    "folklore",
+    "newspaper reports",
+    "testimony"
+   ],
+   "mainstream": "The Jersey Devil, or Leeds Devil, is a legendary creature said to live in the Pine Barrens of southern New Jersey, usually described as a flying biped with hooves, wings, a horse- or goat-like head and a forked tail. The best-known story says that in 1735 a woman called Mother Leeds, pregnant with her 13th child, cursed it, and the baby turned into a monster and flew up the chimney into the pines. In January 1909 a wave of reported sightings and strange footprints across New Jersey and Pennsylvania caused panic, closed schools and was eagerly covered by newspapers. The creature is now the mascot of New Jersey's ice hockey team.",
+   "alternatives": [
+    {
+     "label": "Political origins",
+     "text": "Folklorists and historians link the legend to the Leeds family of Leeds Point, in particular almanac maker Daniel Leeds, who was attacked as a servant of the devil by Quaker opponents in the early 18th century, and to rivalry between almanacs."
+    },
+    {
+     "label": "Real animal",
+     "text": "Some suggest that sightings of cranes, owls or other animals, and hoaxes such as the 1909 tracks, keep the legend alive; the 1909 wave also included deliberate hoaxes by showmen."
+    },
+    {
+     "label": "Cryptid",
+     "text": "Cryptozoology enthusiasts continue to collect reports and investigate the Pine Barrens, treating the creature as a possible unknown animal."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Jersey Devil",
+     "url": "https://en.wikipedia.org/wiki/Jersey_Devil",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Jersey_Devil.svg/500px-Jersey_Devil.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Jersey_Devil.svg",
+     "author": "Vectorized by Kj1595",
+     "license": "Public domain",
+     "title": "Jersey_Devil.svg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "anomalies",
+    "hoaxes"
+   ],
+   "threads": [
+    "cryptids",
+    "monster-panics"
+   ]
+  },
+  {
+   "id": "mapinguari",
+   "title": "The mapinguari: Amazon monster or surviving giant sloth?",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 3,
+   "start": 1900,
+   "end": null,
+   "dateNote": "Folk tradition; recorded 20th century",
+   "evidenceTypes": [
+    "folklore",
+    "testimony",
+    "fossils"
+   ],
+   "mainstream": "The mapinguari is a creature of Brazilian Amazonian folklore, described as a huge, hairy, foul-smelling being with hooked claws, backward-facing feet, a single eye, and sometimes a mouth in its belly. Similar beings appear in the traditions of Indigenous peoples such as the Matsigenka of Peru. Giant ground sloths, such as Megatherium and Eremotherium, lived in South America until the end of the last Ice Age, about 10,000 years ago.",
+   "alternatives": [
+    {
+     "label": "Surviving ground sloth",
+     "text": "Biologist David Oren, who collected testimonies from hunters and rubber tappers from the 1990s, proposed that the mapinguari could be a surviving ground sloth or a folk memory of one; searches have found no physical evidence."
+    },
+    {
+     "label": "Forest spirit",
+     "text": "Anthropologists and folklorists such as Candace Slater see the mapinguari as a forest guardian figure related to other Amazonian beings such as the curupira, expressing fears and rules about the forest."
+    },
+    {
+     "label": "Folk memory",
+     "text": "Some researchers suggest that early humans in South America encountered giant sloths, and stories might preserve a very distant memory, though this cannot be proven."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Mapinguari",
+     "url": "https://en.wikipedia.org/wiki/Mapinguari",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Megatherium",
+     "url": "https://en.wikipedia.org/wiki/Megatherium",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Megatherium_americanum_Skeleton_NHM.JPG/500px-Megatherium_americanum_Skeleton_NHM.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Megatherium_americanum_Skeleton_NHM.JPG",
+     "author": "en:User:Ballista",
+     "license": "CC BY-SA 3.0",
+     "title": "Megatherium_americanum_Skeleton_NHM.JPG"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "anomalies",
+    "science-cosmos"
+   ],
+   "threads": [
+    "cryptids",
+    "deep-oral-memory",
+    "vanished-species"
+   ]
+  },
+  {
+   "id": "gw150914",
+   "title": "The first detection of gravitational waves",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": 2015,
+   "end": null,
+   "dateNote": "Detected 14 September 2015; announced 11 February 2016",
+   "evidenceTypes": [
+    "instrumental",
+    "peer-reviewed"
+   ],
+   "mainstream": "On 14 September 2015 the two detectors of LIGO (Laser Interferometer Gravitational-Wave Observatory) in Louisiana and Washington state recorded a tiny ripple in space-time, named GW150914, produced by the merger of two black holes of about 36 and 29 solar masses about 1.3 billion light years away. The discovery, announced in February 2016, confirmed a prediction of Albert Einstein's general theory of relativity from 1916 and was the first direct observation of a binary black hole merger. Rainer Weiss, Barry Barish and Kip Thorne received the 2017 Nobel Prize in Physics. Since then, hundreds of such events have been detected.",
+   "alternatives": [
+    {
+     "label": "New window on the universe",
+     "text": "Astronomers describe gravitational-wave astronomy as a new way of observing the cosmos, allowing the study of black holes and neutron stars that emit little light."
+    },
+    {
+     "label": "Earlier false alarm",
+     "text": "In 2014 the BICEP2 team claimed to have detected primordial gravitational waves in the cosmic microwave background, but the signal was later attributed to galactic dust, a reminder of how carefully such claims are tested."
+    },
+    {
+     "label": "Einstein's doubts",
+     "text": "Einstein himself was at times unsure whether gravitational waves were physically real and thought they would be too weak ever to detect."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Observation of Gravitational Waves from a Binary Black Hole Merger",
+     "authors": "Abbott, B. et al.",
+     "year": 2016,
+     "doi": "10.1103/PhysRevLett.116.061102",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: First observation of gravitational waves",
+     "url": "https://en.wikipedia.org/wiki/First_observation_of_gravitational_waves",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: BICEP and Keck Array",
+     "url": "https://en.wikipedia.org/wiki/BICEP_and_Keck_Array",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Gravitational wave",
+     "url": "https://en.wikipedia.org/wiki/Gravitational_wave",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/LIGO_measurement_of_gravitational_waves.svg/500px-LIGO_measurement_of_gravitational_waves.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:LIGO_measurement_of_gravitational_waves.svg",
+     "author": "B. P. Abbott et al. (LIGO Scientific Collaboration and Virgo Collaboration) — full list at the end of the article",
+     "license": "CC BY 3.0",
+     "title": "LIGO_measurement_of_gravitational_waves.svg"
+    }
+   ],
+   "categories": [
+    "science-cosmos"
+   ],
+   "threads": [
+    "changed-understanding",
+    "tested-by-experiment"
+   ]
+  },
+  {
+   "id": "venus-phosphine",
+   "title": "Phosphine on Venus: a sign of life in the clouds?",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 2020,
+   "end": null,
+   "dateNote": "Announced 14 September 2020",
+   "evidenceTypes": [
+    "spectroscopic",
+    "peer-reviewed"
+   ],
+   "mainstream": "In September 2020 a team led by Jane Greaves reported in Nature Astronomy the detection of phosphine gas, about 20 parts per billion, in the clouds of Venus, using the JCMT and ALMA telescopes. On Earth phosphine is associated with anaerobic life and industrial processes, and the team said they could not identify any known non-biological process on Venus that could produce that amount. Subsequent studies disputed the detection, citing data-processing problems and suggesting the signal could be sulfur dioxide; reanalysis lowered the estimated amount. The question remains open, and new missions to Venus are planned.",
+   "alternatives": [
+    {
+     "label": "Possible biosignature",
+     "text": "Some scientists argue that microbes could survive in the temperate, acidic cloud layers of Venus, 50–60 km above the scorching surface, and that phosphine could be produced by them."
+    },
+    {
+     "label": "Unknown chemistry or error",
+     "text": "Critics argue that the signal may be an artefact or misidentified sulfur dioxide, or that unknown volcanic or photochemical processes could produce phosphine."
+    },
+    {
+     "label": "Lessons",
+     "text": "The episode is often compared to earlier claims of life signs on Mars, such as the 1996 ALH84001 meteorite, as an example of how extraordinary claims are tested in public."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Phosphine gas in the cloud decks of Venus",
+     "authors": "Greaves, J. et al.",
+     "year": 2020,
+     "doi": "10.1038/s41550-020-1174-4",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: Life on Venus",
+     "url": "https://en.wikipedia.org/wiki/Life_on_Venus",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Venus_from_Mariner_10.jpg/500px-Venus_from_Mariner_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Venus_from_Mariner_10.jpg",
+     "author": "NASA/JPL-Caltech",
+     "license": "Public domain",
+     "title": "Venus_from_Mariner_10.jpg"
+    }
+   ],
+   "categories": [
+    "science-cosmos",
+    "aliens-ufo"
+   ],
+   "threads": [
+    "changed-understanding",
+    "life-beyond-earth"
    ]
   }
  ]
