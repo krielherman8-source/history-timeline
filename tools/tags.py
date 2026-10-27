@@ -1382,3 +1382,26 @@ addt('giants-and-little-people','msoura-stone-circle')
 addt('dragons-and-fossils','msoura-stone-circle')
 addt('stone-circles','msoura-stone-circle')
 addt('ancestral-homelands','tin-hinan')
+# --- batch 15 part 2: Australia, Melanesia, early hominins
+C.update({
+'murujuga-rock-art':'archaeology history','wurdi-youang':'archaeology science-cosmos','emu-in-the-sky':'myth-legend science-cosmos',
+'kula-ring':'history','teouma-cemetery':'archaeology history','denisovans-papua':'science-cosmos archaeology',
+'kongamato':'myth-legend anomalies','sahelanthropus-toumai':'science-cosmos archaeology','happisburgh-footprints':'science-cosmos archaeology',
+'australopithecus-sediba':'science-cosmos archaeology'})
+addt('vanished-species','murujuga-rock-art kongamato')
+addt('deep-oral-memory','murujuga-rock-art emu-in-the-sky')
+addt('vanished-landscapes','murujuga-rock-art happisburgh-footprints')
+addt('ancient-astronomy','wurdi-youang emu-in-the-sky')
+addt('stone-circles','wurdi-youang')
+addt('hunter-gatherer-monuments','wurdi-youang')
+addt('sky-omens','emu-in-the-sky')
+addt('trade-networks','kula-ring')
+addt('ocean-voyagers','kula-ring teouma-cemetery')
+addt('genetic-migrations','teouma-cemetery denisovans-papua')
+addt('human-origins','denisovans-papua sahelanthropus-toumai happisburgh-footprints australopithecus-sediba')
+addt('changed-understanding','sahelanthropus-toumai australopithecus-sediba')
+addt('lost-evidence','sahelanthropus-toumai happisburgh-footprints')
+addt('accidental-discoveries','australopithecus-sediba teouma-cemetery')
+addt('cryptids','kongamato')
+addt('dragons-and-fossils','kongamato')
+addt('giant-birds','kongamato')
