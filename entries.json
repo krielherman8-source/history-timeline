@@ -33101,6 +33101,664 @@
     "changed-understanding",
     "life-beyond-earth"
    ]
+  },
+  {
+   "id": "sima-de-los-huesos",
+   "title": "Sima de los Huesos: the 'pit of bones' at Atapuerca",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -430000,
+   "end": null,
+   "dateNote": "c. 430,000 years ago",
+   "evidenceTypes": [
+    "fossil",
+    "genetic (ancient DNA)",
+    "archaeological"
+   ],
+   "mainstream": "Deep inside the Cueva Mayor at Atapuerca in northern Spain, a 13-metre shaft called the Sima de los Huesos ('pit of bones') has yielded the remains of at least 28-29 individuals dated to about 430,000 years ago, excavated from the 1980s onwards by teams led by Juan Luis Arsuaga, Eudald Carbonell and José María Bermúdez de Castro. When first reported in 1993 they made up most of the world's Middle Pleistocene human fossil record. They show a mix of Neanderthal and more archaic traits, and nuclear DNA recovered in 2016 (Meyer et al., Nature) placed them on the Neanderthal side of the split from Denisovans, making it the oldest human DNA then sequenced. A single finely made quartzite hand-axe, nicknamed 'Excalibur', was found among the bones. Nearby Atapuerca sites (Gran Dolina, Sima del Elefante) contain some of the oldest human fossils in western Europe, over 800,000 years old.",
+   "alternatives": [
+    {
+     "label": "Deliberate deposition",
+     "text": "Many of the excavators argue that bodies were deliberately dropped into the pit by other humans, which would be among the earliest evidence of funerary behaviour; the lone hand-axe has been read as a possible offering."
+    },
+    {
+     "label": "Natural accumulation",
+     "text": "Other researchers suggest the bodies could have arrived through natural processes such as debris flows, carnivore activity or falls, and caution against reading symbolism into a single tool."
+    },
+    {
+     "label": "Classification",
+     "text": "The fossils were once assigned to Homo heidelbergensis; since the DNA results most researchers treat them as early members of the Neanderthal lineage, which has reshaped debates over when Neanderthals and modern humans diverged."
+    }
+   ],
+   "changed": "Reported 1993 as pre-Neanderthals; mitochondrial DNA (2013) unexpectedly matched Denisovans; nuclear DNA (2016) showed they belong to the Neanderthal lineage.",
+   "sources": [
+    {
+     "title": "Wikipedia: Sima de los Huesos hominins",
+     "url": "https://en.wikipedia.org/wiki/Sima_de_los_Huesos_hominins",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Archaeological site of Atapuerca",
+     "url": "https://en.wikipedia.org/wiki/Archaeological_site_of_Atapuerca",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Nuclear DNA sequences from the Middle Pleistocene Sima de los Huesos hominins",
+     "authors": "Meyer, M. et al.",
+     "year": 2016,
+     "doi": "10.1038/nature17405",
+     "type": "paper"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Homo_heidelbergensis._Museo_de_Prehistoria_de_Valencia.jpg/500px-Homo_heidelbergensis._Museo_de_Prehistoria_de_Valencia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Homo_heidelbergensis._Museo_de_Prehistoria_de_Valencia.jpg",
+     "author": "Dorieo",
+     "license": "CC BY-SA 4.0",
+     "title": "Homo_heidelbergensis._Museo_de_Prehistoria_de_Valencia.jpg"
+    }
+   ],
+   "categories": [
+    "science-cosmos",
+    "archaeology"
+   ],
+   "threads": [
+    "human-origins"
+   ]
+  },
+  {
+   "id": "tartessos",
+   "title": "Tartessos: Iberia's lost kingdom, Tarshish, and Atlantis",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": -900,
+   "end": -500,
+   "dateNote": "c. 9th-5th century BCE",
+   "evidenceTypes": [
+    "archaeological",
+    "textual (Greek, biblical)",
+    "epigraphic"
+   ],
+   "mainstream": "Greek writers described Tartessos as a rich city and kingdom beyond the Pillars of Hercules, near the mouth of the Guadalquivir in south-western Spain, famous for silver, tin and copper; Herodotus tells of a long-lived Tartessian king, Arganthonios, who welcomed Phocaean Greek traders. Archaeology has identified a Tartessian culture in Andalusia and southern Portugal from the Late Bronze Age to about the 5th century BCE, shaped by intense contact with Phoenician colonists at Gadir (Cádiz). It is known for gold hoards such as the El Carambolo treasure (found 1958), the Southwest script with around a hundred inscriptions in an undeciphered language, and the burned and buried 5th-century BCE building at Casas del Turuñuelo (excavated from 2015). No capital city has ever been found.",
+   "alternatives": [
+    {
+     "label": "Tarshish",
+     "text": "Many biblical scholars have identified Tarshish, the distant source of metals for Solomon's and Tyre's ships in the Hebrew Bible, with Tartessos; others link Tarshish to Tarsus in Anatolia or elsewhere."
+    },
+    {
+     "label": "Atlantis connection",
+     "text": "In 1922 the German archaeologist Adolf Schulten proposed that Tartessos was the real-world source of Plato's Atlantis, buried under the Doñana marshes. In 2011 a team led by Richard Freund claimed evidence in Doñana; Spanish researchers on the wider project described those claims as fanciful (speculative)."
+    },
+    {
+     "label": "A state or a culture?",
+     "text": "Archaeologists debate whether 'Tartessos' was a centralised kingdom with a lost capital or a looser network of communities that Greek writers summed up under one name."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Tartessos",
+     "url": "https://en.wikipedia.org/wiki/Tartessos",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Treasure of El Carambolo",
+     "url": "https://en.wikipedia.org/wiki/Treasure_of_El_Carambolo",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Southwest Paleohispanic script",
+     "url": "https://en.wikipedia.org/wiki/Southwest_Paleohispanic_script",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Tartessos_500_BCE.jpg/500px-Tartessos_500_BCE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Tartessos_500_BCE.jpg",
+     "author": "Lanoyta",
+     "license": "CC BY-SA 4.0",
+     "title": "Tartessos_500_BCE.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology",
+    "lost-civilisations",
+    "myth-legend"
+   ],
+   "threads": [
+    "lost-continents",
+    "trade-networks",
+    "rediscovered-civilisations",
+    "decipherments"
+   ]
+  },
+  {
+   "id": "lady-of-elche",
+   "title": "The Lady of Elche: Iberian masterpiece or forgery?",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 3,
+   "start": -400,
+   "end": null,
+   "dateNote": "4th century BCE (conventional date)",
+   "evidenceTypes": [
+    "archaeological",
+    "art-historical",
+    "pigment analysis"
+   ],
+   "mainstream": "The Lady of Elche (Dama de Elche) is a painted limestone bust of a woman wearing an elaborate headdress with large wheel-shaped side ornaments, found in 1897 at La Alcudia near Elche in eastern Spain. Generally dated to the 4th century BCE, it is regarded as a masterpiece of Iberian sculpture showing Greek influence and may have served as a funerary urn, as it has a cavity in the back. It was sold to the Louvre within weeks of its discovery, returned to Spain in 1941 and is in the National Archaeological Museum in Madrid.",
+   "alternatives": [
+    {
+     "label": "Genuine Iberian work",
+     "text": "Most Spanish archaeologists accept the bust as ancient. A 2005 study by the Spanish National Research Council (CSIC) of microscopic pigment traces found materials consistent with antiquity and no modern pigments."
+    },
+    {
+     "label": "Forgery claim",
+     "text": "In 1995 the American art historian John F. Moffitt argued in 'Art Forgery: The Case of the Lady of Elche' that the bust was a 19th-century fake, perhaps by the restorer Francisco Pallás, citing stylistic differences from other Iberian sculpture. Doubts had first been raised in 1906. Experts in Iberian archaeology have rejected the claim."
+    },
+    {
+     "label": "Goddess or noblewoman?",
+     "text": "Interpretations range from a portrait of a high-status woman to a priestess or a goddess associated with the Carthaginian Tanit."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Lady of Elche",
+     "url": "https://en.wikipedia.org/wiki/Lady_of_Elche",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Dama_de_Elche_-_MAN_-_20241220e.jpg/500px-Dama_de_Elche_-_MAN_-_20241220e.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Dama_de_Elche_-_MAN_-_20241220e.jpg",
+     "author": "Luis Fernández García",
+     "license": "CC BY-SA 4.0",
+     "title": "Dama_de_Elche_-_MAN_-_20241220e.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "hoaxes"
+   ],
+   "threads": [
+    "forged-documents"
+   ]
+  },
+  {
+   "id": "santiago-compostela-tomb",
+   "title": "The tomb of St James at Santiago de Compostela",
+   "lane": "myth",
+   "status": "disputed",
+   "priority": 2,
+   "start": 814,
+   "end": null,
+   "dateNote": "Tomb reportedly found c. 814 CE",
+   "evidenceTypes": [
+    "textual (medieval)",
+    "archaeological",
+    "tradition"
+   ],
+   "mainstream": "According to Compostela tradition, the hermit Pelagius saw mysterious lights over the Libredon forest in Galicia in the early 9th century (usually 814), and Bishop Theodemir identified a tomb there as that of the apostle James, son of Zebedee, who had been executed in Jerusalem around 44 CE. Medieval legend held that James had preached in Hispania and that his disciples brought his body by a stone boat to Galicia. King Alfonso II built a church, the cult grew rapidly, and the Way of St James became one of the great pilgrimage routes of medieval Europe; the Romanesque cathedral was begun in 1075. Excavations under the cathedral revealed a Roman-era necropolis, and the relics, hidden in 1589 against an English attack, were rediscovered in 1879 and declared authentic by Pope Leo XIII in 1884.",
+   "alternatives": [
+    {
+     "label": "Faith tradition",
+     "text": "The Catholic Church venerates the remains as those of the apostle; the pilgrimage revived strongly in the late 20th century and hundreds of thousands of people now walk the routes each year."
+    },
+    {
+     "label": "Historical scepticism",
+     "text": "Most historians note that there is no early evidence that James ever went to Spain or was buried there, and see the 9th-century discovery as serving the Christian kingdom of Asturias in its struggle with al-Andalus; later legend made James 'Matamoros', the Moor-slayer, appearing at the (probably legendary) battle of Clavijo."
+    },
+    {
+     "label": "Priscillian hypothesis",
+     "text": "Some writers have suggested that the tomb venerated at Santiago actually held Priscillian, a 4th-century Galician bishop executed for heresy at Trier in 385 whose body was returned to Galicia and revered as a martyr (speculative)."
+    },
+    {
+     "label": "Lights and stars",
+     "text": "The name Compostela is popularly explained as Campus Stellae, 'field of the star', after Pelagius' lights, and the route became linked with the Milky Way; many linguists prefer a derivation from a Latin word for a burial ground."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Santiago de Compostela Cathedral",
+     "url": "https://en.wikipedia.org/wiki/Santiago_de_Compostela_Cathedral",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: James the Great",
+     "url": "https://en.wikipedia.org/wiki/James_the_Great",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Camino de Santiago",
+     "url": "https://en.wikipedia.org/wiki/Camino_de_Santiago",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Priscillian",
+     "url": "https://en.wikipedia.org/wiki/Priscillian",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Santiago_cathedral_2021.jpg/500px-Santiago_cathedral_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Santiago_cathedral_2021.jpg",
+     "author": "Fernando",
+     "license": "CC BY-SA 4.0",
+     "title": "Santiago_cathedral_2021.jpg"
+    }
+   ],
+   "categories": [
+    "religion",
+    "myth-legend",
+    "history"
+   ],
+   "threads": [
+    "sacred-relics",
+    "mysterious-lights",
+    "holy-wars"
+   ]
+  },
+  {
+   "id": "abbas-ibn-firnas",
+   "title": "Abbas ibn Firnas: the flying man of Córdoba",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 3,
+   "start": 875,
+   "end": null,
+   "evidenceTypes": [
+    "textual (late source)"
+   ],
+   "mainstream": "Abbas ibn Firnas (c. 810-887) was a polymath at the Umayyad court of Córdoba in al-Andalus: a poet, musician, astronomer and engineer credited with a planetarium-like device, a water clock and a method of cutting rock crystal and making glass. About seven centuries after his death the historian Ahmad al-Maqqari (d. 1632) wrote that Ibn Firnas covered himself in feathers, attached wings and launched himself from a height, flying 'a considerable distance' before landing badly and hurting his back, because he had not made himself a tail. A ninth-century verse quoted by al-Maqqari is the only earlier hint of the event.",
+   "alternatives": [
+    {
+     "label": "Early gliding attempt",
+     "text": "Many historians of flight accept that Ibn Firnas probably made some kind of gliding attempt, comparable to the reported jump of the English monk Eilmer of Malmesbury around 1000-1010; he is honoured by a statue at Baghdad International Airport, a bridge in Córdoba and a lunar crater."
+    },
+    {
+     "label": "Late and thin evidence",
+     "text": "Others stress that the story rests on a single 17th-century source that does not cite its authority, so the details cannot be checked."
+    },
+    {
+     "label": "'Armen Firman' confusion",
+     "text": "Some modern books say Ibn Firnas was inspired by an earlier parachute-like jump by one 'Armen Firman' in Córdoba; this figure appears in no primary source and is probably a garbled Latinised form of Ibn Firnas' own name."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Abbas ibn Firnas",
+     "url": "https://en.wikipedia.org/wiki/Abbas_ibn_Firnas",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Eilmer of Malmesbury",
+     "url": "https://en.wikipedia.org/wiki/Eilmer_of_Malmesbury",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Armen_Firman_Abb%C3%A1s_Ibn_Firn%C3%A1s_%28MUNCYT%2C_Eulogia_Merle%29.jpg/500px-Armen_Firman_Abb%C3%A1s_Ibn_Firn%C3%A1s_%28MUNCYT%2C_Eulogia_Merle%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Armen_Firman_Abb%C3%A1s_Ibn_Firn%C3%A1s_(MUNCYT,_Eulogia_Merle).jpg",
+     "author": "Eulogia Merle",
+     "license": "CC BY-SA 4.0",
+     "title": "Armen_Firman_Abbás_Ibn_Firnás_(MUNCYT,_Eulogia_Merle).jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "science-cosmos"
+   ],
+   "threads": [
+    "ancient-flight"
+   ]
+  },
+  {
+   "id": "guanches",
+   "title": "The Guanches: Amazigh islanders of the Canaries",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -500,
+   "end": 1496,
+   "evidenceTypes": [
+    "genetic (ancient DNA)",
+    "archaeological",
+    "linguistic",
+    "textual (conquest accounts)"
+   ],
+   "mainstream": "When Europeans reached the Canary Islands in the 14th-15th centuries they found them inhabited by peoples, collectively called Guanches (strictly, the people of Tenerife), who herded goats, grew barley, lived in caves and stone houses, and on Tenerife mummified some of their dead. Their languages were related to the Berber (Amazigh) languages of North Africa, and in 2017 the first ancient-genome study confirmed a North African origin, most similar to ancient and modern Amazigh populations. They probably arrived in the 1st millennium BCE or early 1st millennium CE, though how is unclear, since they appear to have had no seagoing boats at contact. The Castilian conquest (1402-1496) killed or enslaved many and the rest were assimilated; the Guanche languages died out by the 17th century, but traces survive, including Silbo Gomero, the whistled language of La Gomera.",
+   "alternatives": [
+    {
+     "label": "How they arrived",
+     "text": "Some researchers think the islands were settled by North Africans brought or encouraged by Phoenician-Punic or Roman traders; others suggest independent voyages with seafaring knowledge later lost."
+    },
+    {
+     "label": "Atlantis and lost races",
+     "text": "From the 19th century some writers claimed the Guanches were survivors of Atlantis or a lost white race, partly because of reports of fair hair and the islands' remote position; genetics and linguistics place them firmly within North African populations (speculative claims rejected)."
+    },
+    {
+     "label": "Pyramids of Güímar",
+     "text": "Stepped stone platforms at Güímar on Tenerife were promoted by Thor Heyerdahl in the 1990s as possible links to ancient pyramid builders; archaeologists date them to the 19th century, when farmers cleared stones from their fields."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Guanches",
+     "url": "https://en.wikipedia.org/wiki/Guanches",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Pyramids of Güímar",
+     "url": "https://en.wikipedia.org/wiki/Pyramids_of_G%C3%BC%C3%ADmar",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Silbo Gomero",
+     "url": "https://en.wikipedia.org/wiki/Silbo_Gomero",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Genomic Analyses of Pre-European Conquest Human Remains from the Canary Islands Reveal Close Affinity to Modern North Africans",
+     "authors": "Rodríguez-Varela, R. et al.",
+     "year": 2017,
+     "doi": "10.1016/j.cub.2017.09.059",
+     "type": "paper"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/At_Candelaria%2C_Tenerife_2022_118.jpg/500px-At_Candelaria%2C_Tenerife_2022_118.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:At_Candelaria,_Tenerife_2022_118.jpg",
+     "author": "Photograph by Mike Peel (www.mikepeel.net).",
+     "license": "CC BY-SA 4.0",
+     "title": "At_Candelaria,_Tenerife_2022_118.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology",
+    "lost-civilisations"
+   ],
+   "threads": [
+    "hoaxes-exposed",
+    "lost-continents",
+    "mummies",
+    "outsider-builder-claims",
+    "genetic-migrations"
+   ]
+  },
+  {
+   "id": "dihya-kahina",
+   "title": "Dihya, 'al-Kahina': the Amazigh warrior-queen who fought the Umayyads",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 690,
+   "end": null,
+   "dateNote": "Active c. 690s-701/703 CE",
+   "evidenceTypes": [
+    "textual (medieval Arabic chronicles)",
+    "oral tradition"
+   ],
+   "mainstream": "Dihya, known in Arabic sources as al-Kahina ('the priestess' or 'soothsayer'), was a 7th-century Amazigh (Berber) leader in the Aurès mountains of present-day Algeria. After the Umayyad general Hassan ibn al-Nu'man took Carthage, she defeated his army at the battle of the Meskiana (c. 698) and pursued him back into Libya, ruling much of the Maghreb for several years. Chroniclers say she then adopted a scorched-earth policy that alienated oasis and town dwellers, and that she was defeated and killed around 701-703 at a well still called Bir al-Kahina. Before the last battle she reportedly sent her sons to join the Arabs. Most details come from Arab historians writing centuries later, notably Ibn Khaldun.",
+   "alternatives": [
+    {
+     "label": "Religion",
+     "text": "Interpretations of her faith differ: some, reading Ibn Khaldun, have described her as Jewish or as leading Judaised Berber tribes; others, including the historians Mohamed Talbi and Gabriel Camps, think she was more probably Christian; still others see a traditional Amazigh religious role behind the title 'priestess'."
+    },
+    {
+     "label": "Legend and history",
+     "text": "Her prophetic powers, her adoption of an Arab captive and her foreknowledge of her death are widely regarded as legendary embellishment, and some historians doubt parts of the chronology."
+    },
+    {
+     "label": "Shifting symbol",
+     "text": "She has been claimed in turn as an Algerian national heroine, an Amazigh cultural icon, a Jewish heroine and a feminist symbol; a statue of her stands in Khenchela, Algeria."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Kahina",
+     "url": "https://en.wikipedia.org/wiki/Kahina",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Hassan ibn al-Nu'man",
+     "url": "https://en.wikipedia.org/wiki/Hassan_ibn_al-Nu'man",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Statue_of_Dyhia_in_Khenchela_%28Algeria%29_%28cropped%29.jpg/500px-Statue_of_Dyhia_in_Khenchela_%28Algeria%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Statue_of_Dyhia_in_Khenchela_(Algeria)_(cropped).jpg",
+     "author": "Mascula_mai_2009_081.jpg: Numide05\nderivative work: Ghezaltar (talk)",
+     "license": "CC BY-SA 1.0",
+     "title": "Statue_of_Dyhia_in_Khenchela_(Algeria)_(cropped).jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "myth-legend",
+    "religion"
+   ],
+   "threads": [
+    "warrior-women",
+    "visionary-women",
+    "holy-wars"
+   ]
+  },
+  {
+   "id": "tin-hinan",
+   "title": "Tin Hinan: the ancestral queen of the Tuareg",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 3,
+   "start": 350,
+   "end": null,
+   "dateNote": "Burial usually dated 4th-5th century CE",
+   "evidenceTypes": [
+    "archaeological",
+    "oral tradition",
+    "radiocarbon"
+   ],
+   "mainstream": "Tuareg tradition in the Hoggar (Ahaggar) of southern Algeria holds that a noblewoman named Tin Hinan came from the Tafilalt oasis in Morocco with a companion, Takamat, and became the founding ancestress of the noble Tuareg lineages. A monumental stone tomb at Abalessa, opened in 1925 by the adventurer Byron Khun de Prorok with French military support and studied more carefully in 1933, contained the skeleton of a tall woman lying on a wooden bed, adorned with gold and silver bracelets and beads, together with a coin impression of the Roman emperor Constantine. She is usually dated to the 4th-5th century CE, and her remains are in the Bardo Museum in Algiers.",
+   "alternatives": [
+    {
+     "label": "Tomb of the legendary queen",
+     "text": "Many writers and the Tuareg themselves identify the Abalessa burial with the Tin Hinan of tradition, which would make it a rare case of an oral ancestress matched to a real grave."
+    },
+    {
+     "label": "Unproven identification",
+     "text": "Archaeologists note that nothing in the tomb names its occupant; the link to the legend was made by its excavators, and the building may have been a fortified structure reused for the burial."
+    },
+    {
+     "label": "Matrilineal society",
+     "text": "The legend is often connected with the relatively high status of women and matrilineal descent among the Tuareg."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Tin Hinan",
+     "url": "https://en.wikipedia.org/wiki/Tin_Hinan",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Tuareg people",
+     "url": "https://en.wikipedia.org/wiki/Tuareg_people",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Tin_Hinan_Tomb_01.jpg/500px-Tin_Hinan_Tomb_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Tin_Hinan_Tomb_01.jpg",
+     "author": "Bernard Gagnon",
+     "license": "CC BY 4.0",
+     "title": "Tin_Hinan_Tomb_01.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology",
+    "myth-legend"
+   ],
+   "threads": [
+    "hidden-tombs",
+    "mummies",
+    "ancestral-homelands",
+    "visionary-women"
+   ]
+  },
+  {
+   "id": "taforalt",
+   "title": "Taforalt: North Africa's oldest cemetery and its genetic surprise",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 3,
+   "start": -13000,
+   "end": null,
+   "dateNote": "Burials c. 15,100-14,000 years ago",
+   "evidenceTypes": [
+    "archaeological",
+    "genetic (ancient DNA)",
+    "dental"
+   ],
+   "mainstream": "Grotte des Pigeons at Taforalt in north-eastern Morocco holds what is probably the oldest known cemetery in North Africa: dozens of Iberomaurusian hunter-gatherers buried between about 15,100 and 14,000 years ago. Their teeth show unusually high rates of tooth decay, linked to a diet rich in starchy wild plants such as acorns and pine nuts, thousands of years before farming (Humphrey et al. 2014). In 2018 seven individuals produced the oldest nuclear genomes then known from Africa (van de Loosdrecht et al., Science): they carried a large Near Eastern-related component, most similar to the Natufians of the Levant, plus a component related to sub-Saharan Africans.",
+   "alternatives": [
+    {
+     "label": "Migration into Africa",
+     "text": "The original study suggested that the Near Eastern-related ancestry reflects movement of people into North Africa before the Holocene."
+    },
+    {
+     "label": "Back-migration debate",
+     "text": "Other geneticists have modelled the data differently, arguing that Iberomaurusian-related ancestry contributed to the Natufians rather than the other way round, and that some 'Eurasian' and 'African' labels for lineages long present in North Africa are misleading. The direction of gene flow remains debated."
+    },
+    {
+     "label": "Sahara as a barrier",
+     "text": "A 2025 study of 7,000-year-old Green Sahara individuals from Takarkori, Libya, found a separate, long-isolated North African lineage, suggesting the Green Sahara was not a major corridor between north and sub-Saharan Africa."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Taforalt",
+     "url": "https://en.wikipedia.org/wiki/Taforalt",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Pleistocene North African genomes link Near Eastern and sub-Saharan African human populations",
+     "authors": "van de Loosdrecht, M. et al.",
+     "year": 2018,
+     "doi": "10.1126/science.aar8380",
+     "type": "paper"
+    },
+    {
+     "title": "Earliest evidence for caries and exploitation of starchy plant foods in Pleistocene hunter-gatherers from Morocco",
+     "authors": "Humphrey, L. et al.",
+     "year": 2014,
+     "doi": "10.1073/pnas.1318176111",
+     "type": "paper"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Taforalt.jpg/500px-Taforalt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Taforalt.jpg",
+     "author": "Velatrix",
+     "license": "CC0",
+     "title": "Taforalt.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "science-cosmos"
+   ],
+   "threads": [
+    "human-origins",
+    "genetic-migrations"
+   ]
+  },
+  {
+   "id": "msoura-stone-circle",
+   "title": "Msoura: Morocco's stone circle and the tomb of the giant Antaeus",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 3,
+   "start": -300,
+   "end": null,
+   "dateNote": "Usually dated 4th-3rd century BCE",
+   "evidenceTypes": [
+    "archaeological",
+    "textual (classical)",
+    "folklore"
+   ],
+   "mainstream": "Msoura (Mzora), about 15 km south-east of Asilah in northern Morocco, is an oval ring of 167 standing stones surrounding a large burial mound about 58 by 54 metres; one stone, El Uted ('the peg'), is over 5 metres tall. It is usually dated to around the 4th-3rd century BCE and may relate to the beginnings of the Kingdom of Mauretania. Local legend calls it the tomb of the giant Antaeus, the Libyan wrestler defeated by Heracles in Greek myth; the Roman writer Plutarch reports that the general Sertorius dug open a tomb said to be that of Antaeus near Tingis (Tangier) and found a skeleton 60 cubits long, before reburying it. In January 2025 Morocco listed the site as national heritage.",
+   "alternatives": [
+    {
+     "label": "Mauretanian royal tomb",
+     "text": "Archaeologists generally interpret Msoura as a monumental tomb of a local elite or early royal family, with parallels to other North African tumuli."
+    },
+    {
+     "label": "Antaeus and Sertorius",
+     "text": "Some writers suggest Msoura may be the tomb Sertorius opened; this cannot be confirmed, and stories of giant bones are common worldwide, often arising from fossil animal bones (speculative)."
+    },
+    {
+     "label": "Atlantic megalithic link",
+     "text": "Its circle of standing stones has led some to compare it with Atlantic European megaliths, which are thousands of years older; most archaeologists see it as a local North African tradition."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Msoura",
+     "url": "https://en.wikipedia.org/wiki/Msoura",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Antaeus",
+     "url": "https://en.wikipedia.org/wiki/Antaeus",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Quintus Sertorius",
+     "url": "https://en.wikipedia.org/wiki/Quintus_Sertorius",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Cromlech_de_M%27zora.jpg/500px-Cromlech_de_M%27zora.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Cromlech_de_M%27zora.jpg",
+     "author": "Erwann ANDRE",
+     "license": "CC BY-SA 4.0",
+     "title": "Cromlech_de_M'zora.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "myth-legend"
+   ],
+   "threads": [
+    "dragons-and-fossils",
+    "giants-and-little-people",
+    "hidden-tombs",
+    "stone-circles"
+   ]
   }
  ]
 }
