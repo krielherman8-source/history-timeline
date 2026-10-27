@@ -1,0 +1,80 @@
+{
+ "tartessos": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=rHQoh7bGKPs",
+  "title": "How an advanced civilisation vanished 2,500 years ago – BBC News",
+  "channel": "BBC News"
+ },
+ "guanches": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=rYKZwwUu8rk",
+  "title": "The truth behind the mysterious mummies of the Canary Islands – BBC REEL",
+  "channel": "BBC Global"
+ },
+ "emu-in-the-sky": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=mcqVvqr9hk4",
+  "title": "Ancient astronomy and modern technology combine to tell stories of the night sky | ABC Australia",
+  "channel": "ABC Australia"
+ },
+ "happisburgh-footprints": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=tHFFMyBb1O8",
+  "title": "The oldest human footprints in Europe | Natural History Museum",
+  "channel": "Natural History Museum"
+ },
+ "ghent-just-judges": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=6aKUQr4YTgE",
+  "title": "The strange history of the world's most stolen painting - Noah Charney",
+  "channel": "TED-Ed"
+ },
+ "van-meegeren-forgeries": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=Y5JdbuBe6SY",
+  "title": "The art forger who tricked the Nazis - Noah Charney",
+  "channel": "TED-Ed"
+ },
+ "taj-mahal-tejo-mahalaya": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=v580zy82rcE",
+  "title": "Is this the most beautiful building in the world? - Stephanie Honchell Smith",
+  "channel": "TED-Ed"
+ },
+ "koh-i-noor-curse": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=QF10R91l51U",
+  "title": "Crown Jewels: Why is the Koh-i-Noor diamond so controversial? – BBC News",
+  "channel": "BBC News"
+ },
+ "bagan-pagan-kingdom": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=0MtIVJ2lcu8",
+  "title": "16. Bagan - City of Temples",
+  "channel": "Fall of Civilizations"
+ },
+ "tollense-battlefield": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=--yUuR_F_wU",
+  "title": "Europe's Earliest Battle? - The Mystery of the Tollense Valley // Ancient History Documentary",
+  "channel": "History Time"
+ },
+ "hunga-tonga-2022": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=Q2R5IViBclQ",
+  "title": "Hidden Volcano Abyss: Behind Tonga's Massive Eruption | Full Documentary | NOVA | PBS",
+  "channel": "NOVA PBS Official"
+ },
+ "3i-atlas": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=A55SUq2eDXg",
+  "title": "NASA Shares Interstellar Comet 3I/ATLAS Images",
+  "channel": "NASA"
+ },
+ "denisovans-papua": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=Y20pXB20Mog",
+  "title": "The Ancient Human Species With A Missing Body",
+  "channel": "PBS Eons"
+ }
+}
