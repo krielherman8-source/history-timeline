@@ -34379,6 +34379,593 @@
     "human-origins",
     "accidental-discoveries"
    ]
+  },
+  {
+   "id": "hunebedden",
+   "title": "The hunebedden: 'giants' beds' of Drenthe",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 3,
+   "start": -3400,
+   "end": -2760,
+   "dateNote": "Built c. 3470-3250 BCE",
+   "evidenceTypes": [
+    "archaeological",
+    "early antiquarian texts"
+   ],
+   "mainstream": "The hunebedden are megalithic passage graves in the north-east of the Netherlands, built from glacial boulders by people of the Western Group of the Funnelbeaker culture between about 3470 and 3250 BCE and used until about 2760 BCE. Of perhaps 100 original tombs, 54 survive, 52 of them in Drenthe, most along the Hondsrug ridge. They were reused by later Bronze Age peoples. The tombs attracted attention early: the first paper on them appeared in 1547, Titia Brongersma carried out the first known excavation in 1685, and in 1734 the government of Drenthe passed one of the earliest laws in Europe protecting antiquities.",
+   "alternatives": [
+    {
+     "label": "Built by giants",
+     "text": "The Dutch name is usually linked to old words for giants, and in 1660 the pastor Johan Picardt published a widely read book arguing that the tombs were built by giants who had come to Drenthe from the Holy Land via Scandinavia. The idea stayed popular in folklore and illustrations long after scholars dropped it."
+    },
+    {
+     "label": "Ordinary farmers",
+     "text": "Already in Picardt's time some, mainly German, scholars attributed the tombs to ordinary people. Modern archaeology shows they were collective graves of early farming communities, part of a Funnelbeaker tradition that may have built tens of thousands of such tombs across northern Europe."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Megaliths in the Netherlands",
+     "url": "https://en.wikipedia.org/wiki/Megaliths_in_the_Netherlands",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Funnelbeaker culture",
+     "url": "https://en.wikipedia.org/wiki/Funnelbeaker_culture",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Hunebed_D27_2020.jpg/500px-Hunebed_D27_2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Hunebed_D27_2020.jpg",
+     "author": "Richard Broekhuijzen",
+     "license": "CC BY-SA 4.0",
+     "title": "Hunebed_D27_2020.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "myth-legend"
+   ],
+   "threads": [
+    "giant-monuments",
+    "giants-and-little-people",
+    "outsider-builder-claims"
+   ]
+  },
+  {
+   "id": "flying-dutchman",
+   "title": "The Flying Dutchman: the ghost ship of the Cape",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": 1790,
+   "end": null,
+   "dateNote": "First printed mention 1790",
+   "evidenceTypes": [
+    "folklore",
+    "sailors' reports",
+    "literary"
+   ],
+   "mainstream": "The Flying Dutchman is a legendary ghost ship doomed never to make port and to sail the seas forever, usually off the Cape of Good Hope. The legend probably grew out of the Golden Age of the Dutch East India Company (VOC); the oldest known printed mention is in John MacDonald's travel memoir of 1790 ('the sailors said they saw the Flying Dutchman'). An 1821 story in Blackwood's Magazine named the captain Hendrick van der Decken, who swore he would round the Cape even if it took until the day of judgment, and added the motif of the ghostly crew offering letters to long-dead people. Heinrich Heine's 1833 retelling inspired Richard Wagner's opera The Flying Dutchman (1843).",
+   "alternatives": [
+    {
+     "label": "Real sightings",
+     "text": "Sailors continued to report the ship. The best known account is in the published log of the royal princes' cruise, recording that before dawn on 11 July 1881 off Australia a brig appeared in 'a strange red light as of a phantom ship all aglow' and then vanished; the young Prince George, the future King George V, was on board. In the legend, seeing the ship is an omen of doom."
+    },
+    {
+     "label": "Mirage at sea",
+     "text": "The most widely accepted explanation for sightings is a superior mirage or Fata Morgana, in which ships beyond the horizon appear raised and distorted above the sea."
+    },
+    {
+     "label": "Historical captain",
+     "text": "Some sources suggest the legend was modelled on the 17th-century Dutch captain Bernard Fokke, famous for the speed of his voyages to Java and suspected of being in league with the Devil."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Flying Dutchman",
+     "url": "https://en.wikipedia.org/wiki/Flying_Dutchman",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Fata Morgana (mirage)",
+     "url": "https://en.wikipedia.org/wiki/Fata_Morgana_(mirage)",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Flying_Dutchman%2C_the.jpg/500px-Flying_Dutchman%2C_the.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Flying_Dutchman,_the.jpg",
+     "author": "Albert Pinkham Ryder",
+     "license": "Public domain",
+     "title": "Flying_Dutchman,_the.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "anomalies"
+   ],
+   "threads": [
+    "sky-omens",
+    "sea-mysteries",
+    "seeing-what-we-expect"
+   ]
+  },
+  {
+   "id": "st-elizabeth-flood-1421",
+   "title": "St Elizabeth's flood (1421): drowned villages and the cat in the cradle",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 3,
+   "start": 1421,
+   "end": null,
+   "dateNote": "18-19 November 1421",
+   "evidenceTypes": [
+    "documentary (chronicles)",
+    "geographical"
+   ],
+   "mainstream": "During the night of 18-19 November 1421 a severe North Sea storm broke the dikes of the Grote Hollandse Waard, a large polder in what is now the Netherlands. A number of villages were swallowed and never rebuilt, and estimates of the dead range from 2,000 to 10,000. Much of the drowned land became tidal marsh; the area of today's Biesbosch National Park has been flooded ever since. The disaster also separated the rival cities of Dordrecht and Geertruidenberg, which had been fighting in the Hook and Cod wars.",
+   "alternatives": [
+    {
+     "label": "The cat and the cradle",
+     "text": "According to legend, after the flood people saw a cradle floating towards the dike with a cat leaping from side to side to keep it balanced; inside was a baby, still dry and asleep. The tale is linked to the name of Kinderdijk ('children's dike') and was painted by Lawrence Alma-Tadema in 1856."
+    },
+    {
+     "label": "Legend and memory",
+     "text": "Historians treat the cradle story as folklore without contemporary evidence, while the flood itself is well recorded. Medieval sources also blamed neglect of the dikes during the civil wars for making the disaster worse."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: St. Elizabeth's flood (1421)",
+     "url": "https://en.wikipedia.org/wiki/St._Elizabeth's_flood_(1421)",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: De Biesbosch National Park",
+     "url": "https://en.wikipedia.org/wiki/De_Biesbosch_National_Park",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Kinderdijk",
+     "url": "https://en.wikipedia.org/wiki/Kinderdijk",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/The_Saint_Elizabeth%E2%80%99s_Day_Flood_by_Master_of_the_St_Elizabeth_Panels_c1490-1495.jpg/500px-The_Saint_Elizabeth%E2%80%99s_Day_Flood_by_Master_of_the_St_Elizabeth_Panels_c1490-1495.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:The_Saint_Elizabeth%E2%80%99s_Day_Flood_by_Master_of_the_St_Elizabeth_Panels_c1490-1495.jpg",
+     "author": "Master of the St Elizabeth Panels",
+     "license": "Public domain",
+     "title": "The_Saint_Elizabeth’s_Day_Flood_by_Master_of_the_St_Elizabeth_Panels_c1490-1495.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "catastrophes",
+    "myth-legend"
+   ],
+   "threads": [
+    "flood-myths",
+    "vanished-landscapes",
+    "abandoned-babies"
+   ]
+  },
+  {
+   "id": "maastricht-mosasaurus",
+   "title": "The 'great animal of Maastricht': the fossil that proved extinction",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 3,
+   "start": 1778,
+   "end": null,
+   "dateNote": "Skull found 1778; seized 1795",
+   "evidenceTypes": [
+    "fossil",
+    "documentary"
+   ],
+   "mainstream": "In 1778 a chalk quarry in the Sint-Pietersberg near Maastricht produced a huge fossil skull with rows of teeth, the second such find there; it attracted the attention of the local physician Johann Leonard Hoffmann, who thought it was a crocodile, while others took it for a whale. When French revolutionary armies took Maastricht in 1795, the skull was seized as a prize of war and sent to Paris. In 1808 Georges Cuvier concluded that it belonged to a giant marine lizard related to monitor lizards but unlike any living animal, an idea that helped establish that species could become extinct. William Conybeare named it Mosasaurus, 'lizard of the Meuse', in 1822. The species lived around 82-66 million years ago, and the largest reached about 12 metres or more.",
+   "alternatives": [
+    {
+     "label": "600 bottles of wine",
+     "text": "In a 1799 account, Barthélemy Faujas de Saint-Fond wrote that the skull was retrieved for the French by twelve grenadiers in exchange for 600 bottles of wine; the story is often repeated but rests on this single account."
+    },
+    {
+     "label": "Monsters and dragons",
+     "text": "Before Cuvier, fossils of large unknown creatures were widely read as remains of giants, dragons or animals killed in the biblical Flood. The Maastricht skull became a key piece of evidence that whole worlds of animals had vanished."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Mosasaurus",
+     "url": "https://en.wikipedia.org/wiki/Mosasaurus",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Georges Cuvier",
+     "url": "https://en.wikipedia.org/wiki/Georges_Cuvier",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Mosasaurus_hoffmannii_-_skeleton.jpg/500px-Mosasaurus_hoffmannii_-_skeleton.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Mosasaurus_hoffmannii_-_skeleton.jpg",
+     "author": "Ghedoghedo",
+     "license": "CC BY-SA 3.0",
+     "title": "Mosasaurus_hoffmannii_-_skeleton.jpg"
+    }
+   ],
+   "categories": [
+    "science-cosmos",
+    "history"
+   ],
+   "threads": [
+    "changed-understanding",
+    "dragons-and-fossils",
+    "vanished-species"
+   ]
+  },
+  {
+   "id": "ghent-just-judges",
+   "title": "The stolen Just Judges panel of the Ghent Altarpiece",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 3,
+   "start": 1934,
+   "end": null,
+   "dateNote": "Stolen 10-11 April 1934",
+   "evidenceTypes": [
+    "documentary (police and court records)",
+    "art-historical"
+   ],
+   "mainstream": "The Just Judges is the lower left panel of the Ghent Altarpiece (Adoration of the Mystic Lamb), painted by Jan van Eyck and possibly his brother Hubert between about 1430 and 1432. During the night of 10 April 1934 it was stolen from St Bavo's Cathedral in Ghent. On 30 April the Bishop of Ghent received a ransom demand for one million Belgian francs; the Belgian government refused, and as a sign of good faith the thief returned the panel's reverse side, a grisaille of St John the Baptist. On 25 November 1934 Arsène Goedertier told his lawyer on his deathbed that he alone knew where the Mystic Lamb was, and that he would take the secret to his grave. Carbon copies of the ransom notes were found in his desk. The panel has never been found; it was replaced in 1945 by a copy made by Jef Van der Veken.",
+   "alternatives": [
+    {
+     "label": "Goedertier the thief",
+     "text": "The police concluded that Goedertier was the thief; one of his unsent notes said the panel rested in a place where neither he nor anyone else could take it away without attracting public attention."
+    },
+    {
+     "label": "A wider plot",
+     "text": "There is speculation that Goedertier could not have acted alone and had inside help, possibly from one of the cathedral's custodians, and amateur and official searches continue to be proposed (speculative)."
+    },
+    {
+     "label": "The copy",
+     "text": "Van der Veken based his copy on a 16th-century copy by Michiel Coxie, and subtly marked it as a copy by giving one of the horsemen the face of King Leopold III."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: The Just Judges",
+     "url": "https://en.wikipedia.org/wiki/The_Just_Judges",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Ghent Altarpiece",
+     "url": "https://en.wikipedia.org/wiki/Ghent_Altarpiece",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Ghent_Altarpiece_Google_Art_Project.jpg/500px-Ghent_Altarpiece_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Ghent_Altarpiece_Google_Art_Project.jpg",
+     "author": "Jan van Eyck / Presumably Hubert van Eyck",
+     "license": "Public domain",
+     "title": "Ghent_Altarpiece_Google_Art_Project.jpg"
+    }
+   ],
+   "categories": [
+    "history"
+   ],
+   "threads": [
+    "disappearances",
+    "lost-treasures"
+   ]
+  },
+  {
+   "id": "van-meegeren-forgeries",
+   "title": "Han van Meegeren: the forger who fooled Göring",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1937,
+   "end": 1947,
+   "dateNote": "Emmaus accepted as Vermeer 1937; confession 1945",
+   "evidenceTypes": [
+    "forensic (paint chemistry)",
+    "court records"
+   ],
+   "mainstream": "Han van Meegeren (1889-1947), a Dutch painter dismissed by critics, set out to prove his talent by forging Dutch Golden Age paintings. He mixed phenol formaldehyde resin (Bakelite) into his paints and baked the canvases so the paint would harden as if centuries old. In 1937 the leading expert Abraham Bredius hailed his The Supper at Emmaus as 'the masterpiece of Johannes Vermeer of Delft', and it was bought for the Museum Boijmans in Rotterdam. In 1942 one of his fake Vermeers, Christ with the Adulteress, was acquired by Hermann Göring in exchange for 137 looted paintings. After the war Van Meegeren was arrested for selling Dutch cultural property to the Nazis; to escape a possible death penalty he confessed to forgery, and between July and December 1945 painted a new 'Vermeer' before court-appointed witnesses. A scientific commission led by Paul Coremans found 20th-century resins in the paint. In November 1947 he was sentenced to one year for forgery and fraud, but died of heart failure on 30 December 1947.",
+   "alternatives": [
+    {
+     "label": "Folk hero",
+     "text": "A Dutch opinion poll in October 1947 ranked Van Meegeren among the most popular people in the country, seen as the trickster who had fooled the experts and Göring."
+    },
+    {
+     "label": "Self-made legend",
+     "text": "The art historian Jonathan Lopez argued that this image was itself a forgery: Van Meegeren had written articles echoing Nazi and antisemitic rhetoric, and his trial defence, presenting the sale to Göring as a patriotic trick, was a masterpiece of self-invention."
+    },
+    {
+     "label": "Doubters of the forgery",
+     "text": "In the 1950s the Belgian expert Jean Decoen and the collector Daniël van Beuningen insisted that some of the works, including the Emmaus, were genuine Vermeers; courts and later analyses, including radioactive dating of the lead white and a 1977 forensic study, confirmed they were modern."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Han van Meegeren",
+     "url": "https://en.wikipedia.org/wiki/Han_van_Meegeren",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Abraham Bredius",
+     "url": "https://en.wikipedia.org/wiki/Abraham_Bredius",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Proces_Van_Meegeren%2C_Bestanddeelnr_902-4285.jpg/500px-Proces_Van_Meegeren%2C_Bestanddeelnr_902-4285.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Proces_Van_Meegeren,_Bestanddeelnr_902-4285.jpg",
+     "author": "Nationaal Archief",
+     "license": "CC0",
+     "title": "Proces_Van_Meegeren,_Bestanddeelnr_902-4285.jpg"
+    }
+   ],
+   "categories": [
+    "hoaxes",
+    "history"
+   ],
+   "threads": [
+    "hoaxes-exposed",
+    "forged-documents"
+   ]
+  },
+  {
+   "id": "akbar-ibadat-khana",
+   "title": "Akbar's House of Worship and the 'Divine Faith'",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1575,
+   "end": 1605,
+   "dateNote": "Ibadat Khana 1575; Din-i Ilahi 1582",
+   "evidenceTypes": [
+    "textual (Mughal chronicles)",
+    "architectural",
+    "Jesuit letters"
+   ],
+   "mainstream": "The Mughal emperor Akbar (r. 1556-1605) built a new capital at Fatehpur Sikri from 1571, near the shrine of the Sufi Sheikh Salim Chishti who had predicted the birth of his son Jahangir; the city was largely abandoned after about 1585. In 1575 he built there the Ibadat Khana (House of Worship), where he held debates between Sunni and Shia Muslim scholars, Hindus, Jains, Zoroastrians, Jesuit missionaries from Goa and others. In 1582 he propounded the Din-i Ilahi ('Divine Faith' or 'Oneness of the Divine'), a syncretic set of beliefs and practices that drew on several of these traditions, with vegetarianism and non-violence among its ideals. Only around 19 followers are identified, and it lapsed after his death.",
+   "alternatives": [
+    {
+     "label": "A new religion",
+     "text": "Many Muslim scholars of the period denounced it as blasphemy and called Akbar an apostate, and some accounts describe him as leaving Islam to found a new faith."
+    },
+    {
+     "label": "A discipleship and a policy",
+     "text": "Some modern scholars argue it was a spiritual discipleship of Akbar's own beliefs rather than a full religion, its followers being called chelah ('disciples'), and that its core was the policy of sulh-i kul ('universal peace') used to govern a diverse empire."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Ibadat Khana",
+     "url": "https://en.wikipedia.org/wiki/Ibadat_Khana",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Din-i Ilahi",
+     "url": "https://en.wikipedia.org/wiki/Din-i_Ilahi",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Fatehpur Sikri",
+     "url": "https://en.wikipedia.org/wiki/Fatehpur_Sikri",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Jesuits_at_Akbar%27s_court.jpg/500px-Jesuits_at_Akbar%27s_court.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Jesuits_at_Akbar%27s_court.jpg",
+     "author": "Unknown",
+     "license": "Public domain",
+     "title": "Jesuits_at_Akbar's_court.jpg"
+    }
+   ],
+   "categories": [
+    "religion",
+    "history"
+   ],
+   "threads": [
+    "knowledge-and-power",
+    "suppressed-beliefs"
+   ]
+  },
+  {
+   "id": "akbar-dumb-house",
+   "title": "The 'dumb house': Akbar and the forbidden experiment",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 3,
+   "start": 1578,
+   "end": null,
+   "dateNote": "Akbar c. 1578-1582; Psamtik 7th century BCE",
+   "evidenceTypes": [
+    "textual (chronicles)"
+   ],
+   "mainstream": "Rulers in several cultures are said to have tried to find humanity's 'natural' language by raising infants without hearing speech, which the scholar Roger Shattuck called the 'forbidden experiment'. Herodotus wrote that the Egyptian pharaoh Psamtik I (664-610 BCE) had a child raised in this way, and that its first word sounded like bekos, which meant 'bread' in Phrygian, so he concluded the Phrygians were older than the Egyptians. The monk Salimbene di Adam wrote that Emperor Frederick II (13th century) had infants nursed in silence, and that they all died. James IV of Scotland (r. 1488-1513) was said to have sent two children with a mute woman to the island of Inchkeith, and they reportedly spoke good Hebrew. The Mughal emperor Akbar, who held that speech comes from hearing, is recorded as having had children raised by mute nurses in a building that became known as the 'dumb house'; when he visited in 1582, the children made no speech at all.",
+   "alternatives": [
+    {
+     "label": "Akbar's test probably real",
+     "text": "Historians consider Akbar's experiment the most likely to be authentic, and its outcome supported his view that language is learned rather than innate."
+    },
+    {
+     "label": "Tales with a moral",
+     "text": "Some authors doubt that the experiments of Psamtik and James IV took place as told, and probably that of Frederick II too; Salimbene was hostile to Frederick and used the story to show his cruelty and curiosity."
+    },
+    {
+     "label": "Modern echoes",
+     "text": "Real cases of children raised in severe isolation, and debates over a language instinct, mean the question behind the stories is still discussed in linguistics, while such an experiment is now considered unethical."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Language deprivation experiments",
+     "url": "https://en.wikipedia.org/wiki/Language_deprivation_experiments",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Psamtik I",
+     "url": "https://en.wikipedia.org/wiki/Psamtik_I",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Govardhan._Akbar_With_Lion_and_Calf_ca._1630%2C_Metmuseum_%28cropped%29.jpg/500px-Govardhan._Akbar_With_Lion_and_Calf_ca._1630%2C_Metmuseum_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Govardhan._Akbar_With_Lion_and_Calf_ca._1630,_Metmuseum_(cropped).jpg",
+     "author": "Govardhan / Mir Ali Heravi",
+     "license": "Public domain",
+     "title": "Govardhan._Akbar_With_Lion_and_Calf_ca._1630,_Metmuseum_(cropped).jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "science-cosmos"
+   ],
+   "threads": [
+    "knowledge-and-power",
+    "tested-by-experiment"
+   ]
+  },
+  {
+   "id": "taj-mahal-tejo-mahalaya",
+   "title": "The 'Tejo Mahalaya' theory: was the Taj Mahal a Hindu temple?",
+   "lane": "history",
+   "status": "debunked",
+   "priority": 3,
+   "start": 1965,
+   "end": null,
+   "dateNote": "Theory from 1965; Taj Mahal built from c. 1632",
+   "evidenceTypes": [
+    "textual (Mughal records)",
+    "architectural",
+    "court rulings"
+   ],
+   "mainstream": "The Taj Mahal in Agra was built from about 1632 by the Mughal emperor Shah Jahan as a mausoleum for his wife Mumtaz Mahal, on land given by Raja Jai Singh I in exchange for a palace in the centre of Agra. From 1965 the writer P. N. Oak argued in books such as 'The Taj Mahal was a Rajput Palace' and 'Taj Mahal: The True Story' (1989) that it was an older Hindu temple-palace dedicated to Shiva, 'Tejo Mahalaya', which Shah Jahan had taken over. Oak made similar claims about the Kaaba, Westminster Abbey and Vatican City.",
+   "alternatives": [
+    {
+     "label": "Hidden temple",
+     "text": "Supporters point to the Mughal chronicle Padshahnama's statement that a mansion of Jai Singh's family stood on the site as evidence of an earlier Hindu building; several court cases have been inspired by the theory."
+    },
+    {
+     "label": "Pseudohistory",
+     "text": "Historians reject the theory. The the Padshahnama and other records describe the acquisition of the land and construction of the tomb; the art historian Giles Tillotson called Oak's work a 'startling piece of pseudo-scholarship'. India's Supreme Court dismissed Oak's petition in 2000, saying he had a 'bee in his bonnet', and in 2017 the Archaeological Survey of India stated there was no evidence that the monument had been a temple."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: P. N. Oak",
+     "url": "https://en.wikipedia.org/wiki/P._N._Oak",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Taj Mahal",
+     "url": "https://en.wikipedia.org/wiki/Taj_Mahal",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Taj_Mahal_%28Edited%29.jpeg/500px-Taj_Mahal_%28Edited%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Taj_Mahal_(Edited).jpeg",
+     "author": "Yann; edited by Jim Carter",
+     "license": "CC BY-SA 4.0",
+     "title": "Taj_Mahal_(Edited).jpeg"
+    }
+   ],
+   "categories": [
+    "hoaxes",
+    "history"
+   ],
+   "threads": [
+    "hoaxes-exposed",
+    "outsider-builder-claims",
+    "erased-from-history"
+   ]
+  },
+  {
+   "id": "koh-i-noor-curse",
+   "title": "The Koh-i-Noor: a diamond's journey and its 'curse'",
+   "lane": "myth",
+   "status": "disputed",
+   "priority": 2,
+   "start": 1526,
+   "end": null,
+   "dateNote": "Recorded with the Mughals from 1526",
+   "evidenceTypes": [
+    "documentary",
+    "tradition"
+   ],
+   "mainstream": "The Koh-i-Noor ('Mountain of Light') is one of the world's largest cut diamonds, now 105.6 carats. It first appears in the record in the late 15th or early 16th century: in 1526, after the First Battle of Panipat, Babur's son Humayun received a great diamond from the family of the ruler of Gwalior, and Babur wrote that its value could feed the whole world for a day. It later adorned Shah Jahan's Peacock Throne, was carried off to Persia by Nader Shah in 1739, passed to the Durrani rulers of Afghanistan and then to Ranjit Singh of the Sikh Empire in 1813. After the Second Anglo-Sikh War it was surrendered to Queen Victoria in 1849 by the 11-year-old Maharaja Duleep Singh, recut in 1852, and set in the crowns of British queens. India, Pakistan, Iran and Afghanistan have each claimed it.",
+   "alternatives": [
+    {
+     "label": "The curse",
+     "text": "A rumour that the stone was cursed, bringing violent ends to the men who owned it, may have begun in the Delhi Gazette and was repeated in the Illustrated London News; Queen Victoria herself expressed concern. A counter-rumour held that the curse affected only male rulers, and the diamond has since been worn only by female members of the royal family."
+    },
+    {
+     "label": "Ancient origins",
+     "text": "Some traditions identify it with diamonds in older Indian accounts, including a large diamond Alauddin Khalji acquired from the Kakatiya kingdom around 1310; historians note the link cannot be proven."
+    },
+    {
+     "label": "A spoil of war",
+     "text": "The Governor-General Lord Dalhousie treated the stone as a spoil of war; Britain says it was acquired legally under the Last Treaty of Lahore, while claimant countries call it taken unjustly. Queen Victoria herself later became uneasy about the way the diamond had been acquired."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Koh-i-Noor",
+     "url": "https://en.wikipedia.org/wiki/Koh-i-Noor",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Duleep Singh",
+     "url": "https://en.wikipedia.org/wiki/Duleep_Singh",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Replica_of_the_Koh-i-Noor_%28cropped%29.jpg/500px-Replica_of_the_Koh-i-Noor_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Replica_of_the_Koh-i-Noor_(cropped).jpg",
+     "author": "aiva.",
+     "license": "CC BY 2.0",
+     "title": "Replica_of_the_Koh-i-Noor_(cropped).jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "myth-legend"
+   ],
+   "threads": [
+    "sacred-relics",
+    "lost-treasures"
+   ]
   }
  ]
 }
