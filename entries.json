@@ -1385,7 +1385,8 @@
    ],
    "threads": [
     "lost-civilisations",
-    "volcanoes-and-memory"
+    "volcanoes-and-memory",
+    "bronze-age-world"
    ]
   },
   {
@@ -1456,7 +1457,8 @@
     "catastrophes"
    ],
    "threads": [
-    "civilisation-collapses"
+    "civilisation-collapses",
+    "bronze-age-world"
    ]
   },
   {
@@ -1515,7 +1517,8 @@
    "threads": [
     "changed-understanding",
     "stories-proven-true",
-    "rediscovered-civilisations"
+    "rediscovered-civilisations",
+    "bronze-age-world"
    ]
   },
   {
@@ -2444,7 +2447,9 @@
     "science-cosmos",
     "anomalies"
    ],
-   "threads": []
+   "threads": [
+    "interstellar-visitors"
+   ]
   },
   {
    "id": "uap-hearing-2023",
@@ -3661,7 +3666,8 @@
    "threads": [
     "changed-understanding",
     "ancient-astronomy",
-    "sun-cults"
+    "sun-cults",
+    "bronze-age-world"
    ]
   },
   {
@@ -5380,7 +5386,8 @@
     "history"
    ],
    "threads": [
-    "changed-understanding"
+    "changed-understanding",
+    "first-americans"
    ]
   },
   {
@@ -5429,7 +5436,8 @@
     "history"
    ],
    "threads": [
-    "changed-understanding"
+    "changed-understanding",
+    "first-americans"
    ]
   },
   {
@@ -5875,7 +5883,8 @@
     "changed-understanding",
     "stories-proven-true",
     "deep-oral-memory",
-    "rediscovered-civilisations"
+    "rediscovered-civilisations",
+    "bronze-age-world"
    ]
   },
   {
@@ -6715,7 +6724,8 @@
    ],
    "threads": [
     "changed-understanding",
-    "genetic-migrations"
+    "genetic-migrations",
+    "first-americans"
    ]
   },
   {
@@ -14886,7 +14896,8 @@
    ],
    "threads": [
     "ocean-voyagers",
-    "ancestral-homelands"
+    "ancestral-homelands",
+    "founding-ancestors"
    ]
   },
   {
@@ -16135,7 +16146,8 @@
     "history"
    ],
    "threads": [
-    "warrior-women"
+    "warrior-women",
+    "founding-ancestors"
    ]
   },
   {
@@ -21257,7 +21269,8 @@
    "threads": [
     "changed-understanding",
     "human-origins",
-    "genetic-migrations"
+    "genetic-migrations",
+    "first-americans"
    ]
   },
   {
@@ -22608,7 +22621,8 @@
    ],
    "threads": [
     "disappearances",
-    "impostors-and-lost-heirs"
+    "impostors-and-lost-heirs",
+    "raised-in-isolation"
    ]
   },
   {
@@ -25753,7 +25767,8 @@
    "threads": [
     "shapeshifters",
     "sea-mysteries",
-    "water-spirits"
+    "water-spirits",
+    "founding-ancestors"
    ]
   },
   {
@@ -26209,7 +26224,8 @@
    ],
    "threads": [
     "divine-punishment",
-    "trade-networks"
+    "trade-networks",
+    "bronze-age-world"
    ]
   },
   {
@@ -33235,7 +33251,8 @@
     "lost-continents",
     "trade-networks",
     "rediscovered-civilisations",
-    "decipherments"
+    "decipherments",
+    "bronze-age-world"
    ]
   },
   {
@@ -33621,7 +33638,8 @@
     "hidden-tombs",
     "mummies",
     "ancestral-homelands",
-    "visionary-women"
+    "visionary-women",
+    "founding-ancestors"
    ]
   },
   {
@@ -34848,7 +34866,8 @@
    ],
    "threads": [
     "knowledge-and-power",
-    "tested-by-experiment"
+    "tested-by-experiment",
+    "raised-in-isolation"
    ]
   },
   {
@@ -34965,6 +34984,630 @@
    "threads": [
     "sacred-relics",
     "lost-treasures"
+   ]
+  },
+  {
+   "id": "oc-eo-funan",
+   "title": "Óc Eo and Funan: a naga princess, a foreign prince and Roman gold in the Mekong Delta",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 100,
+   "end": 650,
+   "dateNote": "c. 1st-7th century CE",
+   "evidenceTypes": [
+    "archaeological",
+    "textual (Chinese histories)",
+    "numismatic"
+   ],
+   "mainstream": "Funan is generally considered the first known kingdom of Southeast Asia, a network of Indianised states in the Mekong Delta and neighbouring parts of Cambodia, Thailand and Vietnam from about the 1st to the 7th century CE. The name Funan does not appear in local texts, and what its people called their polity is unknown; most of what is written about it comes from Chinese histories, especially the reports of the 3rd-century Wu envoys Kang Tai and Zhu Ying. Its great port at Óc Eo in southern Vietnam, excavated by Louis Malleret from the 1940s, has yielded jewellery, religious statues, locally minted silver coins, and Roman gold medallions of the reign of Antoninus Pius (138-161 CE) and possibly Marcus Aurelius.",
+   "alternatives": [
+    {
+     "label": "Founding legend",
+     "text": "Chinese and later Cambodian traditions tell that a foreign Brahmin or prince, called Hùntián in Chinese and usually identified with Kaundinya, sailed in and shot an arrow from a divine bow through the ship of the local queen Liǔyè ('Willow Leaf', identified with Soma), after which the two married. In Khmer folklore she becomes Neang Neak, a naga (serpent) princess, and he Preah Thaong, and Soma and Kaundinya are held to be the first kings of Cambodia."
+    },
+    {
+     "label": "Cattigara?",
+     "text": "Malleret and others identified Óc Eo with Cattigara, the easternmost port named in Ptolemy's Geography; the Roman medallions were found near the region where Chinese texts say Romans first landed before travelling on to China on a diplomatic mission in 166 CE. Others place Cattigara elsewhere."
+    },
+    {
+     "label": "Whose kingdom?",
+     "text": "Scholars debate whether Funan's people were mainly Khmer, as Michael Vickery argued, or Austronesian; the Vietnamese historian Hà Văn Tấn argued that a single 'Funan culture' stretching from the Mekong to Burma cannot yet be demonstrated."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Óc Eo",
+     "url": "https://en.wikipedia.org/wiki/%C3%93c_Eo",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Funan",
+     "url": "https://en.wikipedia.org/wiki/Funan",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/N%C3%BAi_Ba_Th%C3%AA.jpg/500px-N%C3%BAi_Ba_Th%C3%AA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:N%C3%BAi_Ba_Th%C3%AA.jpg",
+     "author": "Bùi Thụy Đào Nguyên",
+     "license": "CC BY-SA 3.0",
+     "title": "Núi_Ba_Thê.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology",
+    "myth-legend",
+    "lost-civilisations"
+   ],
+   "threads": [
+    "serpent-beings",
+    "sacred-kingship",
+    "trade-networks",
+    "silk-road",
+    "founding-ancestors"
+   ]
+  },
+  {
+   "id": "bagan-pagan-kingdom",
+   "title": "Bagan: 10,000 temples, a dragon princess's son, and the Mongol question",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1044,
+   "end": 1287,
+   "dateNote": "Capital 1044-1287",
+   "evidenceTypes": [
+    "archaeological",
+    "epigraphic",
+    "textual (Burmese chronicles)"
+   ],
+   "mainstream": "From 1044 to 1287 Bagan (Pagan), on the Irrawaddy in Myanmar, was the capital of the Pagan Kingdom, the first state to unify the lands that became Myanmar, expanded under King Anawrahta in the 1050s and 1060s. At its height more than 10,000 Buddhist temples, pagodas and monasteries were built on the Bagan plain, of which over 2,300 survive. It lies in an earthquake zone, and quakes in 1975 and 2016 damaged hundreds of temples; it became a UNESCO World Heritage Site in 2019.",
+   "alternatives": [
+    {
+     "label": "Chronicle origins",
+     "text": "Burmese chronicles trace the city back to around 107 CE and say the dynasty was founded in 167 CE by Pyusawhti, who in versions before the 19th century was the descendant of a solar spirit and a dragon (naga) princess. The royal Glass Palace Chronicle of 1832 instead traced his line to Maha Sammata, the first king of the world in Buddhist mythology."
+    },
+    {
+     "label": "Scholarly reconstruction",
+     "text": "Modern historians hold that the Pagan dynasty was founded by the Mranma (Burmans) of the Nanzhao kingdom in the mid-to-late 9th century, and that the early chronicle kings are adopted Pyu legends; a historical Pyusawhti may have lived in the mid-to-late 8th century, perhaps coming from Nanzhao during its raids on the Irrawaddy valley."
+    },
+    {
+     "label": "Fall to the Mongols?",
+     "text": "The kingdom collapsed after Mongol invasions from 1277, but recent research suggests Mongol armies may never have reached Bagan itself; Michael Aung-Thwin argues that provincial governors who successfully resisted the Mongols became the new power elite, leaving Bagan a backwater."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Bagan",
+     "url": "https://en.wikipedia.org/wiki/Bagan",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Pagan Kingdom",
+     "url": "https://en.wikipedia.org/wiki/Pagan_Kingdom",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Pyusawhti",
+     "url": "https://en.wikipedia.org/wiki/Pyusawhti",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Bagan%2C_Burma.jpg/500px-Bagan%2C_Burma.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Bagan,_Burma.jpg",
+     "author": "Corto Maltese 1999",
+     "license": "CC BY 2.0",
+     "title": "Bagan,_Burma.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology",
+    "myth-legend",
+    "religion",
+    "catastrophes"
+   ],
+   "threads": [
+    "giant-monuments",
+    "serpent-beings",
+    "sacred-kingship",
+    "earthquake-lore",
+    "founding-ancestors"
+   ]
+  },
+  {
+   "id": "aguada-fenix",
+   "title": "Aguada Fénix: the biggest and oldest Maya monument, found by lidar",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -1000,
+   "end": -750,
+   "dateNote": "Built c. 1000-800 BCE",
+   "evidenceTypes": [
+    "archaeological",
+    "lidar survey",
+    "radiocarbon"
+   ],
+   "mainstream": "Aguada Fénix in Tabasco, Mexico, was announced in June 2020 by a team led by Takeshi Inomata after lidar laser mapping from the air revealed it in an area that had been surveyed on the ground before. Its main platform of earth and clay is about 1,400 metres long, built from around 1000 to 800 BCE and abandoned around 750 BCE. It is the oldest and largest known Maya ceremonial structure, and its construction is estimated to have required 10-13 million person-days of labour. Its cruciform layout resembles Olmec centres such as San Lorenzo and La Venta and the Maya site of Seibal, but its pottery and obsidian (from Maya sources in Guatemala) link it more closely to the Maya lowlands.",
+   "alternatives": [
+    {
+     "label": "Builders without kings",
+     "text": "The excavators note that, unlike Olmec centres, no sculptures of high-status rulers have been found, and suggest the platform was raised by communal labour in a society with less pronounced inequality, challenging the idea that monumental building requires powerful rulers."
+    },
+    {
+     "label": "Olmec or Maya?",
+     "text": "The site sits in the region the project was designed to study, where Maya lowland and Olmec cultures met; the excavators note that the pottery does not necessarily show the builders spoke a Mayan language, only that they had closer cultural ties to the Maya lowlands than to the Olmec area."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Aguada Fénix",
+     "url": "https://en.wikipedia.org/wiki/Aguada_F%C3%A9nix",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Monumental architecture at Aguada Fénix and the rise of Maya civilization",
+     "authors": "Inomata, T. et al.",
+     "year": 2020,
+     "doi": "10.1038/s41586-020-2343-4",
+     "type": "paper"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Aguada_F%C3%A9nix.jpg/500px-Aguada_F%C3%A9nix.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Aguada_F%C3%A9nix.jpg",
+     "author": "Takeshi Inomata",
+     "license": "CC BY-SA 4.0",
+     "title": "Aguada_Fénix.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "lost-civilisations"
+   ],
+   "threads": [
+    "changed-understanding",
+    "giant-monuments"
+   ]
+  },
+  {
+   "id": "san-bartolo-murals",
+   "title": "San Bartolo: the Maya creation murals and an early Maya script",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 3,
+   "start": -100,
+   "end": null,
+   "dateNote": "Murals c. 100 BCE",
+   "evidenceTypes": [
+    "archaeological",
+    "art-historical",
+    "epigraphic"
+   ],
+   "mainstream": "San Bartolo is a small Maya site in Petén, northern Guatemala, famous for Late Preclassic mural paintings, still strongly influenced by Olmec tradition, and for some of the earliest examples of Maya writing. The murals, found in 2001 by William Saturno inside a pyramid known as Las Pinturas, have been carbon-dated to about 100 BCE. They depict scenes of Maya creation mythology, the life of the maize god, and the crowning of a king.",
+   "alternatives": [
+    {
+     "label": "Myths older than the books",
+     "text": "William Saturno, David Stuart and Karl Taube have argued that the north and west walls show creation mythology reminiscent of the Popol Vuh, the K'iche' Maya book written down in the colonial era, as well as of Yucatec traditions."
+    },
+    {
+     "label": "Early kingship",
+     "text": "The coronation scene, showing the divine right to rule coming from the gods, is taken as evidence that the Maya had full-fledged monarchies centuries earlier than previously thought."
+    },
+    {
+     "label": "Death of the maize god?",
+     "text": "One scene shows the maize god flying in the sky or perhaps falling into the water; it has been suggested to represent the death of the deity, but readings of individual scenes vary."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: San Bartolo (Maya site)",
+     "url": "https://en.wikipedia.org/wiki/San_Bartolo_(Maya_site)",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/SBmural.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:SBmural.jpg",
+     "author": "No machine-readable author provided. Authenticmaya~commonswiki assumed (based on copyright claims).",
+     "license": "CC BY-SA 3.0",
+     "title": "SBmural.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "myth-legend",
+    "religion"
+   ],
+   "threads": [
+    "changed-understanding",
+    "creation-myths",
+    "sacred-kingship"
+   ]
+  },
+  {
+   "id": "uluburun-shipwreck",
+   "title": "The Uluburun shipwreck: a Bronze Age world in one cargo",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -1305,
+   "end": null,
+   "dateNote": "Sank c. late 14th century BCE",
+   "evidenceTypes": [
+    "archaeological (underwater)",
+    "dendrochronology",
+    "isotope analysis"
+   ],
+   "mainstream": "Uluburun is a Late Bronze Age shipwreck off Kaş in southern Turkey, found in 1982 by the sponge diver Mehmed Çakır and excavated from 1984 to 1994 by the Institute of Nautical Archaeology under George Bass and Cemal Pulak. The ship, estimated at about 15 metres long with planks of Lebanese cedar, sank in the late 14th century BCE with a cargo of over 20 tonnes: 354 copper ingots (about 10 tonnes) and about a tonne of tin for making bronze, plus jars of terebinth resin, glass ingots, ebony, ivory, gold and silver jewellery, and a gold scarab bearing the name of Queen Nefertiti. A 2022 study traced about 30 percent of the tin to Central Asia (Mušiston in Tajikistan, or Uzbekistan) and about 65 percent to Kestel in Anatolia.",
+   "alternatives": [
+    {
+     "label": "Royal gift or trade?",
+     "text": "The cargo is generally thought to have been intended for a wealthy and powerful recipient, perhaps a Mycenaean king, on a ship sailing west from the Levant or Cyprus; it is impossible to tell whether it was a diplomatic gift like those in the Amarna letters, goods bought by Levantine (Canaanite) merchants for a sponsor, or both."
+    },
+    {
+     "label": "Bronze Age globalisation",
+     "text": "With goods from at least seven areas (Eric Cline calls it a 'microcosm' of international trade), the wreck is cited as evidence of an 'age of internationalism' or ancient 'world-system' that later broke down in the Late Bronze Age collapse."
+    },
+    {
+     "label": "Dating debate",
+     "text": "Tree rings in a branch on board ended in 1305 BCE, but with no bark the felling date is uncertain, and the scarab only shows the ship sank after Nefertiti's time; the exact date of the wreck is still discussed."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Uluburun shipwreck",
+     "url": "https://en.wikipedia.org/wiki/Uluburun_shipwreck",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Late Bronze Age collapse",
+     "url": "https://en.wikipedia.org/wiki/Late_Bronze_Age_collapse",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Uluburun1.jpg/500px-Uluburun1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Uluburun1.jpg",
+     "author": "Martin Bahmann",
+     "license": "CC BY-SA 3.0",
+     "title": "Uluburun1.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history"
+   ],
+   "threads": [
+    "civilisation-collapses",
+    "trade-networks",
+    "bronze-age-world"
+   ]
+  },
+  {
+   "id": "tollense-battlefield",
+   "title": "The Tollense valley: Europe's oldest great battlefield",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -1250,
+   "end": null,
+   "dateNote": "c. 1250 BCE (radiocarbon 1300-1200 BCE)",
+   "evidenceTypes": [
+    "archaeological",
+    "osteological",
+    "isotope and DNA analysis"
+   ],
+   "mainstream": "In 1996 a volunteer found an arm bone with a flint arrowhead embedded in it on the bank of the small Tollense river in north-eastern Germany. Excavations since 2007 have uncovered the remains of about 140 people (by 2017), over 40 skulls, many with battle wounds, horse bones, bronze and flint arrowheads, wooden clubs and other weapons, all radiocarbon-dated to around 1300-1200 BCE. Estimates suggest perhaps 4,000 warriors from Central and Northern Europe took part. A bundle of 31 bronze items, and the forms of many arrowheads, suggest that some fighters came from southern Central Europe, hundreds of kilometres away.",
+   "alternatives": [
+    {
+     "label": "Organised war",
+     "text": "The finds forced archaeologists to rethink Bronze Age Europe, previously imagined as largely peaceful, with weapons as status symbols; a quarter of the skeletons show healed earlier injuries, suggesting experienced fighters, some mounted, and one theory is that a better-armed group was trying to cross the valley on a centuries-old causeway."
+    },
+    {
+     "label": "Part of a wider crisis",
+     "text": "Kristian Kristiansen and others link the battle to an era of upheaval stretching from the Mediterranean to the Baltic, the same period as the Late Bronze Age collapse in the eastern Mediterranean."
+    },
+    {
+     "label": "How big was it?",
+     "text": "The size of the battle is an extrapolation: by 2017 only 460 square metres had been excavated of a battlefield thought to be at least ten times larger, and estimates of the dead range from about 750 to more than 1,000."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Tollense valley battlefield",
+     "url": "https://en.wikipedia.org/wiki/Tollense_valley_battlefield",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Late Bronze Age collapse",
+     "url": "https://en.wikipedia.org/wiki/Late_Bronze_Age_collapse",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Oldest_Battlefield_in_Europe%2C_c._1300_BC_%2828650719592%29.jpg/500px-Oldest_Battlefield_in_Europe%2C_c._1300_BC_%2828650719592%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Oldest_Battlefield_in_Europe,_c._1300_BC_(28650719592).jpg",
+     "author": "Gary Todd from Xinzheng, China",
+     "license": "CC0",
+     "title": "Oldest_Battlefield_in_Europe,_c._1300_BC_(28650719592).jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history"
+   ],
+   "threads": [
+    "changed-understanding",
+    "civilisation-collapses",
+    "bronze-age-world"
+   ]
+  },
+  {
+   "id": "pedra-furada",
+   "title": "Pedra Furada: humans in Brazil 30,000+ years ago, or monkeys and rockfalls?",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": -30000,
+   "end": null,
+   "dateNote": "Disputed dates 48,000-32,000 years ago",
+   "evidenceTypes": [
+    "archaeological",
+    "radiocarbon",
+    "rock art"
+   ],
+   "mainstream": "Pedra Furada is a rock shelter in the Serra da Capivara of Piauí, north-eastern Brazil, part of a region with over 800 archaeological sites and hundreds of rock paintings, the oldest about 12,000 years old. Excavations from 1973 by a Brazilian-French team led by Niède Guidon found charcoal from hearths and broken quartz and quartzite stones dated to between about 48,000 and 32,000 years ago; Guidon first reported the dates in Nature in 1986. The region became a World Heritage Site in 1991.",
+   "alternatives": [
+    {
+     "label": "Very early Americans",
+     "text": "Guidon and her supporters argue that the hearths and tools show humans in South America tens of thousands of years before the Clovis culture; in 2014 Guidon suggested people might have arrived by boat from Africa, perhaps 100,000 years ago."
+    },
+    {
+     "label": "Natural causes",
+     "text": "Many archaeologists, such as James Adovasio, argue the 'tools' are geofacts, stones broken by falling from the cliff, and the charcoal from natural fires; geneticists note there is no genetic trace of such an early population in living Native Americans."
+    },
+    {
+     "label": "Monkey tools",
+     "text": "In 2016 researchers reported that wild bearded capuchin monkeys in Serra da Capivara break stones and unintentionally produce sharp flakes that look like human-made tools, which complicates the identification of the oldest stone artefacts in the region."
+    },
+    {
+     "label": "Shifting consensus",
+     "text": "The 'Clovis first' model has been largely abandoned since Monte Verde in Chile, generally dated to about 14,500 years ago, was widely (though not universally) accepted; Pedra Furada's far older dates have not won the same acceptance."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Pedra Furada",
+     "url": "https://en.wikipedia.org/wiki/Pedra_Furada",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Carbon-14 dates point to man in the Americas 32,000 years ago",
+     "authors": "Guidon, N. et al.",
+     "year": 1986,
+     "doi": "10.1038/321769a0",
+     "type": "paper"
+    },
+    {
+     "title": "Wild monkeys flake stone tools",
+     "authors": "Proffitt, T. et al.",
+     "year": 2016,
+     "doi": "10.1038/nature20112",
+     "type": "paper"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/20030924PPedraFurada9.jpg/500px-20030924PPedraFurada9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:20030924PPedraFurada9.jpg",
+     "author": "Cleude",
+     "license": "Public domain",
+     "title": "20030924PPedraFurada9.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "anomalies"
+   ],
+   "threads": [
+    "changed-understanding",
+    "human-origins",
+    "lost-evidence",
+    "first-americans"
+   ]
+  },
+  {
+   "id": "inga-stone",
+   "title": "The Ingá Stone: Brazil's undeciphered rock of signs",
+   "lane": "myth",
+   "status": "disputed",
+   "priority": 3,
+   "start": 1000,
+   "end": null,
+   "dateNote": "Age unknown; date shown is a placeholder for pre-colonial carving",
+   "evidenceTypes": [
+    "rock art",
+    "archaeoastronomical interpretation"
+   ],
+   "mainstream": "The Ingá Stone (Pedra do Ingá or Itacoatiara do Ingá; ita means 'stone' in Tupi) is a gneiss rock formation in the Ingá River in Paraíba state, north-eastern Brazil. A vertical wall about 46 metres long and 3.8 metres high, and surrounding areas, are covered with deeply carved low-relief symbols, including what may be animals, fruits, humans and astronomical features. The meaning of the signs is unknown, and the site is threatened by scavengers and vandals.",
+   "alternatives": [
+    {
+     "label": "Indigenous art",
+     "text": "Scholars attribute the carvings to Indigenous peoples who lived in the area until the 18th century."
+    },
+    {
+     "label": "Sky calendar",
+     "text": "From 1976 the Spanish engineer Francisco Pavía Alemany studied the site mathematically and argued that cup-marks and signs formed a solar calendar and representations of constellations such as Orion and the Milky Way."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Ingá Stone",
+     "url": "https://en.wikipedia.org/wiki/Ing%C3%A1_Stone",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Itacoatiaras_de_Ing%C3%A1_-_Ing%C3%A1_Para%C3%ADba_Brasil.jpg/500px-Itacoatiaras_de_Ing%C3%A1_-_Ing%C3%A1_Para%C3%ADba_Brasil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Itacoatiaras_de_Ing%C3%A1_-_Ing%C3%A1_Para%C3%ADba_Brasil.jpg",
+     "author": "Lucia Barreiros da Silva",
+     "license": "CC BY-SA 3.0",
+     "title": "Itacoatiaras_de_Ingá_-_Ingá_Paraíba_Brasil.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "anomalies",
+    "lost-civilisations"
+   ],
+   "threads": [
+    "ancient-astronomy",
+    "decipherments"
+   ]
+  },
+  {
+   "id": "hunga-tonga-2022",
+   "title": "Hunga Tonga 2022: the biggest atmospheric explosion ever recorded",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 2022,
+   "end": null,
+   "dateNote": "15 January 2022",
+   "evidenceTypes": [
+    "instrumental (satellite, barometric, tide gauge)"
+   ],
+   "mainstream": "On 15 January 2022 the submarine volcano Hunga Tonga-Hunga Haʻapai, 65 km north of Tongatapu, erupted in a climax that produced the largest atmospheric explosion recorded by modern instruments. Its plume reached about 57-58 km, into the mesosphere; the pressure wave circled the Earth several times and was recorded by weather stations worldwide; tens of thousands of lightning flashes were detected; and tsunamis reached Japan, the Americas and beyond. In Tonga waves of up to 15 m struck, and at least four people died there, plus two in Peru. The eruption also blasted an estimated 146 million tonnes of water into the stratosphere, about 10 percent of its normal water vapour.",
+   "alternatives": [
+    {
+     "label": "Warming not cooling",
+     "text": "Big eruptions usually cool the climate with sulphate aerosols, but this one's huge injection of water vapour, a greenhouse gas, is thought by many researchers to have had a net warming effect."
+    },
+    {
+     "label": "Tsunamis from the sky",
+     "text": "The atmospheric pressure wave coupled with the ocean to create tsunamis far from the volcano that arrived earlier than forecast; in Japan, the meteorological agency said the tsunami struck 2.5 hours earlier than predicted."
+    },
+    {
+     "label": "How big?",
+     "text": "Its ranking on the Volcanic Explosivity Index is still debated; in recent centuries only Krakatoa in 1883 is thought to have produced a comparable disturbance of the atmosphere."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: 2022 Hunga Tonga–Hunga Haʻapai eruption and tsunami",
+     "url": "https://en.wikipedia.org/wiki/2022_Hunga_Tonga%E2%80%93Hunga_Ha%CA%BBapai_eruption_and_tsunami",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "The Hunga Tonga‐Hunga Ha'apai Hydration of the Stratosphere",
+     "authors": "Millán, L. et al.",
+     "year": 2022,
+     "doi": "10.1029/2022GL099381",
+     "type": "paper"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Tonga_Volcano_Eruption_2022-01-15_0320Z_to_0610Z_Himawari-8_visible.gif/500px-Tonga_Volcano_Eruption_2022-01-15_0320Z_to_0610Z_Himawari-8_visible.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Tonga_Volcano_Eruption_2022-01-15_0320Z_to_0610Z_Himawari-8_visible.gif",
+     "author": "Japan Meteorological Agency (satellite), Digital Typhoon (website)",
+     "license": "CC BY 4.0",
+     "title": "Tonga_Volcano_Eruption_2022-01-15_0320Z_to_0610Z_Himawari-8_visible.gif"
+    }
+   ],
+   "categories": [
+    "catastrophes",
+    "science-cosmos"
+   ],
+   "threads": [
+    "volcanoes-and-memory",
+    "strange-sounds"
+   ]
+  },
+  {
+   "id": "3i-atlas",
+   "title": "3I/ATLAS: the third interstellar visitor, a comet or alien technology?",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 2025,
+   "end": null,
+   "dateNote": "Discovered 1 July 2025",
+   "evidenceTypes": [
+    "instrumental (telescopes, spacecraft)"
+   ],
+   "mainstream": "3I/ATLAS (C/2025 N1) was discovered on 1 July 2025 by the NASA-funded ATLAS survey telescope in Chile. Its hyperbolic orbit shows it came from outside the Solar System, making it the third known interstellar object after ʻOumuamua (2017) and 2I/Borisov (2019). It passed no closer than about 1.8 AU from Earth and reached perihelion at about 1.36 AU at the end of October 2025. Hubble, Webb, SPHEREx and spacecraft at Mars and elsewhere observed it as an active comet with a coma, unusually rich in carbon dioxide, with water, carbon monoxide, methane, cyanide and nickel vapour detected; images from Hubble and spacecraft suggest its nucleus is less than 1 km across. It came from the Milky Way's thin or thick disk; if from the thick disk, it could be at least 7 billion years old, older than the Solar System.",
+   "alternatives": [
+    {
+     "label": "Comet",
+     "text": "The overwhelming consensus among astronomers is that 3I/ATLAS is a natural comet; its chemistry, though unusual in some respects, resembles that of Solar System comets, and it offers a rare sample of material formed around another star."
+    },
+    {
+     "label": "Alien technology?",
+     "text": "On 16 July 2025 Avi Loeb of Harvard and two colleagues from the Initiative for Interstellar Studies posted an arXiv paper, described by them as largely a pedagogical exercise, hypothesising that it could be technological and even hostile, citing its orbit close to the ecliptic and near approaches to Venus, Mars and Jupiter. They also wrote that the most likely outcome was that it is a natural comet."
+    },
+    {
+     "label": "Criticism",
+     "text": "Astronomers including Chris Lintott, Samantha Lawler, Scott Manley and David Kipping criticised the paper's reasoning and statistics, and Snopes and others noted that viral claims of an alien ship heading for Earth misrepresented it. In 2017 Loeb had similarly raised the possibility that ʻOumuamua was artificial."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: 3I/ATLAS",
+     "url": "https://en.wikipedia.org/wiki/3I%2FATLAS",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "NASA Science: Comet 3I/ATLAS",
+     "url": "https://science.nasa.gov/solar-system/comets/3i-atlas/",
+     "type": "official"
+    },
+    {
+     "title": "Hibberd, Crowl & Loeb (2025) Is the Interstellar Object 3I/ATLAS Alien Technology? arXiv:2507.12213",
+     "url": "https://arxiv.org/abs/2507.12213",
+     "type": "preprint"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/3I-ATLAS_noirlab2532b.jpg/500px-3I-ATLAS_noirlab2532b.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:3I-ATLAS_noirlab2532b.jpg",
+     "author": "International Gemini Observatory/NOIRLab/NSF/AURA/B. Bolin\n\nImage Processing: J. Miller & M. Rodriguez (International Ge",
+     "license": "CC BY 4.0",
+     "title": "3I-ATLAS_noirlab2532b.jpg"
+    }
+   ],
+   "categories": [
+    "science-cosmos",
+    "aliens-ufo",
+    "anomalies"
+   ],
+   "threads": [
+    "seeing-what-we-expect",
+    "life-beyond-earth",
+    "interstellar-visitors"
    ]
   }
  ]

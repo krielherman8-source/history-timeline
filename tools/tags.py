@@ -1432,3 +1432,32 @@ addt('knowledge-and-power','akbar-ibadat-khana akbar-dumb-house')
 addt('tested-by-experiment','akbar-dumb-house')
 addt('erased-from-history','taj-mahal-tejo-mahalaya')
 addt('sacred-relics','koh-i-noor-curse')
+# batch 15 part 4
+C.update({
+'oc-eo-funan':'history archaeology myth-legend lost-civilisations','bagan-pagan-kingdom':'history archaeology myth-legend religion catastrophes',
+'aguada-fenix':'archaeology lost-civilisations','san-bartolo-murals':'archaeology myth-legend religion',
+'uluburun-shipwreck':'archaeology history','tollense-battlefield':'archaeology history',
+'pedra-furada':'archaeology anomalies','inga-stone':'archaeology anomalies lost-civilisations',
+'hunga-tonga-2022':'catastrophes science-cosmos','3i-atlas':'science-cosmos aliens-ufo anomalies'})
+addt('founding-ancestors','oc-eo-funan bagan-pagan-kingdom tin-hinan selkies scythian-amazons hawaiki')
+addt('interstellar-visitors','3i-atlas oumuamua')
+addt('first-americans','pedra-furada monte-verde clovis-first white-sands-footprints kennewick-man')
+addt('bronze-age-world','uluburun-shipwreck tollense-battlefield bronze-collapse amber-road nebra-sky-disc tartessos troy wilusa thera')
+addt('raised-in-isolation','akbar-dumb-house kaspar-hauser')
+addt('serpent-beings','oc-eo-funan bagan-pagan-kingdom')
+addt('sacred-kingship','oc-eo-funan bagan-pagan-kingdom san-bartolo-murals')
+addt('trade-networks','oc-eo-funan uluburun-shipwreck')
+addt('silk-road','oc-eo-funan')
+addt('earthquake-lore','bagan-pagan-kingdom')
+addt('giant-monuments','bagan-pagan-kingdom aguada-fenix')
+addt('changed-understanding','aguada-fenix tollense-battlefield san-bartolo-murals pedra-furada')
+addt('creation-myths','san-bartolo-murals')
+addt('civilisation-collapses','uluburun-shipwreck tollense-battlefield')
+addt('lost-evidence','pedra-furada')
+addt('human-origins','pedra-furada')
+addt('ancient-astronomy','inga-stone')
+addt('decipherments','inga-stone')
+addt('volcanoes-and-memory','hunga-tonga-2022')
+addt('strange-sounds','hunga-tonga-2022')
+addt('life-beyond-earth','3i-atlas')
+addt('seeing-what-we-expect','3i-atlas')
