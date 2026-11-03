@@ -1481,3 +1481,23 @@ addt('ancient-technology','nemi-ships talos-automaton')
 addt('lost-libraries','herculaneum-papyri library-alexandria')
 addt('volcanoes-and-memory','herculaneum-papyri pompeii')
 addt('lost-treasures','nemi-ships')
+# batch 16 part 2
+C.update({
+'sungir-burials':'archaeology history','kostenki':'archaeology science-cosmos','rurik-varangians':'history myth-legend',
+'tsar-bomba':'history science-cosmos','petrozavodsk-1977':'aliens-ufo anomalies','lake-vostok':'science-cosmos anomalies',
+'qalupalik':'myth-legend','kushtaka':'myth-legend','raven-tradition':'myth-legend religion','ozette-village':'archaeology history catastrophes'})
+addt('ice-age-burials','sungir-burials kostenki lake-mungo taforalt sima-de-los-huesos')
+addt('genetic-migrations','sungir-burials kostenki')
+addt('human-origins','kostenki')
+addt('founding-ancestors','rurik-varangians')
+addt('cold-war-secrets','tsar-bomba petrozavodsk-1977')
+addt('space-race','petrozavodsk-1977')
+addt('seeing-what-we-expect','petrozavodsk-1977')
+addt('mysterious-lights','petrozavodsk-1977')
+addt('life-beyond-earth','lake-vostok')
+addt('underground-worlds','lake-vostok')
+addt('water-spirits','qalupalik kushtaka')
+addt('shapeshifters','kushtaka raven-tradition')
+addt('creation-myths','raven-tradition')
+addt('stories-proven-true','ozette-village')
+addt('vanished-landscapes','ozette-village')

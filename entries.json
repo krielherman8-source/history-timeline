@@ -8457,7 +8457,8 @@
     "religion"
    ],
    "threads": [
-    "changed-understanding"
+    "changed-understanding",
+    "ice-age-burials"
    ]
   },
   {
@@ -33185,7 +33186,8 @@
     "archaeology"
    ],
    "threads": [
-    "human-origins"
+    "human-origins",
+    "ice-age-burials"
    ]
   },
   {
@@ -33723,7 +33725,8 @@
    ],
    "threads": [
     "human-origins",
-    "genetic-migrations"
+    "genetic-migrations",
+    "ice-age-burials"
    ]
   },
   {
@@ -36200,6 +36203,446 @@
     "volcanoes-and-memory",
     "lost-libraries",
     "decipherments"
+   ]
+  },
+  {
+   "id": "sungir-burials",
+   "title": "Sungir: Ice Age burials with thousands of beads",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -32000,
+   "end": null,
+   "evidenceTypes": [
+    "archaeological",
+    "radiocarbon",
+    "genetic (ancient DNA)"
+   ],
+   "mainstream": "Sungir, near Vladimir in Russia, is an Upper Palaeolithic site excavated from 1957 by Otto Bader. Its burials, dated to about 34,000-31,000 years ago, include an adult man and two children buried head to head, wearing clothing sewn with more than 13,000 mammoth-ivory beads in total, along with ivory spears, carved animals and fox-tooth belts. Making the beads would have taken thousands of hours. Ancient DNA (Sikora et al., 2017) showed the individuals were not close relatives, suggesting these hunter-gatherers avoided inbreeding through wider social networks.",
+   "alternatives": [
+    {
+     "label": "Social rank",
+     "text": "The rich child burials have been read as evidence of inherited status in Ice Age society; others suggest the children were special for other reasons, such as ritual roles, since one had a skeletal condition."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Sungir",
+     "url": "https://en.wikipedia.org/wiki/Sungir",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Ancient genomes show social and reproductive behavior of early Upper Paleolithic foragers",
+     "authors": "Sikora, M. et al.",
+     "year": 2017,
+     "doi": "10.1126/science.aao1807",
+     "type": "paper"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Sunghir-tumba_paleol%C3%ADtica.jpg/500px-Sunghir-tumba_paleol%C3%ADtica.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Sunghir-tumba_paleol%C3%ADtica.jpg",
+     "author": "José-Manuel Benito Álvarez",
+     "license": "Public domain",
+     "title": "Sunghir-tumba_paleolítica.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history"
+   ],
+   "threads": [
+    "genetic-migrations",
+    "ice-age-burials"
+   ]
+  },
+  {
+   "id": "rurik-varangians",
+   "title": "Rurik and the calling of the Varangians",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 862,
+   "end": null,
+   "evidenceTypes": [
+    "textual",
+    "archaeological",
+    "genetic"
+   ],
+   "mainstream": "The Russian Primary Chronicle, compiled in Kyiv around 1113, says that in 862 feuding Slavic and Finnic tribes invited a Varangian (Scandinavian) named Rurik and his brothers to rule them, founding the dynasty that ruled Rus' and later Muscovy until 1598. Archaeology at Staraya Ladoga, Gnezdovo and Novgorod confirms a strong Scandinavian presence in the 9th-10th centuries. Whether Rurik himself existed as described is uncertain, since the chronicle was written 250 years later.",
+   "alternatives": [
+    {
+     "label": "Normanist vs anti-Normanist",
+     "text": "From the 18th century a long, often politicised debate set the Normanist view (Scandinavian founders of the Rus' state) against anti-Normanists who stressed Slavic origins; most historians now accept a substantial Scandinavian role alongside Slavic, Finnic and Baltic peoples."
+    },
+    {
+     "label": "Identity of Rurik",
+     "text": "Some historians have tentatively identified Rurik with Rorik of Dorestad, a Danish Viking known from Frankish sources; this is not proven."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Rurik",
+     "url": "https://en.wikipedia.org/wiki/Rurik",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Primary Chronicle",
+     "url": "https://en.wikipedia.org/wiki/Primary_Chronicle",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/1000_Rurik.JPG/500px-1000_Rurik.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:1000_Rurik.JPG",
+     "author": "Дар Ветер",
+     "license": "CC BY-SA 3.0",
+     "title": "1000_Rurik.JPG"
+    }
+   ],
+   "categories": [
+    "history",
+    "myth-legend"
+   ],
+   "threads": [
+    "founding-ancestors"
+   ]
+  },
+  {
+   "id": "tsar-bomba",
+   "title": "Tsar Bomba, the largest explosion ever made",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1961,
+   "end": null,
+   "evidenceTypes": [
+    "documentary",
+    "instrumental"
+   ],
+   "mainstream": "On 30 October 1961 the Soviet Union detonated the AN602 hydrogen bomb, later nicknamed Tsar Bomba, over Novaya Zemlya in the Arctic. Its yield was about 50 megatons, roughly 1,500 times the Hiroshima and Nagasaki bombs combined; it was designed for 100 megatons but scaled down to reduce fallout. The mushroom cloud rose about 60 km and windows broke hundreds of kilometres away. It was a demonstration and was never meant as a practical weapon.",
+   "alternatives": [
+    {
+     "label": "Propaganda value",
+     "text": "Historians generally see the test as a political display during the Berlin crisis rather than a military step; the full yield figures were confirmed after the Soviet era."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Tsar Bomba",
+     "url": "https://en.wikipedia.org/wiki/Tsar_Bomba",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [],
+   "categories": [
+    "history",
+    "science-cosmos"
+   ],
+   "threads": [
+    "cold-war-secrets"
+   ]
+  },
+  {
+   "id": "petrozavodsk-1977",
+   "title": "Petrozavodsk phenomenon",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 3,
+   "start": 1977,
+   "end": null,
+   "evidenceTypes": [
+    "eyewitness",
+    "documentary"
+   ],
+   "mainstream": "Early on 20 September 1977 residents of Petrozavodsk in Soviet Karelia and observers across northern Europe saw a glowing 'jellyfish' shaped object with rays of light. Soviet press reports led to an official study (programme 'Setka'). Researchers, including Yuli Platov and others in the Soviet Academy of Sciences, attributed it to the launch of the secret Kosmos-955 satellite from the Plesetsk cosmodrome, whose rocket exhaust lit by the sun at high altitude produced the effect.",
+   "alternatives": [
+    {
+     "label": "Rocket explanation",
+     "text": "The rocket launch explanation is accepted by most researchers and matches the timing; similar lights were later seen after other Plesetsk launches."
+    },
+    {
+     "label": "Unexplained",
+     "text": "Some UFO researchers argue that not all reports, such as claims of holes in windows, are explained by a launch; these claims are not verified."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Petrozavodsk phenomenon",
+     "url": "https://en.wikipedia.org/wiki/Petrozavodsk_phenomenon",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [],
+   "categories": [
+    "aliens-ufo",
+    "anomalies"
+   ],
+   "threads": [
+    "mysterious-lights",
+    "seeing-what-we-expect",
+    "space-race",
+    "cold-war-secrets"
+   ]
+  },
+  {
+   "id": "lake-vostok",
+   "title": "Lake Vostok: a lake sealed under Antarctic ice",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 3,
+   "start": 1996,
+   "end": null,
+   "evidenceTypes": [
+    "instrumental",
+    "glaciological"
+   ],
+   "mainstream": "Lake Vostok lies about 4 km beneath the ice near Russia's Vostok Station in Antarctica and is the largest known subglacial lake, about 250 km long. It was suggested by Russian geographer Andrey Kapitsa from seismic soundings in the 1950s-60s and confirmed by radar and satellite data in 1996. It may have been isolated for millions of years. Russian drilling reached the lake water in 2012. Analyses of refrozen water have reported possible DNA traces of microbes, but contamination from drilling fluid makes these results disputed.",
+   "alternatives": [
+    {
+     "label": "Life in the lake",
+     "text": "Some studies (e.g. 2013) reported thousands of gene sequences suggesting a diverse ecosystem; critics argue these mostly reflect contamination. It is also studied as an analogue for ice-covered moons such as Europa."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Lake Vostok",
+     "url": "https://en.wikipedia.org/wiki/Lake_Vostok",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Lake_Vostok_Sat_Photo_color.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Lake_Vostok_Sat_Photo_color.jpg",
+     "author": "Goddard Space Flight Center",
+     "license": "Public domain",
+     "title": "Lake_Vostok_Sat_Photo_color.jpg"
+    }
+   ],
+   "categories": [
+    "science-cosmos",
+    "anomalies"
+   ],
+   "threads": [
+    "underground-worlds",
+    "life-beyond-earth"
+   ]
+  },
+  {
+   "id": "qalupalik",
+   "title": "Qalupalik, the Inuit sea creature",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 3,
+   "start": 1000,
+   "end": null,
+   "dateNote": "Traditional; date is a placeholder for Inuit oral tradition",
+   "evidenceTypes": [
+    "oral tradition"
+   ],
+   "mainstream": "In Inuit oral tradition the qalupalik is a human-like creature with green skin and long hair that lives in the sea and snatches children who wander too close to the water's edge or the ice, carrying them off in a pouch or amauti on its back. Its humming may be heard before it appears. Folklorists note that such stories also served to keep children away from dangerous sea ice. The tradition is old; the date shown is a placeholder.",
+   "alternatives": [
+    {
+     "label": "Function",
+     "text": "Scholars generally interpret the qalupalik as a cautionary tale, while for many Inuit it is also part of a living spiritual world of sea beings."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Qallupilluit",
+     "url": "https://en.wikipedia.org/wiki/Qallupilluit",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [],
+   "categories": [
+    "myth-legend"
+   ],
+   "threads": [
+    "water-spirits"
+   ]
+  },
+  {
+   "id": "kushtaka",
+   "title": "Kushtaka, the land-otter people",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 3,
+   "start": 1000,
+   "end": null,
+   "dateNote": "Traditional; date is a placeholder",
+   "evidenceTypes": [
+    "oral tradition"
+   ],
+   "mainstream": "In the traditions of the Tlingit and Tsimshian peoples of south-east Alaska and British Columbia, the kushtaka ('land otter man') is a shapeshifting being that can take human form, lure people (especially those lost or drowning at sea) by imitating the cries of babies or relatives, and turn them into kushtaka. Shamans were said to be able to rescue victims.",
+   "alternatives": [
+    {
+     "label": "Interpretations",
+     "text": "Anthropologists link the stories to the real dangers of drowning and exposure; some cryptid writers have connected them to Bigfoot-like creatures, which is speculative."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Kushtaka",
+     "url": "https://en.wikipedia.org/wiki/Kushtaka",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [],
+   "categories": [
+    "myth-legend"
+   ],
+   "threads": [
+    "shapeshifters",
+    "water-spirits"
+   ]
+  },
+  {
+   "id": "kostenki",
+   "title": "Kostenki: early modern humans on the Don",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 3,
+   "start": -45000,
+   "end": null,
+   "evidenceTypes": [
+    "archaeological",
+    "genetic (ancient DNA)",
+    "radiocarbon"
+   ],
+   "mainstream": "The Kostenki-Borshchevo sites on the Don River in Russia contain over 20 Upper Palaeolithic sites, some layers dated to around 45,000-42,000 years ago, among the earliest evidence of modern humans on the East European plain. Later layers include mammoth-bone dwellings. The genome of 'Kostenki 14', a man who lived about 37,000 years ago, published in 2014, showed that the main ancestral lineages of later Europeans had already split by then.",
+   "alternatives": [
+    {
+     "label": "Early arrival",
+     "text": "The earliest dates, below a volcanic ash layer from the Campanian Ignimbrite eruption (about 40,000 years ago), are taken by many as evidence of a fast spread of modern humans; some researchers question the cultural attribution of the oldest layers."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Kostyonki–Borshchyovo",
+     "url": "https://en.wikipedia.org/wiki/Kostyonki%E2%80%93Borshchyovo",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Genomic structure in Europeans dating back at least 36,200 years",
+     "authors": "Seguin-Orlando, A. et al.",
+     "year": 2014,
+     "doi": "10.1126/science.aaa0114",
+     "type": "paper"
+    }
+   ],
+   "media": [],
+   "categories": [
+    "archaeology",
+    "science-cosmos"
+   ],
+   "threads": [
+    "human-origins",
+    "genetic-migrations",
+    "ice-age-burials"
+   ]
+  },
+  {
+   "id": "raven-tradition",
+   "title": "Raven steals the light",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 3,
+   "start": 1000,
+   "end": null,
+   "dateNote": "Traditional; date is a placeholder",
+   "evidenceTypes": [
+    "oral tradition"
+   ],
+   "mainstream": "Across the North Pacific coast, among the Tlingit, Haida, Tsimshian and others, the trickster and creator Raven is central to oral tradition. In a widespread story the world is dark because a chief keeps the sun, moon and stars in boxes; Raven becomes a hemlock needle, is swallowed by the chief's daughter, is reborn as her son, and as a spoiled child persuades his grandfather to let him play with the boxes, releasing the light. Related Raven stories are told in Siberia among the Chukchi and Koryak.",
+   "alternatives": [
+    {
+     "label": "Transpacific links",
+     "text": "Shared Raven stories in Siberia and North-West America have been read by some folklorists as evidence of very old connections across the Bering region; others see parallel development."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Ravens in Native American mythology",
+     "url": "https://en.wikipedia.org/wiki/Ravens_in_Native_American_mythology",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/The_Raven_Flood_Totem._-_NARA_-_298052.jpg/500px-The_Raven_Flood_Totem._-_NARA_-_298052.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:The_Raven_Flood_Totem._-_NARA_-_298052.jpg",
+     "author": "Unknown authorUnknown author or not provided",
+     "license": "Public domain",
+     "title": "The_Raven_Flood_Totem._-_NARA_-_298052.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion"
+   ],
+   "threads": [
+    "creation-myths",
+    "shapeshifters"
+   ]
+  },
+  {
+   "id": "ozette-village",
+   "title": "Ozette: a village buried by a mudslide",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 3,
+   "start": 1560,
+   "end": null,
+   "dateNote": "Radiocarbon c. 1560; some sources say c. 1750",
+   "evidenceTypes": [
+    "archaeological",
+    "radiocarbon"
+   ],
+   "mainstream": "Ozette, a Makah village on the Olympic Peninsula coast of Washington State, was partly engulfed by a mudslide, dated by radiocarbon to around 1560 (other accounts give around 1750). Waterlogged clay preserved collapsed houses and their contents, giving an unusually complete picture of a whaling and fishing community before abandonment or looting: tens of thousands of objects such as baskets, harpoons, weaving gear and a carved cedar whale fin inlaid with sea-otter teeth. After storm erosion exposed the site, it was excavated from 1970 to 1981 by the Makah together with Washington State University archaeologists. Finds are kept at the Makah Museum in Neah Bay.",
+   "alternatives": [
+    {
+     "label": "Dating",
+     "text": "The exact date of the slide differs between sources, and more than one slide may have affected the village over time."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Ozette Indian Village Archeological Site",
+     "url": "https://en.wikipedia.org/wiki/Ozette_Indian_Village_Archeological_Site",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Makah Museum",
+     "url": "https://en.wikipedia.org/wiki/Makah_Museum",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Ozette_village.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Ozette_village.jpg",
+     "author": "National Register of Historic Places",
+     "license": "Public domain",
+     "title": "Ozette_village.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history",
+    "catastrophes"
+   ],
+   "threads": [
+    "stories-proven-true",
+    "vanished-landscapes"
    ]
   }
  ]
