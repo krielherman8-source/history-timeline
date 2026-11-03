@@ -7207,7 +7207,8 @@
    ],
    "threads": [
     "sky-omens",
-    "volcanoes-and-memory"
+    "volcanoes-and-memory",
+    "storms-that-changed-history"
    ]
   },
   {
@@ -34610,7 +34611,8 @@
    "threads": [
     "flood-myths",
     "vanished-landscapes",
-    "abandoned-babies"
+    "abandoned-babies",
+    "storms-that-changed-history"
    ]
   },
   {
@@ -36643,6 +36645,480 @@
    "threads": [
     "stories-proven-true",
     "vanished-landscapes"
+   ]
+  },
+  {
+   "id": "sannai-maruyama",
+   "title": "Sannai-Maruyama: a large Jomon village",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 3,
+   "start": -3900,
+   "end": null,
+   "evidenceTypes": [
+    "archaeological",
+    "radiocarbon"
+   ],
+   "mainstream": "Sannai-Maruyama in Aomori, northern Japan, was a settlement of Jomon hunter-gatherers occupied from about 3900 to 2200 BCE. Excavations from 1992, when the site was due to become a baseball stadium, revealed hundreds of pit dwellings, large buildings, storehouses, burial areas, thousands of clay figurines (dogu) and the post holes of a structure built on six huge chestnut posts. Evidence suggests chestnut trees were managed. It is part of the UNESCO World Heritage 'Jomon Prehistoric Sites in Northern Japan' (2021).",
+   "alternatives": [
+    {
+     "label": "Complexity",
+     "text": "The size and long occupation challenge the old idea that complex settled communities require farming; how many people lived there at once is debated."
+    },
+    {
+     "label": "Six-pillar structure",
+     "text": "Its purpose is unknown; proposals include a watchtower, a shrine or a platform aligned with the solstices, and the reconstruction on site is a hypothesis."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Sannai-Maruyama Site",
+     "url": "https://en.wikipedia.org/wiki/Sannai-Maruyama_Site",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Jomon Prehistoric Sites in Northern Japan (UNESCO)",
+     "url": "https://whc.unesco.org/en/list/1632/",
+     "type": "heritage"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/140913_Sannai-Maruyama_site_Aomori_Japan01bs6bs6.jpg/500px-140913_Sannai-Maruyama_site_Aomori_Japan01bs6bs6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:140913_Sannai-Maruyama_site_Aomori_Japan01bs6bs6.jpg",
+     "author": "663highland",
+     "license": "CC BY 2.5",
+     "title": "140913_Sannai-Maruyama_site_Aomori_Japan01bs6bs6.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history"
+   ],
+   "threads": [
+    "changed-understanding",
+    "hunter-gatherer-monuments"
+   ]
+  },
+  {
+   "id": "kamikaze-typhoons",
+   "title": "The kamikaze: divine winds against the Mongol fleets",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1274,
+   "end": 1281,
+   "evidenceTypes": [
+    "textual",
+    "archaeological (underwater)"
+   ],
+   "mainstream": "Kublai Khan's Mongol-led Yuan dynasty attempted to invade Japan in 1274 and 1281. Both times storms struck the fleet: the 1281 fleet, reportedly with over 4,000 ships, was destroyed by a typhoon off Takashima. The Japanese came to call these 'kamikaze' (divine winds), sent in answer to prayers at shrines such as Ise. Underwater archaeology at Takashima from the 1980s has found wrecks, anchors, weapons and early explosive bombs (tetsuhau); study suggested many ships were hastily built river boats unsuited to the open sea.",
+   "alternatives": [
+    {
+     "label": "Role of the storms",
+     "text": "Some historians stress the samurai defence and the coastal wall at Hakata as much as the storms; the 1274 storm is less certain in sources than that of 1281."
+    },
+    {
+     "label": "Legacy",
+     "text": "The idea of divine protection was later used in nationalist ideology and gave its name to the suicide pilots of 1944-45."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Kamikaze (typhoon)",
+     "url": "https://en.wikipedia.org/wiki/Kamikaze_(typhoon)",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Mongol invasions of Japan",
+     "url": "https://en.wikipedia.org/wiki/Mongol_invasions_of_Japan",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Mongol_invasions_of_Japan_1274%2C_1281.jpg/500px-Mongol_invasions_of_Japan_1274%2C_1281.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Mongol_invasions_of_Japan_1274,_1281.jpg",
+     "author": "Qiushufang",
+     "license": "CC BY-SA 4.0",
+     "title": "Mongol_invasions_of_Japan_1274,_1281.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "catastrophes",
+    "archaeology",
+    "religion"
+   ],
+   "threads": [
+    "divine-punishment",
+    "storms-that-changed-history"
+   ]
+  },
+  {
+   "id": "kappa",
+   "title": "Kappa, the water imp",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 3,
+   "start": 1700,
+   "end": null,
+   "evidenceTypes": [
+    "folklore",
+    "textual"
+   ],
+   "mainstream": "The kappa is a water spirit (yokai) of Japanese folklore, child-sized with a beak, a shell and a dish-like hollow on its head holding water that gives it strength. It was said to drown people and horses and pull out the shirikodama, a mythical ball in the anus, but also to be polite and to keep promises. Mummified 'kappa' relics kept in temples have been found to be composites or animal remains. Some scholars link kappa stories to drowning deaths and to the bodies of children in rivers.",
+   "alternatives": [
+    {
+     "label": "Origins",
+     "text": "Folklorists see the kappa as an Edo-period merging of earlier river deities and Chinese water creatures; some writers have speculated about aliens or unknown animals, which is unsupported."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Kappa (folklore)",
+     "url": "https://en.wikipedia.org/wiki/Kappa_(folklore)",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Kyoka_Hyaku-Monogatari_Kappa.jpg/500px-Kyoka_Hyaku-Monogatari_Kappa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Kyoka_Hyaku-Monogatari_Kappa.jpg",
+     "author": "竜斎閑人正澄 (Japanese)",
+     "license": "Public domain",
+     "title": "Kyoka_Hyaku-Monogatari_Kappa.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend"
+   ],
+   "threads": [
+    "cryptids",
+    "mummies",
+    "water-spirits"
+   ]
+  },
+  {
+   "id": "bonampak-murals",
+   "title": "Bonampak murals",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 3,
+   "start": 791,
+   "end": null,
+   "evidenceTypes": [
+    "archaeological",
+    "iconographic"
+   ],
+   "mainstream": "In 1946 Giles Healey and the Lacandon Maya brought to outside attention three painted rooms in a small temple at Bonampak, Chiapas, Mexico, painted around 790 CE. The murals show a royal court, a battle, captives being tortured and celebrations, overturning the 1940s view that the Classic Maya were a peaceful society of priest-astronomers.",
+   "alternatives": [
+    {
+     "label": "Interpretation",
+     "text": "The murals were long read as straightforward history; recent scholars note they also served royal propaganda shortly before the site was abandoned."
+    }
+   ],
+   "changed": "Before 1946 many scholars considered the Maya peaceful; Bonampak and the decipherment of Maya glyphs showed frequent warfare.",
+   "sources": [
+    {
+     "title": "Wikipedia: Bonampak",
+     "url": "https://en.wikipedia.org/wiki/Bonampak",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Zona_arqueologica_Bonampak_01_ID_ZA30_DBannasch.jpg/500px-Zona_arqueologica_Bonampak_01_ID_ZA30_DBannasch.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Zona_arqueologica_Bonampak_01_ID_ZA30_DBannasch.jpg",
+     "author": "Dbannasch",
+     "license": "CC BY-SA 4.0",
+     "title": "Zona_arqueologica_Bonampak_01_ID_ZA30_DBannasch.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history"
+   ],
+   "threads": [
+    "changed-understanding"
+   ]
+  },
+  {
+   "id": "mesoamerican-ballgame",
+   "title": "The Mesoamerican ballgame",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -1650,
+   "end": null,
+   "evidenceTypes": [
+    "archaeological",
+    "textual",
+    "iconographic"
+   ],
+   "mainstream": "A ritual team game played with a heavy solid rubber ball was played across Mesoamerica for over 3,000 years. The oldest known court, at Paso de la Amada in Chiapas, dates to about 1650 BCE, and rubber balls from El Manati date to around 1600 BCE. In some contexts the game was linked to cosmology and human sacrifice; in the K'iche' Maya Popol Vuh the Hero Twins play ball against the lords of the underworld, Xibalba. A version called ulama is still played in Sinaloa.",
+   "alternatives": [
+    {
+     "label": "Who was sacrificed",
+     "text": "Popular accounts say the winners were sacrificed; most scholars think captives or losers were, and that practice varied greatly over time and place."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Mesoamerican ballgame",
+     "url": "https://en.wikipedia.org/wiki/Mesoamerican_ballgame",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Pok_ta_pok_ballgame_maya_indians_mexico_3.JPG/500px-Pok_ta_pok_ballgame_maya_indians_mexico_3.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Pok_ta_pok_ballgame_maya_indians_mexico_3.JPG",
+     "author": "de:User:Sputnik",
+     "license": "CC BY-SA 2.5",
+     "title": "Pok_ta_pok_ballgame_maya_indians_mexico_3.JPG"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology",
+    "religion",
+    "myth-legend"
+   ],
+   "threads": [
+    "otherworld-visits",
+    "human-sacrifice"
+   ]
+  },
+  {
+   "id": "huey-tzompantli",
+   "title": "The Huey Tzompantli: the Aztec skull rack",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 3,
+   "start": 1486,
+   "end": null,
+   "dateNote": "Main phases built c. 1486-1502",
+   "evidenceTypes": [
+    "archaeological",
+    "textual"
+   ],
+   "mainstream": "Spanish conquistadors described a great rack of skulls (tzompantli) in front of the Templo Mayor in Tenochtitlan. From 2015, archaeologists of Mexico's INAH excavated part of the Huey Tzompantli in Mexico City, finding a rack and towers of skulls set in mortar, with hundreds of skulls of men, women and children. The finds confirm the scale of Aztec sacrifice described in Spanish and Indigenous sources, though they also show that victims were not only adult male warriors.",
+   "alternatives": [
+    {
+     "label": "Numbers",
+     "text": "Older accounts claimed 130,000 skulls; archaeologists caution that the full count is unknown and the Spanish had reasons to exaggerate."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Tzompantli",
+     "url": "https://en.wikipedia.org/wiki/Tzompantli",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Tzompantli_Duran.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Tzompantli_Duran.jpeg",
+     "author": "Unknown",
+     "license": "Public domain",
+     "title": "Tzompantli_Duran.jpeg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history",
+    "religion"
+   ],
+   "threads": [
+    "stories-proven-true",
+    "human-sacrifice"
+   ]
+  },
+  {
+   "id": "codex-zouche-nuttall",
+   "title": "Codex Zouche-Nuttall and the Mixtec lord Eight Deer",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 3,
+   "start": 1063,
+   "end": 1115,
+   "evidenceTypes": [
+    "textual",
+    "iconographic"
+   ],
+   "mainstream": "The Codex Zouche-Nuttall is one of a few surviving pre-Hispanic Mixtec screenfold books, painted on deerskin and now in the British Museum. It records genealogies and the life of the 11th-century ruler Eight Deer Jaguar Claw (1063-1115), who expanded his power through conquest and alliance and was eventually sacrificed. Many Mixtec codices were destroyed after the Spanish conquest, making this one of the few Indigenous historical books from the Americas.",
+   "alternatives": [
+    {
+     "label": "History or myth",
+     "text": "Scholars debate how far the codices record real events and how far they blend royal history with sacred and mythic time."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Codex Zouche-Nuttall",
+     "url": "https://en.wikipedia.org/wiki/Codex_Zouche-Nuttall",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Eight Deer Jaguar Claw",
+     "url": "https://en.wikipedia.org/wiki/Eight_Deer_Jaguar_Claw",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Codex_Zouche-Nuttall%2C_page_20.jpg/500px-Codex_Zouche-Nuttall%2C_page_20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Codex_Zouche-Nuttall,_page_20.jpg",
+     "author": "Unknown authorUnknown author",
+     "license": "Public domain",
+     "title": "Codex_Zouche-Nuttall,_page_20.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "myth-legend"
+   ],
+   "threads": [
+    "sacred-kingship",
+    "lost-libraries"
+   ]
+  },
+  {
+   "id": "hachiko-statue",
+   "title": "Hachiko, the loyal dog",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 3,
+   "start": 1925,
+   "end": 1935,
+   "evidenceTypes": [
+    "documentary",
+    "photographic"
+   ],
+   "mainstream": "Hachiko was an Akita dog who met his owner, Professor Hidesaburo Ueno, at Shibuya Station in Tokyo each day. After Ueno died suddenly in May 1925, Hachiko kept returning to the station for almost ten years until his death in 1935. His story became famous after a 1932 newspaper article and a statue was put up in 1934. Scientists studied his remains in 2011 and found terminal cancer and a filarial worm infection.",
+   "alternatives": [
+    {
+     "label": "Why he waited",
+     "text": "Some writers suggest that vendors at the station feeding him was one reason he kept coming; this does not alter the documented story of his long vigil."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Hachikō",
+     "url": "https://en.wikipedia.org/wiki/Hachik%C5%8D",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Hachiko.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Hachiko.JPG",
+     "author": "Unknown authorUnknown author",
+     "license": "Public domain",
+     "title": "Hachiko.JPG"
+    }
+   ],
+   "categories": [
+    "history"
+   ],
+   "threads": [
+    "stories-proven-true"
+   ]
+  },
+  {
+   "id": "masakado-curse",
+   "title": "Taira no Masakado's head and the Tokyo curse",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 3,
+   "start": 940,
+   "end": null,
+   "evidenceTypes": [
+    "textual",
+    "folklore"
+   ],
+   "mainstream": "Taira no Masakado was a 10th-century warrior who rebelled against the court in Kyoto and declared himself 'new emperor'. He was killed in 940 and his head was displayed in Kyoto. Legend says the head flew back east to his home region and fell at Shibasaki village, now in central Tokyo, where the Masakado Kubizuka (head mound) still stands among office towers in Otemachi. Popular stories blame misfortunes on his vengeful spirit whenever the mound has been disturbed or threatened by redevelopment, and the site is still carefully maintained and visited.",
+   "alternatives": [
+    {
+     "label": "Historical Masakado",
+     "text": "His revolt is recorded in the Shomonki chronicle; he later became a folk hero and was enshrined at Kanda Myojin."
+    },
+    {
+     "label": "The curse",
+     "text": "The curse stories are folklore; no evidence links disturbance of the mound to the misfortunes, though many people treat the site with respect."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Taira no Masakado",
+     "url": "https://en.wikipedia.org/wiki/Taira_no_Masakado",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Taira_no_Masakado_01.jpg/500px-Taira_no_Masakado_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Taira_no_Masakado_01.jpg",
+     "author": "Unknown authorUnknown author",
+     "license": "Public domain",
+     "title": "Taira_no_Masakado_01.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "history",
+    "anomalies"
+   ],
+   "threads": [
+    "sleeping-heroes",
+    "curses-and-hauntings"
+   ]
+  },
+  {
+   "id": "tsuchinoko",
+   "title": "Tsuchinoko, the fat snake of Japan",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 3,
+   "start": 1700,
+   "end": null,
+   "dateNote": "Edo-period sources; modern sighting boom in the 1970s",
+   "evidenceTypes": [
+    "folklore",
+    "eyewitness"
+   ],
+   "mainstream": "The tsuchinoko is a cryptid of Japanese folklore described as a thick-bodied snake, sometimes able to jump or roll like a hoop, appearing in Edo-period sources. Sightings boomed in the 1970s and several municipalities and companies have offered rewards for a captured specimen. None has ever been confirmed. Sceptics suggest sightings may be of known snakes that have just eaten a large meal, or of other misidentified reptiles.",
+   "alternatives": [
+    {
+     "label": "Undiscovered snake",
+     "text": "Some enthusiasts argue an unknown species of viper may exist in rural Japan; no specimen supports this."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Tsuchinoko",
+     "url": "https://en.wikipedia.org/wiki/Tsuchinoko",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [],
+   "categories": [
+    "myth-legend",
+    "anomalies"
+   ],
+   "threads": [
+    "cryptids"
    ]
   }
  ]

@@ -1501,3 +1501,22 @@ addt('shapeshifters','kushtaka raven-tradition')
 addt('creation-myths','raven-tradition')
 addt('stories-proven-true','ozette-village')
 addt('vanished-landscapes','ozette-village')
+# batch 16 part 3
+C.update({
+'sannai-maruyama':'archaeology history','kamikaze-typhoons':'history catastrophes archaeology religion','masakado-curse':'myth-legend history anomalies',
+'tsuchinoko':'myth-legend anomalies','kappa':'myth-legend','bonampak-murals':'archaeology history','mesoamerican-ballgame':'history archaeology religion myth-legend',
+'huey-tzompantli':'archaeology history religion','codex-zouche-nuttall':'history myth-legend','hachiko-statue':'history'})
+addt('hunter-gatherer-monuments','sannai-maruyama gobekli-tepe')
+addt('changed-understanding','sannai-maruyama bonampak-murals')
+addt('storms-that-changed-history','kamikaze-typhoons st-elizabeth-flood-1421 volcanic-winter-536')
+addt('divine-punishment','kamikaze-typhoons')
+addt('curses-and-hauntings','masakado-curse')
+addt('sleeping-heroes','masakado-curse')
+addt('cryptids','tsuchinoko kappa')
+addt('water-spirits','kappa')
+addt('mummies','kappa')
+addt('human-sacrifice','mesoamerican-ballgame huey-tzompantli carthage-tophet')
+addt('otherworld-visits','mesoamerican-ballgame')
+addt('stories-proven-true','huey-tzompantli hachiko-statue')
+addt('lost-libraries','codex-zouche-nuttall')
+addt('sacred-kingship','codex-zouche-nuttall')
