@@ -1,0 +1,64 @@
+{
+ "tutankhamun-tomb": [
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=AIPhkp6uCEw",
+   "title": "King Tut in Color (Full Episode) | SPECIAL | National Geographic",
+   "channel": "National Geographic"
+  }
+ ],
+ "sea-peoples": [
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=xl9RaHE9ZpI",
+   "title": "The Sea Peoples & The Late Bronze Age Collapse // Ancient History Documentary (1200-1150 BC)",
+   "channel": "History Time"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=B965f8AcNbw",
+   "title": "2. The Bronze Age Collapse - Mediterranean Apocalypse",
+   "channel": "Fall of Civilizations"
+  }
+ ],
+ "talos-automaton": [
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=vVTA-E3G8bQ",
+   "title": "The Greek myth of Talos, the first robot - Adrienne Mayor",
+   "channel": "TED-Ed"
+  }
+ ],
+ "herculaneum-papyri": [
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=7cjmjOj7JlA",
+   "title": "Scrolls discovered in Vesuvius ash reveal Plato’s burial place and final hours | BBC News",
+   "channel": "BBC News"
+  }
+ ],
+ "mesoamerican-ballgame": [
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=VYcWs7qJeCI",
+   "title": "How This Mayan Legend Inspired a Deadly Ballgame",
+   "channel": "Smithsonian Channel"
+  }
+ ],
+ "huey-tzompantli": [
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=ljF0YO1FoqY",
+   "title": "The dark discovery of Mexico's huge tower of human skulls - BBC REEL",
+   "channel": "BBC Global"
+  }
+ ],
+ "tully-monster": [
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=gLkYRU2fOos",
+   "title": "The Bizarre Case of the Tully Monster",
+   "channel": "SciShow"
+  }
+ ]
+}
