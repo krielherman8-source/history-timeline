@@ -1819,7 +1819,8 @@
    ],
    "threads": [
     "ancient-astronomy",
-    "ancient-technology"
+    "ancient-technology",
+    "automata-and-robots"
    ]
   },
   {
@@ -20515,7 +20516,8 @@
    "threads": [
     "hoaxes-exposed",
     "hidden-tombs",
-    "mummies"
+    "mummies",
+    "curses-and-hauntings"
    ]
   },
   {
@@ -29248,7 +29250,8 @@
    ],
    "threads": [
     "hoaxes-exposed",
-    "seeing-what-we-expect"
+    "seeing-what-we-expect",
+    "automata-and-robots"
    ]
   },
   {
@@ -35037,7 +35040,8 @@
    ],
    "threads": [
     "sacred-relics",
-    "lost-treasures"
+    "lost-treasures",
+    "curses-and-hauntings"
    ]
   },
   {
@@ -35686,6 +35690,516 @@
     "seeing-what-we-expect",
     "life-beyond-earth",
     "interstellar-visitors"
+   ]
+  },
+  {
+   "id": "etruscan-origins",
+   "title": "Where did the Etruscans come from?",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": -900,
+   "end": null,
+   "evidenceTypes": [
+    "textual",
+    "archaeological",
+    "genetic (ancient DNA)",
+    "linguistic"
+   ],
+   "mainstream": "The Etruscans dominated central Italy from roughly the 9th century BCE until they were absorbed by Rome, speaking a non-Indo-European language that is readable (it uses a Greek-derived alphabet) but still only partly understood. Ancient writers disagreed about their origin: Herodotus said they came from Lydia in Anatolia, while Dionysius of Halicarnassus said they were native to Italy. Most archaeologists trace Etruscan culture to the local Villanovan culture, and a 2021 ancient-DNA study (Posth et al., Science Advances) found that Etruscans were genetically similar to their Latin neighbours, with steppe-related ancestry and no sign of a recent Anatolian migration.",
+   "alternatives": [
+    {
+     "label": "Lydian migration",
+     "text": "The Herodotus account of a migration from Lydia was long popular and some earlier modern DNA studies of cattle and present-day Tuscans were read as supporting an eastern link; the 2021 ancient-DNA results weigh against this."
+    },
+    {
+     "label": "Language puzzle",
+     "text": "Because Etruscan is related only to the scarcely attested Raetic and Lemnian languages, some researchers propose an Aegean or Alpine connection for the language even if the population was largely local."
+    }
+   ],
+   "changed": "Debated since antiquity; archaeology from the 20th century favoured local origins, and ancient DNA in 2021 found no recent Anatolian ancestry.",
+   "sources": [
+    {
+     "title": "Wikipedia: Etruscan origins",
+     "url": "https://en.wikipedia.org/wiki/Etruscan_origins",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "The origin and legacy of the Etruscans through a 2000-year archeogenomic time transect",
+     "authors": "Posth, C. et al.",
+     "year": 2021,
+     "doi": "10.1126/sciadv.abi7673",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: Etruscan civilization",
+     "url": "https://en.wikipedia.org/wiki/Etruscan_civilization",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Etruscan_civilization_map.png/500px-Etruscan_civilization_map.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Etruscan_civilization_map.png",
+     "author": "NormanEinstein",
+     "license": "CC BY-SA 3.0",
+     "title": "Etruscan_civilization_map.png"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology"
+   ],
+   "threads": [
+    "changed-understanding",
+    "ancestral-homelands",
+    "genetic-migrations"
+   ]
+  },
+  {
+   "id": "liber-linteus",
+   "title": "Liber Linteus: an Etruscan book wrapped around an Egyptian mummy",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 3,
+   "start": -250,
+   "end": null,
+   "evidenceTypes": [
+    "textual",
+    "archaeological"
+   ],
+   "mainstream": "The Liber Linteus Zagrabiensis is the longest surviving Etruscan text and the only known surviving linen book from antiquity. It was cut into strips and used to wrap a female mummy in Ptolemaic Egypt; a Croatian official bought the mummy in Alexandria in 1848 and it is now in the Archaeological Museum in Zagreb. Only in 1891-92 was the writing identified as Etruscan. Its roughly 1,200 legible words appear to form a ritual calendar listing ceremonies and offerings to gods, dated to around the 3rd century BCE.",
+   "alternatives": [
+    {
+     "label": "Why in Egypt",
+     "text": "How an Etruscan religious book ended up as mummy wrappings is unknown; suggestions include an Etruscan community in Egypt or linen simply being reused, and none is proven."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Liber Linteus",
+     "url": "https://en.wikipedia.org/wiki/Liber_Linteus",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Linteus.jpg/500px-Linteus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Linteus.jpg",
+     "author": "Kalogeropoulos at Greek Wikipedia",
+     "license": "Public domain",
+     "title": "Linteus.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology",
+    "religion"
+   ],
+   "threads": [
+    "mummies",
+    "decipherments"
+   ]
+  },
+  {
+   "id": "pyrgi-tablets",
+   "title": "Pyrgi Tablets: an Etruscan-Phoenician bilingual",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 3,
+   "start": -500,
+   "end": null,
+   "evidenceTypes": [
+    "textual",
+    "archaeological"
+   ],
+   "mainstream": "Three gold sheets found in 1964 at Pyrgi, the harbour sanctuary of the Etruscan city of Caere, record a dedication by the ruler Thefarie Velianas to the goddess Uni, identified with the Phoenician Astarte, around 500 BCE. Two are in Etruscan and one in Phoenician, making them a partial bilingual text that has helped scholars understand Etruscan vocabulary, though the two versions are not word-for-word translations. They also show close Etruscan-Carthaginian ties at the time.",
+   "alternatives": [
+    {
+     "label": "Interpretation",
+     "text": "Scholars debate whether the dedication implies Phoenician/Carthaginian political influence over Caere or simply religious and trade links."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Pyrgi Tablets",
+     "url": "https://en.wikipedia.org/wiki/Pyrgi_Tablets",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Lamine_d%27oro_in_lingua_etrusca_e_fenicia_con_dedica_di_un_luogo_sacro_a_pyrgi.jpg/500px-Lamine_d%27oro_in_lingua_etrusca_e_fenicia_con_dedica_di_un_luogo_sacro_a_pyrgi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Lamine_d%27oro_in_lingua_etrusca_e_fenicia_con_dedica_di_un_luogo_sacro_a_pyrgi.jpg",
+     "author": "Sailko",
+     "license": "CC BY-SA 4.0",
+     "title": "Lamine_d'oro_in_lingua_etrusca_e_fenicia_con_dedica_di_un_luogo_sacro_a_pyrgi.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology",
+    "religion"
+   ],
+   "threads": [
+    "decipherments"
+   ]
+  },
+  {
+   "id": "phaistos-disc",
+   "title": "Phaistos Disc",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": -1700,
+   "end": null,
+   "evidenceTypes": [
+    "archaeological",
+    "textual"
+   ],
+   "mainstream": "A fired clay disc about 16 cm across, found in 1908 by Luigi Pernier in the Minoan palace of Phaistos on Crete, is stamped on both sides with 241 impressions of 45 different signs arranged in a spiral, made with individual punches, an early form of movable-type printing. It is usually dated to the Middle or Late Minoan Bronze Age (roughly 1850-1600 BCE). The script matches no other known find, and with so short a text it has not been deciphered; most specialists think it cannot be without further examples.",
+   "alternatives": [
+    {
+     "label": "Proposed decipherments",
+     "text": "Many readings have been published, as Greek, Luwian, Minoan prayers, a calendar or a game board; none has gained scholarly acceptance."
+    },
+    {
+     "label": "Forgery suggestion",
+     "text": "A minority view (e.g. Jerome Eisenberg, 2008) argues the disc is a modern forgery; this is not widely accepted and the museum has not permitted thermoluminescence testing."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Phaistos Disc",
+     "url": "https://en.wikipedia.org/wiki/Phaistos_Disc",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Phaistos_Disc_%E2%80%94_Side_A.jpg/500px-Phaistos_Disc_%E2%80%94_Side_A.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Phaistos_Disc_%E2%80%94_Side_A.jpg",
+     "author": "Gleb Simonov",
+     "license": "Public domain",
+     "title": "Phaistos_Disc_—_Side_A.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "anomalies",
+    "hoaxes"
+   ],
+   "threads": [
+    "decipherments",
+    "bronze-age-world"
+   ]
+  },
+  {
+   "id": "linear-a",
+   "title": "Linear A: the undeciphered Minoan script",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -1800,
+   "end": null,
+   "evidenceTypes": [
+    "textual",
+    "archaeological"
+   ],
+   "mainstream": "Linear A was used by the Minoans of Crete from about 1800 to 1450 BCE, mostly on clay tablets recording goods. Its successor Linear B was deciphered by Michael Ventris in 1952 as an early form of Greek, so many Linear A signs can be given approximate sound values, but the resulting words do not match Greek or any known language and the script remains undeciphered.",
+   "alternatives": [
+    {
+     "label": "Language family",
+     "text": "Proposals link the underlying Minoan language to Luwian/Anatolian, Semitic, Indo-Iranian or Tyrsenian (Etruscan-related) languages; none is generally accepted."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Linear A",
+     "url": "https://en.wikipedia.org/wiki/Linear_A",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Linear_A_cup.png/500px-Linear_A_cup.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Linear_A_cup.png",
+     "author": "Evans, Arthur, Sir (1851-1941)",
+     "license": "Public domain",
+     "title": "Linear_A_cup.png"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "lost-civilisations"
+   ],
+   "threads": [
+    "decipherments",
+    "bronze-age-world"
+   ]
+  },
+  {
+   "id": "tutankhamun-tomb",
+   "title": "Tutankhamun's tomb and the 'curse'",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": -1323,
+   "end": null,
+   "evidenceTypes": [
+    "archaeological",
+    "textual"
+   ],
+   "mainstream": "Howard Carter, funded by Lord Carnarvon, found the almost intact tomb KV62 of the boy king Tutankhamun (died c. 1323 BCE) in the Valley of the Kings in November 1922. It held over 5,000 objects, including the gold mask. Carnarvon's death in April 1923 from an infected mosquito bite fuelled press stories of a 'curse'; studies of the people present at the opening found no unusual death rates. CT scans and DNA work (2010) examined his health and family, suggesting he was a son of Akhenaten.",
+   "alternatives": [
+    {
+     "label": "Hidden chambers",
+     "text": "In 2015 Nicholas Reeves proposed hidden chambers behind the tomb walls, possibly the tomb of Nefertiti; radar surveys gave conflicting results and the idea remains unconfirmed."
+    },
+    {
+     "label": "Curse",
+     "text": "The curse story is treated by historians as a media creation; some writers have suggested mould or bacteria in sealed tombs could cause illness, which is speculative for this case."
+    }
+   ],
+   "changed": "Found 1922; curse stories 1923; DNA and CT study 2010; hidden-chamber debate since 2015.",
+   "sources": [
+    {
+     "title": "Wikipedia: Tutankhamun",
+     "url": "https://en.wikipedia.org/wiki/Tutankhamun",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Tomb of Tutankhamun",
+     "url": "https://en.wikipedia.org/wiki/Tomb_of_Tutankhamun",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Ancestry and Pathology in King Tutankhamun's Family",
+     "authors": "Hawass, Z.",
+     "year": 2010,
+     "doi": "10.1001/jama.2010.121",
+     "type": "paper"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/CairoEgMuseumTaaMaskMostlyPhotographed.jpg/500px-CairoEgMuseumTaaMaskMostlyPhotographed.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:CairoEgMuseumTaaMaskMostlyPhotographed.jpg",
+     "author": "Roland Unger",
+     "license": "Public domain",
+     "title": "CairoEgMuseumTaaMaskMostlyPhotographed.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology",
+    "anomalies"
+   ],
+   "threads": [
+    "hidden-tombs",
+    "mummies",
+    "curses-and-hauntings"
+   ]
+  },
+  {
+   "id": "sea-peoples",
+   "title": "The Sea Peoples",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": -1200,
+   "end": null,
+   "evidenceTypes": [
+    "textual",
+    "archaeological"
+   ],
+   "mainstream": "Egyptian records, above all the reliefs of Ramesses III at Medinet Habu (c. 1175 BCE), describe a confederation of seafaring invaders, including the Peleset, Sherden, Shekelesh and Denyen, who attacked Egypt and the eastern Mediterranean at the end of the Bronze Age. The modern term 'Sea Peoples' dates from the 19th century. The Peleset are widely identified with the Philistines, whose settlement in southern Canaan is supported by ancient DNA showing a European-related component (Feldman et al., 2019). Their role in the wider Bronze Age collapse is debated.",
+   "alternatives": [
+    {
+     "label": "Cause or symptom",
+     "text": "Some historians see the Sea Peoples as the main cause of the collapse; others see them as displaced people fleeing drought, famine, earthquakes and systems failure."
+    },
+    {
+     "label": "Origins",
+     "text": "Homelands proposed include the Aegean, western Anatolia, Sardinia (Sherden) and Sicily (Shekelesh), based on name similarities that are not proven."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Sea Peoples",
+     "url": "https://en.wikipedia.org/wiki/Sea_Peoples",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Ancient DNA sheds light on the genetic origins of early Iron Age Philistines",
+     "authors": "Feldman, M. et al.",
+     "year": 2019,
+     "doi": "10.1126/sciadv.aax0061",
+     "type": "paper"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Medinet_Habu_Ramses_III._Tempel_Nordostwand_Abzeichnung_01.jpg/500px-Medinet_Habu_Ramses_III._Tempel_Nordostwand_Abzeichnung_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Medinet_Habu_Ramses_III._Tempel_Nordostwand_Abzeichnung_01.jpg",
+     "author": "Unknown artistUnknown artist in pay of Ramesses III",
+     "license": "Public domain",
+     "title": "Medinet_Habu_Ramses_III._Tempel_Nordostwand_Abzeichnung_01.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology",
+    "catastrophes"
+   ],
+   "threads": [
+    "civilisation-collapses",
+    "ancestral-homelands",
+    "genetic-migrations",
+    "bronze-age-world"
+   ]
+  },
+  {
+   "id": "nemi-ships",
+   "title": "Caligula's Nemi ships",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 3,
+   "start": 40,
+   "end": null,
+   "evidenceTypes": [
+    "archaeological",
+    "textual"
+   ],
+   "mainstream": "Two huge ships, about 70 and 73 metres long, were built on the small volcanic Lake Nemi near Rome for the emperor Caligula (reigned 37-41 CE), apparently as floating palaces and temples. Legends of the sunken ships persisted for centuries and divers recovered pieces from the 15th century onwards. Mussolini's government drained the lake in 1928-32 to recover them, revealing advanced features such as bilge pumps and rotating platforms on bearings. They were displayed in a purpose-built museum but burned in 1944 during the Second World War; who set the fire is disputed.",
+   "alternatives": [
+    {
+     "label": "The 1944 fire",
+     "text": "An Italian commission blamed retreating German troops; others have suggested American shelling or local looters. It has never been settled."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Nemi ships",
+     "url": "https://en.wikipedia.org/wiki/Nemi_ships",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [],
+   "categories": [
+    "history",
+    "archaeology"
+   ],
+   "threads": [
+    "ancient-technology",
+    "lost-treasures"
+   ]
+  },
+  {
+   "id": "talos-automaton",
+   "title": "Talos, the bronze giant of Crete",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 3,
+   "start": -700,
+   "end": null,
+   "evidenceTypes": [
+    "textual",
+    "iconographic"
+   ],
+   "mainstream": "In Greek myth Talos was a giant bronze man made by Hephaestus (or given to Minos by Zeus) who circled Crete three times a day, throwing rocks at ships. He had a single vein closed by a bronze nail; in Apollonius of Rhodes' Argonautica (3rd century BCE) Medea brings about his death and the ichor drains out. He is often cited as one of the earliest imagined robots or automata, and appears on a 5th-century BCE vase, the Talos Vase.",
+   "alternatives": [
+    {
+     "label": "Ancient technology readings",
+     "text": "Classicist Adrienne Mayor (Gods and Robots, 2018) explores Talos as evidence that ancient Greeks imagined artificial life and automata; claims that the myth preserves memories of real ancient robots are speculative and not supported."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Talos",
+     "url": "https://en.wikipedia.org/wiki/Talos",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Comparable_to_the_Group_of_Polygnotos_ARV_extra_-_death_of_Talos_-_draped_youths_02.jpg/500px-Comparable_to_the_Group_of_Polygnotos_ARV_extra_-_death_of_Talos_-_draped_youths_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Comparable_to_the_Group_of_Polygnotos_ARV_extra_-_death_of_Talos_-_draped_youths_02.jpg",
+     "author": "ArchaiOptix",
+     "license": "CC BY-SA 4.0",
+     "title": "Comparable_to_the_Group_of_Polygnotos_ARV_extra_-_death_of_Talos_-_draped_youths_02.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend"
+   ],
+   "threads": [
+    "ancient-technology",
+    "automata-and-robots"
+   ]
+  },
+  {
+   "id": "herculaneum-papyri",
+   "title": "Herculaneum papyri and the Vesuvius Challenge",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 79,
+   "end": null,
+   "evidenceTypes": [
+    "archaeological",
+    "textual",
+    "computational imaging"
+   ],
+   "mainstream": "About 1,800 carbonised papyrus scrolls were found from 1752 in the Villa of the Papyri at Herculaneum, buried by Vesuvius in 79 CE; it is the only intact library known from the classical world. Many were damaged by early attempts to unroll them. Most of those read so far are Epicurean works, many by Philodemus. From 2015, X-ray tomography and later machine learning allowed unopened scrolls to be read virtually; in 2023-24 the Vesuvius Challenge prize was won by students who recovered passages from a sealed scroll, apparently by Philodemus on pleasure. In 2025 researchers reported reading the title of another scroll.",
+   "alternatives": [
+    {
+     "label": "Unexcavated library",
+     "text": "Parts of the villa remain unexcavated and some scholars hope more scrolls, perhaps including lost Latin or Greek works, are still buried; this is unproven."
+    }
+   ],
+   "changed": "Found 1752; destructive unrolling 18th-19th c.; virtual unrolling from 2015; Vesuvius Challenge readings 2023-25.",
+   "sources": [
+    {
+     "title": "Wikipedia: Herculaneum papyri",
+     "url": "https://en.wikipedia.org/wiki/Herculaneum_papyri",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Villa of the Papyri",
+     "url": "https://en.wikipedia.org/wiki/Villa_of_the_Papyri",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Herculaneum_papyri.jpg/500px-Herculaneum_papyri.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Herculaneum_papyri.jpg",
+     "author": "Sara Stabile, Francesca Palermo, Inna Bukreeva, Daniela Mele, Vincenzo Formoso, Roberto Bartolino & Alessia Cedola",
+     "license": "CC BY 4.0",
+     "title": "Herculaneum_papyri.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology",
+    "catastrophes",
+    "science-cosmos"
+   ],
+   "threads": [
+    "changed-understanding",
+    "volcanoes-and-memory",
+    "lost-libraries",
+    "decipherments"
    ]
   }
  ]

@@ -1461,3 +1461,23 @@ addt('volcanoes-and-memory','hunga-tonga-2022')
 addt('strange-sounds','hunga-tonga-2022')
 addt('life-beyond-earth','3i-atlas')
 addt('seeing-what-we-expect','3i-atlas')
+# batch 16 part 1
+C.update({
+'etruscan-origins':'history archaeology','liber-linteus':'history archaeology religion','pyrgi-tablets':'history archaeology religion',
+'phaistos-disc':'archaeology anomalies hoaxes','linear-a':'archaeology lost-civilisations','tutankhamun-tomb':'history archaeology anomalies',
+'sea-peoples':'history archaeology catastrophes','nemi-ships':'history archaeology','talos-automaton':'myth-legend',
+'herculaneum-papyri':'history archaeology catastrophes science-cosmos'})
+addt('decipherments','liber-linteus pyrgi-tablets phaistos-disc linear-a herculaneum-papyri')
+addt('genetic-migrations','etruscan-origins sea-peoples')
+addt('ancestral-homelands','etruscan-origins sea-peoples')
+addt('changed-understanding','etruscan-origins herculaneum-papyri')
+addt('mummies','liber-linteus tutankhamun-tomb')
+addt('bronze-age-world','sea-peoples phaistos-disc linear-a')
+addt('civilisation-collapses','sea-peoples')
+addt('hidden-tombs','tutankhamun-tomb')
+addt('curses-and-hauntings','tutankhamun-tomb pharaohs-curse koh-i-noor-curse')
+addt('automata-and-robots','talos-automaton mechanical-turk antikythera')
+addt('ancient-technology','nemi-ships talos-automaton')
+addt('lost-libraries','herculaneum-papyri library-alexandria')
+addt('volcanoes-and-memory','herculaneum-papyri pompeii')
+addt('lost-treasures','nemi-ships')
