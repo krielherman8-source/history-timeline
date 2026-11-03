@@ -2495,7 +2495,8 @@
    ],
    "threads": [
     "sky-beings",
-    "ufo-encounters"
+    "ufo-encounters",
+    "official-ufo-investigations"
    ]
   },
   {
@@ -2681,7 +2682,8 @@
    ],
    "threads": [
     "ufo-encounters",
-    "cold-war-secrets"
+    "cold-war-secrets",
+    "official-ufo-investigations"
    ]
   },
   {
@@ -7999,7 +8001,8 @@
     "history"
    ],
    "threads": [
-    "ufo-encounters"
+    "ufo-encounters",
+    "official-ufo-investigations"
    ]
   },
   {
@@ -32735,7 +32738,8 @@
     "hoaxes-exposed",
     "collective-experiences",
     "mysterious-lights",
-    "seeing-what-we-expect"
+    "seeing-what-we-expect",
+    "official-ufo-investigations"
    ]
   },
   {
@@ -37120,6 +37124,449 @@
    "threads": [
     "cryptids"
    ]
+  },
+  {
+   "id": "lubbock-lights",
+   "title": "Lubbock Lights",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 3,
+   "start": 1951,
+   "end": null,
+   "evidenceTypes": [
+    "eyewitness",
+    "photographic"
+   ],
+   "mainstream": "In August-September 1951 several professors at Texas Technological College in Lubbock, and many other residents, reported arcs of faint lights flying silently overhead in formation. Student Carl Hart Jr. took photographs of a V-shaped group of lights. The US Air Force's Project Blue Book investigated; its head Edward Ruppelt wrote that the professors' sightings were probably birds (plovers) reflecting street lights, while the photographs were never fully explained.",
+   "alternatives": [
+    {
+     "label": "Birds",
+     "text": "The bird explanation is widely accepted by sceptics; some witnesses rejected it."
+    },
+    {
+     "label": "Unexplained",
+     "text": "UFO researchers regard the case as one of the classic unexplained sightings, particularly the Hart photographs."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Lubbock Lights",
+     "url": "https://en.wikipedia.org/wiki/Lubbock_Lights",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [],
+   "categories": [
+    "aliens-ufo",
+    "anomalies"
+   ],
+   "threads": [
+    "ufo-encounters",
+    "mysterious-lights",
+    "seeing-what-we-expect",
+    "official-ufo-investigations"
+   ]
+  },
+  {
+   "id": "washington-1952",
+   "title": "1952 Washington, D.C. UFO incident",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 1952,
+   "end": null,
+   "evidenceTypes": [
+    "radar",
+    "eyewitness",
+    "documentary"
+   ],
+   "mainstream": "On the weekends of 19-20 and 26-27 July 1952 air traffic controllers at Washington National Airport and Andrews Air Force Base tracked unidentified radar targets near the capital, and pilots and ground observers reported lights. Jet interceptors were sent up. Headlines nationwide led to the largest Pentagon press conference since the Second World War, where General John Samford attributed the targets to temperature inversions causing false radar returns. The event contributed to the CIA's 1953 Robertson Panel.",
+   "alternatives": [
+    {
+     "label": "Weather explanation",
+     "text": "The Air Force and later the Condon Report favoured temperature inversion and misidentified stars."
+    },
+    {
+     "label": "Disputed explanation",
+     "text": "Some controllers and later researchers argued the targets did not behave like inversion effects and that visual sightings matched them."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: 1952 Washington, D.C., UFO incident",
+     "url": "https://en.wikipedia.org/wiki/1952_Washington%2C_D.C.%2C_UFO_incident",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Robertson Panel",
+     "url": "https://en.wikipedia.org/wiki/Robertson_Panel",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Washington_National_%281944%29.jpg/500px-Washington_National_%281944%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Washington_National_(1944).jpg",
+     "author": "AnonymousUnknown author",
+     "license": "Public domain",
+     "title": "Washington_National_(1944).jpg"
+    }
+   ],
+   "categories": [
+    "aliens-ufo",
+    "anomalies",
+    "history"
+   ],
+   "threads": [
+    "ufo-encounters",
+    "mysterious-lights",
+    "seeing-what-we-expect",
+    "cold-war-secrets",
+    "official-ufo-investigations"
+   ]
+  },
+  {
+   "id": "condon-report",
+   "title": "The Condon Report",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1968,
+   "end": null,
+   "evidenceTypes": [
+    "documentary",
+    "scientific study"
+   ],
+   "mainstream": "From 1966 to 1968 the University of Colorado, funded by the US Air Force, studied UFO reports under physicist Edward Condon. The final report, published in 1969, concluded that nothing had come from UFO studies in the past 21 years that had added to scientific knowledge and that further extensive study was probably not justified. A National Academy of Sciences panel endorsed its methods, and Project Blue Book was closed in December 1969. About 30% of the cases studied were left unexplained.",
+   "alternatives": [
+    {
+     "label": "Criticism",
+     "text": "Critics, including astronomer J. Allen Hynek and physicist James McDonald, argued that Condon had decided his conclusions in advance and pointed to the 'Low memo' suggesting the project would look objective while finding nothing; defenders argue the case studies speak for themselves."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Condon Committee",
+     "url": "https://en.wikipedia.org/wiki/Condon_Committee",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [],
+   "categories": [
+    "aliens-ufo",
+    "history",
+    "science-cosmos"
+   ],
+   "threads": [
+    "official-ufo-investigations"
+   ]
+  },
+  {
+   "id": "majestic-12",
+   "title": "Majestic 12 documents",
+   "lane": "history",
+   "status": "debunked",
+   "priority": 3,
+   "start": 1984,
+   "end": null,
+   "evidenceTypes": [
+    "documentary",
+    "forensic"
+   ],
+   "mainstream": "In 1984 TV producer Jaime Shandera received a roll of film showing a supposed 1952 briefing for President-elect Eisenhower about 'Operation Majestic Twelve', a secret group said to have recovered alien craft and bodies at Roswell. The FBI investigated and described the documents as 'completely bogus', and analysts found anachronistic date formats, a copied Truman signature and other problems. They are generally considered forgeries, though some UFO researchers still debate them.",
+   "alternatives": [
+    {
+     "label": "Defenders",
+     "text": "Researchers such as Stanton Friedman argued the documents could be genuine; the US Air Force and most investigators regard them as fakes."
+    },
+    {
+     "label": "Disinformation",
+     "text": "Some have suggested the documents were planted by intelligence officers as disinformation; this is speculative."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Majestic 12",
+     "url": "https://en.wikipedia.org/wiki/Majestic_12",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Truman_initiating_Korean_involvement_GettyImages-615308236.jpg/500px-Truman_initiating_Korean_involvement_GettyImages-615308236.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Truman_initiating_Korean_involvement_GettyImages-615308236.jpg",
+     "author": "Unknown authorUnknown author",
+     "license": "Public domain",
+     "title": "Truman_initiating_Korean_involvement_GettyImages-615308236.jpg"
+    }
+   ],
+   "categories": [
+    "aliens-ufo",
+    "hoaxes"
+   ],
+   "threads": [
+    "hoaxes-exposed",
+    "forged-documents",
+    "cold-war-secrets",
+    "official-ufo-investigations"
+   ]
+  },
+  {
+   "id": "clever-hans",
+   "title": "Clever Hans, the horse who could count",
+   "lane": "history",
+   "status": "debunked",
+   "priority": 3,
+   "start": 1904,
+   "end": null,
+   "evidenceTypes": [
+    "experimental",
+    "documentary"
+   ],
+   "mainstream": "In early 1900s Berlin a horse called Hans, owned by Wilhelm von Osten, appeared to do arithmetic, tell time and spell by tapping his hoof. A 1904 commission found no trickery, but in 1907 psychologist Oskar Pfungst showed that Hans was responding to tiny unconscious cues in the posture and face of the questioner, and could not answer when the questioner did not know the answer. The 'Clever Hans effect' became a key reason for blind testing in psychology and animal cognition research.",
+   "alternatives": [
+    {
+     "label": "Animal intelligence",
+     "text": "The case is sometimes used to dismiss animal intelligence; researchers note that Hans was remarkably skilled at reading human cues, which is a form of intelligence in itself."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Clever Hans",
+     "url": "https://en.wikipedia.org/wiki/Clever_Hans",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/CleverHans.jpg/500px-CleverHans.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:CleverHans.jpg",
+     "author": "Karl Krall",
+     "license": "Public domain",
+     "title": "CleverHans.jpg"
+    }
+   ],
+   "categories": [
+    "hoaxes",
+    "science-cosmos",
+    "anomalies"
+   ],
+   "threads": [
+    "hoaxes-exposed",
+    "seeing-what-we-expect",
+    "tested-by-experiment"
+   ]
+  },
+  {
+   "id": "sokal-affair",
+   "title": "The Sokal affair",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 3,
+   "start": 1996,
+   "end": null,
+   "evidenceTypes": [
+    "documentary"
+   ],
+   "mainstream": "In 1996 physicist Alan Sokal had a deliberately nonsensical article, arguing that quantum gravity is a social construct, published in the cultural studies journal Social Text, then revealed it as a hoax to show weak scrutiny of postmodernist work. The episode fed wider 'science wars' debates. A 2017-18 'grievance studies' affair by Peter Boghossian, James Lindsay and Helen Pluckrose repeated the approach with several journals.",
+   "alternatives": [
+    {
+     "label": "Interpretation",
+     "text": "Supporters see it as exposing lack of rigour in some humanities scholarship; critics see it as an ethically questionable stunt that proved little about whole fields."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Sokal affair",
+     "url": "https://en.wikipedia.org/wiki/Sokal_affair",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [],
+   "categories": [
+    "hoaxes",
+    "history"
+   ],
+   "threads": [
+    "hoaxes-exposed",
+    "tested-by-experiment"
+   ]
+  },
+  {
+   "id": "archaeoraptor",
+   "title": "Archaeoraptor: the fake feathered dinosaur",
+   "lane": "history",
+   "status": "debunked",
+   "priority": 3,
+   "start": 1999,
+   "end": null,
+   "evidenceTypes": [
+    "fossil",
+    "CT scan"
+   ],
+   "mainstream": "In November 1999 National Geographic announced 'Archaeoraptor liaoningensis' from China as a missing link between dinosaurs and birds. It turned out to be a composite: a farmer had glued together a bird's body and the tail of a small dromaeosaur dinosaur to make it more valuable. CT scans in 2000-2001 confirmed the forgery. The parts were later identified as the bird Yanornis and the dinosaur Microraptor, which itself turned out to be a genuine feathered dinosaur.",
+   "alternatives": [
+    {
+     "label": "Lesson",
+     "text": "The episode is often cited in debates on the fossil trade and on peer review before publicity; it did not weaken the evidence for the dinosaur origin of birds, which rests on many genuine fossils."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Archaeoraptor",
+     "url": "https://en.wikipedia.org/wiki/Archaeoraptor",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Archaeoraptor_IVPP.jpg/500px-Archaeoraptor_IVPP.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Archaeoraptor_IVPP.jpg",
+     "author": "Jonathan Chen",
+     "license": "CC BY-SA 4.0",
+     "title": "Archaeoraptor_IVPP.jpg"
+    }
+   ],
+   "categories": [
+    "hoaxes",
+    "science-cosmos"
+   ],
+   "threads": [
+    "dragons-and-fossils",
+    "hoaxes-exposed"
+   ]
+  },
+  {
+   "id": "tully-monster",
+   "title": "The Tully monster",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 3,
+   "start": -307000000,
+   "end": null,
+   "evidenceTypes": [
+    "fossil"
+   ],
+   "mainstream": "Tullimonstrum gregarium is a soft-bodied animal about 30 cm long from the 307-million-year-old Mazon Creek fossil beds in Illinois, first collected by amateur Francis Tully in 1955. It had a long proboscis ending in a toothed claw and eyes on a bar. Its classification has been a long puzzle: a 2016 study proposed it was a vertebrate related to lampreys, while later studies (2017, 2023) argued it was not a vertebrate. It is the state fossil of Illinois.",
+   "alternatives": [
+    {
+     "label": "Cryptozoology",
+     "text": "Some cryptozoologists have linked the Tully monster to lake-monster sightings; it is known only from fossils over 300 million years old, and there is no evidence it survived."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Tullimonstrum",
+     "url": "https://en.wikipedia.org/wiki/Tullimonstrum",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "The ‘Tully monster’ is a vertebrate",
+     "authors": "McCoy, V. et al.",
+     "year": 2016,
+     "doi": "10.1038/nature16992",
+     "type": "paper"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Tullimonstrum_gregarium_4334.JPG/500px-Tullimonstrum_gregarium_4334.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Tullimonstrum_gregarium_4334.JPG",
+     "author": "Ghedoghedo",
+     "license": "CC BY-SA 3.0",
+     "title": "Tullimonstrum_gregarium_4334.JPG"
+    }
+   ],
+   "categories": [
+    "science-cosmos",
+    "anomalies"
+   ],
+   "threads": [
+    "changed-understanding",
+    "dragons-and-fossils",
+    "cryptids"
+   ]
+  },
+  {
+   "id": "ummo-affair",
+   "title": "The UMMO affair",
+   "lane": "history",
+   "status": "debunked",
+   "priority": 3,
+   "start": 1966,
+   "end": null,
+   "evidenceTypes": [
+    "documentary",
+    "testimony",
+    "photographic"
+   ],
+   "mainstream": "From 1966, beginning in Madrid, Spanish and later French UFO enthusiasts and esoteric groups received long typewritten letters claiming to come from aliens from the planet Ummo, said to orbit a star in Virgo, covering physics, biology and philosophy. Photographs of a disc bearing the same symbol, supposedly taken at San José de Valderas near Madrid on 1 June 1967, were circulated. José Luis Jordán Peña, who had himself reported seeing a craft with the symbol in 1966, later claimed responsibility for writing the letters, and most investigators regard the affair as an elaborate hoax; who else was involved is unknown.",
+   "alternatives": [
+    {
+     "label": "Hoax",
+     "text": "Most researchers accept that the letters were written on Earth, probably by Jordán Peña and possibly others; Jacques Vallée compared the authors to Borges' fictional inventors of a world."
+    },
+    {
+     "label": "Believers",
+     "text": "French physicist Jean-Pierre Petit has argued since 1991 that some letters show superior scientific ideas, and small groups of followers remain."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Planetary objects proposed in religion, astrology, ufology and pseudoscience",
+     "url": "https://en.wikipedia.org/wiki/Planetary_objects_proposed_in_religion%2C_astrology%2C_ufology_and_pseudoscience",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [],
+   "categories": [
+    "aliens-ufo",
+    "hoaxes"
+   ],
+   "threads": [
+    "hoaxes-exposed",
+    "forged-documents",
+    "contact-attempts"
+   ]
+  },
+  {
+   "id": "betz-sphere",
+   "title": "The Betz mystery sphere",
+   "lane": "history",
+   "status": "debunked",
+   "priority": 3,
+   "start": 1974,
+   "end": null,
+   "evidenceTypes": [
+    "eyewitness",
+    "documentary"
+   ],
+   "mainstream": "In 1974 the Betz family found a polished metal sphere about 20 cm across and weighing about 10 kg near Jacksonville, Florida. It appeared to roll by itself and the press speculated about alien or spy technology. In April 1974 the US Navy said it was simply a large stainless-steel ball bearing of the kind used as a check valve in industrial piping; the rolling was attributed to the uneven floors of the old house. Later, an artist reported having lost several such check-valve balls from his van's roof rack near Jacksonville in 1971.",
+   "alternatives": [
+    {
+     "label": "Unexplained",
+     "text": "The family disputed the Navy verdict at the time and some UFO literature still lists the sphere as an anomaly; investigators regard it as an ordinary industrial ball."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Betz mystery sphere",
+     "url": "https://en.wikipedia.org/wiki/Betz_mystery_sphere",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [],
+   "categories": [
+    "anomalies",
+    "aliens-ufo",
+    "hoaxes"
+   ],
+   "threads": []
   }
  ]
 }

@@ -1520,3 +1520,20 @@ addt('otherworld-visits','mesoamerican-ballgame')
 addt('stories-proven-true','huey-tzompantli hachiko-statue')
 addt('lost-libraries','codex-zouche-nuttall')
 addt('sacred-kingship','codex-zouche-nuttall')
+# batch 16 part 4
+C.update({
+'lubbock-lights':'aliens-ufo anomalies','washington-1952':'aliens-ufo anomalies history','condon-report':'aliens-ufo history science-cosmos',
+'majestic-12':'aliens-ufo hoaxes','ummo-affair':'aliens-ufo hoaxes','clever-hans':'hoaxes science-cosmos anomalies',
+'sokal-affair':'hoaxes history','archaeoraptor':'hoaxes science-cosmos','tully-monster':'science-cosmos anomalies','betz-sphere':'anomalies aliens-ufo hoaxes'})
+addt('official-ufo-investigations','lubbock-lights washington-1952 condon-report project-blue-book aaro-2024 uap-hearing-2023 majestic-12 belgian-ufo-wave')
+addt('ufo-encounters','lubbock-lights washington-1952')
+addt('mysterious-lights','lubbock-lights washington-1952')
+addt('seeing-what-we-expect','lubbock-lights washington-1952 clever-hans')
+addt('cold-war-secrets','washington-1952 majestic-12')
+addt('forged-documents','majestic-12 ummo-affair')
+addt('hoaxes-exposed','majestic-12 ummo-affair sokal-affair archaeoraptor clever-hans')
+addt('contact-attempts','ummo-affair')
+addt('tested-by-experiment','clever-hans sokal-affair')
+addt('dragons-and-fossils','archaeoraptor tully-monster')
+addt('cryptids','tully-monster')
+addt('changed-understanding','tully-monster')
