@@ -9122,7 +9122,8 @@
    ],
    "threads": [
     "hidden-tombs",
-    "lost-treasures"
+    "lost-treasures",
+    "steppe-empires"
    ]
   },
   {
@@ -16037,7 +16038,8 @@
    "threads": [
     "ancient-astronomy",
     "outsider-builder-claims",
-    "ancestral-homelands"
+    "ancestral-homelands",
+    "steppe-empires"
    ]
   },
   {
@@ -16094,7 +16096,8 @@
     "origins-of-writing",
     "hidden-tombs",
     "sacred-kingship",
-    "warrior-women"
+    "warrior-women",
+    "steppe-empires"
    ]
   },
   {
@@ -16157,7 +16160,8 @@
    ],
    "threads": [
     "warrior-women",
-    "founding-ancestors"
+    "founding-ancestors",
+    "steppe-empires"
    ]
   },
   {
@@ -18469,7 +18473,8 @@
    "threads": [
     "changed-understanding",
     "ancestral-homelands",
-    "genetic-migrations"
+    "genetic-migrations",
+    "steppe-empires"
    ]
   },
   {
@@ -26700,7 +26705,8 @@
     "giant-monuments",
     "hidden-tombs",
     "sacred-kingship",
-    "altered-states"
+    "altered-states",
+    "steppe-empires"
    ]
   },
   {
@@ -38043,6 +38049,437 @@
    "threads": [
     "giant-birds",
     "vanished-species"
+   ]
+  },
+  {
+   "id": "timur-tomb-curse",
+   "title": "The curse of Timur's tomb",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 1941,
+   "end": null,
+   "evidenceTypes": [
+    "textual",
+    "eyewitness",
+    "anthropological"
+   ],
+   "mainstream": "On 19-22 June 1941 a Soviet team led by Mikhail Gerasimov opened the tomb of the conqueror Timur (Tamerlane) in the Gur-e-Amir mausoleum, Samarkand. Legend held that disturbing it would unleash war, and an inscription was reported to warn against it. Germany invaded the USSR on 22 June 1941. The remains were reburied with Islamic rites in November 1942, shortly before the Soviet victory at Stalingrad. The examination confirmed that Timur was tall and lame in the right leg, matching historical accounts.",
+   "alternatives": [
+    {
+     "label": "Curse",
+     "text": "Popular accounts treat the timing as proof of a curse; historians note the invasion had been planned for months (Operation Barbarossa) and the reburial timing is coincidental."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Gur-e-Amir",
+     "url": "https://en.wikipedia.org/wiki/Gur-e-Amir",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Timur",
+     "url": "https://en.wikipedia.org/wiki/Timur",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/ShrineofAmirTimur.jpg/500px-ShrineofAmirTimur.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:ShrineofAmirTimur.jpg",
+     "author": "Willard84",
+     "license": "CC BY-SA 4.0",
+     "title": "ShrineofAmirTimur.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "anomalies"
+   ],
+   "threads": [
+    "hidden-tombs",
+    "curses-and-hauntings",
+    "steppe-empires"
+   ]
+  },
+  {
+   "id": "al-khwarizmi",
+   "title": "Al-Khwarizmi and the birth of algebra",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 820,
+   "end": null,
+   "evidenceTypes": [
+    "textual"
+   ],
+   "mainstream": "Muhammad ibn Musa al-Khwarizmi, a scholar from Khwarazm (in modern Uzbekistan/Turkmenistan) working at the House of Wisdom in Baghdad, wrote around 820 CE a book on calculation by completion and balancing (al-jabr), which gave algebra its name. His work on Hindu-Arabic numerals, translated into Latin, spread the decimal system in Europe, and the word 'algorithm' derives from the Latin form of his name.",
+   "alternatives": [
+    {
+     "label": "Origins of algebra",
+     "text": "Historians debate how much he drew on earlier Babylonian, Greek (Diophantus) and Indian (Brahmagupta) work; his systematic treatment is generally credited as foundational."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Al-Khwarizmi",
+     "url": "https://en.wikipedia.org/wiki/Al-Khwarizmi",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Madrid_-_Ciudad_Universitaria%2C_Monumento_a_Muhammad_al-Juarismi_%28cropped%29.jpg/500px-Madrid_-_Ciudad_Universitaria%2C_Monumento_a_Muhammad_al-Juarismi_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Madrid_-_Ciudad_Universitaria,_Monumento_a_Muhammad_al-Juarismi_(cropped).jpg",
+     "author": "Zarateman",
+     "license": "CC0",
+     "title": "Madrid_-_Ciudad_Universitaria,_Monumento_a_Muhammad_al-Juarismi_(cropped).jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "science-cosmos"
+   ],
+   "threads": [
+    "knowledge-and-power",
+    "silk-road"
+   ]
+  },
+  {
+   "id": "ai-khanoum",
+   "title": "Ai-Khanoum: a Greek city in Afghanistan",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -280,
+   "end": null,
+   "evidenceTypes": [
+    "archaeological",
+    "textual"
+   ],
+   "mainstream": "Ai-Khanoum, on the Oxus (Amu Darya) in northern Afghanistan, was a Greco-Bactrian city founded around 280 BCE in the wake of Alexander's conquests, with a theatre, gymnasium and a copy of the Delphic maxims inscribed by Clearchus. It was abandoned around 145 BCE after nomadic invasion. Excavated by French archaeologists 1964-1978, it was heavily looted during the Afghan wars.",
+   "alternatives": [
+    {
+     "label": "Alexandria on the Oxus",
+     "text": "Some scholars identify it with Alexandria on the Oxus or Eucratidia known from ancient sources; its ancient name is uncertain."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Ai-Khanoum",
+     "url": "https://en.wikipedia.org/wiki/Ai-Khanoum",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [],
+   "categories": [
+    "archaeology",
+    "history",
+    "lost-civilisations"
+   ],
+   "threads": [
+    "rediscovered-civilisations",
+    "silk-road"
+   ]
+  },
+  {
+   "id": "bamiyan-buddhas",
+   "title": "The Buddhas of Bamiyan",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 570,
+   "end": null,
+   "evidenceTypes": [
+    "archaeological",
+    "radiocarbon",
+    "documentary"
+   ],
+   "mainstream": "Two monumental Buddhas, about 55 m and 38 m tall, were carved into a cliff in the Bamiyan valley of Afghanistan in the 6th century CE (radiocarbon dated to about 570 and 618 CE). The Taliban destroyed them with explosives in March 2001. During conservation, researchers found cave paintings using oil binders from the 7th century, among the earliest known oil paintings.",
+   "alternatives": [
+    {
+     "label": "Reconstruction",
+     "text": "Whether to rebuild the statues (e.g. by anastylosis) or leave the empty niches as a memorial remains debated."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Buddhas of Bamiyan",
+     "url": "https://en.wikipedia.org/wiki/Buddhas_of_Bamiyan",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Buddha_of_Bamiyan.jpg/500px-Buddha_of_Bamiyan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Buddha_of_Bamiyan.jpg",
+     "author": "James Gordon",
+     "license": "CC BY 4.0",
+     "title": "Buddha_of_Bamiyan.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "religion",
+    "history"
+   ],
+   "threads": [
+    "erased-from-history",
+    "silk-road"
+   ]
+  },
+  {
+   "id": "almas",
+   "title": "Almas: the wild man of Mongolia",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 3,
+   "start": 1420,
+   "end": null,
+   "evidenceTypes": [
+    "folklore",
+    "eyewitness"
+   ],
+   "mainstream": "The almas (or almasty) is a reputed hairy wild human of the Caucasus and Mongolian folklore. Accounts date at least to the Bavarian traveller Johann Schiltberger in the 1420s. The most famous story concerns 'Zana', a 19th-century woman held captive in Abkhazia; a 2015 DNA study of a descendant's remains found she was of West African ancestry, not a relict hominin.",
+   "alternatives": [
+    {
+     "label": "Relict hominin",
+     "text": "Some cryptozoologists propose almas are surviving Neanderthals or Homo erectus; no physical evidence supports this."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Almas (folklore)",
+     "url": "https://en.wikipedia.org/wiki/Almas_(folklore)",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [],
+   "categories": [
+    "myth-legend",
+    "anomalies"
+   ],
+   "threads": [
+    "cryptids",
+    "hidden-peoples"
+   ]
+  },
+  {
+   "id": "tengri",
+   "title": "Tengri: the sky god of the steppe",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": -200,
+   "end": null,
+   "evidenceTypes": [
+    "textual",
+    "ethnographic"
+   ],
+   "mainstream": "Tengri was the supreme sky deity of the Xiongnu, Turkic and Mongol peoples; the term appears in Chinese records of the Xiongnu and in the 8th-century Orkhon inscriptions. Genghis Khan's rule was framed as mandated by the Eternal Blue Sky (Mongke Tengri). Tengrism has seen a revival in Central Asia since the 1990s.",
+   "alternatives": [
+    {
+     "label": "Monotheism debate",
+     "text": "Scholars disagree on whether historical Tengri worship was monotheistic, or part of a broader shamanic and polytheistic system."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Tengri",
+     "url": "https://en.wikipedia.org/wiki/Tengri",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Orkhon.svg/500px-Orkhon.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Orkhon.svg",
+     "author": "Ch1902",
+     "license": "Public domain",
+     "title": "Orkhon.svg"
+    }
+   ],
+   "categories": [
+    "religion",
+    "myth-legend"
+   ],
+   "threads": [
+    "sky-beings",
+    "steppe-empires"
+   ]
+  },
+  {
+   "id": "manas-epic",
+   "title": "The Epic of Manas",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 3,
+   "start": 1800,
+   "end": null,
+   "dateNote": "Oral epic; first written down 1850s",
+   "evidenceTypes": [
+    "oral tradition",
+    "textual"
+   ],
+   "mainstream": "The Epic of Manas is the traditional epic of the Kyrgyz people, telling of the hero Manas and his descendants who unite the Kyrgyz against enemies. Recited by bards (manaschi), some versions exceed 500,000 lines, among the longest epics in the world. It was first recorded in the 19th century and is on UNESCO's intangible heritage list.",
+   "alternatives": [
+    {
+     "label": "Historicity",
+     "text": "Some Kyrgyz scholars date its core to the 9th-10th century Kyrgyz Khaganate; others see it as shaped mainly by later conflicts with the Oirats."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Epic of Manas",
+     "url": "https://en.wikipedia.org/wiki/Epic_of_Manas",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [],
+   "categories": [
+    "myth-legend",
+    "history"
+   ],
+   "threads": [
+    "sleeping-heroes",
+    "steppe-empires"
+   ]
+  },
+  {
+   "id": "aral-sea",
+   "title": "The shrinking of the Aral Sea",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1960,
+   "end": null,
+   "evidenceTypes": [
+    "satellite",
+    "documentary"
+   ],
+   "mainstream": "Once the world's fourth-largest lake, the Aral Sea between Kazakhstan and Uzbekistan began shrinking in the 1960s after Soviet irrigation projects diverted the Amu Darya and Syr Darya rivers to grow cotton. By the 2010s it had largely split into remnant lakes and the exposed Aralkum desert. The receding water exposed medieval ruins on the former seabed, including a 14th-century mausoleum, showing the lake had also shrunk in the past. Kazakhstan's Kok-Aral dam (2005) has partly restored the North Aral.",
+   "alternatives": [
+    {
+     "label": "Natural cycles",
+     "text": "Archaeological finds on the seabed show earlier natural or human-induced regressions; the modern collapse is attributed primarily to irrigation."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Aral Sea",
+     "url": "https://en.wikipedia.org/wiki/Aral_Sea",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Aral_Sea_1964_vs._August_25%2C_2026.png/500px-Aral_Sea_1964_vs._August_25%2C_2026.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Aral_Sea_1964_vs._August_25,_2026.png",
+     "author": "National Aeronautics and Space Administration (NASA), collage by Dylan240.",
+     "license": "Public domain",
+     "title": "Aral_Sea_1964_vs._August_25,_2026.png"
+    }
+   ],
+   "categories": [
+    "catastrophes",
+    "history"
+   ],
+   "threads": [
+    "vanished-landscapes"
+   ]
+  },
+  {
+   "id": "tillya-tepe",
+   "title": "Tillya Tepe: the Bactrian gold",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 3,
+   "start": 1,
+   "end": null,
+   "evidenceTypes": [
+    "archaeological"
+   ],
+   "mainstream": "In 1978 Soviet-Afghan archaeologist Viktor Sarianidi excavated six burials at Tillya Tepe in northern Afghanistan dating to around the 1st century BCE-1st century CE, containing over 20,000 gold ornaments mixing Greek, Scythian, Indian and Chinese styles. The hoard was thought lost during the civil wars, but in 2003 it was revealed that museum staff had hidden it in a Central Bank vault in Kabul.",
+   "alternatives": [
+    {
+     "label": "Identity",
+     "text": "The buried nomads are variously linked with the Yuezhi/early Kushans or Saka; the attribution is debated."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Tillya Tepe",
+     "url": "https://en.wikipedia.org/wiki/Tillya_Tepe",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Tillya_Tepe_crown.jpg/500px-Tillya_Tepe_crown.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Tillya_Tepe_crown.jpg",
+     "author": "H Sinica",
+     "license": "CC BY-SA 2.0",
+     "title": "Tillya_Tepe_crown.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history"
+   ],
+   "threads": [
+    "lost-treasures",
+    "silk-road",
+    "steppe-empires"
+   ]
+  },
+  {
+   "id": "afrasiab-murals",
+   "title": "The Afrasiab \"Ambassadors' Painting\" of Samarkand",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 3,
+   "start": 660,
+   "end": null,
+   "evidenceTypes": [
+    "archaeological",
+    "art historical"
+   ],
+   "mainstream": "Wall paintings discovered in 1965 at Afrasiab, the old site of Samarkand, show the Sogdian king Varkhuman receiving envoys from China, Korea, and other lands around 648-660 CE. They are among the most important surviving Sogdian artworks and a rare visual record of diplomacy along the Silk Road.",
+   "alternatives": [
+    {
+     "label": "Korean envoys",
+     "text": "The identification of two figures with feathered caps as envoys from the Korean kingdom of Goguryeo is widely, though not universally, accepted."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Afrasiab murals",
+     "url": "https://en.wikipedia.org/wiki/Afrasiab_murals",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Afrasiab_-_details_from_The_Ambassadors%27_Painting_3_-_great_procession.JPG/500px-Afrasiab_-_details_from_The_Ambassadors%27_Painting_3_-_great_procession.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Afrasiab_-_details_from_The_Ambassadors%27_Painting_3_-_great_procession.JPG",
+     "author": "anonymous",
+     "license": "Public domain",
+     "title": "Afrasiab_-_details_from_The_Ambassadors'_Painting_3_-_great_procession.JPG"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history"
+   ],
+   "threads": [
+    "silk-road"
    ]
   }
  ]
