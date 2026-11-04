@@ -38481,6 +38481,424 @@
    "threads": [
     "silk-road"
    ]
+  },
+  {
+   "id": "soucouyant",
+   "title": "Soucouyant: the Caribbean fire-ball vampire",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 3,
+   "start": 1800,
+   "end": null,
+   "evidenceTypes": [
+    "folklore"
+   ],
+   "mainstream": "In folklore of Trinidad and Tobago, Dominica, Guadeloupe and other Caribbean islands, the soucouyant is an old woman who sheds her skin at night and flies as a ball of fire to suck the blood of sleepers. She can be stopped by scattering rice that she must count, or by salting her shed skin. The figure blends West African and European beliefs.",
+   "alternatives": [
+    {
+     "label": "Comparative",
+     "text": "Similar skin-shedding fire-ball witches appear in West African (e.g. Ashanti obayifo) folklore, suggesting origins brought by enslaved Africans."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Soucouyant",
+     "url": "https://en.wikipedia.org/wiki/Soucouyant",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [],
+   "categories": [
+    "myth-legend"
+   ],
+   "threads": [
+    "shapeshifters",
+    "mysterious-lights"
+   ]
+  },
+  {
+   "id": "olduvai-gorge",
+   "title": "Olduvai Gorge",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": -1900000,
+   "end": null,
+   "evidenceTypes": [
+    "archaeological",
+    "fossil",
+    "radiometric"
+   ],
+   "mainstream": "Olduvai Gorge in Tanzania preserves almost two million years of human prehistory in layered deposits. Louis and Mary Leakey worked there from the 1930s; Mary Leakey found 'Zinjanthropus' (Paranthropus boisei) in 1959 and the team described Homo habilis in 1964. Potassium-argon dating at Olduvai was among the first to show how old human evolution was. It gives its name to Oldowan stone tools.",
+   "alternatives": [
+    {
+     "label": "Earliest tools",
+     "text": "Older stone tools have since been found elsewhere (e.g. Lomekwi, 3.3 million years), so Olduvai no longer holds the earliest record."
+    }
+   ],
+   "changed": "1959-1961 dating pushed human ancestry far further back than expected.",
+   "sources": [
+    {
+     "title": "Wikipedia: Olduvai Gorge",
+     "url": "https://en.wikipedia.org/wiki/Olduvai_Gorge",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Oldupai-3.jpg/500px-Oldupai-3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Oldupai-3.jpg",
+     "author": "Vinny Burgoo",
+     "license": "CC BY 3.0",
+     "title": "Oldupai-3.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "science-cosmos"
+   ],
+   "threads": [
+    "human-origins"
+   ]
+  },
+  {
+   "id": "little-foot",
+   "title": "Little Foot: the most complete Australopithecus skeleton",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -3670000,
+   "end": null,
+   "evidenceTypes": [
+    "fossil",
+    "radiometric"
+   ],
+   "mainstream": "Little Foot (StW 573) is an Australopithecus skeleton from Sterkfontein Caves, South Africa. Ron Clarke identified foot bones in museum boxes in 1994, and in 1997 Stephen Motsumi and Nkwane Molefe found the matching bone in the cave. Excavating it from breccia took about 20 years. It is over 90% complete. Cosmogenic dating in 2015 gave about 3.67 million years, though the date remains debated.",
+   "alternatives": [
+    {
+     "label": "Species and date",
+     "text": "Clarke assigns it to Australopithecus prometheus, while others place it in A. africanus; some researchers argue for a younger age."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Little Foot",
+     "url": "https://en.wikipedia.org/wiki/Little_Foot",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "New cosmogenic burial ages for Sterkfontein Member 2 Australopithecus and Member 5 Oldowan",
+     "authors": "Granger, D. et al.",
+     "year": 2015,
+     "doi": "10.1038/nature14268",
+     "type": "paper"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Litte_Foot%2C_Skull.JPG/500px-Litte_Foot%2C_Skull.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Litte_Foot,_Skull.JPG",
+     "author": "Wits University",
+     "license": "CC BY 4.0",
+     "title": "Litte_Foot,_Skull.JPG"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "science-cosmos"
+   ],
+   "threads": [
+    "human-origins"
+   ]
+  },
+  {
+   "id": "wonderwerk-fire",
+   "title": "Wonderwerk Cave and the earliest controlled fire",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": -1000000,
+   "end": null,
+   "evidenceTypes": [
+    "archaeological",
+    "micromorphology"
+   ],
+   "mainstream": "In Wonderwerk Cave in South Africa, researchers in 2012 reported burnt bone and plant ash about one million years old, deep inside the cave where natural wildfire is unlikely. It is one of the earliest proposed cases of hominins (probably Homo erectus) using fire. Other proposed earlier sites in Kenya (Koobi Fora, Chesowanja) are more contested.",
+   "alternatives": [
+    {
+     "label": "Control vs use",
+     "text": "Researchers debate whether this shows fire making and control or opportunistic use of natural fire."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Wonderwerk Cave",
+     "url": "https://en.wikipedia.org/wiki/Wonderwerk_Cave",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Microstratigraphic evidence of in situ fire in the Acheulean strata of Wonderwerk Cave, Northern Cape province, South Africa",
+     "authors": "Berna, F. et al.",
+     "year": 2012,
+     "doi": "10.1073/pnas.1117620109",
+     "type": "paper"
+    }
+   ],
+   "media": [],
+   "categories": [
+    "archaeology",
+    "science-cosmos"
+   ],
+   "threads": [
+    "human-origins",
+    "mastering-fire"
+   ]
+  },
+  {
+   "id": "pinnacle-point",
+   "title": "Pinnacle Point: the coastal refuge of early humans",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 3,
+   "start": -164000,
+   "end": null,
+   "evidenceTypes": [
+    "archaeological",
+    "dating"
+   ],
+   "mainstream": "Caves at Pinnacle Point near Mossel Bay, South Africa, contain evidence from about 164,000 years ago of shellfish eating, red ochre use and heat-treated stone blades. Curtis Marean has proposed that the southern Cape coast was a refuge where a small population of Homo sapiens survived a harsh glacial period.",
+   "alternatives": [
+    {
+     "label": "Bottleneck hypothesis",
+     "text": "The idea that all modern humans descend from a small coastal population is debated; genetic evidence favours a more widespread African origin."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Pinnacle Point",
+     "url": "https://en.wikipedia.org/wiki/Pinnacle_Point",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Early human use of marine resources and pigment in South Africa during the Middle Pleistocene",
+     "authors": "Marean, C. et al.",
+     "year": 2007,
+     "doi": "10.1038/nature06204",
+     "type": "paper"
+    }
+   ],
+   "media": [],
+   "categories": [
+    "archaeology",
+    "science-cosmos"
+   ],
+   "threads": [
+    "human-origins",
+    "mastering-fire"
+   ]
+  },
+  {
+   "id": "engaruka",
+   "title": "Engaruka: the abandoned irrigation city of Tanzania",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 3,
+   "start": 1400,
+   "end": null,
+   "evidenceTypes": [
+    "archaeological"
+   ],
+   "mainstream": "Engaruka, on the edge of the Great Rift Valley in northern Tanzania, is a ruined farming settlement with stone-terraced houses and an extensive irrigation and field system, occupied from about the 15th to 18th centuries. Its population may have been several thousand. It was abandoned perhaps because of declining water supply. Its builders are thought to be ancestors of local Iraqw or related peoples.",
+   "alternatives": [
+    {
+     "label": "Size",
+     "text": "Early estimates of tens of thousands of inhabitants have been revised downward by later surveys."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Engaruka",
+     "url": "https://en.wikipedia.org/wiki/Engaruka",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Engaruka_map.jpg/500px-Engaruka_map.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Engaruka_map.jpg",
+     "author": "Unknown authorUnknown author",
+     "license": "CC BY-SA 3.0",
+     "title": "Engaruka_map.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "lost-civilisations",
+    "history"
+   ],
+   "threads": [
+    "water-engineering",
+    "rediscovered-civilisations"
+   ]
+  },
+  {
+   "id": "kintu-buganda",
+   "title": "Kintu and Nambi: the first man of Buganda",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 3,
+   "start": 1300,
+   "end": null,
+   "evidenceTypes": [
+    "oral tradition"
+   ],
+   "mainstream": "In Ganda tradition Kintu was the first man on Earth (and founding king of Buganda). He married Nambi, daughter of the sky god Ggulu, after passing tests; against warnings she returned for millet, so her brother Walumbe (death) followed them to Earth, bringing death to humanity. The Kabaka of Buganda trace descent from Kintu.",
+   "alternatives": [
+    {
+     "label": "Historical Kintu",
+     "text": "Some historians suggest a historical leader named Kintu founded a dynasty around the 13th-14th century; others treat him as wholly mythical."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Kintu",
+     "url": "https://en.wikipedia.org/wiki/Kintu",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [],
+   "categories": [
+    "myth-legend",
+    "history"
+   ],
+   "threads": [
+    "founding-ancestors",
+    "origin-of-death"
+   ]
+  },
+  {
+   "id": "columbus-eclipse-1504",
+   "title": "Columbus and the lunar eclipse of 1504",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1504,
+   "end": null,
+   "evidenceTypes": [
+    "textual",
+    "astronomical"
+   ],
+   "mainstream": "Stranded on Jamaica in 1503-04 and refused further food by the Taino, Christopher Columbus used Regiomontanus's astronomical almanac to predict the total lunar eclipse of 29 February 1504. According to his son Ferdinand, he told the caciques that God would show his anger by darkening the moon; when it happened, they resumed supplying the crew. The eclipse is confirmed by astronomical calculation; the details of the exchange come from Spanish accounts only.",
+   "alternatives": [
+    {
+     "label": "Taino perspective",
+     "text": "Historians note the story survives only from the Spanish side and may be embellished."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Christopher Columbus",
+     "url": "https://en.wikipedia.org/wiki/Christopher_Columbus",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "NASA Five Millennium Catalog of Lunar Eclipses 1501-1600",
+     "url": "https://eclipse.gsfc.nasa.gov/LEcat5/LE1501-1600.html",
+     "type": "database"
+    }
+   ],
+   "media": [],
+   "categories": [
+    "history",
+    "science-cosmos"
+   ],
+   "threads": [
+    "sky-omens",
+    "knowledge-and-power"
+   ]
+  },
+  {
+   "id": "pelee-1902",
+   "title": "Mount Pelee eruption of 1902",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1902,
+   "end": null,
+   "evidenceTypes": [
+    "documentary",
+    "geological",
+    "eyewitness"
+   ],
+   "mainstream": "On 8 May 1902 a pyroclastic flow (nuee ardente) from Mount Pelee on Martinique destroyed the city of Saint-Pierre in minutes, killing about 28,000 people. Famous survivors included Ludger Sylbaris, a prisoner protected by his thick-walled cell, who later toured with Barnum and Bailey's circus. The eruption led geologists to recognise pyroclastic flows as a distinct volcanic hazard.",
+   "alternatives": [
+    {
+     "label": "Elections",
+     "text": "Historians have argued that authorities discouraged evacuation partly because of an upcoming election; the extent of this is debated."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: 1902 eruption of Mount Pelée",
+     "url": "https://en.wikipedia.org/wiki/1902_eruption_of_Mount_Pel%C3%A9e",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [],
+   "categories": [
+    "catastrophes",
+    "history"
+   ],
+   "threads": [
+    "volcanoes-and-memory"
+   ]
+  },
+  {
+   "id": "bois-caiman",
+   "title": "Bois Caiman ceremony and the Haitian Revolution",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 1791,
+   "end": null,
+   "evidenceTypes": [
+    "textual",
+    "oral tradition"
+   ],
+   "mainstream": "According to tradition, in August 1791 enslaved people met at Bois Caiman in northern Saint-Domingue for a Vodou ceremony led by Dutty Boukman and the priestess Cecile Fatiman, shortly before the uprising that began the Haitian Revolution. The revolution produced the first independent Black republic in 1804. The ceremony is central to Haitian identity, but historians debate its details and date, since early accounts are scarce.",
+   "alternatives": [
+    {
+     "label": "Historicity",
+     "text": "Some historians argue the ceremony as usually told was elaborated in the 19th century; others accept a gathering occurred."
+    },
+    {
+     "label": "Pact narratives",
+     "text": "Some evangelical preachers have claimed the ceremony was a pact with the devil; historians and Haitians widely reject this as a hostile myth."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Bois Caïman",
+     "url": "https://en.wikipedia.org/wiki/Bois_Ca%C3%AFman",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Haitian Revolution",
+     "url": "https://en.wikipedia.org/wiki/Haitian_Revolution",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [],
+   "categories": [
+    "history",
+    "religion"
+   ],
+   "threads": [
+    "suppressed-beliefs"
+   ]
   }
  ]
 }
