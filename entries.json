@@ -5077,7 +5077,8 @@
     "history"
    ],
    "threads": [
-    "ocean-voyagers"
+    "ocean-voyagers",
+    "pacific-wayfinding"
    ]
   },
   {
@@ -5168,7 +5169,8 @@
    ],
    "threads": [
     "ocean-voyagers",
-    "ancestral-homelands"
+    "ancestral-homelands",
+    "pacific-wayfinding"
    ]
   },
   {
@@ -6794,7 +6796,8 @@
     "changed-understanding",
     "stories-proven-true",
     "ocean-voyagers",
-    "genetic-migrations"
+    "genetic-migrations",
+    "pacific-wayfinding"
    ]
   },
   {
@@ -14903,7 +14906,8 @@
    "threads": [
     "ocean-voyagers",
     "ancestral-homelands",
-    "founding-ancestors"
+    "founding-ancestors",
+    "pacific-wayfinding"
    ]
   },
   {
@@ -30290,7 +30294,8 @@
     "stories-proven-true",
     "ocean-voyagers",
     "genetic-migrations",
-    "tested-by-experiment"
+    "tested-by-experiment",
+    "pacific-wayfinding"
    ]
   },
   {
@@ -37615,6 +37620,430 @@
     "hoaxes"
    ],
    "threads": []
+  },
+  {
+   "id": "rangi-papa",
+   "title": "Ranginui and Papatuanuku: the separation of sky and earth",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": 1300,
+   "end": null,
+   "dateNote": "Oral tradition; first written down in the 19th century",
+   "evidenceTypes": [
+    "oral tradition"
+   ],
+   "mainstream": "In Maori tradition the sky father Ranginui and earth mother Papatuanuku lay locked in an embrace, their children trapped in darkness between them. The forest god Tane pushed them apart, letting light into the world; Rangi's tears are the rain and mist. Versions of a sky-earth separation are found across Polynesia and in many other cultures worldwide, including Egyptian (Geb and Nut) and Chinese (Pangu) stories.",
+   "alternatives": [
+    {
+     "label": "Comparative mythology",
+     "text": "Some scholars treat the separation of sky and earth as one of the most widespread creation motifs, possibly very ancient; others see independent invention of an intuitive image."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Rangi and Papa",
+     "url": "https://en.wikipedia.org/wiki/Rangi_and_Papa",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/WahineTane.jpg/500px-WahineTane.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:WahineTane.jpg",
+     "author": "Kahuroa",
+     "license": "Public domain",
+     "title": "WahineTane.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion"
+   ],
+   "threads": [
+    "creation-myths"
+   ]
+  },
+  {
+   "id": "kumulipo",
+   "title": "The Kumulipo: a Hawaiian creation chant",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 3,
+   "start": 1700,
+   "end": null,
+   "evidenceTypes": [
+    "oral tradition",
+    "textual"
+   ],
+   "mainstream": "The Kumulipo is a Hawaiian genealogical chant of over 2,000 lines tracing the origin of the world from darkness (po), through the emergence of coral polyps, sea creatures, plants and animals, to gods and the chiefly line of Hawaii. It was composed for the chief Ka-I-imamao around the early 18th century and published by King Kalakaua in 1889; Queen Liliuokalani translated it into English in 1897. Its sequence from simple sea life to humans is often compared to evolution.",
+   "alternatives": [
+    {
+     "label": "Evolutionary reading",
+     "text": "Some modern readers see the chant as an indigenous anticipation of evolution; most scholars regard it as a genealogical cosmology whose order reflects Hawaiian ideas of kinship between all living things."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Kumulipo",
+     "url": "https://en.wikipedia.org/wiki/Kumulipo",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [],
+   "categories": [
+    "myth-legend",
+    "religion"
+   ],
+   "threads": [
+    "creation-myths"
+   ]
+  },
+  {
+   "id": "taniwha",
+   "title": "Taniwha: Maori guardian water beings",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 3,
+   "start": 1300,
+   "end": null,
+   "evidenceTypes": [
+    "oral tradition"
+   ],
+   "mainstream": "Taniwha are powerful beings in Maori tradition living in rivers, lakes, caves and the sea. Some are protective guardians of a tribe, others dangerous. They remain culturally significant: in 2002 concerns about a taniwha named Karutahi were raised by Ngati Naho during the construction of a State Highway 1 section near Meremere, and the road was rerouted in consultation.",
+   "alternatives": [
+    {
+     "label": "Natural hazards",
+     "text": "Some researchers suggest taniwha stories encoded knowledge of dangerous waters, floods and unstable ground."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Taniwha",
+     "url": "https://en.wikipedia.org/wiki/Taniwha",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [],
+   "categories": [
+    "myth-legend"
+   ],
+   "threads": [
+    "serpent-beings",
+    "water-spirits"
+   ]
+  },
+  {
+   "id": "tupaia-chart",
+   "title": "Tupaia and his chart of the Pacific",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1769,
+   "end": null,
+   "evidenceTypes": [
+    "textual",
+    "cartographic"
+   ],
+   "mainstream": "Tupaia, a Raiatean priest and navigator, joined James Cook's Endeavour in 1769 at Tahiti. He produced a chart showing some 74 islands spread across a vast area of the Pacific, combining Polynesian navigational knowledge with European mapping. He guided the ship and acted as interpreter in New Zealand, where Maori addressed him rather than Cook. He died in Batavia in 1770. How to read his chart was long debated; scholars since the 2010s argue it uses a navigator-centred system of directions rather than a European north-up grid.",
+   "alternatives": [
+    {
+     "label": "Reinterpretation",
+     "text": "Earlier historians dismissed the chart as muddled; recent analyses argue it accurately encodes sailing directions from Tahiti."
+    }
+   ],
+   "changed": "Long considered inaccurate; re-read from the 2010s as a coherent Polynesian wayfinding map.",
+   "sources": [
+    {
+     "title": "Wikipedia: Tupaia (navigator)",
+     "url": "https://en.wikipedia.org/wiki/Tupaia_(navigator)",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [],
+   "categories": [
+    "history",
+    "science-cosmos"
+   ],
+   "threads": [
+    "changed-understanding",
+    "ocean-voyagers",
+    "pacific-wayfinding"
+   ]
+  },
+  {
+   "id": "taputapuatea",
+   "title": "Taputapuatea marae: centre of the Polynesian world",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1000,
+   "end": null,
+   "evidenceTypes": [
+    "archaeological",
+    "oral tradition"
+   ],
+   "mainstream": "Taputapuatea on Raiatea in French Polynesia is a ceremonial complex of marae (sacred stone platforms) that was a political and religious centre of eastern Polynesia, associated with the god Oro. Voyagers from across the region reportedly gathered there, and stones from it were taken to found new marae elsewhere. It became a UNESCO World Heritage Site in 2017.",
+   "alternatives": [
+    {
+     "label": "Hawaiki",
+     "text": "Raiatea (formerly Havai'i) is often linked with Hawaiki, the legendary Polynesian homeland, though Hawaiki may be a mythic as well as geographic place."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Taputapuatea marae",
+     "url": "https://en.wikipedia.org/wiki/Taputapuatea_marae",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Taputapu_marae_Raiatea_little_man.jpg/500px-Taputapu_marae_Raiatea_little_man.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Taputapu_marae_Raiatea_little_man.jpg",
+     "author": "Kulia Petz",
+     "license": "CC BY 2.0",
+     "title": "Taputapu_marae_Raiatea_little_man.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "religion",
+    "history"
+   ],
+   "threads": [
+    "ocean-voyagers",
+    "ancestral-homelands",
+    "pacific-wayfinding"
+   ]
+  },
+  {
+   "id": "moriori",
+   "title": "The Moriori of the Chatham Islands",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1500,
+   "end": null,
+   "evidenceTypes": [
+    "oral tradition",
+    "genetic",
+    "textual"
+   ],
+   "mainstream": "The Moriori are the Polynesian people of the Chatham Islands (Rekohu), east of New Zealand, who settled there from mainland New Zealand around the 16th century. They adopted Nunuku's law, a code forbidding war and killing. In 1835 Maori groups from Taranaki invaded; many Moriori were killed or enslaved. A myth arose in the 19th and 20th centuries that Moriori were a pre-Maori race in New Zealand displaced by Maori; this is rejected by historians.",
+   "alternatives": [
+    {
+     "label": "Pre-Maori race myth",
+     "text": "Once taught in New Zealand schools, the idea that Moriori were earlier, Melanesian inhabitants of mainland New Zealand was debunked by linguistic and archaeological work from the 1960s onwards."
+    }
+   ],
+   "changed": "Pre-Maori race theory popular c.1900-1960s; now discredited.",
+   "sources": [
+    {
+     "title": "Wikipedia: Moriori",
+     "url": "https://en.wikipedia.org/wiki/Moriori",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Chatham_Islands_photo%2C_1910%2C_Canterbury_Museum%2C_2016-01-27.jpg/500px-Chatham_Islands_photo%2C_1910%2C_Canterbury_Museum%2C_2016-01-27.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Chatham_Islands_photo,_1910,_Canterbury_Museum,_2016-01-27.jpg",
+     "author": "W Rerwick",
+     "license": "Public domain",
+     "title": "Chatham_Islands_photo,_1910,_Canterbury_Museum,_2016-01-27.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "lost-civilisations"
+   ],
+   "threads": [
+    "changed-understanding",
+    "erased-from-history"
+   ]
+  },
+  {
+   "id": "taupo-hatepe",
+   "title": "Hatepe eruption of Lake Taupo",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 232,
+   "end": null,
+   "evidenceTypes": [
+    "geological",
+    "radiocarbon"
+   ],
+   "mainstream": "The Hatepe eruption of the Taupo volcano in New Zealand around 232 CE (plus or minus about 10 years) was one of the most violent eruptions of the last 5,000 years, with pyroclastic flows covering some 20,000 square km. New Zealand was uninhabited at the time. Claims that it produced red skies recorded in Rome and China have not been substantiated.",
+   "alternatives": [
+    {
+     "label": "Historical records",
+     "text": "Some writers link sky phenomena in ancient Roman and Chinese texts to the eruption; ice-core and dating studies do not support those links."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Hatepe eruption",
+     "url": "https://en.wikipedia.org/wiki/Hatepe_eruption",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Lake_Taupo.jpg/500px-Lake_Taupo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Lake_Taupo.jpg",
+     "author": "No machine-readable author provided. Bo-deh~commonswiki assumed (based on copyright claims).",
+     "license": "CC BY-SA 2.5",
+     "title": "Lake_Taupo.jpg"
+    }
+   ],
+   "categories": [
+    "catastrophes",
+    "science-cosmos"
+   ],
+   "threads": [
+    "volcanoes-and-memory"
+   ]
+  },
+  {
+   "id": "kon-tiki",
+   "title": "Kon-Tiki expedition",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1947,
+   "end": null,
+   "evidenceTypes": [
+    "experimental",
+    "documentary"
+   ],
+   "mainstream": "In 1947 Thor Heyerdahl and five companions sailed the balsa raft Kon-Tiki from Peru to the Tuamotu Islands, about 6,900 km, to show South Americans could have reached Polynesia. The voyage succeeded, but his theory that Polynesia was settled from the Americas was rejected: linguistics, archaeology and genetics show Polynesians came from Island Southeast Asia. A 2020 genetic study did find evidence of some contact between Polynesians and Native Americans around 1200 CE.",
+   "alternatives": [
+    {
+     "label": "Heyerdahl theory",
+     "text": "Heyerdahl argued for American (and even bearded white) settlers of Polynesia; this is not supported, although limited trans-Pacific contact is now accepted."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Kon-Tiki expedition",
+     "url": "https://en.wikipedia.org/wiki/Kon-Tiki_expedition",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Kon-Tiki%2C_Kon-Tiki_Museum%2C_2019_%2802%29.jpg/500px-Kon-Tiki%2C_Kon-Tiki_Museum%2C_2019_%2802%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Kon-Tiki,_Kon-Tiki_Museum,_2019_(02).jpg",
+     "author": "Bahnfrend",
+     "license": "CC BY-SA 4.0",
+     "title": "Kon-Tiki,_Kon-Tiki_Museum,_2019_(02).jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology"
+   ],
+   "threads": [
+    "changed-understanding",
+    "ocean-voyagers",
+    "pacific-wayfinding"
+   ]
+  },
+  {
+   "id": "bounty-pitcairn",
+   "title": "Mutiny on the Bounty and the Pitcairn settlement",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1789,
+   "end": null,
+   "evidenceTypes": [
+    "textual",
+    "archaeological"
+   ],
+   "mainstream": "In 1789 sailors led by Fletcher Christian mutinied against Lieutenant William Bligh on HMS Bounty. Bligh and 18 loyalists crossed some 6,700 km in an open boat to Timor. The mutineers, with Tahitian companions, settled the uninhabited Pitcairn Island in 1790 and burned the ship. They were not found until 1808, when only one mutineer, John Adams, survived. Their descendants still live on Pitcairn and Norfolk Island. Pitcairn had earlier been settled by Polynesians, who left before Europeans arrived.",
+   "alternatives": [
+    {
+     "label": "Christian's fate",
+     "text": "Rumours persisted that Fletcher Christian escaped back to England; there is no reliable evidence."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Mutiny on the Bounty",
+     "url": "https://en.wikipedia.org/wiki/Mutiny_on_the_Bounty",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Mutiny_HMS_Bounty.jpg/500px-Mutiny_HMS_Bounty.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Mutiny_HMS_Bounty.jpg",
+     "author": "Robert Dodd",
+     "license": "Public domain",
+     "title": "Mutiny_HMS_Bounty.jpg"
+    }
+   ],
+   "categories": [
+    "history"
+   ],
+   "threads": [
+    "ocean-voyagers"
+   ]
+  },
+  {
+   "id": "moa-extinction",
+   "title": "Moa: the giant birds of New Zealand",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1400,
+   "end": null,
+   "evidenceTypes": [
+    "archaeological",
+    "radiocarbon",
+    "genetic"
+   ],
+   "mainstream": "Moa were nine species of flightless birds in New Zealand, the largest standing up to about 3.6 m with neck extended. They were hunted to extinction within about 100-200 years of Polynesian settlement around 1300 CE, one of the fastest human-caused megafauna extinctions known. Their only predator had been Haast's eagle, which died out with them. Occasional claims of moa surviving into the 20th century are unsupported.",
+   "alternatives": [
+    {
+     "label": "Surviving moa",
+     "text": "Reports such as a 1993 photo of a supposed moa in the Craigieburn Range are treated as hoaxes or misidentifications."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Moa",
+     "url": "https://en.wikipedia.org/wiki/Moa",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Dinornis_maximus%2C_Natural_History_Museum_%28PV_A_608%29.jpg/500px-Dinornis_maximus%2C_Natural_History_Museum_%28PV_A_608%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Dinornis_maximus,_Natural_History_Museum_(PV_A_608).jpg",
+     "author": "Natural History Museum, London",
+     "license": "CC BY 4.0",
+     "title": "Dinornis_maximus,_Natural_History_Museum_(PV_A_608).jpg"
+    }
+   ],
+   "categories": [
+    "science-cosmos",
+    "archaeology"
+   ],
+   "threads": [
+    "giant-birds",
+    "vanished-species"
+   ]
   }
  ]
 }

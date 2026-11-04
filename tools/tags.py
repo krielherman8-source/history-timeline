@@ -1537,3 +1537,18 @@ addt('tested-by-experiment','clever-hans sokal-affair')
 addt('dragons-and-fossils','archaeoraptor tully-monster')
 addt('cryptids','tully-monster')
 addt('changed-understanding','tully-monster')
+# batch 17 part 1
+C.update({'rangi-papa':'myth-legend religion','kumulipo':'myth-legend religion','taniwha':'myth-legend','tupaia-chart':'history science-cosmos',
+'taputapuatea':'archaeology religion history','moriori':'history lost-civilisations','taupo-hatepe':'catastrophes science-cosmos','kon-tiki':'history archaeology',
+'bounty-pitcairn':'history','moa-extinction':'science-cosmos archaeology'})
+addt('creation-myths','rangi-papa kumulipo')
+addt('ocean-voyagers','tupaia-chart taputapuatea kon-tiki bounty-pitcairn')
+addt('ancestral-homelands','taputapuatea')
+addt('water-spirits','taniwha')
+addt('serpent-beings','taniwha')
+addt('erased-from-history','moriori')
+addt('changed-understanding','tupaia-chart moriori kon-tiki')
+addt('volcanoes-and-memory','taupo-hatepe')
+addt('vanished-species','moa-extinction haasts-eagle')
+addt('giant-birds','moa-extinction')
+addt('pacific-wayfinding','tupaia-chart taputapuatea kon-tiki polynesia-america-contact hokulea-1976 lapita kupe hawaiki')
