@@ -519,7 +519,9 @@
    "categories": [
     "archaeology"
    ],
-   "threads": []
+   "threads": [
+    "first-art"
+   ]
   },
   {
    "id": "chauvet",
@@ -562,7 +564,9 @@
    "categories": [
     "archaeology"
    ],
-   "threads": []
+   "threads": [
+    "first-art"
+   ]
   },
   {
    "id": "americas-peopling",
@@ -2153,7 +2157,8 @@
     "religion"
    ],
    "threads": [
-    "changed-understanding"
+    "changed-understanding",
+    "scientific-revolution"
    ]
   },
   {
@@ -4553,7 +4558,9 @@
     "archaeology",
     "science-cosmos"
    ],
-   "threads": []
+   "threads": [
+    "first-art"
+   ]
   },
   {
    "id": "border-cave",
@@ -13201,7 +13208,8 @@
     "myth-legend"
    ],
    "threads": [
-    "shapeshifters"
+    "shapeshifters",
+    "first-art"
    ]
   },
   {
@@ -13335,7 +13343,8 @@
    "threads": [
     "changed-understanding",
     "stories-proven-true",
-    "knowledge-and-power"
+    "knowledge-and-power",
+    "first-art"
    ]
   },
   {
@@ -17918,7 +17927,8 @@
    "threads": [
     "ancient-astronomy",
     "origins-of-writing",
-    "altered-states"
+    "altered-states",
+    "first-art"
    ]
   },
   {
@@ -19641,7 +19651,8 @@
    "threads": [
     "changed-understanding",
     "sky-omens",
-    "ancient-astronomy"
+    "ancient-astronomy",
+    "scientific-revolution"
    ]
   },
   {
@@ -38898,6 +38909,474 @@
    ],
    "threads": [
     "suppressed-beliefs"
+   ]
+  },
+  {
+   "id": "lion-man",
+   "title": "The Lion-man of Hohlenstein-Stadel",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -38000,
+   "end": null,
+   "evidenceTypes": [
+    "archaeological",
+    "radiocarbon"
+   ],
+   "mainstream": "The Lion-man (Lowenmensch) is an ivory figurine about 31 cm tall of a human body with a cave lion's head, carved from mammoth ivory roughly 35,000-41,000 years ago. Fragments were found in a cave in southern Germany in 1939 and reassembled from 1969, with more pieces added in later decades. It is one of the oldest known figurative sculptures and one of the earliest depictions of an imagined being.",
+   "alternatives": [
+    {
+     "label": "Meaning",
+     "text": "Interpretations range from a deity or shamanic figure to a story character; there is no way to confirm its meaning."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Lion man",
+     "url": "https://en.wikipedia.org/wiki/Lion_man",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [],
+   "categories": [
+    "archaeology",
+    "myth-legend"
+   ],
+   "threads": [
+    "shapeshifters",
+    "first-art"
+   ]
+  },
+  {
+   "id": "hohle-fels-venus",
+   "title": "Venus of Hohle Fels",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -38000,
+   "end": null,
+   "evidenceTypes": [
+    "archaeological",
+    "radiocarbon"
+   ],
+   "mainstream": "A small mammoth-ivory figurine of a woman, found in 2008 in Hohle Fels cave in southern Germany, is at least 35,000 years old, the oldest undisputed depiction of a human. A bone flute was found nearby. The caves of the Swabian Jura were inscribed as a UNESCO World Heritage Site in 2017.",
+   "alternatives": [
+    {
+     "label": "Interpretation",
+     "text": "Readings include a fertility symbol, a self-portrait or erotic art; its purpose is unknown."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Venus of Hohle Fels",
+     "url": "https://en.wikipedia.org/wiki/Venus_of_Hohle_Fels",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "A female figurine from the basal Aurignacian of Hohle Fels Cave in southwestern Germany",
+     "authors": "Conard, N.",
+     "year": 2009,
+     "doi": "10.1038/nature07995",
+     "type": "paper"
+    }
+   ],
+   "media": [],
+   "categories": [
+    "archaeology"
+   ],
+   "threads": [
+    "first-art"
+   ]
+  },
+  {
+   "id": "schoningen-spears",
+   "title": "The Schoningen spears",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -300000,
+   "end": null,
+   "evidenceTypes": [
+    "archaeological",
+    "dating"
+   ],
+   "mainstream": "Ten wooden throwing spears found 1994-1999 in an open-cast coal mine at Schoningen, Germany, alongside butchered horse remains, date to roughly 300,000 years ago (a 2023 study suggested about 200,000). They are among the oldest complete hunting weapons, and showed that pre-Neanderthal hominins hunted large animals with planning and skill, overturning the view that they were mainly scavengers.",
+   "alternatives": [
+    {
+     "label": "Dating",
+     "text": "The age has been revised from around 400,000 to 300,000 and possibly about 200,000 years; debate continues."
+    }
+   ],
+   "changed": "1997 publication challenged the 'scavenger' model of early hominins.",
+   "sources": [
+    {
+     "title": "Wikipedia: Schöningen spears",
+     "url": "https://en.wikipedia.org/wiki/Sch%C3%B6ningen_spears",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Lower Palaeolithic hunting spears from Germany",
+     "authors": "Thieme, H.",
+     "year": 1997,
+     "doi": "10.1038/385807a0",
+     "type": "paper"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Sch%C3%B6ningen_wooden_artifacts_Lower_Palaeolithic.jpg/500px-Sch%C3%B6ningen_wooden_artifacts_Lower_Palaeolithic.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Sch%C3%B6ningen_wooden_artifacts_Lower_Palaeolithic.jpg",
+     "author": "Matthias Vogel",
+     "license": "CC BY 4.0",
+     "title": "Schöningen_wooden_artifacts_Lower_Palaeolithic.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "science-cosmos"
+   ],
+   "threads": [
+    "changed-understanding",
+    "ancient-technology",
+    "human-origins"
+   ]
+  },
+  {
+   "id": "kalambo-wood",
+   "title": "Kalambo Falls: the oldest wooden structure",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -476000,
+   "end": null,
+   "evidenceTypes": [
+    "archaeological",
+    "luminescence dating"
+   ],
+   "mainstream": "At Kalambo Falls in Zambia, researchers reported in 2023 two logs joined by an intentionally cut notch, dated by luminescence to at least 476,000 years ago, before Homo sapiens existed. It is the earliest known evidence of deliberately constructed wooden structures, perhaps part of a platform or walkway, made by an unknown hominin.",
+   "alternatives": [
+    {
+     "label": "Function and maker",
+     "text": "The builder species and purpose remain unknown; Homo heidelbergensis is one candidate."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Kalambo Falls",
+     "url": "https://en.wikipedia.org/wiki/Kalambo_Falls",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Evidence for the earliest structural use of wood at least 476,000 years ago",
+     "authors": "Barham, L. et al.",
+     "year": 2023,
+     "doi": "10.1038/s41586-023-06557-9",
+     "type": "paper"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Kalambo_Falls.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Kalambo_Falls.jpg",
+     "author": "Worldtraveller at English Wikipedia",
+     "license": "CC BY-SA 3.0",
+     "title": "Kalambo_Falls.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "science-cosmos"
+   ],
+   "threads": [
+    "changed-understanding",
+    "ancient-technology",
+    "human-origins"
+   ]
+  },
+  {
+   "id": "harvey-circulation",
+   "title": "William Harvey and the circulation of the blood",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1628,
+   "end": null,
+   "evidenceTypes": [
+    "textual",
+    "experimental"
+   ],
+   "mainstream": "In 1628 English physician William Harvey published De Motu Cordis, showing by experiment and calculation that the heart pumps blood around the body in a circuit, overturning Galen's 1,400-year-old idea that blood was continually made in the liver and consumed. He was widely ridiculed at first. Ibn al-Nafis had described pulmonary circulation in the 13th century, but his work was little known in Europe.",
+   "alternatives": [
+    {
+     "label": "Priority",
+     "text": "Historians debate whether Renaissance writers such as Servetus and Colombo knew Ibn al-Nafis's ideas."
+    }
+   ],
+   "changed": "Galenic model dominant until 1628; accepted within a few decades.",
+   "sources": [
+    {
+     "title": "Wikipedia: William Harvey",
+     "url": "https://en.wikipedia.org/wiki/William_Harvey",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Exercitatio Anatomica de Motu Cordis et Sanguinis in Animalibus",
+     "url": "https://en.wikipedia.org/wiki/Exercitatio_Anatomica_de_Motu_Cordis_et_Sanguinis_in_Animalibus",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/William_Harvey_2.jpg/500px-William_Harvey_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:William_Harvey_2.jpg",
+     "author": "After Daniël Mijtens",
+     "license": "Public domain",
+     "title": "William_Harvey_2.jpg"
+    }
+   ],
+   "categories": [
+    "science-cosmos",
+    "history"
+   ],
+   "threads": [
+    "changed-understanding",
+    "rejected-pioneers",
+    "scientific-revolution"
+   ]
+  },
+  {
+   "id": "leeuwenhoek",
+   "title": "Leeuwenhoek discovers the microbial world",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1676,
+   "end": null,
+   "evidenceTypes": [
+    "textual",
+    "observational"
+   ],
+   "mainstream": "Antonie van Leeuwenhoek, a Delft draper using single-lens microscopes he made himself, reported to the Royal Society in 1676 tiny 'animalcules' in water, the first known observations of bacteria and protists. The Society was initially sceptical and sent witnesses to confirm his findings. He also described sperm cells and red blood cells, but kept his lens-making methods secret.",
+   "alternatives": [
+    {
+     "label": "Germ theory delay",
+     "text": "His observations did not lead to germ theory for nearly two centuries; historians discuss why."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Antonie van Leeuwenhoek",
+     "url": "https://en.wikipedia.org/wiki/Antonie_van_Leeuwenhoek",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Anthonie_van_Leeuwenhoek_%281632-1723%29._Natuurkundige_te_Delft_Rijksmuseum_SK-A-957.jpeg/500px-Anthonie_van_Leeuwenhoek_%281632-1723%29._Natuurkundige_te_Delft_Rijksmuseum_SK-A-957.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Anthonie_van_Leeuwenhoek_(1632-1723)._Natuurkundige_te_Delft_Rijksmuseum_SK-A-957.jpeg",
+     "author": "Jan Verkolje",
+     "license": "Public domain",
+     "title": "Anthonie_van_Leeuwenhoek_(1632-1723)._Natuurkundige_te_Delft_Rijksmuseum_SK-A-957.jpeg"
+    }
+   ],
+   "categories": [
+    "science-cosmos",
+    "history"
+   ],
+   "threads": [
+    "changed-understanding",
+    "rejected-pioneers",
+    "scientific-revolution"
+   ]
+  },
+  {
+   "id": "transit-of-venus-1769",
+   "title": "The transits of Venus 1761 and 1769",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1769,
+   "end": null,
+   "evidenceTypes": [
+    "textual",
+    "astronomical"
+   ],
+   "mainstream": "Following Edmond Halley's proposal, astronomers sent expeditions worldwide to time the transits of Venus in 1761 and 1769 in order to measure the distance from the Earth to the Sun. Cook's first voyage observed the 1769 transit from Tahiti before searching for the southern continent. Guillaume Le Gentil missed both transits (clouds and war), returning to France after 11 years to find himself declared dead. The results gave the Sun's distance to within a few percent.",
+   "alternatives": [
+    {
+     "label": "Black drop effect",
+     "text": "Timing was hampered by the black drop effect, an optical illusion that blurred contact times."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Transit of Venus",
+     "url": "https://en.wikipedia.org/wiki/Transit_of_Venus",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: 1769 transit of Venus observed from Tahiti",
+     "url": "https://en.wikipedia.org/wiki/1769_transit_of_Venus_observed_from_Tahiti",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Fort_Venus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Fort_Venus.jpg",
+     "author": "Charles Praval from a picture by H.D. Söring\n\nUploaded by Mknight1229 at en.wikipedia",
+     "license": "Public domain",
+     "title": "Fort_Venus.jpg"
+    }
+   ],
+   "categories": [
+    "science-cosmos",
+    "history"
+   ],
+   "threads": [
+    "ocean-voyagers",
+    "ancient-astronomy",
+    "scientific-revolution"
+   ]
+  },
+  {
+   "id": "mary-toft",
+   "title": "Mary Toft, the woman who \"gave birth\" to rabbits",
+   "lane": "history",
+   "status": "debunked",
+   "priority": 3,
+   "start": 1726,
+   "end": null,
+   "evidenceTypes": [
+    "textual"
+   ],
+   "mainstream": "In 1726 Mary Toft of Godalming, England, appeared to give birth to rabbits, convincing several medical men including King George I's surgeon-anatomist Nathaniel St Andre. She confessed in December 1726 under threat of surgery that she had inserted rabbit parts. The scandal badly damaged the reputations of the doctors involved and was mocked by Hogarth.",
+   "alternatives": [
+    {
+     "label": "Maternal impression",
+     "text": "The case was taken seriously partly because of the then-common belief that a mother's experiences could shape her unborn child."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Mary Toft",
+     "url": "https://en.wikipedia.org/wiki/Mary_Toft",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Mary_toft_1726_%28cropped%29.jpg/500px-Mary_toft_1726_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Mary_toft_1726_(cropped).jpg",
+     "author": "John Laguerre",
+     "license": "Public domain",
+     "title": "Mary_toft_1726_(cropped).jpg"
+    }
+   ],
+   "categories": [
+    "hoaxes",
+    "history"
+   ],
+   "threads": [
+    "hoaxes-exposed",
+    "scientific-revolution"
+   ]
+  },
+  {
+   "id": "vegetable-lamb",
+   "title": "The Vegetable Lamb of Tartary",
+   "lane": "myth",
+   "status": "debunked",
+   "priority": 3,
+   "start": 1350,
+   "end": null,
+   "evidenceTypes": [
+    "textual",
+    "artefact"
+   ],
+   "mainstream": "Medieval and early modern European writers, including the travel book of 'Sir John Mandeville' (c.1350s), described a plant of Central Asia that grew sheep as its fruit. The legend probably grew from reports of cotton (wool growing on plants). Specimens shown in collections were made from the hairy rhizome of the tree fern Cibotium barometz. Naturalists debunked it by the 18th century.",
+   "alternatives": [
+    {
+     "label": "Origin",
+     "text": "Some scholars link the legend to the Jewish legend of the yeduah or to Scythian lamb-skins; cotton is the most widely accepted explanation."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Vegetable Lamb of Tartary",
+     "url": "https://en.wikipedia.org/wiki/Vegetable_Lamb_of_Tartary",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Borametz%2C_or_the_Vegetable_Lamb_of_Tartary_%28cropped%29.jpg/500px-Borametz%2C_or_the_Vegetable_Lamb_of_Tartary_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Borametz,_or_the_Vegetable_Lamb_of_Tartary_(cropped).jpg",
+     "author": "Unknown authorUnknown author",
+     "license": "Public domain",
+     "title": "Borametz,_or_the_Vegetable_Lamb_of_Tartary_(cropped).jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "hoaxes"
+   ],
+   "threads": [
+    "hoaxes-exposed",
+    "silk-road"
+   ]
+  },
+  {
+   "id": "lying-stones",
+   "title": "Beringer's lying stones",
+   "lane": "history",
+   "status": "debunked",
+   "priority": 3,
+   "start": 1725,
+   "end": null,
+   "evidenceTypes": [
+    "textual",
+    "artefact"
+   ],
+   "mainstream": "In 1725 Johann Beringer, a professor in Wurzburg, was given carved limestone 'fossils' showing lizards, stars, Hebrew letters and the name of God, and published a book on them in 1726. They had been made by colleagues J. Ignatz Roderick and Georg von Eckhart to discredit him. When Beringer found one with his own name, he realised the hoax and sued; the episode became a classic warning in palaeontology. Some stones survive in museums.",
+   "alternatives": [
+    {
+     "label": "Telling of the story",
+     "text": "Popular versions say Beringer ruined himself buying back copies of his book; historians consider this legend."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Beringer's Lying Stones",
+     "url": "https://en.wikipedia.org/wiki/Beringer's_Lying_Stones",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Luegensteine_Senckenberg.jpg/500px-Luegensteine_Senckenberg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Luegensteine_Senckenberg.jpg",
+     "author": "MBq",
+     "license": "CC BY-SA 4.0",
+     "title": "Luegensteine_Senckenberg.jpg"
+    }
+   ],
+   "categories": [
+    "hoaxes",
+    "science-cosmos"
+   ],
+   "threads": [
+    "dragons-and-fossils",
+    "hoaxes-exposed",
+    "scientific-revolution"
    ]
   }
  ]
