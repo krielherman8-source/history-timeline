@@ -1,0 +1,42 @@
+{
+ "tupaia-chart": [
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=m8bDCaPhOek",
+   "title": "How did Polynesian wayfinders navigate the Pacific Ocean? - Alan Tamayose and Shantell De Silva",
+   "channel": "TED-Ed"
+  }
+ ],
+ "al-khwarizmi": [
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=sAxWF_W6Q9w",
+   "title": "Science in a Golden Age - Al-Khwarizmi: The Father of Algebra",
+   "channel": "Al Jazeera English"
+  }
+ ],
+ "wonderwerk-fire": [
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=lGH4MK9O2J0",
+   "title": "When We Tamed Fire",
+   "channel": "PBS Eons"
+  }
+ ],
+ "lion-man": [
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=mJWUPBQpX1c",
+   "title": "Living with gods: the 40,000-year-old Lion Man",
+   "channel": "The British Museum"
+  }
+ ],
+ "leeuwenhoek": [
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=YlETYpbQaqY",
+   "title": "The Gadget That Changed How We See The World | Cell | BBC Earth Science",
+   "channel": "BBC Earth Science"
+  }
+ ]
+}
