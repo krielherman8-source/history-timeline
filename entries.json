@@ -40404,6 +40404,504 @@
     "human-sacrifice",
     "andean-empires"
    ]
+  },
+  {
+   "id": "aksum-obelisks",
+   "title": "The obelisks (stelae) of Aksum",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 300,
+   "end": null,
+   "evidenceTypes": [
+    "archaeological"
+   ],
+   "mainstream": "At Aksum in northern Ethiopia stand monumental granite stelae carved to imitate multi-storey buildings, marking elite burials of the Kingdom of Aksum (early first millennium CE). The tallest still standing is about 24 m; a larger fallen stele exceeded 30 m. One stele taken to Rome in 1937 was returned in 2005. They demonstrate Aksumite mastery of quarrying, transport and carving.",
+   "alternatives": [
+    {
+     "label": "Ark legends",
+     "text": "Local tradition links Aksum with the Ark of the Covenant; the stelae themselves are funerary monuments, not ark-related structures."
+    },
+    {
+     "label": "Foreign architects",
+     "text": "Colonial writers sometimes denied African capacity to raise the stones; archaeology shows local Aksumite production."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Obelisk of Axum",
+     "url": "https://en.wikipedia.org/wiki/Obelisk_of_Axum",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: King Ezana's Stele",
+     "url": "https://en.wikipedia.org/wiki/King_Ezana's_Stele",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Rome_Stele.jpg/500px-Rome_Stele.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Rome_Stele.jpg",
+     "author": "Ondřej Žváček",
+     "license": "CC BY 2.5",
+     "title": "Rome_Stele.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history"
+   ],
+   "threads": [
+    "giant-monuments",
+    "sacred-kingship"
+   ]
+  },
+  {
+   "id": "amanitore",
+   "title": "Kandake Amanitore of Kush",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1,
+   "end": null,
+   "evidenceTypes": [
+    "archaeological",
+    "epigraphic"
+   ],
+   "mainstream": "Amanitore was a queen (kandake) of the Kingdom of Kush in Nubia, ruling in the mid-1st century CE, often jointly with King Natakamani. Her name and image appear on temples at Naqa and Meroë. Kushite kandakes were powerful royal women; Roman sources remembered earlier kandakes who fought Rome. Amanitore's monuments show a flourishing Meroitic state building in Egyptianising and local styles.",
+   "alternatives": [
+    {
+     "label": "Warrior-queen stereotype",
+     "text": "Popular histories sometimes merge several kandakes into a single Amazon archetype; Amanitore is specifically attested as a builder-queen."
+    },
+    {
+     "label": "Biblical Candace",
+     "text": "Acts 8 mentions a kandake of the Ethiopians; she is not Amanitore, though later tradition sometimes blurs Nubian queens."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Amanitore",
+     "url": "https://en.wikipedia.org/wiki/Amanitore",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Aegyptisches_Museum_Berlin_InvNr7261_20080313_Barkenuntersatz_Natakamani_Amanitore_aus_Wad_Ban_Naga_1.jpg/500px-Aegyptisches_Museum_Berlin_InvNr7261_20080313_Barkenuntersatz_Natakamani_Amanitore_aus_Wad_Ban_Naga_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Aegyptisches_Museum_Berlin_InvNr7261_20080313_Barkenuntersatz_Natakamani_Amanitore_aus_Wad_Ban_Naga_1.jpg",
+     "author": "Sven-Steffen Arndt",
+     "license": "CC BY-SA 2.0",
+     "title": "Aegyptisches_Museum_Berlin_InvNr7261_20080313_Barkenuntersatz_Natakamani_Amanitore_aus_Wad_Ban_Naga_1.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology"
+   ],
+   "threads": [
+    "sacred-kingship",
+    "warrior-women"
+   ]
+  },
+  {
+   "id": "dogon-nommo",
+   "title": "The Nommo: Dogon ancestral water spirits",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": 0,
+   "end": null,
+   "dateNote": "Oral tradition; ethnography recorded mainly in the 20th century",
+   "evidenceTypes": [
+    "ethnographic",
+    "oral tradition"
+   ],
+   "mainstream": "In Dogon religion of Mali, the Nommo are ancestral spirits associated with water, often described as amphibious or fish-like beings who brought knowledge and order. Marcel Griaule's mid-20th-century ethnography made them famous, intertwining them with creation narratives and—controversially—with astronomical lore about Sirius. Later anthropologists questioned how much of Griaule's systematic cosmology reflected prompting versus independent Dogon teaching.",
+   "alternatives": [
+    {
+     "label": "Sirius link",
+     "text": "Claims that Nommo lore encodes knowledge of Sirius B are highly disputed (see Dogon–Sirius entry); Nommo as water ancestors are better attested than the astronomy."
+    },
+    {
+     "label": "Ancient astronaut reading",
+     "text": "Von Däniken-style authors treat Nommo as extraterrestrials; that is speculative and not required by Dogon tradition."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Nommo",
+     "url": "https://en.wikipedia.org/wiki/Nommo",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Brooklyn_Museum_1989.51.39_Nommo_Figure_with_Raised_Arms.jpg/500px-Brooklyn_Museum_1989.51.39_Nommo_Figure_with_Raised_Arms.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Brooklyn_Museum_1989.51.39_Nommo_Figure_with_Raised_Arms.jpg",
+     "author": "Unknown authorUnknown author",
+     "license": "CC BY 3.0",
+     "title": "Brooklyn_Museum_1989.51.39_Nommo_Figure_with_Raised_Arms.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion",
+    "aliens-ufo"
+   ],
+   "threads": [
+    "sky-beings",
+    "water-spirits",
+    "founding-ancestors"
+   ]
+  },
+  {
+   "id": "kanem-bornu",
+   "title": "Kanem–Bornu Empire",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 700,
+   "end": null,
+   "evidenceTypes": [
+    "textual",
+    "archaeological"
+   ],
+   "mainstream": "Kanem–Bornu was a long-lived Sahelian empire around Lake Chad, rising in Kanem by about the 8th–9th centuries, adopting Islam, then shifting its centre to Bornu (west of the lake) after the 14th century. It controlled trans-Saharan trade routes, maintained cavalry armies, and left king-lists and Arabic chronicles such as those used by Heinrich Barth. It persisted in various forms into the 19th century.",
+   "alternatives": [
+    {
+     "label": "Extent",
+     "text": "Chronicles and European travellers may inflate territorial control; effective power likely pulsed with trade and military success."
+    },
+    {
+     "label": "Lost libraries",
+     "text": "Romantic accounts invent vast vanished archives; some Arabic manuscripts from the region survive, but not a single destroyed \"Library of Chad\"."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Kanem–Bornu Empire",
+     "url": "https://en.wikipedia.org/wiki/Kanem%E2%80%93Bornu_Empire",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Kanem%E2%80%93Bornu%2C_13th_century.png/500px-Kanem%E2%80%93Bornu%2C_13th_century.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Kanem%E2%80%93Bornu,_13th_century.png",
+     "author": "Megartonius",
+     "license": "CC BY-SA 4.0",
+     "title": "Kanem–Bornu,_13th_century.png"
+    }
+   ],
+   "categories": [
+    "history"
+   ],
+   "threads": [
+    "sahel-kingdoms"
+   ]
+  },
+  {
+   "id": "kebra-nagast",
+   "title": "The Kebra Nagast: Glory of the Kings",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": 1320,
+   "end": null,
+   "evidenceTypes": [
+    "textual"
+   ],
+   "mainstream": "The Kebra Nagast, compiled in Ge'ez in 14th-century Ethiopia, narrates how the Queen of Sheba (Makeda) bore Menelik I to King Solomon, and how Menelik brought the Ark of the Covenant to Aksum. It became a foundational national and Solomonic-dynasty charter. Scholars trace sources to earlier Jewish, Christian and Arabic traditions reshaped for Ethiopian royal ideology.",
+   "alternatives": [
+    {
+     "label": "Historical ark",
+     "text": "Whether any object called the Ark reached Ethiopia is unproven; the text is theological-political narrative rather than archive reportage."
+    },
+    {
+     "label": "Ras Tafari readings",
+     "text": "Rastafari tradition draws on Solomonic Ethiopian identity popularised partly via this story-world; that is a modern religious reception."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Kebra Nagast",
+     "url": "https://en.wikipedia.org/wiki/Kebra_Nagast",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/COLLECTIE_TROPENMUSEUM_De_ontmoeting_tussen_Solomon_en_Sheba_TMnr_5956-6.jpg/500px-COLLECTIE_TROPENMUSEUM_De_ontmoeting_tussen_Solomon_en_Sheba_TMnr_5956-6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:COLLECTIE_TROPENMUSEUM_De_ontmoeting_tussen_Solomon_en_Sheba_TMnr_5956-6.jpg",
+     "author": "Unknown",
+     "license": "CC BY-SA 3.0",
+     "title": "COLLECTIE_TROPENMUSEUM_De_ontmoeting_tussen_Solomon_en_Sheba_TMnr_5956-6.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion",
+    "history"
+   ],
+   "threads": [
+    "sacred-relics",
+    "knowledge-and-power",
+    "sacred-kingship",
+    "founding-ancestors"
+   ]
+  },
+  {
+   "id": "sao-civilisation",
+   "title": "The Sao civilisation of Lake Chad",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 3,
+   "start": 500,
+   "end": null,
+   "evidenceTypes": [
+    "archaeological"
+   ],
+   "mainstream": "The Sao were Iron Age peoples south of Lake Chad (roughly early first millennium CE into the later Middle Ages) known archaeologically for distinctive pottery, terracotta figurines, metallurgy and settlement mounds in Cameroon, Chad and Nigeria. Oral traditions of later Kotoko and related groups claim Sao ancestry. They precede and partly overlap the rise of Kanem.",
+   "alternatives": [
+    {
+     "label": "Giant legends",
+     "text": "Regional folklore sometimes remembers the Sao as giants; this is mythic scale, not osteological fact."
+    },
+    {
+     "label": "Single \"civilisation\" label",
+     "text": "\"Sao civilisation\" is an archaeological shorthand for related cultures rather than one centralised state."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Sao civilisation",
+     "url": "https://en.wikipedia.org/wiki/Sao_civilisation",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Terracotta-head_0.jpg/500px-Terracotta-head_0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Terracotta-head_0.jpg",
+     "author": "XXGfHXx",
+     "license": "CC BY-SA 4.0",
+     "title": "Terracotta-head_0.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history",
+    "lost-civilisations"
+   ],
+   "threads": [
+    "lost-civilisations",
+    "sahel-kingdoms"
+   ]
+  },
+  {
+   "id": "djenne-djenno",
+   "title": "Djenné-Djenno: ancient city of the Inner Niger Delta",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -250,
+   "end": null,
+   "evidenceTypes": [
+    "archaeological"
+   ],
+   "mainstream": "Djenné-Djenno (Old Djenné) in Mali's Inner Niger Delta was occupied from about the 3rd century BCE to the 14th century CE, with large-scale mud architecture, craft production and long-distance trade well before trans-Saharan Islamised empires peaked. Excavations by Roderick and Susan McIntosh demonstrated early urbanism in West Africa independent of Mediterranean models. Nearby modern Djenné inherited regional commercial importance.",
+   "alternatives": [
+    {
+     "label": "Pristine Africa myth",
+     "text": "The site helped overturn claims that complex cities in the Sahel required external founders."
+    },
+    {
+     "label": "Atlantis of the Niger",
+     "text": "Fringe writers occasionally inflate it into a lost mega-civilisation beyond the archaeological footprint."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Djenné-Djenno",
+     "url": "https://en.wikipedia.org/wiki/Djenn%C3%A9-Djenno",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [],
+   "categories": [
+    "archaeology",
+    "history"
+   ],
+   "threads": [
+    "lost-civilisations",
+    "rediscovered-civilisations",
+    "sahel-kingdoms"
+   ]
+  },
+  {
+   "id": "great-mosque-djenne",
+   "title": "The Great Mosque of Djenné",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1907,
+   "end": null,
+   "evidenceTypes": [
+    "architectural",
+    "documentary",
+    "oral tradition"
+   ],
+   "mainstream": "The Great Mosque of Djenné in Mali is the world's largest mud-brick building, rebuilt in 1906–07 on earlier mosque sites going back centuries (traditionally to the 13th century). Annual community replastering maintains the Sudanese-style architecture. It is central to the UNESCO-listed Old Towns of Djenné. Non-Muslim tourists have been restricted from entering since the 1990s after disruptive fashion shoots.",
+   "alternatives": [
+    {
+     "label": "French reconstruction myth",
+     "text": "Some narratives claim the French invented the mosque; local building traditions and earlier mosques are well attested, though the present form dates to the early 20th-century rebuild."
+    },
+    {
+     "label": "Forbidden ancient tech",
+     "text": "Online posts sometimes treat the mosque as prehistoric alien architecture; it is living Sahelian earthen architecture."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Great Mosque of Djenné",
+     "url": "https://en.wikipedia.org/wiki/Great_Mosque_of_Djenn%C3%A9",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Djenne_great_mud_mosque.jpg/500px-Djenne_great_mud_mosque.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Djenne_great_mud_mosque.jpg",
+     "author": "Ruud Zwart",
+     "license": "CC BY-SA 3.0",
+     "title": "Djenne_great_mud_mosque.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "religion",
+    "archaeology"
+   ],
+   "threads": [
+    "giant-monuments",
+    "sahel-kingdoms"
+   ]
+  },
+  {
+   "id": "askia-muhammad",
+   "title": "Askia Muhammad I and the Songhai Empire's golden age",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1493,
+   "end": null,
+   "evidenceTypes": [
+    "textual"
+   ],
+   "mainstream": "Askia Muhammad I (Askia the Great) seized power in the Songhai Empire in 1493, expanded territory across the western Sahel, reorganised administration and promoted Islamic scholarship in Timbuktu and Gao. The Tarikh al-Sudan and Tarikh al-fattash are major sources. He was deposed by his son in 1528 and died in 1538; Songhai fell to the Moroccan invasion of 1591.",
+   "alternatives": [
+    {
+     "label": "Extent of literacy",
+     "text": "Songhai's scholarly fame is real, but literacy was specialised; romantic portraits of universal schooling exaggerate."
+    },
+    {
+     "label": "World's richest king comparisons",
+     "text": "Modern viral lists sometimes confuse Askia with Mansa Musa; both were wealthy Sahelian rulers of different empires."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Askia Muhammad I",
+     "url": "https://en.wikipedia.org/wiki/Askia_Muhammad_I",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Songhai Empire",
+     "url": "https://en.wikipedia.org/wiki/Songhai_Empire",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Map_of_the_Songhay_Empire.png/500px-Map_of_the_Songhay_Empire.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Map_of_the_Songhay_Empire.png",
+     "author": "HetmanTheResearcher",
+     "license": "CC BY-SA 4.0",
+     "title": "Map_of_the_Songhay_Empire.png"
+    }
+   ],
+   "categories": [
+    "history",
+    "religion"
+   ],
+   "threads": [
+    "knowledge-and-power",
+    "sahel-kingdoms"
+   ]
+  },
+  {
+   "id": "ashanti-golden-stool",
+   "title": "The Golden Stool of the Asante",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1700,
+   "end": null,
+   "dateNote": "Traditional origin late 17th century; historically attested thereafter",
+   "evidenceTypes": [
+    "oral tradition",
+    "textual"
+   ],
+   "mainstream": "The Golden Stool (Sika Dwa Kofi) is the sacred throne of the Asante (Ashanti) people of Ghana, said to have descended from the sky into the lap of the first Asantehene Osei Tutu with the help of the priest Anokye in the late 17th century. It embodies the soul of the nation and is never sat upon. British demands related to the stool helped spark the War of the Golden Stool in 1900, led by Yaa Asantewaa.",
+   "alternatives": [
+    {
+     "label": "Literal descent",
+     "text": "Tradition asserts miraculous origin; historians treat the stool's sanctity as foundational political theology of the Asante Union."
+    },
+    {
+     "label": "Hidden stool legends",
+     "text": "Stories of the stool's secret hiding places during colonial conflict are partly confirmed by oral history; sensational treasure versions proliferate."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Golden Stool",
+     "url": "https://en.wikipedia.org/wiki/Golden_Stool",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Golden_stool_31_January_1935.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Golden_stool_31_January_1935.jpg",
+     "author": "UK gov",
+     "license": "Public domain",
+     "title": "Golden_stool_31_January_1935.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "religion",
+    "myth-legend"
+   ],
+   "threads": [
+    "sacred-relics",
+    "sacred-kingship",
+    "founding-ancestors",
+    "sahel-kingdoms"
+   ]
   }
  ]
 }
