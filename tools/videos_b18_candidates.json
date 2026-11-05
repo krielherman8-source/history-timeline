@@ -1,0 +1,404 @@
+{
+ "bayon-faces": [
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=Dr5BA2TKHo0",
+   "title": "From a live Smarthistory webinar: Dr. Melody Rod-Ari on Angkor Thom",
+   "channel": "Smarthistory"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=2dBwMsfse1I",
+   "title": "Lost City of Angkor Wat | Lost Temples",
+   "channel": "National Geographic"
+  }
+ ],
+ "ayutthaya-fall": [
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=olFnoOYYD3E",
+   "title": "Historic City of Ayutthaya (UNESCO/NHK)",
+   "channel": "UNESCO"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=gCsYCbhFA1A",
+   "title": "Historic City of Ayutthaya (UNESCO/TBS)",
+   "channel": "UNESCO"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=NegoLgLtipo",
+   "title": "Historic City of Ayutthaya ! UNESCO WORLD HERITAGE SITES",
+   "channel": "UNESCO Tour"
+  }
+ ],
+ "dong-son-drums": [],
+ "champa-kingdom": [
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=ZNkXdSmTJkQ",
+   "title": "My Son Sanctuary (UNESCO/NHK)",
+   "channel": "UNESCO"
+  }
+ ],
+ "my-son-sanctuary": [
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=ZNkXdSmTJkQ",
+   "title": "My Son Sanctuary (UNESCO/NHK)",
+   "channel": "UNESCO"
+  }
+ ],
+ "sukhothai-kingdom": [
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=NoG2Gi7i-QU",
+   "title": "Historic Town of Sukhothai and Associated Historic Towns (UNESCO/NHK)",
+   "channel": "UNESCO"
+  }
+ ],
+ "trung-sisters": [
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=Wb0UgdRFj2A",
+   "title": "Lady Meng Jiang: The legend of the woman who outwitted an evil emperor - Juwen Zhang",
+   "channel": "TED-Ed"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=pFRXY8bV_ug",
+   "title": "When ancient wisdom beats modern industry - Rebecca Webster",
+   "channel": "TED-Ed"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=s_TGkDcjBqI",
+   "title": "The Chinese myth of the forbidden lovers - Shannon Zhao",
+   "channel": "TED-Ed"
+  }
+ ],
+ "pyu-ancient-cities": [
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=vfFgTZ-EPgM",
+   "title": "Myanmar hopes ancient cities make UNESCO list",
+   "channel": "Al Jazeera English"
+  }
+ ],
+ "capacocha": [
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=4zHge8wdPTk",
+   "title": "Virgins of the Sun and Incan Human Sacrifice",
+   "channel": "Smithsonian Channel"
+  }
+ ],
+ "chan-chan": [
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=d5hub4AsQbY",
+   "title": "Chan Chan Archaeological Zone (UNESCO/NHK)",
+   "channel": "UNESCO"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=X98ipTuSVJc",
+   "title": "The Lost City of Chan Chan | Lost Cities with Albert Lin",
+   "channel": "National Geographic"
+  }
+ ],
+ "quipu": [
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=AmPyz1kCbOw",
+   "title": "Threads That Speak: How The Inca Used Strings to Communicate | National Geographic",
+   "channel": "National Geographic"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=OFbbiAf8kUo",
+   "title": "Inca Knot Numbers - Numberphile",
+   "channel": "Numberphile"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=irukL7whBtM",
+   "title": "The Inca Used This To Write Without Words",
+   "channel": "SciShow"
+  }
+ ],
+ "amazon-geoglyphs": [
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=Dpu3XoY3wQw",
+   "title": "Ancient Civilizations of the World: Drain the Oceans | MEGA EPISODE | National Geographic",
+   "channel": "National Geographic"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=Tg27pdTvG4s",
+   "title": "Expedition Amazon – Into the Waters | National Geographic",
+   "channel": "National Geographic"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=cCnmKkCLDRM",
+   "title": "Underwater Myths & Legends Uncovered: Drain the Oceans | MEGA EPISODE | National Geographic",
+   "channel": "National Geographic"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=7MFKy7DJsCY",
+   "title": "Lost World of the Maya (Full Episode) | National Geographic",
+   "channel": "National Geographic"
+  }
+ ],
+ "qhapaq-nan": [
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=TCoO58ZeyrQ",
+   "title": "Qhapaq Ñan, Andean Road System",
+   "channel": "UNESCO Tour"
+  }
+ ],
+ "machu-picchu": [
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=cnMa-Sm9H4k",
+   "title": "Machu Picchu 101 | National Geographic",
+   "channel": "National Geographic"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=VB_WUMtdjpU",
+   "title": "Inca Island in the Sky (Full Episode) | Lost Cities with Albert Lin",
+   "channel": "National Geographic"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=78Ouaj0iLUk",
+   "title": "Beautiful Footage: Hiking to Machu Picchu | National Geographic",
+   "channel": "National Geographic"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=VJ-2zqbY33E",
+   "title": "Machu Picchu - The secrets of the Inca builders | DW Documentary",
+   "channel": "DW Documentary"
+  }
+ ],
+ "wari-empire": [],
+ "coricancha": [],
+ "huaca-del-sol": [
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=cnMa-Sm9H4k",
+   "title": "Machu Picchu 101 | National Geographic",
+   "channel": "National Geographic"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=VW2xRR75lKE",
+   "title": "Lunar Eclipse 101 | National Geographic",
+   "channel": "National Geographic"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=X98ipTuSVJc",
+   "title": "The Lost City of Chan Chan | Lost Cities with Albert Lin",
+   "channel": "National Geographic"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=wXLv8UL0mpA",
+   "title": "Discover one of the world's tallest waterfalls in Northern Peru #BestOfTheWorld",
+   "channel": "National Geographic"
+  }
+ ],
+ "paracas-textiles": [],
+ "aksum-obelisks": [
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=S3G5ZklLkm0",
+   "title": "Aksum (UNESCO/NHK)",
+   "channel": "UNESCO"
+  }
+ ],
+ "amanitore": [
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=ylS_Uff2oMM",
+   "title": "What happened to the lost Kingdom of Kush? - Geoff Emberling",
+   "channel": "TED-Ed"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=CwaP1kyAqqo",
+   "title": "Kingdom of Kush - History Of Africa with Zeinab Badawi [Episode 4]",
+   "channel": "BBC News Africa"
+  }
+ ],
+ "kanem-bornu": [
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=alJaltUmrGo",
+   "title": "Imperialism: Crash Course World History #35",
+   "channel": "CrashCourse"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=jvnU0v6hcUo",
+   "title": "Mansa Musa and Islam in Africa: Crash Course World History #16",
+   "channel": "CrashCourse"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=4uArRzwKHvE",
+   "title": "Congo and Africa's World War: Crash Course World History 221",
+   "channel": "CrashCourse"
+  }
+ ],
+ "kebra-nagast": [],
+ "djenne-djenno": [
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=Na-uIQ1Fdoc",
+   "title": "Old Towns of Djenné (UNESCO/NHK)",
+   "channel": "UNESCO"
+  }
+ ],
+ "great-mosque-djenne": [
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=Na-uIQ1Fdoc",
+   "title": "Old Towns of Djenné (UNESCO/NHK)",
+   "channel": "UNESCO"
+  }
+ ],
+ "askia-muhammad": [
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=jvnU0v6hcUo",
+   "title": "Mansa Musa and Islam in Africa: Crash Course World History #16",
+   "channel": "CrashCourse"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=4uArRzwKHvE",
+   "title": "Congo and Africa's World War: Crash Course World History 221",
+   "channel": "CrashCourse"
+  }
+ ],
+ "ashanti-golden-stool": [
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=sLtvfeYGcxk",
+   "title": "Yaa Asantewaa, Ghana's Warrior Queen",
+   "channel": "BBC News Africa"
+  }
+ ],
+ "amityville": [],
+ "area-51": [
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=kVpJ6BwG8zg",
+   "title": "Experts Reveal What Really Happened (Full Episode) | Area 51: The CIA's Secret",
+   "channel": "National Geographic"
+  }
+ ],
+ "cash-landrum": [],
+ "operation-highjump": [],
+ "archimedes": [
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=AVyg7tt0b-k",
+   "title": "Archimedes of Syracuse",
+   "channel": "Getty Museum"
+  }
+ ],
+ "ibn-al-haytham": [
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=4Dk2CfO5PAY",
+   "title": "The Brilliant Experiment That Changed The Way We See Light",
+   "channel": "Smithsonian Channel"
+  }
+ ],
+ "cairo-geniza": [
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=4Ir_Lx6FFcA",
+   "title": "A thousand year old seal from the Cairo Genizah",
+   "channel": "Cambridge University Library (the UL)"
+  }
+ ],
+ "grauballe-man": [
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=iK2zPLwxvZM",
+   "title": "The mystery of Europe's most famous bog bodies | BBC Global",
+   "channel": "BBC Global"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=k395TQqKq-Y",
+   "title": "This 2,400-Year-Old Corpse Is in Remarkable Condition",
+   "channel": "Smithsonian Channel"
+  }
+ ],
+ "denisova-cave": [
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=Y20pXB20Mog",
+   "title": "The Ancient Human Species With A Missing Body",
+   "channel": "PBS Eons"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=h777yfE39O8",
+   "title": "The Neandertals That Taught Us About Humanity",
+   "channel": "PBS Eons"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=6B4XEmFZ3M4",
+   "title": "The Extinct Human Species Found In Remote Cave Chambers",
+   "channel": "PBS Eons"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=jdYwMLSNHnU",
+   "title": "When We Met Other Human Species",
+   "channel": "PBS Eons"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=VdAnC73MH_g",
+   "title": "When Neandertals Became Apex Predators",
+   "channel": "PBS Eons"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=wiBgx05-JJs",
+   "title": "The Lagoon That Puzzled Paleontologists for 250 Years",
+   "channel": "PBS Eons"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=9x1Myi0T01o",
+   "title": "The First Apex Predator on Land",
+   "channel": "PBS Eons"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=a9MQbo5CvwM",
+   "title": "Ancient human found!",
+   "channel": "PBS Eons"
+  }
+ ],
+ "orontius-finaeus": [],
+ "hoa-binh-culture": [],
+ "phra-mae-thorani": [],
+ "sao-civilisation": []
+}

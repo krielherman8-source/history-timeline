@@ -1,0 +1,122 @@
+{
+ "my-son-sanctuary": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=ZNkXdSmTJkQ",
+  "title": "My Son Sanctuary (UNESCO/NHK)",
+  "channel": "UNESCO"
+ },
+ "chan-chan": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=X98ipTuSVJc",
+  "title": "The Lost City of Chan Chan | Lost Cities with Albert Lin",
+  "channel": "National Geographic"
+ },
+ "quipu": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=irukL7whBtM",
+  "title": "The Inca Used This To Write Without Words",
+  "channel": "SciShow"
+ },
+ "qhapaq-nan": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=TCoO58ZeyrQ",
+  "title": "Qhapaq Ñan, Andean Road System",
+  "channel": "UNESCO Tour"
+ },
+ "machu-picchu": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=VJ-2zqbY33E",
+  "title": "Machu Picchu - The secrets of the Inca builders | DW Documentary",
+  "channel": "DW Documentary"
+ },
+ "capacocha": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=4zHge8wdPTk",
+  "title": "Virgins of the Sun and Incan Human Sacrifice",
+  "channel": "Smithsonian Channel"
+ },
+ "area-51": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=kVpJ6BwG8zg",
+  "title": "Experts Reveal What Really Happened (Full Episode) | Area 51: The CIA's Secret",
+  "channel": "National Geographic"
+ },
+ "archimedes": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=AVyg7tt0b-k",
+  "title": "Archimedes of Syracuse",
+  "channel": "Getty Museum"
+ },
+ "ibn-al-haytham": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=4Dk2CfO5PAY",
+  "title": "The Brilliant Experiment That Changed The Way We See Light",
+  "channel": "Smithsonian Channel"
+ },
+ "cairo-geniza": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=4Ir_Lx6FFcA",
+  "title": "A thousand year old seal from the Cairo Genizah",
+  "channel": "Cambridge University Library (the UL)"
+ },
+ "grauballe-man": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=iK2zPLwxvZM",
+  "title": "The mystery of Europe's most famous bog bodies | BBC Global",
+  "channel": "BBC Global"
+ },
+ "denisova-cave": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=Y20pXB20Mog",
+  "title": "The Ancient Human Species With A Missing Body",
+  "channel": "PBS Eons"
+ },
+ "bayon-faces": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=Dr5BA2TKHo0",
+  "title": "From a live Smarthistory webinar: Dr. Melody Rod-Ari on Angkor Thom",
+  "channel": "Smarthistory"
+ },
+ "ayutthaya-fall": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=olFnoOYYD3E",
+  "title": "Historic City of Ayutthaya (UNESCO/NHK)",
+  "channel": "UNESCO"
+ },
+ "sukhothai-kingdom": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=NoG2Gi7i-QU",
+  "title": "Historic Town of Sukhothai and Associated Historic Towns (UNESCO/NHK)",
+  "channel": "UNESCO"
+ },
+ "aksum-obelisks": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=S3G5ZklLkm0",
+  "title": "Aksum (UNESCO/NHK)",
+  "channel": "UNESCO"
+ },
+ "amanitore": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=ylS_Uff2oMM",
+  "title": "What happened to the lost Kingdom of Kush? - Geoff Emberling",
+  "channel": "TED-Ed"
+ },
+ "great-mosque-djenne": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=Na-uIQ1Fdoc",
+  "title": "Old Towns of Djenné (UNESCO/NHK)",
+  "channel": "UNESCO"
+ },
+ "ashanti-golden-stool": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=sLtvfeYGcxk",
+  "title": "Yaa Asantewaa, Ghana's Warrior Queen",
+  "channel": "BBC News Africa"
+ },
+ "pyu-ancient-cities": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=vfFgTZ-EPgM",
+  "title": "Myanmar hopes ancient cities make UNESCO list",
+  "channel": "Al Jazeera English"
+ }
+}
