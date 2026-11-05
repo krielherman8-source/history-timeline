@@ -39904,6 +39904,506 @@
     "warrior-women",
     "southeast-asian-kingdoms"
    ]
+  },
+  {
+   "id": "capacocha",
+   "title": "Capacocha: Inca child sacrifice on the high peaks",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1450,
+   "end": null,
+   "evidenceTypes": [
+    "archaeological",
+    "ethnohistoric"
+   ],
+   "mainstream": "Capacocha (capac hucha) was an Inca state ritual in which children of high status were selected, ritually prepared and buried—often alive—on mountain summits with rich grave goods. Spanish chroniclers described the practice; archaeology has confirmed frozen mummies such as the Llullaillaco children (discovered 1999) and the Ice Maiden Juanita on Ampato (1995). Isotope and DNA studies show some children travelled long distances to the capitals before the final ascent.",
+   "alternatives": [
+    {
+     "label": "Scale",
+     "text": "Chroniclers imply large numbers of victims in major ceremonies; the archaeological sample is small and may over-represent high-altitude preserves."
+    },
+    {
+     "label": "Volunteer vs coercion",
+     "text": "Some popular accounts stress willing sacrifice; ethnohistorians emphasise state power, status obligation and limited choice."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Capacocha",
+     "url": "https://en.wikipedia.org/wiki/Capacocha",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/The_replica_of_the_plomo_mummy_at_the_Museo_Nacional_de_Historia_Natural_in_Sangtiago_Chile_2009_May_24.JPG/500px-The_replica_of_the_plomo_mummy_at_the_Museo_Nacional_de_Historia_Natural_in_Sangtiago_Chile_2009_May_24.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:The_replica_of_the_plomo_mummy_at_the_Museo_Nacional_de_Historia_Natural_in_Sangtiago_Chile_2009_May_24.JPG",
+     "author": "Jason Quinn",
+     "license": "CC BY-SA 3.0",
+     "title": "The_replica_of_the_plomo_mummy_at_the_Museo_Nacional_de_Historia_Natural_in_Sangtiago_Chile_2009_May_24.JPG"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "religion",
+    "history"
+   ],
+   "threads": [
+    "mummies",
+    "human-sacrifice",
+    "andean-empires",
+    "bog-bodies-and-offerings"
+   ]
+  },
+  {
+   "id": "chan-chan",
+   "title": "Chan Chan: capital of the Chimú",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 850,
+   "end": null,
+   "evidenceTypes": [
+    "archaeological"
+   ],
+   "mainstream": "Chan Chan, near Trujillo on Peru's north coast, was the adobe capital of the Chimú kingdom (Chimor) from about the 9th–15th centuries, until Inca conquest under Topa Inca Yupanqui around 1470. Its vast walled ciudadelas, friezes of fish and birds, and extensive irrigation supported one of the largest pre-Columbian cities in the Americas. It is a UNESCO World Heritage Site, threatened by erosion and El Niño rains.",
+   "alternatives": [
+    {
+     "label": "Labour organisation",
+     "text": "Debate continues over how rigidly Chimú society was stratified and whether the ciudadelas were royal compounds, administrative centres, or both."
+    },
+    {
+     "label": "Outsider builders",
+     "text": "Fringe claims of non-Andean builders ignore clear continuity with earlier Moche and Sicán coastal cultures."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Chan Chan",
+     "url": "https://en.wikipedia.org/wiki/Chan_Chan",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Chan_chan_view1.jpg/500px-Chan_chan_view1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Chan_chan_view1.jpg",
+     "author": "Håkan Svensson",
+     "license": "CC BY-SA 3.0",
+     "title": "Chan_chan_view1.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history",
+    "lost-civilisations"
+   ],
+   "threads": [
+    "lost-civilisations",
+    "giant-monuments",
+    "andean-empires"
+   ]
+  },
+  {
+   "id": "quipu",
+   "title": "Quipu: knotted-string records of the Andes",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 600,
+   "end": null,
+   "evidenceTypes": [
+    "archaeological",
+    "ethnohistoric"
+   ],
+   "mainstream": "Quipus (khipus) are assemblages of coloured, spun and knotted cords used by Andean societies—especially the Inca—to record numerical and possibly narrative information. Spanish officials described specialist quipucamayocs. Surviving quipus encode decimal place values in knot types and positions. Whether some quipus also encode phonetic or narrative data remains an active research question.",
+   "alternatives": [
+    {
+     "label": "Writing system",
+     "text": "Some researchers argue certain quipus are a writing system; others treat them primarily as accounting devices with limited non-numerical coding."
+    },
+    {
+     "label": "Suppressed literacy myths",
+     "text": "Claims that the Spanish uniquely destroyed a full Andean alphabet go beyond the evidence; quipus were partly co-opted into colonial administration before declining."
+    }
+   ],
+   "changed": "Late 20th–21st century work revived interest in non-numerical quipu content.",
+   "sources": [
+    {
+     "title": "Wikipedia: Quipu",
+     "url": "https://en.wikipedia.org/wiki/Quipu",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Inca_Quipu.jpg/500px-Inca_Quipu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Inca_Quipu.jpg",
+     "author": "Claus Ableiter nur hochgeladen aus enWiki",
+     "license": "CC BY-SA 3.0",
+     "title": "Inca_Quipu.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history",
+    "anomalies"
+   ],
+   "threads": [
+    "changed-understanding",
+    "ancient-technology",
+    "decipherments",
+    "andean-empires"
+   ]
+  },
+  {
+   "id": "amazon-geoglyphs",
+   "title": "Acre geoglyphs of the Amazon",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -500,
+   "end": null,
+   "evidenceTypes": [
+    "archaeological",
+    "remote sensing"
+   ],
+   "mainstream": "Hundreds of geometric earthworks—circles, squares and enclosures—have been documented in Acre state and neighbouring parts of Brazil and Bolivia, many revealed by deforestation and remote sensing. Radiocarbon dates often fall between about 1000 BCE and 1400 CE. They show that parts of Amazonia supported large, organised societies that cleared and shaped landscapes long before modern ranching, overturning the idea of a pristine empty forest.",
+   "alternatives": [
+    {
+     "label": "Urban scale",
+     "text": "Researchers debate how densely populated the surrounding landscapes were and whether the enclosures were villages, ceremonial centres, or both."
+    },
+    {
+     "label": "Lost continent myths",
+     "text": "Popular writers sometimes fold the geoglyphs into Atlantis or other pan-American lost-civilisation narratives not supported by the archaeology."
+    }
+   ],
+   "changed": "Mapped widely from the 2000s as forest clearance and lidar expanded coverage.",
+   "sources": [
+    {
+     "title": "Wikipedia: Acre geoglyphs",
+     "url": "https://en.wikipedia.org/wiki/Acre_geoglyphs",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Fazenda_Colorada.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Fazenda_Colorada.jpg",
+     "author": "Sanna Saunaluoma",
+     "license": "CC BY-SA 3.0",
+     "title": "Fazenda_Colorada.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "lost-civilisations"
+   ],
+   "threads": [
+    "lost-civilisations",
+    "changed-understanding",
+    "rediscovered-civilisations"
+   ]
+  },
+  {
+   "id": "qhapaq-nan",
+   "title": "Qhapaq Ñan: the Inca road system",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1450,
+   "end": null,
+   "evidenceTypes": [
+    "archaeological",
+    "ethnohistoric"
+   ],
+   "mainstream": "Qhapaq Ñan (\"the great road\") was the Inca imperial road network spanning thousands of kilometres from Colombia to Chile, with paved stretches, suspension bridges, way stations (tambos) and storehouses. It moved armies, messengers (chasquis) and tribute. UNESCO inscribed a transnational serial property in 2014. Segments remain in use by Andean communities.",
+   "alternatives": [
+    {
+     "label": "Pre-Inca routes",
+     "text": "Many segments upgraded older Wari, Tiwanaku and local roads; calling the whole system purely Inca oversimplifies."
+    },
+    {
+     "label": "Alien highway claims",
+     "text": "Internet myths sometimes attribute arrow-straight Andean roads to non-human engineers; they fit known imperial logistics."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Inca road system",
+     "url": "https://en.wikipedia.org/wiki/Inca_road_system",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Inca_road_system.jpg/500px-Inca_road_system.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Inca_road_system.jpg",
+     "author": "Koen Adams",
+     "license": "CC BY-SA 4.0",
+     "title": "Inca_road_system.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history"
+   ],
+   "threads": [
+    "ancient-technology",
+    "andean-empires"
+   ]
+  },
+  {
+   "id": "paracas-textiles",
+   "title": "Paracas textiles of the south coast of Peru",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -500,
+   "end": null,
+   "evidenceTypes": [
+    "archaeological"
+   ],
+   "mainstream": "The Paracas culture (c. 800–100 BCE) of Peru's south coast produced extraordinarily fine embroidered mantles and other textiles recovered from shaft tombs on the Paracas Peninsula, notably by Julio C. Tello in the 1920s. Motifs show flying figures, animals and supernatural beings in vivid colour. The textiles are among the finest surviving from the ancient Americas; many were looted into foreign collections.",
+   "alternatives": [
+    {
+     "label": "Elongated skulls link",
+     "text": "Paracas tombs also yielded intentionally elongated skulls (a separate entry); alternative writers sometimes claim the textiles depict \"alien\" biology—mainstream view treats the imagery as mythic and elite costume."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Paracas culture",
+     "url": "https://en.wikipedia.org/wiki/Paracas_culture",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/ParacasMap.svg/500px-ParacasMap.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:ParacasMap.svg",
+     "author": "QQuantum",
+     "license": "CC BY-SA 4.0",
+     "title": "ParacasMap.svg"
+    }
+   ],
+   "categories": [
+    "archaeology"
+   ],
+   "threads": [
+    "mummies"
+   ]
+  },
+  {
+   "id": "wari-empire",
+   "title": "The Wari: first empire of the Andes?",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 600,
+   "end": null,
+   "evidenceTypes": [
+    "archaeological"
+   ],
+   "mainstream": "The Wari (Huari) polity, centred near Ayacucho in highland Peru (c. 600–1000 CE), expanded administrative centres, terracing and road segments across much of Peru before the Inca. Distinctive oversize pottery, D-shaped temples and planned compounds mark Wari presence. Its collapse left a politically fragmented Middle Horizon aftermath later unified by the Inca.",
+   "alternatives": [
+    {
+     "label": "Empire vs network",
+     "text": "Scholars disagree whether Wari was a territorial empire, a loose hegemonic network, or a mix varying by region."
+    },
+    {
+     "label": "Tiwanaku rivalry",
+     "text": "Relations with Tiwanaku to the south are modelled as coexistence, competition or shared religious vocabulary."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Wari culture",
+     "url": "https://en.wikipedia.org/wiki/Wari_culture",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Map_of_Wari_in_Peru.svg/500px-Map_of_Wari_in_Peru.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Map_of_Wari_in_Peru.svg",
+     "author": "qQuantum",
+     "license": "CC BY-SA 4.0",
+     "title": "Map_of_Wari_in_Peru.svg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history"
+   ],
+   "threads": [
+    "lost-civilisations",
+    "andean-empires"
+   ]
+  },
+  {
+   "id": "machu-picchu",
+   "title": "Machu Picchu",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": 1450,
+   "end": null,
+   "evidenceTypes": [
+    "archaeological",
+    "ethnohistoric"
+   ],
+   "mainstream": "Machu Picchu, a 15th-century Inca estate in the cloud forest above the Urubamba River in Peru, was built for the emperor Pachacuti and later abandoned. Hiram Bingham brought it to world attention in 1911 with local guides; Indigenous farmers already knew the site. Carefully fitted stone architecture, terraces and astronomical alignments make it an icon of Andean engineering and a UNESCO World Heritage Site.",
+   "alternatives": [
+    {
+     "label": "Lost city myth",
+     "text": "Marketing as a \"lost city\" overlooks continuous local knowledge; Bingham was not its discoverer in an absolute sense."
+    },
+    {
+     "label": "Aliens and vibes",
+     "text": "Fringe tourism sometimes credits extraterrestrials or mystical energy for the stonework; archaeology documents Inca quarrying, transport and fitting methods."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Machu Picchu",
+     "url": "https://en.wikipedia.org/wiki/Machu_Picchu",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Machu_Picchu%2C_2023_%28012%29.jpg/500px-Machu_Picchu%2C_2023_%28012%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Machu_Picchu,_2023_(012).jpg",
+     "author": "Draceane",
+     "license": "CC BY-SA 4.0",
+     "title": "Machu_Picchu,_2023_(012).jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history"
+   ],
+   "threads": [
+    "giant-monuments",
+    "rediscovered-civilisations",
+    "andean-empires"
+   ]
+  },
+  {
+   "id": "coricancha",
+   "title": "Coricancha: the Inca golden temple of the Sun",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1438,
+   "end": null,
+   "evidenceTypes": [
+    "archaeological",
+    "ethnohistoric"
+   ],
+   "mainstream": "Coricancha (Qorikancha), in Cusco, was the Inca empire's principal temple of the sun (Inti), sheathed in gold plates according to Spanish accounts, with chapels for the moon, stars, thunder and other deities. After the conquest the Dominican monastery of Santo Domingo was built over and around it; earthquakes have repeatedly exposed Inca walls that outperform colonial masonry. Curved ashlar walls remain among the finest Inca stonework.",
+   "alternatives": [
+    {
+     "label": "Gold quantities",
+     "text": "Spanish reports of vast gold may be exaggerated; enough was looted to fuel legends of hidden Inca treasure."
+    },
+    {
+     "label": "Temple of unknown technology",
+     "text": "Alternative guides sometimes claim impossible precision; the walls fit documented Inca ashlar techniques."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Coricancha",
+     "url": "https://en.wikipedia.org/wiki/Coricancha",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Coricancha%2C_Cusco%2C_Per%C3%BA%2C_2015-07-31%2C_DD_68.JPG/500px-Coricancha%2C_Cusco%2C_Per%C3%BA%2C_2015-07-31%2C_DD_68.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Coricancha,_Cusco,_Per%C3%BA,_2015-07-31,_DD_68.JPG",
+     "author": "Diego Delso",
+     "license": "CC BY-SA 4.0",
+     "title": "Coricancha,_Cusco,_Perú,_2015-07-31,_DD_68.JPG"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "religion",
+    "history"
+   ],
+   "threads": [
+    "sun-cults",
+    "andean-empires"
+   ]
+  },
+  {
+   "id": "huaca-del-sol",
+   "title": "Huaca del Sol and Huaca de la Luna",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 100,
+   "end": null,
+   "evidenceTypes": [
+    "archaeological"
+   ],
+   "mainstream": "Huaca del Sol and Huaca de la Luna are massive adobe platform mounds of the Moche culture at Cerro Blanco near Trujillo, Peru (c. 100–800 CE). The Sun mound is among the largest adobe structures in the Americas; the Moon mound preserves polychrome reliefs of deities and sacrificed captives. Excavations show repeated ritual rebuilding and evidence of human sacrifice tied to Moche religion.",
+   "alternatives": [
+    {
+     "label": "Climate collapse",
+     "text": "One model links Moche political stress to severe El Niño floods; others stress internal conflict and religious change."
+    },
+    {
+     "label": "Palace of giants",
+     "text": "Colonial and popular lore sometimes called the huacas works of giants; they are Moche monumental architecture."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Huaca del Sol",
+     "url": "https://en.wikipedia.org/wiki/Huaca_del_Sol",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Huaca de la Luna",
+     "url": "https://en.wikipedia.org/wiki/Huaca_de_la_Luna",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Huaca_Sol_lou.jpg/500px-Huaca_Sol_lou.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Huaca_Sol_lou.jpg",
+     "author": "Unknown",
+     "license": "CC BY-SA 3.0",
+     "title": "Huaca_Sol_lou.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "religion",
+    "history"
+   ],
+   "threads": [
+    "giant-monuments",
+    "human-sacrifice",
+    "andean-empires"
+   ]
   }
  ]
 }
