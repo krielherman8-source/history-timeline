@@ -39411,6 +39411,499 @@
     "hoaxes-exposed",
     "scientific-revolution"
    ]
+  },
+  {
+   "id": "bayon-faces",
+   "title": "The Bayon: smiling faces of Angkor Thom",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1200,
+   "end": null,
+   "evidenceTypes": [
+    "archaeological",
+    "art historical"
+   ],
+   "mainstream": "The Bayon, at the centre of Angkor Thom in Cambodia, was built in the late 12th–early 13th century under the Khmer king Jayavarman VII. Its towers carry dozens of huge stone faces (commonly counted around 200), often identified with the bodhisattva Avalokitesvara and sometimes with the king himself. Bas-reliefs show markets, battles and daily life. The site is part of the Angkor UNESCO World Heritage property.",
+   "alternatives": [
+    {
+     "label": "Identity of the faces",
+     "text": "Scholars debate whether the faces primarily represent Avalokitesvara, Jayavarman VII, Brahma, or a deliberate fusion of royal and divine imagery."
+    },
+    {
+     "label": "Hidden technology claims",
+     "text": "Popular alternative books sometimes treat the precision of Khmer stonework as evidence of lost advanced technology; mainstream archaeology attributes it to large organised labour and skilled craft traditions."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Bayon",
+     "url": "https://en.wikipedia.org/wiki/Bayon",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Bayon%2C_Angkor_Thom%2C_Camboya%2C_2013-08-17%2C_DD_37.JPG/500px-Bayon%2C_Angkor_Thom%2C_Camboya%2C_2013-08-17%2C_DD_37.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Bayon,_Angkor_Thom,_Camboya,_2013-08-17,_DD_37.JPG",
+     "author": "Diego Delso",
+     "license": "CC BY-SA 3.0",
+     "title": "Bayon,_Angkor_Thom,_Camboya,_2013-08-17,_DD_37.JPG"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "religion",
+    "history"
+   ],
+   "threads": [
+    "sacred-kingship",
+    "southeast-asian-kingdoms"
+   ]
+  },
+  {
+   "id": "ayutthaya-fall",
+   "title": "The fall of Ayutthaya, 1767",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1767,
+   "end": null,
+   "evidenceTypes": [
+    "textual",
+    "archaeological"
+   ],
+   "mainstream": "In April 1767 Burmese armies of the Konbaung dynasty sacked Ayutthaya, capital of Siam for over four centuries. Temples and libraries were burned, the royal family captured or killed, and the city largely abandoned. Siamese resistance regrouped under Taksin, who founded a new capital at Thonburi; the Chakri dynasty later established Bangkok. Ruined Ayutthaya is a UNESCO World Heritage Site.",
+   "alternatives": [
+    {
+     "label": "Lost chronicles",
+     "text": "Much of Ayutthaya's archival record was destroyed; later Thai chronicles reconstruct the war from surviving and Burmese sources, so some details remain uncertain."
+    },
+    {
+     "label": "Cyclical collapse readings",
+     "text": "Some popular histories frame the sack as cosmic or karmic punishment; historians treat it as a conventional early-modern siege war."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Burmese–Siamese War (1765–1767)",
+     "url": "https://en.wikipedia.org/wiki/Burmese%E2%80%93Siamese_War_(1765%E2%80%931767)",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Ayutthaya Historical Park",
+     "url": "https://en.wikipedia.org/wiki/Ayutthaya_Historical_Park",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Burmese-Siamese_war_%281765-1767%29_map_-_EN_-_001.jpg/500px-Burmese-Siamese_war_%281765-1767%29_map_-_EN_-_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Burmese-Siamese_war_(1765-1767)_map_-_EN_-_001.jpg",
+     "author": "Aristitleism",
+     "license": "CC0",
+     "title": "Burmese-Siamese_war_(1765-1767)_map_-_EN_-_001.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "catastrophes"
+   ],
+   "threads": [
+    "civilisation-collapses",
+    "southeast-asian-kingdoms"
+   ]
+  },
+  {
+   "id": "dong-son-drums",
+   "title": "Dong Son bronze drums",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -600,
+   "end": null,
+   "evidenceTypes": [
+    "archaeological"
+   ],
+   "mainstream": "Dong Son drums are large, elaborately decorated bronze kettle drums produced from about the 6th century BCE by the Dong Son culture of the Red River valley (northern Vietnam) and traded widely across mainland and island Southeast Asia. Typical decoration includes frogs, birds, houses on piles, warriors and a central star or sun motif. They were status and ritual objects; related drums appear as far as Indonesia and southern China.",
+   "alternatives": [
+    {
+     "label": "Lost-civilisation diffusion",
+     "text": "19th–20th century diffusionist writers sometimes treated the drums as proof of a single forgotten high culture spanning the Pacific; modern archaeology sees regional bronze-age networks."
+    },
+    {
+     "label": "Rain magic",
+     "text": "Ethnographic analogies suggest some drums were used in rain or fertility rites; direct evidence for specific rituals is limited."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Dong Son drum",
+     "url": "https://en.wikipedia.org/wiki/Dong_Son_drum",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Đông Sơn culture",
+     "url": "https://en.wikipedia.org/wiki/%C4%90%C3%B4ng_S%C6%A1n_culture",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Tambour-song-da2.jpg/500px-Tambour-song-da2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Tambour-song-da2.jpg",
+     "author": "Unknown",
+     "license": "Public domain",
+     "title": "Tambour-song-da2.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history"
+   ],
+   "threads": [
+    "serpent-beings",
+    "trade-networks",
+    "southeast-asian-kingdoms"
+   ]
+  },
+  {
+   "id": "champa-kingdom",
+   "title": "The kingdom of Champa",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 192,
+   "end": null,
+   "evidenceTypes": [
+    "archaeological",
+    "textual",
+    "epigraphic"
+   ],
+   "mainstream": "Champa was a collection of Austronesian-speaking Hindu-Buddhist polities along the coast of what is now central and southern Vietnam, attested from the late 2nd century CE until its conquest by Dai Viet in 1832. Cham temples at My Son and elsewhere, Sanskrit and Cham inscriptions, and Chinese records document Indianised kingship, maritime trade and repeated wars with Angkor and Dai Viet. Cham communities remain in Vietnam and Cambodia.",
+   "alternatives": [
+    {
+     "label": "Origins",
+     "text": "Scholars debate how far Champa grew from local Sa Huynh culture versus migrant seafaring groups linked to Island Southeast Asia."
+    },
+    {
+     "label": "Po Nagar and goddess cults",
+     "text": "Cham mythology centres goddesses such as Po Nagar; some colonial writers exoticised these as evidence of matriarchy beyond what the inscriptions support."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Champa",
+     "url": "https://en.wikipedia.org/wiki/Champa",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Linyi_and_Chamic_states_of_the_fifth_century_AD.png/500px-Linyi_and_Chamic_states_of_the_fifth_century_AD.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Linyi_and_Chamic_states_of_the_fifth_century_AD.png",
+     "author": "Laska666",
+     "license": "CC0",
+     "title": "Linyi_and_Chamic_states_of_the_fifth_century_AD.png"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology",
+    "religion"
+   ],
+   "threads": [
+    "sacred-kingship",
+    "trade-networks",
+    "silk-road",
+    "southeast-asian-kingdoms"
+   ]
+  },
+  {
+   "id": "hoa-binh-culture",
+   "title": "The Hoabinhian: Southeast Asia's pebble-tool foragers",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -10000,
+   "end": null,
+   "dateNote": "Broad techno-complex; local dates vary",
+   "evidenceTypes": [
+    "archaeological"
+   ],
+   "mainstream": "The Hoabinhian is an archaeological stone-tool tradition of mainland Southeast Asia, named after finds in Hoa Binh province, Vietnam, and roughly spanning the late Pleistocene to mid-Holocene (c. 10,000–2000 BCE, with earlier starts proposed). It is characterised by flaked pebble tools and associated with hunter-gatherer cave and rockshelter occupations. It was long a key reference for the region's pre-Neolithic past.",
+   "alternatives": [
+    {
+     "label": "Agricultural transition",
+     "text": "Debate continues over when and how rice farming replaced or absorbed Hoabinhian foraging ways of life."
+    },
+    {
+     "label": "Deep antiquity claims",
+     "text": "Some popular accounts push continuous Hoabinhian occupation far earlier than the secure dated assemblages support."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Hoabinhian",
+     "url": "https://en.wikipedia.org/wiki/Hoabinhian",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [],
+   "categories": [
+    "archaeology"
+   ],
+   "threads": [
+    "human-origins"
+   ]
+  },
+  {
+   "id": "phra-mae-thorani",
+   "title": "Phra Mae Thorani: the earth goddess who drowned Mara",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": 1200,
+   "end": null,
+   "dateNote": "Iconography widespread by the Angkorian and later Tai periods",
+   "evidenceTypes": [
+    "textual",
+    "iconographic"
+   ],
+   "mainstream": "In Theravada Buddhist art of Thailand, Laos, Cambodia and Burma, Phra Mae Thorani (the earth goddess) is shown wringing water from her hair to drown the armies of Mara as the Buddha-to-be calls the earth to witness his right to enlightenment. The motif appears on temple murals, Buddha pedestals and amulets. It adapts older Indic ideas of the earth as witness into a distinctive mainland Southeast Asian image.",
+   "alternatives": [
+    {
+     "label": "Pre-Buddhist earth cult",
+     "text": "Some scholars see continuity with local earth and fertility goddesses folded into Buddhist narrative; others stress the Buddhist textual basis (the earth-touching gesture and Mara's defeat)."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Phra Mae Thorani",
+     "url": "https://en.wikipedia.org/wiki/Phra_Mae_Thorani",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%98%E0%B8%A3%E0%B8%93%E0%B8%B5%E0%B8%9A%E0%B8%B5%E0%B8%9A%E0%B8%A1%E0%B8%A7%E0%B8%A2%E0%B8%9C%E0%B8%A1_%E0%B8%AD%E0%B8%B8%E0%B9%82%E0%B8%9A%E0%B8%AA%E0%B8%96%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%AB%E0%B8%87%E0%B8%AA%E0%B9%8C%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%A1_Phra_Mae_Thorani.jpg/500px-%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%98%E0%B8%A3%E0%B8%93%E0%B8%B5%E0%B8%9A%E0%B8%B5%E0%B8%9A%E0%B8%A1%E0%B8%A7%E0%B8%A2%E0%B8%9C%E0%B8%A1_%E0%B8%AD%E0%B8%B8%E0%B9%82%E0%B8%9A%E0%B8%AA%E0%B8%96%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%AB%E0%B8%87%E0%B8%AA%E0%B9%8C%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%A1_Phra_Mae_Thorani.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%98%E0%B8%A3%E0%B8%93%E0%B8%B5%E0%B8%9A%E0%B8%B5%E0%B8%9A%E0%B8%A1%E0%B8%A7%E0%B8%A2%E0%B8%9C%E0%B8%A1_%E0%B8%AD%E0%B8%B8%E0%B9%82%E0%B8%9A%E0%B8%AA%E0%B8%96%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%AB%E0%B8%87%E0%B8%AA%E0%B9%8C%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%A1_Phra_Mae_Thorani.jpg",
+     "author": "Chainwit.",
+     "license": "CC BY-SA 4.0",
+     "title": "พระแม่ธรณีบีบมวยผม_อุโบสถวัดหงส์รัตนาราม_Phra_Mae_Thorani.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion"
+   ],
+   "threads": [
+    "serpent-beings"
+   ]
+  },
+  {
+   "id": "my-son-sanctuary",
+   "title": "My Son: holy land of the Cham kings",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 400,
+   "end": null,
+   "evidenceTypes": [
+    "archaeological",
+    "epigraphic"
+   ],
+   "mainstream": "My Son in Quang Nam, Vietnam, is a cluster of Hindu temple towers dedicated mainly to Shiva, built by Cham kings from the 4th to 13th centuries. Sanskrit and Cham inscriptions record royal donations. Heavily bombed in the Vietnam War, the site was cleared of mines and inscribed as a UNESCO World Heritage Site in 1999. It is the foremost surviving Cham sanctuary.",
+   "alternatives": [
+    {
+     "label": "Indian architects",
+     "text": "Colonial-era writers sometimes attributed Cham temples to Indian colonists; inscriptions and archaeology support local Cham patronage within an Indianised cultural sphere."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Mỹ Sơn",
+     "url": "https://en.wikipedia.org/wiki/M%E1%BB%B9_S%C6%A1n",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/X%C3%A3_M%E1%BB%B9_S%C6%A1n%2C_Ninh_S%C6%A1n.jpg/500px-X%C3%A3_M%E1%BB%B9_S%C6%A1n%2C_Ninh_S%C6%A1n.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:X%C3%A3_M%E1%BB%B9_S%C6%A1n,_Ninh_S%C6%A1n.jpg",
+     "author": "Nguyenthuanduc",
+     "license": "CC0",
+     "title": "Xã_Mỹ_Sơn,_Ninh_Sơn.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "religion",
+    "history"
+   ],
+   "threads": [
+    "southeast-asian-kingdoms"
+   ]
+  },
+  {
+   "id": "pyu-ancient-cities",
+   "title": "The Pyu ancient cities of Myanmar",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -200,
+   "end": null,
+   "evidenceTypes": [
+    "archaeological",
+    "epigraphic"
+   ],
+   "mainstream": "The Pyu city-states (c. 2nd century BCE–9th century CE) in the Irrawaddy valley of Myanmar—especially Halin, Beikthano and Sri Ksetra—were early urban Buddhist centres with brick walls, burial urns, silver coinage and Pyu-script inscriptions. UNESCO inscribed the three cities in 2014. Their decline coincided with the rise of Bagan.",
+   "alternatives": [
+    {
+     "label": "Indianisation vs local development",
+     "text": "Historians debate how much Pyu urbanism owed to Indian models versus indigenous trajectories."
+    },
+    {
+     "label": "Lost chronicles",
+     "text": "Later Burmese chronicles project legendary origins onto the Pyu; archaeology is the primary evidence."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Pyu city-states",
+     "url": "https://en.wikipedia.org/wiki/Pyu_city-states",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Pyu_city-states_physical_map.svg/500px-Pyu_city-states_physical_map.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Pyu_city-states_physical_map.svg",
+     "author": "Kanguole",
+     "license": "CC BY-SA 4.0",
+     "title": "Pyu_city-states_physical_map.svg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history",
+    "religion"
+   ],
+   "threads": [
+    "sacred-kingship",
+    "southeast-asian-kingdoms"
+   ]
+  },
+  {
+   "id": "sukhothai-kingdom",
+   "title": "Sukhothai: first Thai kingdom",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1238,
+   "end": null,
+   "evidenceTypes": [
+    "textual",
+    "epigraphic",
+    "archaeological"
+   ],
+   "mainstream": "Sukhothai, in north-central Thailand, emerged in the 13th century as an early Tai polity often called the first Thai kingdom. King Ramkhamhaeng is traditionally credited with a 1292 inscription praising just rule, free trade and a Thai script; the inscription's authenticity has been debated. Sukhothai art developed a distinctive walking Buddha style. The kingdom was absorbed by Ayutthaya in the 15th century; its parks are a UNESCO site.",
+   "alternatives": [
+    {
+     "label": "Ramkhamhaeng inscription",
+     "text": "Some Thai and foreign scholars have questioned whether the famous inscription is a 19th-century fabrication; many epigraphers still accept it as 13th-century with possible later copies."
+    },
+    {
+     "label": "National origin myth",
+     "text": "Modern Thai nationalism elevated Sukhothai as the cradle of the nation; historians describe a more gradual Tai political rise."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Sukhothai Kingdom",
+     "url": "https://en.wikipedia.org/wiki/Sukhothai_Kingdom",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Ram Khamhaeng Inscription",
+     "url": "https://en.wikipedia.org/wiki/Ram_Khamhaeng_Inscription",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Southeast_Asian_history_-_13th_century.png/500px-Southeast_Asian_history_-_13th_century.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Southeast_Asian_history_-_13th_century.png",
+     "author": "Nicolas Eynaud",
+     "license": "CC BY-SA 4.0",
+     "title": "Southeast_Asian_history_-_13th_century.png"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology"
+   ],
+   "threads": [
+    "sacred-kingship",
+    "southeast-asian-kingdoms"
+   ]
+  },
+  {
+   "id": "trung-sisters",
+   "title": "The Trung sisters' rebellion",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 40,
+   "end": null,
+   "evidenceTypes": [
+    "textual",
+    "oral tradition"
+   ],
+   "mainstream": "In 40 CE the sisters Trung Trac and Trung Nhi led a revolt against Han Chinese rule in the Red River Delta (Jiaozhi), briefly establishing independent rule before being defeated by the general Ma Yuan in 43 CE. They are national heroines in Vietnam, commemorated in temples and place names. The earliest accounts are Chinese; later Vietnamese histories and folklore elaborate their story, including the motif of riding war elephants.",
+   "alternatives": [
+    {
+     "label": "Historicity of details",
+     "text": "The broad revolt is accepted from Chinese sources; many colourful details (elephant cavalry, ritual suicide) come from later tradition."
+    },
+    {
+     "label": "Feminist readings",
+     "text": "Modern writers cast the sisters as early feminist icons; that frame is anachronistic but reflects their lasting symbolic role."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Trưng sisters",
+     "url": "https://en.wikipedia.org/wiki/Tr%C6%B0ng_sisters",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Hai_B%C3%A0_Tr%C6%B0ng_%28tranh_%C4%90%C3%B4ng_H%E1%BB%93%29.jpeg/500px-Hai_B%C3%A0_Tr%C6%B0ng_%28tranh_%C4%90%C3%B4ng_H%E1%BB%93%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Hai_B%C3%A0_Tr%C6%B0ng_(tranh_%C4%90%C3%B4ng_H%E1%BB%93).jpeg",
+     "author": "Unknown",
+     "license": "Public domain",
+     "title": "Hai_Bà_Trưng_(tranh_Đông_Hồ).jpeg"
+    }
+   ],
+   "categories": [
+    "history",
+    "myth-legend"
+   ],
+   "threads": [
+    "warrior-women",
+    "southeast-asian-kingdoms"
+   ]
   }
  ]
 }

@@ -1600,3 +1600,75 @@ addt('dragons-and-fossils','lying-stones')
 addt('silk-road','vegetable-lamb')
 addt('first-art','lion-man hohle-fels-venus blombos sulawesi-art chauvet lascaux altamira apollo-11-cave')
 addt('scientific-revolution','harvey-circulation leeuwenhoek transit-of-venus-1769 heliocentrism lying-stones mary-toft tycho-supernova')
+# batch 18 part 1 — Mainland SE Asia
+C.update({
+'bayon-faces':'archaeology religion history','ayutthaya-fall':'history catastrophes','dong-son-drums':'archaeology history',
+'champa-kingdom':'history archaeology religion','hoa-binh-culture':'archaeology','phra-mae-thorani':'myth-legend religion',
+'my-son-sanctuary':'archaeology religion history','pyu-ancient-cities':'archaeology history religion','sukhothai-kingdom':'history archaeology',
+'trung-sisters':'history myth-legend'})
+addt('southeast-asian-kingdoms','bayon-faces ayutthaya-fall dong-son-drums champa-kingdom my-son-sanctuary pyu-ancient-cities sukhothai-kingdom trung-sisters angkor bagan-pagan-kingdom oc-eo-funan srivijaya borobudur')
+addt('serpent-beings','phra-mae-thorani dong-son-drums')
+addt('sacred-kingship','bayon-faces champa-kingdom pyu-ancient-cities sukhothai-kingdom')
+addt('civilisation-collapses','ayutthaya-fall')
+addt('warrior-women','trung-sisters')
+addt('human-origins','hoa-binh-culture')
+addt('trade-networks','dong-son-drums champa-kingdom')
+addt('silk-road','champa-kingdom')
+# batch 18 part 2 — Andes / Amazon
+C.update({
+'capacocha':'archaeology religion history','chan-chan':'archaeology history lost-civilisations','quipu':'archaeology history anomalies',
+'amazon-geoglyphs':'archaeology lost-civilisations','qhapaq-nan':'archaeology history','paracas-textiles':'archaeology',
+'wari-empire':'archaeology history','machu-picchu':'archaeology history','coricancha':'archaeology religion history',
+'huaca-del-sol':'archaeology religion history'})
+addt('andean-empires','capacocha chan-chan quipu qhapaq-nan wari-empire machu-picchu coricancha huaca-del-sol puma-punku caral chavin sipan nazca-lines viracocha sacsayhuaman')
+addt('human-sacrifice','capacocha huaca-del-sol')
+addt('decipherments','quipu')
+addt('ancient-technology','quipu qhapaq-nan')
+addt('lost-civilisations','amazon-geoglyphs chan-chan wari-empire')
+addt('rediscovered-civilisations','amazon-geoglyphs machu-picchu')
+addt('changed-understanding','amazon-geoglyphs quipu')
+addt('sun-cults','coricancha')
+addt('giant-monuments','machu-picchu huaca-del-sol chan-chan')
+addt('mummies','capacocha paracas-textiles')
+# batch 18 part 3 — West Africa / Sahel / Nile
+C.update({
+'aksum-obelisks':'archaeology history','amanitore':'history archaeology','dogon-nommo':'myth-legend religion aliens-ufo',
+'kanem-bornu':'history','kebra-nagast':'myth-legend religion history','sao-civilisation':'archaeology history lost-civilisations',
+'djenne-djenno':'archaeology history','great-mosque-djenne':'history religion archaeology','askia-muhammad':'history religion',
+'ashanti-golden-stool':'history religion myth-legend'})
+addt('sahel-kingdoms','kanem-bornu askia-muhammad djenne-djenno great-mosque-djenne ashanti-golden-stool mansa-musa timbuktu-manuscripts sundiata wagadu-bida sao-civilisation')
+addt('sacred-kingship','aksum-obelisks amanitore kebra-nagast ashanti-golden-stool')
+addt('giant-monuments','aksum-obelisks great-mosque-djenne')
+addt('warrior-women','amanitore')
+addt('sky-beings','dogon-nommo')
+addt('water-spirits','dogon-nommo')
+addt('founding-ancestors','kebra-nagast dogon-nommo ashanti-golden-stool')
+addt('lost-civilisations','sao-civilisation djenne-djenno')
+addt('knowledge-and-power','askia-muhammad kebra-nagast')
+addt('sacred-relics','ashanti-golden-stool kebra-nagast')
+addt('rediscovered-civilisations','djenne-djenno')
+# batch 18 part 4 — weird science / anomalies / UFOs / hoaxes
+C.update({
+'amityville':'hoaxes anomalies','area-51':'aliens-ufo history anomalies','cash-landrum':'aliens-ufo anomalies',
+'operation-highjump':'history anomalies aliens-ufo','orontius-finaeus':'anomalies lost-civilisations history','archimedes':'science-cosmos history',
+'ibn-al-haytham':'science-cosmos history','cairo-geniza':'history religion','grauballe-man':'archaeology religion',
+'denisova-cave':'science-cosmos archaeology'})
+addt('map-mysteries','orontius-finaeus piri-reis tupaia-chart')
+addt('bog-bodies-and-offerings','grauballe-man tollund-man capacocha')
+addt('denisovan-world','denisova-cave denisovan-tibet denisovans-papua neanderthal-dna homo-floresiensis')
+addt('haunted-houses','amityville')
+addt('polar-mysteries','operation-highjump lake-vostok')
+addt('hoaxes-exposed','amityville')
+addt('ufo-encounters','area-51 cash-landrum')
+addt('cold-war-secrets','area-51 operation-highjump')
+addt('seeing-what-we-expect','amityville cash-landrum orontius-finaeus')
+addt('lost-civilisations','orontius-finaeus')
+addt('ancient-technology','archimedes')
+addt('knowledge-and-power','ibn-al-haytham cairo-geniza archimedes')
+addt('changed-understanding','ibn-al-haytham denisova-cave archimedes')
+addt('lost-libraries','cairo-geniza')
+addt('human-origins','denisova-cave')
+addt('human-sacrifice','grauballe-man')
+addt('underground-worlds','area-51 operation-highjump')
+addt('rejected-pioneers','ibn-al-haytham')
+addt('scientific-revolution','ibn-al-haytham')
