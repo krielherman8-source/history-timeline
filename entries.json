@@ -40902,6 +40902,504 @@
     "founding-ancestors",
     "sahel-kingdoms"
    ]
+  },
+  {
+   "id": "amityville",
+   "title": "The Amityville Horror",
+   "lane": "history",
+   "status": "debunked",
+   "priority": 2,
+   "start": 1975,
+   "end": null,
+   "evidenceTypes": [
+    "textual",
+    "eyewitness"
+   ],
+   "mainstream": "In December 1975 the Lutz family fled 112 Ocean Avenue in Amityville, New York, after 28 days, claiming intense hauntings. The house had been the scene of the 1974 DeFeo murders. Jay Anson's 1977 book and later films made the case world-famous. Investigators, including some initially sympathetic, found major contradictions; Ronald DeFeo's lawyer and others said the haunting story was concocted for money. It remains a landmark of modern haunted-house lore and media.",
+   "alternatives": [
+    {
+     "label": "Genuine haunting",
+     "text": "Believers cite alleged psychic corroboration and later residents' stories; mainstream investigators classify the Lutz account as a hoax or heavy embellishment."
+    },
+    {
+     "label": "Demonic portal claims",
+     "text": "Paranormal literature sometimes treats the house as a gate; no verifiable evidence supports this."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: The Amityville Horror",
+     "url": "https://en.wikipedia.org/wiki/The_Amityville_Horror",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [],
+   "categories": [
+    "hoaxes",
+    "anomalies"
+   ],
+   "threads": [
+    "hoaxes-exposed",
+    "seeing-what-we-expect",
+    "haunted-houses"
+   ]
+  },
+  {
+   "id": "area-51",
+   "title": "Area 51 (Groom Lake)",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1955,
+   "end": null,
+   "evidenceTypes": [
+    "documentary",
+    "textual"
+   ],
+   "mainstream": "Area 51 is a highly classified US Air Force facility at Groom Lake, Nevada, established in the mid-1950s for flight testing of secret aircraft such as the U-2, A-12/Oxcart and later stealth prototypes. The US government publicly acknowledged the site's name and purpose in 2013. Secrecy, restricted airspace and desert sightings fuelled decades of UFO lore linking it to crashed saucers and alien technology—claims never substantiated by credible evidence.",
+   "alternatives": [
+    {
+     "label": "Alien reverse-engineering",
+     "text": "Bob Lazar's 1989 claims of Element 115 and saucer work at \"S-4\" near Area 51 remain unverified and widely disputed."
+    },
+    {
+     "label": "Underground bases",
+     "text": "Popular maps of vast subterranean complexes go far beyond documented hangars and test infrastructure."
+    }
+   ],
+   "changed": "2013 CIA history release confirmed the site's U-2 era role.",
+   "sources": [
+    {
+     "title": "Wikipedia: Area 51",
+     "url": "https://en.wikipedia.org/wiki/Area_51",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [],
+   "categories": [
+    "aliens-ufo",
+    "history",
+    "anomalies"
+   ],
+   "threads": [
+    "ufo-encounters",
+    "underground-worlds",
+    "cold-war-secrets"
+   ]
+  },
+  {
+   "id": "cash-landrum",
+   "title": "Cash–Landrum UFO incident (1980)",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 1980,
+   "end": null,
+   "evidenceTypes": [
+    "eyewitness",
+    "medical records"
+   ],
+   "mainstream": "On the evening of 29 December 1980 Betty Cash, Vickie Landrum and Landrum's grandson reported a diamond-shaped fiery object above a road in Dayton, Texas, accompanied by presumed military helicopters. The women later reported severe health effects they attributed to radiation-like exposure and sued the US government; the case was dismissed. No official explanation has been confirmed; hypotheses include a military exercise, misidentified aircraft, or fabrication/exaggeration.",
+   "alternatives": [
+    {
+     "label": "Secret military craft",
+     "text": "UFO researchers often argue for a malfunctioning nuclear-powered test vehicle; no declassified proof has emerged."
+    },
+    {
+     "label": "Hoax or psychogenesis",
+     "text": "Sceptics note inconsistencies and the financial incentive of litigation; medical causation remains contested."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Cash–Landrum incident",
+     "url": "https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Cash-Landrum_UFO_illustration_by_Kathy_Schuessler.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Cash-Landrum_UFO_illustration_by_Kathy_Schuessler.jpg",
+     "author": "Kathy Schuessler",
+     "license": "CC BY-SA 4.0",
+     "title": "Cash-Landrum_UFO_illustration_by_Kathy_Schuessler.jpg"
+    }
+   ],
+   "categories": [
+    "aliens-ufo",
+    "anomalies"
+   ],
+   "threads": [
+    "ufo-encounters",
+    "seeing-what-we-expect"
+   ]
+  },
+  {
+   "id": "operation-highjump",
+   "title": "Operation Highjump in Antarctica",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1946,
+   "end": null,
+   "evidenceTypes": [
+    "documentary",
+    "textual"
+   ],
+   "mainstream": "Operation Highjump (1946–47) was a large US Navy Antarctic expedition led by Rear Admiral Richard E. Byrd, involving 13 ships and thousands of men, to train in polar conditions, map coastline and assert presence. It achieved aerial mapping before weather forced early wind-down. Decades later, fringe literature claimed Byrd fought UFO fleets or found Nazi/hollow-Earth bases—claims unsupported by the expedition's official records and logs.",
+   "alternatives": [
+    {
+     "label": "Hollow Earth / Nazi base myths",
+     "text": "Conspiracy books and a disputed \"secret diary\" allege polar openings and enemy fleets; historians treat these as postwar fiction layered onto a real military exercise."
+    },
+    {
+     "label": "Byrd's warnings",
+     "text": "A frequently quoted interview about foes that could fly pole to pole is real Cold War commentary on aviation, later misread as a UFO confession."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Operation Highjump",
+     "url": "https://en.wikipedia.org/wiki/Operation_Highjump",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/USS_Sennet_%28SS-408%29_in_Antartica_1947.jpg/500px-USS_Sennet_%28SS-408%29_in_Antartica_1947.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:USS_Sennet_(SS-408)_in_Antartica_1947.jpg",
+     "author": "U.S. Navy",
+     "license": "Public domain",
+     "title": "USS_Sennet_(SS-408)_in_Antartica_1947.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "anomalies",
+    "aliens-ufo"
+   ],
+   "threads": [
+    "underground-worlds",
+    "cold-war-secrets",
+    "polar-mysteries"
+   ]
+  },
+  {
+   "id": "orontius-finaeus",
+   "title": "The Orontius Finaeus (Oronce Fine) map of 1531",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 3,
+   "start": 1531,
+   "end": null,
+   "evidenceTypes": [
+    "cartographic",
+    "textual"
+   ],
+   "mainstream": "French cartographer Oronce Fine (Orontius Finaeus) published a 1531 world map whose southern landmass some 20th-century writers, notably Charles Hapgood, compared to an ice-free Antarctica. Hapgood argued such maps preserved knowledge from an unknown Ice Age civilisation. Mainstream historians of cartography treat Fine's south land as a speculative Terra Australis of Renaissance geography, not a survey of Antarctica under ice.",
+   "alternatives": [
+    {
+     "label": "Hapgood / lost civilisation",
+     "text": "Alternative historians still cite Fine and the Piri Reis map as evidence of prehistoric Antarctic mapping; professional cartographic history rejects that reading."
+    },
+    {
+     "label": "Authentic Antarctica",
+     "text": "No peer-reviewed geophysical match requires an ice-free surveyed Antarctica in Fine's sources."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Oronce Fine",
+     "url": "https://en.wikipedia.org/wiki/Oronce_Fine",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Charles Hapgood",
+     "url": "https://en.wikipedia.org/wiki/Charles_Hapgood",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Oronce_Fine.JPG/500px-Oronce_Fine.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Oronce_Fine.JPG",
+     "author": "Unknown authorUnknown author",
+     "license": "Public domain",
+     "title": "Oronce_Fine.JPG"
+    }
+   ],
+   "categories": [
+    "anomalies",
+    "lost-civilisations",
+    "history"
+   ],
+   "threads": [
+    "lost-civilisations",
+    "seeing-what-we-expect",
+    "map-mysteries"
+   ]
+  },
+  {
+   "id": "archimedes",
+   "title": "Archimedes of Syracuse",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": -287,
+   "end": null,
+   "evidenceTypes": [
+    "textual"
+   ],
+   "mainstream": "Archimedes (c. 287–212 BCE) of Syracuse was a Greek mathematician and engineer who proved results on areas, volumes and the lever, approximated pi, and invented war machines used against Rome in the siege of Syracuse. Later sources credit a heat-ray of burning mirrors and a claw that lifted ships; modern reconstructions of the mirrors are generally unsuccessful at warship scale, while crane-like \"claws\" are more plausible. He was killed when Syracuse fell.",
+   "alternatives": [
+    {
+     "label": "Burning mirrors",
+     "text": "The heat-ray story is late and physically dubious at fleet scale; it remains a popular experimental challenge."
+    },
+    {
+     "label": "Antikythera link",
+     "text": "Some popular accounts loosely credit Archimedes with the Antikythera mechanism's tradition; he worked in the right cultural sphere, but authorship is unproven."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Archimedes",
+     "url": "https://en.wikipedia.org/wiki/Archimedes",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Domenico-Fetti_Archimedes_1620.jpg/500px-Domenico-Fetti_Archimedes_1620.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Domenico-Fetti_Archimedes_1620.jpg",
+     "author": "Domenico Fetti",
+     "license": "Public domain",
+     "title": "Domenico-Fetti_Archimedes_1620.jpg"
+    }
+   ],
+   "categories": [
+    "science-cosmos",
+    "history"
+   ],
+   "threads": [
+    "changed-understanding",
+    "ancient-technology",
+    "knowledge-and-power"
+   ]
+  },
+  {
+   "id": "ibn-al-haytham",
+   "title": "Ibn al-Haytham (Alhazen) and the scientific method in optics",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": 1021,
+   "end": null,
+   "evidenceTypes": [
+    "textual"
+   ],
+   "mainstream": "Hasan Ibn al-Haytham (c. 965–1040), working in Cairo, wrote the Book of Optics (Kitab al-Manazir), arguing that vision results from light entering the eye, analysing reflection and refraction, and stressing controlled testing of claims. Latin translations as Alhazen influenced medieval and early modern European optics. He also wrote on astronomy, mathematics and the camera obscura.",
+   "alternatives": [
+    {
+     "label": "Father of scientific method",
+     "text": "Popular histories sometimes call him the sole inventor of experimental science; historians place him among several medieval figures developing empirical argument."
+    },
+    {
+     "label": "Suppressed genius myths",
+     "text": "Internet essays claim the Church uniquely suppressed him; his work was in fact transmitted into Latin Christendom."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Ibn al-Haytham",
+     "url": "https://en.wikipedia.org/wiki/Ibn_al-Haytham",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Ibn_al-Haytham_crop.jpg/500px-Ibn_al-Haytham_crop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Ibn_al-Haytham_crop.jpg",
+     "author": "Adolph Boÿ, engraved by Jeremias Falck. Used as the frontispiece to Johannes Hevelius, Selenographia, 1647",
+     "license": "Public domain",
+     "title": "Ibn_al-Haytham_crop.jpg"
+    }
+   ],
+   "categories": [
+    "science-cosmos",
+    "history"
+   ],
+   "threads": [
+    "changed-understanding",
+    "knowledge-and-power",
+    "rejected-pioneers",
+    "scientific-revolution"
+   ]
+  },
+  {
+   "id": "cairo-geniza",
+   "title": "The Cairo Geniza",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1896,
+   "end": null,
+   "evidenceTypes": [
+    "textual",
+    "archaeological"
+   ],
+   "mainstream": "The Cairo Geniza is a vast cache of Jewish manuscript fragments (roughly 9th–19th centuries) recovered mainly from the Ben Ezra Synagogue in Fustat (Old Cairo), brought to scholarly attention especially by Solomon Schechter in the 1890s. Letters, contracts, liturgies and shopping lists illuminate Mediterranean social, economic and religious life. Most fragments are now in Cambridge and other libraries; digitisation continues.",
+   "alternatives": [
+    {
+     "label": "Hidden Atlantis of papers",
+     "text": "Romantic accounts exaggerate secret cabals; the geniza was a sacred storeroom for worn writings, not a sealed conspiracy archive."
+    },
+    {
+     "label": "Lost gospel fantasies",
+     "text": "Occasional media claims of world-changing suppressed gospels from the geniza usually misfile ordinary liturgical or legal texts."
+    }
+   ],
+   "changed": "Mass scholarly exploitation from the 1890s; major digitisation in the 21st century.",
+   "sources": [
+    {
+     "title": "Wikipedia: Cairo Geniza",
+     "url": "https://en.wikipedia.org/wiki/Cairo_Geniza",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Bab_voc_fragment_2.jpg/500px-Bab_voc_fragment_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Bab_voc_fragment_2.jpg",
+     "author": "Paul Kahle",
+     "license": "Public domain",
+     "title": "Bab_voc_fragment_2.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "religion"
+   ],
+   "threads": [
+    "knowledge-and-power",
+    "lost-libraries"
+   ]
+  },
+  {
+   "id": "grauballe-man",
+   "title": "Grauballe Man and the bog bodies of northern Europe",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -290,
+   "end": null,
+   "evidenceTypes": [
+    "archaeological",
+    "forensic"
+   ],
+   "mainstream": "Grauballe Man is a bog body found in 1952 in Jutland, Denmark, dated to around the 3rd century BCE. His throat was cut, and the acidic peat preserved soft tissue to a rare degree. Together with Tollund Man and other finds he anchors debate over Iron Age ritual killing, execution and deposition in wetlands across northern Europe.",
+   "alternatives": [
+    {
+     "label": "Sacrifice vs execution",
+     "text": "Scholars disagree whether bog bodies were votive sacrifices, punished criminals, or both depending on case."
+    },
+    {
+     "label": "Alien autopsy vibes",
+     "text": "Sensational media sometimes exoticises bog bodies as inexplicable anomalies; forensic archaeology explains preservation chemically."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Grauballe Man",
+     "url": "https://en.wikipedia.org/wiki/Grauballe_Man",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Bog body",
+     "url": "https://en.wikipedia.org/wiki/Bog_body",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [],
+   "categories": [
+    "archaeology",
+    "religion"
+   ],
+   "threads": [
+    "human-sacrifice",
+    "bog-bodies-and-offerings"
+   ]
+  },
+  {
+   "id": "denisova-cave",
+   "title": "Denisova Cave and the discovery of Denisovans",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": -200000,
+   "end": null,
+   "evidenceTypes": [
+    "genetic",
+    "archaeological",
+    "radiometric"
+   ],
+   "mainstream": "Denisova Cave in the Altai Mountains of Siberia yielded a finger bone whose DNA, sequenced in 2010, revealed a previously unknown archaic human group—the Denisovans—distinct from Neanderthals and modern humans. Later finds include a jaw in Tibet and genetic traces in present-day Melanesians and others. The cave was also used by Neanderthals and modern humans, making it a key contact zone.",
+   "alternatives": [
+    {
+     "label": "Species status",
+     "text": "Whether Denisovans are a separate species or a subspecies remains taxonomically open; they are a clear genetic lineage."
+    },
+    {
+     "label": "Hidden advanced race",
+     "text": "Fringe readings cast Denisovans as a lost technological civilisation; the archaeological footprint so far is sparse stone and bone, not cities."
+    }
+   ],
+   "changed": "2010 DNA paper established a new archaic human group from minimal fossil remains.",
+   "sources": [
+    {
+     "title": "Wikipedia: Denisova Cave",
+     "url": "https://en.wikipedia.org/wiki/Denisova_Cave",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Denisovan",
+     "url": "https://en.wikipedia.org/wiki/Denisovan",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "The complete mitochondrial DNA genome of an unknown hominin from southern Siberia",
+     "authors": "Krause, J. et al.",
+     "year": 2010,
+     "doi": "10.1038/nature08976",
+     "type": "paper"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/%D0%98%D0%B7%D0%B2%D0%B5%D1%81%D1%82%D0%BD%D0%B0%D1%8F_%D0%BD%D0%B0_%D0%B2%D0%B5%D1%81%D1%8C_%D0%9C%D0%B8%D1%80_%D0%94%D0%B5%D0%BD%D0%B8%D1%81%D0%BE%D0%B2%D0%B0_%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0._01.jpg/500px-%D0%98%D0%B7%D0%B2%D0%B5%D1%81%D1%82%D0%BD%D0%B0%D1%8F_%D0%BD%D0%B0_%D0%B2%D0%B5%D1%81%D1%8C_%D0%9C%D0%B8%D1%80_%D0%94%D0%B5%D0%BD%D0%B8%D1%81%D0%BE%D0%B2%D0%B0_%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0._01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:%D0%98%D0%B7%D0%B2%D0%B5%D1%81%D1%82%D0%BD%D0%B0%D1%8F_%D0%BD%D0%B0_%D0%B2%D0%B5%D1%81%D1%8C_%D0%9C%D0%B8%D1%80_%D0%94%D0%B5%D0%BD%D0%B8%D1%81%D0%BE%D0%B2%D0%B0_%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0._01.jpg",
+     "author": "Демин Алексей Барнаул",
+     "license": "CC BY-SA 4.0",
+     "title": "Известная_на_весь_Мир_Денисова_пещера._01.jpg"
+    }
+   ],
+   "categories": [
+    "science-cosmos",
+    "archaeology"
+   ],
+   "threads": [
+    "changed-understanding",
+    "human-origins",
+    "denisovan-world"
+   ]
   }
  ]
 }
