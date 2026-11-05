@@ -489,7 +489,8 @@
    "threads": [
     "changed-understanding",
     "human-origins",
-    "genetic-migrations"
+    "genetic-migrations",
+    "denisovan-world"
    ]
   },
   {
@@ -3074,7 +3075,8 @@
    ],
    "threads": [
     "lost-civilisations",
-    "giant-monuments"
+    "giant-monuments",
+    "andean-empires"
    ]
   },
   {
@@ -3241,7 +3243,8 @@
     "lost-civilisations"
    ],
    "threads": [
-    "lost-civilisations"
+    "lost-civilisations",
+    "map-mysteries"
    ]
   },
   {
@@ -3539,7 +3542,8 @@
    ],
    "threads": [
     "lost-civilisations",
-    "giant-monuments"
+    "giant-monuments",
+    "andean-empires"
    ]
   },
   {
@@ -4478,7 +4482,8 @@
     "history"
    ],
    "threads": [
-    "trade-networks"
+    "trade-networks",
+    "sahel-kingdoms"
    ]
   },
   {
@@ -4934,7 +4939,8 @@
    ],
    "threads": [
     "giant-monuments",
-    "water-engineering"
+    "water-engineering",
+    "southeast-asian-kingdoms"
    ]
   },
   {
@@ -5360,7 +5366,9 @@
     "archaeology",
     "history"
    ],
-   "threads": []
+   "threads": [
+    "andean-empires"
+   ]
   },
   {
    "id": "monte-verde",
@@ -5611,7 +5619,8 @@
     "world-ages-and-resets",
     "creation-myths",
     "returning-saviours",
-    "civilising-teachers"
+    "civilising-teachers",
+    "andean-empires"
    ]
   },
   {
@@ -6196,7 +6205,8 @@
    "threads": [
     "knowledge-and-power",
     "lost-evidence",
-    "lost-libraries"
+    "lost-libraries",
+    "sahel-kingdoms"
    ]
   },
   {
@@ -6424,7 +6434,8 @@
     "religion"
    ],
    "threads": [
-    "giant-monuments"
+    "giant-monuments",
+    "southeast-asian-kingdoms"
    ]
   },
   {
@@ -6558,7 +6569,8 @@
     "cryptids",
     "deep-oral-memory",
     "giants-and-little-people",
-    "human-origins"
+    "human-origins",
+    "denisovan-world"
    ]
   },
   {
@@ -8825,7 +8837,8 @@
     "history"
    ],
    "threads": [
-    "deep-oral-memory"
+    "deep-oral-memory",
+    "sahel-kingdoms"
    ]
   },
   {
@@ -12376,7 +12389,8 @@
    ],
    "threads": [
     "hidden-tombs",
-    "mummies"
+    "mummies",
+    "andean-empires"
    ]
   },
   {
@@ -14283,7 +14297,8 @@
     "civilisation-collapses",
     "sacred-kingship",
     "rain-and-drought",
-    "ancestral-homelands"
+    "ancestral-homelands",
+    "sahel-kingdoms"
    ]
   },
   {
@@ -15489,7 +15504,8 @@
     "civilisation-collapses",
     "knowledge-and-power",
     "strange-sounds",
-    "underground-worlds"
+    "underground-worlds",
+    "andean-empires"
    ]
   },
   {
@@ -15669,7 +15685,8 @@
    "threads": [
     "giant-monuments",
     "ancient-technology",
-    "outsider-builder-claims"
+    "outsider-builder-claims",
+    "andean-empires"
    ]
   },
   {
@@ -16842,7 +16859,8 @@
     "changed-understanding",
     "ocean-voyagers",
     "civilisation-collapses",
-    "trade-networks"
+    "trade-networks",
+    "southeast-asian-kingdoms"
    ]
   },
   {
@@ -18409,7 +18427,8 @@
     "mummies",
     "sacred-kingship",
     "otherworld-visits",
-    "human-sacrifice"
+    "human-sacrifice",
+    "bog-bodies-and-offerings"
    ]
   },
   {
@@ -26867,7 +26886,8 @@
     "changed-understanding",
     "giants-and-little-people",
     "human-origins",
-    "genetic-migrations"
+    "genetic-migrations",
+    "denisovan-world"
    ]
   },
   {
@@ -34197,7 +34217,8 @@
    ],
    "threads": [
     "human-origins",
-    "genetic-migrations"
+    "genetic-migrations",
+    "denisovan-world"
    ]
   },
   {
@@ -35137,7 +35158,8 @@
     "sacred-kingship",
     "trade-networks",
     "silk-road",
-    "founding-ancestors"
+    "founding-ancestors",
+    "southeast-asian-kingdoms"
    ]
   },
   {
@@ -35214,7 +35236,8 @@
     "serpent-beings",
     "sacred-kingship",
     "earthquake-lore",
-    "founding-ancestors"
+    "founding-ancestors",
+    "southeast-asian-kingdoms"
    ]
   },
   {
@@ -36489,7 +36512,8 @@
    ],
    "threads": [
     "underground-worlds",
-    "life-beyond-earth"
+    "life-beyond-earth",
+    "polar-mysteries"
    ]
   },
   {
@@ -37793,7 +37817,8 @@
    "threads": [
     "changed-understanding",
     "ocean-voyagers",
-    "pacific-wayfinding"
+    "pacific-wayfinding",
+    "map-mysteries"
    ]
   },
   {
