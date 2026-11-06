@@ -1,0 +1,110 @@
+{
+ "anak-tomb": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=GnAf5B8dum4",
+  "title": "Complex of Koguryo Tombs (UNESCO/NHK)",
+  "channel": "UNESCO"
+ },
+ "seokguram": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=NaM5Q2ttTjc",
+  "title": "Seokguram Grotto and Bulguksa Temple (UNESCO/NHK)",
+  "channel": "UNESCO"
+ },
+ "korean-shamanism": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=AAybclN6ugk",
+  "title": "Dancing on Knives | National Geographic",
+  "channel": "National Geographic"
+ },
+ "silla-gold-crowns": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=KWO598nNNl8",
+  "title": "Gyeongju Historic Areas (UNESCO/NHK)",
+  "channel": "UNESCO"
+ },
+ "koryo-celadon": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=frkHrfqmX-8",
+  "title": "Rediscovering Korea's Past",
+  "channel": "Smithsonian National Museum of Asian Art"
+ },
+ "potala-palace": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=baK3X5Oozh4",
+  "title": "See Potala Palace, the Iconic Heart of Tibetan Buddhism | National Geographic",
+  "channel": "National Geographic"
+ },
+ "mustang-caves": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=kzu5JAgb2vQ",
+  "title": "Sky Caves of Nepal, Part 2: The Scientist | Nat Geo Live",
+  "channel": "National Geographic"
+ },
+ "druk-thunder-dragon": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=vMF-mSpynDg",
+  "title": "Bhutan - A journey to the unknown south | DW Documentary",
+  "channel": "DW Documentary"
+ },
+ "malla-kathmandu": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=Eun_8vJ5mCA",
+  "title": "Destruction of Nepal’s temples puts spiritual culture at risk",
+  "channel": "PBS NewsHour"
+ },
+ "kumari-nepal": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=RxLoFNt-r0k",
+  "title": "Chosen to be a Kumari goddess - BBC World Service, Witness History",
+  "channel": "BBC World Service"
+ },
+ "rus-baptism": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=etmRI2_9Q_A",
+  "title": "Russia, the Kievan Rus, and the Mongols: Crash Course World History #20",
+  "channel": "CrashCourse"
+ },
+ "firebird": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=YU5z3pxm_JI",
+  "title": "Stravinsky’s The Firebird",
+  "channel": "BBC Scottish Symphony Orchestra"
+ },
+ "painted-monasteries-bucovina": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=n_6i7VfP910",
+  "title": "Churches of Moldavia (UNESCO/NHK)",
+  "channel": "UNESCO"
+ },
+ "amber-room": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=Ex39KgoxqzQ",
+  "title": "Ellie Harrison discovers The Amber Room - The Treasure Hunters: Episode 2 Preview - BBC",
+  "channel": "BBC"
+ },
+ "falcon-lake-1967": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=6pvdLcvgVQ8",
+  "title": "1982 | UFO Revelations & the Falcon Lake Manitoba Incident - Exclusive Interview with Edward Barker",
+  "channel": "CBC News Manitoba"
+ },
+ "jwst-early-galaxies": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=FMdrD_jcYgE",
+  "title": "We Found Galaxies Too Old for the Universe",
+  "channel": "PBS Space Time"
+ },
+ "schweitzer-dino-soft-tissue": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=bSaOS7erEOk",
+  "title": "Soft Tissue Found Inside a Dinosaur Bone!",
+  "channel": "Stated Clearly"
+ },
+ "karahan-tepe": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=BEn6ZHtMECM",
+  "title": "Did Civilisation Begin At Karahan Tepe? - Humanity before Göbekli Tepe // Prehistory Documentary",
+  "channel": "History Time"
+ }
+}
