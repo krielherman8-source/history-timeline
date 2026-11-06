@@ -42038,6 +42038,528 @@
     "hoaxes-exposed",
     "korean-kingdoms"
    ]
+  },
+  {
+   "id": "potala-palace",
+   "title": "Potala Palace",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": 1645,
+   "end": null,
+   "evidenceTypes": [
+    "architectural",
+    "textual"
+   ],
+   "mainstream": "The Potala Palace in Lhasa, rebuilt under the 5th Dalai Lama from 1645 on an older sacred ridge associated with Songtsen Gampo, was the winter residence of the Dalai Lamas and a political-religious centre of Tibet. White and Red Palace sections hold stupas, murals and libraries. It is a UNESCO World Heritage Site (Historic Ensemble of the Potala Palace).",
+   "alternatives": [
+    {
+     "label": "Older fortress myths",
+     "text": "Tradition projects imperial foundations to the 7th century; the present monumental palace is essentially 17th-century and later."
+    },
+    {
+     "label": "Forbidden alien archive",
+     "text": "Conspiracy tourism invents sealed ET halls; documented contents are Buddhist art, tombs and administration."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Potala Palace",
+     "url": "https://en.wikipedia.org/wiki/Potala_Palace",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Potala_Palace_HQ.jpg/500px-Potala_Palace_HQ.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Potala_Palace_HQ.jpg",
+     "author": "Lhasa Government",
+     "license": "CC BY-SA 4.0",
+     "title": "Potala_Palace_HQ.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "religion",
+    "archaeology"
+   ],
+   "threads": [
+    "giant-monuments",
+    "sacred-relics",
+    "sacred-kingship",
+    "himalayan-kingdoms"
+   ]
+  },
+  {
+   "id": "bon-religion",
+   "title": "Bön: Tibet's pre-Buddhist and parallel faith",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 0,
+   "end": null,
+   "dateNote": "Living tradition; \"pre-Buddhist Bön\" is partly retrospective construction",
+   "evidenceTypes": [
+    "textual",
+    "ethnographic"
+   ],
+   "mainstream": "Bön denotes both the imagined pre-Buddhist religion of Tibet and a living organised tradition (Yungdrung Bön) that developed scriptures, monasteries and a nine-vehicle path parallel to Tibetan Buddhism. Scholars distinguish early court ritualists, later \"eternal Bön\" textual religion, and folk practices. Bönpo communities remain in Tibet, Nepal and exile.",
+   "alternatives": [
+    {
+     "label": "Pure pre-Buddhist survival",
+     "text": "Organised Bön scriptures and institutions largely took shape after Buddhism's arrival, partly in dialogue and rivalry with it."
+    },
+    {
+     "label": "Alien sky-teachers",
+     "text": "Some New Age readings cast Bön founders as extraterrestrials; traditional narratives speak of teachers from Olmo Lungring / Tagzig, not spacecraft."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Bon",
+     "url": "https://en.wikipedia.org/wiki/Bon",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Narshi_Gonpa_Ngawa_Sichuan_China.jpg/500px-Narshi_Gonpa_Ngawa_Sichuan_China.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Narshi_Gonpa_Ngawa_Sichuan_China.jpg",
+     "author": "Jialiang Gao (peace-on-earth.org)",
+     "license": "CC BY-SA 3.0",
+     "title": "Narshi_Gonpa_Ngawa_Sichuan_China.jpg"
+    }
+   ],
+   "categories": [
+    "religion",
+    "myth-legend",
+    "history"
+   ],
+   "threads": [
+    "suppressed-beliefs",
+    "civilising-teachers",
+    "himalayan-kingdoms"
+   ]
+  },
+  {
+   "id": "mustang-caves",
+   "title": "Sky caves of Mustang",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1000,
+   "end": null,
+   "evidenceTypes": [
+    "archaeological"
+   ],
+   "mainstream": "Hundreds of hand-carved cliff caves in Nepal's former Kingdom of Lo (Upper Mustang) were used as burials, meditation retreats and dwellings. Expeditions since the 2000s have documented human remains, texts and murals, some linked to early Buddhism and local polities along the Kali Gandaki corridor. Access is restricted; looting and tourism pressure are concerns.",
+   "alternatives": [
+    {
+     "label": "Age of the oldest caves",
+     "text": "Dates vary by cave; some burial use may be earlier than the medieval Buddhist fittings that attract most attention."
+    },
+    {
+     "label": "Lost sky civilisation",
+     "text": "Popular media sometimes turns the caves into a single vanished aerial culture; archaeology shows long, varied reuse."
+    }
+   ],
+   "changed": "Major documentary and archaeological attention from the 2000s.",
+   "sources": [
+    {
+     "title": "Wikipedia: Mustang Caves",
+     "url": "https://en.wikipedia.org/wiki/Mustang_Caves",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Upper Mustang",
+     "url": "https://en.wikipedia.org/wiki/Upper_Mustang",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Dhakmar_Cave_Dwellings.jpg/500px-Dhakmar_Cave_Dwellings.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Dhakmar_Cave_Dwellings.jpg",
+     "author": "Jmhullot",
+     "license": "CC BY 3.0",
+     "title": "Dhakmar_Cave_Dwellings.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "religion",
+    "lost-civilisations"
+   ],
+   "threads": [
+    "lost-civilisations",
+    "underground-worlds",
+    "rediscovered-civilisations",
+    "himalayan-kingdoms"
+   ]
+  },
+  {
+   "id": "paro-taktsang",
+   "title": "Paro Taktsang (Tiger's Nest)",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1692,
+   "end": null,
+   "evidenceTypes": [
+    "architectural",
+    "textual",
+    "oral tradition"
+   ],
+   "mainstream": "Paro Taktsang, the \"Tiger's Nest\" monastery, clings to a cliff above Paro Valley in Bhutan. Tradition holds that Padmasambhava (Guru Rinpoche) flew here on a tigress and meditated in a cave; the present temple complex was built in 1692 under Tenzin Rabgye and has been restored after fires. It is Bhutan's most famous sacred site and a major pilgrimage destination.",
+   "alternatives": [
+    {
+     "label": "Literal flight",
+     "text": "The tigress flight is hagiographic miracle narrative, not a historical aviation event."
+    },
+    {
+     "label": "Pre-1692 temples",
+     "text": "Cave sanctity is older; the monumental monastery fabric dates mainly to the late 17th century and rebuilds."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Paro Taktsang",
+     "url": "https://en.wikipedia.org/wiki/Paro_Taktsang",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Paro_Taktsang%2C_Bhutan_%28edited%29.jpg/500px-Paro_Taktsang%2C_Bhutan_%28edited%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Paro_Taktsang,_Bhutan_(edited).jpg",
+     "author": "Original:  Nina R from Africa\n\nDerivative work:  UnpetitproleX",
+     "license": "CC BY 2.0",
+     "title": "Paro_Taktsang,_Bhutan_(edited).jpg"
+    }
+   ],
+   "categories": [
+    "religion",
+    "history",
+    "myth-legend"
+   ],
+   "threads": [
+    "giant-monuments",
+    "sacred-relics",
+    "himalayan-kingdoms"
+   ]
+  },
+  {
+   "id": "guge-kingdom",
+   "title": "Kingdom of Guge",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 967,
+   "end": null,
+   "dateNote": "c. 10th–17th centuries",
+   "evidenceTypes": [
+    "archaeological",
+    "textual"
+   ],
+   "mainstream": "Guge was a Tibetan Buddhist kingdom in western Tibet (Ngari), rising after the fragmentation of the Tibetan Empire, with centres at Tholing and Tsaparang. It sponsored the second diffusion of Buddhism in Tibet, linked to figures such as Rinchen Zangpo and Atisha's invitation. The kingdom collapsed in the 17th century after war with Ladakh and upheaval; dramatic ruins remain.",
+   "alternatives": [
+    {
+     "label": "Cause of fall",
+     "text": "Accounts mix Ladakhi invasion, internal betrayal and religious conflict; details remain debated."
+    },
+    {
+     "label": "Shangri-La identification",
+     "text": "Popular writers sometimes equate Guge with fictional Shangri-La; Shangri-La is a 20th-century novel construct."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Guge",
+     "url": "https://en.wikipedia.org/wiki/Guge",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/%E5%8F%A4%E6%A0%BC%E9%98%B4%E9%9C%BE.jpg/500px-%E5%8F%A4%E6%A0%BC%E9%98%B4%E9%9C%BE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:%E5%8F%A4%E6%A0%BC%E9%98%B4%E9%9C%BE.jpg",
+     "author": "squallgold",
+     "license": "CC BY-SA 4.0",
+     "title": "古格阴霾.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology",
+    "religion",
+    "lost-civilisations"
+   ],
+   "threads": [
+    "lost-civilisations",
+    "rediscovered-civilisations",
+    "himalayan-kingdoms"
+   ]
+  },
+  {
+   "id": "padmasambhava",
+   "title": "Padmasambhava (Guru Rinpoche)",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 1,
+   "start": 760,
+   "end": null,
+   "dateNote": "Traditional 8th century; biographies elaborated later",
+   "evidenceTypes": [
+    "textual",
+    "oral tradition"
+   ],
+   "mainstream": "Padmasambhava, the \"Lotus-Born,\" is the tantric master credited in Tibetan tradition with establishing Buddhism in Tibet under King Trisong Detsen in the 8th century, subduing local spirits and concealing terma treasures for future discovery. Historians treat the richly miraculous biographies as religious literature layered on a likely historical missionary figure. He is central to Nyingma identity and Himalayan sacred geography.",
+   "alternatives": [
+    {
+     "label": "Historicity",
+     "text": "A core 8th-century Indian master at Samye is plausible; many episodes are later hagiography."
+    },
+    {
+     "label": "Ancient astronaut guru",
+     "text": "Fringe authors reread his rainbow-body and flying motifs as spacecraft; that is not a traditional or scholarly reading."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Padmasambhava",
+     "url": "https://en.wikipedia.org/wiki/Padmasambhava",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Guru_Rinpoche_in_mist_2.jpg/500px-Guru_Rinpoche_in_mist_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Guru_Rinpoche_in_mist_2.jpg",
+     "author": "John Hill",
+     "license": "CC BY-SA 3.0",
+     "title": "Guru_Rinpoche_in_mist_2.jpg"
+    }
+   ],
+   "categories": [
+    "religion",
+    "myth-legend"
+   ],
+   "threads": [
+    "sky-beings",
+    "civilising-teachers",
+    "himalayan-kingdoms"
+   ]
+  },
+  {
+   "id": "thang-tong-gyalpo",
+   "title": "Thang Tong Gyalpo: iron-bridge builder saint",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1385,
+   "end": null,
+   "evidenceTypes": [
+    "textual",
+    "oral tradition"
+   ],
+   "mainstream": "Thang Tong Gyalpo (c. 1385–1464 or later) was a Tibetan Buddhist yogi, treasure-revealer and engineer famed for forging iron-chain suspension bridges across Himalayan rivers and for founding opera-style performances to fund works. Several bridges and temples are attributed to him in Tibet and Bhutan. He became a model of practical compassion in Vajrayana lore.",
+   "alternatives": [
+    {
+     "label": "How many bridges",
+     "text": "Tradition credits dozens; surviving structures and later rebuilds make exact counts uncertain."
+    },
+    {
+     "label": "Impossible metallurgy",
+     "text": "Popular claims of inexplicable ancient steel ignore known Himalayan iron-working and chain-link techniques."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Thang Tong Gyalpo",
+     "url": "https://en.wikipedia.org/wiki/Thang_Tong_Gyalpo",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/TangtonGyalpo.jpg/500px-TangtonGyalpo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:TangtonGyalpo.jpg",
+     "author": "Unknown",
+     "license": "Public domain",
+     "title": "TangtonGyalpo.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "religion"
+   ],
+   "threads": [
+    "ancient-technology",
+    "civilising-teachers",
+    "himalayan-kingdoms"
+   ]
+  },
+  {
+   "id": "druk-thunder-dragon",
+   "title": "Druk: the Thunder Dragon of Bhutan",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": 1200,
+   "end": null,
+   "dateNote": "Symbol crystallised with Drukpa ascendancy in the later Middle Ages",
+   "evidenceTypes": [
+    "textual",
+    "oral tradition",
+    "iconographic"
+   ],
+   "mainstream": "The druk (thunder dragon) is a Himalayan dragon figure that became Bhutan's national symbol—Druk Yul, \"Land of the Thunder Dragon\"—and appears on the flag and in the title Druk Gyalpo (Dragon King). In Tibetan and Bhutanese lore, dragons relate to weather, treasure and protective power. The Drukpa Kagyu school's rise in Bhutan tied religious identity to the dragon name.",
+   "alternatives": [
+    {
+     "label": "Etymology of Bhutan's name",
+     "text": "\"Druk Yul\" reflects Drukpa political-religious dominance; older names for the region also existed."
+    },
+    {
+     "label": "Living dinosaur theories",
+     "text": "Cryptozoological takes on druk as surviving pterosaurs are speculative entertainment, not ethnography."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Druk",
+     "url": "https://en.wikipedia.org/wiki/Druk",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Flag_of_Bhutan.svg/500px-Flag_of_Bhutan.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Flag_of_Bhutan.svg",
+     "author": "See File history below for details.",
+     "license": "Public domain",
+     "title": "Flag_of_Bhutan.svg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion",
+    "history"
+   ],
+   "threads": [
+    "sky-beings",
+    "serpent-beings",
+    "sacred-kingship",
+    "himalayan-kingdoms"
+   ]
+  },
+  {
+   "id": "malla-kathmandu",
+   "title": "Malla kingdoms of the Kathmandu Valley",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1200,
+   "end": null,
+   "dateNote": "c. 13th–18th centuries",
+   "evidenceTypes": [
+    "textual",
+    "architectural",
+    "epigraphic"
+   ],
+   "mainstream": "From roughly the 13th to 18th centuries the Kathmandu Valley was ruled by Malla kings, whose rival city-states—Kathmandu, Patan (Lalitpur) and Bhaktapur—built the celebrated Durbar Squares, temples and artistic canons of Newar civilisation. Prithvi Narayan Shah of Gorkha conquered the valley in 1768–69, founding modern Nepal's Shah dynasty. The squares are UNESCO-listed (with post-earthquake restoration after 2015).",
+   "alternatives": [
+    {
+     "label": "Golden age romanticism",
+     "text": "Art truly flourished, but politics were often fragmented and violent among the three cities."
+    },
+    {
+     "label": "Lost pre-Malla megacity myths",
+     "text": "Fringe histories invent vast older valley empires; archaeology documents earlier Licchavi and other layers without those exaggerations."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Malla dynasty (Nepal)",
+     "url": "https://en.wikipedia.org/wiki/Malla_dynasty_(Nepal)",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Nepaul_valley_map_1802.jpg/500px-Nepaul_valley_map_1802.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Nepaul_valley_map_1802.jpg",
+     "author": "Zulufive",
+     "license": "Public domain",
+     "title": "Nepaul_valley_map_1802.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology",
+    "religion"
+   ],
+   "threads": [
+    "himalayan-kingdoms"
+   ]
+  },
+  {
+   "id": "kumari-nepal",
+   "title": "Kumari: Nepal's living goddess",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1600,
+   "end": null,
+   "dateNote": "Living institution; royal Kathmandu form prominent by early modern era",
+   "evidenceTypes": [
+    "ethnographic",
+    "textual"
+   ],
+   "mainstream": "A Kumari is a prepubescent girl worshipped in Nepal—most famously the Royal Kumari of Kathmandu—as a living embodiment of the goddess Taleju/Durga. Selected from Newar Shakya families by ritual criteria, she appears at festivals until menstruation or serious illness ends her term. The institution mixes Hindu and Buddhist Newar practice and has faced modern debates over schooling and children's rights.",
+   "alternatives": [
+    {
+     "label": "Ancient unbroken line",
+     "text": "The royal Kumari tradition in its present form is especially documented from the later Malla / early Shah period, not a proven Vedic survival."
+    },
+    {
+     "label": "Exploitation vs vocation",
+     "text": "Activists stress child welfare; devotees emphasise sacred duty and family prestige—both frames shape current reforms."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Kumari (goddess)",
+     "url": "https://en.wikipedia.org/wiki/Kumari_(goddess)",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Trishna_Shakya_kumari.jpg/500px-Trishna_Shakya_kumari.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Trishna_Shakya_kumari.jpg",
+     "author": "Therajanmagar",
+     "license": "CC0",
+     "title": "Trishna_Shakya_kumari.jpg"
+    }
+   ],
+   "categories": [
+    "religion",
+    "history"
+   ],
+   "threads": [
+    "sacred-kingship",
+    "himalayan-kingdoms"
+   ]
   }
  ]
 }
