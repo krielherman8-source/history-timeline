@@ -42560,6 +42560,510 @@
     "sacred-kingship",
     "himalayan-kingdoms"
    ]
+  },
+  {
+   "id": "rus-baptism",
+   "title": "Christianization of Kievan Rus' (988)",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": 988,
+   "end": null,
+   "evidenceTypes": [
+    "textual"
+   ],
+   "mainstream": "According to the Primary Chronicle, Prince Vladimir the Great of Kiev accepted baptism in 988 (often linked to Chersonesus) and ordered the Christianization of Kievan Rus', aligning the realm with Byzantine Orthodoxy. Churches and Slavic liturgy spread unevenly thereafter. The event is foundational in Russian, Ukrainian and Belarusian historical memory.",
+   "alternatives": [
+    {
+     "label": "Exact circumstances",
+     "text": "Chronicle narrative blends politics, miracle tales and later monastic editing; Byzantine and other sources corroborate a late-10th-century conversion of the elite."
+    },
+    {
+     "label": "Mass drowning myths",
+     "text": "Popular retellings exaggerate forced drownings of pagans; coercion occurred, but details are literary."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Christianization of Kievan Rus'",
+     "url": "https://en.wikipedia.org/wiki/Christianization_of_Kievan_Rus'",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Primary Chronicle",
+     "url": "https://en.wikipedia.org/wiki/Primary_Chronicle",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Lebedev_baptism.jpg/500px-Lebedev_baptism.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Lebedev_baptism.jpg",
+     "author": "Klavdy Lebedev",
+     "license": "Public domain",
+     "title": "Lebedev_baptism.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "religion"
+   ],
+   "threads": [
+    "knowledge-and-power",
+    "holy-wars",
+    "slavic-worlds"
+   ]
+  },
+  {
+   "id": "firebird",
+   "title": "The Firebird (Zhar-ptitsa)",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": 0,
+   "end": null,
+   "dateNote": "Folk motif; literary fixation in early modern and 19th-century collections",
+   "evidenceTypes": [
+    "oral tradition",
+    "textual"
+   ],
+   "mainstream": "In Slavic folklore the Firebird (Russian Zhar-ptitsa) is a radiant, prophetic bird whose feathers glow like fire. Heroes steal a feather and face quests set by tsars or sorcerers. The motif entered high culture through fairy-tale collections and Stravinsky's 1910 ballet The Firebird, which globalised the image without replacing the older folk figure.",
+   "alternatives": [
+    {
+     "label": "Solar myth reduction",
+     "text": "19th-century scholars sometimes reduced the bird to a sun symbol; folklorists now stress narrative function over single allegory."
+    },
+    {
+     "label": "Real cryptid bird",
+     "text": "Occasional paranormal blogs treat glowing birds as sightings; folklore study treats the Firebird as a tale type."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Firebird (Slavic folklore)",
+     "url": "https://en.wikipedia.org/wiki/Firebird_(Slavic_folklore)",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Firebird.jpg/500px-Firebird.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Firebird.jpg",
+     "author": "Ivan Bilibin",
+     "license": "Public domain",
+     "title": "Firebird.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend"
+   ],
+   "threads": [
+    "shapeshifters",
+    "slavic-worlds"
+   ]
+  },
+  {
+   "id": "koschei",
+   "title": "Koschei the Deathless",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": 0,
+   "end": null,
+   "dateNote": "Oral tradition; classic versions recorded in the 19th century",
+   "evidenceTypes": [
+    "oral tradition",
+    "textual"
+   ],
+   "mainstream": "Koschei (Koshchei) the Deathless is a Slavic folklore antagonist who hides his soul or death in nested objects (needle in egg in duck in hare in chest) so he cannot be killed until the hiding place is found. He abducts princesses and battles heroes such as Ivan Tsarevich. The figure appears across East Slavic tale traditions and modern adaptations.",
+   "alternatives": [
+    {
+     "label": "Pre-Christian god survival",
+     "text": "Some writers cast Koschei as a degraded death god; evidence is speculative compared with his clear fairy-tale role."
+    },
+    {
+     "label": "Immortality science myths",
+     "text": "Modern esoteric readings invent literal soul-technologies; they are creative rereadings of a folktale device."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Koshchei",
+     "url": "https://en.wikipedia.org/wiki/Koshchei",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Viktor_Vasnetsov_Kashchey_the_Immortal.jpg/500px-Viktor_Vasnetsov_Kashchey_the_Immortal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Viktor_Vasnetsov_Kashchey_the_Immortal.jpg",
+     "author": "Viktor Vasnetsov",
+     "license": "Public domain",
+     "title": "Viktor_Vasnetsov_Kashchey_the_Immortal.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend"
+   ],
+   "threads": [
+    "shapeshifters",
+    "sleeping-heroes",
+    "slavic-worlds"
+   ]
+  },
+  {
+   "id": "vinca-symbols",
+   "title": "Vinča symbols",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": -5300,
+   "end": null,
+   "dateNote": "Neolithic; mainly 6th–5th millennium BCE",
+   "evidenceTypes": [
+    "archaeological"
+   ],
+   "mainstream": "The Vinča culture of Southeastern Europe (c. 5700–4500 BCE) produced inscribed signs on pottery and figurines concentrated in Serbia and neighbouring regions. Whether these Vinča symbols constitute early writing, proto-writing, ownership marks or ritual signs is debated. Mainstream consensus does not treat them as a deciphered script comparable to later cuneiform or hieroglyphs.",
+   "alternatives": [
+    {
+     "label": "Old European literacy",
+     "text": "Marija Gimbutas and others argued for a sophisticated sign system; many archaeologists remain unconvinced they encode language."
+    },
+    {
+     "label": "Suppressed oldest alphabet",
+     "text": "Fringe books claim a cover-up of Europe's first true writing; no decipherment has met epigraphic standards."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Vinča symbols",
+     "url": "https://en.wikipedia.org/wiki/Vin%C4%8Da_symbols",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Vinča culture",
+     "url": "https://en.wikipedia.org/wiki/Vin%C4%8Da_culture",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Vinca_vessel.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Vinca_vessel.png",
+     "author": "Nikola Smolenski",
+     "license": "CC BY-SA 3.0",
+     "title": "Vinca_vessel.png"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "anomalies"
+   ],
+   "threads": [
+    "changed-understanding",
+    "decipherments",
+    "first-art",
+    "balkan-crossroads"
+   ]
+  },
+  {
+   "id": "battle-of-kosovo",
+   "title": "Battle of Kosovo (1389)",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": 1389,
+   "end": null,
+   "evidenceTypes": [
+    "textual"
+   ],
+   "mainstream": "On 15 June 1389 forces of Serbian Prince Lazar fought the Ottoman army of Sultan Murad I on Kosovo Field. Both leaders died; the Ottomans retained strategic momentum though immediate outcomes were complex. Later epic poetry transformed the battle into a central Serbian national and sacrificial myth (the Kosovo myth), shaping identity for centuries.",
+   "alternatives": [
+    {
+     "label": "Who \"won\"",
+     "text": "Contemporary and near-contemporary sources disagree on tactical outcome; long-term Ottoman advance is clearer than a simple victory label."
+    },
+    {
+     "label": "Heavenly kingdom theology",
+     "text": "The epic choice of heavenly over earthly kingdom is literary-theological memory, not a battlefield transcript."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Battle of Kosovo",
+     "url": "https://en.wikipedia.org/wiki/Battle_of_Kosovo",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Battle_of_Kosovo%2C_Adam_Stefanovi%C4%87%2C_1870.jpg/500px-Battle_of_Kosovo%2C_Adam_Stefanovi%C4%87%2C_1870.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Battle_of_Kosovo,_Adam_Stefanovi%C4%87,_1870.jpg",
+     "author": "Adam Stefanović",
+     "license": "Public domain",
+     "title": "Battle_of_Kosovo,_Adam_Stefanović,_1870.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "myth-legend"
+   ],
+   "threads": [
+    "sleeping-heroes",
+    "holy-wars",
+    "slavic-worlds",
+    "balkan-crossroads"
+   ]
+  },
+  {
+   "id": "bogomils",
+   "title": "The Bogomils",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 950,
+   "end": null,
+   "dateNote": "Flourished c. 10th–15th centuries",
+   "evidenceTypes": [
+    "textual"
+   ],
+   "mainstream": "Bogomilism was a dualist Christian movement that arose in 10th-century Bulgaria under the priest Bogomil and spread through the Balkans, condemning church hierarchy and material creation as Satan's work. Hostile Orthodox and Catholic sources are the main evidence. It influenced or paralleled other dualist currents such as the Cathars. Persecution and assimilation erased organised Bogomil communities by the late Middle Ages.",
+   "alternatives": [
+    {
+     "label": "Direct Cathar pipeline",
+     "text": "Historians debate how directly Balkan Bogomils seeded Languedoc Catharism versus shared dualist ideas."
+    },
+    {
+     "label": "Secret surviving churches",
+     "text": "Modern esoteric groups claiming unbroken Bogomil lineages lack strong documentary proof."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Bogomilism",
+     "url": "https://en.wikipedia.org/wiki/Bogomilism",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [],
+   "categories": [
+    "religion",
+    "history"
+   ],
+   "threads": [
+    "suppressed-beliefs",
+    "holy-wars",
+    "slavic-worlds",
+    "balkan-crossroads"
+   ]
+  },
+  {
+   "id": "painted-monasteries-bucovina",
+   "title": "Painted monasteries of Bucovina",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1488,
+   "end": null,
+   "evidenceTypes": [
+    "architectural",
+    "art historical"
+   ],
+   "mainstream": "The Churches of Moldavia in northern Romania (especially Bucovina) are late-15th and 16th-century Orthodox churches whose exterior frescoes narrate scripture and sacred history in vivid colour. Foundations under Stephen the Great and successors include Voroneț, Moldovița and Sucevița. UNESCO lists them as masterpieces of Byzantine-inspired mural art.",
+   "alternatives": [
+    {
+     "label": "Lost paint formulas",
+     "text": "Romantic craft lore speaks of vanished blue recipes; pigment studies identify known mineral and organic materials."
+    },
+    {
+     "label": "Pre-Christian calendar codes",
+     "text": "Fringe readings find pagan star maps in the cycles; art historians read standard Orthodox programmes."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Churches of Moldavia",
+     "url": "https://en.wikipedia.org/wiki/Churches_of_Moldavia",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Map_of_Churches_of_Moldavia_in_Suceava_Country.jpg/500px-Map_of_Churches_of_Moldavia_in_Suceava_Country.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Map_of_Churches_of_Moldavia_in_Suceava_Country.jpg",
+     "author": "Chainwit.",
+     "license": "CC BY 4.0",
+     "title": "Map_of_Churches_of_Moldavia_in_Suceava_Country.jpg"
+    }
+   ],
+   "categories": [
+    "religion",
+    "history",
+    "archaeology"
+   ],
+   "threads": [
+    "first-art",
+    "slavic-worlds",
+    "balkan-crossroads"
+   ]
+  },
+  {
+   "id": "thracian-kings",
+   "title": "Valley of the Thracian Kings",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -500,
+   "end": null,
+   "dateNote": "Mainly mid-1st millennium BCE",
+   "evidenceTypes": [
+    "archaeological"
+   ],
+   "mainstream": "The Valley of the Thracian Kings near Kazanlak, Bulgaria, holds richly furnished tombs of Odrysian and other Thracian elites (roughly 5th–3rd centuries BCE), including the Kazanlak Tomb with its famous frescoes and the Golyama Kosmatka mound associated with Seuthes III. Gold wreathes, weapons and architecture show a powerful aristocratic culture often described by Greeks as both neighbouring and \"other.\"",
+   "alternatives": [
+    {
+     "label": "Orphic afterlife maps",
+     "text": "Some interpret tomb art as Orphic initiation diagrams; others see elite banquet and hunt ideology."
+    },
+    {
+     "label": "Atlantis of Thrace",
+     "text": "Popular books sometimes inflate Thracian tombs into a lost master civilisation beyond the archaeological polities."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Valley of the Thracian Rulers",
+     "url": "https://en.wikipedia.org/wiki/Valley_of_the_Thracian_Rulers",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Kazanluk_1.jpg/500px-Kazanluk_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Kazanluk_1.jpg",
+     "author": "Kmrakmra",
+     "license": "CC BY-SA 3.0",
+     "title": "Kazanluk_1.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history"
+   ],
+   "threads": [
+    "hidden-tombs",
+    "lost-treasures",
+    "balkan-crossroads"
+   ]
+  },
+  {
+   "id": "cyril-methodius",
+   "title": "Cyril and Methodius and the Slavic liturgy",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": 863,
+   "end": null,
+   "evidenceTypes": [
+    "textual"
+   ],
+   "mainstream": "Brothers Constantine (Cyril) and Methodius of Thessalonica missionised among the Slavs in the 9th century, developing a Slavic script (Glagolitic) and translating scripture and liturgy. Their work in Great Moravia faced Frankish clerical opposition; their disciples later helped establish Slavic Christian culture in Bulgaria and beyond. They are patron saints of Europe and foundational for Orthodox Slavic literacy; Cyrillic script developed later from their tradition.",
+   "alternatives": [
+    {
+     "label": "Who invented Cyrillic",
+     "text": "Cyrillic is generally credited to disciples in Bulgaria/Preslav after Cyril's death, not to Cyril alone."
+    },
+    {
+     "label": "Single overnight alphabet myth",
+     "text": "Popular timelines compress decades of script evolution into one miraculous event."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Cyril and Methodius",
+     "url": "https://en.wikipedia.org/wiki/Cyril_and_Methodius",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Sv_Kiril_Metodij_Zahari_Zograf_Trojanski_mon_1848.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Sv_Kiril_Metodij_Zahari_Zograf_Trojanski_mon_1848.jpg",
+     "author": "painted by Zahari Zograf (Захарий Христович Димитров)",
+     "license": "Public domain",
+     "title": "Sv_Kiril_Metodij_Zahari_Zograf_Trojanski_mon_1848.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "religion"
+   ],
+   "threads": [
+    "knowledge-and-power",
+    "decipherments",
+    "slavic-worlds",
+    "balkan-crossroads"
+   ]
+  },
+  {
+   "id": "amber-room",
+   "title": "The Amber Room",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1716,
+   "end": null,
+   "evidenceTypes": [
+    "textual",
+    "art historical"
+   ],
+   "mainstream": "The Amber Room was a chamber panelled in amber, gold leaf and mirrors, first made in Prussia in the early 18th century and later installed at Catherine Palace near St Petersburg. Nazi forces looted it in 1941; the panels vanished in 1945 and remain missing despite searches. A full reconstruction opened at Catherine Palace in 2003. The loss is one of World War II's great art mysteries.",
+   "alternatives": [
+    {
+     "label": "Surviving cache theories",
+     "text": "Claims place the amber in mines, lagoons or private vaults; none has produced verified panels."
+    },
+    {
+     "label": "Destroyed in bombing",
+     "text": "A leading hypothesis holds it burned in Königsberg Castle; absence of conclusive proof keeps alternate theories alive."
+    }
+   ],
+   "changed": "2003 reconstructed room opened; original still missing.",
+   "sources": [
+    {
+     "title": "Wikipedia: Amber Room",
+     "url": "https://en.wikipedia.org/wiki/Amber_Room",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Catherine_Palace_interior_-_Amber_Room_%281%29.jpg/500px-Catherine_Palace_interior_-_Amber_Room_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Catherine_Palace_interior_-_Amber_Room_(1).jpg",
+     "author": "Branson DeCou",
+     "license": "Public domain",
+     "title": "Catherine_Palace_interior_-_Amber_Room_(1).jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "anomalies",
+    "catastrophes"
+   ],
+   "threads": [
+    "lost-treasures",
+    "erased-from-history",
+    "slavic-worlds"
+   ]
   }
  ]
 }
