@@ -41634,7 +41634,16 @@
      "type": "encyclopedia"
     }
    ],
-   "media": [],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Seokguram_Grotto_01.jpg/500px-Seokguram_Grotto_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Seokguram_Grotto_01.jpg",
+     "author": "Bernard Gagnon",
+     "license": "CC0",
+     "title": "Seokguram Grotto 01.jpg"
+    }
+   ],
    "categories": [
     "archaeology",
     "religion",
@@ -41731,7 +41740,16 @@
      "type": "encyclopedia"
     }
    ],
-   "media": [],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Dokkaebi_Street.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Dokkaebi_Street.jpg",
+     "author": "Huutai11791",
+     "license": "CC BY-SA 3.0",
+     "title": "Dokkaebi Street.jpg"
+    }
+   ],
    "categories": [
     "myth-legend"
    ],
@@ -42027,7 +42045,16 @@
      "type": "encyclopedia"
     }
    ],
-   "media": [],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Map_of_the_mythical_Hwan-Guk.png/500px-Map_of_the_mythical_Hwan-Guk.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Map_of_the_mythical_Hwan-Guk.png",
+     "author": "Daeva Trạc",
+     "license": "CC BY-SA 4.0",
+     "title": "Map of the mythical Hwan-Guk.png"
+    }
+   ],
    "categories": [
     "hoaxes",
     "history",
@@ -42850,7 +42877,16 @@
      "type": "encyclopedia"
     }
    ],
-   "media": [],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/St._Naum_and_Bogomils.jpg/500px-St._Naum_and_Bogomils.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:St._Naum_and_Bogomils.jpg",
+     "author": "N. Chausidis",
+     "license": "Public domain",
+     "title": "St. Naum and Bogomils.jpg"
+    }
+   ],
    "categories": [
     "religion",
     "history"
@@ -43063,6 +43099,497 @@
     "lost-treasures",
     "erased-from-history",
     "slavic-worlds"
+   ]
+  },
+  {
+   "id": "falcon-lake-1967",
+   "title": "Falcon Lake incident (1967)",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 1967,
+   "end": null,
+   "evidenceTypes": [
+    "eyewitness",
+    "medical records",
+    "documentary"
+   ],
+   "mainstream": "On 20 May 1967 industrialist Stefan Michalak reported encountering a landed craft near Falcon Lake, Manitoba; he claimed a grid-like exhaust burn on his chest and illness afterward. RCMP and UFOs investigators documented a burned site and medical visits; explanations range from a non-human craft to a hoax or accident with conventional materials. It remains Canada's best-known close-encounter injury case.",
+   "alternatives": [
+    {
+     "label": "Physical craft",
+     "text": "UFO researchers treat the burn pattern and soil samples as physical evidence; sceptics note possible fabrication and inconsistent details."
+    },
+    {
+     "label": "Secret military test",
+     "text": "Another hypothesis posits an unacknowledged experimental vehicle; no declassified confirmation has appeared."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Falcon Lake Incident",
+     "url": "https://en.wikipedia.org/wiki/Falcon_Lake_Incident",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Falconlake%28reconstitution%29.png/500px-Falconlake%28reconstitution%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Falconlake(reconstitution).png",
+     "author": "No machine-readable author provided. Crobard~commonswiki assumed (based on copyright claims).",
+     "license": "Public domain",
+     "title": "Falconlake(reconstitution).png"
+    }
+   ],
+   "categories": [
+    "aliens-ufo",
+    "anomalies"
+   ],
+   "threads": [
+    "ufo-encounters",
+    "seeing-what-we-expect",
+    "cold-war-secrets"
+   ]
+  },
+  {
+   "id": "solway-spaceman",
+   "title": "Solway Firth Spaceman photograph (1964)",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 1964,
+   "end": null,
+   "evidenceTypes": [
+    "photographic",
+    "eyewitness"
+   ],
+   "mainstream": "On 23 May 1964 Jim Templeton photographed his daughter near the Solway Firth, England; one frame shows a white figure in what looks like a spacesuit behind her. Templeton said no one was there. Kodak reportedly confirmed the photo was not manipulated. Explanations include an unnoticed person with their back turned (often Templeton's wife in a light dress), overexposure effects, or—popularly—an alien visitor. It became a classic anomalous photograph.",
+   "alternatives": [
+    {
+     "label": "Wife-in-overexposed-dress",
+     "text": "The leading sceptical reconstruction identifies the figure as a person facing away, washed out by the film; believers reject the match."
+    },
+    {
+     "label": "Men in black visit",
+     "text": "Templeton reported odd interrogators; that episode is anecdotal and unverified."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Solway Firth Spaceman",
+     "url": "https://en.wikipedia.org/wiki/Solway_Firth_Spaceman",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Solway_Firth%2C_England-Scotland%2C_24_Sept._2011_-_Flickr_-_PhillipC.jpg/500px-Solway_Firth%2C_England-Scotland%2C_24_Sept._2011_-_Flickr_-_PhillipC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Solway_Firth,_England-Scotland,_24_Sept._2011_-_Flickr_-_PhillipC.jpg",
+     "author": "Phillip Capper from Wellington, New Zealand",
+     "license": "CC BY 2.0",
+     "title": "Solway_Firth,_England-Scotland,_24_Sept._2011_-_Flickr_-_PhillipC.jpg"
+    }
+   ],
+   "categories": [
+    "aliens-ufo",
+    "anomalies",
+    "hoaxes"
+   ],
+   "threads": [
+    "ufo-encounters",
+    "seeing-what-we-expect",
+    "anomalous-photos"
+   ]
+  },
+  {
+   "id": "jwst-early-galaxies",
+   "title": "JWST and unexpectedly early galaxies",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 2022,
+   "end": null,
+   "evidenceTypes": [
+    "instrumental",
+    "peer-reviewed"
+   ],
+   "mainstream": "Since 2022 the James Webb Space Telescope has reported numerous high-redshift galaxy candidates that appear more massive or mature than many pre-launch models expected so soon after the Big Bang. Follow-up spectroscopy has confirmed some redshifts while revising others downward. The tension fuels productive debate over galaxy formation, initial mass functions and cosmological assumptions—not a collapse of the Big Bang framework.",
+   "alternatives": [
+    {
+     "label": "Cosmology crisis",
+     "text": "Popular headlines sometimes claim JWST disproved the Big Bang; researchers instead test and refine formation models within ΛCDM or mild extensions."
+    },
+    {
+     "label": "Electric universe / alternative cosmologies",
+     "text": "Non-standard cosmologies cite JWST as vindication; mainstream papers treat the data as astrophysical puzzles under active measurement."
+    }
+   ],
+   "changed": "Deep-field galaxy candidates reported from 2022 onward; spectroscopic follow-up ongoing.",
+   "sources": [
+    {
+     "title": "Wikipedia: James Webb Space Telescope",
+     "url": "https://en.wikipedia.org/wiki/James_Webb_Space_Telescope",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/JWST_spacecraft_model_3.png/500px-JWST_spacecraft_model_3.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:JWST_spacecraft_model_3.png",
+     "author": "NASA",
+     "license": "Public domain",
+     "title": "JWST_spacecraft_model_3.png"
+    }
+   ],
+   "categories": [
+    "science-cosmos",
+    "anomalies"
+   ],
+   "threads": [
+    "changed-understanding",
+    "tested-by-experiment"
+   ]
+  },
+  {
+   "id": "schweitzer-dino-soft-tissue",
+   "title": "Dinosaur soft tissue claims (Schweitzer)",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 2005,
+   "end": null,
+   "evidenceTypes": [
+    "peer-reviewed",
+    "laboratory"
+   ],
+   "mainstream": "In 2005 Mary Schweitzer and colleagues reported flexible soft-tissue-like structures and vessels from a Tyrannosaurus rex femur (Science). Later papers claimed proteins and other residues in Mesozoic bones. The work challenged assumptions about fossilisation speed. Critics argue for biofilms, contamination or chemical artifacts; supporters defend endogenous original material. The debate continues in the technical literature.",
+   "alternatives": [
+    {
+     "label": "Young-Earth reading",
+     "text": "Creationist authors cite soft tissue as proof dinosaurs lived recently; Schweitzer and most paleontologists reject that and argue for exceptional preservation chemistry over deep time."
+    },
+    {
+     "label": "Full original tissue",
+     "text": "Media sometimes imply fresh flesh; the finds are degraded, mineral-associated structures and molecular signals, not butcher-ready meat."
+    }
+   ],
+   "changed": "2005 Science paper ignited ongoing preservation debate.",
+   "sources": [
+    {
+     "title": "Wikipedia: Mary Higby Schweitzer",
+     "url": "https://en.wikipedia.org/wiki/Mary_Higby_Schweitzer",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Gender-Specific Reproductive Tissue in Ratites and Tyrannosaurus rex",
+     "authors": "Schweitzer, M. et al.",
+     "year": 2005,
+     "doi": "10.1126/science.1112158",
+     "type": "paper"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Tyrannosaurus_Rex_Holotype.jpg/500px-Tyrannosaurus_Rex_Holotype.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Tyrannosaurus_Rex_Holotype.jpg",
+     "author": "ScottRobertAnselmo",
+     "license": "CC BY-SA 3.0",
+     "title": "Tyrannosaurus_Rex_Holotype.jpg"
+    }
+   ],
+   "categories": [
+    "science-cosmos",
+    "anomalies"
+   ],
+   "threads": [
+    "changed-understanding",
+    "dragons-and-fossils",
+    "tested-by-experiment"
+   ]
+  },
+  {
+   "id": "kelly-hopkinsville",
+   "title": "Kelly–Hopkinsville encounter (1955)",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 1955,
+   "end": null,
+   "evidenceTypes": [
+    "eyewitness",
+    "documentary"
+   ],
+   "mainstream": "On the night of 21–22 August 1955 the Sutton family near Kelly and Hopkinsville, Kentucky, reported being besieged by small glowing beings after a sighting of a bright object. Police found shell casings and shaken witnesses but no creatures. The case entered UFO lore as a \"goblin\" encounter and later inspired fiction; explanations include meteors, owls, hoax or genuine unknown entities.",
+   "alternatives": [
+    {
+     "label": "Hobgoblin aliens",
+     "text": "UFO literature treats it as a close-encounter of the third kind; sceptical analyses favour misidentified animals and fear contagion."
+    },
+    {
+     "label": "Military cover-up",
+     "text": "No solid evidence of a recovered craft has emerged despite decades of rumour."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Kelly–Hopkinsville encounter",
+     "url": "https://en.wikipedia.org/wiki/Kelly%E2%80%93Hopkinsville_encounter",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Kelly-Hopkinsville%28reconstitution%29.png/500px-Kelly-Hopkinsville%28reconstitution%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Kelly-Hopkinsville(reconstitution).png",
+     "author": "No machine-readable author provided. Crobard~commonswiki assumed (based on copyright claims).",
+     "license": "Public domain",
+     "title": "Kelly-Hopkinsville(reconstitution).png"
+    }
+   ],
+   "categories": [
+    "aliens-ufo",
+    "anomalies"
+   ],
+   "threads": [
+    "ufo-encounters",
+    "seeing-what-we-expect"
+   ]
+  },
+  {
+   "id": "karahan-tepe",
+   "title": "Karahan Tepe",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -9400,
+   "end": null,
+   "evidenceTypes": [
+    "archaeological"
+   ],
+   "mainstream": "Karahan Tepe, in Şanlıurfa Province, Turkey, is a Pre-Pottery Neolithic site related to the Taş Tepeler cluster that includes Göbekli Tepe. Excavations have revealed carved human faces, phallic pillars and communal structures dated to roughly the 10th–9th millennia BCE. It strengthens the picture of early ceremonial complexity in southeast Anatolia before agriculture fully dominated.",
+   "alternatives": [
+    {
+     "label": "Sister city of Göbekli",
+     "text": "Popular media pairs the sites as twin temples; each has distinct architecture and use-life despite regional links."
+    },
+    {
+     "label": "Lost ice-age metropolis",
+     "text": "Fringe narratives scale Karahan Tepe into a continent-spanning civilisation; the excavated footprint is substantial but regional."
+    }
+   ],
+   "changed": "Excavations and public reporting accelerated in the 2010s–2020s.",
+   "sources": [
+    {
+     "title": "Wikipedia: Karahan Tepe",
+     "url": "https://en.wikipedia.org/wiki/Karahan_Tepe",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Gir%C3%AA_Ke%C3%A7el12.jpg/500px-Gir%C3%AA_Ke%C3%A7el12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Gir%C3%AA_Ke%C3%A7el12.jpg",
+     "author": "Mahmut Bozarslan (VOA)",
+     "license": "Public domain",
+     "title": "Girê_Keçel12.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "anomalies",
+    "lost-civilisations"
+   ],
+   "threads": [
+    "lost-civilisations",
+    "changed-understanding",
+    "hunter-gatherer-monuments",
+    "gobekli-cluster"
+   ]
+  },
+  {
+   "id": "wolfsegg-iron",
+   "title": "Wolfsegg Iron (Salzburg Cube)",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 3,
+   "start": 1885,
+   "end": null,
+   "evidenceTypes": [
+    "museum specimen",
+    "textual"
+   ],
+   "mainstream": "The Wolfsegg Iron is a small iron object reportedly found in a Tertiary coal block at Wolfsegg am Hausruck, Austria, in the 19th century and once displayed as an out-of-place artifact. Analyses have generally identified it as cast iron consistent with mining equipment or a meteoritic/industrial miscellany rather than an ancient machined cube. It remains a staple of OOPArt lists.",
+   "alternatives": [
+    {
+     "label": "Machined ancient cube",
+     "text": "Alternative authors claim precision workmanship from before humans; metallurgical assessments favour modern cast iron."
+    },
+    {
+     "label": "Meteorite core",
+     "text": "An older museum label tradition suggested meteoritic origin; composition studies have not established a famous exotic alloy."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Wolfsegg Iron",
+     "url": "https://en.wikipedia.org/wiki/Wolfsegg_Iron",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Wolfsegg_iron.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Wolfsegg_iron.jpg",
+     "author": "Editor Bob at English Wikipedia",
+     "license": "Public domain",
+     "title": "Wolfsegg_iron.jpg"
+    }
+   ],
+   "categories": [
+    "anomalies",
+    "hoaxes",
+    "archaeology"
+   ],
+   "threads": [
+    "hoaxes-exposed",
+    "out-of-place-artifacts"
+   ]
+  },
+  {
+   "id": "burrows-cave",
+   "title": "Burrows Cave",
+   "lane": "history",
+   "status": "debunked",
+   "priority": 2,
+   "start": 1982,
+   "end": null,
+   "evidenceTypes": [
+    "textual",
+    "artifact claims"
+   ],
+   "mainstream": "Burrows Cave refers to a claimed cave in Illinois from which Russell Burrows said he recovered hundreds of inscribed stones with apparent Near Eastern and other Old World motifs beginning in the 1980s. Professional archaeologists who have examined the claims treat the stones as modern fakes and note that no verified cave locus has been produced under controlled conditions. The affair is a well-known Midwestern archaeological hoax narrative.",
+   "alternatives": [
+    {
+     "label": "Hidden genuine cache",
+     "text": "Supporters allege suppression by mainstream archaeology; no peer-reviewed excavation has validated the site."
+    },
+    {
+     "label": "Pre-Columbian contact proof",
+     "text": "Even if motifs look Mediterranean, fabrication better explains the assemblage than rewriting American prehistory."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Burrows Cave",
+     "url": "https://en.wikipedia.org/wiki/Burrows_Cave",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [],
+   "categories": [
+    "hoaxes",
+    "archaeology"
+   ],
+   "threads": [
+    "hoaxes-exposed",
+    "out-of-place-artifacts"
+   ]
+  },
+  {
+   "id": "kecksburg-ufo",
+   "title": "Kecksburg UFO incident (1965)",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 1965,
+   "end": null,
+   "evidenceTypes": [
+    "eyewitness",
+    "documentary"
+   ],
+   "mainstream": "On 9 December 1965 a fireball was seen across the Great Lakes and northeastern US; residents of Kecksburg, Pennsylvania, reported an acorn-shaped object in the woods and a military recovery. The US Air Force listed it as a meteor; later FOIA-related attention and a NASA statement about a retrieved object that was not a spacecraft kept controversy alive. Unresolved claims include a Soviet Venus probe (Kosmos 96) re-entry—timeline problematic—or a secret US device.",
+   "alternatives": [
+    {
+     "label": "Alien craft",
+     "text": "Local lore and TV specials favour a non-human vehicle under military seal; hard public evidence is lacking."
+    },
+    {
+     "label": "Meteor only",
+     "text": "Sceptics argue eyewitness embellishment layered onto a brilliant fireball; the acorn shape may be folkloric crystallisation."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Kecksburg UFO incident",
+     "url": "https://en.wikipedia.org/wiki/Kecksburg_UFO_incident",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Kecksburg_UFO.JPG/500px-Kecksburg_UFO.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Kecksburg_UFO.JPG",
+     "author": "Ryright",
+     "license": "CC BY-SA 3.0",
+     "title": "Kecksburg_UFO.JPG"
+    }
+   ],
+   "categories": [
+    "aliens-ufo",
+    "anomalies",
+    "history"
+   ],
+   "threads": [
+    "ufo-encounters",
+    "cold-war-secrets"
+   ]
+  },
+  {
+   "id": "london-hammer",
+   "title": "London Hammer (London Artifact)",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 3,
+   "start": 1936,
+   "end": null,
+   "evidenceTypes": [
+    "museum specimen",
+    "geological claims"
+   ],
+   "mainstream": "The London Hammer is an iron-and-wood hammer said to have been found in Cretaceous limestone concretion near London, Texas, in 1936 (reported widely decades later). Young-Earth and OOPArt advocates call it a human tool sealed in ancient rock. Geologists note that mineral concretions can enclose recent objects, and the hammer's style matches 19th-century tools—so the find does not demonstrate humans in the Cretaceous.",
+   "alternatives": [
+    {
+     "label": "Cretaceous tool",
+     "text": "Creationist exhibits present it as proof of modern humans among dinosaurs; mainstream geology rejects the dating inference from the concretion alone."
+    },
+    {
+     "label": "Planted hoax",
+     "text": "Some critics suggest deliberate planting; others accept a real find with misunderstood geology."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: London Hammer",
+     "url": "https://en.wikipedia.org/wiki/London_Hammer",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [],
+   "categories": [
+    "anomalies",
+    "hoaxes"
+   ],
+   "threads": [
+    "hoaxes-exposed",
+    "out-of-place-artifacts"
    ]
   }
  ]
