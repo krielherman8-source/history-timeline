@@ -1672,3 +1672,74 @@ addt('human-sacrifice','grauballe-man')
 addt('underground-worlds','area-51 operation-highjump')
 addt('rejected-pioneers','ibn-al-haytham')
 addt('scientific-revolution','ibn-al-haytham')
+
+# batch 19 part 1 — Korea / Northeast Asia
+C.update({
+'anak-tomb':'archaeology history','seokguram':'archaeology religion history','hunminjeongeum':'history','dokkaebi':'myth-legend',
+'korean-shamanism':'religion myth-legend history','silla-gold-crowns':'archaeology history','balhae':'history archaeology lost-civilisations',
+'koryo-celadon':'history archaeology','jeju-samseong':'myth-legend history','hwandan-gogi':'hoaxes history lost-civilisations'})
+addt('korean-kingdoms','anak-tomb seokguram hunminjeongeum silla-gold-crowns balhae koryo-celadon jeju-samseong hwandan-gogi')
+addt('sacred-kingship','silla-gold-crowns seokguram hunminjeongeum')
+addt('giant-monuments','seokguram')
+addt('founding-ancestors','jeju-samseong')
+addt('hoaxes-exposed','hwandan-gogi')
+addt('lost-civilisations','balhae hwandan-gogi')
+addt('shapeshifters','dokkaebi')
+addt('suppressed-beliefs','korean-shamanism dokkaebi')
+addt('silk-road','balhae koryo-celadon anak-tomb')
+addt('decipherments','hunminjeongeum')
+addt('hidden-tombs','anak-tomb silla-gold-crowns')
+# batch 19 part 2 — Himalayas
+C.update({
+'potala-palace':'history religion archaeology','bon-religion':'religion myth-legend history','mustang-caves':'archaeology religion lost-civilisations',
+'paro-taktsang':'religion history myth-legend','guge-kingdom':'history archaeology religion lost-civilisations','padmasambhava':'religion myth-legend',
+'thang-tong-gyalpo':'history religion','druk-thunder-dragon':'myth-legend religion history','malla-kathmandu':'history archaeology religion',
+'kumari-nepal':'religion history'})
+addt('himalayan-kingdoms','potala-palace mustang-caves paro-taktsang guge-kingdom thang-tong-gyalpo druk-thunder-dragon malla-kathmandu kumari-nepal bon-religion padmasambhava')
+addt('sacred-kingship','potala-palace kumari-nepal druk-thunder-dragon')
+addt('serpent-beings','druk-thunder-dragon')
+addt('sky-beings','padmasambhava druk-thunder-dragon')
+addt('lost-civilisations','guge-kingdom mustang-caves')
+addt('rediscovered-civilisations','guge-kingdom mustang-caves')
+addt('underground-worlds','mustang-caves')
+addt('sacred-relics','paro-taktsang potala-palace')
+addt('civilising-teachers','padmasambhava thang-tong-gyalpo bon-religion')
+addt('ancient-technology','thang-tong-gyalpo')
+addt('suppressed-beliefs','bon-religion')
+addt('giant-monuments','potala-palace paro-taktsang')
+# batch 19 part 3 — Eastern Europe / Slavic / Balkans
+C.update({
+'rus-baptism':'history religion','firebird':'myth-legend','koschei':'myth-legend','vinca-symbols':'archaeology anomalies',
+'battle-of-kosovo':'history myth-legend','bogomils':'religion history','painted-monasteries-bucovina':'religion history archaeology',
+'thracian-kings':'archaeology history','cyril-methodius':'history religion','amber-room':'history anomalies catastrophes'})
+addt('slavic-worlds','rus-baptism firebird koschei battle-of-kosovo bogomils painted-monasteries-bucovina cyril-methodius amber-room')
+addt('balkan-crossroads','battle-of-kosovo bogomils painted-monasteries-bucovina thracian-kings vinca-symbols cyril-methodius')
+addt('decipherments','vinca-symbols cyril-methodius')
+addt('holy-wars','battle-of-kosovo bogomils rus-baptism')
+addt('sleeping-heroes','battle-of-kosovo koschei')
+addt('shapeshifters','firebird koschei')
+addt('lost-treasures','amber-room thracian-kings')
+addt('hidden-tombs','thracian-kings')
+addt('suppressed-beliefs','bogomils')
+addt('first-art','vinca-symbols painted-monasteries-bucovina')
+addt('knowledge-and-power','cyril-methodius rus-baptism')
+addt('erased-from-history','amber-room')
+addt('changed-understanding','vinca-symbols')
+# batch 19 part 4 — weird science / anomalies / UFOs / hoaxes
+C.update({
+'falcon-lake-1967':'aliens-ufo anomalies','solway-spaceman':'aliens-ufo anomalies hoaxes','jwst-early-galaxies':'science-cosmos anomalies',
+'schweitzer-dino-soft-tissue':'science-cosmos anomalies','kelly-hopkinsville':'aliens-ufo anomalies','karahan-tepe':'archaeology anomalies lost-civilisations',
+'wolfsegg-iron':'anomalies hoaxes archaeology','burrows-cave':'hoaxes archaeology','kecksburg-ufo':'aliens-ufo anomalies history',
+'london-hammer':'anomalies hoaxes'})
+addt('ufo-encounters','falcon-lake-1967 kelly-hopkinsville kecksburg-ufo solway-spaceman')
+addt('seeing-what-we-expect','solway-spaceman kelly-hopkinsville falcon-lake-1967')
+addt('hoaxes-exposed','burrows-cave wolfsegg-iron london-hammer')
+addt('out-of-place-artifacts','wolfsegg-iron london-hammer burrows-cave')
+addt('lost-civilisations','karahan-tepe')
+addt('hunter-gatherer-monuments','karahan-tepe')
+addt('changed-understanding','jwst-early-galaxies schweitzer-dino-soft-tissue karahan-tepe')
+addt('dragons-and-fossils','schweitzer-dino-soft-tissue')
+addt('tested-by-experiment','schweitzer-dino-soft-tissue jwst-early-galaxies')
+addt('cold-war-secrets','kecksburg-ufo falcon-lake-1967')
+addt('anomalous-photos','solway-spaceman')
+addt('gobekli-cluster','karahan-tepe gobekli-tepe')

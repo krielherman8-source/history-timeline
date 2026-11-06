@@ -810,7 +810,8 @@
    "threads": [
     "lost-civilisations",
     "changed-understanding",
-    "hunter-gatherer-monuments"
+    "hunter-gatherer-monuments",
+    "gobekli-cluster"
    ]
   },
   {
@@ -41546,6 +41547,496 @@
     "changed-understanding",
     "human-origins",
     "denisovan-world"
+   ]
+  },
+  {
+   "id": "anak-tomb",
+   "title": "Anak Tomb No. 3: Goguryeo murals",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 357,
+   "end": null,
+   "evidenceTypes": [
+    "archaeological",
+    "art historical"
+   ],
+   "mainstream": "Anak Tomb No. 3 in Anak County, North Korea, is a mid-4th-century Goguryeo chamber tomb famous for wall paintings of a noble couple, processions, kitchens and a hunting scene. An inscription is often read as dating the tomb to 357 CE and naming a figure associated with Dong Shou. The murals are key evidence for Goguryeo dress, architecture and elite life, and the site is part of the UNESCO Complex of Koguryo Tombs.",
+   "alternatives": [
+    {
+     "label": "Identity of the occupant",
+     "text": "Scholars debate whether the tomb belongs to Dong Shou, a Goguryeo king, or another elite; the inscription's reading remains contested."
+    },
+    {
+     "label": "Lost advanced colour tech",
+     "text": "Popular claims that the pigments prove forgotten high technology overstate ordinary mineral paint traditions well attested in East Asian tombs."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Anak Tomb No. 3",
+     "url": "https://en.wikipedia.org/wiki/Anak_Tomb_No._3",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Goguryeo tombs",
+     "url": "https://en.wikipedia.org/wiki/Goguryeo_tombs",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Man_-_Anak_Tomb_No._3.jpg/500px-Man_-_Anak_Tomb_No._3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Man_-_Anak_Tomb_No._3.jpg",
+     "author": "Unknown authorUnknown author",
+     "license": "Public domain",
+     "title": "Man_-_Anak_Tomb_No._3.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history"
+   ],
+   "threads": [
+    "hidden-tombs",
+    "silk-road",
+    "korean-kingdoms"
+   ]
+  },
+  {
+   "id": "seokguram",
+   "title": "Seokguram Grotto",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": 751,
+   "end": null,
+   "evidenceTypes": [
+    "archaeological",
+    "art historical"
+   ],
+   "mainstream": "Seokguram, on Mount Toham near Gyeongju, South Korea, is an 8th-century Silla granite grotto temple centred on a monumental seated Buddha, built under Prime Minister Kim Daeseong and completed around 774 CE. The artificial cave combines architecture, sculpture and planned light. It is a UNESCO World Heritage Site paired with Bulguksa and a masterpiece of Buddhist art in East Asia.",
+   "alternatives": [
+    {
+     "label": "Exact consecration dates",
+     "text": "Chronicle dates for foundation and completion vary slightly; the mid-to-late 8th-century Silla context is secure."
+    },
+    {
+     "label": "Impossible stonework myths",
+     "text": "Fringe tours sometimes treat the dome's precision as non-human; it fits documented Silla quarry and masonry skill."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Seokguram",
+     "url": "https://en.wikipedia.org/wiki/Seokguram",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [],
+   "categories": [
+    "archaeology",
+    "religion",
+    "history"
+   ],
+   "threads": [
+    "giant-monuments",
+    "sacred-kingship",
+    "korean-kingdoms"
+   ]
+  },
+  {
+   "id": "hunminjeongeum",
+   "title": "Hunminjeongeum: promulgation of Hangul",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": 1446,
+   "end": null,
+   "dateNote": "Promulgated 1446; letters designed c. 1443–44",
+   "evidenceTypes": [
+    "textual"
+   ],
+   "mainstream": "In 1446 (or 1443–44 by some reckonings of composition) King Sejong of Joseon promulgated Hunminjeongeum (\"The Correct Sounds for the Instruction of the People\"), introducing the Korean alphabet now called Hangul. The script was designed to match Korean speech more closely than Classical Chinese, with a famous scientific account of letter shapes. Elites long preferred hanja; Hangul later became central to Korean literacy and identity.",
+   "alternatives": [
+    {
+     "label": "Inventor myths",
+     "text": "Tradition credits Sejong personally; scholars also stress work by the Hall of Worthies (Jiphyeonjeon) scholars under his direction."
+    },
+    {
+     "label": "Suppressed alphabet conspiracies",
+     "text": "Nationalist and popular narratives sometimes exaggerate elite conspiracy against Hangul beyond the documented social preference for Classical Chinese."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Hunminjeongeum",
+     "url": "https://en.wikipedia.org/wiki/Hunminjeongeum",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Hangul",
+     "url": "https://en.wikipedia.org/wiki/Hangul",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Hunminjeongum.jpg/500px-Hunminjeongum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Hunminjeongum.jpg",
+     "author": "Sejong the Great of Joseon",
+     "license": "Public domain",
+     "title": "Hunminjeongum.jpg"
+    }
+   ],
+   "categories": [
+    "history"
+   ],
+   "threads": [
+    "sacred-kingship",
+    "decipherments",
+    "korean-kingdoms"
+   ]
+  },
+  {
+   "id": "dokkaebi",
+   "title": "Dokkaebi: Korean goblin spirits",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": 0,
+   "end": null,
+   "dateNote": "Oral tradition; literary records mainly Joseon and later",
+   "evidenceTypes": [
+    "oral tradition",
+    "textual"
+   ],
+   "mainstream": "Dokkaebi are supernatural beings in Korean folklore, often pictured with horns, magical clubs (bangmangi) and a taste for contests, tricks and punishing the greedy. They appear in folktales, shamanic contexts and modern media. Unlike Western demons they are frequently more mischievous than purely evil. Stories were collected and reshaped from the Joseon period into the present.",
+   "alternatives": [
+    {
+     "label": "Nature spirits vs ghosts",
+     "text": "Folklorists debate how far dokkaebi overlap with nature spirits, transformed objects, or restless dead; regional traditions differ."
+    },
+    {
+     "label": "Ancient alien reading",
+     "text": "Internet lore sometimes recasts dokkaebi as extraterrestrials; that is a modern overlay on folk narrative."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Dokkaebi",
+     "url": "https://en.wikipedia.org/wiki/Dokkaebi",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [],
+   "categories": [
+    "myth-legend"
+   ],
+   "threads": [
+    "shapeshifters",
+    "suppressed-beliefs"
+   ]
+  },
+  {
+   "id": "korean-shamanism",
+   "title": "Korean shamanism (Muism)",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 0,
+   "end": null,
+   "dateNote": "Living tradition with deep historical roots; no single foundation year",
+   "evidenceTypes": [
+    "ethnographic",
+    "textual",
+    "oral tradition"
+   ],
+   "mainstream": "Korean shamanism (musok/muism) centres on mudang (often women) who mediate with gods and ancestors through gut rituals involving song, dance and offerings. It absorbed and coexisted with Buddhism, Confucianism and later Christianity. State campaigns periodically suppressed shamans; the practice persists in South Korea and among diasporas, and is studied as living religion rather than mere superstition.",
+   "alternatives": [
+    {
+     "label": "Princess Bari as charter myth",
+     "text": "The abandoned princess Bari who becomes a shamanic psychopomp is a major narrative charter for mudang vocations; historicity is mythical, not biographical."
+    },
+    {
+     "label": "Pure prehistoric survival",
+     "text": "Romantic claims that modern gut is an unchanged Ice Age religion ignore centuries of change and syncretism."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Korean shamanism",
+     "url": "https://en.wikipedia.org/wiki/Korean_shamanism",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Sam-Taeguk.svg/500px-Sam-Taeguk.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Sam-Taeguk.svg",
+     "author": "Mysid",
+     "license": "Public domain",
+     "title": "Sam-Taeguk.svg"
+    }
+   ],
+   "categories": [
+    "religion",
+    "myth-legend",
+    "history"
+   ],
+   "threads": [
+    "suppressed-beliefs"
+   ]
+  },
+  {
+   "id": "silla-gold-crowns",
+   "title": "Gold crowns of Silla",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 400,
+   "end": null,
+   "dateNote": "Mainly 5th–6th century royal tombs",
+   "evidenceTypes": [
+    "archaeological"
+   ],
+   "mainstream": "Elaborate gold crowns from Silla royal tombs at Gyeongju (notably the 5th–6th centuries) feature tree- or antler-like uprights, jade comma-shaped gogok pendants and dazzling sheet-gold work. They signal sacred kingship and links across the Eurasian steppe gold-working world. Many are National Treasures of South Korea and icons of the Gyeongju historic areas UNESCO property.",
+   "alternatives": [
+    {
+     "label": "Steppe connection",
+     "text": "Scholars debate how directly Silla crowns relate to Scythian–Siberian diadem traditions versus local invention within shared prestige styles."
+    },
+    {
+     "label": "Alien royalty myths",
+     "text": "Fringe authors sometimes treat the otherworldly look of the crowns as proof of non-human elites; archaeology places them in East Asian burial practice."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Crowns of Silla",
+     "url": "https://en.wikipedia.org/wiki/Crowns_of_Silla",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Korea-Silla_kingdom-Gold_crown_from_Hwangnam_Daechong-No.191-01D.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Korea-Silla_kingdom-Gold_crown_from_Hwangnam_Daechong-No.191-01D.jpg",
+     "author": "Korea-Silla_kingdom-Gold_crown_from_Geumgwanchong-No.191-01.jpg: Seon Kwang Haengja from Esztergom, Hungary *derivative ",
+     "license": "CC BY 3.0",
+     "title": "Korea-Silla_kingdom-Gold_crown_from_Hwangnam_Daechong-No.191-01D.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history"
+   ],
+   "threads": [
+    "hidden-tombs",
+    "sacred-kingship",
+    "korean-kingdoms"
+   ]
+  },
+  {
+   "id": "balhae",
+   "title": "Balhae (Parhae): kingdom of the north",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 698,
+   "end": null,
+   "evidenceTypes": [
+    "textual",
+    "archaeological"
+   ],
+   "mainstream": "Balhae (Parhae; 698–926) was a kingdom in southern Manchuria and the northern Korean peninsula founded by Dae Joyeong after Goguryeo's fall. Chinese sources called it a regional power; it traded with Tang China and Japan and left capitals such as Sanggyeong. It fell to the Khitan Liao in 926. Modern Korean, Chinese and Russian scholarship contests how \"Korean\" versus multiethnic the state was.",
+   "alternatives": [
+    {
+     "label": "Ethnic identity",
+     "text": "National historiographies disagree over Balhae as Korean successor state, Mohe-led polity, or multiethnic kingdom; archaeology shows mixed material culture."
+    },
+    {
+     "label": "Hidden northern empire myths",
+     "text": "Popular narratives sometimes inflate Balhae into a lost superpower erased by rivals beyond what the sources support."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Parhae",
+     "url": "https://en.wikipedia.org/wiki/Parhae",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Balhae-Territory_in_830.JPG/500px-Balhae-Territory_in_830.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Balhae-Territory_in_830.JPG",
+     "author": "Historiographer at English Wikipedia",
+     "license": "Public domain",
+     "title": "Balhae-Territory_in_830.JPG"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology",
+    "lost-civilisations"
+   ],
+   "threads": [
+    "lost-civilisations",
+    "silk-road",
+    "korean-kingdoms"
+   ]
+  },
+  {
+   "id": "koryo-celadon",
+   "title": "Goryeo celadon",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1100,
+   "end": null,
+   "dateNote": "Flowering especially 11th–13th centuries",
+   "evidenceTypes": [
+    "archaeological",
+    "art historical"
+   ],
+   "mainstream": "Goryeo celadon (cheongja) of the 10th–14th centuries is celebrated for jade-green glazes and inlaid sanggam decoration of cranes, clouds and floral scrolls. Kilns in Jeolla and elsewhere supplied court and temples; pieces were prized in China and are now museum centrepieces. The ware declined with the dynasty's turmoil and the rise of Joseon white porcelain.",
+   "alternatives": [
+    {
+     "label": "Secret glaze formulas",
+     "text": "Romantic craft lore speaks of lost perfect recipes; technical studies show controllable iron glazes and reducing atmospheres, not vanished alchemy."
+    },
+    {
+     "label": "Outsider master potters",
+     "text": "Some older colonial scholarship undervalued Korean agency; kiln archaeology confirms local Goryeo production."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Goryeo ware",
+     "url": "https://en.wikipedia.org/wiki/Goryeo_ware",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Korea_-_Seoul_-_National_Museum_-_Incense_Burner_0252-06a.jpg/500px-Korea_-_Seoul_-_National_Museum_-_Incense_Burner_0252-06a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Korea_-_Seoul_-_National_Museum_-_Incense_Burner_0252-06a.jpg",
+     "author": "Steve46814",
+     "license": "CC BY-SA 3.0",
+     "title": "Korea_-_Seoul_-_National_Museum_-_Incense_Burner_0252-06a.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology"
+   ],
+   "threads": [
+    "silk-road",
+    "korean-kingdoms"
+   ]
+  },
+  {
+   "id": "jeju-samseong",
+   "title": "Samseonghyeol: Jeju's three-clan origin myth",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": 0,
+   "end": null,
+   "dateNote": "Mythic charter; Tamna polity historically attested later",
+   "evidenceTypes": [
+    "oral tradition",
+    "textual"
+   ],
+   "mainstream": "Samseonghyeol (\"Holes of the Three Clans\") in Jeju City marks the legendary spot where three demigods—Go, Yang and Bu—emerged from the ground, married princesses from the sea, and founded Jeju's first clans. The shrine and myth anchor Jeju identity distinct from mainland Korean founding stories. Historical references and rituals surround the site into the modern tourism era.",
+   "alternatives": [
+    {
+     "label": "Literal emergence",
+     "text": "The story is origin mythology, not geology; lava tubes and volcanic landscape of Jeju invite symbolic readings."
+    },
+    {
+     "label": "Lost civilisation of Tamna",
+     "text": "Some popular histories blend the myth with the historical Tamna polity into a single vanished high culture beyond the evidence."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Samseonghyeol",
+     "url": "https://en.wikipedia.org/wiki/Samseonghyeol",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Jeju Island",
+     "url": "https://en.wikipedia.org/wiki/Jeju_Island",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Samseonghyeol_2026_01.jpg/500px-Samseonghyeol_2026_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Samseonghyeol_2026_01.jpg",
+     "author": "Grapesurgeon",
+     "license": "CC BY-SA 4.0",
+     "title": "Samseonghyeol_2026_01.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "history"
+   ],
+   "threads": [
+    "founding-ancestors",
+    "korean-kingdoms"
+   ]
+  },
+  {
+   "id": "hwandan-gogi",
+   "title": "Hwandan Gogi: disputed Korean pseudo-history",
+   "lane": "history",
+   "status": "debunked",
+   "priority": 2,
+   "start": 1979,
+   "end": null,
+   "evidenceTypes": [
+    "textual"
+   ],
+   "mainstream": "Hwandan Gogi (Handan Gogi) is a text published in 1979 that purports to chronicle an ancient Northeast Asian empire far older and wider than mainstream Korean history allows. Professional historians in Korea and abroad treat it as a modern fabrication or unreliable compilation without credible manuscript pedigree. It remains influential in some nationalist and popular circles.",
+   "alternatives": [
+    {
+     "label": "Authentic ancient chronicle",
+     "text": "Supporters claim transmission from older sources; no verifiable premodern exemplar has convinced academic historians."
+    },
+    {
+     "label": "Colonial suppression narrative",
+     "text": "Advocates argue Japanese colonial scholarship hid the text; mainstream historiography sees a late-20th-century pseudepigraph."
+    }
+   ],
+   "changed": "Published 1979; academic rejection followed soon after.",
+   "sources": [
+    {
+     "title": "Wikipedia: Hwandan Gogi",
+     "url": "https://en.wikipedia.org/wiki/Hwandan_Gogi",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [],
+   "categories": [
+    "hoaxes",
+    "history",
+    "lost-civilisations"
+   ],
+   "threads": [
+    "lost-civilisations",
+    "hoaxes-exposed",
+    "korean-kingdoms"
    ]
   }
  ]
