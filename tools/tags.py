@@ -1777,3 +1777,25 @@ addt('civilising-teachers','armenian-alphabet manichaeism')
 addt('secret-societies','mithraism')
 addt('lost-civilisations','parthian-empire')
 addt('rediscovered-civilisations','persepolis pasargadae taq-kasra')
+
+# batch 20 part 3 — Africa / Americas / Finnish
+C.update({
+'yoruba-orisha':'myth-legend religion','oduduwa':'myth-legend history','ifa-divination':'religion history','mapuche-resistance':'history',
+'guarani-land-without-evil':'myth-legend religion','tiwanaku':'archaeology lost-civilisations history','kalevala-epic':'myth-legend history','vainamoinen':'myth-legend',
+'kingdom-of-kongo':'history religion','swahili-coast':'history archaeology religion'})
+addt('yoruba-worlds','yoruba-orisha oduduwa ifa-divination')
+addt('southern-cone','mapuche-resistance guarani-land-without-evil')
+addt('founding-ancestors','oduduwa vainamoinen')
+addt('sacred-kingship','oduduwa kingdom-of-kongo')
+addt('civilising-teachers','oduduwa vainamoinen ifa-divination')
+addt('lost-civilisations','tiwanaku')
+addt('rediscovered-civilisations','tiwanaku')
+addt('giant-monuments','tiwanaku')
+addt('silk-road','swahili-coast')
+addt('holy-wars','mapuche-resistance kingdom-of-kongo')
+addt('sky-beings','yoruba-orisha oduduwa')
+addt('water-spirits','yoruba-orisha guarani-land-without-evil')
+addt('lost-treasures','tiwanaku kalevala-epic')
+addt('knowledge-and-power','ifa-divination kalevala-epic kingdom-of-kongo')
+addt('andean-empires','tiwanaku')
+addt('sahel-kingdoms','kingdom-of-kongo')

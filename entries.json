@@ -44731,6 +44731,531 @@
     "rediscovered-civilisations",
     "iranian-worlds"
    ]
+  },
+  {
+   "id": "yoruba-orisha",
+   "title": "Orisha: Yoruba divine beings",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 1,
+   "start": 0,
+   "end": null,
+   "dateNote": "Living tradition with deep precolonial roots",
+   "evidenceTypes": [
+    "ethnographic",
+    "oral tradition",
+    "textual"
+   ],
+   "mainstream": "Orisha (òrìṣà) are divine beings and forces in Yoruba religion of West Africa, each linked to domains such as thunder (Ṣàngó), the sea (Yemoja), fate and wisdom (Ifá/Ọ̀rúnmìlà), and iron (Ogun). Worship involves shrines, possession dance, offerings and ethics of character (ìwà). The system travelled with the Atlantic diaspora into Candomblé, Santería/Lucumí and related traditions.",
+   "alternatives": [
+    {
+     "label": "Gods vs ancestors vs forces",
+     "text": "Theological descriptions vary: orisha may be described as divinities, elevated ancestors, or faces of a single ultimate reality (Olódùmarè)."
+    },
+    {
+     "label": "Ancient astronaut orisha",
+     "text": "Internet lore sometimes casts orisha as extraterrestrials; that is not a traditional Yoruba framing."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Orisha",
+     "url": "https://en.wikipedia.org/wiki/Orisha",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Yoruba religion",
+     "url": "https://en.wikipedia.org/wiki/Yoruba_religion",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Dique_do_Toror%C3%B3_-_Foto_-_Tereza_Torres_-_Setur_%2815659893633%29.jpg/500px-Dique_do_Toror%C3%B3_-_Foto_-_Tereza_Torres_-_Setur_%2815659893633%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Dique_do_Toror%C3%B3_-_Foto_-_Tereza_Torres_-_Setur_(15659893633).jpg",
+     "author": "Turismo Bahia",
+     "license": "CC BY-SA 2.0",
+     "title": "Dique_do_Tororó_-_Foto_-_Tereza_Torres_-_Setur_(15659893633).jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion"
+   ],
+   "threads": [
+    "sky-beings",
+    "water-spirits",
+    "yoruba-worlds"
+   ]
+  },
+  {
+   "id": "oduduwa",
+   "title": "Oduduwa: progenitor of the Yoruba",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 1,
+   "start": 0,
+   "end": null,
+   "dateNote": "Mythic charter; Ifẹ̀ urban florescence roughly 1st–15th centuries CE",
+   "evidenceTypes": [
+    "oral tradition",
+    "textual"
+   ],
+   "mainstream": "Oduduwa is the culture hero and ancestral figure credited in Yoruba tradition with founding Ilé-Ifẹ̀ and fathering lineages of Yoruba kings. Myths variously describe descent from the sky with a chain and sand to create land, or migration from elsewhere. Ifẹ̀ remains a sacred centre; Oduduwa's story anchors dynastic legitimacy across Yorubaland.",
+   "alternatives": [
+    {
+     "label": "Historical migrant founder",
+     "text": "Some historians seek a real early leader or migrant group behind the myth; archaeology of Ifẹ̀ shows urban complexity without confirming a single biography."
+    },
+    {
+     "label": "Lost high technology at Ifẹ̀",
+     "text": "Bronze and terracotta heads of Ifẹ̀ inspire exaggerated claims of impossible tech; they fit sophisticated West African lost-wax and ceramic traditions."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Oduduwa",
+     "url": "https://en.wikipedia.org/wiki/Oduduwa",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Oduduwa_02.jpg/500px-Oduduwa_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Oduduwa_02.jpg",
+     "author": "Tunde Akangbe",
+     "license": "CC BY-SA 4.0",
+     "title": "Oduduwa_02.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "history"
+   ],
+   "threads": [
+    "sky-beings",
+    "sacred-kingship",
+    "civilising-teachers",
+    "founding-ancestors",
+    "yoruba-worlds"
+   ]
+  },
+  {
+   "id": "ifa-divination",
+   "title": "Ifá divination",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": 0,
+   "end": null,
+   "dateNote": "Living system; classical corpora crystallised over centuries",
+   "evidenceTypes": [
+    "ethnographic",
+    "textual",
+    "oral tradition"
+   ],
+   "mainstream": "Ifá is a Yoruba divination and wisdom system in which trained babaláwo cast palm nuts or a chain to produce one of 256 odù, each with extensive verse corpora (ese Ifá) guiding ethics and decision-making. UNESCO has recognised Ifá as Intangible Cultural Heritage. Related systems appear in Afro-Atlantic religions.",
+   "alternatives": [
+    {
+     "label": "Age and origin",
+     "text": "Verses encode centuries of accumulation; claims of a single antediluvian author are theological, not historical datings."
+    },
+    {
+     "label": "Binary computer prophecy",
+     "text": "Popular essays liken Ifá's 256 odù to digital bits; the analogy is suggestive but Ifá is a ritual-hermeneutic practice, not a silicon algorithm."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Ifá",
+     "url": "https://en.wikipedia.org/wiki/If%C3%A1",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Jogo_de_Ikin_Orossi.JPG/500px-Jogo_de_Ikin_Orossi.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Jogo_de_Ikin_Orossi.JPG",
+     "author": "Toluaye",
+     "license": "Public domain",
+     "title": "Jogo_de_Ikin_Orossi.JPG"
+    }
+   ],
+   "categories": [
+    "religion",
+    "history"
+   ],
+   "threads": [
+    "knowledge-and-power",
+    "civilising-teachers",
+    "yoruba-worlds"
+   ]
+  },
+  {
+   "id": "mapuche-resistance",
+   "title": "Lautaro and Mapuche resistance",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": 1553,
+   "end": null,
+   "dateNote": "Lautaro active 1550s; wider Arauco War centuries-long",
+   "evidenceTypes": [
+    "textual",
+    "oral tradition"
+   ],
+   "mainstream": "Lautaro (Leftraru, d. 1557) was a Mapuche military leader who, after time as a captive of the Spanish, helped organise resistance in the Arauco War in Chile, notably contributing to the defeat and death of Pedro de Valdivia. Mapuche polities maintained independence in large areas south of the Bío-Bío for centuries. Lautaro became a national and indigenous symbol of resistance.",
+   "alternatives": [
+    {
+     "label": "Unity of \"the Mapuche\"",
+     "text": "Mapuche-speaking groups were politically diverse; colonial and modern labels simplify fluid alliances."
+    },
+    {
+     "label": "Hidden undefeated empire",
+     "text": "Romantic accounts sometimes invent a single Mapuche empire ruling the Southern Cone; the historical picture is of resilient, decentralised resistance."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Lautaro",
+     "url": "https://en.wikipedia.org/wiki/Lautaro",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Arauco War",
+     "url": "https://en.wikipedia.org/wiki/Arauco_War",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Lautaro_Ca%C3%B1ete.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Lautaro_Ca%C3%B1ete.jpg",
+     "author": "No machine-readable author provided. GringoInChile assumed (based on copyright claims).",
+     "license": "CC BY 2.5",
+     "title": "Lautaro_Cañete.jpg"
+    }
+   ],
+   "categories": [
+    "history"
+   ],
+   "threads": [
+    "holy-wars",
+    "southern-cone"
+   ]
+  },
+  {
+   "id": "guarani-land-without-evil",
+   "title": "Guaraní Land without Evil (Yvy Maraëy)",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": 0,
+   "end": null,
+   "dateNote": "Living mythic-ritual theme; documented especially from colonial era onward",
+   "evidenceTypes": [
+    "ethnographic",
+    "oral tradition"
+   ],
+   "mainstream": "Among Guaraní peoples of the Atlantic forests and hinterlands of South America, Yvy Maraëy (\"Land without Evil\") is a longed-for perfect land free of suffering, sought through prophecy, migration and ritual. Colonial and Jesuit-period sources and modern ethnography record messianic journeys toward that horizon. The theme shaped responses to conquest and mission life.",
+   "alternatives": [
+    {
+     "label": "Geographic destination",
+     "text": "Some movements sought a literal earthly paradise to the east or across water; others treat the Land as a spiritual state."
+    },
+    {
+     "label": "Pre-Columbian map of Atlantis",
+     "text": "Fringe writers sometimes equate Yvy Maraëy with Atlantis or ET refuges; ethnography places it in Guaraní cosmology and colonial-era prophecy."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Guaraní people",
+     "url": "https://en.wikipedia.org/wiki/Guaran%C3%AD_people",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Guarani mythology",
+     "url": "https://en.wikipedia.org/wiki/Guarani_mythology",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Xam%C3%A3_guarani.jpg/500px-Xam%C3%A3_guarani.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Xam%C3%A3_guarani.jpg",
+     "author": "Roosewelt Pinheiro/ABr",
+     "license": "CC BY 3.0 br",
+     "title": "Xamã_guarani.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion"
+   ],
+   "threads": [
+    "water-spirits",
+    "southern-cone"
+   ]
+  },
+  {
+   "id": "tiwanaku",
+   "title": "Tiwanaku",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": -300,
+   "end": 1100,
+   "dateNote": "Major florescence c. 500–1000 CE; earlier occupations",
+   "evidenceTypes": [
+    "archaeological"
+   ],
+   "mainstream": "Tiwanaku (Tiahuanaco), near Lake Titicaca in Bolivia, was a major Andean ceremonial and urban centre flourishing roughly 500–1000 CE (with earlier phases), famed for monumental gateways (Gateway of the Sun), precisely cut andesite blocks, and a wide cultural sphere. It collapsed before the Inca rise; the Inca and modern Aymara reclaim its memory. Distinct from the nearby Pumapunku complex sector often highlighted in alternative media.",
+   "alternatives": [
+    {
+     "label": "Absolute chronology",
+     "text": "Radiocarbon and ceramic sequences have revised older diffusionist dates; debate continues on exact peak and collapse causes (climate, politics)."
+    },
+    {
+     "label": "Alien precision stonework",
+     "text": "Ancient-astronaut claims that Tiwanaku's joints require non-human tools are rejected by Andean archaeology, which documents skilled quarrying and dressing."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Tiwanaku",
+     "url": "https://en.wikipedia.org/wiki/Tiwanaku",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/PUERTA_DEL_SOL_TIWANAKU.jpg/500px-PUERTA_DEL_SOL_TIWANAKU.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:PUERTA_DEL_SOL_TIWANAKU.jpg",
+     "author": "CLAUDIOLD",
+     "license": "CC BY-SA 4.0",
+     "title": "PUERTA_DEL_SOL_TIWANAKU.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "lost-civilisations",
+    "history"
+   ],
+   "threads": [
+    "lost-civilisations",
+    "giant-monuments",
+    "lost-treasures",
+    "rediscovered-civilisations",
+    "andean-empires"
+   ]
+  },
+  {
+   "id": "kalevala-epic",
+   "title": "Kalevala",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": 1835,
+   "end": null,
+   "evidenceTypes": [
+    "textual",
+    "oral tradition"
+   ],
+   "mainstream": "The Kalevala is Finland's national epic, compiled and shaped by Elias Lönnrot from Karelian and Finnish oral rune songs and published in 1835 (expanded 1849). It recounts heroes such as Väinämöinen, Lemminkäinen and the forging and theft of the Sampo. The work crystallised Finnish literary identity under Russian imperial rule and influenced art, music (Sibelius) and later fantasy literature.",
+   "alternatives": [
+    {
+     "label": "How much is \"folk\" vs Lönnrot",
+     "text": "Lönnrot edited, ordered and sometimes composed linking material; the poem is both folklore anthology and literary creation."
+    },
+    {
+     "label": "Ice Age memory chronicle",
+     "text": "Speculative readings treat the Kalevala as a literal Ice Age history; mainstream folkloristics sees mythic and shamanic themes, not a dated chronicle."
+    }
+   ],
+   "changed": "First edition 1835; \"new\" Kalevala 1849.",
+   "sources": [
+    {
+     "title": "Wikipedia: Kalevala",
+     "url": "https://en.wikipedia.org/wiki/Kalevala",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Kalevala1.jpg/500px-Kalevala1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Kalevala1.jpg",
+     "author": "Elias Lönnrot",
+     "license": "Public domain",
+     "title": "Kalevala1.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "history"
+   ],
+   "threads": [
+    "knowledge-and-power",
+    "lost-treasures"
+   ]
+  },
+  {
+   "id": "vainamoinen",
+   "title": "Väinämöinen",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 1,
+   "start": 0,
+   "end": null,
+   "dateNote": "Oral mythic figure; epic form 19th century",
+   "evidenceTypes": [
+    "oral tradition",
+    "textual"
+   ],
+   "mainstream": "Väinämöinen is the eternal sage-singer and culture hero of Finnish–Karelian myth, central to the Kalevala: born of the Air Maiden Ilmatar, he shapes land, courts with song-magic, and vies for the Sampo. He embodies the power of the sung word (runo). Related figures appear across Baltic-Finnic tradition beyond Lönnrot's epic.",
+   "alternatives": [
+    {
+     "label": "Historic shaman",
+     "text": "Some interpreters see a remembered ritual specialist behind the figure; evidence is comparative folklore, not a biography."
+    },
+    {
+     "label": "Alien sky-singer",
+     "text": "Modern fringe casts his heavenly origins as spacecraft myth; traditional songs speak of primordial waters and song-magic."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Väinämöinen",
+     "url": "https://en.wikipedia.org/wiki/V%C3%A4in%C3%A4m%C3%B6inen",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Akseli_Gallen-Kallela_-_Head_of_V%C3%A4in%C3%A4m%C3%B6inen.jpg/500px-Akseli_Gallen-Kallela_-_Head_of_V%C3%A4in%C3%A4m%C3%B6inen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Akseli_Gallen-Kallela_-_Head_of_V%C3%A4in%C3%A4m%C3%B6inen.jpg",
+     "author": "Akseli Gallen-Kallela",
+     "license": "Public domain",
+     "title": "Akseli_Gallen-Kallela_-_Head_of_Väinämöinen.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend"
+   ],
+   "threads": [
+    "civilising-teachers",
+    "founding-ancestors"
+   ]
+  },
+  {
+   "id": "kingdom-of-kongo",
+   "title": "Kingdom of Kongo",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": 1390,
+   "end": null,
+   "dateNote": "c. late 14th century – 19th century transformations",
+   "evidenceTypes": [
+    "textual",
+    "archaeological"
+   ],
+   "mainstream": "The Kingdom of Kongo was a Central African state around the lower Congo River, prominent from the late 14th century, with its capital at M'banza-Kongo. It established early diplomatic and religious ties with Portugal after 1483, adopted Christianity at the elite level, and later suffered from the Atlantic slave trade and internal fragmentation. Its history is unusually well documented for sub-Saharan Africa in this period.",
+   "alternatives": [
+    {
+     "label": "Degree of conversion",
+     "text": "Christianity mixed with local religious practice; Portuguese sources often overstated or misunderstood Kongolese Christianity."
+    },
+    {
+     "label": "Hidden Egyptian colony myths",
+     "text": "Afrocentrist fringe sometimes derives Kongo institutions straight from pharaonic Egypt without linguistic or archaeological support for direct colonisation."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Kingdom of Kongo",
+     "url": "https://en.wikipedia.org/wiki/Kingdom_of_Kongo",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Flag_of_the_Kingdom_of_Kongo_according_to_Giovanni_Cavazzi_da_Montecuccolo.svg/500px-Flag_of_the_Kingdom_of_Kongo_according_to_Giovanni_Cavazzi_da_Montecuccolo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Flag_of_the_Kingdom_of_Kongo_according_to_Giovanni_Cavazzi_da_Montecuccolo.svg",
+     "author": "Oren neu dag",
+     "license": "Public domain",
+     "title": "Flag_of_the_Kingdom_of_Kongo_according_to_Giovanni_Cavazzi_da_Montecuccolo.svg"
+    }
+   ],
+   "categories": [
+    "history",
+    "religion"
+   ],
+   "threads": [
+    "knowledge-and-power",
+    "sacred-kingship",
+    "holy-wars",
+    "sahel-kingdoms"
+   ]
+  },
+  {
+   "id": "swahili-coast",
+   "title": "Swahili coast city-states",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": 800,
+   "end": null,
+   "dateNote": "Flourishing especially c. 10th–15th centuries",
+   "evidenceTypes": [
+    "archaeological",
+    "textual"
+   ],
+   "mainstream": "From the later first millennium CE, Swahili-speaking Muslim city-states along East Africa's coast—such as Kilwa, Mombasa, Lamu and others—linked inland African trade to the Indian Ocean world of Arabia, Persia and India. Coral-stone mosques, Chinese porcelain and the Kilwa Chronicle attest to cosmopolitan wealth. Portuguese intervention from 1498 disrupted but did not erase Swahili urban culture.",
+   "alternatives": [
+    {
+     "label": "African vs \"Arab colony\" origins",
+     "text": "Older colonial scholarship overstated foreign founders; archaeology emphasises African coastal societies adopting Islam and overseas styles."
+    },
+    {
+     "label": "Lost white civilisation myths",
+     "text": "Some 19th–20th century racist theories denied African agency at sites like Kilwa; they are discredited."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Swahili coast",
+     "url": "https://en.wikipedia.org/wiki/Swahili_coast",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Swahili_coast.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Swahili_coast.png",
+     "author": "Runehelmet",
+     "license": "CC BY-SA 3.0",
+     "title": "Swahili_coast.png"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology",
+    "religion"
+   ],
+   "threads": [
+    "silk-road"
+   ]
   }
  ]
 }
