@@ -43699,6 +43699,518 @@
     "hoaxes-exposed",
     "out-of-place-artifacts"
    ]
+  },
+  {
+   "id": "book-of-kells",
+   "title": "Book of Kells",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": 800,
+   "end": null,
+   "dateNote": "c. 800 CE; exact year unknown",
+   "evidenceTypes": [
+    "art historical",
+    "textual"
+   ],
+   "mainstream": "The Book of Kells is an illuminated Gospel book in Latin, produced by Columban monks around 800 CE, likely begun on Iona and completed or preserved at Kells in Ireland. Its carpet pages, Chi-Rho monogram and zoomorphic initials are masterpieces of Insular art. It is held at Trinity College Dublin and is among the most famous medieval manuscripts in the world.",
+   "alternatives": [
+    {
+     "label": "Exact place of production",
+     "text": "Scholars debate how much was made on Iona versus Kells or other Columban houses; Viking raids on Iona are often cited as context for moving the book."
+    },
+    {
+     "label": "Encoded lost science",
+     "text": "Popular claims that the ornament hides advanced astronomy or alien contact go far beyond palaeographic and art-historical analysis."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Book of Kells",
+     "url": "https://en.wikipedia.org/wiki/Book_of_Kells",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/KellsFol032vChristEnthroned.jpg/500px-KellsFol032vChristEnthroned.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:KellsFol032vChristEnthroned.jpg",
+     "author": "Unattributed",
+     "license": "Public domain",
+     "title": "KellsFol032vChristEnthroned.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "religion",
+    "archaeology"
+   ],
+   "threads": [
+    "lost-libraries",
+    "first-art",
+    "celtic-worlds"
+   ]
+  },
+  {
+   "id": "hill-of-tara",
+   "title": "Hill of Tara",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": -2000,
+   "end": null,
+   "dateNote": "Neolithic activity from c. 3200 BCE; Iron Age floruit; literary high-kingship medieval",
+   "evidenceTypes": [
+    "archaeological",
+    "textual"
+   ],
+   "mainstream": "The Hill of Tara (Teamhair) in County Meath, Ireland, is a complex of monuments spanning Neolithic passage tombs (including the Mound of the Hostages) through Iron Age enclosures such as the Forrad and Tech Midchúarta earthworks. Early Irish literature casts Tara as the ceremonial seat of the High Kings. Archaeology shows long ritual and burial use rather than a single palace city.",
+   "alternatives": [
+    {
+     "label": "Capital of a high-kingship",
+     "text": "Medieval kingship tales project a unified high-kingship onto a landscape that was ceremonial and contested over millennia."
+    },
+    {
+     "label": "Energy vortex / star-gate claims",
+     "text": "New Age tourism sometimes describes Tara as a planetary energy centre; that is modern spiritual geography, not an archaeological finding."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Hill of Tara",
+     "url": "https://en.wikipedia.org/wiki/Hill_of_Tara",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/The_Municipal_District_of_Ashbourne_-_Hill_of_Tara_-_2025-09-30_10-53-27_001.jpg/500px-The_Municipal_District_of_Ashbourne_-_Hill_of_Tara_-_2025-09-30_10-53-27_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:The_Municipal_District_of_Ashbourne_-_Hill_of_Tara_-_2025-09-30_10-53-27_001.jpg",
+     "author": "Paulzygmunt",
+     "license": "CC BY-SA 4.0",
+     "title": "The_Municipal_District_of_Ashbourne_-_Hill_of_Tara_-_2025-09-30_10-53-27_001.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history",
+    "myth-legend"
+   ],
+   "threads": [
+    "giant-monuments",
+    "sacred-kingship",
+    "celtic-worlds"
+   ]
+  },
+  {
+   "id": "cu-chulainn",
+   "title": "Cú Chulainn",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 1,
+   "start": 0,
+   "end": null,
+   "dateNote": "Mythic; manuscript tradition early medieval",
+   "evidenceTypes": [
+    "textual",
+    "oral tradition"
+   ],
+   "mainstream": "Cú Chulainn (\"the Hound of Culann\") is the youthful hero of the Ulster Cycle in early Irish literature, famed for the ríastrad (warp-spasm) battle frenzy and for single-handedly defending Ulster in the Táin Bó Cúailnge. Stories were written down in monastic manuscripts from roughly the 8th–12th centuries from older oral tradition. He remains a major figure in Irish cultural memory and nationalist iconography.",
+   "alternatives": [
+    {
+     "label": "Historic warrior kernel",
+     "text": "Some folklorists seek a remembered Iron Age champion behind the tales; the surviving texts are literary myth, not biography."
+    },
+    {
+     "label": "Demigod or alien hybrid readings",
+     "text": "Modern fringe retellings cast his frenzy and weapons as non-human technology; medieval sources frame him as a hero with divine ancestry (Lugh)."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Cú Chulainn",
+     "url": "https://en.wikipedia.org/wiki/C%C3%BA_Chulainn",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Cuslayshound.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Cuslayshound.jpg",
+     "author": "Stephen Reid",
+     "license": "Public domain",
+     "title": "Cuslayshound.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend"
+   ],
+   "threads": [
+    "sacred-kingship",
+    "shapeshifters",
+    "sleeping-heroes",
+    "celtic-worlds"
+   ]
+  },
+  {
+   "id": "mabinogion",
+   "title": "Mabinogion",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 1,
+   "start": 0,
+   "end": null,
+   "dateNote": "Medieval Welsh prose; Guest title 19th century",
+   "evidenceTypes": [
+    "textual"
+   ],
+   "mainstream": "The Mabinogion is the modern collective name for prose tales from medieval Welsh manuscripts (notably the White Book of Rhydderch and Red Book of Hergest), including the Four Branches of the Mabinogi—Pwyll, Branwen, Manawydan and Math—plus native romances and other stories. Lady Charlotte Guest popularised the English title in the 19th century. The tales mix Otherworld journeys, shape-shifting and early Arthurian material.",
+   "alternatives": [
+    {
+     "label": "Oral depth vs manuscript date",
+     "text": "Surviving books are 14th-century and later; linguistic and comparative study suggests earlier narrative strata of uncertain age."
+    },
+    {
+     "label": "Lost pan-Celtic bible",
+     "text": "Romantic Celticism sometimes treats the collection as a single sacred canon; it is a modern grouping of distinct medieval texts."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Mabinogion",
+     "url": "https://en.wikipedia.org/wiki/Mabinogion",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Ceridwen.jpg/500px-Ceridwen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Ceridwen.jpg",
+     "author": "Christopher Williams",
+     "license": "Public domain",
+     "title": "Ceridwen.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend"
+   ],
+   "threads": [
+    "shapeshifters",
+    "celtic-worlds"
+   ]
+  },
+  {
+   "id": "fionn-mac-cumhaill",
+   "title": "Fionn mac Cumhaill",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 1,
+   "start": 0,
+   "end": null,
+   "dateNote": "Mythic cycle; medieval to modern transmission",
+   "evidenceTypes": [
+    "textual",
+    "oral tradition"
+   ],
+   "mainstream": "Fionn mac Cumhaill (Finn McCool) leads the Fianna in the Fenian Cycle of Irish tradition. Tales credit him with tasting the Salmon of Knowledge, forming a roaming warrior band, and feats later tied in folklore to the Giant's Causeway and other landscapes. Stories range from early medieval poetry to modern oral legend across Ireland and Scotland.",
+   "alternatives": [
+    {
+     "label": "Historic Fianna",
+     "text": "Some scholars see memories of young warrior freelancers in early Irish society; the supernatural biography is literary and folk myth."
+    },
+    {
+     "label": "Giant builder myths",
+     "text": "Folklore that Fionn built the Causeway as a path to Scotland is etiological legend, not geology (the Causeway is Paleogene basalt)."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Fionn mac Cumhaill",
+     "url": "https://en.wikipedia.org/wiki/Fionn_mac_Cumhaill",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Finn_Mccool_Comes_to_Aid_the_Fianna.png/500px-Finn_Mccool_Comes_to_Aid_the_Fianna.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Finn_Mccool_Comes_to_Aid_the_Fianna.png",
+     "author": "Stephen Reid",
+     "license": "Public domain",
+     "title": "Finn_Mccool_Comes_to_Aid_the_Fianna.png"
+    }
+   ],
+   "categories": [
+    "myth-legend"
+   ],
+   "threads": [
+    "sacred-kingship",
+    "sleeping-heroes",
+    "celtic-worlds"
+   ]
+  },
+  {
+   "id": "cattle-raid-cooley",
+   "title": "Táin Bó Cúailnge (Cattle Raid of Cooley)",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 1,
+   "start": 0,
+   "end": null,
+   "dateNote": "Mythic narrative; manuscript recensions medieval",
+   "evidenceTypes": [
+    "textual"
+   ],
+   "mainstream": "Táin Bó Cúailnge is the central epic of the Ulster Cycle: Queen Medb of Connacht invades Ulster to seize the brown bull Donn Cúailnge, opposed by the boy-hero Cú Chulainn while Ulster's men lie under a debility curse. Recensions survive in the Book of the Dun Cow, Book of Leinster and later manuscripts. It is often called Ireland's nearest equivalent to a national epic.",
+   "alternatives": [
+    {
+     "label": "Iron Age snapshot",
+     "text": "Some readings treat the Táin as a window on pagan Irish society; others stress Christian-era literary composition and satire."
+    },
+    {
+     "label": "Suppressed historical war",
+     "text": "Fringe historicisers turn the cattle raid into a datable Bronze/Iron Age campaign; no independent chronicle confirms it."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Táin Bó Cúailnge",
+     "url": "https://en.wikipedia.org/wiki/T%C3%A1in_B%C3%B3_C%C3%BAailnge",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Cuchulain_in_Battle.jpg/500px-Cuchulain_in_Battle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Cuchulain_in_Battle.jpg",
+     "author": "Joseph Christian Leyendecker (1874 - 1951)",
+     "license": "Public domain",
+     "title": "Cuchulain_in_Battle.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend"
+   ],
+   "threads": [
+    "celtic-worlds"
+   ]
+  },
+  {
+   "id": "lindisfarne-gospels",
+   "title": "Lindisfarne Gospels",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": 715,
+   "end": null,
+   "dateNote": "c. early 8th century",
+   "evidenceTypes": [
+    "art historical",
+    "textual"
+   ],
+   "mainstream": "The Lindisfarne Gospels are an Insular illuminated Latin Gospel book produced at the monastery of Lindisfarne (Holy Island) in Northumbria, traditionally associated with Bishop Eadfrith (d. 721). Carpet pages and evangelist portraits fuse Mediterranean, Anglo-Saxon and Celtic styles. A later Old English gloss by Aldred is among the earliest substantial English gospel translations. The manuscript is in the British Library.",
+   "alternatives": [
+    {
+     "label": "Single artist tradition",
+     "text": "Medieval colophon tradition credits Eadfrith; modern analysis allows workshop collaboration while still centering Lindisfarne."
+    },
+    {
+     "label": "Hidden map codes",
+     "text": "Internet theories that the carpet pages encode maps or ET messages are not supported by art history."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Lindisfarne Gospels",
+     "url": "https://en.wikipedia.org/wiki/Lindisfarne_Gospels",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/LindisfarneFol27rIncipitMatt.jpg/500px-LindisfarneFol27rIncipitMatt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:LindisfarneFol27rIncipitMatt.jpg",
+     "author": "Eadfrith of Lindisfarne (presumed)",
+     "license": "Public domain",
+     "title": "LindisfarneFol27rIncipitMatt.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "religion",
+    "archaeology"
+   ],
+   "threads": [
+    "civilising-teachers",
+    "lost-libraries",
+    "first-art",
+    "celtic-worlds"
+   ]
+  },
+  {
+   "id": "iona-abbey",
+   "title": "Iona Abbey",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": 563,
+   "end": null,
+   "evidenceTypes": [
+    "archaeological",
+    "textual"
+   ],
+   "mainstream": "Iona, a small island off Mull in the Scottish Hebrides, was founded as a monastery by the Irish monk Columba (Colum Cille) in 563 CE and became a major centre of Gaelic Christianity, learning and stone carving (high crosses, grave slabs). Viking raids devastated the community; the medieval Benedictine abbey ruins were later restored by the Iona Community. It remains a pilgrimage and ecumenical site.",
+   "alternatives": [
+    {
+     "label": "Extent of Columba's mission",
+     "text": "Adomnán's Life of Columba is hagiography; archaeology and sculpture confirm a powerful early medieval monastery even where miracle tales do not."
+    },
+    {
+     "label": "Celtic church conspiracies",
+     "text": "Claims of a secret non-Roman mystical church uniquely surviving on Iona oversimplify Insular Christianity's links to wider Latin Christendom."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Iona Abbey",
+     "url": "https://en.wikipedia.org/wiki/Iona_Abbey",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Iona",
+     "url": "https://en.wikipedia.org/wiki/Iona",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Iona_Abbey_%2845322644484%29.jpg/500px-Iona_Abbey_%2845322644484%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Iona_Abbey_(45322644484).jpg",
+     "author": "Reading Tom from Reading, UK",
+     "license": "CC BY 2.0",
+     "title": "Iona_Abbey_(45322644484).jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "religion",
+    "archaeology"
+   ],
+   "threads": [
+    "giant-monuments",
+    "civilising-teachers",
+    "celtic-worlds"
+   ]
+  },
+  {
+   "id": "pictish-symbol-stones",
+   "title": "Pictish symbol stones",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 500,
+   "end": null,
+   "dateNote": "Mainly 6th–9th centuries CE",
+   "evidenceTypes": [
+    "archaeological",
+    "epigraphic"
+   ],
+   "mainstream": "Across eastern and northern Scotland, Pictish symbol stones bear distinctive abstract and animal motifs (crescent and V-rod, double disc and Z-rod, Pictish beast) carved from roughly the 6th–9th centuries, later often combined with Christian crosses. The symbols' meaning—names, ranks, clans, theology—remains undeciphered despite many theories. They are primary evidence for Pictish visual culture before Gaelicisation.",
+   "alternatives": [
+    {
+     "label": "Readable script vs emblems",
+     "text": "Most scholars treat the classic symbols as a non-alphabetic emblem system; ogham and Latin inscriptions on some stones are separate."
+    },
+    {
+     "label": "Lost advanced script of Atlantis",
+     "text": "Fringe decipherments claiming full historical chronicles or alien lexicons have not gained academic acceptance."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Pictish stone",
+     "url": "https://en.wikipedia.org/wiki/Pictish_stone",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Aberlemnokirkyardcropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Aberlemnokirkyardcropped.jpg",
+     "author": "Anne Burgess\n\nderivative work: Catfish Jim and the soapdish (talk)",
+     "license": "CC BY-SA 2.0",
+     "title": "Aberlemnokirkyardcropped.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "anomalies",
+    "history"
+   ],
+   "threads": [
+    "decipherments",
+    "first-art",
+    "celtic-worlds"
+   ]
+  },
+  {
+   "id": "manannan-mac-lir",
+   "title": "Manannán mac Lir",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": 0,
+   "end": null,
+   "dateNote": "Mythic; early medieval texts onward",
+   "evidenceTypes": [
+    "textual",
+    "oral tradition"
+   ],
+   "mainstream": "Manannán mac Lir is a sea god and Otherworld figure in Irish (and Manx) tradition, associated with mist, magical boats, the Isle of Man, and gifts of hospitality and illusion. He appears in early Irish literature (e.g. Immram Brain, Echtra Cormaic) and later folklore. Place-names and modern sculpture (e.g. at Gortmore) keep his cultic memory visible.",
+   "alternatives": [
+    {
+     "label": "Euhemerised king",
+     "text": "Medieval texts sometimes treat him as an ancestral ruler of Man; that sits beside clearly divine portrayals."
+    },
+    {
+     "label": "Ancient astronaut ferryman",
+     "text": "Modern UFO-tinged retellings of his mist-shrouded voyages are contemporary overlays on medieval myth."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Manannán mac Lir",
+     "url": "https://en.wikipedia.org/wiki/Manann%C3%A1n_mac_Lir",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Manann%C3%A1n_mac_Lir_sculpture%2C_Gortmore_%28geograph_4107287%29.jpg/500px-Manann%C3%A1n_mac_Lir_sculpture%2C_Gortmore_%28geograph_4107287%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Manann%C3%A1n_mac_Lir_sculpture,_Gortmore_(geograph_4107287).jpg",
+     "author": "Kenneth Allen",
+     "license": "CC BY-SA 2.0",
+     "title": "Manannán_mac_Lir_sculpture,_Gortmore_(geograph_4107287).jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion"
+   ],
+   "threads": [
+    "shapeshifters",
+    "water-spirits",
+    "celtic-worlds"
+   ]
   }
  ]
 }

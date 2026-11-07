@@ -1743,3 +1743,19 @@ addt('tested-by-experiment','schweitzer-dino-soft-tissue jwst-early-galaxies')
 addt('cold-war-secrets','kecksburg-ufo falcon-lake-1967')
 addt('anomalous-photos','solway-spaceman')
 addt('gobekli-cluster','karahan-tepe gobekli-tepe')
+
+# batch 20 part 1 — Celtic / Insular Atlantic
+C.update({
+'book-of-kells':'history religion archaeology','hill-of-tara':'archaeology history myth-legend','cu-chulainn':'myth-legend','mabinogion':'myth-legend',
+'fionn-mac-cumhaill':'myth-legend','cattle-raid-cooley':'myth-legend','lindisfarne-gospels':'history religion archaeology','iona-abbey':'history religion archaeology',
+'pictish-symbol-stones':'archaeology anomalies history','manannan-mac-lir':'myth-legend religion'})
+addt('celtic-worlds','book-of-kells hill-of-tara cu-chulainn mabinogion fionn-mac-cumhaill cattle-raid-cooley lindisfarne-gospels iona-abbey pictish-symbol-stones manannan-mac-lir')
+addt('sacred-kingship','hill-of-tara cu-chulainn fionn-mac-cumhaill')
+addt('lost-libraries','book-of-kells lindisfarne-gospels')
+addt('decipherments','pictish-symbol-stones')
+addt('water-spirits','manannan-mac-lir')
+addt('civilising-teachers','iona-abbey lindisfarne-gospels')
+addt('first-art','book-of-kells lindisfarne-gospels pictish-symbol-stones')
+addt('sleeping-heroes','cu-chulainn fionn-mac-cumhaill')
+addt('shapeshifters','mabinogion manannan-mac-lir cu-chulainn')
+addt('giant-monuments','hill-of-tara iona-abbey')
