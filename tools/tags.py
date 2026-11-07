@@ -1799,3 +1799,23 @@ addt('lost-treasures','tiwanaku kalevala-epic')
 addt('knowledge-and-power','ifa-divination kalevala-epic kingdom-of-kongo')
 addt('andean-empires','tiwanaku')
 addt('sahel-kingdoms','kingdom-of-kongo')
+
+# batch 20 part 4 — anomalies / chronology wars / UFOs / Neolithic
+C.update({
+'phantom-time-hypothesis':'hoaxes history anomalies','fomenko-new-chronology':'hoaxes history anomalies','tartarian-architecture':'hoaxes anomalies lost-civilisations','freemasonry-origins':'history religion anomalies',
+'valensole-1965':'aliens-ufo anomalies','trans-en-provence-1981':'aliens-ufo anomalies','hudson-valley-ufo':'aliens-ufo anomalies','belgium-wave-1989-90':'aliens-ufo anomalies',
+'sayburc':'archaeology anomalies lost-civilisations','ain-ghazal':'archaeology history religion'})
+addt('chronology-wars','phantom-time-hypothesis fomenko-new-chronology tartarian-architecture')
+addt('hoaxes-exposed','phantom-time-hypothesis fomenko-new-chronology tartarian-architecture')
+addt('secret-societies','freemasonry-origins')
+addt('ufo-encounters','valensole-1965 trans-en-provence-1981 hudson-valley-ufo belgium-wave-1989-90')
+addt('seeing-what-we-expect','hudson-valley-ufo belgium-wave-1989-90 valensole-1965')
+addt('gobekli-cluster','sayburc ain-ghazal')
+addt('hunter-gatherer-monuments','sayburc ain-ghazal')
+addt('lost-civilisations','tartarian-architecture sayburc')
+addt('changed-understanding','sayburc ain-ghazal phantom-time-hypothesis')
+addt('tested-by-experiment','trans-en-provence-1981')
+addt('cold-war-secrets','belgium-wave-1989-90 hudson-valley-ufo')
+addt('erased-from-history','tartarian-architecture phantom-time-hypothesis fomenko-new-chronology')
+addt('first-art','ain-ghazal sayburc')
+addt('out-of-place-artifacts','tartarian-architecture')
