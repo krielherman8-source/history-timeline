@@ -1759,3 +1759,21 @@ addt('first-art','book-of-kells lindisfarne-gospels pictish-symbol-stones')
 addt('sleeping-heroes','cu-chulainn fionn-mac-cumhaill')
 addt('shapeshifters','mabinogion manannan-mac-lir cu-chulainn')
 addt('giant-monuments','hill-of-tara iona-abbey')
+
+# batch 20 part 2 — Iran / Caucasus / Persia
+C.update({
+'persepolis':'archaeology history','sasanian-empire':'history archaeology religion','parthian-empire':'history archaeology','armenian-alphabet':'history religion',
+'etchmiadzin':'religion history archaeology','shahnameh':'myth-legend history','mithraism':'religion history archaeology','manichaeism':'religion history',
+'taq-kasra':'archaeology history','pasargadae':'archaeology history'})
+addt('iranian-worlds','persepolis sasanian-empire parthian-empire shahnameh mithraism manichaeism taq-kasra pasargadae')
+addt('caucasus-crossroads','armenian-alphabet etchmiadzin')
+addt('decipherments','armenian-alphabet')
+addt('sacred-kingship','persepolis sasanian-empire pasargadae etchmiadzin')
+addt('giant-monuments','persepolis taq-kasra pasargadae etchmiadzin')
+addt('silk-road','parthian-empire sasanian-empire manichaeism')
+addt('holy-wars','sasanian-empire manichaeism')
+addt('suppressed-beliefs','mithraism manichaeism')
+addt('civilising-teachers','armenian-alphabet manichaeism')
+addt('secret-societies','mithraism')
+addt('lost-civilisations','parthian-empire')
+addt('rediscovered-civilisations','persepolis pasargadae taq-kasra')

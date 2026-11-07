@@ -44211,6 +44211,526 @@
     "water-spirits",
     "celtic-worlds"
    ]
+  },
+  {
+   "id": "persepolis",
+   "title": "Persepolis",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": -515,
+   "end": null,
+   "dateNote": "Founded c. 518–515 BCE; sacked 330 BCE",
+   "evidenceTypes": [
+    "archaeological",
+    "epigraphic"
+   ],
+   "mainstream": "Persepolis (Parsa), in Fars, Iran, was a ceremonial capital of the Achaemenid Empire founded under Darius I from about 518–515 BCE, with apadana, gateways and reliefs of subject peoples bringing tribute. Alexander burned parts of the complex in 330 BCE. Excavations and the UNESCO World Heritage listing make it a centrepiece of ancient Iranian archaeology.",
+   "alternatives": [
+    {
+     "label": "Administrative vs ritual capital",
+     "text": "Scholars debate how far Persepolis was seasonal court theatre versus year-round bureaucracy; both ritual and archive functions are attested."
+    },
+    {
+     "label": "Pre-Achaemenid mega-builders",
+     "text": "Ancient-astronaut and lost-civ claims that the stonework exceeds Achaemenid skill ignore documented Persian and subject-labour organisation."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Persepolis",
+     "url": "https://en.wikipedia.org/wiki/Persepolis",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/2018-09-21_Iran%2C_Persepolis%2C_Tachara_%28from_the_southeast%29.jpg/500px-2018-09-21_Iran%2C_Persepolis%2C_Tachara_%28from_the_southeast%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:2018-09-21_Iran,_Persepolis,_Tachara_(from_the_southeast).jpg",
+     "author": "Laurens R. Krol",
+     "license": "CC BY 4.0",
+     "title": "2018-09-21_Iran,_Persepolis,_Tachara_(from_the_southeast).jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history"
+   ],
+   "threads": [
+    "giant-monuments",
+    "sacred-kingship",
+    "rediscovered-civilisations",
+    "iranian-worlds"
+   ]
+  },
+  {
+   "id": "sasanian-empire",
+   "title": "Sasanian Empire",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": 224,
+   "end": 651,
+   "evidenceTypes": [
+    "textual",
+    "archaeological",
+    "epigraphic"
+   ],
+   "mainstream": "The Sasanian Empire (224–651 CE), founded by Ardashir I after defeating the Parthians, was the last pre-Islamic Iranian empire, rival to Rome/Byzantium, with Zoroastrianism as state religion, major cities such as Ctesiphon, and rich silverwork, rock reliefs and scholarly centres. It fell to the Arab-Muslim conquests in the mid-7th century. Sasanian political and artistic models deeply influenced Islamic and Central Asian cultures.",
+   "alternatives": [
+    {
+     "label": "Religious uniformity",
+     "text": "Although Zoroastrian orthodoxy was promoted, Christians, Jews, Manichaeans and others lived under varying constraints; policy shifted by reign."
+    },
+    {
+     "label": "Secret technological empire",
+     "text": "Nationalist and fringe narratives sometimes invent suppressed Sasanian super-science beyond the impressive but historically attested engineering and scholarship."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Sasanian Empire",
+     "url": "https://en.wikipedia.org/wiki/Sasanian_Empire",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/The_Sasanian_Empire_at_its_apex_under_Khosrow_II.svg/500px-The_Sasanian_Empire_at_its_apex_under_Khosrow_II.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:The_Sasanian_Empire_at_its_apex_under_Khosrow_II.svg",
+     "author": "Original file by Ro4444, edited by me",
+     "license": "CC BY 4.0",
+     "title": "The_Sasanian_Empire_at_its_apex_under_Khosrow_II.svg"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology",
+    "religion"
+   ],
+   "threads": [
+    "sacred-kingship",
+    "holy-wars",
+    "silk-road",
+    "iranian-worlds"
+   ]
+  },
+  {
+   "id": "parthian-empire",
+   "title": "Parthian Empire",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": -247,
+   "end": 224,
+   "dateNote": "c. 247 BCE – 224 CE",
+   "evidenceTypes": [
+    "textual",
+    "archaeological"
+   ],
+   "mainstream": "The Parthian (Arsacid) Empire dominated the Iranian plateau and Mesopotamia from the mid-3rd century BCE until Ardashir's victory in 224 CE, mediating Silk Road trade and repeatedly fighting Rome (e.g. Carrhae, 53 BCE). Power was often decentralised among noble houses. Parthian art mixes Hellenistic and Iranian styles; sources are thinner than for Achaemenids or Sasanians.",
+   "alternatives": [
+    {
+     "label": "Nomad vs sedentary character",
+     "text": "Debate continues over how \"steppe\" versus urban-Iranian the Arsacid state was across its long history."
+    },
+    {
+     "label": "Erased civilisation myths",
+     "text": "Some popular histories claim Parthia was systematically erased; fragmentary sources reflect Roman bias and later Sasanian rewriting more than a conspiracy of silence."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Parthian Empire",
+     "url": "https://en.wikipedia.org/wiki/Parthian_Empire",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Map_of_the_Parthian_Empire_under_Mithridates_II.svg/500px-Map_of_the_Parthian_Empire_under_Mithridates_II.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Map_of_the_Parthian_Empire_under_Mithridates_II.svg",
+     "author": "Original file by Ro4444, edited by me",
+     "license": "CC BY-SA 4.0",
+     "title": "Map_of_the_Parthian_Empire_under_Mithridates_II.svg"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology"
+   ],
+   "threads": [
+    "lost-civilisations",
+    "silk-road",
+    "iranian-worlds"
+   ]
+  },
+  {
+   "id": "armenian-alphabet",
+   "title": "Armenian alphabet (Mesrop Mashtots)",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": 405,
+   "end": null,
+   "dateNote": "c. 405 CE",
+   "evidenceTypes": [
+    "textual",
+    "epigraphic"
+   ],
+   "mainstream": "Tradition and historical sources credit the cleric Mesrop Mashtots, working with Catholicos Sahak Partev and under King Vramshapuh, with inventing the Armenian alphabet around 405 CE so scripture and liturgy could be written in Armenian. The script enabled a rapid golden age of translation and original literature. It remains central to Armenian identity in the homeland and diaspora.",
+   "alternatives": [
+    {
+     "label": "Sole inventor vs team",
+     "text": "Hagiography centres Mashtots; scholars also stress ecclesiastical and royal collaboration and possible models in Greek, Syriac and Pahlavi scripts."
+    },
+    {
+     "label": "Pre-Mashtots secret script",
+     "text": "Claims of a fully developed earlier Armenian alphabet lack convincing pre-5th-century exemplars accepted by mainstream epigraphy."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Armenian alphabet",
+     "url": "https://en.wikipedia.org/wiki/Armenian_alphabet",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Mesrop Mashtots",
+     "url": "https://en.wikipedia.org/wiki/Mesrop_Mashtots",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Armenian_Alphabet_Uppercase_lowercase_and_transcription.svg/500px-Armenian_Alphabet_Uppercase_lowercase_and_transcription.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Armenian_Alphabet_Uppercase_lowercase_and_transcription.svg",
+     "author": "Mongolia 44 (มองโกเลีย๔๔)",
+     "license": "CC BY-SA 4.0",
+     "title": "Armenian_Alphabet_Uppercase_lowercase_and_transcription.svg"
+    }
+   ],
+   "categories": [
+    "history",
+    "religion"
+   ],
+   "threads": [
+    "civilising-teachers",
+    "decipherments",
+    "caucasus-crossroads"
+   ]
+  },
+  {
+   "id": "etchmiadzin",
+   "title": "Etchmiadzin Cathedral",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": 301,
+   "end": null,
+   "dateNote": "Traditional early 4th century; later rebuilds",
+   "evidenceTypes": [
+    "architectural",
+    "textual"
+   ],
+   "mainstream": "Etchmiadzin (Ejmiatsin) Cathedral in Vagharshapat, Armenia, is the mother church of the Armenian Apostolic Church. Tradition dates a foundation to the early 4th century under Gregory the Illuminator after King Tiridates III's conversion; the building was rebuilt and enlarged across centuries. It is part of a UNESCO World Heritage ensemble and a focal point of Armenian Christianity.",
+   "alternatives": [
+    {
+     "label": "Fabric of the earliest church",
+     "text": "The standing fabric is multi-period; the exact 4th-century footprint is debated even while the site's early Christian importance is secure."
+    },
+    {
+     "label": "Heavenly descent myths literalised",
+     "text": "The name \"Descent of the Only-Begotten\" encodes Gregory's vision; treating it as a physical sky-landing is a category mistake."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Etchmiadzin Cathedral",
+     "url": "https://en.wikipedia.org/wiki/Etchmiadzin_Cathedral",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Etchmiadzin_2025-3.jpg/500px-Etchmiadzin_2025-3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Etchmiadzin_2025-3.jpg",
+     "author": "Yerevantsi",
+     "license": "CC BY 4.0",
+     "title": "Etchmiadzin_2025-3.jpg"
+    }
+   ],
+   "categories": [
+    "religion",
+    "history",
+    "archaeology"
+   ],
+   "threads": [
+    "giant-monuments",
+    "sacred-kingship",
+    "caucasus-crossroads"
+   ]
+  },
+  {
+   "id": "shahnameh",
+   "title": "Shahnameh (Book of Kings)",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": 1010,
+   "end": null,
+   "dateNote": "Completed c. 1010 CE",
+   "evidenceTypes": [
+    "textual"
+   ],
+   "mainstream": "The Shahnameh, completed by the poet Ferdowsi around 1010 CE, is a vast Persian epic recounting mythical and historical kings of Iran from creation to the Arab conquest. Drawing on earlier prose and oral traditions, it preserved pre-Islamic lore in New Persian and became a cornerstone of Iranian cultural identity, endlessly illustrated in manuscript painting.",
+   "alternatives": [
+    {
+     "label": "Historical chronicle vs epic",
+     "text": "The later Sasanian sections mix memory and legend; the mythical Pishdadian and Kayanian ages are literary, not datable history."
+    },
+    {
+     "label": "Prophetic encoded timeline",
+     "text": "Esoteric readings that treat the poem as a secret chronology of lost epochs go beyond literary and historical scholarship."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Shahnameh",
+     "url": "https://en.wikipedia.org/wiki/Shahnameh",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/The_Court_of_Gayumars_%28Cropped%29.jpg/500px-The_Court_of_Gayumars_%28Cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:The_Court_of_Gayumars_(Cropped).jpg",
+     "author": "Attributed to Sultan Muhammad",
+     "license": "Public domain",
+     "title": "The_Court_of_Gayumars_(Cropped).jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "history"
+   ],
+   "threads": [
+    "iranian-worlds"
+   ]
+  },
+  {
+   "id": "mithraism",
+   "title": "Mithraism (Mithraic mysteries)",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 100,
+   "end": null,
+   "dateNote": "Roman floruit roughly 1st–4th centuries CE",
+   "evidenceTypes": [
+    "archaeological",
+    "epigraphic"
+   ],
+   "mainstream": "Mithraism was a mystery religion popular among Roman soldiers and officials in the 1st–4th centuries CE, centred on the god Mithras slaying a bull (tauroctony) in underground mithraea. It shares a name with Iranian Mitra/Mithra but developed distinct Roman forms. It declined with the rise of Christianity; no complete Mithraic \"bible\" survives.",
+   "alternatives": [
+    {
+     "label": "Iranian continuity",
+     "text": "Scholars disagree on how directly Roman Mithraism descends from Iranian cult versus reinvention using Eastern names and motifs."
+    },
+    {
+     "label": "Secret world government cult",
+     "text": "Conspiracy literature casts Mithraism as an unbroken elite cabal ruling modernity; ancient evidence shows a voluntary mystery cult, not a global state."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Mithraism",
+     "url": "https://en.wikipedia.org/wiki/Mithraism",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Mithra_sacrifiant_le_Taureau-005.JPG/500px-Mithra_sacrifiant_le_Taureau-005.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Mithra_sacrifiant_le_Taureau-005.JPG",
+     "author": "Serge Ottaviani",
+     "license": "CC BY-SA 3.0",
+     "title": "Mithra_sacrifiant_le_Taureau-005.JPG"
+    }
+   ],
+   "categories": [
+    "religion",
+    "history",
+    "archaeology"
+   ],
+   "threads": [
+    "secret-societies",
+    "suppressed-beliefs",
+    "iranian-worlds"
+   ]
+  },
+  {
+   "id": "manichaeism",
+   "title": "Manichaeism",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": 240,
+   "end": null,
+   "dateNote": "Founded mid-3rd century CE; organised communities into medieval era",
+   "evidenceTypes": [
+    "textual",
+    "epigraphic"
+   ],
+   "mainstream": "Manichaeism was a dualist world religion founded by the prophet Mani in 3rd-century Sasanian Mesopotamia, blending Christian, Zoroastrian, Buddhist and Gnostic elements into a cosmic struggle of Light and Darkness. It spread from the Roman Empire to China along the Silk Roads before successive persecutions extinguished it as an organised church. Substantial texts survive from Turfan, the Medinet Madi codices and other finds.",
+   "alternatives": [
+    {
+     "label": "Mani as synthesising apostle",
+     "text": "Manichaeans presented Mani as the final seal of prophets; opponents called the system a heresy or foreign corruption."
+    },
+    {
+     "label": "Suppressed true Christianity",
+     "text": "Some modern esoteric writers treat Manichaeism as the authentic suppressed gospel; historians see a distinct late antique religion."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Manichaeism",
+     "url": "https://en.wikipedia.org/wiki/Manichaeism",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Seal_of_Mani_%28cleaned_up%29._Seal_with_figure_of_Mani%2C_possibly_3rd_century_CE%2C_possibly_Irak._Cabinet_des_M%C3%A9dailles%2C_Paris.jpg/500px-Seal_of_Mani_%28cleaned_up%29._Seal_with_figure_of_Mani%2C_possibly_3rd_century_CE%2C_possibly_Irak._Cabinet_des_M%C3%A9dailles%2C_Paris.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Seal_of_Mani_(cleaned_up)._Seal_with_figure_of_Mani,_possibly_3rd_century_CE,_possibly_Irak._Cabinet_des_M%C3%A9dailles,_Paris.jpg",
+     "author": "ALFGRN",
+     "license": "CC BY-SA 2.0",
+     "title": "Seal_of_Mani_(cleaned_up)._Seal_with_figure_of_Mani,_possibly_3rd_century_CE,_possibly_Irak._Cabinet_des_Médailles,_Paris.jpg"
+    }
+   ],
+   "categories": [
+    "religion",
+    "history"
+   ],
+   "threads": [
+    "suppressed-beliefs",
+    "civilising-teachers",
+    "holy-wars",
+    "silk-road",
+    "iranian-worlds"
+   ]
+  },
+  {
+   "id": "taq-kasra",
+   "title": "Taq Kasra (Arch of Ctesiphon)",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": 540,
+   "end": null,
+   "dateNote": "Likely 6th century CE; earlier palace phases possible",
+   "evidenceTypes": [
+    "architectural",
+    "archaeological"
+   ],
+   "mainstream": "Taq Kasra is the monumental brick barrel vault of the Sasanian palace at Ctesiphon (near modern Baghdad), among the largest unreinforced brick arches ever built. Often linked to Khosrow I (6th century), it symbolises Sasanian imperial architecture. Partial collapses and modern restoration efforts have marked its recent history.",
+   "alternatives": [
+    {
+     "label": "Exact builder and date",
+     "text": "Attribution wavers among Sasanian kings; a 6th-century context is commonly favoured."
+    },
+    {
+     "label": "Impossible ancient concrete myths",
+     "text": "Claims that the vault requires lost proprietary concrete ignore skilled Sasanian brick vaulting techniques documented across Iran and Iraq."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Taq Kasra",
+     "url": "https://en.wikipedia.org/wiki/Taq_Kasra",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/001125-TaqKasra-Iraq-IMG_7914-2.jpg/500px-001125-TaqKasra-Iraq-IMG_7914-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:001125-TaqKasra-Iraq-IMG_7914-2.jpg",
+     "author": "Safa.daneshvar",
+     "license": "CC BY-SA 4.0",
+     "title": "001125-TaqKasra-Iraq-IMG_7914-2.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history"
+   ],
+   "threads": [
+    "giant-monuments",
+    "rediscovered-civilisations",
+    "iranian-worlds"
+   ]
+  },
+  {
+   "id": "pasargadae",
+   "title": "Pasargadae",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": -550,
+   "end": null,
+   "dateNote": "Founded mid-6th century BCE",
+   "evidenceTypes": [
+    "archaeological",
+    "epigraphic"
+   ],
+   "mainstream": "Pasargadae, in Fars, Iran, was the first dynastic capital of Cyrus the Great (r. c. 559–530 BCE), with gardens, gatehouses and the tomb traditionally ascribed to Cyrus. Greek authors and inscriptions anchor the site in early Achaemenid history. It is a UNESCO World Heritage Site and a key complement to later Persepolis.",
+   "alternatives": [
+    {
+     "label": "Tomb identification",
+     "text": "The gabled stone tomb is conventionally Cyrus's; absolute proof is circumstantial but widely accepted."
+    },
+    {
+     "label": "Older cyclopean civilisation",
+     "text": "Fringe tours sometimes redate the masonry to a pre-Cyrus mega-culture; mainstream chronology places the complex in the mid-6th century BCE."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Pasargadae",
+     "url": "https://en.wikipedia.org/wiki/Pasargadae",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Pasargad_Tomb_Cyrus3.jpg/500px-Pasargad_Tomb_Cyrus3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Pasargad_Tomb_Cyrus3.jpg",
+     "author": "Bernd81",
+     "license": "CC BY-SA 4.0",
+     "title": "Pasargad_Tomb_Cyrus3.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history"
+   ],
+   "threads": [
+    "giant-monuments",
+    "sacred-kingship",
+    "rediscovered-civilisations",
+    "iranian-worlds"
+   ]
   }
  ]
 }
