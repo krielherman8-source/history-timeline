@@ -103,7 +103,8 @@
     "science-cosmos"
    ],
    "threads": [
-    "changed-understanding"
+    "changed-understanding",
+    "deep-time-earth"
    ]
   },
   {
@@ -139,7 +140,9 @@
    "categories": [
     "science-cosmos"
    ],
-   "threads": []
+   "threads": [
+    "deep-time-earth"
+   ]
   },
   {
    "id": "cambrian",
@@ -179,7 +182,9 @@
    "categories": [
     "science-cosmos"
    ],
-   "threads": []
+   "threads": [
+    "deep-time-earth"
+   ]
   },
   {
    "id": "kpg",
@@ -239,7 +244,8 @@
     "cosmic-impacts",
     "changed-understanding",
     "dragons-and-fossils",
-    "mass-extinctions"
+    "mass-extinctions",
+    "deep-time-earth"
    ]
   },
   {
@@ -1032,7 +1038,9 @@
    "categories": [
     "archaeology"
    ],
-   "threads": []
+   "threads": [
+    "mesopotamia-and-anatolia"
+   ]
   },
   {
    "id": "writing",
@@ -1070,7 +1078,8 @@
     "archaeology"
    ],
    "threads": [
-    "origins-of-writing"
+    "origins-of-writing",
+    "mesopotamia-and-anatolia"
    ]
   },
   {
@@ -1280,7 +1289,8 @@
    ],
    "threads": [
     "flood-myths",
-    "elixirs-of-immortality"
+    "elixirs-of-immortality",
+    "mesopotamia-and-anatolia"
    ]
   },
   {
@@ -2205,7 +2215,8 @@
     "anomalies"
    ],
    "threads": [
-    "cosmic-impacts"
+    "cosmic-impacts",
+    "mongolia-and-siberia"
    ]
   },
   {
@@ -2303,7 +2314,8 @@
     "science-cosmos"
    ],
    "threads": [
-    "changed-understanding"
+    "changed-understanding",
+    "deep-time-earth"
    ]
   },
   {
@@ -2728,7 +2740,8 @@
    ],
    "threads": [
     "sky-beings",
-    "ufo-encounters"
+    "ufo-encounters",
+    "close-encounters"
    ]
   },
   {
@@ -3493,7 +3506,8 @@
     "flood-myths",
     "lost-civilisations",
     "sky-beings",
-    "sacred-kingship"
+    "sacred-kingship",
+    "mesopotamia-and-anatolia"
    ]
   },
   {
@@ -3883,7 +3897,8 @@
    ],
    "threads": [
     "deep-oral-memory",
-    "volcanoes-and-memory"
+    "volcanoes-and-memory",
+    "native-north-america"
    ]
   },
   {
@@ -3971,7 +3986,8 @@
     "aliens-ufo"
    ],
    "threads": [
-    "sky-beings"
+    "sky-beings",
+    "mesopotamia-and-anatolia"
    ]
   },
   {
@@ -4400,7 +4416,9 @@
     "history",
     "archaeology"
    ],
-   "threads": []
+   "threads": [
+    "horn-of-africa"
+   ]
   },
   {
    "id": "nok-culture",
@@ -4653,7 +4671,8 @@
     "archaeology"
    ],
    "threads": [
-    "giant-monuments"
+    "giant-monuments",
+    "horn-of-africa"
    ]
   },
   {
@@ -5227,7 +5246,8 @@
     "history"
    ],
    "threads": [
-    "giant-monuments"
+    "giant-monuments",
+    "native-north-america"
    ]
   },
   {
@@ -6090,7 +6110,8 @@
     "religion"
    ],
    "threads": [
-    "giant-monuments"
+    "giant-monuments",
+    "horn-of-africa"
    ]
   },
   {
@@ -6317,7 +6338,8 @@
    "threads": [
     "lost-civilisations",
     "hoaxes-exposed",
-    "hidden-kingdoms"
+    "hidden-kingdoms",
+    "horn-of-africa"
    ]
   },
   {
@@ -6630,7 +6652,8 @@
     "history"
    ],
    "threads": [
-    "mummies"
+    "mummies",
+    "mongolia-and-siberia"
    ]
   },
   {
@@ -6694,7 +6717,8 @@
    ],
    "threads": [
     "giant-monuments",
-    "ancient-astronomy"
+    "ancient-astronomy",
+    "native-north-america"
    ]
   },
   {
@@ -6750,7 +6774,8 @@
    "threads": [
     "changed-understanding",
     "genetic-migrations",
-    "first-americans"
+    "first-americans",
+    "native-north-america"
    ]
   },
   {
@@ -6998,7 +7023,8 @@
    ],
    "threads": [
     "cosmic-impacts",
-    "changed-understanding"
+    "changed-understanding",
+    "deep-time-earth"
    ]
   },
   {
@@ -7057,7 +7083,8 @@
    ],
    "threads": [
     "cosmic-impacts",
-    "mass-extinctions"
+    "mass-extinctions",
+    "deep-time-earth"
    ]
   },
   {
@@ -7233,7 +7260,8 @@
    "threads": [
     "sky-omens",
     "volcanoes-and-memory",
-    "storms-that-changed-history"
+    "storms-that-changed-history",
+    "byzantine-world"
    ]
   },
   {
@@ -8302,7 +8330,8 @@
     "catastrophes"
    ],
    "threads": [
-    "cosmic-impacts"
+    "cosmic-impacts",
+    "deep-time-earth"
    ]
   },
   {
@@ -8590,7 +8619,8 @@
    ],
    "threads": [
     "changed-understanding",
-    "giant-monuments"
+    "giant-monuments",
+    "horn-of-africa"
    ]
   },
   {
@@ -8659,7 +8689,8 @@
    ],
    "threads": [
     "ocean-voyagers",
-    "trade-networks"
+    "trade-networks",
+    "horn-of-africa"
    ]
   },
   {
@@ -8724,7 +8755,8 @@
    ],
    "threads": [
     "serpent-beings",
-    "sacred-relics"
+    "sacred-relics",
+    "horn-of-africa"
    ]
   },
   {
@@ -9144,7 +9176,8 @@
    "threads": [
     "hidden-tombs",
     "lost-treasures",
-    "steppe-empires"
+    "steppe-empires",
+    "mongolia-and-siberia"
    ]
   },
   {
@@ -9486,7 +9519,8 @@
    "threads": [
     "giant-monuments",
     "serpent-beings",
-    "sky-omens"
+    "sky-omens",
+    "native-north-america"
    ]
   },
   {
@@ -9551,7 +9585,8 @@
     "lost-continents",
     "giants-and-little-people",
     "knowledge-and-power",
-    "outsider-builder-claims"
+    "outsider-builder-claims",
+    "native-north-america"
    ]
   },
   {
@@ -12647,7 +12682,8 @@
    "threads": [
     "deep-oral-memory",
     "sky-omens",
-    "ancient-astronomy"
+    "ancient-astronomy",
+    "native-north-america"
    ]
   },
   {
@@ -12706,7 +12742,8 @@
     "cryptids",
     "deep-oral-memory",
     "serpent-beings",
-    "giant-birds"
+    "giant-birds",
+    "native-north-america"
    ]
   },
   {
@@ -12904,7 +12941,8 @@
     "catastrophes"
    ],
    "threads": [
-    "changed-understanding"
+    "changed-understanding",
+    "deep-time-earth"
    ]
   },
   {
@@ -14134,7 +14172,8 @@
     "anomalies"
    ],
    "threads": [
-    "cryptids"
+    "cryptids",
+    "mongolia-and-siberia"
    ]
   },
   {
@@ -15087,7 +15126,8 @@
     "religion"
    ],
    "threads": [
-    "shapeshifters"
+    "shapeshifters",
+    "native-north-america"
    ]
   },
   {
@@ -16722,7 +16762,8 @@
    ],
    "threads": [
     "giant-monuments",
-    "creation-myths"
+    "creation-myths",
+    "mesopotamia-and-anatolia"
    ]
   },
   {
@@ -17804,7 +17845,8 @@
    ],
    "threads": [
     "cosmic-impacts",
-    "changed-understanding"
+    "changed-understanding",
+    "deep-time-earth"
    ]
   },
   {
@@ -17879,7 +17921,8 @@
     "changed-understanding",
     "mass-extinctions",
     "lost-evidence",
-    "rejected-pioneers"
+    "rejected-pioneers",
+    "deep-time-earth"
    ]
   },
   {
@@ -18755,7 +18798,8 @@
     "civilisation-collapses",
     "disappearances",
     "rain-and-drought",
-    "ancestral-homelands"
+    "ancestral-homelands",
+    "native-north-america"
    ]
   },
   {
@@ -20035,7 +20079,8 @@
     "ufo-encounters",
     "hoaxes-exposed",
     "mysterious-lights",
-    "monster-panics"
+    "monster-panics",
+    "close-encounters"
    ]
   },
   {
@@ -20081,7 +20126,8 @@
     "history"
    ],
    "threads": [
-    "ufo-encounters"
+    "ufo-encounters",
+    "close-encounters"
    ]
   },
   {
@@ -21116,7 +21162,8 @@
    "threads": [
     "serpent-beings",
     "hidden-tombs",
-    "lost-evidence"
+    "lost-evidence",
+    "native-north-america"
    ]
   },
   {
@@ -21178,7 +21225,8 @@
    "threads": [
     "ufo-encounters",
     "shapeshifters",
-    "mysterious-lights"
+    "mysterious-lights",
+    "native-north-america"
    ]
   },
   {
@@ -21239,7 +21287,8 @@
     "sky-omens",
     "returning-saviours",
     "millenarian-movements",
-    "suppressed-beliefs"
+    "suppressed-beliefs",
+    "native-north-america"
    ]
   },
   {
@@ -21373,7 +21422,8 @@
    "threads": [
     "cryptids",
     "serpent-beings",
-    "giant-birds"
+    "giant-birds",
+    "native-north-america"
    ]
   },
   {
@@ -21907,7 +21957,8 @@
    "threads": [
     "otherworld-visits",
     "time-slips",
-    "sleeping-heroes"
+    "sleeping-heroes",
+    "byzantine-world"
    ]
   },
   {
@@ -21983,7 +22034,8 @@
     "stories-proven-true",
     "mass-extinctions",
     "giant-birds",
-    "vanished-species"
+    "vanished-species",
+    "madagascar-worlds"
    ]
   },
   {
@@ -23851,7 +23903,8 @@
     "archaeology"
    ],
    "threads": [
-    "rain-and-drought"
+    "rain-and-drought",
+    "horn-of-africa"
    ]
   },
   {
@@ -23928,7 +23981,8 @@
     "changed-understanding",
     "ocean-voyagers",
     "mass-extinctions",
-    "genetic-migrations"
+    "genetic-migrations",
+    "madagascar-worlds"
    ]
   },
   {
@@ -23979,7 +24033,8 @@
    "threads": [
     "cryptids",
     "giants-and-little-people",
-    "ancestral-homelands"
+    "ancestral-homelands",
+    "madagascar-worlds"
    ]
   },
   {
@@ -26668,7 +26723,8 @@
    "threads": [
     "changed-understanding",
     "seeing-what-we-expect",
-    "hunter-gatherer-monuments"
+    "hunter-gatherer-monuments",
+    "mongolia-and-siberia"
    ]
   },
   {
@@ -26737,7 +26793,8 @@
     "hidden-tombs",
     "sacred-kingship",
     "altered-states",
-    "steppe-empires"
+    "steppe-empires",
+    "mongolia-and-siberia"
    ]
   },
   {
@@ -27325,7 +27382,8 @@
    "threads": [
     "ancient-technology",
     "knowledge-and-power",
-    "lost-evidence"
+    "lost-evidence",
+    "byzantine-world"
    ]
   },
   {
@@ -27394,7 +27452,8 @@
    "threads": [
     "volcanoes-and-memory",
     "plagues-and-epidemics",
-    "divine-punishment"
+    "divine-punishment",
+    "byzantine-world"
    ]
   },
   {
@@ -27453,7 +27512,8 @@
    ],
    "threads": [
     "returning-saviours",
-    "sleeping-heroes"
+    "sleeping-heroes",
+    "byzantine-world"
    ]
   },
   {
@@ -27515,7 +27575,8 @@
    "threads": [
     "hoaxes-exposed",
     "knowledge-and-power",
-    "forged-documents"
+    "forged-documents",
+    "byzantine-world"
    ]
   },
   {
@@ -28000,7 +28061,8 @@
     "sky-beings",
     "serpent-beings",
     "world-ages-and-resets",
-    "creation-myths"
+    "creation-myths",
+    "mesopotamia-and-anatolia"
    ]
   },
   {
@@ -28067,7 +28129,8 @@
    ],
    "threads": [
     "sacred-kingship",
-    "abandoned-babies"
+    "abandoned-babies",
+    "mesopotamia-and-anatolia"
    ]
   },
   {
@@ -28139,7 +28202,8 @@
    "threads": [
     "changed-understanding",
     "civilisation-collapses",
-    "rediscovered-civilisations"
+    "rediscovered-civilisations",
+    "mesopotamia-and-anatolia"
    ]
   },
   {
@@ -28351,7 +28415,8 @@
     "flood-myths",
     "changed-understanding",
     "knowledge-and-power",
-    "lost-libraries"
+    "lost-libraries",
+    "mesopotamia-and-anatolia"
    ]
   },
   {
@@ -28411,7 +28476,8 @@
    "threads": [
     "giant-monuments",
     "lost-evidence",
-    "water-engineering"
+    "water-engineering",
+    "mesopotamia-and-anatolia"
    ]
   },
   {
@@ -28474,7 +28540,8 @@
     "knowledge-and-power",
     "seeing-what-we-expect",
     "rediscovered-civilisations",
-    "lost-libraries"
+    "lost-libraries",
+    "mesopotamia-and-anatolia"
    ]
   },
   {
@@ -28538,7 +28605,8 @@
    ],
    "threads": [
     "otherworld-visits",
-    "underground-worlds"
+    "underground-worlds",
+    "mesopotamia-and-anatolia"
    ]
   },
   {
@@ -28610,7 +28678,8 @@
     "flood-myths",
     "lost-civilisations",
     "sky-beings",
-    "civilising-teachers"
+    "civilising-teachers",
+    "mesopotamia-and-anatolia"
    ]
   },
   {
@@ -30530,7 +30599,8 @@
    "threads": [
     "ancient-astronomy",
     "stone-circles",
-    "sun-cults"
+    "sun-cults",
+    "native-north-america"
    ]
   },
   {
@@ -36583,7 +36653,8 @@
    ],
    "threads": [
     "shapeshifters",
-    "water-spirits"
+    "water-spirits",
+    "native-north-america"
    ]
   },
   {
@@ -36673,7 +36744,8 @@
    ],
    "threads": [
     "creation-myths",
-    "shapeshifters"
+    "shapeshifters",
+    "native-north-america"
    ]
   },
   {
@@ -36725,7 +36797,8 @@
    ],
    "threads": [
     "stories-proven-true",
-    "vanished-landscapes"
+    "vanished-landscapes",
+    "native-north-america"
    ]
   },
   {
@@ -36835,7 +36908,8 @@
    ],
    "threads": [
     "divine-punishment",
-    "storms-that-changed-history"
+    "storms-that-changed-history",
+    "mongolia-and-siberia"
    ]
   },
   {
@@ -38314,7 +38388,8 @@
    ],
    "threads": [
     "cryptids",
-    "hidden-peoples"
+    "hidden-peoples",
+    "mongolia-and-siberia"
    ]
   },
   {
@@ -38359,7 +38434,8 @@
    ],
    "threads": [
     "sky-beings",
-    "steppe-empires"
+    "steppe-empires",
+    "mongolia-and-siberia"
    ]
   },
   {
@@ -40547,7 +40623,8 @@
    ],
    "threads": [
     "giant-monuments",
-    "sacred-kingship"
+    "sacred-kingship",
+    "horn-of-africa"
    ]
   },
   {
@@ -40752,7 +40829,8 @@
     "sacred-relics",
     "knowledge-and-power",
     "sacred-kingship",
-    "founding-ancestors"
+    "founding-ancestors",
+    "horn-of-africa"
    ]
   },
   {
@@ -41546,7 +41624,8 @@
    "threads": [
     "changed-understanding",
     "human-origins",
-    "denisovan-world"
+    "denisovan-world",
+    "mongolia-and-siberia"
    ]
   },
   {
@@ -42705,7 +42784,8 @@
    "threads": [
     "knowledge-and-power",
     "holy-wars",
-    "slavic-worlds"
+    "slavic-worlds",
+    "byzantine-world"
    ]
   },
   {
@@ -43124,7 +43204,8 @@
     "knowledge-and-power",
     "decipherments",
     "slavic-worlds",
-    "balkan-crossroads"
+    "balkan-crossroads",
+    "byzantine-world"
    ]
   },
   {
@@ -43239,7 +43320,8 @@
    "threads": [
     "ufo-encounters",
     "seeing-what-we-expect",
-    "cold-war-secrets"
+    "cold-war-secrets",
+    "close-encounters"
    ]
   },
   {
@@ -43459,7 +43541,8 @@
    ],
    "threads": [
     "ufo-encounters",
-    "seeing-what-we-expect"
+    "seeing-what-we-expect",
+    "close-encounters"
    ]
   },
   {
@@ -45638,7 +45721,8 @@
    ],
    "threads": [
     "ufo-encounters",
-    "seeing-what-we-expect"
+    "seeing-what-we-expect",
+    "close-encounters"
    ]
   },
   {
@@ -45907,6 +45991,545 @@
     "hunter-gatherer-monuments",
     "first-art",
     "gobekli-cluster"
+   ]
+  },
+  {
+   "id": "yeha-temple",
+   "title": "Great Temple of Yeha (Dʿmt)",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -700,
+   "end": null,
+   "dateNote": "Great Temple c. 7th century BCE (dates debated)",
+   "evidenceTypes": [
+    "archaeological",
+    "epigraphic"
+   ],
+   "mainstream": "Yeha in Tigray, northern Ethiopia, preserves the Great Temple, a tall ashlar stone sanctuary usually dated to around the 7th century BCE, together with the nearby Grat Beal Gebri palace complex. Inscriptions and architecture show close links with the Sabaean culture of South Arabia, and Yeha is regarded as a centre of the pre-Aksumite kingdom of Dʿmt. It is often described as one of the oldest standing buildings in sub-Saharan Africa.",
+   "alternatives": [
+    {
+     "label": "Colony or local kingdom",
+     "text": "Older scholarship treated Dʿmt as a South Arabian colony; more recent work stresses a mixed Ethio-Sabaean elite drawing on strong local traditions."
+    },
+    {
+     "label": "Lost Solomonic city",
+     "text": "Ethiopian tradition and popular writing sometimes link Yeha to the Queen of Sheba and Solomon; this is legend layered on a real pre-Aksumite site, not an archaeological finding."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Yeha",
+     "url": "https://en.wikipedia.org/wiki/Yeha",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Dʿmt",
+     "url": "https://en.wikipedia.org/wiki/D%CA%BFmt",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Yeha%2C_rovine_del_tempio%2C_ingresso_01.jpg/500px-Yeha%2C_rovine_del_tempio%2C_ingresso_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Yeha,_rovine_del_tempio,_ingresso_01.jpg",
+     "author": "Sailko",
+     "license": "CC BY 3.0",
+     "title": "Yeha,_rovine_del_tempio,_ingresso_01.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history"
+   ],
+   "threads": [
+    "outsider-builder-claims",
+    "rediscovered-civilisations",
+    "horn-of-africa"
+   ]
+  },
+  {
+   "id": "fasil-ghebbi",
+   "title": "Fasil Ghebbi, Gondar",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1636,
+   "end": 1855,
+   "evidenceTypes": [
+    "archaeological",
+    "textual"
+   ],
+   "mainstream": "Fasil Ghebbi is the walled royal enclosure at Gondar, Ethiopia, begun by Emperor Fasilides (Fasil) after he made Gondar his capital around 1636. Successive emperors added castles, banqueting halls, churches and Fasilides' Bath, blending Ethiopian, Indian, Arab and Portuguese-influenced styles. Gondar remained the imperial capital until the mid-19th century, and the site was listed by UNESCO in 1979.",
+   "alternatives": [
+    {
+     "label": "Foreign builders",
+     "text": "Some accounts credit Portuguese or Indian masons for the castles; historians see foreign influence absorbed into a distinctly Ethiopian royal architecture."
+    },
+    {
+     "label": "Folk legends of the founding",
+     "text": "Local stories say the site was chosen by prophecy or by following a buffalo to a lake; these are founding legends rather than documentary history."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Fasil Ghebbi",
+     "url": "https://en.wikipedia.org/wiki/Fasil_Ghebbi",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "UNESCO: Fasil Ghebbi, Gondar Region",
+     "url": "https://whc.unesco.org/en/list/19/",
+     "type": "heritage"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Fasilides_Palace_01.jpg/500px-Fasilides_Palace_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Fasilides_Palace_01.jpg",
+     "author": "Bernard Gagnon",
+     "license": "CC BY-SA 3.0",
+     "title": "Fasilides_Palace_01.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology"
+   ],
+   "threads": [
+    "sacred-kingship",
+    "outsider-builder-claims",
+    "horn-of-africa"
+   ]
+  },
+  {
+   "id": "tiya-stelae",
+   "title": "Tiya stelae",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 3,
+   "start": 1200,
+   "end": null,
+   "dateNote": "c. 10th–15th centuries CE (Joussaume: 11th–13th)",
+   "evidenceTypes": [
+    "archaeological"
+   ],
+   "mainstream": "Tiya, in the Gurage zone of southern Ethiopia, is one of nine megalithic pillar sites in the Gurage Zone. Its stone pillars, 32 of them engraved with enigmatic symbols including swords, mark a burial complex and were listed by UNESCO in 1980. Excavations led by Roger Joussaume dated the site to roughly the 11th–13th centuries CE, with later estimates spanning the 10th–15th centuries; who built them is not recorded.",
+   "alternatives": [
+    {
+     "label": "Warrior tally markers",
+     "text": "The carved swords are often read as indicating warriors or the number of enemies killed; this remains an interpretation."
+    },
+    {
+     "label": "\"Gran's stones\"",
+     "text": "Local people call such stelae Yegragn Dingay, \"Gran's stone\", crediting the 16th-century conqueror Ahmad Gragn; the monuments are centuries older than him, so this is a later folk attribution."
+    },
+    {
+     "label": "Older lost culture",
+     "text": "Because the builders are unnamed in written records, some popular accounts assign the stelae to a vanished prehistoric people; excavations point to medieval burials, within a much older Ethiopian megalith tradition."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Tiya (archaeological site)",
+     "url": "https://en.wikipedia.org/wiki/Tiya_(archaeological_site)",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "UNESCO: Tiya",
+     "url": "https://whc.unesco.org/en/list/12/",
+     "type": "heritage"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Tiya_vue_d%27ensemble.JPG/500px-Tiya_vue_d%27ensemble.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Tiya_vue_d%27ensemble.JPG",
+     "author": "Julien Demade",
+     "license": "CC BY-SA 3.0",
+     "title": "Tiya_vue_d'ensemble.JPG"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "anomalies"
+   ],
+   "threads": [
+    "giant-monuments",
+    "outsider-builder-claims",
+    "horn-of-africa"
+   ]
+  },
+  {
+   "id": "makuria-faras",
+   "title": "Makuria and the Faras Cathedral frescoes",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 570,
+   "end": 1500,
+   "dateNote": "c. 6th century to c. 15th century CE",
+   "evidenceTypes": [
+    "archaeological",
+    "textual",
+    "art historical"
+   ],
+   "mainstream": "Makuria was a Christian Nubian kingdom on the middle Nile, with its capital at Old Dongola, from roughly the 6th century until about the 15th. After repelling Arab armies in 642 and 652 it concluded the Baqt treaty with Egypt, a trade-and-peace arrangement that lasted for centuries. When Lake Nasser was about to flood Lower Nubia, a Polish mission led by Kazimierz Michałowski (1961–64) uncovered over a hundred wall paintings in the cathedral at Faras, which are now in Warsaw and Khartoum.",
+   "alternatives": [
+    {
+     "label": "A forgotten African Christendom",
+     "text": "Historians emphasise how long Nubian Christianity endured and how little it features in general histories; the extent of its contacts with Byzantium and Ethiopia is still researched."
+    },
+    {
+     "label": "Saved from the flood",
+     "text": "The Faras rescue is sometimes told as a near-miraculous recovery; it was part of the large UNESCO Nubia campaign, and much of the site itself now lies under the lake."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Makuria",
+     "url": "https://en.wikipedia.org/wiki/Makuria",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Faras",
+     "url": "https://en.wikipedia.org/wiki/Faras",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Faras%2C_Franz_Christian_Gau.png/500px-Faras%2C_Franz_Christian_Gau.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Faras,_Franz_Christian_Gau.png",
+     "author": "Franz Christian Gau",
+     "license": "Public domain",
+     "title": "Faras,_Franz_Christian_Gau.png"
+    }
+   ],
+   "categories": [
+    "history",
+    "religion",
+    "archaeology"
+   ],
+   "threads": [
+    "erased-from-history",
+    "rediscovered-civilisations",
+    "horn-of-africa"
+   ]
+  },
+  {
+   "id": "queen-gudit",
+   "title": "Queen Gudit (Yodit)",
+   "lane": "myth",
+   "status": "disputed",
+   "priority": 2,
+   "start": 960,
+   "end": null,
+   "dateNote": "10th century CE (traditional)",
+   "evidenceTypes": [
+    "textual",
+    "oral tradition"
+   ],
+   "mainstream": "Ethiopian tradition remembers Gudit (Yodit, 'Judith') as a queen who sacked Aksum and destroyed churches in the 10th century, bringing about the end of the Aksumite kingdom. The 10th-century geographer Ibn Hawqal mentions, without naming her, a queen who had seized power and devastated the country around that time. Her identity is unclear; one proposal identifies her with Masoba Warq, daughter of the last Aksumite king Dil Na'od. Her religion and even her existence as one person are debated, and the traditions about her appear to have taken centuries to reach their final form.",
+   "alternatives": [
+    {
+     "label": "Jewish or pagan queen",
+     "text": "Some traditions make her Jewish (linked with the Beta Israel); others identify her as a non-Christian ruler from the southern kingdom of Damot or from Agaw lands."
+    },
+    {
+     "label": "Legend built on a real crisis",
+     "text": "Many historians accept a real 10th-century invasion led by a queen while treating the detailed legends about her motives and curses as later elaboration."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Gudit",
+     "url": "https://en.wikipedia.org/wiki/Gudit",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Ethio_w12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Ethio_w12.jpg",
+     "author": "Zheim",
+     "license": "CC BY-SA 3.0",
+     "title": "Ethio_w12.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "myth-legend"
+   ],
+   "threads": [
+    "deep-oral-memory",
+    "civilisation-collapses",
+    "warrior-women",
+    "horn-of-africa"
+   ]
+  },
+  {
+   "id": "famadihana",
+   "title": "Famadihana (turning of the bones)",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 3,
+   "start": 1650,
+   "end": null,
+   "dateNote": "Present form perhaps since c. 17th century; origins debated",
+   "evidenceTypes": [
+    "ethnographic",
+    "oral tradition"
+   ],
+   "mainstream": "Famadihana is a funerary tradition of the Malagasy highlands, especially among the Merina and Betsileo, in which families open the ancestral tomb, rewrap the remains in fresh silk shrouds, and dance with them before returning them. It is usually held every five to seven years and is understood as honouring the ancestors (razana), whose spirits are believed to fully join the ancestral world only after the body's complete decomposition and proper ceremonies. Early missionaries discouraged it; the Catholic Church now regards it as cultural, while many Evangelical Christians have abandoned it. The Malagasy government forbids the rite for people who died of plague.",
+   "alternatives": [
+    {
+     "label": "Ancient or recent custom",
+     "text": "It may have taken its present form only around the 17th century, possibly adapting older double-funeral customs from Southeast Asia and Oceania brought by Madagascar's Austronesian settlers."
+    },
+    {
+     "label": "Talking with the dead",
+     "text": "Participants describe the ritual as sustaining a living relationship with ancestors; this is a religious understanding, not an empirical claim."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Famadihana",
+     "url": "https://en.wikipedia.org/wiki/Famadihana",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Famadihana_reburial_razana_ancestor_Madagascar.jpg/500px-Famadihana_reburial_razana_ancestor_Madagascar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Famadihana_reburial_razana_ancestor_Madagascar.jpg",
+     "author": "Saveoursmile (Hery Zo Rakotondramanana)",
+     "license": "CC BY-SA 2.0",
+     "title": "Famadihana_reburial_razana_ancestor_Madagascar.jpg"
+    }
+   ],
+   "categories": [
+    "religion",
+    "history"
+   ],
+   "threads": [
+    "madagascar-worlds"
+   ]
+  },
+  {
+   "id": "ambohimanga",
+   "title": "Royal Hill of Ambohimanga",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 3,
+   "start": 1787,
+   "end": null,
+   "evidenceTypes": [
+    "archaeological",
+    "oral tradition",
+    "textual"
+   ],
+   "mainstream": "Ambohimanga, a fortified hilltop village north of Antananarivo, was the spiritual and political seat of the Merina kings. From here Andrianampoinimerina (r. c. 1787–1810) began unifying the Imerina highlands, a process his son Radama I extended over much of Madagascar. The hill is still a pilgrimage site for ancestor veneration and was listed by UNESCO in 2001.",
+   "alternatives": [
+    {
+     "label": "Sacred city",
+     "text": "Merina tradition treats the hill as sacred and once forbade certain foods and outsiders; heritage bodies recognise it as a living religious landscape."
+    },
+    {
+     "label": "Fixed founding date",
+     "text": "Oral royal genealogies give earlier origins for the settlement; the documented political rise belongs to the late 18th century."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Ambohimanga",
+     "url": "https://en.wikipedia.org/wiki/Ambohimanga",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "UNESCO: Royal Hill of Ambohimanga",
+     "url": "https://whc.unesco.org/en/list/950/",
+     "type": "heritage"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/View_of_Ambohimanga_sacred_hill_Madagascar.JPG/500px-View_of_Ambohimanga_sacred_hill_Madagascar.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:View_of_Ambohimanga_sacred_hill_Madagascar.JPG",
+     "author": "Lemurbaby",
+     "license": "CC BY-SA 3.0",
+     "title": "View_of_Ambohimanga_sacred_hill_Madagascar.JPG"
+    }
+   ],
+   "categories": [
+    "history",
+    "religion"
+   ],
+   "threads": [
+    "sacred-kingship",
+    "madagascar-worlds"
+   ]
+  },
+  {
+   "id": "hagia-sophia",
+   "title": "Hagia Sophia",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": 537,
+   "end": null,
+   "evidenceTypes": [
+    "archaeological",
+    "textual",
+    "architectural"
+   ],
+   "mainstream": "Hagia Sophia in Istanbul was built for Emperor Justinian I between 532 and 537 by Anthemius of Tralles and Isidore of Miletus, after the previous church burned in the Nika riots. Its vast dome partly collapsed in 558 and was rebuilt higher. It served as the cathedral of Constantinople for over 900 years, became a mosque after 1453, a museum in 1934, and a mosque again in 2020.",
+   "alternatives": [
+    {
+     "label": "A priest inside the wall",
+     "text": "A Greek legend says a priest celebrating the liturgy as the Ottomans broke in vanished into a wall and will reappear when the city is Christian again; it is a folk legend of the conquest."
+    },
+    {
+     "label": "Sacred geometry and acoustics",
+     "text": "Modern studies explore the acoustics and geometry of the dome; claims of encoded esoteric knowledge go beyond the architectural evidence."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Hagia Sophia",
+     "url": "https://en.wikipedia.org/wiki/Hagia_Sophia",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "UNESCO: Historic Areas of Istanbul",
+     "url": "https://whc.unesco.org/en/list/356/",
+     "type": "heritage"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Hagia_Sophia_%28228968325%29.jpeg/500px-Hagia_Sophia_%28228968325%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Hagia_Sophia_(228968325).jpeg",
+     "author": "Adli Wahid",
+     "license": "CC BY-SA 3.0",
+     "title": "Hagia_Sophia_(228968325).jpeg"
+    }
+   ],
+   "categories": [
+    "history",
+    "religion",
+    "archaeology"
+   ],
+   "threads": [
+    "giant-monuments",
+    "byzantine-world"
+   ]
+  },
+  {
+   "id": "fall-of-constantinople",
+   "title": "Fall of Constantinople (1453)",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": 1453,
+   "end": null,
+   "evidenceTypes": [
+    "textual",
+    "archaeological"
+   ],
+   "mainstream": "On 29 May 1453 the Ottoman army of Sultan Mehmed II captured Constantinople after a siege of about 53 days, ending the Byzantine Empire; the last emperor, Constantine XI Palaiologos, died in the fighting. The Ottomans used large bombards, including guns cast by the engineer Orban, and dragged ships overland into the Golden Horn to bypass its defensive chain. The city became the Ottoman capital.",
+   "alternatives": [
+    {
+     "label": "The Kerkoporta gate",
+     "text": "Doukas reports that a small postern gate left open let the attackers in; some historians doubt the story or think it was minor."
+    },
+    {
+     "label": "The sleeping emperor",
+     "text": "Greek legend says Constantine XI was turned to marble by an angel and will awaken to retake the city, a sleeping-hero motif shared with many cultures."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Fall of Constantinople",
+     "url": "https://en.wikipedia.org/wiki/Fall_of_Constantinople",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Le_si%C3%A8ge_de_Constantinople_%281453%29_by_Jean_Le_Tavernier_after_1455.jpg/500px-Le_si%C3%A8ge_de_Constantinople_%281453%29_by_Jean_Le_Tavernier_after_1455.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Le_si%C3%A8ge_de_Constantinople_(1453)_by_Jean_Le_Tavernier_after_1455.jpg",
+     "author": "Unknown",
+     "license": "Public domain",
+     "title": "Le_siège_de_Constantinople_(1453)_by_Jean_Le_Tavernier_after_1455.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "myth-legend"
+   ],
+   "threads": [
+    "civilisation-collapses",
+    "sleeping-heroes",
+    "holy-wars",
+    "byzantine-world"
+   ]
+  },
+  {
+   "id": "nika-riots",
+   "title": "Nika riots (532)",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 532,
+   "end": null,
+   "evidenceTypes": [
+    "textual"
+   ],
+   "mainstream": "In January 532 the Blue and Green chariot-racing factions of Constantinople united against Emperor Justinian I, shouting 'Nika!' ('Conquer!'), burning much of the city including the church of Hagia Sophia, and proclaiming Hypatius emperor. According to Procopius, Empress Theodora persuaded Justinian not to flee. The generals Belisarius and Mundus trapped the crowd in the Hippodrome, and Procopius reports around 30,000 deaths.",
+   "alternatives": [
+    {
+     "label": "Theodora's speech",
+     "text": "Her famous line that \"royalty is a good burial shroud\" comes from Procopius, who may have shaped it rhetorically."
+    },
+    {
+     "label": "Size of the massacre",
+     "text": "The figure of 30,000 comes from ancient authors and cannot be checked independently; it may be exaggerated."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Nika riots",
+     "url": "https://en.wikipedia.org/wiki/Nika_riots",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Turkey-03228_-_Hippodrome_of_Constantinople_%2811312626353%29.jpg/500px-Turkey-03228_-_Hippodrome_of_Constantinople_%2811312626353%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Turkey-03228_-_Hippodrome_of_Constantinople_(11312626353).jpg",
+     "author": "Dennis G. Jarvis",
+     "license": "CC BY-SA 2.0",
+     "title": "Turkey-03228_-_Hippodrome_of_Constantinople_(11312626353).jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "catastrophes"
+   ],
+   "threads": [
+    "collective-experiences",
+    "byzantine-world"
    ]
   }
  ]

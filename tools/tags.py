@@ -1819,3 +1819,102 @@ addt('cold-war-secrets','belgium-wave-1989-90 hudson-valley-ufo')
 addt('erased-from-history','tartarian-architecture phantom-time-hypothesis fomenko-new-chronology')
 addt('first-art','ain-ghazal sayburc')
 addt('out-of-place-artifacts','tartarian-architecture')
+
+# batch 21 part 1 — Horn of Africa / Nubia / Madagascar / Byzantium
+C.update({
+'yeha-temple':'archaeology history','fasil-ghebbi':'history archaeology','tiya-stelae':'archaeology anomalies','makuria-faras':'history religion archaeology',
+'queen-gudit':'history myth-legend','famadihana':'religion history','ambohimanga':'history religion','hagia-sophia':'history religion archaeology',
+'fall-of-constantinople':'history myth-legend','nika-riots':'history catastrophes'})
+addt('horn-of-africa','yeha-temple fasil-ghebbi tiya-stelae makuria-faras queen-gudit aksum aksum-obelisks lalibela kebra-nagast queen-of-sheba punt laas-geel kerma meroe prester-john')
+addt('byzantine-world','hagia-sophia fall-of-constantinople nika-riots greek-fire justinian-plague marble-emperor seven-sleepers rus-baptism cyril-methodius volcanic-winter-536 donation-of-constantine')
+addt('rediscovered-civilisations','yeha-temple makuria-faras')
+addt('erased-from-history','makuria-faras')
+addt('outsider-builder-claims','yeha-temple fasil-ghebbi tiya-stelae')
+addt('giant-monuments','tiya-stelae hagia-sophia')
+addt('warrior-women','queen-gudit')
+addt('civilisation-collapses','queen-gudit fall-of-constantinople')
+addt('sacred-kingship','ambohimanga fasil-ghebbi')
+addt('sleeping-heroes','fall-of-constantinople')
+addt('holy-wars','fall-of-constantinople')
+addt('collective-experiences','nika-riots')
+addt('madagascar-worlds','famadihana ambohimanga madagascar-settlement roc-elephant-bird vazimba-kalanoro')
+addt('deep-oral-memory','queen-gudit')
+
+# batch 21 part 2 — Mongolia / Siberia / Arctic / Mesopotamia / Anatolia
+C.update({
+'karakorum':'history archaeology','secret-history-mongols':'history myth-legend','malta-boy':'science-cosmos archaeology','orkhon-inscriptions':'history archaeology',
+'patomskiy-crater':'anomalies science-cosmos','andree-balloon':'history','zhokhov-island':'archaeology science-cosmos','royal-cemetery-ur':'archaeology history religion',
+'code-of-hammurabi':'history archaeology','kanesh-archives':'history archaeology'})
+addt('mongolia-and-siberia','karakorum secret-history-mongols malta-boy orkhon-inscriptions patomskiy-crater zhokhov-island genghis-tomb deer-stones tengri almas death-worm siberian-ice-maiden denisova-cave tunguska shigir-idol kamikaze-typhoons')
+addt('mesopotamia-and-anatolia','royal-cemetery-ur code-of-hammurabi kanesh-archives gilgamesh sumerian-king-list sargon-akkad ashurbanipal-library enuma-elish descent-of-inanna apkallu-oannes anunnaki etemenanki hanging-gardens ebla-tablets hattusa-hittites catalhoyuk writing')
+addt('steppe-empires','karakorum secret-history-mongols orkhon-inscriptions')
+addt('silk-road','karakorum')
+addt('automata-and-robots','karakorum')
+addt('sky-beings','secret-history-mongols')
+addt('founding-ancestors','secret-history-mongols')
+addt('genetic-migrations','malta-boy zhokhov-island')
+addt('first-americans','malta-boy')
+addt('human-origins','malta-boy')
+addt('changed-understanding','malta-boy')
+addt('decipherments','orkhon-inscriptions')
+addt('origins-of-writing','orkhon-inscriptions kanesh-archives')
+addt('cosmic-impacts','patomskiy-crater')
+addt('polar-mysteries','andree-balloon zhokhov-island')
+addt('disappearances','andree-balloon')
+addt('lost-evidence','andree-balloon')
+addt('vanished-landscapes','zhokhov-island')
+addt('human-sacrifice','royal-cemetery-ur')
+addt('flood-myths','royal-cemetery-ur')
+addt('hidden-tombs','royal-cemetery-ur')
+addt('sacred-kingship','code-of-hammurabi royal-cemetery-ur')
+addt('trade-networks','kanesh-archives')
+addt('knowledge-and-power','code-of-hammurabi')
+
+# batch 21 part 3 — Native North America / Anatolia / deep-time Earth / Indonesia-Philippines
+C.update({
+'poverty-point':'archaeology history','walam-olum':'hoaxes myth-legend','sky-woman':'myth-legend religion','newark-earthworks':'archaeology history science-cosmos',
+'nemrut-dag':'archaeology history religion','messinian-zanclean':'science-cosmos catastrophes','jack-hills-zircons':'science-cosmos','petm':'science-cosmos catastrophes',
+'prambanan':'archaeology religion myth-legend','battle-of-mactan':'history myth-legend'})
+addt('native-north-america','poverty-point walam-olum sky-woman newark-earthworks cahokia serpent-mound spiro-mounds mound-builders-myth haudenosaunee-eclipse chaco-canyon mesa-verde ghost-dance bighorn-medicine-wheel piasa thunderbird wendigo kushtaka skinwalker raven-tradition ozette-village kennewick-man mazama-klamath')
+addt('deep-time-earth','messinian-zanclean jack-hills-zircons petm earth-forms great-oxidation snowball-earth ediacaran-biota cambrian great-dying late-heavy-bombardment giant-impact-moon kpg vredefort plate-tectonics')
+addt('hunter-gatherer-monuments','poverty-point')
+addt('giant-monuments','poverty-point newark-earthworks nemrut-dag prambanan')
+addt('trade-networks','poverty-point')
+addt('hoaxes-exposed','walam-olum')
+addt('forged-documents','walam-olum')
+addt('ancestral-homelands','walam-olum')
+addt('outsider-builder-claims','walam-olum newark-earthworks')
+addt('creation-myths','sky-woman')
+addt('sky-beings','sky-woman')
+addt('ancient-astronomy','newark-earthworks nemrut-dag')
+addt('hidden-tombs','nemrut-dag')
+addt('sacred-kingship','nemrut-dag')
+addt('vanished-landscapes','messinian-zanclean')
+addt('flood-myths','messinian-zanclean')
+addt('mass-extinctions','petm')
+addt('changed-understanding','jack-hills-zircons messinian-zanclean')
+addt('southeast-asian-kingdoms','prambanan')
+addt('petrified-beings','prambanan battle-of-mactan')
+addt('sleeping-heroes','battle-of-mactan')
+addt('ocean-voyagers','battle-of-mactan')
+
+# batch 21 part 4 — anomalies / UFOs / cryptids / hoaxes / recent science
+C.update({
+'ebu-gogo':'myth-legend anomalies','pink-face-atapuerca':'science-cosmos archaeology','mantell-1948':'aliens-ufo history','pascagoula-1973':'aliens-ufo anomalies',
+'travis-walton-1975':'aliens-ufo anomalies','ohare-2006':'aliens-ufo anomalies','ogopogo':'myth-legend anomalies','dover-demon':'anomalies myth-legend',
+'calaveras-skull':'hoaxes archaeology','kinderhook-plates':'hoaxes religion'})
+addt('close-encounters','pascagoula-1973 travis-walton-1975 betty-barney-hill kelly-hopkinsville flatwoods-monster socorro-zamora valensole-1965 falcon-lake-1967 dover-demon')
+addt('ufo-encounters','mantell-1948 pascagoula-1973 travis-walton-1975 ohare-2006')
+addt('official-ufo-investigations','mantell-1948')
+addt('seeing-what-we-expect','mantell-1948 ohare-2006 dover-demon')
+addt('cryptids','ebu-gogo ogopogo dover-demon')
+addt('giants-and-little-people','ebu-gogo')
+addt('deep-oral-memory','ebu-gogo sky-woman')
+addt('human-origins','ebu-gogo pink-face-atapuerca')
+addt('changed-understanding','pink-face-atapuerca calaveras-skull')
+addt('water-spirits','ogopogo')
+addt('serpent-beings','ogopogo')
+addt('hoaxes-exposed','calaveras-skull kinderhook-plates')
+addt('forged-documents','kinderhook-plates')
+addt('first-americans','calaveras-skull')
+addt('out-of-place-artifacts','calaveras-skull kinderhook-plates')
