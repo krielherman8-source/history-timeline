@@ -47074,6 +47074,566 @@
     "trade-networks",
     "mesopotamia-and-anatolia"
    ]
+  },
+  {
+   "id": "poverty-point",
+   "title": "Poverty Point earthworks",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -1700,
+   "end": -1100,
+   "evidenceTypes": [
+    "archaeological",
+    "radiocarbon"
+   ],
+   "mainstream": "Poverty Point in northeastern Louisiana is a complex of six concentric C-shaped earthen ridges and several large mounds built by hunter-fisher-gatherers between about 1700 and 1100 BCE. Mound A, one of the largest earthworks in North America, may have been built in a matter of months. Exotic stone from hundreds of kilometres away shows a wide exchange network, and the site was listed by UNESCO in 2014.",
+   "alternatives": [
+    {
+     "label": "Monuments without farming",
+     "text": "Poverty Point challenges the old assumption that only farming societies build large monuments, similar to Göbekli Tepe."
+    },
+    {
+     "label": "Astronomical alignments",
+     "text": "Some researchers have proposed solstice alignments; these are debated and not widely accepted."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Poverty Point",
+     "url": "https://en.wikipedia.org/wiki/Poverty_Point",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "UNESCO: Monumental Earthworks of Poverty Point",
+     "url": "https://whc.unesco.org/en/list/1435/",
+     "type": "heritage"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Louisiana_-_Poverty_Point_-_Karte_%28English_version%29.png/500px-Louisiana_-_Poverty_Point_-_Karte_%28English_version%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Louisiana_-_Poverty_Point_-_Karte_(English_version).png",
+     "author": "Maximilian Dörrbecker (Chumwa)",
+     "license": "CC BY-SA 2.5",
+     "title": "Louisiana_-_Poverty_Point_-_Karte_(English_version).png"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history"
+   ],
+   "threads": [
+    "giant-monuments",
+    "trade-networks",
+    "hunter-gatherer-monuments",
+    "native-north-america"
+   ]
+  },
+  {
+   "id": "walam-olum",
+   "title": "Walam Olum",
+   "lane": "myth",
+   "status": "debunked",
+   "priority": 2,
+   "start": 1836,
+   "end": null,
+   "evidenceTypes": [
+    "textual"
+   ],
+   "mainstream": "The Walam Olum was published in 1836 by the naturalist Constantine Rafinesque as a pictographic migration chronicle of the Lenape (Delaware) people, supposedly copied from painted sticks. For over a century it was cited as a genuine Native American historical record. Research by David Oestreicher in the 1990s showed it was a fabrication, most likely by Rafinesque himself, and Lenape leaders have rejected it.",
+   "alternatives": [
+    {
+     "label": "Genuine tradition",
+     "text": "A few defenders argued it preserved real oral history; linguistic analysis found it was built from dictionaries and contained errors."
+    },
+    {
+     "label": "Part of the Mound Builder myth",
+     "text": "It was used to support theories that a lost race built the mounds; those theories are rejected."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Walam Olum",
+     "url": "https://en.wikipedia.org/wiki/Walam_Olum",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Walamolum01.jpg/500px-Walamolum01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Walamolum01.jpg",
+     "author": "User:Nikater",
+     "license": "Public domain",
+     "title": "Walamolum01.jpg"
+    }
+   ],
+   "categories": [
+    "hoaxes",
+    "myth-legend"
+   ],
+   "threads": [
+    "hoaxes-exposed",
+    "outsider-builder-claims",
+    "ancestral-homelands",
+    "forged-documents",
+    "native-north-america"
+   ]
+  },
+  {
+   "id": "sky-woman",
+   "title": "Sky Woman and Turtle Island",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 1,
+   "start": 0,
+   "end": null,
+   "dateNote": "Oral tradition; recorded from the 17th century",
+   "evidenceTypes": [
+    "oral tradition"
+   ],
+   "mainstream": "In the Haudenosaunee (Iroquois) creation story, Sky Woman falls from the Sky World through a hole beneath a great tree. Birds catch her, and animals dive for mud, which is spread on the back of a great turtle to become the land — Turtle Island. Her grandsons, the twins Sapling and Flint, shape the world. Similar 'earth-diver' myths are found across North America and Siberia.",
+   "alternatives": [
+    {
+     "label": "Shared earth-diver motif",
+     "text": "Folklorists suggest the motif may be very old and spread with early populations across the Bering region; others see independent invention."
+    },
+    {
+     "label": "Star people",
+     "text": "Some modern writers link Sky Woman to ancient visitors from the stars; Haudenosaunee storytellers present her as a sacred origin figure."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Atahensic",
+     "url": "https://en.wikipedia.org/wiki/Atahensic",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Ernest_Smith_Sky_Woman_1936.jpg/500px-Ernest_Smith_Sky_Woman_1936.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Ernest_Smith_Sky_Woman_1936.jpg",
+     "author": "Ernest Smith",
+     "license": "Public domain",
+     "title": "Ernest_Smith_Sky_Woman_1936.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion"
+   ],
+   "threads": [
+    "sky-beings",
+    "deep-oral-memory",
+    "creation-myths",
+    "native-north-america"
+   ]
+  },
+  {
+   "id": "newark-earthworks",
+   "title": "Newark Earthworks",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -100,
+   "end": 400,
+   "dateNote": "c. 100 BCE – 400 CE",
+   "evidenceTypes": [
+    "archaeological"
+   ],
+   "mainstream": "The Newark Earthworks in Ohio are among the largest geometric earthworks in the world, built by people of the Hopewell culture between about 100 BCE and 400 CE; they cover what was once about 1,200 hectares, less than a tenth of which survives. They include a huge circle and an octagon whose alignments track the 18.6-year cycle of moonrises, as studied by Ray Hively and Robert Horn. In 2023 they were listed by UNESCO as part of the Hopewell Ceremonial Earthworks; part of the Octagon long served as a golf course.",
+   "alternatives": [
+    {
+     "label": "Lunar observatory",
+     "text": "The lunar alignment interpretation is widely respected but still discussed."
+    },
+    {
+     "label": "The Newark Holy Stones",
+     "text": "In 1860 stones inscribed with Hebrew were \"found\" nearby, claimed as proof of lost Israelites; most scholars regard them as a hoax."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Newark Earthworks",
+     "url": "https://en.wikipedia.org/wiki/Newark_Earthworks",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "UNESCO: Hopewell Ceremonial Earthworks",
+     "url": "https://whc.unesco.org/en/list/1689/",
+     "type": "heritage"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Newark_Earthworks_Wall_and_Moat.jpg/500px-Newark_Earthworks_Wall_and_Moat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Newark_Earthworks_Wall_and_Moat.jpg",
+     "author": "Ericplayzbass",
+     "license": "CC BY-SA 4.0",
+     "title": "Newark_Earthworks_Wall_and_Moat.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history",
+    "science-cosmos"
+   ],
+   "threads": [
+    "giant-monuments",
+    "ancient-astronomy",
+    "outsider-builder-claims",
+    "native-north-america"
+   ]
+  },
+  {
+   "id": "nemrut-dag",
+   "title": "Nemrut Dağ",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -50,
+   "end": null,
+   "dateNote": "1st century BCE",
+   "evidenceTypes": [
+    "archaeological",
+    "epigraphic"
+   ],
+   "mainstream": "On top of Mount Nemrut in southeastern Turkey, King Antiochus I of Commagene (r. c. 70–38 BCE) built a tomb-sanctuary with colossal seated statues of himself among Greek and Persian gods. A relief known as the Lion Horoscope shows a lion with stars and the planets Jupiter, Mercury and Mars, interpreted as a date. The site was found by the engineer Karl Sester in 1881 and listed by UNESCO in 1987. Antiochus' burial chamber has never been found.",
+   "alternatives": [
+    {
+     "label": "Dating the Lion Horoscope",
+     "text": "Proposals include 62 BCE and 109 BCE, linked to events in Antiochus' reign."
+    },
+    {
+     "label": "A hidden chamber",
+     "text": "The tomb may lie beneath the rubble mound; searches have not found it."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Mount Nemrut",
+     "url": "https://en.wikipedia.org/wiki/Mount_Nemrut",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "UNESCO: Nemrut Dağ",
+     "url": "https://whc.unesco.org/en/list/448/",
+     "type": "heritage"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Mount_Nemrut_-_East_Terrace_%284961323529%29.jpg/500px-Mount_Nemrut_-_East_Terrace_%284961323529%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Mount_Nemrut_-_East_Terrace_(4961323529).jpg",
+     "author": "Klearchos Kapoutsis from Santorini, Greece",
+     "license": "CC BY 2.0",
+     "title": "Mount_Nemrut_-_East_Terrace_(4961323529).jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history",
+    "religion"
+   ],
+   "threads": [
+    "giant-monuments",
+    "ancient-astronomy",
+    "hidden-tombs",
+    "sacred-kingship"
+   ]
+  },
+  {
+   "id": "messinian-zanclean",
+   "title": "Messinian salinity crisis and Zanclean flood",
+   "lane": "history",
+   "status": "hypothesis",
+   "priority": 2,
+   "start": -5970000,
+   "end": -5330000,
+   "dateNote": "c. 5.97–5.33 million years ago",
+   "evidenceTypes": [
+    "geological"
+   ],
+   "mainstream": "Around 5.97–5.33 million years ago, the Mediterranean was largely cut off from the Atlantic and parts dried out, leaving salt layers over a kilometre thick. In the Zanclean flood, about 5.33 million years ago, the Atlantic broke through the Strait of Gibraltar. A 2009 Nature study suggested the basin may have refilled in a few years. The scale and speed of the drying and refilling are still debated.",
+   "alternatives": [
+    {
+     "label": "Catastrophic vs gradual refilling",
+     "text": "Some researchers argue for a slower refilling over thousands of years."
+    },
+    {
+     "label": "Memory of the flood",
+     "text": "Fringe writers sometimes connect it to Atlantis or flood myths; humans did not exist then."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Catastrophic flood of the Mediterranean after the Messinian salinity crisis",
+     "authors": "Garcia-Castellanos, D. et al.",
+     "year": 2009,
+     "doi": "10.1038/nature08555",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: Messinian salinity crisis",
+     "url": "https://en.wikipedia.org/wiki/Messinian_salinity_crisis",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Zanclean flood",
+     "url": "https://en.wikipedia.org/wiki/Zanclean_flood",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Etapa4.jpg/500px-Etapa4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Etapa4.jpg",
+     "author": "Paubahi",
+     "license": "CC BY-SA 3.0",
+     "title": "Etapa4.jpg"
+    }
+   ],
+   "categories": [
+    "science-cosmos",
+    "catastrophes"
+   ],
+   "threads": [
+    "flood-myths",
+    "changed-understanding",
+    "vanished-landscapes",
+    "deep-time-earth"
+   ]
+  },
+  {
+   "id": "jack-hills-zircons",
+   "title": "Jack Hills zircons",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -4400000000,
+   "end": null,
+   "dateNote": "c. 4.4 billion years ago",
+   "evidenceTypes": [
+    "geological"
+   ],
+   "mainstream": "Tiny zircon crystals from the Jack Hills of Western Australia, up to about 4.4 billion years old, are the oldest known pieces of Earth. A 2001 Nature study showed that their oxygen isotopes suggest liquid water and continental crust existed within 150 million years of Earth's formation. This challenged the old picture of an early Earth that was hot and molten for a long time.",
+   "alternatives": [
+    {
+     "label": "Cool early Earth",
+     "text": "The 2001 findings support a \"cool early Earth\"; some researchers still debate how widespread oceans and continents were."
+    },
+    {
+     "label": "Early life",
+     "text": "A 2015 study found possibly biological carbon in a 4.1-billion-year-old zircon; this is still debated."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Evidence from detrital zircons for the existence of continental crust and oceans on the Earth 4.4 Gyr ago",
+     "authors": "Wilde, S. et al.",
+     "year": 2001,
+     "doi": "10.1038/35051550",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: Jack Hills",
+     "url": "https://en.wikipedia.org/wiki/Jack_Hills",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Jack_Hills%2C_Western_Australia_%28Landsat_5_TM%2C_2009-07-14%2C_detail%29.jpg/500px-Jack_Hills%2C_Western_Australia_%28Landsat_5_TM%2C_2009-07-14%2C_detail%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Jack_Hills,_Western_Australia_(Landsat_5_TM,_2009-07-14,_detail).jpg",
+     "author": "Gretarsson",
+     "license": "CC BY 4.0",
+     "title": "Jack_Hills,_Western_Australia_(Landsat_5_TM,_2009-07-14,_detail).jpg"
+    }
+   ],
+   "categories": [
+    "science-cosmos"
+   ],
+   "threads": [
+    "changed-understanding",
+    "deep-time-earth"
+   ]
+  },
+  {
+   "id": "petm",
+   "title": "Paleocene–Eocene Thermal Maximum",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -56000000,
+   "end": null,
+   "dateNote": "c. 56 million years ago",
+   "evidenceTypes": [
+    "geological"
+   ],
+   "mainstream": "About 56 million years ago, a huge release of carbon caused global temperatures to rise by around 5–8 °C over a few thousand years. Oceans acidified, many deep-sea foraminifera died out, and early primates, horses and other mammals spread across the northern continents. It is studied as an ancient example of fast climate change.",
+   "alternatives": [
+    {
+     "label": "Cause",
+     "text": "Proposed causes include volcanism in the North Atlantic and the release of methane hydrates; a 2016 study suggested a comet impact, which is disputed."
+    },
+    {
+     "label": "A model for today",
+     "text": "It is often compared with modern warming, but the rate of carbon release today appears faster."
+    }
+   ],
+   "sources": [
+    {
+     "title": "The Paleocene-Eocene Thermal Maximum: A Perturbation of Carbon Cycle, Climate, and Biosphere with Implications for the Future",
+     "authors": "McInerney, F. et al.",
+     "year": 2011,
+     "doi": "10.1146/annurev-earth-040610-133431",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: Paleocene–Eocene thermal maximum",
+     "url": "https://en.wikipedia.org/wiki/Paleocene%E2%80%93Eocene_thermal_maximum",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/65_Myr_Climate_Change.png/500px-65_Myr_Climate_Change.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:65_Myr_Climate_Change.png",
+     "author": "Robert A. Rohde",
+     "license": "CC BY-SA 3.0",
+     "title": "65_Myr_Climate_Change.png"
+    }
+   ],
+   "categories": [
+    "science-cosmos",
+    "catastrophes"
+   ],
+   "threads": [
+    "mass-extinctions",
+    "deep-time-earth"
+   ]
+  },
+  {
+   "id": "prambanan",
+   "title": "Prambanan and the legend of Roro Jonggrang",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 856,
+   "end": null,
+   "dateNote": "c. 850 CE",
+   "evidenceTypes": [
+    "archaeological",
+    "epigraphic",
+    "oral tradition"
+   ],
+   "mainstream": "Prambanan in Central Java is a 9th-century Hindu temple complex dedicated to Shiva, Vishnu and Brahma, with a central Shiva temple about 47 m high. The Shivagrha inscription of 856 CE is linked to its construction under the Mataram kingdom. In Javanese legend, Princess Roro Jonggrang demanded that her suitor Bandung Bondowoso build 1,000 temples in one night; she tricked him by making the cocks crow early, and he cursed her into a statue. The site was listed by UNESCO in 1991 and damaged in an earthquake in 2006.",
+   "alternatives": [
+    {
+     "label": "Hindu-Buddhist rivalry",
+     "text": "Prambanan's proximity to Buddhist Borobudur has prompted debates about dynastic and religious rivalry in Java."
+    },
+    {
+     "label": "Built by spirits",
+     "text": "The legend that spirits built the temples is folklore that explains the many small shrines."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Prambanan",
+     "url": "https://en.wikipedia.org/wiki/Prambanan",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "UNESCO: Prambanan Temple Compounds",
+     "url": "https://whc.unesco.org/en/list/642/",
+     "type": "heritage"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Yogyakarta_Indonesia_Prambanan-temple-complex-02.jpg/500px-Yogyakarta_Indonesia_Prambanan-temple-complex-02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Yogyakarta_Indonesia_Prambanan-temple-complex-02.jpg",
+     "author": "CEphoto, Uwe Aranas",
+     "license": "CC BY-SA 3.0",
+     "title": "Yogyakarta_Indonesia_Prambanan-temple-complex-02.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "religion",
+    "myth-legend"
+   ],
+   "threads": [
+    "giant-monuments",
+    "petrified-beings",
+    "southeast-asian-kingdoms"
+   ]
+  },
+  {
+   "id": "battle-of-mactan",
+   "title": "Battle of Mactan",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1521,
+   "end": null,
+   "evidenceTypes": [
+    "textual",
+    "oral tradition"
+   ],
+   "mainstream": "On the morning of 27 April 1521, on a beach of Mactan Island (now part of Cebu, Philippines), warriors of the chieftain Lapulapu defeated a small Spanish contingent and killed the expedition leader Ferdinand Magellan, who had sought to force Mactan to submit to Spain and to his new ally Rajah Humabon of Cebu. Almost everything known comes from the account of the survivor Antonio Pigafetta. The expedition went on under Juan Sebastián Elcano to complete the first circumnavigation in 1522, and Lapulapu is honoured as the first Filipino national hero.",
+   "alternatives": [
+    {
+     "label": "Who was Lapulapu",
+     "text": "Little is known beyond Pigafetta; in 2019 the Philippine National Quincentennial Committee settled on the spelling \"Lapulapu\", noting his name may have carried the honorific \"Si\" (from Sanskrit Sri)."
+    },
+    {
+     "label": "He never died",
+     "text": "Local legend says Lapulapu was turned to stone and still guards the seas of Mactan; fisherfolk once threw coins at a man-shaped rock to ask his permission to fish, and the grouper fish is named after him."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Battle of Mactan",
+     "url": "https://en.wikipedia.org/wiki/Battle_of_Mactan",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Lapulapu",
+     "url": "https://en.wikipedia.org/wiki/Lapulapu",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/LAPU_LAPU_MONUMENT.jpg/500px-LAPU_LAPU_MONUMENT.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:LAPU_LAPU_MONUMENT.jpg",
+     "author": "Claudio monceda",
+     "license": "CC BY-SA 4.0",
+     "title": "LAPU_LAPU_MONUMENT.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "myth-legend"
+   ],
+   "threads": [
+    "ocean-voyagers",
+    "petrified-beings",
+    "sleeping-heroes"
+   ]
   }
  ]
 }
