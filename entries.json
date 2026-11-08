@@ -46531,6 +46531,549 @@
     "collective-experiences",
     "byzantine-world"
    ]
+  },
+  {
+   "id": "karakorum",
+   "title": "Karakorum, Mongol capital",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1220,
+   "end": 1585,
+   "evidenceTypes": [
+    "archaeological",
+    "textual"
+   ],
+   "mainstream": "Karakorum, in the Orkhon Valley of Mongolia, was founded as a base by Genghis Khan around 1220 and walled as the imperial capital under Ögedei in 1235. The Franciscan William of Rubruck, who visited in 1254, described a quarter for Muslims and Chinese, many temples and a silver tree fountain made by the captive Parisian goldsmith Guillaume Boucher, an automaton in which a trumpeting angel signalled serpents to pour out drinks. Kublai moved the capital to Dadu (Beijing); Ming armies damaged the city in 1372 and razed it in 1380, and in 1585 the Erdene Zuu monastery was built beside it, largely from Karakorum's stones and bricks.",
+   "alternatives": [
+    {
+     "label": "Silver tree fountain",
+     "text": "Rubruck's description is the only detailed account; its mechanics are reconstructed from his text."
+    },
+    {
+     "label": "Cosmopolitan capital",
+     "text": "Excavations confirm workshops, a palace area and mixed communities, supporting Rubruck while correcting some of his details."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Karakorum",
+     "url": "https://en.wikipedia.org/wiki/Karakorum",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "UNESCO: Orkhon Valley Cultural Landscape",
+     "url": "https://whc.unesco.org/en/list/1081/",
+     "type": "heritage"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Erdene_Zuu_Monastery_05.jpg/500px-Erdene_Zuu_Monastery_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Erdene_Zuu_Monastery_05.jpg",
+     "author": "Bernard Gagnon",
+     "license": "CC0",
+     "title": "Erdene_Zuu_Monastery_05.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology"
+   ],
+   "threads": [
+    "silk-road",
+    "automata-and-robots",
+    "steppe-empires",
+    "mongolia-and-siberia"
+   ]
+  },
+  {
+   "id": "secret-history-mongols",
+   "title": "Secret History of the Mongols",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1228,
+   "end": null,
+   "dateNote": "Composed after 1227; date debated (1228/1240/1252)",
+   "evidenceTypes": [
+    "textual"
+   ],
+   "mainstream": "The Secret History of the Mongols is the oldest surviving literary work in Mongolian, written for the royal family after Genghis Khan's death (often dated to 1228 or 1240). It traces his ancestry to a blue-grey wolf and a fallow doe and tells how the widow Alan Gua conceived sons by a shining yellow man who came in through the smoke-hole of her tent. It then narrates Temüjin's rise to become Genghis Khan. It survives mainly in a Chinese-character transcription made in the Ming period.",
+   "alternatives": [
+    {
+     "label": "History or epic",
+     "text": "Historians use it as a key source on Genghis Khan's life while recognising its epic, partisan and legendary layers."
+    },
+    {
+     "label": "Light-being ancestor",
+     "text": "Ancient-astronaut writers have read the shining visitor of Alan Gua as an extraterrestrial; scholars see a sky-born royal origin myth common to Inner Asian dynasties."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Secret History of the Mongols",
+     "url": "https://en.wikipedia.org/wiki/Secret_History_of_the_Mongols",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/SecretHistoryMongols1947.jpg/500px-SecretHistoryMongols1947.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:SecretHistoryMongols1947.jpg",
+     "author": "Цэндийн Дамдинсүрэн",
+     "license": "Public domain",
+     "title": "SecretHistoryMongols1947.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "myth-legend"
+   ],
+   "threads": [
+    "sky-beings",
+    "founding-ancestors",
+    "steppe-empires",
+    "mongolia-and-siberia"
+   ]
+  },
+  {
+   "id": "malta-boy",
+   "title": "Mal'ta boy (MA-1)",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -22000,
+   "end": null,
+   "dateNote": "c. 24,000 years ago",
+   "evidenceTypes": [
+    "genetic",
+    "archaeological"
+   ],
+   "mainstream": "The Mal'ta boy is the skeleton of a child buried about 24,000 years ago at Mal'ta near Lake Baikal in Siberia, a site also known for ivory figurines of women and birds. His genome, published in 2013, showed that he belonged to a population related to western Eurasians and that this population contributed an estimated 14–38% of the ancestry of Native Americans. The result reshaped models of how the Americas were peopled.",
+   "alternatives": [
+    {
+     "label": "Western Eurasians in the Americas",
+     "text": "Early fringe readings claimed the genome proved Europeans reached America first; the data show deep shared ancestry in Siberia, not a European migration."
+    },
+    {
+     "label": "Ancient North Eurasians",
+     "text": "Geneticists now call this lineage \"Ancient North Eurasian\" and also find it in later Europeans, linking peoples on both sides of the world."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Upper Palaeolithic Siberian genome reveals dual ancestry of Native Americans",
+     "authors": "Raghavan, M. et al.",
+     "year": 2013,
+     "doi": "10.1038/nature12736",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: Mal'ta–Buret' culture",
+     "url": "https://en.wikipedia.org/wiki/Mal'ta%E2%80%93Buret'_culture",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Engraving_of_a_mammoth_on_a_slab_of_mammoth_ivory%2C_from_the_Upper_Paleolithic_Mal%27ta_deposits_at_Lake_Baikal%2C_Siberia.gif/500px-Engraving_of_a_mammoth_on_a_slab_of_mammoth_ivory%2C_from_the_Upper_Paleolithic_Mal%27ta_deposits_at_Lake_Baikal%2C_Siberia.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Engraving_of_a_mammoth_on_a_slab_of_mammoth_ivory,_from_the_Upper_Paleolithic_Mal%27ta_deposits_at_Lake_Baikal,_Siberia.gif",
+     "author": "José-Manuel Benito",
+     "license": "Public domain",
+     "title": "Engraving_of_a_mammoth_on_a_slab_of_mammoth_ivory,_from_the_Upper_Paleolithic_Mal'ta_deposits_at_Lake_Baikal,_Siberia.gif"
+    }
+   ],
+   "categories": [
+    "science-cosmos",
+    "archaeology"
+   ],
+   "threads": [
+    "changed-understanding",
+    "human-origins",
+    "genetic-migrations",
+    "first-americans",
+    "mongolia-and-siberia"
+   ]
+  },
+  {
+   "id": "orkhon-inscriptions",
+   "title": "Orkhon inscriptions",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 732,
+   "end": null,
+   "dateNote": "732 and 735 CE",
+   "evidenceTypes": [
+    "epigraphic",
+    "textual"
+   ],
+   "mainstream": "The Orkhon inscriptions are memorial stelae erected in the Orkhon Valley of Mongolia in 732 and 735 for the Second Turkic Khaganate prince Kül Tigin and his brother Bilge Khagan. Written in the Old Turkic runiform script (with a Chinese text on one), they are the oldest known extended texts in a Turkic language. Found by Nikolai Yadrintsev's expedition in 1889, the script was deciphered by the Danish linguist Vilhelm Thomsen in 1893.",
+   "alternatives": [
+    {
+     "label": "Origins of the script",
+     "text": "Scholars debate whether the Old Turkic letters derive from Sogdian/Aramaic models, tamga clan signs, or both."
+    },
+    {
+     "label": "Runes of a lost world-empire",
+     "text": "Because the script resembles Germanic runes, some fringe writers have linked the two; linguists treat the resemblance as superficial."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Orkhon inscriptions",
+     "url": "https://en.wikipedia.org/wiki/Orkhon_inscriptions",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Kultigin_Monument_of_Orkhon_Inscriptions.jpeg/500px-Kultigin_Monument_of_Orkhon_Inscriptions.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Kultigin_Monument_of_Orkhon_Inscriptions.jpeg",
+     "author": "Vezirtonyukuk",
+     "license": "CC BY-SA 4.0",
+     "title": "Kultigin_Monument_of_Orkhon_Inscriptions.jpeg"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology"
+   ],
+   "threads": [
+    "origins-of-writing",
+    "decipherments",
+    "steppe-empires",
+    "mongolia-and-siberia"
+   ]
+  },
+  {
+   "id": "patomskiy-crater",
+   "title": "Patomskiy crater",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 3,
+   "start": 1700,
+   "end": null,
+   "dateNote": "Formation estimated at c. 300 years ago (dendrochronology)",
+   "evidenceTypes": [
+    "geological"
+   ],
+   "mainstream": "The Patomskiy crater is a cone of broken limestone about 40 m high and 160 m across with a central mound, in the forest of Irkutsk Oblast, Siberia. It was reported in 1949 by the geologist Vadim Kolpakov, and tree-ring studies suggest it formed only about 300 years ago. Local Yakut people called it the 'fire eagle's nest'. Its origin is still debated.",
+   "alternatives": [
+    {
+     "label": "Deep-fluid eruption",
+     "text": "A study by V. S. Antipin and A. M. Fedorov argued from its shape, structure and chemistry that it is volcanic in origin, formed by a rapid outburst of deep fluids and gases (CO2, water, CO, hydrogen)."
+    },
+    {
+     "label": "Meteorite or Tunguska fragment",
+     "text": "Early theories proposed an impact, including a fragment linked to Tunguska; the lack of meteoritic material makes this unlikely."
+    },
+    {
+     "label": "Alien or secret-weapon site",
+     "text": "Popular media have suggested alien activity or Soviet secrets; no evidence supports these ideas."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Patomskiy crater",
+     "url": "https://en.wikipedia.org/wiki/Patomskiy_crater",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Patomsky_crater.jpg/500px-Patomsky_crater.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Patomsky_crater.jpg",
+     "author": "Dmitry Semenov",
+     "license": "CC BY 4.0",
+     "title": "Patomsky_crater.jpg"
+    }
+   ],
+   "categories": [
+    "anomalies",
+    "science-cosmos"
+   ],
+   "threads": [
+    "cosmic-impacts",
+    "mongolia-and-siberia"
+   ]
+  },
+  {
+   "id": "andree-balloon",
+   "title": "Andrée's Arctic balloon expedition",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1897,
+   "end": 1930,
+   "evidenceTypes": [
+    "textual",
+    "photographic",
+    "archaeological"
+   ],
+   "mainstream": "On 11 July 1897 Salomon August Andrée, Nils Strindberg and Knut Frænkel launched the hydrogen balloon Örnen ('Eagle') from Svalbard to try to fly over the North Pole. The balloon came down on the pack ice after about two days, and the men trekked for months before dying on Kvitøya (White Island). Their camp, diaries and exposed film were found by chance by the Bratvaag expedition in 1930, and the photographs were developed, revealing images of the doomed journey.",
+   "alternatives": [
+    {
+     "label": "Cause of death",
+     "text": "Proposals include trichinosis from polar-bear meat, cold, vitamin A poisoning, carbon-monoxide poisoning and exhaustion; none is proven."
+    },
+    {
+     "label": "Hero or reckless venture",
+     "text": "The men were mourned as national heroes in Sweden; later historians stress the known leakiness of the balloon and Andrée's optimism."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Andrée's Arctic balloon expedition",
+     "url": "https://en.wikipedia.org/wiki/Andr%C3%A9e's_Arctic_balloon_expedition",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Eagle-crashed.jpg/500px-Eagle-crashed.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Eagle-crashed.jpg",
+     "author": "Nils Strindberg",
+     "license": "Public domain",
+     "title": "Eagle-crashed.jpg"
+    }
+   ],
+   "categories": [
+    "history"
+   ],
+   "threads": [
+    "disappearances",
+    "lost-evidence",
+    "polar-mysteries"
+   ]
+  },
+  {
+   "id": "zhokhov-island",
+   "title": "Zhokhov Island Arctic hunters and sled dogs",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 3,
+   "start": -7000,
+   "end": null,
+   "dateNote": "c. 9,000–8,000 years ago (Wikipedia gives occupation from c. 6000 BCE)",
+   "evidenceTypes": [
+    "archaeological",
+    "genetic",
+    "radiocarbon"
+   ],
+   "mainstream": "On Zhokhov Island in the New Siberian Islands, far above the Arctic Circle, archaeologists led by Vladimir Pitulko excavated a Mesolithic camp, about 9,000–8,000 years old, where people hunted polar bears and reindeer. The site preserved remains of dogs, sledge runners and tools. A 2020 genomic study showed that a roughly 9,500-year-old dog from Zhokhov belongs to an Arctic-adapted lineage ancestral to modern sled dogs, suggesting dog sledding is at least 9,500 years old.",
+   "alternatives": [
+    {
+     "label": "Earliest sled dogs",
+     "text": "Most researchers accept the genetic and archaeological case; some caution that sledge use is inferred from parts and dog morphology."
+    },
+    {
+     "label": "A vanished land bridge",
+     "text": "At the time sea levels were lower and Zhokhov was part of a larger landmass; the people are sometimes romanticised as a lost Arctic civilisation, but they were a mobile hunting group."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Arctic-adapted dogs emerged at the Pleistocene–Holocene transition",
+     "authors": "Sinding, M. et al.",
+     "year": 2020,
+     "doi": "10.1126/science.aaz8599",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: Zhokhov Island",
+     "url": "https://en.wikipedia.org/wiki/Zhokhov_Island",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Zhokhov_-_Landsat.jpg/500px-Zhokhov_-_Landsat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Zhokhov_-_Landsat.jpg",
+     "author": "USGS/NASA Landsat Program; cropped by Fenix down",
+     "license": "Public domain",
+     "title": "Zhokhov_-_Landsat.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "science-cosmos"
+   ],
+   "threads": [
+    "vanished-landscapes",
+    "genetic-migrations",
+    "polar-mysteries",
+    "mongolia-and-siberia"
+   ]
+  },
+  {
+   "id": "royal-cemetery-ur",
+   "title": "Royal Cemetery at Ur and Queen Puabi",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": -2600,
+   "end": null,
+   "dateNote": "c. 2600–2500 BCE",
+   "evidenceTypes": [
+    "archaeological",
+    "textual"
+   ],
+   "mainstream": "Leonard Woolley's excavations at Ur in southern Iraq (1922–34) uncovered about 1,800 graves, including some 16 'royal tombs' of around 2600–2500 BCE. Queen Puabi's tomb held an elaborate gold headdress, and the 'Great Death Pit' contained 74 attendants. Treasures included the Standard of Ur and the 'Ram in a Thicket'. CT scans of skulls published by the Penn Museum in 2009 suggest some attendants were killed by blows to the head.",
+   "alternatives": [
+    {
+     "label": "Willing sacrifice or execution",
+     "text": "Woolley pictured attendants drinking poison calmly; newer forensic work points to violent killing, though how widespread it was is debated."
+    },
+    {
+     "label": "Woolley's flood",
+     "text": "Woolley claimed a thick silt layer at Ur was evidence of Noah's Flood; geologists see a local river flood, not a universal one."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Royal Cemetery at Ur",
+     "url": "https://en.wikipedia.org/wiki/Royal_Cemetery_at_Ur",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Puabi",
+     "url": "https://en.wikipedia.org/wiki/Puabi",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Queen_Puabi_with_attendants.jpg/500px-Queen_Puabi_with_attendants.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Queen_Puabi_with_attendants.jpg",
+     "author": "Nic McPhee from Morris, Minnesota, USA",
+     "license": "CC BY-SA 2.0",
+     "title": "Queen_Puabi_with_attendants.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history",
+    "religion"
+   ],
+   "threads": [
+    "flood-myths",
+    "hidden-tombs",
+    "sacred-kingship",
+    "human-sacrifice",
+    "mesopotamia-and-anatolia"
+   ]
+  },
+  {
+   "id": "code-of-hammurabi",
+   "title": "Code of Hammurabi",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": -1754,
+   "end": null,
+   "dateNote": "c. 1755–1750 BCE",
+   "evidenceTypes": [
+    "epigraphic",
+    "textual"
+   ],
+   "mainstream": "The Code of Hammurabi is a Babylonian legal text inscribed around 1755–1750 BCE on a basalt stele that shows King Hammurabi receiving authority from the sun-god Shamash. It contains about 282 rulings, including 'eye for an eye' penalties that varied by social class. The stele was taken to Susa as war booty by an Elamite king in the 12th century BCE and was found there by a French expedition in 1901; it is now in the Louvre.",
+   "alternatives": [
+    {
+     "label": "Law code or royal showcase",
+     "text": "Scholars debate whether it was applied in courts or was a model of royal justice; few surviving court records cite it."
+    },
+    {
+     "label": "The first laws",
+     "text": "It is often called the first law code, but earlier codes such as those of Ur-Nammu and Lipit-Ishtar are known."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Code of Hammurabi",
+     "url": "https://en.wikipedia.org/wiki/Code_of_Hammurabi",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/P1050763_Louvre_code_Hammurabi_face_rwk.JPG/500px-P1050763_Louvre_code_Hammurabi_face_rwk.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:P1050763_Louvre_code_Hammurabi_face_rwk.JPG",
+     "author": "Mbzt",
+     "license": "CC BY 3.0",
+     "title": "P1050763_Louvre_code_Hammurabi_face_rwk.JPG"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology"
+   ],
+   "threads": [
+    "knowledge-and-power",
+    "sacred-kingship",
+    "mesopotamia-and-anatolia"
+   ]
+  },
+  {
+   "id": "kanesh-archives",
+   "title": "Kanesh (Kültepe) merchant archives",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -1950,
+   "end": null,
+   "dateNote": "c. 1950–1750 BCE",
+   "evidenceTypes": [
+    "epigraphic",
+    "archaeological"
+   ],
+   "mainstream": "At Kültepe (ancient Kanesh) in central Turkey, excavations have yielded over 23,000 cuneiform tablets from the houses of Old Assyrian merchants, dating to about 1950–1750 BCE. The letters, contracts and lawsuits record donkey caravans carrying tin and textiles from Assur to Anatolia in exchange for silver and gold, along with family affairs run by women in Assur. Personal names in the texts are the earliest evidence of the Hittite (Nesite) language.",
+   "alternatives": [
+    {
+     "label": "An early market economy",
+     "text": "Some economists see private firms, credit and partnerships; others stress the role of family and state institutions."
+    },
+    {
+     "label": "Lost Anatolian homeland",
+     "text": "The tablets inform debates about the origin of the Hittites and Indo-European languages in Anatolia, which remain unresolved."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Kültepe",
+     "url": "https://en.wikipedia.org/wiki/K%C3%BCltepe",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/K%C3%BCltepeOberstadtPalast.jpg/500px-K%C3%BCltepeOberstadtPalast.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:K%C3%BCltepeOberstadtPalast.jpg",
+     "author": "Klaus-Peter Simon",
+     "license": "CC BY-SA 3.0",
+     "title": "KültepeOberstadtPalast.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology"
+   ],
+   "threads": [
+    "origins-of-writing",
+    "trade-networks",
+    "mesopotamia-and-anatolia"
+   ]
   }
  ]
 }
