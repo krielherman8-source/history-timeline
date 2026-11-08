@@ -47634,6 +47634,522 @@
     "petrified-beings",
     "sleeping-heroes"
    ]
+  },
+  {
+   "id": "ebu-gogo",
+   "title": "Ebu gogo",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": 1700,
+   "end": null,
+   "dateNote": "Folklore; tale set in the 18th century",
+   "evidenceTypes": [
+    "oral tradition"
+   ],
+   "mainstream": "In the folklore of the Nage people of central Flores, Indonesia, the ebu gogo (roughly \"grandparent who eats anything\") were small, hairy, fast-running wild people about 1.5 m tall who murmured in their own language and could repeat human words. In one tale recorded in the 18th-century setting, villagers gave them palm fibre for clothing and then set their cave alight, killing almost all of them. After the small hominin Homo floresiensis was found on Flores in 2003–04, the stories drew global attention as a possible folk memory.",
+   "alternatives": [
+    {
+     "label": "Memory of a real hominin",
+     "text": "The ethnologist Gregory Forth and others suggested ebu gogo tales preserve encounters with Homo floresiensis; this has little mainstream support since the species' last known remains were redated to around 50,000 years ago."
+    },
+    {
+     "label": "Folklore and animals",
+     "text": "Nature reported the legends were traditionally attributed to monkeys; folklorists compare them with little-people stories worldwide, such as the menehune."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Ebu gogo",
+     "url": "https://en.wikipedia.org/wiki/Ebu_gogo",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Homo floresiensis",
+     "url": "https://en.wikipedia.org/wiki/Homo_floresiensis",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Homo_floresiensis_-_facial_approximation_-_color_1.jpg/500px-Homo_floresiensis_-_facial_approximation_-_color_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Homo_floresiensis_-_facial_approximation_-_color_1.jpg",
+     "author": "Cicero Moraes",
+     "license": "CC BY-SA 4.0",
+     "title": "Homo_floresiensis_-_facial_approximation_-_color_1.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "anomalies"
+   ],
+   "threads": [
+    "cryptids",
+    "deep-oral-memory",
+    "giants-and-little-people",
+    "human-origins"
+   ]
+  },
+  {
+   "id": "pink-face-atapuerca",
+   "title": "'Pink': earliest human face in western Europe",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -1300000,
+   "end": null,
+   "dateNote": "c. 1.1–1.4 million years ago; published 2025",
+   "evidenceTypes": [
+    "palaeontological",
+    "archaeological"
+   ],
+   "mainstream": "In March 2025 a team led by Rosa Huguet described ATE7-1, a partial left midface of a human found at Sima del Elefante, Atapuerca (Spain), in layers dated to about 1.1–1.4 million years ago. Nicknamed 'Pink', it is the earliest human face known from western Europe. Its flatter, less projecting features differ from the later Homo antecessor found nearby, so the authors provisionally assigned it to Homo affinis erectus.",
+   "alternatives": [
+    {
+     "label": "Several early populations",
+     "text": "The authors argue Europe was entered by more than one human lineage in the Early Pleistocene; others await more fossils before accepting a separate population."
+    },
+    {
+     "label": "Classification open",
+     "text": "The \"aff. erectus\" label signals affinity, not a firm species assignment; future finds may revise it."
+    }
+   ],
+   "changed": "Before 2025 the oldest western European face was Homo antecessor from Gran Dolina (c. 850,000 years ago).",
+   "sources": [
+    {
+     "title": "The earliest human face of Western Europe",
+     "authors": "Huguet, R. et al.",
+     "year": 2025,
+     "doi": "10.1038/s41586-025-08681-0",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: Archaeological site of Atapuerca",
+     "url": "https://en.wikipedia.org/wiki/Archaeological_site_of_Atapuerca",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Homo antecessor",
+     "url": "https://en.wikipedia.org/wiki/Homo_antecessor",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Atapuerca%2C_excavaci%C3%B3n_TE.jpg/500px-Atapuerca%2C_excavaci%C3%B3n_TE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Atapuerca,_excavaci%C3%B3n_TE.jpg",
+     "author": "Malopez 21",
+     "license": "CC BY-SA 4.0",
+     "title": "Atapuerca,_excavación_TE.jpg"
+    }
+   ],
+   "categories": [
+    "science-cosmos",
+    "archaeology"
+   ],
+   "threads": [
+    "changed-understanding",
+    "human-origins"
+   ]
+  },
+  {
+   "id": "mantell-1948",
+   "title": "Mantell UFO incident (1948)",
+   "lane": "history",
+   "status": "debunked",
+   "priority": 2,
+   "start": 1948,
+   "end": null,
+   "evidenceTypes": [
+    "testimonial",
+    "documentary"
+   ],
+   "mainstream": "On 7 January 1948, Captain Thomas F. Mantell, 25, of the Kentucky Air National Guard was sent with other P-51 Mustangs to approach an unidentified object reported over Godman Field, Fort Knox. Climbing past 20,000 feet without adequate oxygen equipment, he lost consciousness and crashed near Franklin, Kentucky, making him the first widely publicised death linked to a UFO chase. Project Blue Book head Edward Ruppelt later concluded he had most probably been chasing a top-secret Skyhook research balloon.",
+   "alternatives": [
+    {
+     "label": "Skyhook balloon",
+     "text": "Tower descriptions of \"a parachute\" or \"an ice cream cone tipped with red\" and an astronomer's report of a balloon with a basket support the Skyhook explanation; an early Project Blue Book explanation blaming Venus was later retracted by J. Allen Hynek."
+    },
+    {
+     "label": "Downed by a craft",
+     "text": "Early UFO writers claimed Mantell was destroyed by an alien ship; the wreck showed no evidence of attack, and hypoxia fully explains the crash."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Mantell UFO incident",
+     "url": "https://en.wikipedia.org/wiki/Mantell_UFO_incident",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Kentucky_National_Guard_portrait_of_Captain_Thomas_F._Mantell_Jr.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Kentucky_National_Guard_portrait_of_Captain_Thomas_F._Mantell_Jr.jpg",
+     "author": "Kentucky National Guard",
+     "license": "Public domain",
+     "title": "Kentucky_National_Guard_portrait_of_Captain_Thomas_F._Mantell_Jr.jpg"
+    }
+   ],
+   "categories": [
+    "aliens-ufo",
+    "history"
+   ],
+   "threads": [
+    "ufo-encounters",
+    "seeing-what-we-expect",
+    "official-ufo-investigations"
+   ]
+  },
+  {
+   "id": "pascagoula-1973",
+   "title": "Pascagoula abduction (1973)",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 1973,
+   "end": null,
+   "evidenceTypes": [
+    "testimonial",
+    "audio recording"
+   ],
+   "mainstream": "On the night of 11 October 1973, Charles Hickson (45) and Calvin Parker (17) reported to the sheriff in Pascagoula, Mississippi, that while fishing on the river they had been taken aboard an oval craft by three creatures with pincer-like hands and examined. Deputies left them alone in a room while secretly recording them, and the two men's private conversation stayed consistent with their story. The case came during a regional flap of UFO reports in the US South and became one of the best-known abduction claims.",
+   "alternatives": [
+    {
+     "label": "Sincere experience",
+     "text": "Investigators noted the men seemed genuinely terrified on the secret tape; a local polygraph examiner concluded Hickson told the truth as he believed it, and Parker published his own account in 2018."
+    },
+    {
+     "label": "Hoax or misperception",
+     "text": "Philip Klass found discrepancies, noted Hickson declined a test by a more experienced examiner, and concluded it was a hoax; polygraphs are in any case unreliable, and others suggest hallucination."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Pascagoula incident",
+     "url": "https://en.wikipedia.org/wiki/Pascagoula_incident",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/East_Pascagoula_River_Light.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:East_Pascagoula_River_Light.JPG",
+     "author": "US LIghthouse Service",
+     "license": "Public domain",
+     "title": "East_Pascagoula_River_Light.JPG"
+    }
+   ],
+   "categories": [
+    "aliens-ufo",
+    "anomalies"
+   ],
+   "threads": [
+    "ufo-encounters",
+    "close-encounters"
+   ]
+  },
+  {
+   "id": "travis-walton-1975",
+   "title": "Travis Walton incident (1975)",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 1975,
+   "end": null,
+   "evidenceTypes": [
+    "testimonial"
+   ],
+   "mainstream": "On 5 November 1975, a logging crew in the Apache–Sitgreaves National Forests near Heber, Arizona, reported that their colleague Travis Walton had walked towards a glowing craft, been struck by a beam of light, and vanished. After a five-day search Walton reappeared, saying he had been taken aboard a flying saucer. His book The Walton Experience (1978) was adapted, with liberties, into the film Fire in the Sky (1993).",
+   "alternatives": [
+    {
+     "label": "Genuine abduction",
+     "text": "Supporters cite the crew's consistent statements and some passed polygraph tests."
+    },
+    {
+     "label": "Hoax for a contract",
+     "text": "Philip Klass and Michael Shermer argued it was a hoax, possibly so the crew could escape penalties for missing a Forest Service contract deadline; in 2021 crew leader Mike Rogers posted that he renounced his status as a witness, without explanation."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Travis Walton incident",
+     "url": "https://en.wikipedia.org/wiki/Travis_Walton_incident",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Travis_Walton_2019_%28cropped%29.jpg/500px-Travis_Walton_2019_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Travis_Walton_2019_(cropped).jpg",
+     "author": "SMG2019",
+     "license": "CC BY-SA 4.0",
+     "title": "Travis_Walton_2019_(cropped).jpg"
+    }
+   ],
+   "categories": [
+    "aliens-ufo",
+    "anomalies"
+   ],
+   "threads": [
+    "ufo-encounters",
+    "close-encounters"
+   ]
+  },
+  {
+   "id": "ohare-2006",
+   "title": "O'Hare Airport UFO sighting (2006)",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 3,
+   "start": 2006,
+   "end": null,
+   "evidenceTypes": [
+    "testimonial",
+    "documentary"
+   ],
+   "mainstream": "At about 4:15 pm on 7 November 2006, a ramp worker pushing back United Airlines Flight 446 at Chicago O'Hare saw a dark grey, silent, disc-shaped object hovering over Gate C-17. About a dozen United employees, including pilots and supervisors, reported it, and some said it shot straight up leaving a clear hole in the clouds. It did not appear on radar, and the Federal Aviation Administration called it a weather phenomenon; the story became public through a Chicago Tribune Freedom of Information request.",
+   "alternatives": [
+    {
+     "label": "Unknown craft",
+     "text": "Witnesses insist it was a solid object, and the airline and FAA initially denied knowing about the reports."
+    },
+    {
+     "label": "Weather or misperception",
+     "text": "Witness accounts disagree on shape, height and movement; sceptics suggest low cloud features such as a hole-punch cloud or a mistaken balloon."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: 2006 O'Hare International Airport UFO sighting",
+     "url": "https://en.wikipedia.org/wiki/2006_O'Hare_International_Airport_UFO_sighting",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/O%27Hare_Concourse_C.jpg/500px-O%27Hare_Concourse_C.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:O%27Hare_Concourse_C.jpg",
+     "author": "[1] Payton Chung] from Chicago",
+     "license": "CC BY 2.0",
+     "title": "O'Hare_Concourse_C.jpg"
+    }
+   ],
+   "categories": [
+    "aliens-ufo",
+    "anomalies"
+   ],
+   "threads": [
+    "ufo-encounters",
+    "seeing-what-we-expect"
+   ]
+  },
+  {
+   "id": "ogopogo",
+   "title": "Ogopogo and n'ha-a-itk",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": 1870,
+   "end": null,
+   "dateNote": "Indigenous tradition; settler sightings from 19th century, name from 1910s–20s",
+   "evidenceTypes": [
+    "oral tradition",
+    "testimonial"
+   ],
+   "mainstream": "Ogopogo is a serpent-like lake monster said to live in Okanagan Lake, British Columbia, a 127 km glacial lake. The sceptic Benjamin Radford notes it is more closely tied to Indigenous tradition than any other lake monster: the Syilx and Secwepemc peoples spoke of n'ha-a-itk (variously translated 'water-demon' or 'sacred creature of the water'), to which small animals were offered for safe crossing of the lake. The name 'Ogopogo' comes from an English music-hall song and was applied in the 1910s–20s; sightings and films have continued ever since.",
+   "alternatives": [
+    {
+     "label": "Unknown animal",
+     "text": "Cryptozoologists propose a surviving primitive whale such as Basilosaurus or a giant eel; no specimen has ever been found."
+    },
+    {
+     "label": "Waves, logs and otters",
+     "text": "Sceptics attribute sightings to boat wakes, floating logs, swimming animals and the expectation created by the legend."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Ogopogo",
+     "url": "https://en.wikipedia.org/wiki/Ogopogo",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/OgoPogo_crop.jpg/500px-OgoPogo_crop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:OgoPogo_crop.jpg",
+     "author": "Hamedog at English Wikipedia; cropped by Beyond My Ken (talk) 18:39, 26 September 2011 (UTC)",
+     "license": "CC BY-SA 3.0",
+     "title": "OgoPogo_crop.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "anomalies"
+   ],
+   "threads": [
+    "cryptids",
+    "serpent-beings",
+    "water-spirits"
+   ]
+  },
+  {
+   "id": "dover-demon",
+   "title": "Dover Demon",
+   "lane": "myth",
+   "status": "disputed",
+   "priority": 3,
+   "start": 1977,
+   "end": null,
+   "evidenceTypes": [
+    "testimonial"
+   ],
+   "mainstream": "On 21–22 April 1977, three teenagers in Dover, Massachusetts, reported seeing a thin creature about 1.2 m tall with a large watermelon-shaped head and glowing eyes. Seventeen-year-old Bill Bartlett drew it and swore he had seen it. The sightings lay along a line over 3 km long, and the cryptozoologist Loren Coleman compared the case with the 1955 Kelly–Hopkinsville encounter.",
+   "alternatives": [
+    {
+     "label": "Animal misidentification",
+     "text": "Explanations include a foal or moose calf; Joe Nickell suggested a snowy owl, which others dispute."
+    },
+    {
+     "label": "Prank",
+     "text": "Police called it \"probably nothing more than a school vacation hoax\", though the witnesses kept to their stories."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Dover Demon",
+     "url": "https://en.wikipedia.org/wiki/Dover_Demon",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Dover_Demon.png/500px-Dover_Demon.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Dover_Demon.png",
+     "author": "Di (they-them)",
+     "license": "CC BY-SA 4.0",
+     "title": "Dover_Demon.png"
+    }
+   ],
+   "categories": [
+    "anomalies",
+    "myth-legend"
+   ],
+   "threads": [
+    "cryptids",
+    "seeing-what-we-expect",
+    "close-encounters"
+   ]
+  },
+  {
+   "id": "calaveras-skull",
+   "title": "Calaveras Skull",
+   "lane": "history",
+   "status": "debunked",
+   "priority": 2,
+   "start": 1866,
+   "end": null,
+   "evidenceTypes": [
+    "archaeological",
+    "radiocarbon"
+   ],
+   "mainstream": "On 25 February 1866, miners in Calaveras County, California, said they had found a human skull 40 m down a shaft beneath a layer of lava. California's state geologist Josiah Whitney declared it proof of Pliocene humans in North America. Miners later said it had been planted as a joke, Bret Harte mocked it in the poem 'To the Pliocene Skull', and radiocarbon dating in 1992 showed it was probably less than 1,000 years old.",
+   "alternatives": [
+    {
+     "label": "Pliocene humans",
+     "text": "Whitney never abandoned his view, and some Theosophists continued to cite the skull as evidence of very ancient humans."
+    },
+    {
+     "label": "A prank on an Easterner",
+     "text": "Several witnesses said miners had planted a skull from a local Native American burial to fool Whitney; this is now the accepted explanation."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Calaveras Skull",
+     "url": "https://en.wikipedia.org/wiki/Calaveras_Skull",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Calaveras_Skull.jpg/500px-Calaveras_Skull.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Calaveras_Skull.jpg",
+     "author": "William Henry Holmes",
+     "license": "Public domain",
+     "title": "Calaveras_Skull.jpg"
+    }
+   ],
+   "categories": [
+    "hoaxes",
+    "archaeology"
+   ],
+   "threads": [
+    "changed-understanding",
+    "hoaxes-exposed",
+    "first-americans",
+    "out-of-place-artifacts"
+   ]
+  },
+  {
+   "id": "kinderhook-plates",
+   "title": "Kinderhook plates",
+   "lane": "history",
+   "status": "debunked",
+   "priority": 2,
+   "start": 1843,
+   "end": null,
+   "evidenceTypes": [
+    "archaeological",
+    "textual"
+   ],
+   "mainstream": "In 1843 six small, bell-shaped brass plates engraved with strange characters were 'discovered' in a mound near Kinderhook, Illinois, and shown to Joseph Smith, founder of the Latter Day Saint movement, who said they were ancient and translated part of them. In 1879 Wilburn Fugate wrote that he and two other men had made the plates using acid and beeswax to test or mock Smith. Testing of the surviving plate in 1980 confirmed it was a 19th-century creation.",
+   "alternatives": [
+    {
+     "label": "Ancient record",
+     "text": "Some early Latter Day Saints regarded the plates as an ancient record; the LDS Church defended them until 1981."
+    },
+    {
+     "label": "Hoax",
+     "text": "The 1980 tests support Fugate's confession."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Kinderhook plates",
+     "url": "https://en.wikipedia.org/wiki/Kinderhook_plates",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Kinderhook_plates.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Kinderhook_plates.png",
+     "author": "Unknown",
+     "license": "Public domain",
+     "title": "Kinderhook_plates.png"
+    }
+   ],
+   "categories": [
+    "hoaxes",
+    "religion"
+   ],
+   "threads": [
+    "hoaxes-exposed",
+    "forged-documents",
+    "out-of-place-artifacts"
+   ]
   }
  ]
 }
