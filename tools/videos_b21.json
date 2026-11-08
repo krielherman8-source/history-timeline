@@ -1,0 +1,98 @@
+{
+ "tiya-stelae": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=8nxXHjp63QA",
+  "title": "Tiya (UNESCO/NHK)",
+  "channel": "UNESCO"
+ },
+ "ambohimanga": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=4WLWiG3x6fU",
+  "title": "Royal Hill of Ambohimanga, Madagascar | Africa’s Cultural Landmarks",
+  "channel": "The Met"
+ },
+ "secret-history-mongols": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=1I8ylbyuTss",
+  "title": "Who was Genghis Khan? (Full Episode) | Secret History of the Mongols | National Geographic",
+  "channel": "National Geographic"
+ },
+ "code-of-hammurabi": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=JO9YxZYd0qY",
+  "title": "The Law Code Stele of King Hammurabi",
+  "channel": "Smarthistory"
+ },
+ "messinian-zanclean": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=HooZ84rpovQ",
+  "title": "That Time the Mediterranean Sea Disappeared",
+  "channel": "PBS Eons"
+ },
+ "petm": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=ldLBoErAhz4",
+  "title": "The Last Time the Globe Warmed",
+  "channel": "PBS Eons"
+ },
+ "ebu-gogo": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=mqUrXWqMTBc",
+  "title": "Are These People the Descendants of Real Life Hobbits? | Mystery of the Human Hobbit | BBC Studios",
+  "channel": "BBC Studios"
+ },
+ "fasil-ghebbi": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=ikILoXR63Ec",
+  "title": "Fasil Ghebbi, Gondar Region (UNESCO/NHK)",
+  "channel": "UNESCO"
+ },
+ "queen-gudit": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=A4OSEpexs_Q",
+  "title": "The Rise Of Aksum - History Of Africa With Zeinab Badawi [Episode 5]",
+  "channel": "BBC News Africa"
+ },
+ "famadihana": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=RiTRq8DqNNs",
+  "title": "Taking dead bodies for a dance in Madagascar - BBC News",
+  "channel": "BBC News"
+ },
+ "hagia-sophia": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=XfpusWEd2jE",
+  "title": "Hagia Sophia, Istanbul",
+  "channel": "Smarthistory"
+ },
+ "fall-of-constantinople": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=MNMoi5Af1SY",
+  "title": "The city of walls: Constantinople - Lars Brownworth",
+  "channel": "TED-Ed"
+ },
+ "royal-cemetery-ur": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=ZJm7Qgef3ks",
+  "title": "Great Lyre from the \"King's Grave,\" c. 2650-2550 B.C.E.",
+  "channel": "Smarthistory"
+ },
+ "nemrut-dag": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=GZwQi7mZAdo",
+  "title": "Nemrut Dağ (UNESCO/NHK)",
+  "channel": "UNESCO"
+ },
+ "prambanan": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=_onpsWOkhq0",
+  "title": "Prambanan Temple Compounds (UNESCO/NHK)",
+  "channel": "UNESCO"
+ },
+ "pink-face-atapuerca": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=g5gMuMJYe60",
+  "title": "Archaeological Site of Atapuerca (UNESCO/NHK)",
+  "channel": "UNESCO"
+ }
+}
