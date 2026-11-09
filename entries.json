@@ -527,7 +527,8 @@
     "archaeology"
    ],
    "threads": [
-    "first-art"
+    "first-art",
+    "island-southeast-asia"
    ]
   },
   {
@@ -6463,7 +6464,8 @@
    ],
    "threads": [
     "giant-monuments",
-    "southeast-asian-kingdoms"
+    "southeast-asian-kingdoms",
+    "island-southeast-asia"
    ]
   },
   {
@@ -6598,7 +6600,8 @@
     "deep-oral-memory",
     "giants-and-little-people",
     "human-origins",
-    "denisovan-world"
+    "denisovan-world",
+    "island-southeast-asia"
    ]
   },
   {
@@ -6780,7 +6783,8 @@
     "changed-understanding",
     "genetic-migrations",
     "first-americans",
-    "native-north-america"
+    "native-north-america",
+    "pacific-northwest"
    ]
   },
   {
@@ -6905,7 +6909,8 @@
     "changed-understanding",
     "stories-proven-true",
     "deep-oral-memory",
-    "earthquake-lore"
+    "earthquake-lore",
+    "pacific-northwest"
    ]
   },
   {
@@ -7672,7 +7677,8 @@
    ],
    "threads": [
     "serpent-beings",
-    "sky-omens"
+    "sky-omens",
+    "island-southeast-asia"
    ]
   },
   {
@@ -11642,7 +11648,8 @@
    "threads": [
     "changed-understanding",
     "ancient-astronomy",
-    "origins-of-writing"
+    "origins-of-writing",
+    "island-southeast-asia"
    ]
   },
   {
@@ -12756,7 +12763,8 @@
     "deep-oral-memory",
     "serpent-beings",
     "giant-birds",
-    "native-north-america"
+    "native-north-america",
+    "pacific-northwest"
    ]
   },
   {
@@ -15484,7 +15492,8 @@
     "changed-understanding",
     "giants-and-little-people",
     "ocean-voyagers",
-    "human-origins"
+    "human-origins",
+    "island-southeast-asia"
    ]
   },
   {
@@ -16919,7 +16928,8 @@
     "ocean-voyagers",
     "civilisation-collapses",
     "trade-networks",
-    "southeast-asian-kingdoms"
+    "southeast-asian-kingdoms",
+    "island-southeast-asia"
    ]
   },
   {
@@ -16970,7 +16980,8 @@
    ],
    "threads": [
     "cryptids",
-    "giants-and-little-people"
+    "giants-and-little-people",
+    "island-southeast-asia"
    ]
   },
   {
@@ -17029,7 +17040,8 @@
     "myth-legend"
    ],
    "threads": [
-    "shapeshifters"
+    "shapeshifters",
+    "island-southeast-asia"
    ]
   },
   {
@@ -18622,7 +18634,8 @@
     "deep-oral-memory",
     "giants-and-little-people",
     "disappearances",
-    "genetic-migrations"
+    "genetic-migrations",
+    "arctic-peoples"
    ]
   },
   {
@@ -18677,7 +18690,8 @@
    "threads": [
     "otherworld-visits",
     "underground-worlds",
-    "altered-states"
+    "altered-states",
+    "arctic-peoples"
    ]
   },
   {
@@ -18748,7 +18762,8 @@
     "stories-proven-true",
     "deep-oral-memory",
     "disappearances",
-    "sea-mysteries"
+    "sea-mysteries",
+    "arctic-peoples"
    ]
   },
   {
@@ -26295,7 +26310,8 @@
    "threads": [
     "sacred-relics",
     "altered-states",
-    "suppressed-beliefs"
+    "suppressed-beliefs",
+    "arctic-peoples"
    ]
   },
   {
@@ -28021,7 +28037,8 @@
     "changed-understanding",
     "lost-continents",
     "vanished-landscapes",
-    "vanished-species"
+    "vanished-species",
+    "arctic-peoples"
    ]
   },
   {
@@ -30163,7 +30180,8 @@
    ],
    "threads": [
     "sacred-kingship",
-    "water-spirits"
+    "water-spirits",
+    "island-southeast-asia"
    ]
   },
   {
@@ -30232,7 +30250,8 @@
    "threads": [
     "civilisation-collapses",
     "sacred-kingship",
-    "trade-networks"
+    "trade-networks",
+    "island-southeast-asia"
    ]
   },
   {
@@ -30301,7 +30320,8 @@
    "threads": [
     "changed-understanding",
     "giant-monuments",
-    "water-engineering"
+    "water-engineering",
+    "island-southeast-asia"
    ]
   },
   {
@@ -36657,7 +36677,8 @@
     "myth-legend"
    ],
    "threads": [
-    "water-spirits"
+    "water-spirits",
+    "arctic-peoples"
    ]
   },
   {
@@ -36693,7 +36714,8 @@
    "threads": [
     "shapeshifters",
     "water-spirits",
-    "native-north-america"
+    "native-north-america",
+    "pacific-northwest"
    ]
   },
   {
@@ -36784,7 +36806,8 @@
    "threads": [
     "creation-myths",
     "shapeshifters",
-    "native-north-america"
+    "native-north-america",
+    "pacific-northwest"
    ]
   },
   {
@@ -36837,7 +36860,8 @@
    "threads": [
     "stories-proven-true",
     "vanished-landscapes",
-    "native-north-america"
+    "native-north-america",
+    "pacific-northwest"
    ]
   },
   {
@@ -47707,7 +47731,8 @@
    "threads": [
     "giant-monuments",
     "petrified-beings",
-    "southeast-asian-kingdoms"
+    "southeast-asian-kingdoms",
+    "island-southeast-asia"
    ]
   },
   {
@@ -47762,7 +47787,8 @@
    "threads": [
     "ocean-voyagers",
     "petrified-beings",
-    "sleeping-heroes"
+    "sleeping-heroes",
+    "island-southeast-asia"
    ]
   },
   {
@@ -47824,7 +47850,8 @@
     "cryptids",
     "deep-oral-memory",
     "giants-and-little-people",
-    "human-origins"
+    "human-origins",
+    "island-southeast-asia"
    ]
   },
   {
@@ -49518,6 +49545,615 @@
     "cryptids",
     "shapeshifters",
     "central-america"
+   ]
+  },
+  {
+   "id": "inuksuk",
+   "title": "Inuksuit: the stone messengers of the Arctic",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 3,
+   "start": 1000,
+   "end": null,
+   "dateNote": "Inuit tradition from c. 1000 CE in the eastern Arctic, possibly older; most structures undated",
+   "evidenceTypes": [
+    "archaeological",
+    "oral tradition"
+   ],
+   "mainstream": "An inuksuk (plural inuksuit, 'that which acts in the capacity of a human') is a stone structure built by Inuit and other Arctic peoples across Alaska, Canada and Greenland. Inuksuit served many purposes: marking routes, travel directions and good fishing or hunting places, indicating food caches, and forming lines that helped steer caribou towards hunters. Figures built to resemble a person are distinguished by some Inuit as inunnguat. Enukso Point on Baffin Island, with more than 100 inuksuit, is a National Historic Site of Canada, and an inuksuk appears on the flag of Nunavut.",
+   "alternatives": [
+    {
+     "label": "Practical landmarks",
+     "text": "Most researchers and Inuit knowledge-holders stress their everyday functions as messages and tools in a landscape with few natural markers."
+    },
+    {
+     "label": "Sacred stones",
+     "text": "Some inuksuit are described in Inuit tradition as objects of veneration or associated with spiritual power, and should not be disturbed."
+    },
+    {
+     "label": "How old?",
+     "text": "Inuksuit are very hard to date; some may have been built by earlier Paleo-Inuit (Dorset) peoples, but most individual structures have no secure date."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Inuksuk",
+     "url": "https://en.wikipedia.org/wiki/Inuksuk",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Inuksukjuaq_Foxe-PI_2002-07-26.jpg/500px-Inuksukjuaq_Foxe-PI_2002-07-26.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Inuksukjuaq_Foxe-PI_2002-07-26.jpg",
+     "author": "Ansgar Walk",
+     "license": "CC BY-SA 2.5",
+     "title": "Inuksukjuaq_Foxe-PI_2002-07-26.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology"
+   ],
+   "threads": [
+    "native-north-america",
+    "arctic-peoples"
+   ]
+  },
+  {
+   "id": "sieidi",
+   "title": "Sieidi: the sacred stones of the Sámi",
+   "lane": "myth",
+   "status": "confirmed",
+   "priority": 3,
+   "start": 1000,
+   "end": null,
+   "dateNote": "offerings from c. Iron Age/medieval era; tradition continues",
+   "evidenceTypes": [
+    "archaeological",
+    "oral tradition",
+    "textual"
+   ],
+   "mainstream": "A sieidi (seite) is a natural feature, often an unusually shaped boulder, rock outcrop or carved wooden post, regarded in traditional Sámi religion as a sacred place or being. Offerings such as reindeer antlers, bones, fish and metal objects were left at sieidis to secure luck in hunting, fishing and herding. Archaeologists have studied hundreds of such sites across northern Norway, Sweden, Finland and Russia, some with offerings dating back to the Iron Age and medieval period. During the 17th and 18th-century Christian missions many sieidis were desecrated along with Sámi drums.",
+   "alternatives": [
+    {
+     "label": "Animist landscape",
+     "text": "Scholars describe sieidis as part of a relational worldview in which features of the landscape are persons to be respected and bargained with."
+    },
+    {
+     "label": "Living tradition",
+     "text": "Some Sámi continue to treat sieidis with respect today, and several are protected as cultural heritage sites."
+    },
+    {
+     "label": "Stone-age roots",
+     "text": "Some researchers propose that the tradition continues very ancient northern rock cults; dating individual sites before the Iron Age is difficult and such claims remain hypotheses."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Sieidi",
+     "url": "https://en.wikipedia.org/wiki/Sieidi",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Ancient Sámi religion",
+     "url": "https://en.wikipedia.org/wiki/Ancient_S%C3%A1mi_religion",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Sieidi_-_Norja_2009_05_P1080294.JPG/500px-Sieidi_-_Norja_2009_05_P1080294.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Sieidi_-_Norja_2009_05_P1080294.JPG",
+     "author": "Ximonic, Simo Räsänen",
+     "license": "CC BY 2.5",
+     "title": "Sieidi_-_Norja_2009_05_P1080294.JPG"
+    }
+   ],
+   "categories": [
+    "religion",
+    "myth-legend",
+    "archaeology"
+   ],
+   "threads": [
+    "suppressed-beliefs",
+    "arctic-peoples"
+   ]
+  },
+  {
+   "id": "potlatch-ban",
+   "title": "The potlatch ban (1885–1951)",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1885,
+   "end": 1951,
+   "evidenceTypes": [
+    "textual",
+    "oral tradition"
+   ],
+   "mainstream": "The potlatch is a gift-giving feast of the Indigenous peoples of the Pacific Northwest Coast, such as the Kwakwaka'wakw, Haida, Tlingit, Tsimshian and Coast Salish, used to mark births, marriages, deaths and the transfer of names and rights. Canada amended the Indian Act in 1884 to outlaw the potlatch from 1885, and the ban stayed until 1951. In 1921, after a large potlatch held by Dan Cranmer at Village Island, dozens of people were prosecuted and masks and regalia were confiscated; part of the collection was later returned and is displayed at the U'mista Cultural Centre, opened in 1980.",
+   "alternatives": [
+    {
+     "label": "Colonial view",
+     "text": "Missionaries and officials claimed the potlatch was wasteful and an obstacle to assimilation and Christianisation."
+    },
+    {
+     "label": "Economy and law",
+     "text": "Anthropologists such as Franz Boas and Marcel Mauss presented the potlatch as a sophisticated system of exchange, status and law; Indigenous communities describe it as their governance system."
+    },
+    {
+     "label": "Resistance",
+     "text": "Many communities continued potlatches in secret during the ban, and the confiscated objects became central to modern repatriation movements."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Potlatch",
+     "url": "https://en.wikipedia.org/wiki/Potlatch",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: U'mista Cultural Society",
+     "url": "https://en.wikipedia.org/wiki/U'mista_Cultural_Society",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Wawadit%27la%28Mungo_Martin_House%29_a_Kwakwaka%27wakw_big_house.jpg/500px-Wawadit%27la%28Mungo_Martin_House%29_a_Kwakwaka%27wakw_big_house.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Wawadit%27la(Mungo_Martin_House)_a_Kwakwaka%27wakw_big_house.jpg",
+     "author": "HighInBC Attribute to Ryan Bushby",
+     "license": "CC BY-SA 2.5",
+     "title": "Wawadit'la(Mungo_Martin_House)_a_Kwakwaka'wakw_big_house.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "religion"
+   ],
+   "threads": [
+    "sacred-relics",
+    "erased-from-history",
+    "suppressed-beliefs",
+    "native-north-america",
+    "pacific-northwest"
+   ]
+  },
+  {
+   "id": "sgang-gwaay",
+   "title": "SGang Gwaay: the village of standing poles",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 3,
+   "start": 1860,
+   "end": null,
+   "dateNote": "village abandoned 1880s; UNESCO 1981",
+   "evidenceTypes": [
+    "archaeological",
+    "oral tradition"
+   ],
+   "mainstream": "SGang Gwaay Llanagaay (Ninstints) is a Haida village site on Anthony Island at the southern end of Haida Gwaii, British Columbia. It preserves the remains of longhouses and a rare group of standing carved mortuary and memorial poles. The village was abandoned in the 1880s after epidemics, notably the smallpox epidemic that began in 1862, devastated the Haida. Some poles were removed to museums in 1957; the site was inscribed by UNESCO in 1981 and is cared for by Haida Watchmen.",
+   "alternatives": [
+    {
+     "label": "Let the poles return to the earth",
+     "text": "Haida tradition holds that poles should be allowed to decay naturally; conservation is limited to stabilisation in line with Haida wishes."
+    },
+    {
+     "label": "Museum rescue",
+     "text": "Mid-20th-century museum teams argued that removing poles would preserve the art; the removals are now part of debates about consent and repatriation."
+    },
+    {
+     "label": "Epidemic history",
+     "text": "Historians debate how far the 1862 smallpox outbreak was worsened by colonial authorities expelling Indigenous people from Victoria; the scale of mortality is not disputed."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Ninstints",
+     "url": "https://en.wikipedia.org/wiki/Ninstints",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: 1862 Pacific Northwest smallpox epidemic",
+     "url": "https://en.wikipedia.org/wiki/1862_Pacific_Northwest_smallpox_epidemic",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "UNESCO: SGang Gwaay",
+     "url": "https://whc.unesco.org/en/list/157/",
+     "type": "heritage"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Haida_villagesite.jpg/500px-Haida_villagesite.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Haida_villagesite.jpg",
+     "author": "Grizzly01en at English Wikipedia",
+     "license": "Public domain",
+     "title": "Haida_villagesite.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology"
+   ],
+   "threads": [
+    "plagues-and-epidemics",
+    "native-north-america",
+    "pacific-northwest"
+   ]
+  },
+  {
+   "id": "tabon-caves",
+   "title": "Tabon Caves and the Manunggul Jar",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -45000,
+   "end": null,
+   "dateNote": "Tabon Man tibia c. 47,000 years; Manunggul Jar c. 890–710 BCE",
+   "evidenceTypes": [
+    "archaeological",
+    "radiometric"
+   ],
+   "mainstream": "The Tabon Caves on Lipuun Point, Palawan, in the Philippines, were excavated from 1962 by Robert Fox of the National Museum. Human remains known as Tabon Man include a tibia fragment dated by uranium-series methods to about 47,000 years ago, among the oldest modern human fossils in the Philippines. The nearby Manunggul Cave yielded the Manunggul Jar, a burial jar of about 890–710 BCE whose lid shows two figures in a boat, interpreted as a voyage of souls to the afterlife. The jar is a National Treasure and appears on the Philippine 1000-peso note.",
+   "alternatives": [
+    {
+     "label": "Early sea-crossers",
+     "text": "The age of Tabon Man is used as evidence that modern humans reached the Philippine islands early, crossing water gaps."
+    },
+    {
+     "label": "Dating uncertainty",
+     "text": "Dates for the earliest layers have been revised several times; some fossils are younger than first thought, and the precise antiquity of occupation is still studied."
+    },
+    {
+     "label": "Ship of the dead",
+     "text": "The boat on the Manunggul lid is linked to widespread Austronesian beliefs about the soul travelling by boat, a connection most scholars accept though details are interpretive."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Tabon Caves",
+     "url": "https://en.wikipedia.org/wiki/Tabon_Caves",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Manunggul Jar",
+     "url": "https://en.wikipedia.org/wiki/Manunggul_Jar",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Upper Pleistocene Homo sapiens from the Tabon cave (Palawan, The Philippines): description and dating of new discoveries",
+     "authors": "Détroit, F. et al.",
+     "year": 2004,
+     "doi": "10.1016/j.crpv.2004.06.004",
+     "type": "paper"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Manunggul_Jar.jpg/500px-Manunggul_Jar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Manunggul_Jar.jpg",
+     "author": "Philip Maise",
+     "license": "CC BY-SA 3.0",
+     "title": "Manunggul_Jar.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "science-cosmos"
+   ],
+   "threads": [
+    "ocean-voyagers",
+    "human-origins",
+    "otherworld-visits",
+    "island-southeast-asia"
+   ]
+  },
+  {
+   "id": "code-of-kalantiaw",
+   "title": "Code of Kalantiaw",
+   "lane": "history",
+   "status": "debunked",
+   "priority": 2,
+   "start": 1433,
+   "end": null,
+   "dateNote": "supposed date 1433; forgery published 1913; exposed 1968",
+   "evidenceTypes": [
+    "textual"
+   ],
+   "mainstream": "The Code of Kalantiaw is a supposed legal code issued in 1433 by Datu Kalantiaw, a chieftain on the island of Panay, with harsh penalties for offences. It became a fixture of Philippine textbooks and national memory, with monuments, an award and a historical marker. The text first appeared in 1913 in a manuscript, 'Las antiguas leyendas de la isla de Negros', presented by José E. Marco and attributed to a Spanish friar. In 1968 historian William Henry Scott showed in his doctoral thesis that the documents were fabrications, and later the National Historical Institute recognised Kalantiaw as not historical.",
+   "alternatives": [
+    {
+     "label": "Forgery",
+     "text": "Most historians accept Scott's conclusion that the code was invented in the early 20th century, likely by Marco, who also supplied other doubtful documents."
+    },
+    {
+     "label": "Lingering belief",
+     "text": "Some local traditions and older publications still treat Kalantiaw as real, and the debunking was resisted for years because the code had become a symbol of pre-colonial civilisation."
+    },
+    {
+     "label": "What it hid",
+     "text": "Scholars note the hoax overshadowed real pre-colonial evidence of Philippine law and literacy, such as the Laguna Copperplate Inscription."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Code of Kalantiaw",
+     "url": "https://en.wikipedia.org/wiki/Code_of_Kalantiaw",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: William Henry Scott (historian)",
+     "url": "https://en.wikipedia.org/wiki/William_Henry_Scott_(historian)",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/The_Code_of_Kalantiaw_historical_marker_-_NHCP.jpg/500px-The_Code_of_Kalantiaw_historical_marker_-_NHCP.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:The_Code_of_Kalantiaw_historical_marker_-_NHCP.jpg",
+     "author": "National Historical Commission of the Philippines",
+     "license": "Public domain",
+     "title": "The_Code_of_Kalantiaw_historical_marker_-_NHCP.jpg"
+    }
+   ],
+   "categories": [
+    "hoaxes",
+    "history"
+   ],
+   "threads": [
+    "changed-understanding",
+    "hoaxes-exposed",
+    "forged-documents",
+    "island-southeast-asia"
+   ]
+  },
+  {
+   "id": "java-man",
+   "title": "Java Man and the Trinil engraved shell",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -700000,
+   "end": null,
+   "dateNote": "fossils c. 0.5–1 million years old (debated); found 1891–92",
+   "evidenceTypes": [
+    "archaeological",
+    "paleoanthropological"
+   ],
+   "mainstream": "In 1891–92 the Dutch surgeon Eugène Dubois, who had gone to the Dutch East Indies to search for a 'missing link', found a skullcap, a femur and teeth at Trinil on the Solo River in Java. He named the species Pithecanthropus erectus. The claim was hotly disputed for decades, but the fossils are now classified as Homo erectus. In 2014 a re-examination of freshwater mussel shells from Dubois' collection reported a deliberately engraved zigzag pattern on one shell, dated to about 430,000–540,000 years ago and attributed to Homo erectus (Joordens et al., Nature, 2015).",
+   "alternatives": [
+    {
+     "label": "Missing link",
+     "text": "Dubois presented the find as the link between apes and humans; later finds showed human evolution as a branching bush rather than a single chain."
+    },
+    {
+     "label": "Earliest abstract mark?",
+     "text": "The engraved shell is seen by its authors as the oldest known geometric engraving; some researchers are cautious about what the marks meant to their maker."
+    },
+    {
+     "label": "Age of the fossils",
+     "text": "The age of the Trinil fossils is usually given as roughly 0.5–1 million years, but dating of the Trinil layers remains debated."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Java Man",
+     "url": "https://en.wikipedia.org/wiki/Java_Man",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Homo erectus at Trinil on Java used shells for tool production and engraving",
+     "authors": "Joordens, J. et al.",
+     "year": 2014,
+     "doi": "10.1038/nature13962",
+     "type": "paper"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Pithecanthropus_erectus-PeterMaas_Naturalis.jpg/500px-Pithecanthropus_erectus-PeterMaas_Naturalis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Pithecanthropus_erectus-PeterMaas_Naturalis.jpg",
+     "author": "Peter Maas",
+     "license": "CC BY-SA 3.0",
+     "title": "Pithecanthropus_erectus-PeterMaas_Naturalis.jpg"
+    }
+   ],
+   "categories": [
+    "science-cosmos",
+    "archaeology"
+   ],
+   "threads": [
+    "changed-understanding",
+    "human-origins",
+    "first-art",
+    "island-southeast-asia"
+   ]
+  },
+  {
+   "id": "degei",
+   "title": "Degei, the serpent god of Fiji",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 3,
+   "start": 1000,
+   "end": null,
+   "dateNote": "traditional; recorded from the 19th century",
+   "evidenceTypes": [
+    "oral tradition",
+    "mythological"
+   ],
+   "mainstream": "In Fijian tradition Degei is the great serpent god, a creator and ancestral deity said to live in a cave in the Nakauvadra mountains of northern Viti Levu. In one widely told story Degei found two eggs, kept them warm, and from them hatched the first man and woman. Fijian ancestral traditions also tell of the first chiefs, led by Lutunasobasoba, landing near Vuda. In some traditions the spirits of the dead go to Degei for judgement, and when he turns over in his cave the earth shakes.",
+   "alternatives": [
+    {
+     "label": "Creation and order",
+     "text": "Ethnographers read Degei as a creator and judge who explains the origin of people, crops and the moral order."
+    },
+    {
+     "label": "Earthquake lore",
+     "text": "The idea that Degei's movements cause tremors parallels other myths of a great creature beneath the earth, such as Japan's Namazu; whether these reflect memory of real events is speculative."
+    },
+    {
+     "label": "Migration memory",
+     "text": "Some writers link the Nakauvadra traditions to the arrival of Fiji's first settlers; how far such oral histories preserve real migration detail is debated."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Degei",
+     "url": "https://en.wikipedia.org/wiki/Degei",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Fijian mythology",
+     "url": "https://en.wikipedia.org/wiki/Fijian_mythology",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Kauvadra.jpg/500px-Kauvadra.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Kauvadra.jpg",
+     "author": "Thomas Williams, James Calver",
+     "license": "Public domain",
+     "title": "Kauvadra.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion"
+   ],
+   "threads": [
+    "serpent-beings",
+    "creation-myths",
+    "born-from-eggs",
+    "earthquake-lore",
+    "founding-ancestors"
+   ]
+  },
+  {
+   "id": "marshall-stick-charts",
+   "title": "Marshall Islands stick charts",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1850,
+   "end": null,
+   "dateNote": "documented from the late 19th century; tradition older",
+   "evidenceTypes": [
+    "ethnographic",
+    "oral tradition"
+   ],
+   "mainstream": "Navigators of the Marshall Islands made charts from the midribs of coconut fronds tied together, with shells or coral marking islands. The curved and straight sticks represent ocean swell patterns and the places where swells bend and interfere around islands, which a navigator could feel through the motion of a canoe. There were different types, from teaching charts (mattang) to charts of particular island groups (meddo and rebbelib). The charts were memorised and generally not carried on voyages. Western observers documented them in the late 19th century, after colonial contact.",
+   "alternatives": [
+    {
+     "label": "Unique ocean science",
+     "text": "Scholars regard the charts as a sophisticated model of wave refraction developed without instruments or writing."
+    },
+    {
+     "label": "Secret knowledge",
+     "text": "Navigation knowledge was closely guarded by chiefly families, so much was lost; modern projects work with remaining knowledge-holders to revive it."
+    },
+    {
+     "label": "How old?",
+     "text": "No ancient charts survive, and the age of the practice is unknown; it is generally assumed to be much older than the first Western descriptions."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Marshall Islands stick chart",
+     "url": "https://en.wikipedia.org/wiki/Marshall_Islands_stick_chart",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Micronesian_navigational_chart.jpg/500px-Micronesian_navigational_chart.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Micronesian_navigational_chart.jpg",
+     "author": "Cullen328",
+     "license": "CC BY-SA 3.0",
+     "title": "Micronesian_navigational_chart.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "science-cosmos"
+   ],
+   "threads": [
+    "ocean-voyagers",
+    "pacific-wayfinding"
+   ]
+  },
+  {
+   "id": "toraja-funerals",
+   "title": "Toraja funerals and Ma'nene",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 3,
+   "start": 1600,
+   "end": null,
+   "dateNote": "tradition of uncertain age; documented since the colonial era",
+   "evidenceTypes": [
+    "ethnographic",
+    "archaeological"
+   ],
+   "mainstream": "Among the Toraja of the highlands of South Sulawesi, Indonesia, funerals (rambu solo') are the most important ceremonies of life. A dead person may be kept at home for months or years, treated as 'sick' rather than dead, while the family gathers resources for a funeral involving the sacrifice of water buffalo and pigs. The dead are placed in rock-cut tombs, cliff niches, caves or hanging graves, often watched over by wooden effigies called tau tau. In some areas a ritual called ma'nene is held every few years, in which remains are cleaned and re-dressed.",
+   "alternatives": [
+    {
+     "label": "Cosmology",
+     "text": "Anthropologists link the rites to the traditional religion Aluk To Dolo, in which buffalo help carry the soul to the afterlife, Puya."
+    },
+    {
+     "label": "Tourism and change",
+     "text": "Since the 1970s mass tourism has reshaped how funerals are staged and seen, and many Toraja are now Christian while maintaining the rites."
+    },
+    {
+     "label": "Shared island pattern",
+     "text": "Scholars compare Toraja practices with secondary-burial and ancestor-handling customs elsewhere in island Southeast Asia and Madagascar, such as famadihana, reflecting shared Austronesian roots; the depth of the link is debated."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Torajan people",
+     "url": "https://en.wikipedia.org/wiki/Torajan_people",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Tana Toraja Regency",
+     "url": "https://en.wikipedia.org/wiki/Tana_Toraja_Regency",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Ke%27te%27_Kesu%27_1.jpg/500px-Ke%27te%27_Kesu%27_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Ke%27te%27_Kesu%27_1.jpg",
+     "author": "Jorge Franganillo",
+     "license": "CC BY 2.0",
+     "title": "Ke'te'_Kesu'_1.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "religion"
+   ],
+   "threads": [
+    "mummies",
+    "otherworld-visits",
+    "madagascar-worlds",
+    "island-southeast-asia"
    ]
   }
  ]
