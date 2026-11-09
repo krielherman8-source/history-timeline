@@ -1918,3 +1918,26 @@ addt('hoaxes-exposed','calaveras-skull kinderhook-plates')
 addt('forged-documents','kinderhook-plates')
 addt('first-americans','calaveras-skull')
 addt('out-of-place-artifacts','calaveras-skull kinderhook-plates')
+
+# batch 22 part 1 — dynastic Egypt & the Levant
+C.update({
+'narmer-palette':'archaeology history','diary-of-merer':'archaeology history','amarna-letters':'history archaeology','battle-of-kadesh':'history archaeology',
+'osiris-myth':'myth-legend religion','abu-simbel':'archaeology history science-cosmos','tel-dan-stele':'archaeology history religion','mesha-stele':'archaeology history religion',
+'natufian-culture':'archaeology history','proto-sinaitic-script':'archaeology history'})
+addt('egypt-of-the-pharaohs','narmer-palette diary-of-merer amarna-letters battle-of-kadesh osiris-myth abu-simbel proto-sinaitic-script great-pyramid sphinx-water hatshepsut akhenaten tutankhamun-tomb pharaohs-curse dendera-light saqqara-bird helicopter-hieroglyphs punt cambyses-army nabta-playa thonis-heracleion necho-circumnavigation')
+addt('levant-crossroads','amarna-letters tel-dan-stele mesha-stele natufian-culture proto-sinaitic-script battle-of-kadesh jericho-tower ugarit-baal dead-sea-scrolls copper-scroll baalbek ain-ghazal exodus ark-covenant')
+addt('royal-propaganda','narmer-palette battle-of-kadesh mesha-stele tel-dan-stele cyrus-cylinder behistun ashoka-edicts')
+addt('sacred-kingship','narmer-palette osiris-myth abu-simbel')
+addt('giant-monuments','abu-simbel')
+addt('ancient-astronomy','abu-simbel osiris-myth')
+addt('outsider-builder-claims','diary-of-merer')
+addt('origins-of-writing','proto-sinaitic-script amarna-letters')
+addt('decipherments','proto-sinaitic-script mesha-stele')
+addt('bronze-age-world','amarna-letters battle-of-kadesh')
+addt('changed-understanding','diary-of-merer natufian-culture')
+addt('creation-myths','osiris-myth')
+addt('origin-of-death','osiris-myth')
+addt('divine-punishment','mesha-stele')
+addt('hunter-gatherer-monuments','natufian-culture')
+addt('cosmic-impacts','natufian-culture')
+addt('lost-evidence','mesha-stele')

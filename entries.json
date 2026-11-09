@@ -1186,7 +1186,8 @@
     "anomalies"
    ],
    "threads": [
-    "lost-civilisations"
+    "lost-civilisations",
+    "egypt-of-the-pharaohs"
    ]
   },
   {
@@ -1238,7 +1239,8 @@
     "lost-civilisations"
    ],
    "threads": [
-    "lost-civilisations"
+    "lost-civilisations",
+    "egypt-of-the-pharaohs"
    ]
   },
   {
@@ -1436,7 +1438,8 @@
     "history"
    ],
    "threads": [
-    "abandoned-babies"
+    "abandoned-babies",
+    "levant-crossroads"
    ]
   },
   {
@@ -3607,7 +3610,8 @@
    ],
    "threads": [
     "lost-civilisations",
-    "giant-monuments"
+    "giant-monuments",
+    "levant-crossroads"
    ]
   },
   {
@@ -8573,7 +8577,8 @@
    "threads": [
     "ancient-astronomy",
     "vanished-landscapes",
-    "stone-circles"
+    "stone-circles",
+    "egypt-of-the-pharaohs"
    ]
   },
   {
@@ -8690,7 +8695,8 @@
    "threads": [
     "ocean-voyagers",
     "trade-networks",
-    "horn-of-africa"
+    "horn-of-africa",
+    "egypt-of-the-pharaohs"
    ]
   },
   {
@@ -10936,7 +10942,8 @@
    "threads": [
     "changed-understanding",
     "stories-proven-true",
-    "sunken-cities"
+    "sunken-cities",
+    "egypt-of-the-pharaohs"
    ]
   },
   {
@@ -10992,7 +10999,8 @@
    ],
    "threads": [
     "serpent-beings",
-    "ancient-technology"
+    "ancient-technology",
+    "egypt-of-the-pharaohs"
    ]
   },
   {
@@ -16441,7 +16449,8 @@
     "knowledge-and-power",
     "hidden-scriptures",
     "lost-libraries",
-    "accidental-discoveries"
+    "accidental-discoveries",
+    "levant-crossroads"
    ]
   },
   {
@@ -16504,7 +16513,8 @@
    "threads": [
     "sacred-relics",
     "lost-treasures",
-    "hidden-scriptures"
+    "hidden-scriptures",
+    "levant-crossroads"
    ]
   },
   {
@@ -16637,7 +16647,8 @@
    "threads": [
     "sacred-relics",
     "lost-treasures",
-    "sacred-vessels"
+    "sacred-vessels",
+    "levant-crossroads"
    ]
   },
   {
@@ -17399,7 +17410,8 @@
     "changed-understanding",
     "giant-monuments",
     "ancient-astronomy",
-    "hunter-gatherer-monuments"
+    "hunter-gatherer-monuments",
+    "levant-crossroads"
    ]
   },
   {
@@ -20534,7 +20546,8 @@
     "outsider-builder-claims",
     "lost-evidence",
     "erased-from-history",
-    "sun-cults"
+    "sun-cults",
+    "egypt-of-the-pharaohs"
    ]
   },
   {
@@ -20608,7 +20621,8 @@
     "hoaxes-exposed",
     "hidden-tombs",
     "mummies",
-    "curses-and-hauntings"
+    "curses-and-hauntings",
+    "egypt-of-the-pharaohs"
    ]
   },
   {
@@ -22927,7 +22941,8 @@
    "threads": [
     "changed-understanding",
     "knowledge-and-power",
-    "sacred-kingship"
+    "sacred-kingship",
+    "royal-propaganda"
    ]
   },
   {
@@ -22987,7 +23002,8 @@
    ],
    "threads": [
     "disappearances",
-    "lost-evidence"
+    "lost-evidence",
+    "egypt-of-the-pharaohs"
    ]
   },
   {
@@ -23305,7 +23321,8 @@
     "origins-of-writing",
     "sacred-kingship",
     "impostors-and-lost-heirs",
-    "decipherments"
+    "decipherments",
+    "royal-propaganda"
    ]
   },
   {
@@ -24154,7 +24171,8 @@
    ],
    "threads": [
     "ancient-technology",
-    "ancient-flight"
+    "ancient-flight",
+    "egypt-of-the-pharaohs"
    ]
   },
   {
@@ -24216,7 +24234,8 @@
     "outsider-builder-claims",
     "seeing-what-we-expect",
     "pareidolia",
-    "ancient-flight"
+    "ancient-flight",
+    "egypt-of-the-pharaohs"
    ]
   },
   {
@@ -24289,7 +24308,8 @@
     "mummies",
     "sacred-kingship",
     "warrior-women",
-    "erased-from-history"
+    "erased-from-history",
+    "egypt-of-the-pharaohs"
    ]
   },
   {
@@ -28284,7 +28304,8 @@
     "civilisation-collapses",
     "rediscovered-civilisations",
     "accidental-discoveries",
-    "decipherments"
+    "decipherments",
+    "levant-crossroads"
    ]
   },
   {
@@ -28347,7 +28368,8 @@
    ],
    "threads": [
     "stories-proven-true",
-    "ocean-voyagers"
+    "ocean-voyagers",
+    "egypt-of-the-pharaohs"
    ]
   },
   {
@@ -30834,7 +30856,8 @@
     "secret-societies",
     "erased-from-history",
     "rediscovered-civilisations",
-    "decipherments"
+    "decipherments",
+    "royal-propaganda"
    ]
   },
   {
@@ -36135,7 +36158,8 @@
    "threads": [
     "hidden-tombs",
     "mummies",
-    "curses-and-hauntings"
+    "curses-and-hauntings",
+    "egypt-of-the-pharaohs"
    ]
   },
   {
@@ -45990,7 +46014,8 @@
     "changed-understanding",
     "hunter-gatherer-monuments",
     "first-art",
-    "gobekli-cluster"
+    "gobekli-cluster",
+    "levant-crossroads"
    ]
   },
   {
@@ -48245,6 +48270,634 @@
     "hoaxes-exposed",
     "forged-documents",
     "out-of-place-artifacts"
+   ]
+  },
+  {
+   "id": "narmer-palette",
+   "title": "Narmer Palette",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -3100,
+   "end": null,
+   "dateNote": "c. 3100 BCE (late Predynastic / Dynasty 0)",
+   "evidenceTypes": [
+    "archaeological",
+    "iconographic"
+   ],
+   "mainstream": "The Narmer Palette is a ceremonial siltstone palette about 64 cm tall, found in 1897–98 by James Quibell and Frederick Green in the temple deposit at Hierakonpolis, Upper Egypt, and now in the Egyptian Museum, Cairo. It shows King Narmer wearing the White Crown of Upper Egypt on one face and the Red Crown of Lower Egypt on the other, smiting an enemy and inspecting rows of decapitated captives, with intertwined long-necked 'serpopards' at the centre. It dates to about 3100 BCE and is often presented as one of the earliest images of the unification of Egypt.",
+   "alternatives": [
+    {
+     "label": "Record of a real conquest",
+     "text": "Many Egyptologists read the scenes as commemorating an actual military unification of north and south under Narmer."
+    },
+    {
+     "label": "Ritual and symbolic image",
+     "text": "Others argue the palette shows idealised royal ideology (the king as bringer of order over chaos) rather than a specific historical battle, and that unification was a longer process."
+    },
+    {
+     "label": "Narmer, Menes or Aha",
+     "text": "Classical and later king lists name Menes as Egypt's first king; whether Menes was Narmer, his successor Hor-Aha, or a composite figure is still debated."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Narmer Palette",
+     "url": "https://en.wikipedia.org/wiki/Narmer_Palette",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Narmer",
+     "url": "https://en.wikipedia.org/wiki/Narmer",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Narmer_Palette.jpg/500px-Narmer_Palette.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Narmer_Palette.jpg",
+     "author": "anonymous",
+     "license": "Public domain",
+     "title": "Narmer_Palette.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history"
+   ],
+   "threads": [
+    "sacred-kingship",
+    "egypt-of-the-pharaohs",
+    "royal-propaganda"
+   ]
+  },
+  {
+   "id": "diary-of-merer",
+   "title": "Diary of Merer (Wadi al-Jarf papyri)",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -2560,
+   "end": null,
+   "dateNote": "c. 2560 BCE (year 26–27 of Khufu)",
+   "evidenceTypes": [
+    "textual",
+    "archaeological"
+   ],
+   "mainstream": "In 2013 a French–Egyptian mission led by Pierre Tallet found papyrus fragments at the ancient harbour of Wadi al-Jarf on the Red Sea coast. They date to about year 27 of King Khufu's reign and are the oldest inscribed papyri yet known. The best preserved, the logbook of an official named Merer, records his team of about 40 men moving limestone blocks by boat from the Tura quarries along the Nile and canals to Giza, under the oversight of Ankhhaf, Khufu's half-brother.",
+   "alternatives": [
+    {
+     "label": "Eyewitness to pyramid building",
+     "text": "Most Egyptologists see the diary as direct documentary evidence that Khufu's workforce supplied the Great Pyramid, consistent with the dynastic Egyptian construction of the monument."
+    },
+    {
+     "label": "Only casing stone",
+     "text": "Some alternative writers argue the papyri cover only the transport of fine Tura limestone casing blocks late in the project, and so say nothing on who built or planned the core; mainstream scholars reply that the diary fits a wider body of evidence (workers' town, quarries, tombs of overseers)."
+    },
+    {
+     "label": "Older-structure theories",
+     "text": "Proponents of a much older or lost-civilisation origin for the Giza pyramids regard the diary as evidence of Egyptian work on, or renovation of, the site rather than original construction; this view is speculative and not supported by excavators."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Diary of Merer",
+     "url": "https://en.wikipedia.org/wiki/Diary_of_Merer",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Wadi al-Jarf",
+     "url": "https://en.wikipedia.org/wiki/Wadi_al-Jarf",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/KhufuPyramidCasingStone-BritishMuseum-August19-08.jpg/500px-KhufuPyramidCasingStone-BritishMuseum-August19-08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:KhufuPyramidCasingStone-BritishMuseum-August19-08.jpg",
+     "author": "CaptMondo",
+     "license": "CC BY 2.5",
+     "title": "KhufuPyramidCasingStone-BritishMuseum-August19-08.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history"
+   ],
+   "threads": [
+    "changed-understanding",
+    "outsider-builder-claims",
+    "egypt-of-the-pharaohs"
+   ]
+  },
+  {
+   "id": "amarna-letters",
+   "title": "Amarna letters",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -1360,
+   "end": -1332,
+   "dateNote": "c. 1360–1332 BCE",
+   "evidenceTypes": [
+    "textual",
+    "archaeological"
+   ],
+   "mainstream": "The Amarna letters are an archive of about 380 clay tablets, mostly in Akkadian cuneiform, discovered in 1887 at Tell el-Amarna, the capital founded by Akhenaten. They contain diplomatic correspondence between the Egyptian court (Amenhotep III, Akhenaten and perhaps their successors) and the great kings of Babylonia, Assyria, Mitanni, Hatti and Alashiya (Cyprus), as well as many letters from vassal rulers in Canaan and Syria, dating to about 1360–1332 BCE. The tablets are now spread across museums including the British Museum, Berlin and Cairo.",
+   "alternatives": [
+    {
+     "label": "A Late Bronze Age \"club of great powers\"",
+     "text": "Historians use the letters to reconstruct an international system of royal 'brothers' exchanging gold, brides and gifts before the Late Bronze Age collapse."
+    },
+    {
+     "label": "Habiru and the Hebrews",
+     "text": "Several letters complain about the Habiru (ʿApiru), unsettled groups raiding Canaanite cities. Since the 19th century some have linked the term to the biblical Hebrews; many scholars now treat Habiru as a social label for outsiders rather than an ethnic name, though the debate continues."
+    },
+    {
+     "label": "Biblical-era identifications",
+     "text": "Some writers have attempted to match Amarna rulers such as Abdi-Heba of Jerusalem or Labaya of Shechem with biblical figures; these identifications are speculative and depend on contested chronologies."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Amarna letters",
+     "url": "https://en.wikipedia.org/wiki/Amarna_letters",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: ʿApiru",
+     "url": "https://en.wikipedia.org/wiki/%CA%BFApiru",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Five_Amarna_letters_on_display_at_the_British_Museum%2C_LondonA.jpg/500px-Five_Amarna_letters_on_display_at_the_British_Museum%2C_LondonA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Five_Amarna_letters_on_display_at_the_British_Museum,_LondonA.jpg",
+     "author": "Osama Shukir Muhammed Amin FRCP(Glasg)",
+     "license": "CC BY-SA 4.0",
+     "title": "Five_Amarna_letters_on_display_at_the_British_Museum,_LondonA.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology"
+   ],
+   "threads": [
+    "origins-of-writing",
+    "bronze-age-world",
+    "egypt-of-the-pharaohs",
+    "levant-crossroads"
+   ]
+  },
+  {
+   "id": "battle-of-kadesh",
+   "title": "Battle of Kadesh and the first peace treaty",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -1274,
+   "end": null,
+   "dateNote": "battle c. 1274 BCE; treaty c. 1259 BCE",
+   "evidenceTypes": [
+    "textual",
+    "archaeological",
+    "iconographic"
+   ],
+   "mainstream": "In about 1274 BCE Ramesses II of Egypt and Muwatalli II of the Hittite Empire fought near Kadesh on the Orontes River in Syria, in what is often called the largest chariot battle known. Ramesses had his near-defeat and personal heroism carved on temple walls at Abu Simbel, Karnak, Luxor and the Ramesseum (the 'Poem' and 'Bulletin'). Kadesh stayed in Hittite hands, and about 16 years later the two powers concluded a treaty, preserved in both an Egyptian hieroglyphic version and an Akkadian cuneiform version found at Hattusa, often described as the earliest surviving peace treaty.",
+   "alternatives": [
+    {
+     "label": "Egyptian victory",
+     "text": "Ramesses II's inscriptions present the battle as a great triumph won almost single-handedly by the king with divine help."
+    },
+    {
+     "label": "Hittite strategic success",
+     "text": "Many historians conclude that the Hittites achieved their aims, since Egypt withdrew and Hittite control of Kadesh and Amurru continued; Hittite texts allude to Egyptian defeat."
+    },
+    {
+     "label": "Draw and propaganda",
+     "text": "A common middle view is that the battle was tactically indecisive and that the monumental Egyptian accounts are a classic example of royal propaganda shaping the record."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Battle of Kadesh",
+     "url": "https://en.wikipedia.org/wiki/Battle_of_Kadesh",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Egyptian–Hittite peace treaty",
+     "url": "https://en.wikipedia.org/wiki/Egyptian%E2%80%93Hittite_peace_treaty",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Egypt_Abou_Simbel6.jpg/500px-Egypt_Abou_Simbel6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Egypt_Abou_Simbel6.jpg",
+     "author": "Unknown",
+     "license": "CC BY-SA 3.0",
+     "title": "Egypt_Abou_Simbel6.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology"
+   ],
+   "threads": [
+    "bronze-age-world",
+    "egypt-of-the-pharaohs",
+    "levant-crossroads",
+    "royal-propaganda"
+   ]
+  },
+  {
+   "id": "osiris-myth",
+   "title": "Osiris, Isis, Set and Horus",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 1,
+   "start": -2400,
+   "end": null,
+   "dateNote": "earliest allusions Pyramid Texts c. 24th century BCE; Plutarch c. 100 CE",
+   "evidenceTypes": [
+    "textual",
+    "mythological"
+   ],
+   "mainstream": "The Osiris myth is the best-known story of ancient Egyptian religion. The god-king Osiris is murdered by his brother Set; his sister-wife Isis searches for and restores his body, conceives their son Horus, and Osiris becomes ruler of the dead, while Horus contends with Set for the throne. Allusions appear in the Pyramid Texts of the 24th century BCE, but the fullest continuous narrative is the Greek writer Plutarch's 'On Isis and Osiris' (c. 100 CE), which gives the familiar detail of the body cut into fourteen pieces. The myth underpinned Egyptian kingship (the living king as Horus, the dead king as Osiris) and funerary beliefs for millennia.",
+   "alternatives": [
+    {
+     "label": "Myth of kingship and agriculture",
+     "text": "Egyptologists read it as a charter for royal succession and as linked to the annual Nile flood and the renewal of grain."
+    },
+    {
+     "label": "Dying-and-rising god",
+     "text": "J. G. Frazer grouped Osiris with Adonis, Attis and Tammuz as a 'dying-and-rising god'; later scholars such as Jonathan Z. Smith criticised the category as too broad, and the debate continues."
+    },
+    {
+     "label": "Sky readings",
+     "text": "Ancient texts identify Osiris with the constellation Orion and Isis with Sirius; some alternative writers build on this (for example the Orion correlation idea for Giza), which most Egyptologists regard as speculative."
+    },
+    {
+     "label": "A deified ancient ruler",
+     "text": "Euhemerist readings, from antiquity to some modern alternative authors, suggest Osiris was a real early civiliser king; there is no archaeological evidence for this."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Osiris myth",
+     "url": "https://en.wikipedia.org/wiki/Osiris_myth",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Osiris",
+     "url": "https://en.wikipedia.org/wiki/Osiris",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Jewel_Osiris_family-E_6204-IMG_0641-gradient.jpg/500px-Jewel_Osiris_family-E_6204-IMG_0641-gradient.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Jewel_Osiris_family-E_6204-IMG_0641-gradient.jpg",
+     "author": "Rama",
+     "license": "CC BY-SA 3.0 fr",
+     "title": "Jewel_Osiris_family-E_6204-IMG_0641-gradient.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion"
+   ],
+   "threads": [
+    "creation-myths",
+    "ancient-astronomy",
+    "sacred-kingship",
+    "origin-of-death",
+    "egypt-of-the-pharaohs"
+   ]
+  },
+  {
+   "id": "abu-simbel",
+   "title": "Abu Simbel: the sun temple that was moved",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -1264,
+   "end": -1244,
+   "evidenceTypes": [
+    "archaeological",
+    "astronomical"
+   ],
+   "mainstream": "The two rock-cut temples at Abu Simbel in Nubia were carved for Ramesses II and his queen Nefertari in the 13th century BCE (work is usually dated c. 1264–1244 BCE). Covered by sand, the Great Temple was seen by Johann Ludwig Burckhardt in 1813 and entered by Giovanni Belzoni in 1817. Threatened by Lake Nasser behind the Aswan High Dam, both temples were cut into large blocks and reassembled about 65 m higher and some 200 m back between 1964 and 1968, in a UNESCO-led international campaign. Twice a year, in late February and late October, the rising sun reaches the inner sanctuary and lights statues of Ra-Horakhty, Amun and the deified Ramesses, leaving the underworld-linked Ptah largely in shadow.",
+   "alternatives": [
+    {
+     "label": "Deliberate solar alignment",
+     "text": "Most researchers accept that the axis was oriented so sunlight reaches the sanctuary on particular dates, part of the temple's solar theology."
+    },
+    {
+     "label": "Birthday and coronation dates",
+     "text": "A widely repeated claim says the two dates mark Ramesses II's birthday and coronation; this is a modern popular tradition without known ancient documentation."
+    },
+    {
+     "label": "Did the move shift the effect?",
+     "text": "Reports state that after the relocation the illumination occurs about a day later than before; how precisely the original builders fixed the dates is debated."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Abu Simbel",
+     "url": "https://en.wikipedia.org/wiki/Abu_Simbel",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "UNESCO: Nubian Monuments from Abu Simbel to Philae",
+     "url": "https://whc.unesco.org/en/list/88/",
+     "type": "heritage"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Ramsis%2C_Aswan_Governorate%2C_Egypt_-_panoramio.jpg/500px-Ramsis%2C_Aswan_Governorate%2C_Egypt_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Ramsis,_Aswan_Governorate,_Egypt_-_panoramio.jpg",
+     "author": "youssef_alam",
+     "license": "CC BY 3.0",
+     "title": "Ramsis,_Aswan_Governorate,_Egypt_-_panoramio.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history",
+    "science-cosmos"
+   ],
+   "threads": [
+    "giant-monuments",
+    "ancient-astronomy",
+    "sacred-kingship",
+    "egypt-of-the-pharaohs"
+   ]
+  },
+  {
+   "id": "tel-dan-stele",
+   "title": "Tel Dan stele (\"House of David\")",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": -840,
+   "end": null,
+   "dateNote": "9th century BCE (c. 870–750 range proposed)",
+   "evidenceTypes": [
+    "archaeological",
+    "epigraphic"
+   ],
+   "mainstream": "Fragments of a basalt stele inscribed in Old Aramaic were found in 1993 and 1994 at Tel Dan in northern Israel by Avraham Biran's excavation team. The text, usually dated to the 9th century BCE and attributed to a king of Aram-Damascus (often identified as Hazael), boasts of killing the king of Israel and a king of the 'bytdwd'. Most scholars read this as 'House of David', which would make it the earliest widely accepted reference to David's dynasty outside the Bible. It is displayed at the Israel Museum.",
+   "alternatives": [
+    {
+     "label": "House of David",
+     "text": "The majority view takes bytdwd as the name of the Judahite royal dynasty, supporting the existence of a historical David as dynastic founder, though not the biblical details of his reign."
+    },
+    {
+     "label": "Alternative readings",
+     "text": "A minority of scholars proposed other readings, such as a place name, a temple ('house of the beloved') or a divine epithet."
+    },
+    {
+     "label": "Authenticity questions",
+     "text": "Shortly after discovery some critics suggested the fragments might be forged or planted; this was not widely accepted, as they were found in excavation contexts."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Tel Dan stele",
+     "url": "https://en.wikipedia.org/wiki/Tel_Dan_stele",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Dan (ancient city)",
+     "url": "https://en.wikipedia.org/wiki/Dan_(ancient_city)",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/JRSLM_300116_Tel_Dan_Stele_01.jpg/500px-JRSLM_300116_Tel_Dan_Stele_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:JRSLM_300116_Tel_Dan_Stele_01.jpg",
+     "author": "Oren Rozen",
+     "license": "CC BY-SA 4.0",
+     "title": "JRSLM_300116_Tel_Dan_Stele_01.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history",
+    "religion"
+   ],
+   "threads": [
+    "levant-crossroads",
+    "royal-propaganda"
+   ]
+  },
+  {
+   "id": "mesha-stele",
+   "title": "Mesha Stele (Moabite Stone)",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -840,
+   "end": null,
+   "dateNote": "c. 840 BCE",
+   "evidenceTypes": [
+    "archaeological",
+    "epigraphic",
+    "textual"
+   ],
+   "mainstream": "The Mesha Stele is a basalt inscription of about 34 lines set up around 840 BCE by Mesha, king of Moab, at Dhiban in present-day Jordan. Seen by the missionary F. A. Klein in 1868, it was broken by local people before it could be removed; the text was recovered thanks to a paper squeeze made for Charles Clermont-Ganneau, and the reassembled stone is in the Louvre. Mesha describes Moab's oppression by Omri, king of Israel, and his son, his successful revolt, and his dedication of Israelite spoils to the god Chemosh; it contains one of the earliest known extra-biblical references to Israel and to the god YHWH.",
+   "alternatives": [
+    {
+     "label": "Same war, other side",
+     "text": "Historians compare it with 2 Kings 3, which tells of Mesha's rebellion from the Israelite viewpoint; the accounts differ on outcome and details, illustrating how each side recorded events."
+    },
+    {
+     "label": "A second \"House of David\"?",
+     "text": "In 1994 André Lemaire proposed that a damaged line reads 'House of David'; others have suggested different readings (including a name such as Balak), and the passage remains debated."
+    },
+    {
+     "label": "Divine wrath theology",
+     "text": "The inscription explains defeat as the anger of Chemosh, closely paralleling biblical explanations of Israel's misfortunes, which scholars see as shared regional religious thinking."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Mesha Stele",
+     "url": "https://en.wikipedia.org/wiki/Mesha_Stele",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Moab",
+     "url": "https://en.wikipedia.org/wiki/Moab",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/P1120870_Louvre_st%C3%A8le_de_M%C3%A9sha_AO5066_rwk.JPG/500px-P1120870_Louvre_st%C3%A8le_de_M%C3%A9sha_AO5066_rwk.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:P1120870_Louvre_st%C3%A8le_de_M%C3%A9sha_AO5066_rwk.JPG",
+     "author": "Unknown artistUnknown artist",
+     "license": "CC BY 3.0",
+     "title": "P1120870_Louvre_stèle_de_Mésha_AO5066_rwk.JPG"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history",
+    "religion"
+   ],
+   "threads": [
+    "lost-evidence",
+    "divine-punishment",
+    "decipherments",
+    "levant-crossroads",
+    "royal-propaganda"
+   ]
+  },
+  {
+   "id": "natufian-culture",
+   "title": "Natufians: the last hunter-gatherers before farming",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -13000,
+   "end": -9500,
+   "dateNote": "c. 15,000–11,500 years ago",
+   "evidenceTypes": [
+    "archaeological",
+    "radiocarbon"
+   ],
+   "mainstream": "The Natufian culture flourished in the Levant from roughly 15,000 to 11,500 years ago. Natufians lived in semi-permanent villages of round stone houses, harvested wild cereals with sickles, buried their dead beneath their homes (sometimes with dogs or puppies, as at Ain Mallaha) and produced early decorated art. Residues from Raqefet Cave in Israel have been interpreted as evidence of beer-like brewing about 13,000 years ago. Many archaeologists see the Natufians as the bridge between foraging and the first farming communities of the Neolithic.",
+   "alternatives": [
+    {
+     "label": "Climate push",
+     "text": "A long-standing view links the Younger Dryas cold spell (c. 12,900–11,700 years ago) to stresses that encouraged Natufians to cultivate cereals; others argue the transition was gradual and driven by social factors."
+    },
+    {
+     "label": "Feasting and beer first",
+     "text": "Some researchers suggest feasting and brewing, rather than bread, helped motivate early cereal cultivation; this is debated."
+    },
+    {
+     "label": "Abu Hureyra and a cosmic impact",
+     "text": "Proponents of the Younger Dryas impact hypothesis argue that melted glass and other markers at Abu Hureyra in Syria record an airburst affecting a late Natufian–early farming village (Moore et al. 2020); critics dispute both the evidence and its interpretation."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Natufian culture",
+     "url": "https://en.wikipedia.org/wiki/Natufian_culture",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Tell Abu Hureyra",
+     "url": "https://en.wikipedia.org/wiki/Tell_Abu_Hureyra",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Fermented beverage and food storage in 13,000 y-old stone mortars at Raqefet Cave, Israel: Investigating Natufian ritual feasting",
+     "authors": "Liu, L. et al.",
+     "year": 2018,
+     "doi": "10.1016/j.jasrep.2018.08.008",
+     "type": "paper"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/NatufianSpread.svg/500px-NatufianSpread.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:NatufianSpread.svg",
+     "author": "Crates",
+     "license": "CC BY 3.0",
+     "title": "NatufianSpread.svg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history"
+   ],
+   "threads": [
+    "cosmic-impacts",
+    "changed-understanding",
+    "hunter-gatherer-monuments",
+    "levant-crossroads"
+   ]
+  },
+  {
+   "id": "proto-sinaitic-script",
+   "title": "Proto-Sinaitic: the first alphabet",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -1850,
+   "end": null,
+   "dateNote": "c. 1900–1500 BCE (debated)",
+   "evidenceTypes": [
+    "epigraphic",
+    "archaeological"
+   ],
+   "mainstream": "Short inscriptions found by Flinders Petrie in 1904–05 at the turquoise mines of Serabit el-Khadim in Sinai use signs adapted from Egyptian hieroglyphs to write a Semitic language, each sign standing for the first sound of the word it pictures (an ox head, ʾalp, for ʾ). In 1916 Alan Gardiner read the recurring sequence l-bʿlt, 'to Baʿalat'. Similar inscriptions found at Wadi el-Hol in Egypt in the 1990s by John and Deborah Darnell are dated to around 1900–1800 BCE. This script is regarded as the ancestor of Phoenician and through it of Hebrew, Aramaic, Arabic, Greek and Latin letters.",
+   "alternatives": [
+    {
+     "label": "Invented by workers",
+     "text": "Orly Goldwasser has argued that the alphabet was invented by non-literate Canaanite miners or soldiers who borrowed hieroglyphic pictures without learning Egyptian scribal rules; others favour bilingual scribes or officials as the inventors."
+    },
+    {
+     "label": "Dating disputes",
+     "text": "Dates for the Sinai inscriptions range from the 19th to the 15th century BCE depending on archaeological and palaeographic arguments."
+    },
+    {
+     "label": "Hebrew and Exodus readings",
+     "text": "Some writers, such as Douglas Petrovich, have claimed the inscriptions are early Hebrew and connected to the Israelites in Egypt; most epigraphers reject these readings as unsupported."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Proto-Sinaitic script",
+     "url": "https://en.wikipedia.org/wiki/Proto-Sinaitic_script",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Serabit el-Khadim",
+     "url": "https://en.wikipedia.org/wiki/Serabit_el-Khadim",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Wadi el-Hol inscriptions",
+     "url": "https://en.wikipedia.org/wiki/Wadi_el-Hol_inscriptions",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Ba%60alat.jpg/500px-Ba%60alat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Ba%60alat.jpg",
+     "author": "unknown\n\nUploaded by Kwamikagami at en.wikipedia",
+     "license": "Public domain",
+     "title": "Ba`alat.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history"
+   ],
+   "threads": [
+    "origins-of-writing",
+    "decipherments",
+    "egypt-of-the-pharaohs",
+    "levant-crossroads"
    ]
   }
  ]
