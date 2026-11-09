@@ -3045,7 +3045,9 @@
     "science-cosmos",
     "anomalies"
    ],
-   "threads": []
+   "threads": [
+    "nuclear-age"
+   ]
   },
   {
    "id": "nazca-lines",
@@ -5774,7 +5776,8 @@
    ],
    "threads": [
     "cosmic-impacts",
-    "cold-war-secrets"
+    "cold-war-secrets",
+    "nuclear-age"
    ]
   },
   {
@@ -29656,7 +29659,8 @@
    "threads": [
     "ancient-technology",
     "knowledge-and-power",
-    "cold-war-secrets"
+    "cold-war-secrets",
+    "nuclear-age"
    ]
   },
   {
@@ -32781,7 +32785,8 @@
     "mysterious-lights",
     "space-weather",
     "space-race",
-    "cold-war-secrets"
+    "cold-war-secrets",
+    "nuclear-age"
    ]
   },
   {
@@ -36555,7 +36560,8 @@
     "science-cosmos"
    ],
    "threads": [
-    "cold-war-secrets"
+    "cold-war-secrets",
+    "nuclear-age"
    ]
   },
   {
@@ -50154,6 +50160,634 @@
     "otherworld-visits",
     "madagascar-worlds",
     "island-southeast-asia"
+   ]
+  },
+  {
+   "id": "flannan-isles-1900",
+   "title": "The Flannan Isles lighthouse keepers (1900)",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 1900,
+   "end": null,
+   "dateNote": "keepers vanished c. 15 December 1900; discovered 26 December",
+   "evidenceTypes": [
+    "textual"
+   ],
+   "mainstream": "On 26 December 1900 the relief vessel Hesperus reached the lighthouse on Eilean Mòr in the remote Flannan Isles, west of the Outer Hebrides, and found it deserted. The three keepers, James Ducat, Thomas Marshall and Donald MacArthur, had vanished; the light had not been seen since mid-December. Investigator Robert Muirhead of the Northern Lighthouse Board found storm damage at the west landing and concluded the men had probably been swept away by an exceptionally large wave while securing equipment. No bodies were found.",
+   "alternatives": [
+    {
+     "label": "Freak wave",
+     "text": "The official explanation, still favoured by most researchers, is that a large wave or surge struck the men at the west landing during or after a storm."
+    },
+    {
+     "label": "Murder or madness",
+     "text": "Some writers have suggested one keeper killed the others or that a dispute ended in tragedy; there is no direct evidence for this."
+    },
+    {
+     "label": "Embellished legend",
+     "text": "Wilfrid Wilson Gibson's 1912 poem 'Flannan Isle' and later retellings added details such as an untouched meal and an overturned chair, and dramatic logbook entries that historians consider fictitious; stories of sea serpents, ghosts or abduction belong to this later legend."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Flannan Isles Lighthouse",
+     "url": "https://en.wikipedia.org/wiki/Flannan_Isles_Lighthouse",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Flannan Isles",
+     "url": "https://en.wikipedia.org/wiki/Flannan_Isles",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/St._Flannan%27s_Cell_and_Flannan_Isles_Lighthouse_-_geograph.org.uk_-_623920.jpg/500px-St._Flannan%27s_Cell_and_Flannan_Isles_Lighthouse_-_geograph.org.uk_-_623920.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:St._Flannan%27s_Cell_and_Flannan_Isles_Lighthouse_-_geograph.org.uk_-_623920.jpg",
+     "author": "JJM",
+     "license": "CC BY-SA 2.0",
+     "title": "St._Flannan's_Cell_and_Flannan_Isles_Lighthouse_-_geograph.org.uk_-_623920.jpg"
+    }
+   ],
+   "categories": [
+    "anomalies",
+    "history"
+   ],
+   "threads": [
+    "disappearances",
+    "sea-mysteries",
+    "modern-legends"
+   ]
+  },
+  {
+   "id": "mad-gasser-mattoon",
+   "title": "The Mad Gasser of Mattoon (1944)",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 3,
+   "start": 1944,
+   "end": null,
+   "dateNote": "31 August–mid-September 1944",
+   "evidenceTypes": [
+    "textual",
+    "newspaper reports"
+   ],
+   "mainstream": "In late August and September 1944, residents of Mattoon, Illinois, reported that a prowler was spraying a sweet-smelling gas into their homes at night, causing nausea, dizziness and temporary paralysis. Dozens of incidents were reported and local newspapers gave them sensational coverage. Police found no culprit and no trace of a gas, and officials concluded the episode was largely a case of mass hysteria; the reports stopped within a few weeks. A similar 'gasser' scare had occurred in Botetourt County, Virginia, in 1933–34.",
+   "alternatives": [
+    {
+     "label": "Mass hysteria",
+     "text": "Psychologist Donald M. Johnson's 1945 study argued that newspaper coverage spread anxiety and that symptoms followed the reports, a classic case study of collective behaviour."
+    },
+    {
+     "label": "A real attacker",
+     "text": "Some later researchers, including author Scott Maruna, have proposed a real perpetrator, such as a local man with chemistry training; these identifications are speculative."
+    },
+    {
+     "label": "Industrial fumes",
+     "text": "Others suggest that pollution from local chemical plants could have triggered some genuine symptoms, which fear then multiplied."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Mad Gasser of Mattoon",
+     "url": "https://en.wikipedia.org/wiki/Mad_Gasser_of_Mattoon",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "The \"phantom anesthetist\" of Mattoon: a field study of mass hysteria.",
+     "authors": "Johnson, D.",
+     "year": 1945,
+     "doi": "10.1037/h0062339",
+     "type": "paper"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Starr_Hotel_in_Mattoon.jpg/500px-Starr_Hotel_in_Mattoon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Starr_Hotel_in_Mattoon.jpg",
+     "author": "Nyttend",
+     "license": "Public domain",
+     "title": "Starr_Hotel_in_Mattoon.jpg"
+    }
+   ],
+   "categories": [
+    "anomalies",
+    "history"
+   ],
+   "threads": [
+    "collective-experiences",
+    "monster-panics",
+    "seeing-what-we-expect",
+    "modern-legends"
+   ]
+  },
+  {
+   "id": "ghost-rockets-1946",
+   "title": "The ghost rockets of Scandinavia (1946)",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 1946,
+   "end": null,
+   "dateNote": "mainly May–December 1946",
+   "evidenceTypes": [
+    "textual",
+    "military reports",
+    "eyewitness"
+   ],
+   "mainstream": "In 1946 people in Sweden, Finland and other Nordic countries reported rocket- or missile-like objects in the sky; about 2,000 sightings were logged between May and December, peaking on 9 and 11 August. On 19 July 1946 witnesses saw an object fall into Lake Kölmjärv in northern Sweden; a military search of the lake found nothing. The Swedish defence staff investigated, fearing Soviet tests of captured German V-weapon technology. Their report concluded that most sightings were explainable as meteors, aircraft and other ordinary phenomena, while a minority remained unexplained.",
+   "alternatives": [
+    {
+     "label": "Soviet missiles",
+     "text": "Early official and press suspicion focused on Soviet tests launched from the former German base at Peenemünde; no evidence of such flights was found."
+    },
+    {
+     "label": "Meteors and misperception",
+     "text": "Investigators found that many reports coincided with meteor showers and that heightened attention after the war generated many misidentifications."
+    },
+    {
+     "label": "UFO precursor",
+     "text": "UFO researchers see the ghost rockets as a forerunner of the 1947 'flying saucer' wave and argue that some radar-tracked cases remain unexplained."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Ghost rockets",
+     "url": "https://en.wikipedia.org/wiki/Ghost_rockets",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Ghostrocket_7-09-1946.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Ghostrocket_7-09-1946.jpg",
+     "author": "Erik Reuterswärd",
+     "license": "Public domain",
+     "title": "Ghostrocket_7-09-1946.jpg"
+    }
+   ],
+   "categories": [
+    "aliens-ufo",
+    "anomalies",
+    "history"
+   ],
+   "threads": [
+    "ufo-encounters",
+    "collective-experiences",
+    "mysterious-lights",
+    "seeing-what-we-expect",
+    "cold-war-secrets"
+   ]
+  },
+  {
+   "id": "higgs-boson-2012",
+   "title": "Discovery of the Higgs boson (2012)",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": 2012,
+   "end": null,
+   "evidenceTypes": [
+    "experimental"
+   ],
+   "mainstream": "On 4 July 2012 the ATLAS and CMS experiments at CERN's Large Hadron Collider announced the discovery of a new particle with a mass of about 125 GeV, consistent with the Higgs boson predicted in 1964 by Peter Higgs, François Englert and Robert Brout, and by Gerald Guralnik, Carl Hagen and Tom Kibble. The boson is the visible sign of the Higgs field, which in the Standard Model gives elementary particles their mass. Englert and Higgs received the 2013 Nobel Prize in Physics.",
+   "alternatives": [
+    {
+     "label": "Completing the Standard Model",
+     "text": "Physicists see the discovery as confirming the last missing piece of the Standard Model, while leaving questions such as dark matter unanswered."
+    },
+    {
+     "label": "\"God particle\"",
+     "text": "The nickname comes from the title of Leon Lederman's 1993 book; most physicists, including Higgs, disliked it, and it carries no religious meaning."
+    },
+    {
+     "label": "Doomsday fears",
+     "text": "Before the LHC started, some critics claimed it could create dangerous black holes; safety reviews concluded there was no risk. Separate theoretical work on the possible metastability of the vacuum is speculative and concerns timescales far beyond the age of the universe."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Higgs boson",
+     "url": "https://en.wikipedia.org/wiki/Higgs_boson",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Observation of a new particle in the search for the Standard Model Higgs boson with the ATLAS detector at the LHC",
+     "authors": "Aad, G. et al.",
+     "year": 2012,
+     "doi": "10.1016/j.physletb.2012.08.020",
+     "type": "paper"
+    },
+    {
+     "title": "Observation of a new boson at a mass of 125 GeV with the CMS experiment at the LHC",
+     "authors": "Chatrchyan, S. et al.",
+     "year": 2012,
+     "doi": "10.1016/j.physletb.2012.08.021",
+     "type": "paper"
+    },
+    {
+     "title": "CERN: The Higgs boson",
+     "url": "https://home.cern/science/physics/higgs-boson",
+     "type": "institution"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Candidate_Higgs_Events_in_ATLAS_and_CMS.png/500px-Candidate_Higgs_Events_in_ATLAS_and_CMS.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Candidate_Higgs_Events_in_ATLAS_and_CMS.png",
+     "author": "CERN for the ATLAS and CMS Collaborations",
+     "license": "CC BY-SA 3.0",
+     "title": "Candidate_Higgs_Events_in_ATLAS_and_CMS.png"
+    }
+   ],
+   "categories": [
+    "science-cosmos",
+    "history"
+   ],
+   "threads": [
+    "changed-understanding",
+    "tested-by-experiment"
+   ]
+  },
+  {
+   "id": "h-pylori-ulcers",
+   "title": "Helicobacter pylori: the doctor who drank the bacteria",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1982,
+   "end": null,
+   "dateNote": "observed 1979; cultured 1982; self-experiment 1984; Nobel 2005",
+   "evidenceTypes": [
+    "experimental",
+    "clinical"
+   ],
+   "mainstream": "For most of the 20th century peptic ulcers were blamed on stress, diet and excess stomach acid. In 1979 pathologist Robin Warren in Perth, Australia, observed curved bacteria in stomach biopsies, and with gastroenterologist Barry Marshall he cultured the organism, now called Helicobacter pylori, in 1982. Their 1984 Lancet letter linked it to gastritis and ulcers. To demonstrate the link Marshall drank a culture in 1984 and developed gastritis. Antibiotic treatment of ulcers became standard in the 1990s, and Marshall and Warren won the 2005 Nobel Prize in Physiology or Medicine.",
+   "alternatives": [
+    {
+     "label": "Lone rebels",
+     "text": "The story is often told as two outsiders defeating a sceptical medical establishment."
+    },
+    {
+     "label": "Normal science at work",
+     "text": "Some historians argue acceptance was fairly rapid by medical standards, with a US NIH consensus in 1994, and that scepticism was a reasonable demand for evidence."
+    },
+    {
+     "label": "Forgotten forerunners",
+     "text": "Spiral bacteria in the stomach had been reported by earlier researchers since the late 19th century, but their significance was not pursued."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Helicobacter pylori",
+     "url": "https://en.wikipedia.org/wiki/Helicobacter_pylori",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Barry Marshall",
+     "url": "https://en.wikipedia.org/wiki/Barry_Marshall",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "UNIDENTIFIED CURVED BACILLI IN THE STOMACH OF PATIENTS WITH GASTRITIS AND PEPTIC ULCERATION",
+     "authors": "Marshall, B. et al.",
+     "year": 1984,
+     "doi": "10.1016/S0140-6736(84)91816-6",
+     "type": "paper"
+    },
+    {
+     "title": "Nobel Prize in Physiology or Medicine 2005",
+     "url": "https://www.nobelprize.org/prizes/medicine/2005/summary/",
+     "type": "institution"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Barry_J_Marshall.jpg/500px-Barry_J_Marshall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Barry_J_Marshall.jpg",
+     "author": "WikiEdtingProfile2021",
+     "license": "CC BY-SA 4.0",
+     "title": "Barry_J_Marshall.jpg"
+    }
+   ],
+   "categories": [
+    "science-cosmos",
+    "history"
+   ],
+   "threads": [
+    "changed-understanding",
+    "rejected-pioneers",
+    "accidental-discoveries",
+    "tested-by-experiment"
+   ]
+  },
+  {
+   "id": "champ-lake-champlain",
+   "title": "Champ, the Lake Champlain monster",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 3,
+   "start": 1883,
+   "end": null,
+   "dateNote": "newspaper reports from the 19th century; Mansi photograph 1977",
+   "evidenceTypes": [
+    "eyewitness",
+    "photographic"
+   ],
+   "mainstream": "Champ is the name for a large, long-necked creature reported in Lake Champlain, between New York, Vermont and Quebec. Reports in local newspapers go back to the 19th century, and the best-known image is a photograph taken by Sandra Mansi in 1977 and published in 1981. The states of Vermont and New York passed resolutions in the 1980s protecting the creature, and Champ is a local mascot. It is often claimed that Samuel de Champlain himself saw the monster in 1609; his writings instead describe a large fish, the 'chaousarou', usually identified as a gar.",
+   "alternatives": [
+    {
+     "label": "Misidentification",
+     "text": "Sceptics attribute sightings to large fish such as sturgeon, swimming deer or moose, floating logs and unusual waves (seiches) in the long, deep lake."
+    },
+    {
+     "label": "Unknown animal",
+     "text": "Some cryptozoologists suggest a surviving plesiosaur or an unknown species; biologists note the lake formed after the last Ice Age and could not have harboured a plesiosaur lineage."
+    },
+    {
+     "label": "The Mansi photo",
+     "text": "Analyses of the 1977 photograph have proposed a log or other floating object; Mansi maintained she saw a living animal, and the location was never precisely identified."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Champ (folklore)",
+     "url": "https://en.wikipedia.org/wiki/Champ_(folklore)",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Mansi_Photograph_%28cropped%29.jpg/500px-Mansi_Photograph_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Mansi_Photograph_(cropped).jpg",
+     "author": "Sandra Mansi",
+     "license": "Public domain",
+     "title": "Mansi_Photograph_(cropped).jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "anomalies"
+   ],
+   "threads": [
+    "cryptids",
+    "seeing-what-we-expect",
+    "water-spirits",
+    "anomalous-photos",
+    "myths-about-history"
+   ]
+  },
+  {
+   "id": "vinland-map",
+   "title": "The Vinland Map",
+   "lane": "history",
+   "status": "debunked",
+   "priority": 2,
+   "start": 1957,
+   "end": null,
+   "dateNote": "surfaced 1957; published 1965; declared forgery 2021",
+   "evidenceTypes": [
+    "scientific analysis",
+    "textual"
+   ],
+   "mainstream": "The Vinland Map is a world map on parchment that surfaced in 1957, was bought and later donated to Yale University, and was announced in 1965 as a mid-15th-century map showing 'Vinlanda Insula', the Norse Vinland, west of Greenland, decades before Columbus. In 1973 chemist Walter McCrone's team reported anatase, a form of titanium dioxide first produced commercially in the 1920s, in the ink. In 2021 a full analysis by Yale conservators and scientists found titanium compounds throughout the lines and text, and an altered inscription on the back, and Yale declared the map a forgery. The parchment itself appears to be genuine 15th-century material, probably taken from blank leaves of a real medieval manuscript.",
+   "alternatives": [
+    {
+     "label": "Modern forgery",
+     "text": "The 2021 Yale study concluded 'there is no reasonable doubt' that the map is a 20th-century fake; who made it is unknown."
+    },
+    {
+     "label": "Earlier defenders",
+     "text": "From the 1980s some researchers argued, partly from PIXE analyses, that titanium levels were too low to prove forgery; later work found errors in those measurements."
+    },
+    {
+     "label": "Real Vinland regardless",
+     "text": "The forgery does not affect the archaeological evidence for Norse presence in North America, confirmed at L'Anse aux Meadows from 1960."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Vinland Map",
+     "url": "https://en.wikipedia.org/wiki/Vinland_Map",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Yale News: Analysis unlocks secret of the Vinland Map — it's a fake (2021)",
+     "url": "https://news.yale.edu/2021/09/01/analysis-unlocks-secret-vinland-map-its-fake",
+     "type": "institution"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Vinland_Map_HiRes.jpg/500px-Vinland_Map_HiRes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Vinland_Map_HiRes.jpg",
+     "author": "Yale University Press",
+     "license": "Public domain",
+     "title": "Vinland_Map_HiRes.jpg"
+    }
+   ],
+   "categories": [
+    "hoaxes",
+    "history"
+   ],
+   "threads": [
+    "changed-understanding",
+    "hoaxes-exposed",
+    "forged-documents",
+    "map-mysteries"
+   ]
+  },
+  {
+   "id": "glozel",
+   "title": "Glozel: the field of impossible tablets",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 1924,
+   "end": null,
+   "dateNote": "finds from 1924; commission 1927; TL dates 1970s",
+   "evidenceTypes": [
+    "archaeological",
+    "radiometric",
+    "textual"
+   ],
+   "mainstream": "In 1924 a young farmer, Émile Fradin, and his grandfather found a pit in a field at Glozel, near Vichy in central France. Over the following years thousands of objects emerged: fired clay tablets bearing alphabet-like signs, carved bones and stones, pottery and figurines. Physician Antonin Morlet promoted them as a Neolithic writing system far older than the Phoenician alphabet. An international commission of archaeologists declared the finds inauthentic in 1927, and the affair became one of France's great scientific scandals. Later thermoluminescence dates on some ceramics fell largely in the Iron Age to Roman era, while some bones gave medieval dates.",
+   "alternatives": [
+    {
+     "label": "Hoax",
+     "text": "Many archaeologists regard Glozel as a modern fabrication, perhaps with genuine older objects mixed in; the signs resemble no known script and the stratigraphy was poorly recorded."
+    },
+    {
+     "label": "Genuine but misdated",
+     "text": "Some researchers argue the site may be a genuine Iron Age, Gallo-Roman or medieval deposit, and that the tablets reflect a local use of writing; this remains unproven."
+    },
+    {
+     "label": "Lost prehistoric script",
+     "text": "Supporters in Morlet's tradition and some alternative writers still claim Glozel preserves a forgotten Neolithic alphabet; this is not supported by the dating evidence."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Glozel artifacts",
+     "url": "https://en.wikipedia.org/wiki/Glozel_artifacts",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Glozel-vallon-2008.jpg/500px-Glozel-vallon-2008.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Glozel-vallon-2008.jpg",
+     "author": "V. Mourre / 120",
+     "license": "CC BY-SA 3.0",
+     "title": "Glozel-vallon-2008.jpg"
+    }
+   ],
+   "categories": [
+    "hoaxes",
+    "archaeology",
+    "anomalies"
+   ],
+   "threads": [
+    "hoaxes-exposed",
+    "origins-of-writing",
+    "out-of-place-artifacts"
+   ]
+  },
+  {
+   "id": "chernobyl-1986",
+   "title": "Chernobyl disaster (1986)",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": 1986,
+   "end": null,
+   "evidenceTypes": [
+    "textual",
+    "scientific measurement"
+   ],
+   "mainstream": "In the early hours of 26 April 1986, during a safety test, reactor No. 4 of the Chernobyl nuclear power plant in Soviet Ukraine suffered a power surge, explosions and a graphite fire that released large amounts of radioactive material over Europe. Two workers died on the night and 28 more emergency workers and staff died of acute radiation syndrome within months. The nearby city of Pripyat was evacuated on 27 April, and Sweden's detection of radiation at the Forsmark plant on 28 April helped force Soviet acknowledgement. An exclusion zone around the plant remains. Estimates of eventual cancer deaths vary widely, from about 4,000 among the most exposed groups (WHO-led Chernobyl Forum, 2005) to much higher figures in other studies.",
+   "alternatives": [
+    {
+     "label": "Operator error",
+     "text": "Early Soviet reports in 1986 placed the main blame on operators violating procedures."
+    },
+    {
+     "label": "Design flaws",
+     "text": "The 1992 INSAG-7 review gave greater weight to design features of the RBMK reactor, including its positive void coefficient and the design of the control rods, alongside a weak safety culture."
+    },
+    {
+     "label": "Prophecy and fringe theories",
+     "text": "Because 'chornobyl' is a Ukrainian word for a kind of mugwort, some linked the disaster to the star 'Wormwood' in the Book of Revelation; others proposed that a small earthquake triggered it. Both are speculative and rejected by mainstream investigations."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Chernobyl disaster",
+     "url": "https://en.wikipedia.org/wiki/Chernobyl_disaster",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "WHO: Radiation: the Chernobyl accident",
+     "url": "https://www.who.int/news-room/questions-and-answers/item/radiation-the-chernobyl-accident",
+     "type": "institution"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/IAEA_02790015_%285613115146%29.jpg/500px-IAEA_02790015_%285613115146%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:IAEA_02790015_(5613115146).jpg",
+     "author": "IAEA Imagebank",
+     "license": "CC BY-SA 2.0",
+     "title": "IAEA_02790015_(5613115146).jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "catastrophes",
+    "science-cosmos"
+   ],
+   "threads": [
+    "sky-omens",
+    "cold-war-secrets",
+    "nuclear-age"
+   ]
+  },
+  {
+   "id": "spanish-flu-1918",
+   "title": "The 1918 influenza pandemic (\"Spanish flu\")",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": 1918,
+   "end": 1920,
+   "evidenceTypes": [
+    "textual",
+    "genetic",
+    "epidemiological"
+   ],
+   "mainstream": "The influenza pandemic of 1918–1920, caused by an H1N1 influenza A virus, infected perhaps a third of the world's population and killed an estimated 17 to 50 million people, with some estimates as high as 100 million. It came in several waves, and unusually killed many healthy young adults. It was called 'Spanish' because wartime censorship elsewhere meant neutral Spain's press reported it openly. In 2005 scientists reconstructed the virus from preserved tissue samples, including from a victim buried in Alaskan permafrost.",
+   "alternatives": [
+    {
+     "label": "Kansas origin",
+     "text": "Historian John M. Barry and others have argued the pandemic began in Haskell County, Kansas, and spread through army camps such as Camp Funston in early 1918."
+    },
+    {
+     "label": "European or Asian origin",
+     "text": "Other researchers point to earlier outbreaks in the British army camp at Étaples in France (1916–17) or to northern China, with spread via the Chinese Labour Corps; the origin remains unresolved."
+    },
+    {
+     "label": "Treatment as a factor",
+     "text": "A minority hypothesis (Karen Starko, 2009) proposes that very high doses of aspirin contributed to some deaths; this is debated and not the mainstream explanation of the high mortality."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Spanish flu",
+     "url": "https://en.wikipedia.org/wiki/Spanish_flu",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "1918 Influenza: the Mother of All Pandemics",
+     "authors": "Taubenberger, J. et al.",
+     "year": 2006,
+     "doi": "10.3201/eid1209.05-0979",
+     "type": "paper"
+    },
+    {
+     "title": "Characterization of the Reconstructed 1918 Spanish Influenza Pandemic Virus",
+     "authors": "Tumpey, T. et al.",
+     "year": 2005,
+     "doi": "10.1126/science.1119392",
+     "type": "paper"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Emergency_hospital_during_Influenza_epidemic%2C_Camp_Funston%2C_Kansas_-_NCP_1603.jpg/500px-Emergency_hospital_during_Influenza_epidemic%2C_Camp_Funston%2C_Kansas_-_NCP_1603.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Emergency_hospital_during_Influenza_epidemic,_Camp_Funston,_Kansas_-_NCP_1603.jpg",
+     "author": "Otis Historical Archives, National Museum of Health and Medicine",
+     "license": "Public domain",
+     "title": "Emergency_hospital_during_Influenza_epidemic,_Camp_Funston,_Kansas_-_NCP_1603.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "catastrophes",
+    "science-cosmos"
+   ],
+   "threads": [
+    "plagues-and-epidemics"
    ]
   }
  ]
