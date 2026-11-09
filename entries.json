@@ -3261,7 +3261,8 @@
    ],
    "threads": [
     "lost-civilisations",
-    "map-mysteries"
+    "map-mysteries",
+    "ottoman-and-safavid"
    ]
   },
   {
@@ -9741,7 +9742,8 @@
     "catastrophes"
    ],
    "threads": [
-    "civilisation-collapses"
+    "civilisation-collapses",
+    "central-america"
    ]
   },
   {
@@ -12379,7 +12381,8 @@
    ],
    "threads": [
     "sky-beings",
-    "hidden-tombs"
+    "hidden-tombs",
+    "central-america"
    ]
   },
   {
@@ -12486,7 +12489,8 @@
     "changed-understanding",
     "origins-of-writing",
     "knowledge-and-power",
-    "decipherments"
+    "decipherments",
+    "central-america"
    ]
   },
   {
@@ -12557,7 +12561,8 @@
    "threads": [
     "serpent-beings",
     "ancient-astronomy",
-    "sun-cults"
+    "sun-cults",
+    "central-america"
    ]
   },
   {
@@ -13534,7 +13539,8 @@
    "threads": [
     "lost-civilisations",
     "giant-monuments",
-    "lost-evidence"
+    "lost-evidence",
+    "central-america"
    ]
   },
   {
@@ -18864,7 +18870,8 @@
    ],
    "threads": [
     "flood-myths",
-    "creation-myths"
+    "creation-myths",
+    "caribbean-worlds"
    ]
   },
   {
@@ -18929,7 +18936,8 @@
     "changed-understanding",
     "stories-proven-true",
     "civilisation-collapses",
-    "genetic-migrations"
+    "genetic-migrations",
+    "caribbean-worlds"
    ]
   },
   {
@@ -18998,7 +19006,8 @@
     "sunken-cities",
     "sea-mysteries",
     "divine-punishment",
-    "earthquake-lore"
+    "earthquake-lore",
+    "caribbean-worlds"
    ]
   },
   {
@@ -19049,7 +19058,8 @@
     "history"
    ],
    "threads": [
-    "altered-states"
+    "altered-states",
+    "caribbean-worlds"
    ]
   },
   {
@@ -32353,7 +32363,8 @@
    "threads": [
     "rejected-pioneers",
     "ancient-flight",
-    "modern-legends"
+    "modern-legends",
+    "ottoman-and-safavid"
    ]
   },
   {
@@ -32420,7 +32431,8 @@
     "returning-saviours",
     "millenarian-movements",
     "secret-societies",
-    "suppressed-beliefs"
+    "suppressed-beliefs",
+    "ottoman-and-safavid"
    ]
   },
   {
@@ -32931,7 +32943,8 @@
    "threads": [
     "ufo-encounters",
     "mysterious-lights",
-    "seeing-what-we-expect"
+    "seeing-what-we-expect",
+    "caribbean-worlds"
    ]
   },
   {
@@ -35389,7 +35402,8 @@
    ],
    "threads": [
     "changed-understanding",
-    "giant-monuments"
+    "giant-monuments",
+    "central-america"
    ]
   },
   {
@@ -35446,7 +35460,8 @@
    "threads": [
     "changed-understanding",
     "creation-myths",
-    "sacred-kingship"
+    "sacred-kingship",
+    "central-america"
    ]
   },
   {
@@ -37023,7 +37038,8 @@
     "history"
    ],
    "threads": [
-    "changed-understanding"
+    "changed-understanding",
+    "central-america"
    ]
   },
   {
@@ -37077,7 +37093,8 @@
    ],
    "threads": [
     "otherworld-visits",
-    "human-sacrifice"
+    "human-sacrifice",
+    "central-america"
    ]
   },
   {
@@ -38663,7 +38680,8 @@
    ],
    "threads": [
     "shapeshifters",
-    "mysterious-lights"
+    "mysterious-lights",
+    "caribbean-worlds"
    ]
   },
   {
@@ -38974,7 +38992,8 @@
    ],
    "threads": [
     "sky-omens",
-    "knowledge-and-power"
+    "knowledge-and-power",
+    "caribbean-worlds"
    ]
   },
   {
@@ -39054,7 +39073,8 @@
     "religion"
    ],
    "threads": [
-    "suppressed-beliefs"
+    "suppressed-beliefs",
+    "caribbean-worlds"
    ]
   },
   {
@@ -46548,7 +46568,8 @@
     "civilisation-collapses",
     "sleeping-heroes",
     "holy-wars",
-    "byzantine-world"
+    "byzantine-world",
+    "ottoman-and-safavid"
    ]
   },
   {
@@ -48898,6 +48919,605 @@
     "decipherments",
     "egypt-of-the-pharaohs",
     "levant-crossroads"
+   ]
+  },
+  {
+   "id": "battle-of-vienna-1683",
+   "title": "Siege of Vienna 1683 (and the croissant legend)",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1683,
+   "end": null,
+   "evidenceTypes": [
+    "textual",
+    "archaeological"
+   ],
+   "mainstream": "In July 1683 an Ottoman army under Grand Vizier Kara Mustafa Pasha besieged Vienna, the Habsburg capital. On 12 September a relief army of Polish, Imperial and German forces, led by King Jan III Sobieski of Poland, attacked from the Kahlenberg heights; a massed cavalry charge including the Polish winged hussars broke the besiegers. Kara Mustafa was executed in Belgrade that December on the Sultan's orders, and the defeat opened the long Habsburg counter-offensive in Hungary. The siege also gathered famous legends about the origins of Viennese food and coffee.",
+   "alternatives": [
+    {
+     "label": "Turning point",
+     "text": "Many historians treat 1683 as the moment Ottoman expansion into central Europe ended; others stress that Ottoman decline was gradual and that the empire remained a major power for long after."
+    },
+    {
+     "label": "Croissant legend",
+     "text": "A popular story says bakers invented the crescent-shaped croissant to celebrate the victory; food historians note that crescent-shaped Kipferl breads are older and that the French croissant is a 19th-century development, so the tale is treated as legend."
+    },
+    {
+     "label": "Coffee legend",
+     "text": "Another tradition credits the spy Jerzy Franciszek Kulczycki with opening Vienna's first coffee house using sacks of coffee left by the Ottomans; records show an Armenian, Johannes Diodato, received an early coffee licence in 1685, and the Kulczycki story is regarded as embellished."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Battle of Vienna",
+     "url": "https://en.wikipedia.org/wiki/Battle_of_Vienna",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Jerzy Franciszek Kulczycki",
+     "url": "https://en.wikipedia.org/wiki/Jerzy_Franciszek_Kulczycki",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Anonym_Entsatz_Wien_1683.jpg/500px-Anonym_Entsatz_Wien_1683.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Anonym_Entsatz_Wien_1683.jpg",
+     "author": "Anonymer, zeitgenössischer Maler",
+     "license": "Public domain",
+     "title": "Anonym_Entsatz_Wien_1683.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "myth-legend"
+   ],
+   "threads": [
+    "holy-wars",
+    "ottoman-and-safavid",
+    "myths-about-history"
+   ]
+  },
+  {
+   "id": "devshirme-janissaries",
+   "title": "Devshirme and the Janissaries",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1380,
+   "end": 1826,
+   "dateNote": "Janissaries c. 1363–1826; devshirme c. late 14th–17th centuries",
+   "evidenceTypes": [
+    "textual"
+   ],
+   "mainstream": "The Janissaries were the elite standing infantry of the Ottoman Empire, formed in the 14th century. From about the late 14th century they were recruited largely through the devshirme, a periodic levy of boys, mainly from Christian families in the Balkans, who were converted to Islam, trained and enrolled as the Sultan's servants; the most able rose to the highest offices of state, including grand vizier. The levy faded in the 17th century, and after the Janissaries became a powerful and rebellious political force, Sultan Mahmud II destroyed the corps in the 'Auspicious Incident' of 1826.",
+   "alternatives": [
+    {
+     "label": "Enslavement and forced conversion",
+     "text": "Many historians, and Balkan national traditions, describe the devshirme as a form of slavery that took children from their families and faiths."
+    },
+    {
+     "label": "Route to power",
+     "text": "Other historians emphasise that devshirme recruits could reach great wealth and power, and note accounts of some families seeking to have sons taken; both aspects are documented."
+    },
+    {
+     "label": "Secret brotherhood",
+     "text": "The Janissaries' close ties to the Bektashi Sufi order gave rise to stories of secret rites and heterodox beliefs; the extent of Bektashi influence on the corps is debated."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Devshirme",
+     "url": "https://en.wikipedia.org/wiki/Devshirme",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Janissary",
+     "url": "https://en.wikipedia.org/wiki/Janissary",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Auspicious Incident",
+     "url": "https://en.wikipedia.org/wiki/Auspicious_Incident",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Janissary_Recruitment_in_the_Balkans-Suleymanname.jpg/500px-Janissary_Recruitment_in_the_Balkans-Suleymanname.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Janissary_Recruitment_in_the_Balkans-Suleymanname.jpg",
+     "author": "Ali Amir Beg (fl. 1558)",
+     "license": "Public domain",
+     "title": "Janissary_Recruitment_in_the_Balkans-Suleymanname.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "religion"
+   ],
+   "threads": [
+    "secret-societies",
+    "raised-in-isolation",
+    "ottoman-and-safavid"
+   ]
+  },
+  {
+   "id": "naqsh-e-jahan",
+   "title": "Naqsh-e Jahan Square, Isfahan",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 3,
+   "start": 1598,
+   "end": null,
+   "dateNote": "laid out from 1598; main buildings c. 1602–1630s",
+   "evidenceTypes": [
+    "archaeological",
+    "textual"
+   ],
+   "mainstream": "After Shah Abbas I made Isfahan the Safavid capital in 1598, he laid out the vast Naqsh-e Jahan ('Image of the World') square, about 560 m long. It is framed by the Shah (Imam) Mosque, the Sheikh Lotfollah Mosque, the Ali Qapu palace and the gateway to the Qeysarieh bazaar, bringing royal, religious and commercial power together in one planned space. It was inscribed on UNESCO's World Heritage List in 1979 and is often cited as a high point of Safavid architecture.",
+   "alternatives": [
+    {
+     "label": "Statement of state and faith",
+     "text": "Historians read the square as a deliberate display of Safavid kingship and of Twelver Shiism as the state religion."
+    },
+    {
+     "label": "Commerce first",
+     "text": "Others stress the economic role of the square and bazaar in Abbas's policy of drawing the silk trade and foreign merchants to Isfahan."
+    },
+    {
+     "label": "Acoustic marvels",
+     "text": "Guides often describe multiple echoes under the Shah Mosque dome and the Ali Qapu music room's sound-absorbing niches; such acoustic effects are real but popular claims about their exact design intent are not well documented."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Naqsh-e Jahan Square",
+     "url": "https://en.wikipedia.org/wiki/Naqsh-e_Jahan_Square",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "UNESCO: Meidan Emam, Esfahan",
+     "url": "https://whc.unesco.org/en/list/115/",
+     "type": "heritage"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Naqsh-i_Jahan_Square%2C_Jan._2018.jpg/500px-Naqsh-i_Jahan_Square%2C_Jan._2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Naqsh-i_Jahan_Square,_Jan._2018.jpg",
+     "author": "احمد جمالی مقدم",
+     "license": "CC BY-SA 4.0",
+     "title": "Naqsh-i_Jahan_Square,_Jan._2018.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology",
+    "religion"
+   ],
+   "threads": [
+    "giant-monuments",
+    "strange-sounds",
+    "ottoman-and-safavid"
+   ]
+  },
+  {
+   "id": "shah-ismail",
+   "title": "Shah Ismail I: the boy king worshipped as divine",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1501,
+   "end": 1524,
+   "dateNote": "proclaimed Shah 1501; died 1524",
+   "evidenceTypes": [
+    "textual"
+   ],
+   "mainstream": "Ismail I (1487–1524), head of the Safavid Sufi order, was about 14 when his Qizilbash followers captured Tabriz in 1501 and proclaimed him Shah. He made Twelver Shi'ism the state religion of Iran, shaping the country's religious identity to the present. His Turkic-speaking Qizilbash followers venerated him as a divine or messianic figure, and in poems written under the pen name Khata'i he described himself in exalted, even divine terms. His defeat by the Ottoman Sultan Selim I at Chaldiran in 1514, where Ottoman artillery and firearms proved decisive, damaged the belief in his invincibility.",
+   "alternatives": [
+    {
+     "label": "Messianic leader",
+     "text": "Historians see Ismail's rise as an example of a millenarian movement: devotees believed he was an emanation of God or the forerunner of the Hidden Imam."
+    },
+    {
+     "label": "Political strategy",
+     "text": "Other scholars emphasise his use of religious charisma and enforced conversion to build a state distinct from the Sunni Ottomans."
+    },
+    {
+     "label": "After Chaldiran",
+     "text": "Contemporary sources say Ismail withdrew from active campaigning after 1514; how much his followers' faith in him declined is debated."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Ismail I",
+     "url": "https://en.wikipedia.org/wiki/Ismail_I",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Battle of Chaldiran",
+     "url": "https://en.wikipedia.org/wiki/Battle_of_Chaldiran",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Qizilbash",
+     "url": "https://en.wikipedia.org/wiki/Qizilbash",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Shah_Ismail_I_Safavid%2C_Behzad.jpg/500px-Shah_Ismail_I_Safavid%2C_Behzad.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Shah_Ismail_I_Safavid,_Behzad.jpg",
+     "author": "Kamāl ud-Dīn Behzād",
+     "license": "Public domain",
+     "title": "Shah_Ismail_I_Safavid,_Behzad.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "religion"
+   ],
+   "threads": [
+    "sacred-kingship",
+    "returning-saviours",
+    "millenarian-movements",
+    "ottoman-and-safavid"
+   ]
+  },
+  {
+   "id": "haitian-revolution",
+   "title": "Haitian Revolution",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": 1791,
+   "end": 1804,
+   "evidenceTypes": [
+    "textual"
+   ],
+   "mainstream": "Beginning with an uprising of enslaved people in the northern plain of Saint-Domingue in August 1791, the Haitian Revolution became the only slave revolt to found an independent state. Leaders including Toussaint Louverture and Jean-Jacques Dessalines fought French, Spanish and British forces, and defeated Napoleon's expedition of 1802–03. Dessalines declared the independence of Haiti on 1 January 1804. In 1825 France demanded an indemnity of 150 million francs (later reduced to 90 million) in return for recognition, a debt Haiti paid off over many decades.",
+   "alternatives": [
+    {
+     "label": "Silenced revolution",
+     "text": "Historian Michel-Rolph Trouillot argued that the revolution was long 'silenced' in Western histories because it was unthinkable to contemporaries; it is now studied as central to the Age of Revolutions."
+    },
+    {
+     "label": "Role of Vodou",
+     "text": "The Bois Caïman ceremony is remembered as the spiritual start of the uprising; historians debate how much is documented and how much is later tradition."
+    },
+    {
+     "label": "A \"pact with the devil\"",
+     "text": "Some modern religious commentators have claimed Haiti's founders made a pact with the devil at Bois Caïman; historians and Haitian scholars regard this as a polemical reinterpretation without historical basis."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Haitian Revolution",
+     "url": "https://en.wikipedia.org/wiki/Haitian_Revolution",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Haitian independence debt",
+     "url": "https://en.wikipedia.org/wiki/Haitian_independence_debt",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Incendie_de_la_Plaine_du_Cap._Massacre_des_Blancs_par_les_esclaves_noirs_r%C3%A9volt%C3%A9s._France_militaire._Martinet_et_Masson.jpg/500px-Incendie_de_la_Plaine_du_Cap._Massacre_des_Blancs_par_les_esclaves_noirs_r%C3%A9volt%C3%A9s._France_militaire._Martinet_et_Masson.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Incendie_de_la_Plaine_du_Cap._Massacre_des_Blancs_par_les_esclaves_noirs_r%C3%A9volt%C3%A9s._France_militaire._Martinet_et_Masson.jpg",
+     "author": "Aaron Martinet / Alphonse-Charles Masson",
+     "license": "Public domain",
+     "title": "Incendie_de_la_Plaine_du_Cap._Massacre_des_Blancs_par_les_esclaves_noirs_révoltés._France_militaire._Martinet_et_Masson.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "religion"
+   ],
+   "threads": [
+    "erased-from-history",
+    "suppressed-beliefs",
+    "caribbean-worlds",
+    "myths-about-history"
+   ]
+  },
+  {
+   "id": "kalinago-caribs",
+   "title": "Kalinago (\"Island Caribs\") and the cannibal label",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 1493,
+   "end": null,
+   "dateNote": "first European accounts 1493; Kalinago Territory established 1903",
+   "evidenceTypes": [
+    "textual",
+    "oral tradition",
+    "archaeological"
+   ],
+   "mainstream": "The Kalinago are the Indigenous people of the Lesser Antilles whom Europeans called Caribs. Spanish accounts from Columbus's second voyage (1493) onwards described them as man-eaters; the word 'cannibal' itself derives from the Spanish name for the Caribs. In 1503 the Spanish Crown allowed people classified as cannibals to be enslaved, which gave colonists an incentive to apply the label. Kalinago resisted European settlement for centuries, and today a Kalinago Territory exists on Dominica.",
+   "alternatives": [
+    {
+     "label": "Ritual cannibalism happened",
+     "text": "Some historians and archaeologists accept that limited ritual consumption of enemies occurred, based on early accounts and finds of human remains."
+    },
+    {
+     "label": "Colonial slander",
+     "text": "Others argue that cannibalism accusations were largely a colonial invention or exaggeration used to justify conquest and slavery, pointing to the lack of reliable eyewitness reports."
+    },
+    {
+     "label": "Two languages, one people",
+     "text": "Chroniclers recorded that Kalinago men and women spoke differently and explained this by a legend that mainland Carib warriors had conquered Arawak-speaking islanders and taken their women; linguists note the language was Arawakan with a Carib-derived men's jargon, and the conquest story is debated."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Kalinago",
+     "url": "https://en.wikipedia.org/wiki/Kalinago",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Carib_indian_family_by_John_Gabriel_Stedman.jpg/500px-Carib_indian_family_by_John_Gabriel_Stedman.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Carib_indian_family_by_John_Gabriel_Stedman.jpg",
+     "author": "John Gabriel Stedman",
+     "license": "Public domain",
+     "title": "Carib_indian_family_by_John_Gabriel_Stedman.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology"
+   ],
+   "threads": [
+    "erased-from-history",
+    "caribbean-worlds",
+    "myths-about-history"
+   ]
+  },
+  {
+   "id": "joya-de-ceren",
+   "title": "Joya de Cerén: the Maya village under the ash",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 600,
+   "end": null,
+   "dateNote": "buried c. 600 CE (dates c. 590–660 proposed)",
+   "evidenceTypes": [
+    "archaeological",
+    "volcanological"
+   ],
+   "mainstream": "Joya de Cerén in El Salvador is a farming village buried under several metres of ash by the eruption of the nearby Loma Caldera vent around 600 CE. Found in 1976 when a bulldozer cut into a building, and excavated by Payson Sheets and others, it preserves houses, storehouses, a sweat bath, a communal building, gardens and manioc fields, with pots, food remains and tools left where they were used. It was listed by UNESCO in 1993 and is often called the 'Pompeii of the Americas'.",
+   "alternatives": [
+    {
+     "label": "Everyday Maya life",
+     "text": "Archaeologists value it as a rare snapshot of ordinary commoner households rather than elite temples and kings."
+    },
+    {
+     "label": "Where did the people go?",
+     "text": "No human remains have been found, suggesting the villagers had warning and fled; whether they survived the ash fall is unknown."
+    },
+    {
+     "label": "Shaman's house",
+     "text": "One structure has been interpreted as a building used by a diviner or shaman, based on its contents; this identification is an interpretation."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Joya de Cerén",
+     "url": "https://en.wikipedia.org/wiki/Joya_de_Cer%C3%A9n",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "UNESCO: Joya de Cerén Archaeological Site",
+     "url": "https://whc.unesco.org/en/list/675/",
+     "type": "heritage"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/ES_Joya_Ceren_05_2012_Estructura_9_Area_2_Tamazcal_wide_angle_1479.JPG/500px-ES_Joya_Ceren_05_2012_Estructura_9_Area_2_Tamazcal_wide_angle_1479.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:ES_Joya_Ceren_05_2012_Estructura_9_Area_2_Tamazcal_wide_angle_1479.JPG",
+     "author": "Mariordo (Mario Roberto Duran Ortiz)",
+     "license": "CC BY-SA 3.0",
+     "title": "ES_Joya_Ceren_05_2012_Estructura_9_Area_2_Tamazcal_wide_angle_1479.JPG"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "catastrophes"
+   ],
+   "threads": [
+    "volcanoes-and-memory",
+    "rediscovered-civilisations",
+    "central-america"
+   ]
+  },
+  {
+   "id": "copan-stairway",
+   "title": "Copán and the Hieroglyphic Stairway",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 755,
+   "end": null,
+   "dateNote": "dynasty 426–c. 820 CE; stairway dedicated 755 CE",
+   "evidenceTypes": [
+    "archaeological",
+    "epigraphic"
+   ],
+   "mainstream": "Copán, in western Honduras, was a Classic Maya kingdom ruled by a dynasty founded in 426 CE by K'inich Yax K'uk' Mo'. Its Hieroglyphic Stairway, dedicated in 755 CE under the ruler K'ak' Yipyaj Chan K'awiil, carries about 2,200 glyphs, the longest known Maya inscription, recounting the dynasty's history. The stairway collapsed and when it was restored in the 1930s many blocks were reset out of order, so the text is only partly readable in sequence. Altar Q portrays all sixteen kings of the dynasty. Copán was listed by UNESCO in 1980.",
+   "alternatives": [
+    {
+     "label": "A foreign founder",
+     "text": "Isotope analysis of a skeleton thought to be Yax K'uk' Mo' suggests he grew up outside Copán, and his imagery shows links to Teotihuacan; scholars debate whether he was an outsider installed by central Mexican power or a local claimant using prestige symbols."
+    },
+    {
+     "label": "Scrambled history",
+     "text": "Epigraphers have reconstructed parts of the stairway's order using old photographs and drawings, but large portions remain uncertain."
+    },
+    {
+     "label": "Collapse of the kingdom",
+     "text": "Copán declined in the 9th century; explanations include soil erosion and deforestation, drought, warfare and loss of royal authority, with debate over their relative weight."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Copán",
+     "url": "https://en.wikipedia.org/wiki/Cop%C3%A1n",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "UNESCO: Maya Site of Copan",
+     "url": "https://whc.unesco.org/en/list/129/",
+     "type": "heritage"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Copan_sculpture.jpg/500px-Copan_sculpture.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Copan_sculpture.jpg",
+     "author": "Adalberto Hernandez Vega from Copan Ruinas, Honduras",
+     "license": "CC BY 2.0",
+     "title": "Copan_sculpture.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history"
+   ],
+   "threads": [
+    "origins-of-writing",
+    "civilisation-collapses",
+    "sacred-kingship",
+    "decipherments",
+    "central-america"
+   ]
+  },
+  {
+   "id": "ciudad-blanca",
+   "title": "La Ciudad Blanca (City of the Monkey God)",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 1000,
+   "end": null,
+   "dateNote": "legend colonial era onward; ruins c. 1000–1500 CE; lidar 2012; expedition 2015",
+   "evidenceTypes": [
+    "oral tradition",
+    "archaeological",
+    "remote sensing"
+   ],
+   "mainstream": "Legends of a 'White City' hidden in the rainforest of La Mosquitia, eastern Honduras, have circulated since the colonial era. In 1940 the adventurer Theodore Morde claimed to have found a 'Lost City of the Monkey God'; he never revealed its location. In 2012 an aerial lidar survey revealed extensive ruins in unexplored valleys, and a 2015 expedition, publicised by writer Douglas Preston and archaeologist Christopher Fisher, documented plazas, earthworks and a cache of stone sculptures from a pre-Columbian culture of about 1000–1500 CE.",
+   "alternatives": [
+    {
+     "label": "Legend found",
+     "text": "Media coverage presented the 2015 finds as the discovery of the legendary White City or a lost civilisation."
+    },
+    {
+     "label": "Not one city, not lost",
+     "text": "Many archaeologists objected that the region was known to contain numerous sites of a recognised Mosquitia culture, that no single 'White City' has been identified, and that Indigenous groups were not credited; the legend and the archaeology are treated as separate."
+    },
+    {
+     "label": "Morde's claims",
+     "text": "Morde's notebooks reportedly show little sign of a real city, and some researchers suspect his account was invented or embellished."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: La Ciudad Blanca",
+     "url": "https://en.wikipedia.org/wiki/La_Ciudad_Blanca",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Theodore_Morde_in_1940.png/500px-Theodore_Morde_in_1940.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Theodore_Morde_in_1940.png",
+     "author": "Unknown photographer",
+     "license": "Public domain",
+     "title": "Theodore_Morde_in_1940.png"
+    }
+   ],
+   "categories": [
+    "lost-civilisations",
+    "archaeology",
+    "myth-legend"
+   ],
+   "threads": [
+    "lost-civilisations",
+    "stories-proven-true",
+    "rediscovered-civilisations",
+    "central-america"
+   ]
+  },
+  {
+   "id": "cadejo",
+   "title": "El Cadejo: the spirit dogs of Central America",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 3,
+   "start": 1800,
+   "end": null,
+   "dateNote": "recorded colonial-era and modern folklore; origins uncertain",
+   "evidenceTypes": [
+    "oral tradition",
+    "mythological"
+   ],
+   "mainstream": "In the folklore of Guatemala, El Salvador, Honduras, Nicaragua, Costa Rica and southern Mexico, the Cadejo is a supernatural dog that appears to people walking alone at night, often described with glowing red eyes and goat-like hooves. In many versions there are two: a white Cadejo that protects travellers and a black Cadejo that leads them to harm, especially drunkards and wrongdoers. The legend is widely told today and appears in art and literature.",
+   "alternatives": [
+    {
+     "label": "Christian moral tale",
+     "text": "Folklorists often read the paired white and black dogs as a colonial-era moral story of good and evil guardians."
+    },
+    {
+     "label": "Older Mesoamerican roots",
+     "text": "Some writers suggest links to pre-Hispanic beliefs about dogs as guides of the dead or animal spirit companions (nahuales); such connections are proposed rather than demonstrated."
+    },
+    {
+     "label": "Sightings",
+     "text": "People continue to report encounters, which researchers usually attribute to stray dogs, darkness and expectation; believers regard some experiences as genuine."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Cadejo",
+     "url": "https://en.wikipedia.org/wiki/Cadejo",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/El_Cadejo_-_%22La_Linea%22_by_Carlos_Loarca.jpg/500px-El_Cadejo_-_%22La_Linea%22_by_Carlos_Loarca.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:El_Cadejo_-_%22La_Linea%22_by_Carlos_Loarca.jpg",
+     "author": "Loarca",
+     "license": "CC BY-SA 3.0",
+     "title": "El_Cadejo_-_\"La_Linea\"_by_Carlos_Loarca.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "anomalies"
+   ],
+   "threads": [
+    "cryptids",
+    "shapeshifters",
+    "central-america"
    ]
   }
  ]
