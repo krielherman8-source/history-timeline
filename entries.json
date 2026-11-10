@@ -6356,7 +6356,8 @@
     "lost-civilisations",
     "hoaxes-exposed",
     "hidden-kingdoms",
-    "horn-of-africa"
+    "horn-of-africa",
+    "earthly-paradises"
    ]
   },
   {
@@ -7608,7 +7609,8 @@
     "lost-civilisations",
     "stories-proven-true",
     "hidden-kingdoms",
-    "lost-treasures"
+    "lost-treasures",
+    "earthly-paradises"
    ]
   },
   {
@@ -14090,7 +14092,8 @@
    "threads": [
     "lost-civilisations",
     "world-ages-and-resets",
-    "hidden-kingdoms"
+    "hidden-kingdoms",
+    "earthly-paradises"
    ]
   },
   {
@@ -15901,7 +15904,8 @@
    "threads": [
     "hidden-kingdoms",
     "lost-treasures",
-    "returning-saviours"
+    "returning-saviours",
+    "earthly-paradises"
    ]
   },
   {
@@ -21668,7 +21672,8 @@
     "sunken-cities",
     "hidden-kingdoms",
     "strange-sounds",
-    "sleeping-heroes"
+    "sleeping-heroes",
+    "earthly-paradises"
    ]
   },
   {
@@ -25608,7 +25613,8 @@
     "hidden-kingdoms",
     "otherworld-visits",
     "sea-mysteries",
-    "phantom-islands"
+    "phantom-islands",
+    "earthly-paradises"
    ]
   },
   {
@@ -45282,7 +45288,8 @@
    ],
    "threads": [
     "water-spirits",
-    "southern-cone"
+    "southern-cone",
+    "earthly-paradises"
    ]
   },
   {
@@ -52182,6 +52189,635 @@
    "threads": [
     "lost-libraries",
     "curses-and-hauntings"
+   ]
+  },
+  {
+   "id": "hanno-periplus",
+   "title": "Hanno the Navigator: a Carthaginian voyage to West Africa and the \"gorillas\"",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": -500,
+   "end": null,
+   "dateNote": "c. 500 BCE (5th c. BCE; date uncertain)",
+   "evidenceTypes": [
+    "textual"
+   ],
+   "mainstream": "The Periplus of Hanno is a short Greek text that claims to translate a Punic inscription set up in the temple of Baal Hammon at Carthage. It describes how Hanno sailed through the Strait of Gibraltar with 60 ships, reportedly carrying 30,000 settlers, founding colonies along the Atlantic coast of Morocco and then exploring further south. The account mentions crocodiles and hippopotamuses in a river, a land where fires burned at night, a tall burning mountain called the 'Chariot of the Gods' (Theon Ochema), and hairy 'wild people' whom interpreters called Gorillai; three females were captured, killed and their skins taken back to Carthage. The voyage is usually dated to around 500 BCE.",
+   "alternatives": [
+    {
+     "label": "As far as Cameroon or Gabon",
+     "text": "Many scholars identify the burning mountain with Mount Cameroon, an active volcano, which would mean Hanno reached the Gulf of Guinea; the \"gorillas\" may have been chimpanzees, gorillas or people."
+    },
+    {
+     "label": "A much shorter voyage",
+     "text": "Others argue the realistic part of the voyage ended in southern Morocco, Senegal or Sierra Leone, and that winds and currents along the Saharan coast made a longer return trip very difficult for ancient ships; the text may be shortened, exaggerated or partly literary."
+    },
+    {
+     "label": "The name \"gorilla\"",
+     "text": "In 1847 the American missionary Thomas Savage and naturalist Jeffries Wyman borrowed Hanno's word to name the newly described great ape, Gorilla, giving the ancient text a modern afterlife."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Hanno the Navigator",
+     "url": "https://en.wikipedia.org/wiki/Hanno_the_Navigator",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Mount Cameroon",
+     "url": "https://en.wikipedia.org/wiki/Mount_Cameroon",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/The_Periplus_of_Hanno_-_Map_to_illustrate_the_Periplus_of_Hanno.png/500px-The_Periplus_of_Hanno_-_Map_to_illustrate_the_Periplus_of_Hanno.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:The_Periplus_of_Hanno_-_Map_to_illustrate_the_Periplus_of_Hanno.png",
+     "author": "Author Wilfred Harvey Schoff",
+     "license": "Public domain",
+     "title": "The Periplus of Hanno - Map to illustrate the Periplus of Hanno.png"
+    }
+   ],
+   "categories": [
+    "history",
+    "anomalies"
+   ],
+   "threads": [
+    "ocean-voyagers",
+    "travellers-tales"
+   ]
+  },
+  {
+   "id": "mutapa-ophir",
+   "title": "The Mutapa kingdom and the European search for King Solomon's Ophir",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1430,
+   "end": 1760,
+   "dateNote": "c. 1430–1760",
+   "evidenceTypes": [
+    "textual",
+    "archaeological",
+    "oral tradition"
+   ],
+   "mainstream": "The Mutapa (Mwenemutapa or Monomotapa) state was a Shona kingdom founded in the 15th century, by tradition by Nyatsimba Mutota, in the region between the Zambezi and Limpopo rivers in present-day Zimbabwe and Mozambique. It grew rich from gold and ivory trade with Swahili merchants on the Indian Ocean coast, and from the 16th century the Portuguese tried to control its gold, eventually making the kingdom a vassal in 1629. It declined in the 17th and 18th centuries. Portuguese writers from the 16th century onward speculated that its gold-producing lands, and the stone ruins of the interior, were the biblical Ophir, from where King Solomon's ships brought gold.",
+   "alternatives": [
+    {
+     "label": "Ophir in Africa?",
+     "text": "The location of the biblical Ophir is unknown; proposals include southern Arabia, the Horn of Africa, India and southern Africa. There is no archaeological evidence connecting Solomon or the Queen of Sheba to Mutapa or Great Zimbabwe."
+    },
+    {
+     "label": "Colonial myth-making",
+     "text": "The German geologist Karl Mauch (1871) and later Rhodesian colonial writers attributed Great Zimbabwe to Phoenicians or Sheba; archaeologists from David Randall-MacIver (1905) and Gertrude Caton-Thompson (1929) onward showed that the stone towns were built by ancestors of the Shona, and the colonial denial is now studied as politically motivated."
+    },
+    {
+     "label": "Literature",
+     "text": "The Ophir legend inspired H. Rider Haggard's novel King Solomon's Mines (1885), which helped spread the idea of lost white or foreign builders in Africa."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Mutapa Empire",
+     "url": "https://en.wikipedia.org/wiki/Mutapa_Empire",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Ophir",
+     "url": "https://en.wikipedia.org/wiki/Ophir",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/ZimbabweStatesAndTrade.svg/500px-ZimbabweStatesAndTrade.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:ZimbabweStatesAndTrade.svg",
+     "author": "SweetCanadianMullet",
+     "license": "CC BY 4.0",
+     "title": "ZimbabweStatesAndTrade.svg"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology",
+    "lost-civilisations"
+   ],
+   "threads": [
+    "outsider-builder-claims",
+    "lost-treasures",
+    "trade-networks",
+    "rediscovered-civilisations"
+   ]
+  },
+  {
+   "id": "battle-of-adwa",
+   "title": "Battle of Adwa (1896): an African army defeats a European invasion",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1896,
+   "end": null,
+   "dateNote": "1 March 1896",
+   "evidenceTypes": [
+    "textual"
+   ],
+   "mainstream": "On 1 March 1896 the Ethiopian army of Emperor Menelik II, with Empress Taytu Betul and regional commanders, decisively defeated an invading Italian army under General Oreste Baratieri near Adwa in northern Ethiopia. The war had grown out of a dispute over the 1889 Treaty of Wuchale, whose Italian text made Ethiopia a protectorate while the Amharic text did not. Italy lost several thousand men killed, and the Treaty of Addis Ababa (October 1896) recognised Ethiopian independence. Ethiopia remained independent while the rest of Africa was colonised, until the Italian invasion of 1935–36.",
+   "alternatives": [
+    {
+     "label": "Symbol of African independence",
+     "text": "Adwa became a major symbol for Pan-African and anti-colonial movements; the colours and history of Ethiopia influenced movements in the Caribbean and the Americas, including Rastafari."
+    },
+    {
+     "label": "Divine help",
+     "text": "Ethiopian Orthodox tradition holds that the tabot (consecrated altar tablet) of St George was carried to the battle and that the saint aided the Ethiopian army; the victory is commemorated on St George's feast and in Addis Ababa's St George's Cathedral."
+    },
+    {
+     "label": "Why Ethiopia won",
+     "text": "Historians point to Menelik's large, well-armed army (with modern rifles bought partly from Europe), Ethiopian unity, poor Italian intelligence and maps, and Baratieri's decision to attack; Italian nationalist accounts long blamed individual generals."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Battle of Adwa",
+     "url": "https://en.wikipedia.org/wiki/Battle_of_Adwa",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Treaty of Wuchale",
+     "url": "https://en.wikipedia.org/wiki/Treaty_of_Wuchale",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Menelik II",
+     "url": "https://en.wikipedia.org/wiki/Menelik_II",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Adoua_1.jpg/500px-Adoua_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Adoua_1.jpg",
+     "author": "The Graphic, from details supplied by survivors",
+     "license": "Public domain",
+     "title": "Adoua_1.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "religion"
+   ],
+   "threads": [
+    "sacred-relics",
+    "horn-of-africa",
+    "resistance-to-empire"
+   ]
+  },
+  {
+   "id": "heike-crabs",
+   "title": "Heike crabs: samurai faces on crab shells",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 3,
+   "start": 1185,
+   "end": null,
+   "dateNote": "legend linked to the battle of 1185",
+   "evidenceTypes": [
+    "oral tradition",
+    "biological"
+   ],
+   "mainstream": "Heikea japonica is a small crab of Japanese waters whose shell bears ridges and grooves resembling an angry human face. Japanese legend says the crabs carry the spirits of the Taira (Heike) samurai who drowned at the naval Battle of Dan-no-ura in 1185, when the Taira clan was destroyed by the Minamoto and the child emperor Antoku died in the sea.",
+   "alternatives": [
+    {
+     "label": "Artificial selection by fishermen",
+     "text": "In 1952 biologist Julian Huxley proposed that fishermen had for centuries thrown back crabs with the most face-like shells out of respect, unintentionally selecting for human-like faces. Carl Sagan popularised the idea in Cosmos (1980) as an example of selection."
+    },
+    {
+     "label": "Ordinary anatomy and pareidolia",
+     "text": "Critics, including crab biologist Joel W. Martin (1993), note that these crabs are generally not eaten (so there is little reason for fishermen to select them), that the ridges mark muscle attachments, and that related species and fossils show similar patterns; the face is seen as an example of human pattern-seeking (pareidolia)."
+    },
+    {
+     "label": "Living memory",
+     "text": "Whatever the biology, the legend keeps the memory of the Genpei War alive, alongside the ghost stories of Hōichi the Earless set at the same strait."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Heikegani",
+     "url": "https://en.wikipedia.org/wiki/Heikegani",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Battle of Dan-no-ura",
+     "url": "https://en.wikipedia.org/wiki/Battle_of_Dan-no-ura",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Heikegani.jpg/500px-Heikegani.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Heikegani.jpg",
+     "author": "RD 77",
+     "license": "CC BY-SA 4.0",
+     "title": "Heikegani.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "science-cosmos",
+    "anomalies"
+   ],
+   "threads": [
+    "seeing-what-we-expect",
+    "pareidolia",
+    "curses-and-hauntings"
+   ]
+  },
+  {
+   "id": "ainu",
+   "title": "The Ainu: Japan's Indigenous people and the debate over their origins",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1300,
+   "end": null,
+   "dateNote": "Ainu culture from c. 13th c.; recognised as Indigenous 2008/2019",
+   "evidenceTypes": [
+    "archaeological",
+    "genetic",
+    "oral tradition",
+    "textual"
+   ],
+   "mainstream": "The Ainu are the Indigenous people of Hokkaido, and historically also of Sakhalin, the Kuril Islands and northern Honshu. Ainu culture, with its own language (an isolate), bear ceremony (iomante), oral epics (yukar) and trade networks reaching Manchuria, is usually traced from around the 13th century, developing out of the Satsumon and Okhotsk cultures. The Japanese Matsumae domain increasingly controlled trade with them; Shakushain's revolt (1669) was suppressed. After 1869 Hokkaido was colonised, and the Hokkaido Former Aborigines Protection Act of 1899 promoted assimilation. Japan's parliament recognised the Ainu as an Indigenous people in 2008, and a 2019 law gave them legal recognition.",
+   "alternatives": [
+    {
+     "label": "Jōmon descendants",
+     "text": "Genetic and skeletal studies indicate that the Ainu descend largely from Jōmon-period populations of the Japanese archipelago, with later contributions from the Okhotsk culture of the Sea of Okhotsk region."
+    },
+    {
+     "label": "Discarded \"Caucasoid\" theories",
+     "text": "Nineteenth- and early 20th-century anthropologists, impressed by facial features and body hair, claimed the Ainu were a lost European or \"Caucasian\" people; modern genetics has rejected this."
+    },
+    {
+     "label": "The original Japanese?",
+     "text": "Some writers argue that Ainu or Jōmon peoples were the original inhabitants of all Japan and that their role has been downplayed in national history; placenames of possible Ainu origin in northern Honshu support a former presence there, but the wider picture remains debated."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Ainu people",
+     "url": "https://en.wikipedia.org/wiki/Ainu_people",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Shakushain's revolt",
+     "url": "https://en.wikipedia.org/wiki/Shakushain's_revolt",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Ainu language",
+     "url": "https://en.wikipedia.org/wiki/Ainu_language",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/AinuSan.jpg/500px-AinuSan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:AinuSan.jpg",
+     "author": "Torbenbrinker",
+     "license": "CC BY-SA 3.0",
+     "title": "AinuSan.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology"
+   ],
+   "threads": [
+    "genetic-migrations",
+    "erased-from-history",
+    "resistance-to-empire"
+   ]
+  },
+  {
+   "id": "peach-blossom-spring",
+   "title": "The Peach Blossom Spring: a hidden valley outside time",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": 421,
+   "end": null,
+   "dateNote": "written 421 CE",
+   "evidenceTypes": [
+    "textual"
+   ],
+   "mainstream": "The Peach Blossom Spring is a short prose fable written by the Chinese poet Tao Yuanming (Tao Qian) in 421 CE. A fisherman from Wuling follows a stream lined with blossoming peach trees to a cave, and passes through into a peaceful farming valley whose people say their ancestors fled the chaos of the Qin dynasty centuries earlier; they know nothing of the Han or later dynasties. They feed him and ask him not to tell anyone. He marks his route, but when he returns with officials the place can never be found again. The phrase 'peach blossom spring' (taohuayuan) became the standard Chinese expression for a hidden utopia.",
+   "alternatives": [
+    {
+     "label": "Pure fiction and philosophy",
+     "text": "Most literary scholars read it as a Daoist-influenced allegory of escape from war and politics, written by a poet who had himself withdrawn from office."
+    },
+    {
+     "label": "Real refugee communities",
+     "text": "The historian Chen Yinke (1936) argued that the story reflects real fortified refugee settlements (wubao) that existed in northern China during the wars of the 4th century; others think the parallels are general rather than specific."
+    },
+    {
+     "label": "Shangri-La and other hidden valleys",
+     "text": "The tale belongs to a worldwide pattern of hidden valleys outside time, from Tibetan beyul and Shambhala to James Hilton's Shangri-La (1933); whether such stories reflect isolated real communities, religious ideals or simple storytelling varies by case."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: The Peach Blossom Spring",
+     "url": "https://en.wikipedia.org/wiki/The_Peach_Blossom_Spring",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Tao Yuanming",
+     "url": "https://en.wikipedia.org/wiki/Tao_Yuanming",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/P1080320.JPG/500px-P1080320.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:P1080320.JPG",
+     "author": "Unknown",
+     "license": "CC BY-SA 3.0",
+     "title": "P1080320.JPG"
+    }
+   ],
+   "categories": [
+    "myth-legend"
+   ],
+   "threads": [
+    "hidden-kingdoms",
+    "time-slips",
+    "earthly-paradises"
+   ]
+  },
+  {
+   "id": "pueblo-revolt",
+   "title": "The Pueblo Revolt of 1680",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1680,
+   "end": null,
+   "dateNote": "10 August 1680; reconquest from 1692",
+   "evidenceTypes": [
+    "textual",
+    "archaeological",
+    "oral tradition"
+   ],
+   "mainstream": "On 10 August 1680 the Pueblo peoples of New Mexico rose in a coordinated revolt against Spanish colonial rule, which had suppressed their religion and imposed forced labour and tribute. The leader most associated with it, Po'pay of Ohkay Owingeh, had been flogged in 1675 for 'sorcery'. Runners carried knotted cords to the pueblos to count down the days to the uprising. About 400 Spanish colonists and 21 Franciscan friars were killed, Santa Fe was besieged, and the surviving Spanish withdrew to El Paso. The Pueblos remained independent for 12 years until Diego de Vargas reconquered the region from 1692.",
+   "alternatives": [
+    {
+     "label": "Spirit guidance",
+     "text": "Spanish testimony records that Po'pay claimed to receive instructions in a kiva at Taos from spirit beings; some Pueblo traditions remember the revolt as a restoration of religious and cosmic order."
+    },
+    {
+     "label": "First American revolution?",
+     "text": "Some historians and Pueblo people call it the first successful revolution in what is now the United States; others note it was a coalition of many independent communities with varied aims, which later divided."
+    },
+    {
+     "label": "Lasting effects",
+     "text": "Although the Spanish returned, many historians argue that the revolt led to greater tolerance of Pueblo religion and land rights, helping Pueblo cultures survive. A statue of Po'pay was placed in the US Capitol in 2005."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Pueblo Revolt",
+     "url": "https://en.wikipedia.org/wiki/Pueblo_Revolt",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Po'pay",
+     "url": "https://en.wikipedia.org/wiki/Po'pay",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Diego de Vargas",
+     "url": "https://en.wikipedia.org/wiki/Diego_de_Vargas",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/U.S._Capitol_Po%E2%80%99pay_Statue.jpg/500px-U.S._Capitol_Po%E2%80%99pay_Statue.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:U.S._Capitol_Po%E2%80%99pay_Statue.jpg",
+     "author": "USCapitol",
+     "license": "Public domain",
+     "title": "U.S._Capitol_Po’pay_Statue.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "religion"
+   ],
+   "threads": [
+    "millenarian-movements",
+    "native-north-america",
+    "resistance-to-empire"
+   ]
+  },
+  {
+   "id": "fountain-of-youth",
+   "title": "Ponce de León and the Fountain of Youth: a legend added later",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": 1513,
+   "end": null,
+   "dateNote": "expedition 1513; fountain story first attested 1535",
+   "evidenceTypes": [
+    "textual"
+   ],
+   "mainstream": "The Spanish conquistador Juan Ponce de León led the first recorded European expedition to Florida in 1513. He is widely said to have been searching for a Fountain of Youth. However, his royal contract and contemporary records say nothing about such a fountain; the link first appears in the writings of the royal chronicler Gonzalo Fernández de Oviedo (1535), who appears to have mocked him with it, and was repeated by later writers such as Hernando de Escalante Fontaneda and Antonio de Herrera. Stories of waters that restore youth are far older, found in Herodotus (the long-lived Ethiopians' spring), the Alexander Romance and medieval European legends.",
+   "alternatives": [
+    {
+     "label": "Myth about history",
+     "text": "Most historians conclude that Ponce de León was seeking land, gold and a governorship, and that the fountain story was attached to him after his death, partly to ridicule him."
+    },
+    {
+     "label": "Indigenous rumours",
+     "text": "Some sources say Taíno or other Indigenous people told Spaniards of a restorative spring or river (sometimes called Bimini); scholars debate whether such reports reflect real Indigenous traditions or European expectations."
+    },
+    {
+     "label": "Tourist site",
+     "text": "In St. Augustine, Florida, a \"Fountain of Youth Archaeological Park\", promoted since the early 20th century, has real colonial and Timucua archaeology but no evidence of a magical spring or of Ponce de León's landing there."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Fountain of Youth",
+     "url": "https://en.wikipedia.org/wiki/Fountain_of_Youth",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Juan Ponce de León",
+     "url": "https://en.wikipedia.org/wiki/Juan_Ponce_de_Le%C3%B3n",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Lucas_Cranach_-_Der_Jungbrunnen_%28Gem%C3%A4ldegalerie_Berlin%29.jpg/500px-Lucas_Cranach_-_Der_Jungbrunnen_%28Gem%C3%A4ldegalerie_Berlin%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Lucas_Cranach_-_Der_Jungbrunnen_(Gem%C3%A4ldegalerie_Berlin).jpg",
+     "author": "Lucas Cranach the Elder",
+     "license": "Public domain",
+     "title": "Lucas_Cranach_-_Der_Jungbrunnen_(Gemäldegalerie_Berlin).jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "history"
+   ],
+   "threads": [
+    "elixirs-of-immortality",
+    "caribbean-worlds",
+    "myths-about-history",
+    "earthly-paradises"
+   ]
+  },
+  {
+   "id": "hampi-vijayanagara",
+   "title": "Hampi, the city of victory, and Hanuman's birthplace",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1336,
+   "end": 1565,
+   "dateNote": "founded c. 1336; sacked 1565",
+   "evidenceTypes": [
+    "archaeological",
+    "textual",
+    "oral tradition"
+   ],
+   "mainstream": "Hampi in Karnataka, India, was the core of Vijayanagara, capital of the Vijayanagara Empire, founded around 1336 by the brothers Harihara and Bukka of the Sangama dynasty. By the 15th–16th centuries it was among the largest cities in the world, described with wonder by visitors such as the Persian envoy Abdur Razzaq and the Portuguese Domingo Paes. After the empire's defeat by an alliance of Deccan sultanates at the Battle of Talikota in 1565, the city was sacked and abandoned. Its temples, bazaars and royal enclosures among granite boulders are a UNESCO World Heritage Site (1986).",
+   "alternatives": [
+    {
+     "label": "Founded with a sage's guidance",
+     "text": "Tradition credits the sage Vidyaranya with inspiring the founding of the city; historians debate the extent of his role, which is mainly documented in later sources."
+    },
+    {
+     "label": "Kishkindha of the Ramayana",
+     "text": "Local tradition identifies the area with Kishkindha, the monkey kingdom of the Ramayana, and Anjanadri hill near Hampi as the birthplace of Hanuman; other places in India (for example in Andhra Pradesh and Jharkhand) also claim the birthplace. This is a matter of faith and tradition, not archaeology."
+    },
+    {
+     "label": "Why did it fall so completely?",
+     "text": "Some historians emphasise the battle and the following sack, others longer-term political divisions, the betrayal of Muslim commanders in Vijayanagara service, or shifts in trade."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Hampi",
+     "url": "https://en.wikipedia.org/wiki/Hampi",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Vijayanagara",
+     "url": "https://en.wikipedia.org/wiki/Vijayanagara",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Battle of Talikota",
+     "url": "https://en.wikipedia.org/wiki/Battle_of_Talikota",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Group of Monuments at Hampi (UNESCO)",
+     "url": "https://whc.unesco.org/en/list/241/",
+     "type": "heritage"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Wide_angle_of_Galigopuram_of_Virupaksha_Temple%2C_Hampi_%2804%29_%28cropped%29.jpg/500px-Wide_angle_of_Galigopuram_of_Virupaksha_Temple%2C_Hampi_%2804%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Wide_angle_of_Galigopuram_of_Virupaksha_Temple,_Hampi_(04)_(cropped).jpg",
+     "author": "iMahesh",
+     "license": "CC BY-SA 4.0",
+     "title": "Wide_angle_of_Galigopuram_of_Virupaksha_Temple,_Hampi_(04)_(cropped).jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology",
+    "myth-legend",
+    "religion"
+   ],
+   "threads": [
+    "civilisation-collapses",
+    "rediscovered-civilisations"
+   ]
+  },
+  {
+   "id": "monte-alban",
+   "title": "Monte Albán and the Danzantes: dancers, captives or something else?",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -500,
+   "end": 850,
+   "dateNote": "c. 500 BCE – c. 750/850 CE",
+   "evidenceTypes": [
+    "archaeological"
+   ],
+   "mainstream": "Monte Albán, on a flattened mountain ridge above the Valley of Oaxaca, Mexico, was founded around 500 BCE and became the capital of the Zapotec state for over a thousand years, declining by about 750–850 CE. Among its earliest monuments are more than 300 carved stone slabs called the Danzantes ('dancers'), showing naked men in contorted poses, some with closed eyes and mutilated bodies, along with some of the earliest writing in Mesoamerica. Building J, shaped like an arrowhead, is set at an unusual angle to the rest of the plaza. In 1932 Alfonso Caso found Tomb 7, reused by Mixtec people and filled with gold, jade and carved bone. Monte Albán and Oaxaca's historic centre are a UNESCO World Heritage Site (1987).",
+   "alternatives": [
+    {
+     "label": "Captives, not dancers",
+     "text": "Most archaeologists now interpret the Danzantes as slain or sacrificed war captives, displayed to show Monte Albán's military power; the name reflects 19th-century impressions."
+    },
+    {
+     "label": "Other readings",
+     "text": "Earlier interpretations saw them as dancers, swimmers, people with medical conditions, or shamans in trance; some fringe writers have also claimed they show foreign peoples, a view not supported by archaeologists."
+    },
+    {
+     "label": "Building J and the sky",
+     "text": "Building J's orientation has been linked by archaeoastronomers to the rising of the star Capella and to the zenith passage of the sun; others see the shape as a conquest monument listing subject towns. The two ideas are not exclusive."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Monte Albán",
+     "url": "https://en.wikipedia.org/wiki/Monte_Alb%C3%A1n",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Zapotec civilization",
+     "url": "https://en.wikipedia.org/wiki/Zapotec_civilization",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Monte_Alban_West_Side_Platform.jpg/500px-Monte_Alban_West_Side_Platform.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Monte_Alban_West_Side_Platform.jpg",
+     "author": "nsaum75 !Dígame¡‎",
+     "license": "CC BY-SA 3.0",
+     "title": "Monte_Alban_West_Side_Platform.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history"
+   ],
+   "threads": [
+    "ancient-astronomy",
+    "origins-of-writing",
+    "human-sacrifice",
+    "central-america"
    ]
   }
  ]
