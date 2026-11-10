@@ -1,0 +1,80 @@
+{
+ "alexander-the-great": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=e2Ny_5NTt_k",
+  "title": "Alexander the Great's Reign of Egypt (Full Episode) | Lost Treasures of Egypt | Nat Geo",
+  "channel": "National Geographic"
+ },
+ "mask-of-agamemnon": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=1PKOiYY9SPA",
+  "title": "Mask of Agamemnon, Mycenae, c. 1550-1500 B.C.E.",
+  "channel": "Smarthistory"
+ },
+ "hypatia": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=n1mwZrVJ-TI",
+  "title": "The murder of ancient Alexandria's greatest scholar - Soraya Field Fiorio",
+  "channel": "TED-Ed"
+ },
+ "malleus-maleficarum": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=4HgJau22jI4",
+  "title": "The book that fuelled 150 years of witch hunting frenzy | Deja Vu",
+  "channel": "Al Jazeera English"
+ },
+ "bayeux-comet-1066": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=VCeydlr3Nww",
+  "title": "What's the story in the Bayeux Tapestry?",
+  "channel": "The British Museum"
+ },
+ "ibn-battuta": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=0v23vZqs8RI",
+  "title": "Great Voyages: Traveler's Tips from the 14th Century: The Detours of Ibn Battuta",
+  "channel": "Penn Museum"
+ },
+ "mutapa-ophir": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=GdSupLM4zAA",
+  "title": "Southern Kingdoms - History Of Africa with Zeinab Badawi [Episode 13]",
+  "channel": "BBC News Africa"
+ },
+ "origin-of-species-1859": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=dfsUz2O2jww",
+  "title": "Darwin and Natural Selection: Crash Course History of Science #22",
+  "channel": "CrashCourse"
+ },
+ "miller-urey-1953": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=NNijmxsKGbc",
+  "title": "What Was The Miller-Urey Experiment?",
+  "channel": "Stated Clearly"
+ },
+ "melusine": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=vaaiNmt0D0Y",
+  "title": "The Folktale of Melusine, the Medieval Face of the Starbucks Logo",
+  "channel": "World History Encyclopedia"
+ },
+ "thermopylae": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=M7V1a1I5BL0",
+  "title": "This is Sparta: Fierce warriors of the ancient world - Craig Zimmer",
+  "channel": "TED-Ed"
+ },
+ "codex-gigas": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=12wYfNKBrgA",
+  "title": "Mysterious, Ancient Bible on Display | National Geographic",
+  "channel": "National Geographic"
+ },
+ "symmes-hollow-earth": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=coTi2i6GWNA",
+  "title": "Why Scientists Briefly Thought the Earth Was Hollow",
+  "channel": "SciShow"
+ }
+}
