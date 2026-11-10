@@ -34,8 +34,10 @@ def run(E):
     media=[]
     if e.get('img'):
       try:
-        p=get('https://en.wikipedia.org/w/api.php?action=query&format=json&prop=pageimages&piprop=name&redirects=1&titles='+urllib.parse.quote(e['img']))
-        pg=list(p['query']['pages'].values())[0];fn=pg.get('pageimage')
+        if e['img'].startswith('File:'): fn=e['img'][5:]
+        else:
+          p=get('https://en.wikipedia.org/w/api.php?action=query&format=json&prop=pageimages&piprop=name&redirects=1&titles='+urllib.parse.quote(e['img']))
+          pg=list(p['query']['pages'].values())[0];fn=pg.get('pageimage')
         if fn:
           q=get('https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url|extmetadata&iiurlwidth=400&titles='+urllib.parse.quote('File:'+fn))
           ii=list(q['query']['pages'].values())[0].get('imageinfo')

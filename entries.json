@@ -1538,7 +1538,8 @@
     "changed-understanding",
     "stories-proven-true",
     "rediscovered-civilisations",
-    "bronze-age-world"
+    "bronze-age-world",
+    "classical-world"
    ]
   },
   {
@@ -1678,7 +1679,8 @@
     "myth-legend"
    ],
    "threads": [
-    "flood-myths"
+    "flood-myths",
+    "classical-world"
    ]
   },
   {
@@ -1840,7 +1842,8 @@
    "threads": [
     "ancient-astronomy",
     "ancient-technology",
-    "automata-and-robots"
+    "automata-and-robots",
+    "classical-world"
    ]
   },
   {
@@ -3825,7 +3828,8 @@
     "history"
    ],
    "threads": [
-    "abandoned-babies"
+    "abandoned-babies",
+    "classical-world"
    ]
   },
   {
@@ -3854,7 +3858,8 @@
     "history"
    ],
    "threads": [
-    "civilisation-collapses"
+    "civilisation-collapses",
+    "classical-world"
    ]
   },
   {
@@ -14302,7 +14307,8 @@
    "threads": [
     "knowledge-and-power",
     "lost-evidence",
-    "lost-libraries"
+    "lost-libraries",
+    "classical-world"
    ]
   },
   {
@@ -18435,7 +18441,8 @@
     "changed-understanding",
     "knowledge-and-power",
     "altered-states",
-    "visionary-women"
+    "visionary-women",
+    "classical-world"
    ]
   },
   {
@@ -20906,7 +20913,8 @@
    ],
    "threads": [
     "sacred-kingship",
-    "warrior-women"
+    "warrior-women",
+    "resistance-to-empire"
    ]
   },
   {
@@ -21330,7 +21338,8 @@
     "returning-saviours",
     "millenarian-movements",
     "suppressed-beliefs",
-    "native-north-america"
+    "native-north-america",
+    "resistance-to-empire"
    ]
   },
   {
@@ -23031,7 +23040,8 @@
    "threads": [
     "disappearances",
     "lost-evidence",
-    "egypt-of-the-pharaohs"
+    "egypt-of-the-pharaohs",
+    "lost-legions"
    ]
   },
   {
@@ -24420,7 +24430,8 @@
     "volcanoes-and-memory",
     "lost-evidence",
     "seeing-what-we-expect",
-    "earthquake-lore"
+    "earthquake-lore",
+    "classical-world"
    ]
   },
   {
@@ -24492,7 +24503,8 @@
    "threads": [
     "otherworld-visits",
     "altered-states",
-    "secret-societies"
+    "secret-societies",
+    "classical-world"
    ]
   },
   {
@@ -26641,7 +26653,8 @@
     "stories-proven-true",
     "ocean-voyagers",
     "lost-treasures",
-    "trade-networks"
+    "trade-networks",
+    "classical-world"
    ]
   },
   {
@@ -36306,7 +36319,8 @@
    ],
    "threads": [
     "ancient-technology",
-    "lost-treasures"
+    "lost-treasures",
+    "classical-world"
    ]
   },
   {
@@ -36356,7 +36370,8 @@
    ],
    "threads": [
     "ancient-technology",
-    "automata-and-robots"
+    "automata-and-robots",
+    "classical-world"
    ]
   },
   {
@@ -36418,7 +36433,8 @@
     "changed-understanding",
     "volcanoes-and-memory",
     "lost-libraries",
-    "decipherments"
+    "decipherments",
+    "classical-world"
    ]
   },
   {
@@ -38376,7 +38392,8 @@
    ],
    "threads": [
     "rediscovered-civilisations",
-    "silk-road"
+    "silk-road",
+    "classical-world"
    ]
   },
   {
@@ -39104,7 +39121,8 @@
    ],
    "threads": [
     "suppressed-beliefs",
-    "caribbean-worlds"
+    "caribbean-worlds",
+    "resistance-to-empire"
    ]
   },
   {
@@ -40108,7 +40126,8 @@
    ],
    "threads": [
     "warrior-women",
-    "southeast-asian-kingdoms"
+    "southeast-asian-kingdoms",
+    "resistance-to-empire"
    ]
   },
   {
@@ -41464,7 +41483,8 @@
    "threads": [
     "changed-understanding",
     "ancient-technology",
-    "knowledge-and-power"
+    "knowledge-and-power",
+    "classical-world"
    ]
   },
   {
@@ -45192,7 +45212,8 @@
    ],
    "threads": [
     "holy-wars",
-    "southern-cone"
+    "southern-cone",
+    "resistance-to-empire"
    ]
   },
   {
@@ -49295,7 +49316,8 @@
     "erased-from-history",
     "suppressed-beliefs",
     "caribbean-worlds",
-    "myths-about-history"
+    "myths-about-history",
+    "resistance-to-empire"
    ]
   },
   {
@@ -50878,6 +50900,668 @@
    ],
    "threads": [
     "plagues-and-epidemics"
+   ]
+  },
+  {
+   "id": "alexander-the-great",
+   "title": "Alexander the Great: conqueror, son of a god, and a tomb nobody can find",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": -336,
+   "end": -323,
+   "dateNote": "reigned 336–323 BCE",
+   "evidenceTypes": [
+    "textual",
+    "archaeological",
+    "numismatic"
+   ],
+   "mainstream": "Alexander III of Macedon (356–323 BCE) became king in 336 BCE and within about a decade defeated the Persian Achaemenid Empire, took Egypt (where the oracle of Ammon at Siwa reportedly greeted him as son of the god), and marched as far as the Punjab, where his army refused to go further after the battle of the Hydaspes (326 BCE). He died in Babylon in June 323 BCE aged 32. His empire split among his generals, but the Greek-speaking kingdoms that followed spread Hellenistic culture from Egypt to Afghanistan. His body was taken to Egypt and displayed in Alexandria for centuries; the location of the tomb has been lost since late antiquity.",
+   "alternatives": [
+    {
+     "label": "How did he die?",
+     "text": "Ancient sources disagree. Modern suggestions include malaria, typhoid fever, alcohol-related illness, poisoning (an ancient rumour blamed Antipater's sons) and, in a 2018 proposal by physician Katherine Hall, Guillain–Barré syndrome; none can be confirmed without remains."
+    },
+    {
+     "label": "Legend: the Alexander Romance",
+     "text": "From late antiquity onward the Alexander Romance turned him into a hero who descended under the sea in a glass bell, flew in a basket drawn by griffins and searched for the water of life. Versions spread in dozens of languages from Iceland to Ethiopia and Malaysia."
+    },
+    {
+     "label": "Dhul-Qarnayn and Iskandar",
+     "text": "Many traditional and modern commentators identify the Qur'anic Dhul-Qarnayn (\"the two-horned\"), who builds a wall against Gog and Magog, with Alexander; others reject this identification. In Persian tradition (Shahnameh) he appears as Iskandar, sometimes as a half-Persian prince, while Zoroastrian texts remember him as \"the accursed\" destroyer."
+    },
+    {
+     "label": "The lost tomb",
+     "text": "Excavators have searched Alexandria and the Siwa oasis for the tomb; claims to have found it (e.g. at Siwa in 1995) have not been accepted. Some writers have speculated that his remains were moved or misidentified as those of another figure; this is unproven."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Alexander the Great",
+     "url": "https://en.wikipedia.org/wiki/Alexander_the_Great",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Alexander Romance",
+     "url": "https://en.wikipedia.org/wiki/Alexander_Romance",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Death of Alexander the Great",
+     "url": "https://en.wikipedia.org/wiki/Death_of_Alexander_the_Great",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Tomb of Alexander the Great",
+     "url": "https://en.wikipedia.org/wiki/Tomb_of_Alexander_the_Great",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Alexander_Mosaic_detail_of_Alexander_the_Great_%283x4_cropped%29.jpg/500px-Alexander_Mosaic_detail_of_Alexander_the_Great_%283x4_cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Alexander_Mosaic_detail_of_Alexander_the_Great_(3x4_cropped).jpg",
+     "author": "Unknown authorUnknown author",
+     "license": "Public domain",
+     "title": "Alexander_Mosaic_detail_of_Alexander_the_Great_(3x4_cropped).jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "myth-legend",
+    "archaeology"
+   ],
+   "threads": [
+    "hidden-tombs",
+    "sacred-kingship",
+    "returning-saviours",
+    "iranian-worlds",
+    "classical-world"
+   ]
+  },
+  {
+   "id": "eratosthenes-earth",
+   "title": "Eratosthenes measures the Earth (c. 240 BCE)",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -240,
+   "end": null,
+   "dateNote": "c. 240 BCE",
+   "evidenceTypes": [
+    "textual"
+   ],
+   "mainstream": "Eratosthenes of Cyrene, head of the Library of Alexandria, estimated the circumference of the Earth around 240 BCE. According to the later account of Cleomedes, he noted that at Syene (Aswan) the noon sun at the summer solstice stood almost directly overhead, while at Alexandria it cast a shadow corresponding to about one-fiftieth of a circle (7.2°). Taking the distance between the two cities as 5,000 stadia, he obtained 250,000 stadia (later given as 252,000). Depending on which length of stadion he used, his result was within roughly 2% to 16% of the modern value of about 40,000 km. He also produced a map of the inhabited world, a system of latitude and longitude lines and the 'sieve' method for finding prime numbers.",
+   "alternatives": [
+    {
+     "label": "Exact accuracy is uncertain",
+     "text": "Because the stadion varied (about 157 to 185 m), and Syene is not exactly on the Tropic of Cancer or due south of Alexandria, historians debate whether his good result reflects skill, luck or both."
+    },
+    {
+     "label": "The \"flat-Earth Middle Ages\" myth",
+     "text": "Educated Europeans throughout the Middle Ages knew the Earth was round. The popular idea that Columbus's contemporaries believed in a flat Earth was largely spread in the 19th century, notably by Washington Irving's 1828 biography of Columbus; the real dispute with Columbus was about the Earth's size, where Eratosthenes-type estimates were closer to correct."
+    },
+    {
+     "label": "Modern flat-Earth belief",
+     "text": "Small modern flat-Earth movements reject the measurement; repeated experiments, including school replications of Eratosthenes' method, satellite imagery and navigation, all support a spherical Earth."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Eratosthenes",
+     "url": "https://en.wikipedia.org/wiki/Eratosthenes",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Myth of the flat Earth",
+     "url": "https://en.wikipedia.org/wiki/Myth_of_the_flat_Earth",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Portrait_of_Eratosthenes.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Portrait_of_Eratosthenes.png",
+     "author": "Unknown",
+     "license": "Public domain",
+     "title": "Portrait_of_Eratosthenes.png"
+    }
+   ],
+   "categories": [
+    "science-cosmos",
+    "history"
+   ],
+   "threads": [
+    "changed-understanding",
+    "ancient-astronomy",
+    "myths-about-history",
+    "classical-world"
+   ]
+  },
+  {
+   "id": "thermopylae",
+   "title": "Thermopylae (480 BCE): the 300 Spartans and the numbers game",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -480,
+   "end": null,
+   "dateNote": "August or September 480 BCE",
+   "evidenceTypes": [
+    "textual",
+    "archaeological"
+   ],
+   "mainstream": "In August or September 480 BCE a Greek force of several thousand men under the Spartan king Leonidas, including his 300 Spartans, held the narrow coastal pass of Thermopylae against the invading army of the Persian king Xerxes for three days. According to Herodotus, a local man named Ephialtes showed the Persians a mountain path that let them outflank the Greeks; Leonidas sent most allies away and died with the Spartans, Thespians and Thebans who remained. The Greek navy fought simultaneously at Artemisium, and the Persians were defeated at Salamis later that year and at Plataea in 479 BCE.",
+   "alternatives": [
+    {
+     "label": "How big was Xerxes' army?",
+     "text": "Herodotus gives over 2.6 million fighting men (more than 5 million with support). Modern historians consider this impossible and usually estimate somewhere between about 70,000 and 300,000."
+    },
+    {
+     "label": "Only 300?",
+     "text": "The famous \"300\" counts only Spartan citizens; ancient sources indicate roughly 5,000–7,000 Greeks at the start, and helots and other allies also died there. The film 300 (2006) is based on a graphic novel and is not intended as history."
+    },
+    {
+     "label": "Heroic sacrifice or tactical retreat?",
+     "text": "Some historians read the last stand as a deliberate rearguard to cover the Greek withdrawal; others see it as rooted in Spartan law and religion (an oracle reportedly said Sparta or its king must fall)."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Battle of Thermopylae",
+     "url": "https://en.wikipedia.org/wiki/Battle_of_Thermopylae",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Leonidas I",
+     "url": "https://en.wikipedia.org/wiki/Leonidas_I",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/L%C3%A9onidas_aux_Thermopyles_-_Jacques-Louis_David_-_Mus%C3%A9e_du_Louvre_Peintures_INV_3690_%3B_L_3711.jpg/500px-L%C3%A9onidas_aux_Thermopyles_-_Jacques-Louis_David_-_Mus%C3%A9e_du_Louvre_Peintures_INV_3690_%3B_L_3711.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:L%C3%A9onidas_aux_Thermopyles_-_Jacques-Louis_David_-_Mus%C3%A9e_du_Louvre_Peintures_INV_3690_;_L_3711.jpg",
+     "author": "Jacques-Louis David",
+     "license": "Public domain",
+     "title": "Léonidas_aux_Thermopyles_-_Jacques-Louis_David_-_Musée_du_Louvre_Peintures_INV_3690_;_L_3711.jpg"
+    }
+   ],
+   "categories": [
+    "history"
+   ],
+   "threads": [
+    "myths-about-history",
+    "classical-world",
+    "resistance-to-empire"
+   ]
+  },
+  {
+   "id": "mask-of-agamemnon",
+   "title": "The \"Mask of Agamemnon\": the wrong king, and a debated authenticity",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 3,
+   "start": -1550,
+   "end": null,
+   "dateNote": "mask c. 1550–1500 BCE; found 1876",
+   "evidenceTypes": [
+    "archaeological"
+   ],
+   "mainstream": "In 1876 Heinrich Schliemann excavated Grave Circle A at Mycenae and found gold funerary masks in the shaft graves. On finding one in Shaft Grave V, he is often reported (from later accounts) to have declared he had 'gazed on the face of Agamemnon'. The graves date to about 1600–1500 BCE, some 300 years before the time traditionally assigned to the Trojan War, so the mask cannot belong to the Agamemnon of Homer, if he existed. It is now displayed in the National Archaeological Museum, Athens.",
+   "alternatives": [
+    {
+     "label": "Genuine Mycenaean mask",
+     "text": "Most archaeologists accept the mask as an authentic Late Helladic object, stylistically different from the other masks but within Mycenaean variation."
+    },
+    {
+     "label": "Partly or wholly faked?",
+     "text": "In the 1970s William M. Calder III and David Traill argued that Schliemann, who had a record of embellishing his finds, may have had the mask made or altered (for example its upturned moustache). Specialists have mostly rejected this, but the mask has never been scientifically tested to settle the question."
+    },
+    {
+     "label": "Homer's heroes as history",
+     "text": "The find fed a long-running debate on whether Homer's epics preserve memories of real Bronze Age kings; Linear B tablets and Hittite texts (Ahhiyawa, Wilusa) show a real Mycenaean world, but no named Homeric king has been confirmed."
+    }
+   ],
+   "changed": "1876: hailed as the face of Agamemnon. 20th c.: redated to c. 1550–1500 BCE, centuries before any Trojan War. 1972 onward: authenticity questioned by Calder and Traill; still debated but mostly accepted as genuine.",
+   "sources": [
+    {
+     "title": "Wikipedia: Mask of Agamemnon",
+     "url": "https://en.wikipedia.org/wiki/Mask_of_Agamemnon",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Grave Circle A, Mycenae",
+     "url": "https://en.wikipedia.org/wiki/Grave_Circle_A%2C_Mycenae",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Heinrich Schliemann",
+     "url": "https://en.wikipedia.org/wiki/Heinrich_Schliemann",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Athens_%E2%80%94_Mask_of_Agamemnon.jpg/500px-Athens_%E2%80%94_Mask_of_Agamemnon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Athens_%E2%80%94_Mask_of_Agamemnon.jpg",
+     "author": "Gleb Simonov",
+     "license": "Public domain",
+     "title": "Athens_—_Mask_of_Agamemnon.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history",
+    "hoaxes"
+   ],
+   "threads": [
+    "changed-understanding",
+    "forged-documents",
+    "bronze-age-world",
+    "myths-about-history",
+    "classical-world"
+   ]
+  },
+  {
+   "id": "sibylline-books",
+   "title": "The Sibylline Books: Rome's secret oracles, burned twice",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": -520,
+   "end": 405,
+   "dateNote": "traditionally acquired 6th c. BCE; burned 83 BCE; destroyed early 5th c. CE",
+   "evidenceTypes": [
+    "textual"
+   ],
+   "mainstream": "The Sibylline Books were a collection of Greek oracular verses kept in the temple of Jupiter on the Capitoline Hill in Rome and consulted only on the Senate's order by a priestly college (later the quindecimviri sacris faciundis) in times of crisis, such as plagues, prodigies and military disasters. Their advice typically prescribed new rites or the import of foreign cults, such as that of Cybele in 204 BCE. The original collection burned with the temple in 83 BCE; a new one was gathered from across the Mediterranean, moved by Augustus to the temple of Apollo on the Palatine, and, according to the poet Rutilius Namatianus, was burned by the general Stilicho in the early 5th century CE.",
+   "alternatives": [
+    {
+     "label": "The legend of the purchase",
+     "text": "Roman tradition says a mysterious old woman, the Sibyl of Cumae, offered nine books to king Tarquinius; when he refused her price she burned three, then three more, and he finally bought the last three for the original price. Historians regard this as a foundation legend."
+    },
+    {
+     "label": "Political tool or genuine prophecy?",
+     "text": "Ancient writers such as Cicero already suspected the books could be interpreted to suit those in power; believers saw them as divinely inspired. Their contents were kept secret and almost nothing of the original text survives."
+    },
+    {
+     "label": "Not the Sibylline Oracles",
+     "text": "A separate surviving collection called the Sibylline Oracles was written largely by Jewish and Christian authors from about the 2nd century BCE onward; it is sometimes confused with the lost Roman books."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Sibylline Books",
+     "url": "https://en.wikipedia.org/wiki/Sibylline_Books",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Cumaean Sibyl",
+     "url": "https://en.wikipedia.org/wiki/Cumaean_Sibyl",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Sibylline Oracles",
+     "url": "https://en.wikipedia.org/wiki/Sibylline_Oracles",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Francesco_Salviati_-_Scene_from_the_story_of_Tarquinius_and_the_Sibylline_Books_-_NMH_163-1863_-_Nationalmuseum.jpg/500px-Francesco_Salviati_-_Scene_from_the_story_of_Tarquinius_and_the_Sibylline_Books_-_NMH_163-1863_-_Nationalmuseum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Francesco_Salviati_-_Scene_from_the_story_of_Tarquinius_and_the_Sibylline_Books_-_NMH_163-1863_-_Nationalmuseum.jpg",
+     "author": "Francesco Salviati",
+     "license": "Public domain",
+     "title": "Francesco Salviati - Scene from the story of Tarquinius and the Sibylline Books - NMH 163-1863 - Nationalmuseum.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "religion",
+    "myth-legend"
+   ],
+   "threads": [
+    "knowledge-and-power",
+    "hidden-scriptures",
+    "lost-libraries",
+    "classical-world"
+   ]
+  },
+  {
+   "id": "caesars-comet",
+   "title": "Caesar's Comet (44 BCE): a murdered dictator becomes a star",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -44,
+   "end": null,
+   "dateNote": "July 44 BCE",
+   "evidenceTypes": [
+    "textual",
+    "numismatic",
+    "astronomical"
+   ],
+   "mainstream": "In July 44 BCE, a few months after Julius Caesar was assassinated, a bright comet was seen in Rome for seven days during the games held in his honour by his adopted heir Octavian. Romans widely interpreted it as Caesar's soul ascending to join the gods. Octavian (later Augustus) promoted it as the sidus Iulium ('Julian star'), placed a star on statues of Caesar and minted coins showing it, supporting Caesar's official deification in 42 BCE. Chinese records also describe a comet in 44 BCE, which some astronomers consider the same object.",
+   "alternatives": [
+    {
+     "label": "A real comet",
+     "text": "Astronomers generally accept that a genuine, unusually bright (possibly sungrazing) comet appeared; it is only known from historical records and has no modern identification."
+    },
+    {
+     "label": "Political propaganda",
+     "text": "Historians emphasise how Octavian exploited the omen to legitimise his position; some have questioned how widely it was seen in Rome, as the Roman reports are mostly from writers favourable to him."
+    },
+    {
+     "label": "Comets as omens worldwide",
+     "text": "The episode fits a much wider pattern in which comets and new stars were read as signs of the death or rise of rulers, from Chinese court astrology to the 1066 comet on the Bayeux Tapestry."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Caesar's Comet",
+     "url": "https://en.wikipedia.org/wiki/Caesar's_Comet",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Assassination of Julius Caesar",
+     "url": "https://en.wikipedia.org/wiki/Assassination_of_Julius_Caesar",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Comet_Caesar_%28Roman_denarius%29.png/500px-Comet_Caesar_%28Roman_denarius%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Comet_Caesar_(Roman_denarius).png",
+     "author": "James St. John",
+     "license": "CC BY 2.0",
+     "title": "Comet Caesar (Roman denarius).png"
+    }
+   ],
+   "categories": [
+    "history",
+    "science-cosmos",
+    "religion"
+   ],
+   "threads": [
+    "sky-omens",
+    "ancient-astronomy",
+    "sacred-kingship",
+    "royal-propaganda",
+    "classical-world"
+   ]
+  },
+  {
+   "id": "teutoburg-forest",
+   "title": "Teutoburg Forest (9 CE): three legions lost, and a battlefield found by a metal detectorist",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 9,
+   "end": null,
+   "dateNote": "September 9 CE; Kalkriese excavations from 1987",
+   "evidenceTypes": [
+    "textual",
+    "archaeological"
+   ],
+   "mainstream": "In September 9 CE an alliance of Germanic tribes led by Arminius, a Cheruscan noble who had served as an officer with the Roman army, ambushed and destroyed three Roman legions (XVII, XVIII and XIX) and auxiliaries under the governor Publius Quinctilius Varus in northern Germany. Augustus is said to have cried 'Quintilius Varus, give me back my legions!' The legion numbers were never reused, and Rome never permanently held Germania east of the Rhine. From 1987, after finds of Roman coins and sling-shot by British officer Tony Clunn, excavations at Kalkriese near Osnabrück uncovered a battlefield with Roman equipment, bones and a turf rampart used by the attackers.",
+   "alternatives": [
+    {
+     "label": "Is Kalkriese the site?",
+     "text": "Most archaeologists identify Kalkriese with the Varus battle; a minority argue it may instead record fighting during Germanicus' campaigns in 15–16 CE, since the finds are hard to date to a single year."
+    },
+    {
+     "label": "Turning point or overstatement?",
+     "text": "It is often said to have kept Germany outside the Roman (and later Romance-language) world; some historians argue Roman expansion was already slowing for financial and strategic reasons."
+    },
+    {
+     "label": "A national myth",
+     "text": "In the 19th century \"Hermann\" (Arminius) became a German national hero; the Hermannsdenkmal monument was completed in 1875, and the battle was later used in nationalist propaganda."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Battle of the Teutoburg Forest",
+     "url": "https://en.wikipedia.org/wiki/Battle_of_the_Teutoburg_Forest",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Kalkriese",
+     "url": "https://en.wikipedia.org/wiki/Kalkriese",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Arminius",
+     "url": "https://en.wikipedia.org/wiki/Arminius",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Epitaph_des_Marcus_Caelius.JPG/500px-Epitaph_des_Marcus_Caelius.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Epitaph_des_Marcus_Caelius.JPG",
+     "author": "Agnete",
+     "license": "Public domain",
+     "title": "Epitaph_des_Marcus_Caelius.JPG"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology"
+   ],
+   "threads": [
+    "classical-world",
+    "lost-legions",
+    "resistance-to-empire"
+   ]
+  },
+  {
+   "id": "ninth-legion",
+   "title": "The vanishing Ninth Legion",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 108,
+   "end": null,
+   "dateNote": "last dated inscription at York 108 CE; disappears by c. 165 CE",
+   "evidenceTypes": [
+    "archaeological",
+    "textual"
+   ],
+   "mainstream": "Legio IX Hispana served in Britain from the invasion of 43 CE and built the fortress at York, where an inscription of 108 CE is the last firmly dated evidence for it in Britain. By the later 2nd century it no longer appears in lists of legions. For much of the 19th and 20th centuries scholars, following Theodor Mommsen, assumed it was destroyed in northern Britain around 117 CE, an idea popularised by Rosemary Sutcliff's novel The Eagle of the Ninth (1954). Later finds of stamped tiles and other material at Nijmegen in the Netherlands suggest that at least part of the legion was transferred to the Rhine.",
+   "alternatives": [
+    {
+     "label": "Lost in Britain",
+     "text": "Some historians still argue for a disaster in northern Britain in the 110s–120s, possibly connected with unrest before Hadrian's Wall was built."
+    },
+    {
+     "label": "Lost in the East",
+     "text": "Others propose the legion was destroyed later elsewhere, for example in the Bar Kokhba revolt in Judaea (132–136 CE) or at the start of the Parthian war (c. 161 CE); no direct evidence names it in either."
+    },
+    {
+     "label": "Disbanded rather than destroyed",
+     "text": "A further view is that the legion was disbanded or merged; there is no surviving record of its end, which is why the mystery persists."
+    }
+   ],
+   "changed": "19th c.: Mommsen proposes destruction in Britain c. 117 CE. 1954: Sutcliff's novel fixes the image of a legion lost in Scotland. Late 20th c.: Nijmegen finds suggest transfer to the Continent; fate still unknown.",
+   "sources": [
+    {
+     "title": "Wikipedia: Legio IX Hispana",
+     "url": "https://en.wikipedia.org/wiki/Legio_IX_Hispana",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: The Eagle of the Ninth",
+     "url": "https://en.wikipedia.org/wiki/The_Eagle_of_the_Ninth",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Roman_Empire_125.png/500px-Roman_Empire_125.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Roman_Empire_125.png",
+     "author": "User:Andrein",
+     "license": "CC BY-SA 3.0",
+     "title": "Roman_Empire_125.png"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology",
+    "anomalies"
+   ],
+   "threads": [
+    "changed-understanding",
+    "disappearances",
+    "myths-about-history",
+    "classical-world",
+    "lost-legions"
+   ]
+  },
+  {
+   "id": "liqian-roman-legion",
+   "title": "Liqian: did lost Roman soldiers settle in China?",
+   "lane": "history",
+   "status": "hypothesis",
+   "priority": 2,
+   "start": -36,
+   "end": null,
+   "dateNote": "Battle of Zhizhi 36 BCE; Dubs's hypothesis 1955–57",
+   "evidenceTypes": [
+    "textual",
+    "genetic",
+    "speculative"
+   ],
+   "mainstream": "In 1955–57 the American sinologist Homer Dubs proposed that Roman soldiers captured by the Parthians after Crassus's defeat at Carrhae (53 BCE) later served as mercenaries for the Xiongnu leader Zhizhi and were captured by Han Chinese forces at the battle of Zhizhi (36 BCE), where Chinese sources describe a 'fish-scale formation' and a double palisade. He suggested they were then settled in a Han county called Liqian (Li-jien), a name similar to a Han term for the Roman or Hellenistic West. Villagers in Zhelaizhai, Gansu province, some with light hair or eyes, have since been linked to the story by media and local tourism.",
+   "alternatives": [
+    {
+     "label": "Mainstream scepticism",
+     "text": "Most historians regard Dubs's chain of identifications as unproven: the Chinese texts do not say the soldiers were Roman, the formation and palisade are not uniquely Roman, and no Roman artefacts have been found at Liqian."
+    },
+    {
+     "label": "Genetic tests",
+     "text": "A 2007 Y-chromosome study of men from the Liqian area found mostly East Asian paternal lineages and concluded the data did not support a Roman-soldier origin; varied appearance in north-west China is generally attributed to long-standing Silk Road and Central Asian ancestry."
+    },
+    {
+     "label": "Still possible",
+     "text": "Supporters argue that a small group of foreign captives could have been absorbed without leaving clear genetic or archaeological traces; the hypothesis therefore remains open but speculative."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Testing the hypothesis of an ancient Roman soldier origin of the Liqian people in northwest China: a Y-chromosome perspective",
+     "authors": "Zhou, R. et al.",
+     "year": 2007,
+     "doi": "10.1007/s10038-007-0155-0",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: Liqian",
+     "url": "https://en.wikipedia.org/wiki/Liqian",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Battle of Zhizhi",
+     "url": "https://en.wikipedia.org/wiki/Battle_of_Zhizhi",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Battle of Carrhae",
+     "url": "https://en.wikipedia.org/wiki/Battle_of_Carrhae",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Battle_of_Carrhae_%28Caesar%CB%90_A_History_Of_The_Art_Of_War_Among_The_Romans_Down_To_The_End%2C_vol._II%2C_1892%29.jpg/500px-Battle_of_Carrhae_%28Caesar%CB%90_A_History_Of_The_Art_Of_War_Among_The_Romans_Down_To_The_End%2C_vol._II%2C_1892%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Battle_of_Carrhae_(Caesar%CB%90_A_History_Of_The_Art_Of_War_Among_The_Romans_Down_To_The_End,_vol._II,_1892).jpg",
+     "author": "Theodore Ayrault Dodge",
+     "license": "Public domain",
+     "title": "Battle_of_Carrhae_(Caesarː_A_History_Of_The_Art_Of_War_Among_The_Romans_Down_To_The_End,_vol._II,_1892).jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "anomalies"
+   ],
+   "threads": [
+    "genetic-migrations",
+    "silk-road",
+    "classical-world",
+    "lost-legions"
+   ]
+  },
+  {
+   "id": "hypatia",
+   "title": "Hypatia of Alexandria (killed 415 CE)",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 415,
+   "end": null,
+   "dateNote": "born c. 350–370 CE; killed March 415 CE",
+   "evidenceTypes": [
+    "textual"
+   ],
+   "mainstream": "Hypatia was a Neoplatonist philosopher, astronomer and mathematician in Alexandria, daughter of the mathematician Theon. She taught pupils including Synesius of Cyrene (later a Christian bishop, whose letters to her survive) and edited or commented on mathematical works. In March 415 CE she was murdered by a Christian mob during a bitter political conflict between the Roman prefect Orestes, whom she advised, and the bishop Cyril of Alexandria. The main sources are the church historian Socrates Scholasticus, who condemned the killing, and later writers such as John of Nikiu, who justified it.",
+   "alternatives": [
+    {
+     "label": "Martyr of reason",
+     "text": "From the Enlightenment onwards writers such as Voltaire and Edward Gibbon, and later the film Agora (2009), presented her as a symbol of science destroyed by religious fanaticism, sometimes wrongly linking her death to the destruction of the Library of Alexandria."
+    },
+    {
+     "label": "Victim of local politics",
+     "text": "Many modern historians stress that she was killed as part of a power struggle in the city rather than for her philosophy or sex, and that pagan and Christian students studied with her."
+    },
+    {
+     "label": "Cyril's responsibility",
+     "text": "How far Bishop Cyril (later a saint) was responsible is disputed: some ancient and modern writers blame him directly, others see the mob as acting without his explicit order."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Hypatia",
+     "url": "https://en.wikipedia.org/wiki/Hypatia",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Theon of Alexandria",
+     "url": "https://en.wikipedia.org/wiki/Theon_of_Alexandria",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Hypatia_%28Charles_William_Mitchell%29.jpg/500px-Hypatia_%28Charles_William_Mitchell%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Hypatia_(Charles_William_Mitchell).jpg",
+     "author": "Charles William Mitchell",
+     "license": "Public domain",
+     "title": "Hypatia (Charles William Mitchell).jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "science-cosmos",
+    "religion"
+   ],
+   "threads": [
+    "ancient-astronomy",
+    "knowledge-and-power",
+    "suppressed-beliefs",
+    "visionary-women",
+    "lost-libraries",
+    "myths-about-history",
+    "classical-world"
    ]
   }
  ]
