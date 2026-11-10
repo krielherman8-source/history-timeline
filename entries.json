@@ -3189,7 +3189,9 @@
     "anomalies",
     "history"
    ],
-   "threads": []
+   "threads": [
+    "ciphers-and-codes"
+   ]
   },
   {
    "id": "dropa-stones",
@@ -4922,7 +4924,8 @@
    ],
    "threads": [
     "origins-of-writing",
-    "decipherments"
+    "decipherments",
+    "ciphers-and-codes"
    ]
   },
   {
@@ -6528,7 +6531,8 @@
    ],
    "threads": [
     "ocean-voyagers",
-    "trade-networks"
+    "trade-networks",
+    "travellers-tales"
    ]
   },
   {
@@ -11979,7 +11983,8 @@
     "ancient-astronomy",
     "origins-of-writing",
     "civilisation-collapses",
-    "decipherments"
+    "decipherments",
+    "ciphers-and-codes"
    ]
   },
   {
@@ -14815,7 +14820,8 @@
    ],
    "threads": [
     "collective-experiences",
-    "knowledge-and-power"
+    "knowledge-and-power",
+    "witch-hunts"
    ]
   },
   {
@@ -17360,7 +17366,8 @@
    ],
    "threads": [
     "stories-proven-true",
-    "disappearances"
+    "disappearances",
+    "ciphers-and-codes"
    ]
   },
   {
@@ -21952,7 +21959,8 @@
    "threads": [
     "ocean-voyagers",
     "human-sacrifice",
-    "silk-road"
+    "silk-road",
+    "travellers-tales"
    ]
   },
   {
@@ -25537,7 +25545,8 @@
     "otherworld-visits",
     "sea-mysteries",
     "phantom-islands",
-    "tested-by-experiment"
+    "tested-by-experiment",
+    "travellers-tales"
    ]
   },
   {
@@ -27705,7 +27714,8 @@
     "sky-beings",
     "knowledge-and-power",
     "altered-states",
-    "hidden-scriptures"
+    "hidden-scriptures",
+    "ciphers-and-codes"
    ]
   },
   {
@@ -28412,7 +28422,8 @@
    "threads": [
     "stories-proven-true",
     "ocean-voyagers",
-    "egypt-of-the-pharaohs"
+    "egypt-of-the-pharaohs",
+    "travellers-tales"
    ]
   },
   {
@@ -31690,7 +31701,8 @@
    ],
    "threads": [
     "stories-proven-true",
-    "silk-road"
+    "silk-road",
+    "travellers-tales"
    ]
   },
   {
@@ -36096,7 +36108,8 @@
    ],
    "threads": [
     "decipherments",
-    "bronze-age-world"
+    "bronze-age-world",
+    "ciphers-and-codes"
    ]
   },
   {
@@ -36141,7 +36154,8 @@
    ],
    "threads": [
     "decipherments",
-    "bronze-age-world"
+    "bronze-age-world",
+    "ciphers-and-codes"
    ]
   },
   {
@@ -51562,6 +51576,612 @@
     "lost-libraries",
     "myths-about-history",
     "classical-world"
+   ]
+  },
+  {
+   "id": "rok-runestone",
+   "title": "The Rök runestone: heroic legend, or fear of a climate catastrophe?",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 800,
+   "end": null,
+   "dateNote": "early 9th c. CE",
+   "evidenceTypes": [
+    "archaeological",
+    "textual"
+   ],
+   "mainstream": "The Rök runestone in Östergötland, Sweden, was carved in the early 9th century and carries the longest known runic inscription, about 760 characters, on all its faces, partly written in cipher runes and different runic alphabets. It was raised by a man named Varin in memory of his dead son Vämod. The text poses a series of riddling questions and mentions a ruler of the Goths, usually identified with the Ostrogothic king Theodoric the Great, riding his horse.",
+   "alternatives": [
+    {
+     "label": "Heroic legends",
+     "text": "The traditional interpretation, developed from the 19th century, reads the text as a collection of allusions to heroic legends and battles, perhaps meant to show the dead son's connection to a great tradition."
+    },
+    {
+     "label": "Fear of Fimbulwinter",
+     "text": "A 2020 interdisciplinary study by Per Holmberg and colleagues argued that the riddles refer to the sun, darkness and winter, and that the stone expresses fear of a climate catastrophe like the cooling after the eruptions of 536–540 CE, linked to Norse ideas of Ragnarök. Critics consider this one possible reading among several."
+    },
+    {
+     "label": "Cipher and magic",
+     "text": "Some researchers see the cipher runes as playful scholarly display; others suggest ritual or magical intentions. The inscription remains one of the most debated texts of the Viking Age."
+    }
+   ],
+   "sources": [
+    {
+     "title": "The Rök Runestone and the End of the World",
+     "authors": "Holmberg, P. et al.",
+     "year": 2020,
+     "doi": "10.33063/diva-401040",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: Rök runestone",
+     "url": "https://en.wikipedia.org/wiki/R%C3%B6k_runestone",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/R%C3%B6kstenen_%C3%96g_2020_4.jpg/500px-R%C3%B6kstenen_%C3%96g_2020_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:R%C3%B6kstenen_%C3%96g_2020_4.jpg",
+     "author": "Arkland",
+     "license": "CC BY-SA 4.0",
+     "title": "Rökstenen_Ög_2020_4.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology",
+    "myth-legend",
+    "catastrophes"
+   ],
+   "threads": [
+    "world-ages-and-resets",
+    "volcanoes-and-memory",
+    "ciphers-and-codes"
+   ]
+  },
+  {
+   "id": "lambton-worm",
+   "title": "The Lambton Worm: a dragon, a crusader and a nine-generation curse",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 3,
+   "start": 1420,
+   "end": null,
+   "dateNote": "legend set in the 14th–15th c.; recorded in the 19th c.",
+   "evidenceTypes": [
+    "oral tradition",
+    "textual"
+   ],
+   "mainstream": "The Lambton Worm is a legend from County Durham in north-east England. Young John Lambton skipped church to fish in the River Wear and caught a small eel-like 'worm', which he threw into a well before leaving for the Crusades. The creature grew huge, coiled around a hill (identified with Worm Hill near Fatfield), and devoured livestock and children. Returning years later, Lambton killed it wearing armour studded with spearheads, on the advice of a wise woman, but broke his vow to kill the first living thing he met afterwards, which was his father, and so his family was cursed for nine generations not to die in their beds. The story was recorded in the 19th century, including in Robert Surtees's History of Durham and a popular 1867 song.",
+   "alternatives": [
+    {
+     "label": "Folk memory of real deaths?",
+     "text": "Supporters of a historical core note that some Lambton family members did die violently or unusually; folklorists consider the curse a later explanation attached to these deaths."
+    },
+    {
+     "label": "A dragon-slaying pattern",
+     "text": "Folklorists place the tale among British \"worm\" legends (such as the Laidly Worm of Spindleston Heugh and the Sockburn Worm) and the wider dragon-slayer tradition, often tied to local landowning families and landmarks."
+    },
+    {
+     "label": "Real animals or fossils?",
+     "text": "Some writers have suggested the legend was inspired by large eels, escaped exotic animals or fossil finds; there is no evidence for these specific origins, which remain speculative."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Lambton Worm",
+     "url": "https://en.wikipedia.org/wiki/Lambton_Worm",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Lambton_Worm.jpg/500px-Lambton_Worm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Lambton_Worm.jpg",
+     "author": "Unknown authorUnknown author",
+     "license": "Public domain",
+     "title": "Lambton_Worm.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend"
+   ],
+   "threads": [
+    "dragons-and-fossils",
+    "serpent-beings",
+    "water-spirits",
+    "curses-and-hauntings"
+   ]
+  },
+  {
+   "id": "golem-of-prague",
+   "title": "The Golem of Prague",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": 1580,
+   "end": null,
+   "dateNote": "attributed to the late 16th c.; Prague legend printed in the 19th c.",
+   "evidenceTypes": [
+    "textual",
+    "oral tradition"
+   ],
+   "mainstream": "In Jewish folklore a golem is a human-like figure made of clay or earth and brought to life by sacred words or divine names; the idea draws on the Talmud (which tells of a rabbi who created a man) and on mystical speculation about the Sefer Yetzirah. The most famous version credits Rabbi Judah Loew ben Bezalel (the Maharal of Prague, died 1609) with creating a golem to defend Prague's Jewish community against blood-libel accusations; it was deactivated by removing the letter or name that animated it. The story linking the golem to Rabbi Loew appears in print only in the 19th century; earlier golem stories were attached to Rabbi Elijah of Chełm.",
+   "alternatives": [
+    {
+     "label": "Legend versus the historical Maharal",
+     "text": "Historians note that Rabbi Loew was a real and influential scholar, but none of his writings or contemporary sources mention a golem."
+    },
+    {
+     "label": "The golem in the attic",
+     "text": "A popular tradition holds that the golem's remains lie in the attic of Prague's Old New Synagogue; the attic has been visited (for example by journalist Egon Erwin Kisch in the 1920s) without finding any remains."
+    },
+    {
+     "label": "Ancestor of robots and AI",
+     "text": "The golem is often cited, together with Frankenstein and Karel Čapek's R.U.R. (1920, which coined \"robot\"), as a cultural ancestor of fears and hopes about artificial beings that escape their makers' control."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Golem",
+     "url": "https://en.wikipedia.org/wiki/Golem",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Judah Loew ben Bezalel",
+     "url": "https://en.wikipedia.org/wiki/Judah_Loew_ben_Bezalel",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Golem_%E2%80%93_Mikol%C3%A1%C5%A1_Ale%C5%A1_%28Star%C3%A9_pov%C4%9Bsti_%C4%8Desk%C3%A9%29.jpg/500px-Golem_%E2%80%93_Mikol%C3%A1%C5%A1_Ale%C5%A1_%28Star%C3%A9_pov%C4%9Bsti_%C4%8Desk%C3%A9%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Golem_%E2%80%93_Mikol%C3%A1%C5%A1_Ale%C5%A1_(Star%C3%A9_pov%C4%9Bsti_%C4%8Desk%C3%A9).jpg",
+     "author": "Mikoláš Aleš",
+     "license": "Public domain",
+     "title": "Golem_–_Mikoláš_Aleš_(Staré_pověsti_české).jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion"
+   ],
+   "threads": [
+    "automata-and-robots"
+   ]
+  },
+  {
+   "id": "malleus-maleficarum",
+   "title": "Malleus Maleficarum (1486) and the European witch hunts",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1486,
+   "end": null,
+   "dateNote": "printed 1486",
+   "evidenceTypes": [
+    "textual"
+   ],
+   "mainstream": "The Malleus Maleficarum ('Hammer of Witches') was written by the German Dominican inquisitor Heinrich Kramer (Institoris) and printed in 1486; the theologian Jacob Sprenger was named as co-author, though his role is disputed. It argued that witchcraft was real, heretical and mostly practised by women, and gave procedures for prosecuting witches. It reprinted Pope Innocent VIII's bull Summis desiderantes affectibus (1484). It went through many editions, although the Church never officially adopted it. Across Europe, witch trials between about 1450 and 1750 led to an estimated 40,000 to 60,000 executions, concentrated in the Holy Roman Empire.",
+   "alternatives": [
+    {
+     "label": "How influential was it?",
+     "text": "Some historians see the book as a major engine of the witch hunts; others argue it was one text among many and that most prosecutions were driven by local secular courts, community tensions, wars and climate stresses such as the Little Ice Age."
+    },
+    {
+     "label": "\"Nine million witches\"",
+     "text": "A figure of nine million victims, traceable to an 18th-century extrapolation and repeated by some 20th-century writers, is rejected by modern historians, whose archival studies support tens of thousands."
+    },
+    {
+     "label": "Suppression of folk healers?",
+     "text": "Some writers argue the trials targeted midwives, healers or surviving pagan practices; historians have found limited evidence that midwives were especially targeted, and the \"surviving pagan witch-cult\" theory of Margaret Murray (1921) has been largely rejected."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Malleus Maleficarum",
+     "url": "https://en.wikipedia.org/wiki/Malleus_Maleficarum",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Heinrich Kramer",
+     "url": "https://en.wikipedia.org/wiki/Heinrich_Kramer",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Witch trials in the early modern period",
+     "url": "https://en.wikipedia.org/wiki/Witch_trials_in_the_early_modern_period",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Malleus_maleficarum%2C_K%C3%B6ln_1520%2C_Titelseite.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Malleus_maleficarum,_K%C3%B6ln_1520,_Titelseite.jpg",
+     "author": "Unknown authorUnknown author",
+     "license": "Public domain",
+     "title": "Malleus_maleficarum,_Köln_1520,_Titelseite.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "religion"
+   ],
+   "threads": [
+    "collective-experiences",
+    "suppressed-beliefs",
+    "myths-about-history",
+    "witch-hunts"
+   ]
+  },
+  {
+   "id": "bayeux-comet-1066",
+   "title": "Halley's Comet on the Bayeux Tapestry (1066)",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1066,
+   "end": null,
+   "dateNote": "comet April 1066; tapestry c. 1070s",
+   "evidenceTypes": [
+    "textual",
+    "iconographic",
+    "astronomical"
+   ],
+   "mainstream": "In April 1066 Halley's Comet was visible across Europe and Asia. The Bayeux Tapestry, an embroidered cloth about 70 m long probably made in England in the 1070s, shows people pointing at it with the caption 'ISTI MIRANT STELLA' ('these men wonder at the star'), next to the newly crowned King Harold II, months before his defeat and death at the Battle of Hastings on 14 October 1066. The chronicler William of Malmesbury later reported that the monk Eilmer of Malmesbury, who had once tried to fly with wings, greeted the comet as a sign of disaster for England.",
+   "alternatives": [
+    {
+     "label": "Omen in hindsight",
+     "text": "Historians note that the tapestry was made after the Norman victory and frames the comet as a portent of Harold's fall, consistent with its role as Norman-commissioned (probably by Bishop Odo) account of the conquest."
+    },
+    {
+     "label": "A propaganda document?",
+     "text": "Some scholars find subtle English sympathies in the embroidery, which was probably sewn by Anglo-Saxon needleworkers; the balance between Norman propaganda and English perspective is debated."
+    },
+    {
+     "label": "Comets as messages",
+     "text": "Across cultures comets were taken as signs of the death of kings or coming wars; the same comet's periodic return was only predicted by Edmond Halley in 1705 and confirmed in 1758–59."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Bayeux Tapestry",
+     "url": "https://en.wikipedia.org/wiki/Bayeux_Tapestry",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Halley's Comet",
+     "url": "https://en.wikipedia.org/wiki/Halley's_Comet",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Eilmer of Malmesbury",
+     "url": "https://en.wikipedia.org/wiki/Eilmer_of_Malmesbury",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Bayeux_Tapestry_scene32_Halley_comet.jpg/500px-Bayeux_Tapestry_scene32_Halley_comet.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Bayeux_Tapestry_scene32_Halley_comet.jpg",
+     "author": "Myrabella",
+     "license": "Public domain",
+     "title": "Bayeux Tapestry scene32 Halley comet.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "science-cosmos"
+   ],
+   "threads": [
+    "sky-omens",
+    "royal-propaganda"
+   ]
+  },
+  {
+   "id": "ibn-battuta",
+   "title": "Ibn Battuta's travels (1325–1354)",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1325,
+   "end": 1354,
+   "dateNote": "travels 1325–1354; Rihla completed 1355",
+   "evidenceTypes": [
+    "textual"
+   ],
+   "mainstream": "Ibn Battuta (1304–c. 1368/69), a Muslim legal scholar from Tangier, left home in 1325 to make the pilgrimage to Mecca and kept travelling for nearly 30 years. His journeys took him across North Africa, the Middle East, East Africa (Mogadishu, Kilwa), Anatolia, the Golden Horde, Central Asia, India (where he served as a judge for the Sultan of Delhi), the Maldives, Sri Lanka, possibly China, Al-Andalus and across the Sahara to the Mali Empire. On his return to Morocco he dictated his account, known as the Rihla, to the writer Ibn Juzayy, completed in 1355.",
+   "alternatives": [
+    {
+     "label": "Trustworthy eyewitness",
+     "text": "Historians rely on the Rihla as a unique source on the 14th-century Islamic world, including the Maldives, the Swahili coast and the court of Mansa Sulayman of Mali."
+    },
+    {
+     "label": "Borrowed passages and doubtful trips",
+     "text": "Scholars have shown that some passages were copied from the earlier traveller Ibn Jubayr, and many doubt that Ibn Battuta made all the journeys he describes, especially to the Volga Bulgars and to China, which may be based on others' accounts."
+    },
+    {
+     "label": "Distance record",
+     "text": "He is often said to have covered around 117,000 km, more than Marco Polo; the figure is an approximate modern reconstruction."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Ibn Battuta",
+     "url": "https://en.wikipedia.org/wiki/Ibn_Battuta",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Rihla",
+     "url": "https://en.wikipedia.org/wiki/Rihla",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Handmade_oil_painting_reproduction_of_Ibn_Battuta_in_Egypt%2C_a_painting_by_Hippolyte_Leon_Benett..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Handmade_oil_painting_reproduction_of_Ibn_Battuta_in_Egypt,_a_painting_by_Hippolyte_Leon_Benett..jpg",
+     "author": "Léon Benett",
+     "license": "Public domain",
+     "title": "Handmade_oil_painting_reproduction_of_Ibn_Battuta_in_Egypt,_a_painting_by_Hippolyte_Leon_Benett..jpg"
+    }
+   ],
+   "categories": [
+    "history"
+   ],
+   "threads": [
+    "sahel-kingdoms",
+    "travellers-tales"
+   ]
+  },
+  {
+   "id": "hildegard-of-bingen",
+   "title": "Hildegard of Bingen's visions",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1141,
+   "end": 1179,
+   "dateNote": "visions recorded from 1141 (Scivias c. 1141–1151)",
+   "evidenceTypes": [
+    "textual",
+    "iconographic"
+   ],
+   "mainstream": "Hildegard of Bingen (1098–1179) was a German Benedictine abbess, composer, writer on medicine and natural history, and visionary. In 1141 she began recording the visions she said she had experienced since childhood, which she described as a 'living light', in the book Scivias ('Know the Ways'), completed around 1151 and illustrated with striking images. She also invented an alphabet and a partly constructed language (Lingua ignota), corresponded with popes and emperors, and composed some of the earliest liturgical music whose composer is known by name. She was declared a saint and a Doctor of the Church in 2012.",
+   "alternatives": [
+    {
+     "label": "Divine revelation",
+     "text": "Within her lifetime Pope Eugenius III approved her visions, and Catholic tradition considers them genuine religious experiences."
+    },
+    {
+     "label": "Migraine aura",
+     "text": "In 1917 historian Charles Singer, and later neurologist Oliver Sacks, suggested that the shimmering lights, fortifications and falling stars in her descriptions and illustrations resemble migraine aura; others caution against retrospective diagnosis and note that such an explanation does not address the content or meaning of her visions."
+    },
+    {
+     "label": "A woman's authority",
+     "text": "Historians emphasise that presenting her knowledge as visionary gave a 12th-century woman the authority to teach and write on theology at a time when women were generally barred from doing so."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Hildegard of Bingen",
+     "url": "https://en.wikipedia.org/wiki/Hildegard_of_Bingen",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Scivias",
+     "url": "https://en.wikipedia.org/wiki/Scivias",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Lingua ignota",
+     "url": "https://en.wikipedia.org/wiki/Lingua_ignota",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Meister_des_Hildegardis-Codex_001_cropped.jpg/500px-Meister_des_Hildegardis-Codex_001_cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Meister_des_Hildegardis-Codex_001_cropped.jpg",
+     "author": "Meister des Hildegardis-Codex",
+     "license": "Public domain",
+     "title": "Meister_des_Hildegardis-Codex_001_cropped.jpg"
+    }
+   ],
+   "categories": [
+    "religion",
+    "history",
+    "science-cosmos"
+   ],
+   "threads": [
+    "altered-states",
+    "visionary-women"
+   ]
+  },
+  {
+   "id": "melusine",
+   "title": "Melusine: the serpent-woman ancestor of noble houses",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 3,
+   "start": 1393,
+   "end": null,
+   "dateNote": "romance of 1393; older folklore",
+   "evidenceTypes": [
+    "textual",
+    "oral tradition"
+   ],
+   "mainstream": "Melusine is a female spirit of fresh waters in European folklore, usually depicted as a woman who becomes a serpent or fish from the waist down. The best-known version is the Roman de Mélusine written by Jean d'Arras in 1393 for the Duke of Berry: Melusine marries Raymondin on condition that he never sees her on a Saturday; when he spies on her bathing and discovers her serpent tail, she flies away in the form of a dragon. She was claimed as an ancestor by the House of Lusignan, rulers of Cyprus and Jerusalem, and by other noble families including the counts of Luxembourg.",
+   "alternatives": [
+    {
+     "label": "Political genealogy",
+     "text": "Historians see the romance partly as dynastic propaganda: a supernatural ancestress gave prestige to the Lusignans and helped legitimise claims, including the Duke of Berry's to the castle of Lusignan."
+    },
+    {
+     "label": "A widespread pattern",
+     "text": "Folklorists classify Melusine among \"fairy bride\" or supernatural-wife tales with a broken taboo, a pattern also found in Japanese, Celtic and other traditions (for example selkie stories)."
+    },
+    {
+     "label": "Older roots",
+     "text": "Some scholars connect her with earlier water deities or serpent-goddess traditions; these links are possible but hard to demonstrate."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Melusine",
+     "url": "https://en.wikipedia.org/wiki/Melusine",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Jean d'Arras",
+     "url": "https://en.wikipedia.org/wiki/Jean_d'Arras",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Melusinediscovered.jpg/500px-Melusinediscovered.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Melusinediscovered.jpg",
+     "author": "anonymous",
+     "license": "Public domain",
+     "title": "Melusinediscovered.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend"
+   ],
+   "threads": [
+    "serpent-beings",
+    "shapeshifters",
+    "water-spirits",
+    "founding-ancestors",
+    "royal-propaganda"
+   ]
+  },
+  {
+   "id": "mandeville-travels",
+   "title": "The Travels of Sir John Mandeville: a bestseller from an armchair",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 3,
+   "start": 1357,
+   "end": null,
+   "dateNote": "c. 1357–1371",
+   "evidenceTypes": [
+    "textual"
+   ],
+   "mainstream": "The Book of Sir John Mandeville appeared in French around 1357–1371, claiming to be the account of an English knight who travelled to the Holy Land, Egypt, India, China and beyond between 1322 and 1356. It describes real places alongside wonders such as dog-headed men, headless people with faces in their chests, the land of Prester John and the vegetable lamb of Tartary. It was translated into many languages and was among the most popular books of the late Middle Ages; it argued that the Earth was round and could be circumnavigated.",
+   "alternatives": [
+    {
+     "label": "Compiled from other books",
+     "text": "Scholars have shown that most of the text was compiled from earlier sources, including the travels of Odoric of Pordenone and William of Boldensel and the encyclopedia of Vincent of Beauvais; the author probably travelled little, if at all."
+    },
+    {
+     "label": "Who was \"Mandeville\"?",
+     "text": "The author's identity is unknown. Proposals include the Liège physician Jean de Bourgogne and the chronicler Jean d'Outremeuse; many scholars think \"Sir John Mandeville\" is a pen name."
+    },
+    {
+     "label": "Influence on explorers",
+     "text": "Columbus and other explorers are reported to have known the book, and its round-Earth arguments and accounts of wealthy eastern lands shaped late medieval expectations of the wider world."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: The Travels of Sir John Mandeville",
+     "url": "https://en.wikipedia.org/wiki/The_Travels_of_Sir_John_Mandeville",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Odoric of Pordenone",
+     "url": "https://en.wikipedia.org/wiki/Odoric_of_Pordenone",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Jean_de_Mandeville_and_Edward_II.png/500px-Jean_de_Mandeville_and_Edward_II.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Jean_de_Mandeville_and_Edward_II.png",
+     "author": "Mazarine Master",
+     "license": "CC BY-SA 4.0",
+     "title": "Jean_de_Mandeville_and_Edward_II.png"
+    }
+   ],
+   "categories": [
+    "history",
+    "myth-legend",
+    "hoaxes"
+   ],
+   "threads": [
+    "giants-and-little-people",
+    "hidden-kingdoms",
+    "myths-about-history",
+    "travellers-tales"
+   ]
+  },
+  {
+   "id": "codex-gigas",
+   "title": "Codex Gigas, the \"Devil's Bible\"",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1229,
+   "end": null,
+   "dateNote": "early 13th c. (c. 1204–1230); taken to Stockholm 1648",
+   "evidenceTypes": [
+    "textual",
+    "archaeological"
+   ],
+   "mainstream": "The Codex Gigas is the largest surviving medieval European manuscript, about 92 cm tall and weighing around 75 kg. It was produced in the early 13th century, probably at the Benedictine monastery of Podlažice in Bohemia, and contains the Vulgate Bible, Josephus's Jewish Antiquities, Isidore's Etymologies, medical texts, a chronicle of Bohemia, magical formulas and a calendar. One full page shows a large horned devil, opposite a page depicting the Heavenly City. Swedish troops took it from Prague in 1648 at the end of the Thirty Years' War; it is now in the National Library of Sweden in Stockholm.",
+   "alternatives": [
+    {
+     "label": "Legend: a pact with the Devil",
+     "text": "A later legend says a monk who had broken his vows was to be walled up alive, promised to write a book containing all human knowledge in a single night, and called on the Devil to finish it, adding the portrait in gratitude."
+    },
+    {
+     "label": "One scribe, many years",
+     "text": "Palaeographic studies indicate the whole book was written in a remarkably uniform hand by a single scribe, which modern researchers estimate would have taken roughly 20 to 30 years of work; a note in the manuscript names Herman the Recluse (Hermannus inclusus), traditionally taken to be the scribe."
+    },
+    {
+     "label": "Why the devil?",
+     "text": "Scholars generally read the devil opposite the Heavenly City as a didactic contrast between damnation and salvation, perhaps linked to the confession texts nearby, rather than evidence of diabolical authorship."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Codex Gigas",
+     "url": "https://en.wikipedia.org/wiki/Codex_Gigas",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Codex_Gigas_fol_290r_Devil.jpg/500px-Codex_Gigas_fol_290r_Devil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Codex_Gigas_fol_290r_Devil.jpg",
+     "author": "Herman the Recluse of the Benedictine monastery of Podlažice",
+     "license": "Public domain",
+     "title": "Codex Gigas fol 290r Devil.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "religion",
+    "myth-legend"
+   ],
+   "threads": [
+    "lost-libraries",
+    "curses-and-hauntings"
    ]
   }
  ]
