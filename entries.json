@@ -1190,7 +1190,8 @@
    ],
    "threads": [
     "lost-civilisations",
-    "egypt-of-the-pharaohs"
+    "egypt-of-the-pharaohs",
+    "wonders-of-the-world"
    ]
   },
   {
@@ -4005,7 +4006,8 @@
    ],
    "threads": [
     "sky-beings",
-    "mesopotamia-and-anatolia"
+    "mesopotamia-and-anatolia",
+    "anunnaki-claims"
    ]
   },
   {
@@ -28567,7 +28569,8 @@
     "giant-monuments",
     "lost-evidence",
     "water-engineering",
-    "mesopotamia-and-anatolia"
+    "mesopotamia-and-anatolia",
+    "wonders-of-the-world"
    ]
   },
   {
@@ -53540,6 +53543,629 @@
     "life-beyond-earth",
     "tested-by-experiment",
     "how-life-began"
+   ]
+  },
+  {
+   "id": "atrahasis",
+   "title": "Atrahasis: the Babylonian flood story where noisy humans anger the gods",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": -1700,
+   "end": null,
+   "dateNote": "oldest copies c. 17th century BCE",
+   "evidenceTypes": [
+    "textual"
+   ],
+   "mainstream": "The Atrahasis epic is an Akkadian poem known from Old Babylonian tablets of roughly the 17th century BCE, with later Assyrian and Babylonian copies. In it the lesser gods rebel against digging canals, so the gods create humans from clay mixed with the flesh and blood of a slain god to do the work. Humanity multiplies and its noise keeps the god Enlil awake; he sends plague, drought and famine, and finally a great flood. The wise god Enki warns the man Atrahasis to build a boat, and he survives with his family and animals. Afterwards the gods set limits on human numbers, such as infertility and infant death. The flood section closely parallels Tablet XI of the Epic of Gilgamesh and has many similarities with the Genesis flood narrative.",
+   "alternatives": [
+    {
+     "label": "Which story came first?",
+     "text": "Most scholars see Atrahasis (and the Sumerian Ziusudra story) as older than the written Genesis account and as one source of a shared Mesopotamian flood tradition. Some religious commentators instead see the stories as independent memories of a real worldwide event."
+    },
+    {
+     "label": "A real flood behind it?",
+     "text": "Researchers have linked Mesopotamian flood stories to destructive local river floods, such as flood layers excavated at Ur, Shuruppak and Kish, or to wider events such as post-glacial sea-level rise. None of these is proven to be the specific source."
+    },
+    {
+     "label": "Ancient astronaut reading",
+     "text": "Ancient-astronaut writers such as Zecharia Sitchin read the story of gods creating workers as genetic engineering by the Anunnaki; Assyriologists reject these translations. This view is speculative."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Atra-Hasis",
+     "url": "https://en.wikipedia.org/wiki/Atra-Hasis",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Flood myth",
+     "url": "https://en.wikipedia.org/wiki/Flood_myth",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Chaos_Monster_and_Sun_God.png/500px-Chaos_Monster_and_Sun_God.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Chaos_Monster_and_Sun_God.png",
+     "author": "editor Austen Henry Layard , drawing by L. Gruner",
+     "license": "Public domain",
+     "title": "Chaos_Monster_and_Sun_God.png"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion",
+    "catastrophes"
+   ],
+   "threads": [
+    "flood-myths",
+    "creation-myths",
+    "divine-punishment",
+    "mesopotamia-and-anatolia",
+    "anunnaki-claims"
+   ]
+  },
+  {
+   "id": "ishtar-gate",
+   "title": "The Ishtar Gate of Babylon and its dragons (c. 575 BCE)",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -575,
+   "end": null,
+   "evidenceTypes": [
+    "archaeological",
+    "textual"
+   ],
+   "mainstream": "The Ishtar Gate was the eighth gate of the inner city of Babylon, built around 575 BCE on the orders of King Nebuchadnezzar II. Its walls were faced with glazed blue bricks showing rows of aurochs and mušḫuššu (a scaly dragon with a snake's head, lion forelegs and bird hind legs, sacred to the god Marduk), while lions lined the Processional Way leading to it. German archaeologist Robert Koldewey excavated it between 1902 and 1914, and a reconstruction using the original bricks was opened in the Pergamon Museum in Berlin in the 1930s. Other panels are in museums around the world, and a smaller replica stands at the site in Iraq.",
+   "alternatives": [
+    {
+     "label": "Mainstream: a composite beast",
+     "text": "Historians of Mesopotamian art see the mušḫuššu as a mythical composite creature, a symbol of Marduk, comparable to griffins and sphinxes."
+    },
+    {
+     "label": "A dinosaur memory?",
+     "text": "Some cryptozoologists and young-Earth creationists have suggested the mušḫuššu depicts a living animal such as a sauropod, sometimes linking it to African reports of Mokele-mbembe. No zoological or palaeontological evidence supports this; it is speculative."
+    },
+    {
+     "label": "Who owns the gate?",
+     "text": "Iraq has called for the return of the gate material held in Berlin, while the museum states it was legally divided and exported under the agreements of the time."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Ishtar Gate",
+     "url": "https://en.wikipedia.org/wiki/Ishtar_Gate",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Mušḫuššu",
+     "url": "https://en.wikipedia.org/wiki/Mu%C5%A1%E1%B8%ABu%C5%A1%C5%A1u",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Berl%C3%ADn%2C_Museo_de_P%C3%A9rgamo_05.jpg/500px-Berl%C3%ADn%2C_Museo_de_P%C3%A9rgamo_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Berl%C3%ADn,_Museo_de_P%C3%A9rgamo_05.jpg",
+     "author": "LBM1948",
+     "license": "CC BY-SA 4.0",
+     "title": "Berlín,_Museo_de_Pérgamo_05.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology",
+    "myth-legend"
+   ],
+   "threads": [
+    "dragons-and-fossils",
+    "cryptids",
+    "serpent-beings",
+    "mesopotamia-and-anatolia"
+   ]
+  },
+  {
+   "id": "rosetta-stone",
+   "title": "The Rosetta Stone: the key that unlocked hieroglyphs (196 BCE / 1822)",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": -196,
+   "end": null,
+   "evidenceTypes": [
+    "archaeological",
+    "textual"
+   ],
+   "mainstream": "The Rosetta Stone is a granodiorite slab carrying a decree issued at Memphis in 196 BCE on behalf of King Ptolemy V, written three times: in Egyptian hieroglyphs, in Demotic script and in ancient Greek. French soldiers found it in July 1799 near the town of Rashid (Rosetta) during Napoleon's campaign in Egypt. After the French defeat it passed to Britain under the Capitulation of Alexandria in 1801 and has been in the British Museum since 1802. Because the Greek text could be read, scholars could compare the scripts. Thomas Young made important early progress with the Demotic and the royal names in cartouches, and Jean-François Champollion announced in 1822 that hieroglyphs combined sound signs with idea signs, which opened up Egyptian texts.",
+   "alternatives": [
+    {
+     "label": "Who deserves the credit?",
+     "text": "Champollion is usually credited with the decipherment, but Young's supporters argued he identified key sound values first. Most historians now see Young's work as a real but partial contribution and Champollion's system as the breakthrough."
+    },
+    {
+     "label": "Should it go back to Egypt?",
+     "text": "Egyptian archaeologists, including former antiquities minister Zahi Hawass, and petitions have called for its return; the British Museum maintains it was legally acquired under the 1801 treaty."
+    },
+    {
+     "label": "Older ideas about hieroglyphs",
+     "text": "Before decipherment, Renaissance and early modern scholars such as Athanasius Kircher believed hieroglyphs were purely symbolic, mystical writing hiding secret wisdom. The stone showed they also wrote ordinary language, including tax and priestly matters."
+    }
+   ],
+   "changed": "Before 1822 hieroglyphs were widely seen as mystical symbols; after Champollion they could be read as a language, transforming knowledge of ancient Egypt.",
+   "sources": [
+    {
+     "title": "Wikipedia: Rosetta Stone",
+     "url": "https://en.wikipedia.org/wiki/Rosetta_Stone",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Decipherment of ancient Egyptian scripts",
+     "url": "https://en.wikipedia.org/wiki/Decipherment_of_ancient_Egyptian_scripts",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Rosetta_Stone.JPG/500px-Rosetta_Stone.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Rosetta_Stone.JPG",
+     "author": "Hans Hillewaert",
+     "license": "CC BY-SA 4.0",
+     "title": "Rosetta_Stone.JPG"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology"
+   ],
+   "threads": [
+    "changed-understanding",
+    "decipherments",
+    "egypt-of-the-pharaohs"
+   ]
+  },
+  {
+   "id": "galilee-boat",
+   "title": "The Galilee Boat (\"Jesus boat\"), found in a drought (1986)",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 3,
+   "start": -40,
+   "end": null,
+   "dateNote": "built c. 1st century BCE–1st century CE; found 1986",
+   "evidenceTypes": [
+    "archaeological",
+    "radiocarbon"
+   ],
+   "mainstream": "In January 1986, during a severe drought that lowered the Sea of Galilee, brothers Moshe and Yuval Lufan noticed the outline of an ancient boat in the mud near Kibbutz Ginosar in Israel. Archaeologists excavated it in a rapid 12-day operation and preserved it in polyethylene glycol. The 8.2 m wooden fishing boat was built from several kinds of timber and repaired many times. Radiocarbon dating and the pottery and nails found with it place it between about the 1st century BCE and the 1st century CE. It is displayed at the Yigal Allon Centre at Ginosar.",
+   "alternatives": [
+    {
+     "label": "Connection to Jesus?",
+     "text": "Because it dates to roughly the time of Jesus and comes from the lake where the Gospels set many events, it was nicknamed the Jesus boat. Archaeologists stress there is no evidence linking it to Jesus or his disciples; it shows the kind of boat used on the lake then."
+    },
+    {
+     "label": "A window on everyday life",
+     "text": "For historians its value is in what it shows about ordinary fishing boats and shortages of good timber, as it reused wood from older vessels."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Sea of Galilee Boat",
+     "url": "https://en.wikipedia.org/wiki/Sea_of_Galilee_Boat",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/JesusBoat.jpg/500px-JesusBoat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:JesusBoat.jpg",
+     "author": "Travellers & Tinkers",
+     "license": "CC BY-SA 4.0",
+     "title": "JesusBoat.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history",
+    "religion"
+   ],
+   "threads": [
+    "sacred-relics",
+    "rain-and-drought",
+    "levant-crossroads"
+   ]
+  },
+  {
+   "id": "colossus-of-rhodes",
+   "title": "The Colossus of Rhodes: a wonder that stood for only 54 years",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -280,
+   "end": -226,
+   "evidenceTypes": [
+    "textual"
+   ],
+   "mainstream": "The Colossus of Rhodes was a bronze statue of the sun god Helios, about 33 m tall, built by the sculptor Chares of Lindos to celebrate the city's survival of a siege by Demetrius Poliorcetes in 305–304 BCE. It was completed around 280 BCE and stood near the harbour of Rhodes until an earthquake toppled it around 226 BCE. Pliny the Elder wrote that even lying on the ground it was a marvel, as few people could wrap their arms around its thumb. The ruins reportedly lay for about 800 years until Arab forces sold the bronze in the 7th century CE. It is listed among the Seven Wonders of the Ancient World.",
+   "alternatives": [
+    {
+     "label": "Did it straddle the harbour?",
+     "text": "The famous image of the statue standing with legs astride the harbour entrance comes from medieval and later artists. Modern engineers and historians consider this impossible for a bronze statue of that era, and the harbour would have had to be closed for years during construction; most think it stood on a pedestal on land."
+    },
+    {
+     "label": "The 900 camels",
+     "text": "The story that a merchant needed 900 camels to carry away the scrap comes from the Byzantine chronicler Theophanes, writing long after the event; some historians doubt the details."
+    },
+    {
+     "label": "Where exactly?",
+     "text": "Its exact site is unknown. Proposals include the harbour mole and the acropolis of Rhodes near the temple of Helios; no foundation has been firmly identified."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Colossus of Rhodes",
+     "url": "https://en.wikipedia.org/wiki/Colossus_of_Rhodes",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Seven Wonders of the Ancient World",
+     "url": "https://en.wikipedia.org/wiki/Seven_Wonders_of_the_Ancient_World",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Colosse_de_Rhodes_%28Barclay%29.jpg/500px-Colosse_de_Rhodes_%28Barclay%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Colosse_de_Rhodes_(Barclay).jpg",
+     "author": "gravure sur bois de Sidney Barclay numérisée Google",
+     "license": "Public domain",
+     "title": "Colosse_de_Rhodes_(Barclay).jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology"
+   ],
+   "threads": [
+    "giant-monuments",
+    "earthquake-lore",
+    "myths-about-history",
+    "classical-world",
+    "wonders-of-the-world"
+   ]
+  },
+  {
+   "id": "lighthouse-of-alexandria",
+   "title": "The Pharos of Alexandria: the lighthouse of the ancient world",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -280,
+   "end": 1323,
+   "evidenceTypes": [
+    "textual",
+    "archaeological",
+    "numismatic"
+   ],
+   "mainstream": "The Lighthouse of Alexandria stood on the island of Pharos at the entrance to Alexandria's harbour. It was begun under Ptolemy I and completed around 280 BCE under Ptolemy II, with its dedication attributed to Sostratus of Cnidus. Estimates of its height range around 100 m or more, making it one of the tallest human-made structures of its time; coins and descriptions show a three-tiered tower with a statue on top. It was damaged by a series of earthquakes between the 10th and 14th centuries and was ruined by about 1323. In 1477 the Mamluk sultan Qaitbay built a fort on its site, partly from its stones. Divers led by Jean-Yves Empereur documented large blocks and statues in the harbour from 1994.",
+   "alternatives": [
+    {
+     "label": "The burning mirror",
+     "text": "Medieval Arab writers told of a huge mirror at the top that could spot ships far out at sea or even set them on fire. Historians treat the burning mirror as legend, though a polished reflector to project the fire's light is plausible."
+    },
+    {
+     "label": "Rebuilding plans",
+     "text": "Egyptian authorities and others have periodically proposed rebuilding the lighthouse or creating an underwater museum at the site; these remain proposals."
+    },
+    {
+     "label": "Word legacy",
+     "text": "The name Pharos became the word for lighthouse in several languages, such as French phare, Italian and Spanish faro."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Lighthouse of Alexandria",
+     "url": "https://en.wikipedia.org/wiki/Lighthouse_of_Alexandria",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Lighthouse_-_Thiersch.png/500px-Lighthouse_-_Thiersch.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Lighthouse_-_Thiersch.png",
+     "author": "Prof. Hermann Thiersch (1874–1939)",
+     "license": "Public domain",
+     "title": "Lighthouse_-_Thiersch.png"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology",
+    "lost-civilisations"
+   ],
+   "threads": [
+    "giant-monuments",
+    "earthquake-lore",
+    "egypt-of-the-pharaohs",
+    "classical-world",
+    "wonders-of-the-world"
+   ]
+  },
+  {
+   "id": "nimrud-lens",
+   "title": "The Nimrud lens: an Assyrian telescope?",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 3,
+   "start": -750,
+   "end": null,
+   "dateNote": "c. 750–710 BCE; found 1850",
+   "evidenceTypes": [
+    "archaeological"
+   ],
+   "mainstream": "The Nimrud lens is a piece of polished rock crystal, about 4 cm across, found in 1850 by Austen Henry Layard in the palace of Nimrud in present-day Iraq. It dates from about the 8th or 7th century BCE and is now in the British Museum. It is slightly oval and ground to a convex shape, and it magnifies somewhat, though unevenly. Similar polished crystals have been found at other ancient sites.",
+   "alternatives": [
+    {
+     "label": "Mainstream: inlay or burning glass",
+     "text": "Many archaeologists think it was a decorative inlay, perhaps for furniture, though it could also have served as a magnifying glass or to focus sunlight to start fires."
+    },
+    {
+     "label": "A telescope?",
+     "text": "In 1999 Assyriologist Giovanni Pettinato proposed that it was used by Assyrian astronomers, which might explain their knowledge of the heavens. Optical studies found it too irregular to work as a useful telescope lens, and no other part of a telescope has been found; most scholars do not accept this idea."
+    },
+    {
+     "label": "Ancient optics more broadly",
+     "text": "The lens is often cited in discussions of ancient technology alongside Roman magnifying glass references (Seneca, Pliny) and Viking-age Visby lenses."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Nimrud lens",
+     "url": "https://en.wikipedia.org/wiki/Nimrud_lens",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Nimrud_lens_British_Museum.jpg/500px-Nimrud_lens_British_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Nimrud_lens_British_Museum.jpg",
+     "author": "Geni",
+     "license": "CC BY-SA 4.0",
+     "title": "Nimrud_lens_British_Museum.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "anomalies"
+   ],
+   "threads": [
+    "ancient-astronomy",
+    "ancient-technology",
+    "seeing-what-we-expect",
+    "out-of-place-artifacts",
+    "mesopotamia-and-anatolia"
+   ]
+  },
+  {
+   "id": "cyclops-dwarf-elephants",
+   "title": "Cyclops and the skulls of dwarf elephants",
+   "lane": "history",
+   "status": "hypothesis",
+   "priority": 3,
+   "start": -700,
+   "end": null,
+   "dateNote": "Odyssey c. 8th century BCE; hypothesis 1914",
+   "evidenceTypes": [
+    "palaeontological",
+    "textual",
+    "speculative"
+   ],
+   "mainstream": "During the Pleistocene, elephants that reached Mediterranean islands such as Sicily, Malta, Crete and Cyprus evolved into dwarf species, some only about 1 m tall. Their skulls have a single large central opening for the trunk, which can look like one huge eye socket to someone unfamiliar with elephants. In 1914 the palaeontologist Othenio Abel suggested that ancient Greeks who found such skulls may have taken them for the remains of one-eyed giants, the Cyclopes known from Homer's Odyssey (around the 8th century BCE), which places the Cyclops Polyphemus on an island often identified with Sicily.",
+   "alternatives": [
+    {
+     "label": "Fossil folklore",
+     "text": "Historian of science Adrienne Mayor's The First Fossil Hunters (2000) argues that ancient Greeks and Romans did collect and interpret large fossil bones as remains of giants and heroes, which makes this idea plausible."
+    },
+    {
+     "label": "Unproven link",
+     "text": "No ancient text describes a skull of this kind as a Cyclops, so the connection remains a hypothesis. The Cyclops may also come from storytelling motifs found widely around the world."
+    },
+    {
+     "label": "Other sources of giants",
+     "text": "Other suggestions link Greek giant legends to mammoth and mastodon bones found on the mainland, and the griffin to Protoceratops fossils in Central Asia, also proposed by Mayor and debated by palaeontologists."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Dwarf elephant",
+     "url": "https://en.wikipedia.org/wiki/Dwarf_elephant",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Polyphemus",
+     "url": "https://en.wikipedia.org/wiki/Polyphemus",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Cyclopes",
+     "url": "https://en.wikipedia.org/wiki/Cyclopes",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Elephas_skeleton.JPG/500px-Elephas_skeleton.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Elephas_skeleton.JPG",
+     "author": "Ninjatacoshell",
+     "license": "CC BY-SA 3.0",
+     "title": "Elephas_skeleton.JPG"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "science-cosmos",
+    "archaeology"
+   ],
+   "threads": [
+    "changed-understanding",
+    "dragons-and-fossils",
+    "giants-and-little-people",
+    "classical-world"
+   ]
+  },
+  {
+   "id": "minoan-snake-goddess",
+   "title": "The Minoan snake goddesses: ancient figurines and modern forgeries",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 3,
+   "start": -1600,
+   "end": null,
+   "dateNote": "c. 1600 BCE; found 1903",
+   "evidenceTypes": [
+    "archaeological"
+   ],
+   "mainstream": "In 1903 Arthur Evans found faience figurines of women holding snakes in the Temple Repositories at the palace of Knossos on Crete, dated to about 1600 BCE. They became famous as the Minoan snake goddess, though one was found headless and was restored with a head and a cat-like animal on top, and the other is missing parts. Evans saw them as evidence of a Minoan mother goddess religion. In the following decades, several ivory and gold snake goddess figurines without secure find spots appeared on the antiquities market, including one bought by the Museum of Fine Arts in Boston in 1914.",
+   "alternatives": [
+    {
+     "label": "Goddess, priestess or votary?",
+     "text": "Scholars debate whether the Knossos figures show a goddess, priestesses or worshippers; the label goddess comes from Evans and his interest in a supreme female deity."
+    },
+    {
+     "label": "Forgeries",
+     "text": "Archaeologist Kenneth Lapatin's 2002 study argued that the Boston ivory figurine and several similar pieces are modern forgeries, possibly made by craftsmen who worked on Evans's restorations. The Boston museum itself now presents its figure with doubts about authenticity."
+    },
+    {
+     "label": "How much is restoration?",
+     "text": "Critics point out that much of the popular image of Minoan Crete, from frescoes to these figurines, was shaped by Evans's reconstructions, which reflected early 20th-century ideas."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Minoan snake goddess figurines",
+     "url": "https://en.wikipedia.org/wiki/Minoan_snake_goddess_figurines",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Arthur Evans",
+     "url": "https://en.wikipedia.org/wiki/Arthur_Evans",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/%CE%98%CE%B5%CE%AC_%CF%84%CF%89%CE%BD_%CE%8C%CF%86%CE%B5%CF%89%CE%BD_6393_%28cropped_2%29.JPG/500px-%CE%98%CE%B5%CE%AC_%CF%84%CF%89%CE%BD_%CE%8C%CF%86%CE%B5%CF%89%CE%BD_6393_%28cropped_2%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:%CE%98%CE%B5%CE%AC_%CF%84%CF%89%CE%BD_%CE%8C%CF%86%CE%B5%CF%89%CE%BD_6393_(cropped_2).JPG",
+     "author": "C messier",
+     "license": "CC BY-SA 4.0",
+     "title": "Θεά_των_Όφεων_6393_(cropped_2).JPG"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "religion",
+    "hoaxes"
+   ],
+   "threads": [
+    "hoaxes-exposed",
+    "seeing-what-we-expect",
+    "forged-documents",
+    "bronze-age-world"
+   ]
+  },
+  {
+   "id": "tall-el-hammam",
+   "title": "Tall el-Hammam: Sodom and a cosmic airburst?",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": -1650,
+   "end": null,
+   "dateNote": "destroyed c. 1650 BCE; airburst paper 2021, retracted 2025",
+   "evidenceTypes": [
+    "archaeological",
+    "geological",
+    "textual",
+    "speculative"
+   ],
+   "mainstream": "Tall el-Hammam is a large Bronze Age settlement in the Jordan Valley, north-east of the Dead Sea in Jordan. Excavations led by Steven Collins since 2005 found that it was destroyed around 1650 BCE. In 2021 a team led by Ted Bunch published a paper in Scientific Reports arguing that a cosmic airburst, an exploding meteor like the one at Tunguska, destroyed the city, citing melted pottery, shocked quartz and scattered human bones. The paper was retracted by the journal in April 2025 (see below). The authors had suggested that memories of the event might lie behind the biblical story of Sodom and Gomorrah destroyed by fire from heaven.",
+   "alternatives": [
+    {
+     "label": "The airburst paper was retracted",
+     "text": "Other researchers, including Jaret and Harris (2022) and Boslough and Bruno (2025), reported errors in the mineral and geochemical analysis and argued that the comparison with Tunguska overestimated that blast. After author corrections in 2022 and 2023, the journal's editors retracted the paper in April 2025, saying they no longer had confidence in its conclusions. Eleven of the co-authors stated that they disagree with the retraction."
+    },
+    {
+     "label": "Is it Sodom?",
+     "text": "Collins identifies Tall el-Hammam with biblical Sodom. Most archaeologists and biblical scholars do not accept this identification, noting differences in dates and geography and the difficulty of matching legends to specific sites."
+    },
+    {
+     "label": "Part of a wider debate",
+     "text": "The study comes from researchers associated with the Younger Dryas impact hypothesis, which is also contested; both remain under debate."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Tell el-Hammam",
+     "url": "https://en.wikipedia.org/wiki/Tell_el-Hammam",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Sodom and Gomorrah",
+     "url": "https://en.wikipedia.org/wiki/Sodom_and_Gomorrah",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "RETRACTED ARTICLE: A Tunguska sized airburst destroyed Tall el-Hammam a Middle Bronze Age city in the Jordan Valley near the Dead Sea",
+     "authors": "Bunch, T. et al.",
+     "year": 2021,
+     "doi": "10.1038/s41598-021-97778-3",
+     "type": "paper"
+    },
+    {
+     "title": "Retraction Note: A Tunguska sized airburst destroyed Tall el-Hammam a Middle Bronze Age city in the Jordan Valley near the Dead Sea",
+     "authors": "Bunch, T. et al.",
+     "year": 2025,
+     "doi": "10.1038/s41598-025-99265-5",
+     "type": "paper"
+    },
+    {
+     "title": "No mineralogic or geochemical evidence of impact at Tall el-Hammam, a Middle Bronze Age city in the Jordan Valley near the Dead Sea",
+     "authors": "Jaret, S. et al.",
+     "year": 2022,
+     "doi": "10.1038/s41598-022-08216-x",
+     "type": "paper"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Tall_el-Hammam_overlooking_the_Jordan_Valley_2007.jpg/500px-Tall_el-Hammam_overlooking_the_Jordan_Valley_2007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Tall_el-Hammam_overlooking_the_Jordan_Valley_2007.jpg",
+     "author": "Deg777",
+     "license": "CC BY-SA 4.0",
+     "title": "Tall_el-Hammam_overlooking_the_Jordan_Valley_2007.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "catastrophes",
+    "religion"
+   ],
+   "threads": [
+    "cosmic-impacts",
+    "divine-punishment",
+    "bronze-age-world",
+    "levant-crossroads"
    ]
   }
  ]
