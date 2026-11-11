@@ -2103,7 +2103,8 @@
     "anomalies"
    ],
    "threads": [
-    "sacred-relics"
+    "sacred-relics",
+    "dating-the-past"
    ]
   },
   {
@@ -10226,7 +10227,8 @@
    ],
    "threads": [
     "world-ages-and-resets",
-    "millenarian-movements"
+    "millenarian-movements",
+    "prophecies"
    ]
   },
   {
@@ -14963,7 +14965,8 @@
    ],
    "threads": [
     "disappearances",
-    "sea-mysteries"
+    "sea-mysteries",
+    "ghost-ships"
    ]
   },
   {
@@ -18476,7 +18479,8 @@
     "knowledge-and-power",
     "altered-states",
     "visionary-women",
-    "classical-world"
+    "classical-world",
+    "prophecies"
    ]
   },
   {
@@ -22355,7 +22359,8 @@
     "hoaxes-exposed",
     "collective-experiences",
     "mysterious-lights",
-    "seeing-what-we-expect"
+    "seeing-what-we-expect",
+    "mystery-airships-wave"
    ]
   },
   {
@@ -22411,7 +22416,8 @@
    ],
    "threads": [
     "hoaxes-exposed",
-    "strange-sounds"
+    "strange-sounds",
+    "poltergeists"
    ]
   },
   {
@@ -25126,7 +25132,8 @@
    "threads": [
     "hoaxes-exposed",
     "seeing-what-we-expect",
-    "pareidolia"
+    "pareidolia",
+    "poltergeists"
    ]
   },
   {
@@ -27893,7 +27900,8 @@
     "changed-understanding",
     "stories-proven-true",
     "sky-omens",
-    "space-weather"
+    "space-weather",
+    "dating-the-past"
    ]
   },
   {
@@ -34796,7 +34804,8 @@
    "threads": [
     "sky-omens",
     "sea-mysteries",
-    "seeing-what-we-expect"
+    "seeing-what-we-expect",
+    "ghost-ships"
    ]
   },
   {
@@ -41281,7 +41290,8 @@
    "threads": [
     "hoaxes-exposed",
     "seeing-what-we-expect",
-    "haunted-houses"
+    "haunted-houses",
+    "poltergeists"
    ]
   },
   {
@@ -47694,7 +47704,8 @@
    ],
    "threads": [
     "changed-understanding",
-    "deep-time-earth"
+    "deep-time-earth",
+    "dating-the-past"
    ]
   },
   {
@@ -51311,7 +51322,8 @@
     "knowledge-and-power",
     "hidden-scriptures",
     "lost-libraries",
-    "classical-world"
+    "classical-world",
+    "prophecies"
    ]
   },
   {
@@ -55359,6 +55371,592 @@
     "impostors-and-lost-heirs",
     "secret-societies",
     "royal-propaganda"
+   ]
+  },
+  {
+   "id": "princes-in-the-tower",
+   "title": "The Princes in the Tower (1483): murder or escape?",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 1483,
+   "end": null,
+   "evidenceTypes": [
+    "textual",
+    "archaeological"
+   ],
+   "mainstream": "In 1483, after the death of King Edward IV of England, his sons Edward V (aged 12) and Richard, Duke of York (aged 9), were lodged in the Tower of London by their uncle Richard, Duke of Gloucester, ostensibly to prepare for Edward's coronation. Parliament instead declared the boys illegitimate, and their uncle took the throne as Richard III. The princes were seen less and less and then not at all after the summer of 1483. Richard III was killed at Bosworth in 1485 and Henry VII took the throne. In 1674 workmen at the Tower found a box with the bones of two children, which were placed in an urn in Westminster Abbey and examined in 1933; they have not been tested with modern methods.",
+   "alternatives": [
+    {
+     "label": "Richard III did it",
+     "text": "The traditional view, shaped by Thomas More and Shakespeare, is that Richard III ordered their murder, perhaps by Sir James Tyrell; many historians still think this most likely."
+    },
+    {
+     "label": "Other suspects",
+     "text": "Other proposed culprits include Henry Stafford, Duke of Buckingham, and Henry VII, who also had reasons to want them dead; supporters of Richard III (Ricardians) argue the case against him rests on hostile Tudor sources."
+    },
+    {
+     "label": "Did they survive?",
+     "text": "Pretenders such as Perkin Warbeck claimed to be Prince Richard. In 2023 Philippa Langley's Missing Princes Project published documents it says suggest both boys survived; many historians are not persuaded and consider the documents open to other readings."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Princes in the Tower",
+     "url": "https://en.wikipedia.org/wiki/Princes_in_the_Tower",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Perkin Warbeck",
+     "url": "https://en.wikipedia.org/wiki/Perkin_Warbeck",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/The_Princes_in_the_Tower_by_John_Everett_Millais_%281878%29.png/500px-The_Princes_in_the_Tower_by_John_Everett_Millais_%281878%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:The_Princes_in_the_Tower_by_John_Everett_Millais_(1878).png",
+     "author": "John Everett Millais",
+     "license": "Public domain",
+     "title": "The_Princes_in_the_Tower_by_John_Everett_Millais_(1878).png"
+    }
+   ],
+   "categories": [
+    "history"
+   ],
+   "threads": [
+    "hidden-tombs",
+    "disappearances",
+    "impostors-and-lost-heirs",
+    "royal-propaganda"
+   ]
+  },
+  {
+   "id": "rasputin-death",
+   "title": "The death of Rasputin (1916): poisoned, shot and drowned?",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 1916,
+   "end": null,
+   "dateNote": "killed 29–30 December 1916 (New Style)",
+   "evidenceTypes": [
+    "textual",
+    "forensic"
+   ],
+   "mainstream": "Grigori Rasputin, a Siberian peasant and self-proclaimed holy man, gained great influence at the court of the last Russian tsar, Nicholas II, largely because the empress Alexandra believed he could ease the haemophilia of her son Alexei. Seen as a scandal and a danger during the First World War, he was killed in Petrograd on the night of 29–30 December 1916 (16–17 December in the old Russian calendar) by a group of nobles led by Prince Felix Yusupov. His body was found in the frozen Malaya Nevka river. Less than three months later the monarchy fell.",
+   "alternatives": [
+    {
+     "label": "The legend of the unkillable monk",
+     "text": "Yusupov's own memoirs describe Rasputin surviving cyanide-laced cakes and wine and several gunshots before being thrown into the river, and some accounts say he was still alive when he went under water. Historians note that the autopsy reportedly found no poison and attributed death to gunshot wounds, including one to the forehead, so the drowning story is doubtful."
+    },
+    {
+     "label": "British involvement?",
+     "text": "Some writers and a 2004 BBC documentary argued that a British intelligence officer, Oswald Rayner, fired the fatal shot because Rasputin was thought to favour peace with Germany. This is debated and the evidence is circumstantial."
+    },
+    {
+     "label": "Healer or charlatan?",
+     "text": "Whether Rasputin really eased Alexei's bleeding, perhaps by calming the family or by advising against aspirin, remains debated."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Grigori Rasputin",
+     "url": "https://en.wikipedia.org/wiki/Grigori_Rasputin",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Felix Yusupov",
+     "url": "https://en.wikipedia.org/wiki/Felix_Yusupov",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Rasputin_PA.jpg/500px-Rasputin_PA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Rasputin_PA.jpg",
+     "author": "Unknown authorUnknown author",
+     "license": "Public domain",
+     "title": "Rasputin_PA.jpg"
+    }
+   ],
+   "categories": [
+    "history"
+   ],
+   "threads": [
+    "sacred-kingship",
+    "modern-legends"
+   ]
+  },
+  {
+   "id": "coso-artifact",
+   "title": "The Coso artifact: a \"500,000-year-old\" spark plug",
+   "lane": "history",
+   "status": "debunked",
+   "priority": 3,
+   "start": 1961,
+   "end": null,
+   "dateNote": "found 1961; identified 1999",
+   "evidenceTypes": [
+    "physical object"
+   ],
+   "mainstream": "On 13 February 1961, Wallace Lane, Virginia Maxey and Mike Mikesell were collecting geodes near Olancha, California, when they cut open a stone and found what looked like a metal and porcelain mechanism inside. It was promoted, including in Fortean and creationist literature, as an out-of-place artefact encased in a 500,000-year-old geode, which would imply advanced technology long before humans could make it.",
+   "alternatives": [
+    {
+     "label": "Identified as a 1920s spark plug",
+     "text": "In 1999 investigators Pierre Stromberg and Paul Heinrich, consulting spark plug collectors, identified the object from X-rays as a Champion spark plug of the 1920s. The stone was not a geode but an iron-rich concretion, which can form around objects within decades."
+    },
+    {
+     "label": "Proponents",
+     "text": "A few writers still cite the object as an anomaly, noting that it has not been publicly re-examined since its owner withheld it; its current whereabouts are unknown."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Coso artifact",
+     "url": "https://en.wikipedia.org/wiki/Coso_artifact",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Coso_Artifact.jpg/500px-Coso_Artifact.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Coso_Artifact.jpg",
+     "author": "Pierre Stromberg",
+     "license": "CC BY-SA 4.0",
+     "title": "Coso_Artifact.jpg"
+    }
+   ],
+   "categories": [
+    "hoaxes",
+    "anomalies"
+   ],
+   "threads": [
+    "hoaxes-exposed",
+    "out-of-place-artifacts"
+   ]
+  },
+  {
+   "id": "ourang-medan",
+   "title": "SS Ourang Medan: the ghost ship whose crew died staring at the sun",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 3,
+   "start": 1940,
+   "end": null,
+   "dateNote": "first published 1940; best-known version set in 1947–1948",
+   "evidenceTypes": [
+    "textual"
+   ],
+   "mainstream": "The Ourang Medan is a ghost ship story first published in Italy and England in 1940 and retold with new details in 1948 and 1952. In the best-known version, set in the Strait of Malacca in 1947 or early 1948, ships pick up a Morse distress call: all officers including the captain are dead, probably the whole crew, and finally 'I die'. The crew of the American ship Silver Star board the vessel and find every crew member, and a dog, dead with their faces frozen in terror, but a fire breaks out and the ship explodes and sinks before it can be towed. In the 1940 version the ship sank south of the Solomon Islands.",
+   "alternatives": [
+    {
+     "label": "Did the ship exist?",
+     "text": "Searches of shipping registers and accident records have found no vessel called Ourang Medan, and the location, date and details change between versions. Many researchers consider it an urban legend; some think it may embellish a real incident."
+    },
+    {
+     "label": "Explanations offered",
+     "text": "Writers who think something happened have suggested a cargo of toxic chemicals, carbon monoxide from a faulty boiler, or smuggled nerve agents after the Second World War. Others have proposed paranormal or alien causes. None can be tested without a ship."
+    },
+    {
+     "label": "Sea-mystery patterns",
+     "text": "The story shares features with the Mary Celeste and Flying Dutchman: a ship found with its crew gone or dead and no clear cause."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Ourang Medan",
+     "url": "https://en.wikipedia.org/wiki/Ourang_Medan",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Sumatra_map.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Sumatra_map.jpg",
+     "author": ".\n\nThe original uploader was Herman Darman at English Wikibooks.",
+     "license": "Public domain",
+     "title": "Sumatra map.jpg"
+    }
+   ],
+   "categories": [
+    "anomalies",
+    "myth-legend"
+   ],
+   "threads": [
+    "sea-mysteries",
+    "modern-legends",
+    "ghost-ships"
+   ]
+  },
+  {
+   "id": "radiocarbon-dating-1949",
+   "title": "Radiocarbon dating rewrites prehistory (1949)",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": 1949,
+   "end": null,
+   "evidenceTypes": [
+    "experimental",
+    "radiocarbon"
+   ],
+   "mainstream": "In the late 1940s the American chemist Willard Libby and colleagues showed that the age of once-living material can be measured from its content of carbon-14, a radioactive form of carbon created in the atmosphere that decays with a half-life of about 5,700 years. In 1949 James Arnold and Libby published dates for samples of known age, such as wood from Egyptian tombs, which matched the historical dates. Libby received the Nobel Prize in Chemistry in 1960. Researchers later found that the amount of carbon-14 in the air had varied over time, so radiocarbon dates are now calibrated using tree rings, corals and other records; accelerator mass spectrometry from the late 1970s allowed tiny samples to be dated.",
+   "alternatives": [
+    {
+     "label": "The radiocarbon revolution",
+     "text": "Calibrated dates showed that megalithic tombs in western Europe were older than the Egyptian pyramids. Archaeologist Colin Renfrew argued in Before Civilization (1973) that this overturned the idea that European monuments copied civilisations of the Near East."
+    },
+    {
+     "label": "Limits and controversies",
+     "text": "Contamination and reservoir effects can give misleading dates, and results have sparked disputes, such as the 1988 dating of the Shroud of Turin to the Middle Ages, which some still contest."
+    },
+    {
+     "label": "Young-Earth objections",
+     "text": "Some young-Earth creationists argue that measurable carbon-14 in coal and diamonds shows these are young. Physicists attribute such traces to contamination and instrument background; the method works only for the last roughly 50,000 years."
+    }
+   ],
+   "changed": "Before radiocarbon, prehistoric dates depended on guesswork and links to Egyptian chronology; after calibration many sites proved far older than assumed.",
+   "sources": [
+    {
+     "title": "Wikipedia: Radiocarbon dating",
+     "url": "https://en.wikipedia.org/wiki/Radiocarbon_dating",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Age Determinations by Radiocarbon Content: Checks with Samples of Known Age",
+     "authors": "Arnold, J. et al.",
+     "year": 1949,
+     "doi": "10.1126/science.110.2869.678",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: Willard Libby",
+     "url": "https://en.wikipedia.org/wiki/Willard_Libby",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/24_Tagung_1974_Chemiker_Willard_F._Libby_-_W134Nr.101113a_-_Willy_Pragher.jpg/500px-24_Tagung_1974_Chemiker_Willard_F._Libby_-_W134Nr.101113a_-_Willy_Pragher.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:24_Tagung_1974_Chemiker_Willard_F._Libby_-_W134Nr.101113a_-_Willy_Pragher.jpg",
+     "author": "Willy Pragher",
+     "license": "CC BY 3.0 de",
+     "title": "24_Tagung_1974_Chemiker_Willard_F._Libby_-_W134Nr.101113a_-_Willy_Pragher.jpg"
+    }
+   ],
+   "categories": [
+    "science-cosmos",
+    "archaeology"
+   ],
+   "threads": [
+    "changed-understanding",
+    "tested-by-experiment",
+    "chronology-wars",
+    "dating-the-past"
+   ]
+  },
+  {
+   "id": "nostradamus",
+   "title": "Nostradamus and the prophecies that fit anything (1555)",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1555,
+   "end": null,
+   "dateNote": "Les Prophéties published 1555",
+   "evidenceTypes": [
+    "textual"
+   ],
+   "mainstream": "Michel de Nostredame (1503–1566), a French apothecary and astrologer known as Nostradamus, published Les Prophéties in 1555, a collection of four-line verses (quatrains) grouped in 'centuries' of 100. Written in obscure, mixed French with Latin, Greek and anagrams, and almost without dates, they won him fame at the court of Catherine de' Medici. Since then readers have claimed the quatrains foretold events such as the Great Fire of London, the French Revolution, Napoleon, Hitler and the 11 September 2001 attacks. His books have rarely been out of print.",
+   "alternatives": [
+    {
+     "label": "Believers",
+     "text": "Supporters see some quatrains as strikingly precise predictions, for example a verse mentioning Hister, which they read as Hitler."
+    },
+    {
+     "label": "Sceptics and historians",
+     "text": "Scholars note that Hister was a classical name for the Danube, that interpretations are almost always made after events, and that the vague language can fit many outcomes; several famous quatrains circulated online are fabricated."
+    },
+    {
+     "label": "Sources",
+     "text": "Researchers such as Peter Lemesurier have shown that many verses reworked earlier writings and historical events, using them as patterns for the future."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Nostradamus",
+     "url": "https://en.wikipedia.org/wiki/Nostradamus",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Les Prophéties",
+     "url": "https://en.wikipedia.org/wiki/Les_Proph%C3%A9ties",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Nostradamus_by_Cesar.jpg/500px-Nostradamus_by_Cesar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Nostradamus_by_Cesar.jpg",
+     "author": "César de Notre-Dame",
+     "license": "Public domain",
+     "title": "Nostradamus_by_Cesar.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "anomalies",
+    "religion"
+   ],
+   "threads": [
+    "seeing-what-we-expect",
+    "prophecies"
+   ]
+  },
+  {
+   "id": "ball-lightning",
+   "title": "Ball lightning: glowing spheres science still cannot fully explain",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 1638,
+   "end": null,
+   "dateNote": "reported for centuries; Widecombe 1638; recorded 2012",
+   "evidenceTypes": [
+    "eyewitness",
+    "instrumental",
+    "experimental"
+   ],
+   "mainstream": "Ball lightning is a rarely observed phenomenon in which a glowing sphere, usually from a few centimetres to about a metre across, appears during thunderstorms, floats or drifts for seconds, and then fades or explodes. Accounts go back centuries; one of the earliest detailed reports is the Great Thunderstorm at Widecombe-in-the-Moor, England, in 1638, when a ball of fire reportedly entered a church during a service. In July 2012 Chinese scientists studying ordinary lightning on the Tibetan Plateau happened to record a ball lightning event with cameras and spectrometers, and published its spectrum in 2014, which showed elements from the soil such as silicon, iron and calcium.",
+   "alternatives": [
+    {
+     "label": "Vaporised soil",
+     "text": "One leading hypothesis, proposed by John Abrahamson and James Dinniss in 2000, is that lightning striking the ground vaporises silicon and other elements, which then slowly burn in air as a glowing ball; the 2012 observation is consistent with this."
+    },
+    {
+     "label": "Other hypotheses",
+     "text": "Other proposals include microwave radiation trapped in a plasma bubble and electrical discharges. Some physicists have suggested that some reports may be hallucinations caused by the magnetic fields of nearby lightning acting on the brain."
+    },
+    {
+     "label": "UFO confusion",
+     "text": "Ball lightning and similar luminous phenomena are sometimes suggested as explanations for UFO and ghost light reports, such as the Hessdalen lights; whether they explain specific cases is debated."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Ball lightning",
+     "url": "https://en.wikipedia.org/wiki/Ball_lightning",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Observation of the Optical and Spectral Characteristics of Ball Lightning",
+     "authors": "Cen, J. et al.",
+     "year": 2014,
+     "doi": "10.1103/PhysRevLett.112.035001",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: The Great Thunderstorm",
+     "url": "https://en.wikipedia.org/wiki/The_Great_Thunderstorm",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Ball_lightning.png/500px-Ball_lightning.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Ball_lightning.png",
+     "author": "Unknown",
+     "license": "Public domain",
+     "title": "Ball_lightning.png"
+    }
+   ],
+   "categories": [
+    "science-cosmos",
+    "anomalies"
+   ],
+   "threads": [
+    "mysterious-lights",
+    "seeing-what-we-expect",
+    "tested-by-experiment"
+   ]
+  },
+  {
+   "id": "gef-talking-mongoose",
+   "title": "Gef, the talking mongoose of the Isle of Man (1931)",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 3,
+   "start": 1931,
+   "end": null,
+   "dateNote": "from c. 1931",
+   "evidenceTypes": [
+    "eyewitness",
+    "textual"
+   ],
+   "mainstream": "From about 1931 the Irving family, living in a remote farmhouse at Cashen's Gap near Dalby on the Isle of Man, claimed that a creature living in the walls, which called itself Gef and said it was a mongoose born in New Delhi, India, in 1852, spoke to them, sang, swore, told jokes and brought back gossip from the island. The case attracted wide coverage in the British press and visits from psychical researchers, including Harry Price, Hereward Carrington and Nandor Fodor. Price and the journalist R. S. Lambert published The Haunting of Cashen's Gap in 1936. Few outsiders ever claimed to hear or see Gef, and photographs show only a blurry animal.",
+   "alternatives": [
+    {
+     "label": "Ventriloquism and a lonely teenager",
+     "text": "Some investigators at the time and later critics concluded the family, and especially the Irvings' teenage daughter Voirrey, produced the voice by ventriloquism and other tricks."
+    },
+    {
+     "label": "An imaginary companion?",
+     "text": "Media scholar Jeffrey Sconce suggests Gef was most likely an imaginary companion created by the clever teenage daughter; sceptic Joe Nickell says its effects were hyped by family members, reporters and credulous investigators."
+    },
+    {
+     "label": "Belief",
+     "text": "Fodor and some later writers took the case seriously as a poltergeist or unexplained phenomenon; it remains a favourite of the paranormal literature."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Gef",
+     "url": "https://en.wikipedia.org/wiki/Gef",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Gef_the_talking_mongoose.png/500px-Gef_the_talking_mongoose.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Gef_the_talking_mongoose.png",
+     "author": "Harry Price and Richard Lambert",
+     "license": "Public domain",
+     "title": "Gef_the_talking_mongoose.png"
+    }
+   ],
+   "categories": [
+    "anomalies",
+    "hoaxes"
+   ],
+   "threads": [
+    "hoaxes-exposed",
+    "cryptids",
+    "haunted-houses",
+    "poltergeists"
+   ]
+  },
+  {
+   "id": "enfield-poltergeist",
+   "title": "The Enfield poltergeist (1977–1979)",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 1977,
+   "end": 1979,
+   "evidenceTypes": [
+    "eyewitness",
+    "photographic",
+    "audio recordings"
+   ],
+   "mainstream": "Between 1977 and 1979, the Hodgson family in a council house at 284 Green Street, Enfield, north London, reported furniture moving, knocking sounds and objects thrown about, centred on sisters Janet (11) and Margaret (13). Janet appeared to speak in a gruff male voice claiming to be a former occupant who had died in the house. Investigators from the Society for Psychical Research, notably Maurice Grosse and writer Guy Lyon Playfair, spent months there and believed the events were genuine; press photographers and the BBC recorded some incidents.",
+   "alternatives": [
+    {
+     "label": "Faking",
+     "text": "Other SPR investigators, such as Anita Gregory and John Beloff, were unconvinced and found evidence the girls faked some incidents. A video camera caught Janet bending spoons, and Grosse himself saw her banging a broom handle on the ceiling. The sisters admitted some pranks to journalists, while Grosse and Playfair held that other incidents were genuine."
+    },
+    {
+     "label": "Sceptics",
+     "text": "Sceptics including stage magician Milbourne Christopher and Joe Nickell argued the investigators were credulous and that the phenomena matched a children's hoax; critics say a famous photograph of Janet apparently levitating shows her bouncing off the bed."
+    },
+    {
+     "label": "Cultural impact",
+     "text": "The case inspired documentaries and the film The Conjuring 2 (2016), which centres on American paranormal investigators Ed and Lorraine Warren; according to sceptic Brian Dunning their real visit was short."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Enfield poltergeist",
+     "url": "https://en.wikipedia.org/wiki/Enfield_poltergeist",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/284_Green_Street%2C_Enfield.jpg/500px-284_Green_Street%2C_Enfield.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:284_Green_Street,_Enfield.jpg",
+     "author": "Mx. Granger",
+     "license": "CC0",
+     "title": "284_Green_Street,_Enfield.jpg"
+    }
+   ],
+   "categories": [
+    "anomalies",
+    "hoaxes"
+   ],
+   "threads": [
+    "hoaxes-exposed",
+    "haunted-houses",
+    "poltergeists"
+   ]
+  },
+  {
+   "id": "aurora-texas-1897",
+   "title": "The Aurora, Texas airship crash (1897): an alien buried in a Texas cemetery?",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 3,
+   "start": 1897,
+   "end": null,
+   "dateNote": "reported 19 April 1897",
+   "evidenceTypes": [
+    "textual"
+   ],
+   "mainstream": "On 19 April 1897, during a wave of mystery airship sightings across the United States, the Dallas Morning News printed a report by local correspondent S. E. Haydon that an airship had crashed into Judge J. S. Proctor's windmill in Aurora, Texas, on 17 April. The article said the pilot was 'not an inhabitant of this world', perhaps a Martian, and had been given a Christian burial in the town cemetery. The story was largely forgotten until it was revived in the 1960s and 1970s.",
+   "alternatives": [
+    {
+     "label": "A newspaper hoax?",
+     "text": "The hoax theory rests largely on Aurora resident Etta Pegues, who told Time magazine around 1979–1980 that Haydon wrote the story as a joke to bring interest to the town, which was dying after the railroad bypassed it. She also said Judge Proctor never had a windmill. Many historians regard the story as a tall tale of the 1897 airship craze."
+    },
+    {
+     "label": "Investigations",
+     "text": "In 1973 a MUFON team led by Bill Case reported new witnesses and a grave marker that seemed to show a flying object; the cemetery association refused permission to exhume, and the marker later disappeared. MUFON called the evidence inconclusive without ruling out a hoax. Later investigators reported finding the remains of a windmill base near the well and, with ground-penetrating radar, an unmarked grave among 1890s burials; none of this confirms a crash."
+    },
+    {
+     "label": "Part of a pattern",
+     "text": "The story is one of many 1896–1897 airship reports, which included both sightings of unexplained lights and many invented newspaper stories."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Aurora, Texas, UFO incident",
+     "url": "https://en.wikipedia.org/wiki/Aurora%2C_Texas%2C_UFO_incident",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Mystery airship",
+     "url": "https://en.wikipedia.org/wiki/Mystery_airship",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Haydon_article%2C_Aurora%2C_Texas%2C_UFO_incident%2C_1897.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Haydon_article,_Aurora,_Texas,_UFO_incident,_1897.jpg",
+     "author": "S. E. Haydon\n\n(Life time: fl. 1897)",
+     "license": "Public domain",
+     "title": "Haydon_article,_Aurora,_Texas,_UFO_incident,_1897.jpg"
+    }
+   ],
+   "categories": [
+    "aliens-ufo",
+    "hoaxes"
+   ],
+   "threads": [
+    "ufo-encounters",
+    "hoaxes-exposed",
+    "modern-legends",
+    "mystery-airships-wave"
    ]
   }
  ]
