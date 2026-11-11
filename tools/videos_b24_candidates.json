@@ -1,0 +1,122 @@
+{
+ "atrahasis": [],
+ "ishtar-gate": [
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=U2iZ83oIZH0",
+   "title": "Ishtar gate and Processional Way",
+   "channel": "Smarthistory"
+  }
+ ],
+ "rosetta-stone": [
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=Z8dZSySRX_g",
+   "title": "Why was the Rosetta Stone so important? - Franziska Naether",
+   "channel": "TED-Ed"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=klJBwnBHET8",
+   "title": "The Rosetta Stone and what it actually says with Ilona Regulski | Curator's Corner S7 Ep7",
+   "channel": "The British Museum"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=13UbufpgBuQ",
+   "title": "Decoding the Rosetta Stone (corrected version)",
+   "channel": "Smarthistory"
+  }
+ ],
+ "galilee-boat": [],
+ "colossus-of-rhodes": [],
+ "lighthouse-of-alexandria": [],
+ "minoan-snake-goddess": [],
+ "nimrud-lens": [],
+ "cyclops-dwarf-elephants": [],
+ "tall-el-hammam": [],
+ "ramayana": [],
+ "change-moon-goddess": [],
+ "penglai": [],
+ "shennong": [],
+ "yamato-takeru": [],
+ "ajanta-caves": [
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=InmFDhVyszw",
+   "title": "Ajanta Caves (UNESCO/NHK)",
+   "channel": "UNESCO"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=4kwDB8zeJ-E",
+   "title": "Ajanta Caves (UNESCO/TBS)",
+   "channel": "UNESCO"
+  }
+ ],
+ "todaiji-great-buddha": [],
+ "priest-king-mohenjo-daro": [],
+ "ta-prohm-stegosaurus": [],
+ "chola-srivijaya-1025": [],
+ "hannibal-alps": [
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=0gbPIyCuGTA",
+   "title": "Hannibal's elephants - BBC",
+   "channel": "BBC Studios"
+  }
+ ],
+ "impundulu": [],
+ "mfecane": [],
+ "thulamela": [],
+ "tikal": [],
+ "sacred-cenote": [],
+ "lost-dutchman-mine": [],
+ "vlad-dracula": [
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=XebzLcG1BoM",
+   "title": "The History of Vlad the Impaler | Atlas of Cursed Places",
+   "channel": "National Geographic"
+  }
+ ],
+ "mercy-brown": [],
+ "man-in-the-iron-mask": [],
+ "princes-in-the-tower": [
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=CAWv3USbW_4",
+   "title": "Who Killed The Princes in the Tower? | BBC Select",
+   "channel": "BBC Select"
+  }
+ ],
+ "nostradamus": [],
+ "rasputin-death": [
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=4dEf1ep3O9I",
+   "title": "The mysterious life and death of Rasputin - Eden Girma",
+   "channel": "TED-Ed"
+  }
+ ],
+ "ball-lightning": [],
+ "coso-artifact": [],
+ "aurora-texas-1897": [],
+ "gef-talking-mongoose": [],
+ "enfield-poltergeist": [],
+ "ourang-medan": [],
+ "radiocarbon-dating-1949": [
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=phZeE7Att_s",
+   "title": "How Does Radiocarbon Dating Work? - Instant Egghead #28",
+   "channel": "Scientific American"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=xQka8ohWLFo",
+   "title": "The Radiocarbon Dating Process: the Journey of a Sample",
+   "channel": "University of Oxford"
+  }
+ ]
+}

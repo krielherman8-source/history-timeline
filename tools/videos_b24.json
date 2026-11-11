@@ -1,0 +1,50 @@
+{
+ "ishtar-gate": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=U2iZ83oIZH0",
+  "title": "Ishtar gate and Processional Way",
+  "channel": "Smarthistory"
+ },
+ "rosetta-stone": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=Z8dZSySRX_g",
+  "title": "Why was the Rosetta Stone so important? - Franziska Naether",
+  "channel": "TED-Ed"
+ },
+ "ajanta-caves": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=InmFDhVyszw",
+  "title": "Ajanta Caves (UNESCO/NHK)",
+  "channel": "UNESCO"
+ },
+ "hannibal-alps": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=0gbPIyCuGTA",
+  "title": "Hannibal's elephants - BBC",
+  "channel": "BBC Studios"
+ },
+ "vlad-dracula": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=XebzLcG1BoM",
+  "title": "The History of Vlad the Impaler | Atlas of Cursed Places",
+  "channel": "National Geographic"
+ },
+ "princes-in-the-tower": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=CAWv3USbW_4",
+  "title": "Who Killed The Princes in the Tower? | BBC Select",
+  "channel": "BBC Select"
+ },
+ "rasputin-death": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=4dEf1ep3O9I",
+  "title": "The mysterious life and death of Rasputin - Eden Girma",
+  "channel": "TED-Ed"
+ },
+ "radiocarbon-dating-1949": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=phZeE7Att_s",
+  "title": "How Does Radiocarbon Dating Work? - Instant Egghead #28",
+  "channel": "Scientific American"
+ }
+}
