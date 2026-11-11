@@ -4341,7 +4341,8 @@
     "giant-monuments",
     "stories-proven-true",
     "knowledge-and-power",
-    "outsider-builder-claims"
+    "outsider-builder-claims",
+    "southern-africa"
    ]
   },
   {
@@ -4389,7 +4390,9 @@
     "history",
     "archaeology"
    ],
-   "threads": []
+   "threads": [
+    "southern-africa"
+   ]
   },
   {
    "id": "aksum",
@@ -4604,7 +4607,8 @@
     "science-cosmos"
    ],
    "threads": [
-    "first-art"
+    "first-art",
+    "southern-africa"
    ]
   },
   {
@@ -4643,7 +4647,8 @@
     "science-cosmos"
    ],
    "threads": [
-    "human-origins"
+    "human-origins",
+    "southern-africa"
    ]
   },
   {
@@ -9868,7 +9873,8 @@
     "anomalies"
    ],
    "threads": [
-    "giants-and-little-people"
+    "giants-and-little-people",
+    "southern-africa"
    ]
   },
   {
@@ -10761,7 +10767,9 @@
     "archaeology",
     "history"
    ],
-   "threads": []
+   "threads": [
+    "southern-africa"
+   ]
   },
   {
    "id": "igbo-ukwu",
@@ -10914,7 +10922,8 @@
     "lost-civilisations",
     "sky-beings",
     "ancient-astronomy",
-    "outsider-builder-claims"
+    "outsider-builder-claims",
+    "southern-africa"
    ]
   },
   {
@@ -11082,7 +11091,8 @@
    ],
    "threads": [
     "sacred-kingship",
-    "rain-and-drought"
+    "rain-and-drought",
+    "southern-africa"
    ]
   },
   {
@@ -14502,7 +14512,8 @@
    "threads": [
     "cryptids",
     "serpent-beings",
-    "rain-and-drought"
+    "rain-and-drought",
+    "southern-africa"
    ]
   },
   {
@@ -17070,7 +17081,8 @@
    ],
    "threads": [
     "shapeshifters",
-    "island-southeast-asia"
+    "island-southeast-asia",
+    "vampire-panics"
    ]
   },
   {
@@ -20749,7 +20761,8 @@
     "changed-understanding",
     "human-origins",
     "rejected-pioneers",
-    "giant-birds"
+    "giant-birds",
+    "southern-africa"
    ]
   },
   {
@@ -20812,7 +20825,8 @@
    "threads": [
     "shapeshifters",
     "rain-and-drought",
-    "altered-states"
+    "altered-states",
+    "southern-africa"
    ]
   },
   {
@@ -20990,7 +21004,8 @@
    "threads": [
     "returning-saviours",
     "millenarian-movements",
-    "visionary-women"
+    "visionary-women",
+    "southern-africa"
    ]
   },
   {
@@ -21793,7 +21808,8 @@
    ],
    "threads": [
     "monster-panics",
-    "plagues-and-epidemics"
+    "plagues-and-epidemics",
+    "vampire-panics"
    ]
   },
   {
@@ -30105,7 +30121,8 @@
    ],
    "threads": [
     "deep-oral-memory",
-    "creation-myths"
+    "creation-myths",
+    "southern-africa"
    ]
   },
   {
@@ -30170,7 +30187,8 @@
    "threads": [
     "changed-understanding",
     "knowledge-and-power",
-    "sacred-kingship"
+    "sacred-kingship",
+    "southern-africa"
    ]
   },
   {
@@ -38767,7 +38785,8 @@
    "threads": [
     "shapeshifters",
     "mysterious-lights",
-    "caribbean-worlds"
+    "caribbean-worlds",
+    "vampire-panics"
    ]
   },
   {
@@ -38957,7 +38976,8 @@
    ],
    "threads": [
     "human-origins",
-    "mastering-fire"
+    "mastering-fire",
+    "southern-africa"
    ]
   },
   {
@@ -54753,6 +54773,592 @@
     "seeing-what-we-expect",
     "southeast-asian-kingdoms",
     "out-of-place-artifacts"
+   ]
+  },
+  {
+   "id": "impundulu",
+   "title": "The impundulu: the lightning bird of southern Africa",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 3,
+   "start": 1850,
+   "end": null,
+   "dateNote": "recorded from the 19th century; older oral tradition",
+   "evidenceTypes": [
+    "oral tradition",
+    "ethnographic"
+   ],
+   "mainstream": "In the folklore of the Zulu and neighbouring peoples of southern Africa, the impundulu or lightning bird is a black-and-white bird the size of a person that summons thunder and lightning with its wings and talons. It is said to be the servant or familiar of a witch, sent to attack the witch's enemies, and to have a vampire-like hunger for blood; sometimes it appears as a handsome young man who seduces women. Where lightning strikes, people have traditionally believed the bird laid an egg or left a trace, and traditional healers have been called on to dig it out or protect homes. The dateNote marks when such beliefs were first written down by outsiders; the tradition itself is older.",
+   "alternatives": [
+    {
+     "label": "Real birds behind it?",
+     "text": "Some writers link the lightning bird to real birds such as the hamerkop, which is surrounded by many beliefs about storms and bad luck in southern Africa; this connection is suggested rather than established."
+    },
+    {
+     "label": "Lightning and witchcraft today",
+     "text": "South Africa's highveld has some of the highest lightning densities in the world, and in parts of the region lightning deaths are still sometimes blamed on witchcraft, which has led to violence against accused people."
+    },
+    {
+     "label": "A global pattern",
+     "text": "Thunderbirds appear in many traditions, including Indigenous North America; the parallel is often noted as a widespread way of explaining storms."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Lightning bird",
+     "url": "https://en.wikipedia.org/wiki/Lightning_bird",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Hammerkop_Scopus_umbretta_National_Aviary_2000px.jpg/500px-Hammerkop_Scopus_umbretta_National_Aviary_2000px.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Hammerkop_Scopus_umbretta_National_Aviary_2000px.jpg",
+     "author": "Photo by and (C)2007 Derek Ramsey (Ram-Man)",
+     "license": "CC BY-SA 2.5",
+     "title": "Hammerkop_Scopus_umbretta_National_Aviary_2000px.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend"
+   ],
+   "threads": [
+    "sky-beings",
+    "shapeshifters",
+    "giant-birds",
+    "witch-hunts",
+    "southern-africa",
+    "vampire-panics"
+   ]
+  },
+  {
+   "id": "mfecane",
+   "title": "The Mfecane: southern Africa's time of upheaval and a history war",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 1815,
+   "end": 1840,
+   "evidenceTypes": [
+    "textual",
+    "oral tradition"
+   ],
+   "mainstream": "The Mfecane (Zulu, roughly 'the crushing') or Difaqane (Sotho) refers to a period of wars, migrations and new state formation in southern Africa, most intensely from about the 1810s to the 1840s. In this period the Zulu kingdom grew under Shaka, and groups such as the Ndebele under Mzilikazi, the Kololo and the Ngoni moved hundreds or thousands of kilometres, some as far as Zambia, Malawi and Tanzania. New kingdoms, such as Lesotho under Moshoeshoe I and Swaziland (Eswatini), took shape. Traditional estimates of deaths ran from one to two million, but these figures are controversial.",
+   "alternatives": [
+    {
+     "label": "The traditional view",
+     "text": "Older histories, many written by colonial-era authors, described the Mfecane as a chain reaction of destruction started by Shaka's Zulu expansion, which left land empty for European settlers."
+    },
+    {
+     "label": "The Cobbing challenge",
+     "text": "In 1988 historian Julian Cobbing argued that the Mfecane as usually told was an alibi: that slave and labour raiding linked to the Portuguese at Delagoa Bay and to settlers and missionaries on the Cape frontier drove much of the violence, and that the Zulu-centred story served colonial interests."
+    },
+    {
+     "label": "A middle position",
+     "text": "Most historians now see a mix of causes, including drought, competition over trade, internal political change and colonial pressure, and they reject the idea of empty land, while not accepting every point of Cobbing's thesis."
+    }
+   ],
+   "changed": "From the 1980s the Mfecane changed from a story of Zulu-caused devastation to a debated, multi-cause period, as historians questioned colonial sources.",
+   "sources": [
+    {
+     "title": "Wikipedia: Mfecane",
+     "url": "https://en.wikipedia.org/wiki/Mfecane",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Shaka",
+     "url": "https://en.wikipedia.org/wiki/Shaka",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Departure_of_the_Fingoes-1840.jpg/500px-Departure_of_the_Fingoes-1840.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Departure_of_the_Fingoes-1840.jpg",
+     "author": "Unknown",
+     "license": "Public domain",
+     "title": "Departure_of_the_Fingoes-1840.jpg"
+    }
+   ],
+   "categories": [
+    "history"
+   ],
+   "threads": [
+    "changed-understanding",
+    "myths-about-history",
+    "resistance-to-empire",
+    "southern-africa"
+   ]
+  },
+  {
+   "id": "thulamela",
+   "title": "Thulamela: a gold-working hilltop kingdom in the Kruger Park",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 3,
+   "start": 1250,
+   "end": 1650,
+   "dateNote": "c. 13th–17th century",
+   "evidenceTypes": [
+    "archaeological",
+    "oral tradition"
+   ],
+   "mainstream": "Thulamela is a stone-walled hilltop site south of the Luvuvhu (Levubu) River in the far north of South Africa's Kruger National Park, one of about 300 archaeological sites in the park. Excavations led by Sidney Miller from 1993 to 1995 found that a community lived there from about the 13th century to the 17th century, working gold, copper and iron into jewellery, hoes and blades. It was linked to the same cultural world and trade networks as Mapungubwe, Great Zimbabwe and Khami, which reached the Indian Ocean coast. Two elite burials with gold ornaments were found and given the names King Ingwe and Queen Losha, and the walls were partly rebuilt for visitors.",
+   "alternatives": [
+    {
+     "label": "Who were they?",
+     "text": "Local Venda and other communities claim connections with Thulamela, and descendants were involved in the reburial of the remains. Archaeologists link it to the wider Zimbabwe tradition but the exact identity of its people is debated."
+    },
+    {
+     "label": "Older myths of foreign builders",
+     "text": "Colonial-era writers often claimed that stone-walled sites in southern Africa were built by outsiders such as Phoenicians. Archaeology at sites like Thulamela and Great Zimbabwe shows they were built by African societies, and the foreign-builder idea is rejected."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Thulamela",
+     "url": "https://en.wikipedia.org/wiki/Thulamela",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Baobabs_%40_Thulamela_Ruins_near_Pafuri_%281648014026%29.jpg/500px-Baobabs_%40_Thulamela_Ruins_near_Pafuri_%281648014026%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Baobabs_@_Thulamela_Ruins_near_Pafuri_(1648014026).jpg",
+     "author": "Michael (Fihliwe) Denne",
+     "license": "CC BY-SA 2.0",
+     "title": "Baobabs_@_Thulamela_Ruins_near_Pafuri_(1648014026).jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history"
+   ],
+   "threads": [
+    "outsider-builder-claims",
+    "trade-networks",
+    "rediscovered-civilisations",
+    "southern-africa"
+   ]
+  },
+  {
+   "id": "sacred-cenote",
+   "title": "The Sacred Cenote of Chichén Itzá and who was really sacrificed",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 800,
+   "end": null,
+   "dateNote": "used c. 800–1500s CE; dredged 1904–1910",
+   "evidenceTypes": [
+    "archaeological",
+    "textual",
+    "genetic"
+   ],
+   "mainstream": "The Sacred Cenote is a large natural sinkhole at the Maya city of Chichén Itzá in Yucatán, Mexico. Maya and Spanish colonial sources, including the bishop Diego de Landa, say people threw offerings and human beings into it, especially to the rain god Chaac in times of drought. Between 1904 and 1910 the American consul Edward H. Thompson dredged it and sent gold, jade, copal and human bones to Harvard's Peabody Museum; some objects were later returned to Mexico. Later excavations recovered more remains, including many of children and men.",
+   "alternatives": [
+    {
+     "label": "The virgin myth",
+     "text": "The popular idea that beautiful young women were thrown into the well comes largely from early 20th-century romantic writing. Studies of the bones found a wide range of victims, with many children."
+    },
+    {
+     "label": "What DNA showed",
+     "text": "A 2024 genetic study in Nature of 64 children buried in an underground chamber near the cenote found all were boys, many closely related, including two pairs of identical twins, which the authors linked to Maya stories of the Hero Twins. The authors note this was a separate burial site from the cenote itself."
+    },
+    {
+     "label": "Looting or rescue?",
+     "text": "Thompson's removal of artefacts is now widely viewed as looting, though some at the time saw it as salvage archaeology."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Sacred Cenote",
+     "url": "https://en.wikipedia.org/wiki/Sacred_Cenote",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Ancient genomes reveal insights into ritual life at Chichén Itzá",
+     "authors": "Barquera, R. et al.",
+     "year": 2024,
+     "doi": "10.1038/s41586-024-07509-7",
+     "type": "paper"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Cenote_Xtoloc_en_Chich%C3%A9n_Itz%C3%A1.jpg/500px-Cenote_Xtoloc_en_Chich%C3%A9n_Itz%C3%A1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Cenote_Xtoloc_en_Chich%C3%A9n_Itz%C3%A1.jpg",
+     "author": "Salhedine",
+     "license": "CC BY-SA 4.0",
+     "title": "Cenote_Xtoloc_en_Chichén_Itzá.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "religion",
+    "history"
+   ],
+   "threads": [
+    "changed-understanding",
+    "rain-and-drought",
+    "lost-treasures",
+    "human-sacrifice",
+    "water-spirits",
+    "central-america"
+   ]
+  },
+  {
+   "id": "vlad-dracula",
+   "title": "Vlad the Impaler: the real prince behind Dracula",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1448,
+   "end": 1476,
+   "dateNote": "ruled 1448, 1456–1462, 1476",
+   "evidenceTypes": [
+    "textual"
+   ],
+   "mainstream": "Vlad III, Prince of Wallachia (in present-day Romania), ruled three times: briefly in 1448, from 1456 to 1462, and in 1476, when he was killed. His father was a member of the Order of the Dragon, which gave him the name Dracul, so Vlad was called Dracula, 'son of the Dragon'. He fought the Ottoman Empire and rival boyars and became infamous for impaling enemies and captives; pamphlets printed in German lands in the 1460s–1490s spread horror stories about him. In Romania he is often remembered as a defender of the country and a stern enforcer of justice.",
+   "alternatives": [
+    {
+     "label": "Did he inspire Stoker's Dracula?",
+     "text": "Bram Stoker's 1897 novel took the name Dracula and some historical notes about a Wallachian voivode. Scholars such as Elizabeth Miller argue Stoker knew little about Vlad, and that the popular link between Vlad and the vampire was largely built up by later writers from the 1970s."
+    },
+    {
+     "label": "How cruel was he?",
+     "text": "The worst stories come from his enemies, especially German pamphlets and Ottoman chroniclers, so historians debate how much is propaganda, while agreeing he used mass impalement."
+    },
+    {
+     "label": "His tomb",
+     "text": "Snagov Monastery has traditionally been named as his burial place, but excavations there did not confirm it, and other proposals, including Comana monastery and a 2014 claim of a tomb in Naples, are not accepted."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Vlad the Impaler",
+     "url": "https://en.wikipedia.org/wiki/Vlad_the_Impaler",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Dracula",
+     "url": "https://en.wikipedia.org/wiki/Dracula",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Vlad_%C5%A2epe%C5%9F%2C_the_Impaler%2C_Prince_of_Wallachia_%281456-1462%29_%28died_1477%29.jpg/500px-Vlad_%C5%A2epe%C5%9F%2C_the_Impaler%2C_Prince_of_Wallachia_%281456-1462%29_%28died_1477%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Vlad_%C5%A2epe%C5%9F,_the_Impaler,_Prince_of_Wallachia_(1456-1462)_(died_1477).jpg",
+     "author": "AnonymousUnknown author",
+     "license": "Public domain",
+     "title": "Vlad_Ţepeş,_the_Impaler,_Prince_of_Wallachia_(1456-1462)_(died_1477).jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "myth-legend"
+   ],
+   "threads": [
+    "holy-wars",
+    "balkan-crossroads",
+    "royal-propaganda",
+    "myths-about-history",
+    "resistance-to-empire",
+    "vampire-panics"
+   ]
+  },
+  {
+   "id": "mercy-brown",
+   "title": "Mercy Brown and the New England vampire panic (1892)",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 3,
+   "start": 1892,
+   "end": null,
+   "evidenceTypes": [
+    "textual",
+    "archaeological"
+   ],
+   "mainstream": "In Exeter, Rhode Island, the family of George Brown was struck by tuberculosis (then called consumption): his wife and daughter Mary Olive died in the 1880s, and in January 1892 his daughter Mercy died aged 19 while his son Edwin was gravely ill. Neighbours persuaded George that one of the dead was draining the life of the living. In March 1892 the bodies were exhumed; Mercy's, kept in a cold above-ground crypt, appeared little decayed and had blood in the heart. Her heart was burned and the ashes mixed with medicine for Edwin, who died two months later. Newspapers reported the case widely.",
+   "alternatives": [
+    {
+     "label": "The wider panic",
+     "text": "Folklorist Michael Bell and others documented dozens of similar exhumations across New England from the late 18th to the late 19th century, all linked to tuberculosis outbreaks, which spread within families and slowly wasted people away."
+    },
+    {
+     "label": "Why did the body look fresh?",
+     "text": "Medical explanations point to the winter cold, which slowed decay; such normal changes in corpses were often taken as signs of vampirism, as in European cases like that of Arnold Paole."
+    },
+    {
+     "label": "Did it inspire Dracula?",
+     "text": "Some scholars have suggested that Bram Stoker knew of the case from newspaper reports and drew on it for the character Lucy Westenra in Dracula (1897); this link is plausible but unproven."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Mercy Brown vampire incident",
+     "url": "https://en.wikipedia.org/wiki/Mercy_Brown_vampire_incident",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: New England vampire panic",
+     "url": "https://en.wikipedia.org/wiki/New_England_vampire_panic",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/MercyBrownGravestone.jpg/500px-MercyBrownGravestone.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:MercyBrownGravestone.jpg",
+     "author": "Cbarry123",
+     "license": "Public domain",
+     "title": "MercyBrownGravestone.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "myth-legend"
+   ],
+   "threads": [
+    "plagues-and-epidemics",
+    "vampire-panics"
+   ]
+  },
+  {
+   "id": "hannibal-alps",
+   "title": "Hannibal crosses the Alps with elephants (218 BCE)",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": -218,
+   "end": null,
+   "dateNote": "autumn 218 BCE",
+   "evidenceTypes": [
+    "textual",
+    "archaeological",
+    "environmental"
+   ],
+   "mainstream": "In 218 BCE, at the start of the Second Punic War, the Carthaginian general Hannibal led an army of tens of thousands of soldiers, cavalry and about 37 war elephants from Spain over the Pyrenees and the Alps into Italy, to attack Rome from the north. The crossing in late autumn cost him many men and animals to cold, landslides and attacks by mountain tribes, but he went on to win great victories at the Trebia, Lake Trasimene and Cannae (216 BCE). He stayed in Italy for about 15 years but never took Rome, and Carthage was defeated at Zama in 202 BCE. The main ancient accounts are by Polybius and Livy.",
+   "alternatives": [
+    {
+     "label": "Which pass?",
+     "text": "The route has been argued over since antiquity, with candidates including the Col du Mont Cenis, Col du Clapier, Col du Montgenèvre, Little St Bernard and Col de la Traversette."
+    },
+    {
+     "label": "Evidence in the mud",
+     "text": "In 2016–2017 a team led by William Mahaney reported a disturbed layer of soil near the Col de la Traversette containing large amounts of microbes typical of horse dung, radiocarbon dated to around 200 BCE, and proposed it marks Hannibal's army. Other researchers consider this suggestive but not conclusive."
+    },
+    {
+     "label": "How many elephants survived?",
+     "text": "Polybius says nearly all the elephants died after the battle of the Trebia that winter, leaving only one. A Roman tradition preserved by Pliny names a brave Carthaginian elephant Surus, and some writers identify it with that survivor; this is uncertain."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Hannibal's crossing of the Alps",
+     "url": "https://en.wikipedia.org/wiki/Hannibal's_crossing_of_the_Alps",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Biostratigraphic Evidence Relating to the Age-Old Question of Hannibal's Invasion of Italy, I: History and Geological Reconstruction",
+     "authors": "Mahaney, W. et al.",
+     "year": 2016,
+     "doi": "10.1111/arcm.12231",
+     "type": "paper"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Hannibal_Barca_bust_from_Capua_photo.jpg/500px-Hannibal_Barca_bust_from_Capua_photo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Hannibal_Barca_bust_from_Capua_photo.jpg",
+     "author": "Fratelli Alinari",
+     "license": "Public domain",
+     "title": "Hannibal_Barca_bust_from_Capua_photo.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology"
+   ],
+   "threads": [
+    "tested-by-experiment",
+    "classical-world"
+   ]
+  },
+  {
+   "id": "tikal",
+   "title": "Tikal: Maya super-city and the strangers from Teotihuacan (378 CE)",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 200,
+   "end": 900,
+   "dateNote": "flourished c. 200–900 CE; entrada 378 CE",
+   "evidenceTypes": [
+    "archaeological",
+    "epigraphic",
+    "lidar"
+   ],
+   "mainstream": "Tikal, in the rainforest of northern Guatemala, was one of the most powerful cities of the Classic Maya, with tall temple-pyramids, palaces and a royal dynasty recorded in carved inscriptions. It was settled by about the 1st millennium BCE and flourished roughly 200–900 CE, before being abandoned during the Classic Maya collapse. Inscriptions record that in 378 CE a warlord named Sihyaj K'ahk' arrived, on the same day the local king died, and a new king linked to the distant city of Teotihuacan in central Mexico was installed. In 2018 a lidar survey of the Maya lowlands revealed many previously unknown structures and defences around Tikal. It became a UNESCO World Heritage Site in 1979, and in 1977 it was filmed as the rebel base in Star Wars.",
+   "alternatives": [
+    {
+     "label": "Conquest or alliance?",
+     "text": "Epigraphers debate whether the 378 entrada was a military takeover by Teotihuacan, an alliance, or the work of a local faction using Teotihuacan symbols for prestige."
+    },
+    {
+     "label": "How many people?",
+     "text": "Population estimates for Tikal and its surroundings have risen sharply with lidar, but range widely, from tens of thousands to more than 100,000."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Tikal",
+     "url": "https://en.wikipedia.org/wiki/Tikal",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Siyaj Kʼakʼ",
+     "url": "https://en.wikipedia.org/wiki/Siyaj_K%CA%BCak%CA%BC",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Tikal_3.jpg/500px-Tikal_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Tikal_3.jpg",
+     "author": "Mundo Maya",
+     "license": "CC BY-SA 4.0",
+     "title": "Tikal_3.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history",
+    "lost-civilisations"
+   ],
+   "threads": [
+    "civilisation-collapses",
+    "rediscovered-civilisations",
+    "central-america"
+   ]
+  },
+  {
+   "id": "lost-dutchman-mine",
+   "title": "The Lost Dutchman's Gold Mine, Superstition Mountains",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 3,
+   "start": 1891,
+   "end": null,
+   "dateNote": "Waltz died 1891; legend grew after",
+   "evidenceTypes": [
+    "textual",
+    "oral tradition"
+   ],
+   "mainstream": "According to legend, a German immigrant named Jacob Waltz (c. 1810–1891), known as 'the Dutchman', found a fabulously rich gold mine in the Superstition Mountains east of Phoenix, Arizona, and took its location to the grave, leaving only vague clues told on his deathbed. Since then thousands of people have searched for it, and some have died or vanished in the rugged terrain, which added to stories of a curse. The tale grew through newspaper articles, books and later films and television. It is perhaps the most famous lost mine legend in the United States.",
+   "alternatives": [
+    {
+     "label": "Geology says unlikely",
+     "text": "Geologists have long noted that the Superstition Mountains are mainly volcanic rock considered unlikely to contain rich gold veins, though gold was mined elsewhere in the region."
+    },
+    {
+     "label": "Waltz may have had gold",
+     "text": "Some researchers think Waltz really did have gold, perhaps from elsewhere or from high-grading at local mines, and that the legend grew around him."
+    },
+    {
+     "label": "Apache traditions",
+     "text": "Some versions say the mountains were sacred to the Apache and guarded against outsiders; others tell of earlier Peralta family miners. Historians consider many of these details later inventions."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Lost Dutchman's Gold Mine",
+     "url": "https://en.wikipedia.org/wiki/Lost_Dutchman's_Gold_Mine",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Weaversneedle.jpg/500px-Weaversneedle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Weaversneedle.jpg",
+     "author": "Chris C Jones",
+     "license": "CC BY-SA 2.5",
+     "title": "Weaversneedle.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "history"
+   ],
+   "threads": [
+    "disappearances",
+    "lost-treasures",
+    "modern-legends",
+    "curses-and-hauntings",
+    "native-north-america"
+   ]
+  },
+  {
+   "id": "man-in-the-iron-mask",
+   "title": "The Man in the Iron Mask (died 1703)",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1669,
+   "end": 1703,
+   "dateNote": "imprisoned 1669–1703",
+   "evidenceTypes": [
+    "textual"
+   ],
+   "mainstream": "The Man in the Iron Mask was a prisoner held in French state prisons from 1669 until his death in the Bastille in 1703, always in the custody of the same jailer, Bénigne Dauvergne de Saint-Mars. Records show he was arrested under the name Eustache Dauger and that his face was hidden from others; contemporary accounts say the mask was black velvet, not iron. His burial was registered under the name Marchioly. The mystery was made famous by Voltaire, and later by Alexandre Dumas's novel The Vicomte of Bragelonne, which made him Louis XIV's twin brother.",
+   "alternatives": [
+    {
+     "label": "Who was he?",
+     "text": "Many historians think he was indeed Eustache Dauger, possibly a valet who knew secrets linked to the imprisoned finance minister Nicolas Fouquet or to political dealings. Other candidates include the Italian diplomat Ercole Antonio Mattioli, whose name resembles the burial record."
+    },
+    {
+     "label": "Royal twin or brother?",
+     "text": "Voltaire hinted, and Dumas dramatised, that he was a brother of Louis XIV; there is no evidence for this, though it remains the best-known version."
+    },
+    {
+     "label": "Why so secret?",
+     "text": "The extreme secrecy may have been designed to make him seem more important than he was, or to stop him revealing what he knew; the reason remains unknown."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Man in the Iron Mask",
+     "url": "https://en.wikipedia.org/wiki/Man_in_the_Iron_Mask",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Man_in_the_Iron_Masque.jpg/500px-Man_in_the_Iron_Masque.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Man_in_the_Iron_Masque.jpg",
+     "author": "AnonymousUnknown author",
+     "license": "Public domain",
+     "title": "Man in the Iron Masque.jpg"
+    }
+   ],
+   "categories": [
+    "history"
+   ],
+   "threads": [
+    "impostors-and-lost-heirs",
+    "secret-societies",
+    "royal-propaganda"
    ]
   }
  ]
