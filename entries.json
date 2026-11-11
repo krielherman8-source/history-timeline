@@ -1645,7 +1645,8 @@
     "myth-legend"
    ],
    "threads": [
-    "flood-myths"
+    "flood-myths",
+    "south-asian-epics"
    ]
   },
   {
@@ -9368,7 +9369,9 @@
     "archaeology",
     "history"
    ],
-   "threads": []
+   "threads": [
+    "origins-of-farming"
+   ]
   },
   {
    "id": "kuwae",
@@ -11377,7 +11380,8 @@
    ],
    "threads": [
     "sky-omens",
-    "world-ages-and-resets"
+    "world-ages-and-resets",
+    "moon-myths"
    ]
   },
   {
@@ -30857,7 +30861,8 @@
     "world-ages-and-resets",
     "ancient-technology",
     "ancient-flight",
-    "holy-wars"
+    "holy-wars",
+    "south-asian-epics"
    ]
   },
   {
@@ -31071,7 +31076,8 @@
     "serpent-beings",
     "sky-omens",
     "creation-myths",
-    "elixirs-of-immortality"
+    "elixirs-of-immortality",
+    "south-asian-epics"
    ]
   },
   {
@@ -48966,7 +48972,8 @@
     "cosmic-impacts",
     "changed-understanding",
     "hunter-gatherer-monuments",
-    "levant-crossroads"
+    "levant-crossroads",
+    "origins-of-farming"
    ]
   },
   {
@@ -54166,6 +54173,586 @@
     "divine-punishment",
     "bronze-age-world",
     "levant-crossroads"
+   ]
+  },
+  {
+   "id": "ramayana",
+   "title": "The Ramayana: Rama, Sita, Hanuman and a bridge to Lanka",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 1,
+   "start": -500,
+   "end": null,
+   "dateNote": "composed c. 5th century BCE–early centuries CE",
+   "evidenceTypes": [
+    "textual",
+    "oral tradition"
+   ],
+   "mainstream": "The Ramayana is a Sanskrit epic traditionally attributed to the sage Valmiki. Scholars think it was composed in stages, with core books perhaps from around the 5th to 4th century BCE and later additions into the early centuries CE. It tells how Prince Rama of Ayodhya is exiled, how his wife Sita is abducted by Ravana, the king of Lanka, and how Rama rescues her with the help of his brother Lakshmana and an army of monkeys and bears led by Hanuman, after building a bridge across the sea. It became one of the most influential stories in Asia, retold in hundreds of versions such as Tulsidas's Ramcharitmanas, the Thai Ramakien, the Khmer Reamker and the Javanese Kakawin Ramayana, and in dance, puppetry and temple carvings from India to Indonesia.",
+   "alternatives": [
+    {
+     "label": "Myth or history?",
+     "text": "Many Hindus regard Rama as a historical figure and an avatar of Vishnu who lived in the Treta Yuga, an earlier world age. Historians treat the epic as literature built over centuries, though it may preserve memories of real places and kingdoms in ancient India."
+    },
+    {
+     "label": "Rama's Bridge",
+     "text": "The chain of shoals between India and Sri Lanka, called Ram Setu or Adam's Bridge, is identified by many believers with the bridge in the epic. Geologists describe it as a natural formation of sand and coral shoals."
+    },
+    {
+     "label": "Flying chariots",
+     "text": "Ravana's flying chariot, the Pushpaka vimana, is cited by some modern writers as evidence of ancient aircraft. Scholars read it as a mythological vehicle of the gods; the aircraft claim is speculative."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Ramayana",
+     "url": "https://en.wikipedia.org/wiki/Ramayana",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Versions of the Ramayana",
+     "url": "https://en.wikipedia.org/wiki/Versions_of_the_Ramayana",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/R%C4%81ma_slays_R%C4%81va%E1%B9%87a.png/500px-R%C4%81ma_slays_R%C4%81va%E1%B9%87a.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:R%C4%81ma_slays_R%C4%81va%E1%B9%87a.png",
+     "author": "Scribes and painters employed by the Kingdom of Mewar.",
+     "license": "Public domain",
+     "title": "Rāma_slays_Rāvaṇa.png"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion"
+   ],
+   "threads": [
+    "sacred-kingship",
+    "ancient-flight",
+    "south-asian-epics"
+   ]
+  },
+  {
+   "id": "shennong",
+   "title": "Shennong, the Divine Farmer who tasted every herb",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 3,
+   "start": -2737,
+   "end": null,
+   "dateNote": "traditional date 2737 BCE (legendary)",
+   "evidenceTypes": [
+    "textual",
+    "oral tradition"
+   ],
+   "mainstream": "Shennong (the Divine Farmer) is a legendary ruler of ancient China, counted among the Three Sovereigns, who is said to have taught people to farm with the plough and to have tested hundreds of plants on himself to find which were medicines and which were poisons, sometimes being poisoned dozens of times in a day. The classic herbal Shennong Bencao Jing, which lists 365 medicinal substances, bears his name but was compiled around the Han dynasty (roughly the 1st–2nd century CE). A popular later legend says he discovered tea in 2737 BCE when leaves blew into his boiling water; this date is traditional, not historical.",
+   "alternatives": [
+    {
+     "label": "Historical person?",
+     "text": "Historians see Shennong as a mythological culture hero, possibly a personification of the beginnings of agriculture in China, rather than a real king."
+    },
+    {
+     "label": "Real early farming",
+     "text": "Archaeology shows millet farming in northern China and rice farming in the Yangtze region from roughly 9,000–7,000 years ago, much earlier than the traditional date for Shennong."
+    },
+    {
+     "label": "Civilising teachers",
+     "text": "Shennong belongs to a worldwide group of figures who teach farming or crafts, such as Osiris, Quetzalcoatl and Oannes; some alternative writers read this pattern as memory of real visiting teachers, which is speculative."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Shennong",
+     "url": "https://en.wikipedia.org/wiki/Shennong",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Shennong Bencaojing",
+     "url": "https://en.wikipedia.org/wiki/Shennong_Bencaojing",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Shennong2.jpg/500px-Shennong2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Shennong2.jpg",
+     "author": "mural painting from Han dynasty",
+     "license": "Public domain",
+     "title": "Shennong2.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "history"
+   ],
+   "threads": [
+    "civilising-teachers",
+    "origins-of-farming"
+   ]
+  },
+  {
+   "id": "yamato-takeru",
+   "title": "Yamato Takeru: the prince who became a white bird",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 3,
+   "start": 712,
+   "end": null,
+   "dateNote": "recorded 712 and 720; set in the legendary early Yamato period",
+   "evidenceTypes": [
+    "textual"
+   ],
+   "mainstream": "Yamato Takeru is a legendary prince of Japan, son of Emperor Keikō, whose adventures are told in the Kojiki (712) and the Nihon Shoki (720). He defeats the Kumaso chiefs in the west disguised as a woman and campaigns against the Emishi in the east. His aunt, the priestess of Ise, gives him the sword Kusanagi, with which he cuts the grass to escape a fire set by enemies. After offending the god of Mount Ibuki he falls ill and dies, and his soul flies away as a great white bird. The sword Kusanagi became one of the Three Sacred Treasures of the Japanese imperial regalia.",
+   "alternatives": [
+    {
+     "label": "Real person or composite?",
+     "text": "Historians generally see him as a legendary figure who may combine the deeds of several generals of the early Yamato state, used to explain its expansion; his historicity cannot be confirmed."
+    },
+    {
+     "label": "The sacred sword today",
+     "text": "Kusanagi is said to be kept at Atsuta Shrine in Nagoya, but it is never shown, so whether an ancient sword exists there is unknown."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Yamato Takeru",
+     "url": "https://en.wikipedia.org/wiki/Yamato_Takeru",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Kusanagi no Tsurugi",
+     "url": "https://en.wikipedia.org/wiki/Kusanagi_no_Tsurugi",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Yamato_Takeru_by_Takahashi_Yuichi_%28Geidai_Museum%29.jpg/500px-Yamato_Takeru_by_Takahashi_Yuichi_%28Geidai_Museum%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Yamato_Takeru_by_Takahashi_Yuichi_(Geidai_Museum).jpg",
+     "author": "Takahashi Yuichi",
+     "license": "Public domain",
+     "title": "Yamato_Takeru_by_Takahashi_Yuichi_(Geidai_Museum).jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "history"
+   ],
+   "threads": [
+    "sacred-relics",
+    "sacred-kingship",
+    "shapeshifters",
+    "sleeping-heroes"
+   ]
+  },
+  {
+   "id": "ajanta-caves",
+   "title": "The Ajanta Caves, rediscovered by a tiger hunter (1819)",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -200,
+   "end": 480,
+   "dateNote": "c. 2nd century BCE and c. 460–480 CE; rediscovered 1819",
+   "evidenceTypes": [
+    "archaeological",
+    "art historical"
+   ],
+   "mainstream": "The Ajanta Caves are about 30 Buddhist monuments cut into a horseshoe-shaped cliff above the Waghur river in Maharashtra, India. The earliest were made around the 2nd century BCE; most of the rest were carved and painted in a burst of activity in the 5th century CE under the Vakataka dynasty. Their wall paintings of the Buddha's lives and Jataka tales are among the finest surviving examples of ancient Indian painting. The caves were abandoned and overgrown until April 1819, when a British cavalry officer, John Smith, came upon them while hunting a tiger and scratched his name on a painting in Cave 10. They became a UNESCO World Heritage Site in 1983.",
+   "alternatives": [
+    {
+     "label": "How long did the second phase take?",
+     "text": "Art historian Walter Spink argued that most of the later caves were made in an intense period of under 20 years, roughly 460–480 CE; other scholars favour a longer timescale."
+    },
+    {
+     "label": "Lost to whom?",
+     "text": "The caves were lost to outsiders, but local people likely knew of them; the word rediscovery reflects the colonial record."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Ajanta Caves",
+     "url": "https://en.wikipedia.org/wiki/Ajanta_Caves",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Ajanta_%2863%29.jpg/500px-Ajanta_%2863%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Ajanta_(63).jpg",
+     "author": "No machine-readable author provided. Soman assumed (based on copyright claims).",
+     "license": "CC BY 2.5",
+     "title": "Ajanta_(63).jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "religion",
+    "history"
+   ],
+   "threads": [
+    "rediscovered-civilisations",
+    "first-art"
+   ]
+  },
+  {
+   "id": "priest-king-mohenjo-daro",
+   "title": "The Priest-King of Mohenjo-daro: a famous label for a mystery",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 3,
+   "start": -2200,
+   "end": null,
+   "dateNote": "c. 2400–1900 BCE; found 1927",
+   "evidenceTypes": [
+    "archaeological"
+   ],
+   "mainstream": "The so-called Priest-King is a small steatite sculpture of a bearded man, about 17.5 cm high, found in 1927 at Mohenjo-daro, one of the largest cities of the Indus (Harappan) civilisation, now in Pakistan. It dates from roughly 2400–1900 BCE. The man wears a headband and an armband and a robe decorated with trefoil (three-lobed) patterns that were once filled with red pigment. It is in the National Museum of Pakistan in Karachi and is one of the best-known images of the Indus civilisation.",
+   "alternatives": [
+    {
+     "label": "Priest, king or neither?",
+     "text": "The name was given by early excavators by analogy with Mesopotamia and Egypt. Archaeologists note that the Indus cities show no obvious palaces, royal tombs or large temples, so it is unknown whether there were priest-kings at all; the figure might be an ancestor, an elite person or a deity."
+    },
+    {
+     "label": "Undeciphered script",
+     "text": "Because the Indus script remains undeciphered, the identities and titles of people like this remain uncertain."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Priest-King (sculpture)",
+     "url": "https://en.wikipedia.org/wiki/Priest-King_(sculpture)",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Mohenjo-daro",
+     "url": "https://en.wikipedia.org/wiki/Mohenjo-daro",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Mohenjo-daro_Priesterk%C3%B6nig.jpeg/500px-Mohenjo-daro_Priesterk%C3%B6nig.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Mohenjo-daro_Priesterk%C3%B6nig.jpeg",
+     "author": "Mamoon Mengal",
+     "license": "CC BY-SA 1.0",
+     "title": "Mohenjo-daro_Priesterkönig.jpeg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history"
+   ],
+   "threads": [
+    "sacred-kingship",
+    "seeing-what-we-expect"
+   ]
+  },
+  {
+   "id": "chola-srivijaya-1025",
+   "title": "The Chola navy raids Srivijaya (1025)",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 3,
+   "start": 1025,
+   "end": null,
+   "evidenceTypes": [
+    "textual",
+    "epigraphic"
+   ],
+   "mainstream": "In 1025 the south Indian Chola emperor Rajendra I sent a naval expedition across the Bay of Bengal against the maritime empire of Srivijaya, which controlled the Strait of Malacca. Chola inscriptions, including the Tanjore (Thanjavur) inscription, list ports raided in Sumatra and the Malay Peninsula, such as Kadaram (Kedah), and record the capture of the Srivijayan king Sangrama Vijayatunggavarman. The raid weakened Srivijaya and is one of the few overseas military expeditions by an Indian state before modern times.",
+   "alternatives": [
+    {
+     "label": "Why attack?",
+     "text": "Historians suggest the aim was to protect Chola and Tamil merchants and open the sea routes to China, rather than to conquer land; the Cholas did not keep lasting control."
+    },
+    {
+     "label": "How big?",
+     "text": "The inscriptions list places but give no numbers; the scale of the fleet is unknown."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Chola invasion of Srivijaya",
+     "url": "https://en.wikipedia.org/wiki/Chola_invasion_of_Srivijaya",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Rajendra I",
+     "url": "https://en.wikipedia.org/wiki/Rajendra_I",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Rajendra_Chola_%28cropped%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Rajendra_Chola_(cropped).JPG",
+     "author": "David George",
+     "license": "Public domain",
+     "title": "Rajendra_Chola_(cropped).JPG"
+    }
+   ],
+   "categories": [
+    "history"
+   ],
+   "threads": [
+    "ocean-voyagers",
+    "trade-networks",
+    "southeast-asian-kingdoms"
+   ]
+  },
+  {
+   "id": "change-moon-goddess",
+   "title": "Chang'e: the woman who flew to the Moon",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": -200,
+   "end": null,
+   "dateNote": "recorded from c. 2nd century BCE",
+   "evidenceTypes": [
+    "textual",
+    "oral tradition"
+   ],
+   "mainstream": "In Chinese mythology Chang'e is the wife of the archer Hou Yi, who shot down nine of the ten suns. In the best-known versions, Hou Yi receives an elixir of immortality from the Queen Mother of the West; Chang'e drinks it, alone or to keep it from a thief, and floats up to the Moon, where she lives in the Moon Palace with a jade rabbit pounding medicine. Early references appear in the Huainanzi (2nd century BCE) and in the Guizang divination text known from bamboo slips excavated at Wangjiatai. The story is closely tied to the Mid-Autumn Festival. China's lunar exploration programme is named after her: Chang'e 4 made the first soft landing on the Moon's far side in January 2019, carrying the Yutu-2 (Jade Rabbit 2) rover, and Chang'e 6 returned the first samples from the far side in 2024.",
+   "alternatives": [
+    {
+     "label": "Different versions",
+     "text": "In some early versions Chang'e is punished by being turned into a toad on the Moon, reflecting the old Chinese image of a toad in the Moon; later versions make her a graceful, lonely immortal."
+    },
+    {
+     "label": "Moon patterns",
+     "text": "The rabbit and toad in the Moon are interpretations of the dark lunar maria. A rabbit in the Moon also appears in Indian, Japanese, Korean and Mesoamerican traditions, a case of similar pareidolia in different cultures."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Chang'e",
+     "url": "https://en.wikipedia.org/wiki/Chang'e",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Chinese Lunar Exploration Program",
+     "url": "https://en.wikipedia.org/wiki/Chinese_Lunar_Exploration_Program",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Moon rabbit",
+     "url": "https://en.wikipedia.org/wiki/Moon_rabbit",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/The_Moon_Goddess_Chang_E_-_Unidentified_artist%2C_after_Tang_Yin.jpg/500px-The_Moon_Goddess_Chang_E_-_Unidentified_artist%2C_after_Tang_Yin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:The_Moon_Goddess_Chang_E_-_Unidentified_artist,_after_Tang_Yin.jpg",
+     "author": "Unknown artist, after Tang Yin (1470–1524)",
+     "license": "Public domain",
+     "title": "The_Moon_Goddess_Chang_E_-_Unidentified_artist,_after_Tang_Yin.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "science-cosmos"
+   ],
+   "threads": [
+    "pareidolia",
+    "elixirs-of-immortality",
+    "space-race",
+    "moon-myths"
+   ]
+  },
+  {
+   "id": "penglai",
+   "title": "Penglai: the island of the immortals that emperors tried to reach",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 3,
+   "start": -219,
+   "end": null,
+   "dateNote": "Xu Fu expedition 219 BCE",
+   "evidenceTypes": [
+    "textual",
+    "speculative"
+   ],
+   "mainstream": "Penglai is a mythical mountain-island in the eastern sea where, in Chinese legend, immortals live in palaces of gold and jade and the herb of immortality grows. It is one of the three holy islands, with Fangzhang and Yingzhou, described in texts such as the Shiji of Sima Qian. According to the Shiji, the First Emperor of Qin sent the alchemist Xu Fu with ships and young men and women to find it in 219 BCE, and Emperor Wu of Han later sponsored more searches. The coastal city of Penglai in Shandong province takes its name from the legend.",
+   "alternatives": [
+    {
+     "label": "Mirages as inspiration?",
+     "text": "The coast near Penglai is known for sea mirages (superior mirages of distant islands and coasts). Several writers have suggested such mirages helped inspire the idea of floating islands of immortals; this is plausible but not provable."
+    },
+    {
+     "label": "Did Xu Fu reach Japan?",
+     "text": "A later tradition, strong in Japan, holds that Xu Fu reached Japan and stayed; historians consider this legend rather than history."
+    },
+    {
+     "label": "Paradise patterns",
+     "text": "Penglai fits a worldwide pattern of distant paradise islands, like the Celtic Isles of the Blessed, Avalon and Hy-Brasil."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Penglai",
+     "url": "https://en.wikipedia.org/wiki/Penglai",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Xu Fu",
+     "url": "https://en.wikipedia.org/wiki/Xu_Fu",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/PenglaiPavilion.jpg/500px-PenglaiPavilion.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:PenglaiPavilion.jpg",
+     "author": "Chrishcn",
+     "license": "CC BY 2.0",
+     "title": "PenglaiPavilion.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend"
+   ],
+   "threads": [
+    "ocean-voyagers",
+    "phantom-islands",
+    "elixirs-of-immortality",
+    "earthly-paradises"
+   ]
+  },
+  {
+   "id": "todaiji-great-buddha",
+   "title": "The Great Buddha of Tōdai-ji, Nara (752)",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 752,
+   "end": null,
+   "dateNote": "cast 745–749, consecrated 752",
+   "evidenceTypes": [
+    "archaeological",
+    "textual"
+   ],
+   "mainstream": "Tōdai-ji in Nara was founded by Emperor Shōmu, who in 743 ordered a giant bronze statue of the Vairocana Buddha after years of epidemic, famine and rebellion. Casting took place from about 745 to 749 and consumed a large share of Japan's copper, tin and gold. The eye-opening ceremony in 752 was performed by the Indian monk Bodhisena, with guests from across Asia. The statue, about 15 m tall, has been damaged by earthquakes and fires and repaired many times; its present head dates from the 17th century, and the current hall (Daibutsuden) was rebuilt in 1709. The temple's treasure house, the Shōsōin, preserves thousands of 8th-century objects, some brought along the Silk Road.",
+   "alternatives": [
+    {
+     "label": "A building with a toxic cost?",
+     "text": "Gilding the statue used gold dissolved in mercury, which was then evaporated by heating. Some researchers have suggested that mercury vapour may have caused illness in Nara; this remains a hypothesis."
+    },
+    {
+     "label": "State and religion",
+     "text": "Historians see the project as both an act of devotion and a statement of imperial power, linking a network of provincial temples to Nara."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Tōdai-ji",
+     "url": "https://en.wikipedia.org/wiki/T%C5%8Ddai-ji",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Shōsōin",
+     "url": "https://en.wikipedia.org/wiki/Sh%C5%8Ds%C5%8Din",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/T%C5%8Ddai-ji_Kon-d%C5%8D.jpg/500px-T%C5%8Ddai-ji_Kon-d%C5%8D.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:T%C5%8Ddai-ji_Kon-d%C5%8D.jpg",
+     "author": "Wiiii",
+     "license": "CC BY-SA 3.0",
+     "title": "Tōdai-ji_Kon-dō.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "religion"
+   ],
+   "threads": [
+    "giant-monuments",
+    "sacred-relics",
+    "sacred-kingship",
+    "plagues-and-epidemics",
+    "silk-road"
+   ]
+  },
+  {
+   "id": "ta-prohm-stegosaurus",
+   "title": "The \"stegosaurus\" carving of Ta Prohm, Cambodia",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 3,
+   "start": 1186,
+   "end": null,
+   "dateNote": "temple from 1186; claim since 1990s",
+   "evidenceTypes": [
+    "archaeological",
+    "speculative"
+   ],
+   "mainstream": "Ta Prohm is a Khmer temple near Angkor, built from 1186 by King Jayavarman VII as a Buddhist monastery and famous for the trees growing over its ruins. Among the many small carved roundels on its doorframes is one showing a four-legged animal with a row of rounded shapes along its back. Since the late 1990s some writers, especially young-Earth creationists, have claimed it depicts a stegosaurus and shows that people saw living dinosaurs about 800 years ago.",
+   "alternatives": [
+    {
+     "label": "Mainstream view",
+     "text": "Archaeologists and scholars of Khmer art note that the shapes along the back match the leafy background decoration found around other roundels on the temple, and that the animal could be a rhinoceros, boar, chameleon or a mythological creature, since the temple is full of religious and imaginary beings. They see no evidence of a living dinosaur."
+    },
+    {
+     "label": "Is it modern?",
+     "text": "Some sceptics have suggested the carving might be a modern addition; others reply that there is no evidence of this. Most commentators accept it as original but read it as an ordinary animal."
+    },
+    {
+     "label": "Dinosaur claims elsewhere",
+     "text": "Similar claims of dinosaurs in ancient art include the Ica stones and Acámbaro figures; these are generally considered hoaxes or misinterpretations."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Dinosaur of Ta Prohm",
+     "url": "https://en.wikipedia.org/wiki/Dinosaur_of_Ta_Prohm",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Ta Prohm",
+     "url": "https://en.wikipedia.org/wiki/Ta_Prohm",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Skeptical Inquirer: A Stegosaur Carving on the Ruins of Ta Prohm? Think Again (2019)",
+     "url": "https://skepticalinquirer.org/2019/07/a-stegosaur-carving-on-the-ruins-of-ta-prohm-think-again/",
+     "type": "article"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Ta_Prohm_%28III%29.jpg/500px-Ta_Prohm_%28III%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Ta_Prohm_(III).jpg",
+     "author": "This Photo was taken by Supanut Arunoprayote.\n\nFeel free to use any of my images, but please mention me as the author an",
+     "license": "CC BY 4.0",
+     "title": "Ta_Prohm_(III).jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "anomalies"
+   ],
+   "threads": [
+    "dragons-and-fossils",
+    "seeing-what-we-expect",
+    "southeast-asian-kingdoms",
+    "out-of-place-artifacts"
    ]
   }
  ]
