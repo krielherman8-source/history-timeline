@@ -1131,7 +1131,8 @@
    ],
    "threads": [
     "ancient-astronomy",
-    "stone-circles"
+    "stone-circles",
+    "megalithic-europe"
    ]
   },
   {
@@ -18182,7 +18183,8 @@
     "giant-monuments",
     "ancient-astronomy",
     "petrified-beings",
-    "stone-circles"
+    "stone-circles",
+    "megalithic-europe"
    ]
   },
   {
@@ -18264,7 +18266,8 @@
     "sacred-kingship",
     "otherworld-visits",
     "underground-worlds",
-    "sun-cults"
+    "sun-cults",
+    "megalithic-europe"
    ]
   },
   {
@@ -18330,7 +18333,8 @@
    ],
    "threads": [
     "stories-proven-true",
-    "vanished-landscapes"
+    "vanished-landscapes",
+    "megalithic-europe"
    ]
   },
   {
@@ -34743,7 +34747,8 @@
    "threads": [
     "giant-monuments",
     "giants-and-little-people",
-    "outsider-builder-claims"
+    "outsider-builder-claims",
+    "megalithic-europe"
    ]
   },
   {
@@ -53257,7 +53262,8 @@
    "threads": [
     "ancient-astronomy",
     "stone-circles",
-    "fringe-theories"
+    "fringe-theories",
+    "ley-lines-and-alignments"
    ]
   },
   {
@@ -56005,6 +56011,539 @@
     "hoaxes-exposed",
     "modern-legends",
     "mystery-airships-wave"
+   ]
+  },
+  {
+   "id": "helike",
+   "title": "Helike: the Greek city swallowed by an earthquake and the sea (373 BCE)",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -373,
+   "end": null,
+   "evidenceTypes": [
+    "textual",
+    "archaeological",
+    "geological/ice core"
+   ],
+   "mainstream": "Helike was a leading city of Achaea on the Gulf of Corinth and home to a famous sanctuary of Poseidon. Ancient writers including Strabo and Pausanias report that one winter night in 373 BCE an earthquake struck and a great wave followed, and the city vanished beneath the water; for centuries visitors said its ruins could be seen below the surface. Its exact site was lost until the Helike Project, led by archaeologist Dora Katsonopoulou with Steven Soter, located its remains in 2001 buried in an ancient lagoon near the village of Rizomylos, inland rather than out at sea; excavations have since revealed layers from several periods, including an Early Bronze Age town.",
+   "alternatives": [
+    {
+     "label": "A model for Atlantis?",
+     "text": "Because Plato wrote his Atlantis story only a generation after Helike sank, and both cities were destroyed in a day and a night by earthquake and sea, some scholars think Helike may have influenced the tale. This is a suggestion, not something Plato states."
+    },
+    {
+     "label": "Divine punishment",
+     "text": "Ancient sources explained the disaster as Poseidon’s anger, after the people of Helike reportedly refused Ionian settlers a statue or model of their Poseidon sanctuary and harmed their envoys."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Helike",
+     "url": "https://en.wikipedia.org/wiki/Helike",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Excavations_at_Helike.jpg/500px-Excavations_at_Helike.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Excavations_at_Helike.jpg",
+     "author": "Sappho50",
+     "license": "CC0",
+     "title": "Excavations_at_Helike.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology",
+    "catastrophes"
+   ],
+   "threads": [
+    "stories-proven-true",
+    "sunken-cities",
+    "divine-punishment",
+    "earthquake-lore",
+    "classical-world"
+   ]
+  },
+  {
+   "id": "pavlopetri",
+   "title": "Pavlopetri: the oldest known submerged town with a full street plan",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 3,
+   "start": -2800,
+   "end": -1000,
+   "evidenceTypes": [
+    "archaeological"
+   ],
+   "mainstream": "Pavlopetri lies in shallow water off the coast of Laconia in the southern Peloponnese, Greece. It was spotted in 1967 by oceanographer Nicholas Flemming and mapped by a Cambridge team in 1968; a survey led by the University of Nottingham from 2009 used underwater mapping to record streets, buildings and tombs. Pottery shows occupation from the Early Bronze Age (roughly 5,000 years ago) through the Mycenaean period. The town is thought to have gone under around 1000 BCE through earthquakes and subsidence of the coast, and it is often described as the oldest submerged town with a complete plan.",
+   "alternatives": [
+    {
+     "label": "Sunken-city legends",
+     "text": "Discoveries like Pavlopetri are sometimes cited as evidence that legends of drowned cities preserve real memories; archaeologists note that each case has its own local, gradual causes rather than one shared catastrophe."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Pavlopetri",
+     "url": "https://en.wikipedia.org/wiki/Pavlopetri",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Greece_Pavlopetir_map.png/500px-Greece_Pavlopetir_map.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Greece_Pavlopetir_map.png",
+     "author": "Greece_location_map.svg: Lencer\nderivative work: Saltmarsh (talk)",
+     "license": "CC BY-SA 3.0",
+     "title": "Greece_Pavlopetir_map.png"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history"
+   ],
+   "threads": [
+    "sunken-cities",
+    "vanished-landscapes"
+   ]
+  },
+  {
+   "id": "rungholt",
+   "title": "Rungholt: the North Sea trading town drowned in the 1362 storm flood",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1362,
+   "end": null,
+   "evidenceTypes": [
+    "textual",
+    "archaeological"
+   ],
+   "mainstream": "Rungholt was a trading settlement in North Frisia, on the German North Sea coast. It was destroyed by the Grote Mandrenke ('great drowning of men'), a storm surge on 15 or 16 January 1362 that killed many thousands of people along the coasts of the North Sea. Later chroniclers turned it into a moral tale: the townspeople were said to have been rich and godless, and church bells could supposedly still be heard under the waves. For a long time some doubted it was a large town at all, Ruins near Hallig Südfall were linked to Rungholt as early as 1921, and in June 2023 the German Research Foundation announced that researchers had confirmed the identification, mapping about 10 square kilometres of remains in the mudflats, including a church site.",
+   "alternatives": [
+    {
+     "label": "Myth or real town?",
+     "text": "Historians long debated whether Rungholt was a sizeable trading port or an exaggerated legend. Recent geophysical surveys support a real settlement, although how large it was is still discussed."
+    },
+    {
+     "label": "Divine punishment",
+     "text": "The legend, retold in Detlev von Liliencron’s 1882 poem ‘Trutz, Blanke Hans’, presents the flood as punishment for pride, a motif shared with Ys, Vineta and Cantre’r Gwaelod."
+    }
+   ],
+   "changed": "2023: survey teams reported finding the church site and settlement traces in the Wadden Sea mudflats.",
+   "sources": [
+    {
+     "title": "Wikipedia: Rungholt",
+     "url": "https://en.wikipedia.org/wiki/Rungholt",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Saint Marcellus's flood",
+     "url": "https://en.wikipedia.org/wiki/Saint_Marcellus's_flood",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/UdlandeRungholt.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:UdlandeRungholt.png",
+     "author": "Runga (talk · contribs)",
+     "license": "CC BY 3.0",
+     "title": "UdlandeRungholt.png"
+    }
+   ],
+   "categories": [
+    "history",
+    "catastrophes",
+    "myth-legend"
+   ],
+   "threads": [
+    "stories-proven-true",
+    "sunken-cities",
+    "divine-punishment",
+    "storms-that-changed-history"
+   ]
+  },
+  {
+   "id": "vineta",
+   "title": "Vineta: the rich Baltic city said to lie beneath the sea",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 3,
+   "start": 1075,
+   "end": null,
+   "dateNote": "first described c. 1075 (Adam of Bremen)",
+   "evidenceTypes": [
+    "textual",
+    "oral tradition",
+    "archaeological"
+   ],
+   "mainstream": "Vineta is a legendary city on the southern Baltic coast, said to have been the richest city in Europe until its people's greed and pride caused it to sink beneath the sea; in some versions its bells or towers can still be glimpsed. The legend seems to grow out of medieval accounts, especially Adam of Bremen (around 1075), who described a great trading city called Jumne at the mouth of the Oder river. Many historians link this to the real Viking-age town of Wolin in Poland, where excavations have revealed a large early-medieval trading centre. Other locations, including sites near the island of Usedom and near Barth in Germany, have been proposed.",
+   "alternatives": [
+    {
+     "label": "Wolin identification",
+     "text": "The most common scholarly view is that Jumne/Vineta reflects Wolin, which flourished in the 9th–12th centuries before declining."
+    },
+    {
+     "label": "A drowned city off Usedom",
+     "text": "Local tradition and some amateur researchers place a sunken Vineta off the coast of Usedom; underwater stone formations there have been interpreted by geologists as natural boulder fields."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Vineta",
+     "url": "https://en.wikipedia.org/wiki/Vineta",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Wolin (town)",
+     "url": "https://en.wikipedia.org/wiki/Wolin_(town)",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Wineta_um_1618_auf_der_Lubinschen_Karte.png/500px-Wineta_um_1618_auf_der_Lubinschen_Karte.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Wineta_um_1618_auf_der_Lubinschen_Karte.png",
+     "author": "Eilhard Lubin",
+     "license": "CC0",
+     "title": "Wineta_um_1618_auf_der_Lubinschen_Karte.png"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "lost-civilisations",
+    "archaeology"
+   ],
+   "threads": [
+    "sunken-cities",
+    "divine-punishment",
+    "trade-networks"
+   ]
+  },
+  {
+   "id": "lyonesse",
+   "title": "Lyonesse: the lost land between Cornwall and the Isles of Scilly",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 3,
+   "start": 1150,
+   "end": null,
+   "dateNote": "Tristan romances from the 12th century; Cornish flood legend later",
+   "evidenceTypes": [
+    "textual",
+    "oral tradition",
+    "geological/ice core"
+   ],
+   "mainstream": "Lyonesse is the homeland of the hero Tristan in Arthurian romance. Later Cornish tradition placed it between Land's End and the Isles of Scilly and said it was swallowed by the sea in a single night, with only one man, Trevelyan, escaping on a white horse. Behind the legend lies a real landscape change: the Isles of Scilly were largely one island in prehistoric and possibly Roman times, and rising sea levels have since drowned the low ground between them, where submerged field walls and hut circles can still be seen at very low tides.",
+   "alternatives": [
+    {
+     "label": "Memory of rising seas",
+     "text": "Some writers see Lyonesse as a folk memory of the gradual flooding around Scilly; others think the name was simply transferred from Lothian or Léon in Brittany and attached to the Scilly landscape later."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Lyonesse",
+     "url": "https://en.wikipedia.org/wiki/Lyonesse",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Isles of Scilly",
+     "url": "https://en.wikipedia.org/wiki/Isles_of_Scilly",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Sir_Tristram_of_Lyonesse.jpg/500px-Sir_Tristram_of_Lyonesse.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Sir_Tristram_of_Lyonesse.jpg",
+     "author": "Howard Pyle",
+     "license": "Public domain",
+     "title": "Sir_Tristram_of_Lyonesse.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "lost-civilisations",
+    "catastrophes"
+   ],
+   "threads": [
+    "sunken-cities",
+    "vanished-landscapes",
+    "celtic-worlds"
+   ]
+  },
+  {
+   "id": "hyperborea",
+   "title": "Hyperborea: the Greek land beyond the North Wind",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 3,
+   "start": -500,
+   "end": null,
+   "dateNote": "attested from c. 6th–5th century BCE",
+   "evidenceTypes": [
+    "textual"
+   ],
+   "mainstream": "In Greek mythology the Hyperboreans lived 'beyond Boreas', the North Wind, in a land of perpetual sunshine where people lived long, happy lives free of disease and war. Poets such as Pindar described it as unreachable by ship or on foot, and the god Apollo was said to spend the winter there. Herodotus, writing in the 5th century BCE, reported stories of Hyperborean offerings reaching the sanctuary of Delos but was sceptical that such people existed.",
+   "alternatives": [
+    {
+     "label": "A distorted memory of the far north",
+     "text": "Some historians suggest the stories mixed in hazy knowledge of northern peoples, the amber trade or the midnight sun; this is a possibility, not an established link."
+    },
+    {
+     "label": "Esoteric and fringe uses",
+     "text": "In the 19th and 20th centuries occultists such as Helena Blavatsky made Hyperborea an early home of humanity, and later nationalist and Nazi-era mystics linked it to Thule and an imagined northern master race. Historians regard these ideas as invented mythology with no evidence."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Hyperborea",
+     "url": "https://en.wikipedia.org/wiki/Hyperborea",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Mercator_Septentrionalium_Terrarum_descriptio.jpg/500px-Mercator_Septentrionalium_Terrarum_descriptio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Mercator_Septentrionalium_Terrarum_descriptio.jpg",
+     "author": "Gerardus Mercator, with addition of data from Willem Barentsz voyages",
+     "license": "Public domain",
+     "title": "Mercator_Septentrionalium_Terrarum_descriptio.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "lost-civilisations"
+   ],
+   "threads": [
+    "lost-continents",
+    "classical-world",
+    "earthly-paradises",
+    "fringe-theories"
+   ]
+  },
+  {
+   "id": "ggantija",
+   "title": "Ġgantija: Malta’s giant temples, older than Stonehenge",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -3600,
+   "end": -3200,
+   "evidenceTypes": [
+    "archaeological",
+    "radiocarbon",
+    "oral tradition"
+   ],
+   "mainstream": "Ġgantija is a pair of megalithic temples on the island of Gozo in Malta, built in the Neolithic between roughly 3600 and 3200 BCE, making them older than Stonehenge and the Egyptian pyramids. Their walls use huge limestone blocks, some weighing several tonnes. They are part of the UNESCO World Heritage site 'Megalithic Temples of Malta'. The name means 'giant's tower', from a local legend that a giantess built them in a single day and night while carrying a baby.",
+   "alternatives": [
+    {
+     "label": "Built by giants",
+     "text": "Maltese folklore attributes the temples to a giantess (sometimes named Sunsuna) or a race of giants. Archaeologists attribute them to Neolithic farming communities using levers and rollers; stone balls found at the sites may have served as rollers."
+    },
+    {
+     "label": "Lost civilisation claims",
+     "text": "Some alternative writers argue the Maltese temples are far older than their radiocarbon dates or link them to Atlantis. Excavated pottery and radiocarbon dates place them firmly in the 4th millennium BCE."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Ġgantija",
+     "url": "https://en.wikipedia.org/wiki/%C4%A0gantija",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Megalithic Temples of Malta",
+     "url": "https://en.wikipedia.org/wiki/Megalithic_Temples_of_Malta",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Ggantija_Temple_on_Gozo.jpg/500px-Ggantija_Temple_on_Gozo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Ggantija_Temple_on_Gozo.jpg",
+     "author": "FritzPhotography",
+     "license": "CC BY-SA 4.0",
+     "title": "Ggantija_Temple_on_Gozo.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "myth-legend"
+   ],
+   "threads": [
+    "giant-monuments",
+    "giants-and-little-people",
+    "megalithic-europe"
+   ]
+  },
+  {
+   "id": "hal-saflieni-hypogeum",
+   "title": "The Ħal Saflieni Hypogeum: Malta’s underground temple of the dead",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 3,
+   "start": -4000,
+   "end": -2500,
+   "evidenceTypes": [
+    "archaeological"
+   ],
+   "mainstream": "The Ħal Saflieni Hypogeum in Paola, Malta, is a prehistoric underground complex of chambers cut into the rock on three levels, used between roughly 4000 and 2500 BCE. It was discovered by accident in 1902 by workers digging cisterns. The remains of an estimated 7,000 people were found there, along with figurines including the 'Sleeping Lady'. Some chambers imitate the architecture of the above-ground temples, and one, the so-called Oracle Room, is known for strong echoes.",
+   "alternatives": [
+    {
+     "label": "Acoustic ritual",
+     "text": "Some researchers have reported that the Oracle Room resonates at low frequencies and suggest the builders designed it for chanting or ritual sound. Whether the acoustic effect was intended is debated."
+    },
+    {
+     "label": "Elongated skulls and lost tunnels",
+     "text": "Online stories claim that unusual elongated skulls were found there and that a school group once vanished in its tunnels. These claims are not supported by published excavation records."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Ħal Saflieni Hypogeum",
+     "url": "https://en.wikipedia.org/wiki/%C4%A6al_Saflieni_Hypogeum",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Photo_Ellis_Hal_Salflieni.jpg/500px-Photo_Ellis_Hal_Salflieni.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Photo_Ellis_Hal_Salflieni.jpg",
+     "author": "Richard Ellis",
+     "license": "Public domain",
+     "title": "Photo_Ellis_Hal_Salflieni.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "religion",
+    "anomalies"
+   ],
+   "threads": [
+    "strange-sounds",
+    "underground-worlds",
+    "megalithic-europe"
+   ],
+   "dateNote": "in use c. 4000–2500 BCE; main Saflieni phase 3300–3000 BCE"
+  },
+  {
+   "id": "avebury",
+   "title": "Avebury: Britain’s largest stone circle, with a village inside it",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -2850,
+   "end": -2200,
+   "evidenceTypes": [
+    "archaeological",
+    "radiocarbon",
+    "textual"
+   ],
+   "mainstream": "Avebury in Wiltshire, England, is a Neolithic henge monument containing the largest stone circle in Britain, built and altered between roughly 2850 and 2200 BCE; a modern village stands partly inside it. In medieval times many stones were toppled and buried, perhaps because they were seen as pagan; one buried stone was found in 1938 with the skeleton of a man, thought to be a 14th-century barber-surgeon, underneath it. Antiquarian William Stukeley studied it in the 18th century, and archaeologist Alexander Keiller re-erected many stones in the 1930s. With Stonehenge it forms a UNESCO World Heritage site.",
+   "alternatives": [
+    {
+     "label": "Druids and serpents",
+     "text": "Stukeley interpreted Avebury as a Druid ‘serpent temple’; archaeology shows it predates the Druids by thousands of years."
+    },
+    {
+     "label": "Earth energies",
+     "text": "Modern dowsers and ley-line enthusiasts describe energy lines (the so-called Michael and Mary lines) passing through Avebury. These claims are not supported by scientific testing."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Avebury",
+     "url": "https://en.wikipedia.org/wiki/Avebury",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Wiltshire-Avebury.jpg/500px-Wiltshire-Avebury.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Wiltshire-Avebury.jpg",
+     "author": "MikPeach",
+     "license": "CC BY-SA 4.0",
+     "title": "Wiltshire-Avebury.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history"
+   ],
+   "threads": [
+    "giant-monuments",
+    "stone-circles",
+    "megalithic-europe",
+    "ley-lines-and-alignments"
+   ]
+  },
+  {
+   "id": "silbury-hill",
+   "title": "Silbury Hill: Europe’s biggest prehistoric mound, purpose unknown",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 3,
+   "start": -2400,
+   "end": null,
+   "evidenceTypes": [
+    "archaeological",
+    "radiocarbon"
+   ],
+   "mainstream": "Silbury Hill near Avebury is the largest prehistoric artificial mound in Europe, about 30 metres high, built in several stages around 2400 BCE from chalk and earth. Its purpose remains unknown. Tunnels and shafts dug in 1776, 1849 and 1968–70 searched for a burial but found none; the 1968 tunnel was dug for a BBC-televised excavation, and later repairs in 2007–08 recovered material that helped refine the date.",
+   "alternatives": [
+    {
+     "label": "Buried king legend",
+     "text": "Local legend says a King Sil, or Zel, is buried inside on a golden horse; no burial has ever been found."
+    },
+    {
+     "label": "Astronomical or symbolic",
+     "text": "Proposals range from a symbol of the land or a harvest monument to an astronomical marker or a platform for ritual; none has been confirmed."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Silbury Hill",
+     "url": "https://en.wikipedia.org/wiki/Silbury_Hill",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "English Heritage: Silbury Hill",
+     "url": "https://www.english-heritage.org.uk/visit/places/silbury-hill/",
+     "type": "heritage body"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Silbury_1.jpg/500px-Silbury_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Silbury_1.jpg",
+     "author": "Immanuel Giel",
+     "license": "CC BY-SA 4.0",
+     "title": "Silbury_1.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "anomalies"
+   ],
+   "threads": [
+    "giant-monuments",
+    "hidden-tombs",
+    "megalithic-europe"
    ]
   }
  ]
