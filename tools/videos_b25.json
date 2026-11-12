@@ -1,0 +1,56 @@
+{
+ "prometheus": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=U_u91SjrEOE",
+  "title": "The myth of Prometheus - Iseult Gillespie",
+  "channel": "TED-Ed"
+ },
+ "medusa": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=O18-FA83BaM",
+  "title": "The myth of Medusa",
+  "channel": "TED-Ed"
+ },
+ "petra": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=qSfFq02pK4s",
+  "title": "15. The Nabataeans - The Last Days Of Petra",
+  "channel": "Fall of Civilizations"
+ },
+ "palmyra-zenobia": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=LtyDxe6bSIo",
+  "title": "Zenobia: The Warrior Queen of Palmyra",
+  "channel": "History Time"
+ },
+ "barringer-crater": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=odGrgsLkfUQ",
+  "title": "Arizona's Jaw-Dropping Mile-Long Meteor Crater",
+  "channel": "Smithsonian Channel"
+ },
+ "titanic-futility": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=FSGeskFzE0s",
+  "title": "New CGI of How Titanic Sank | Titanic 100",
+  "channel": "National Geographic"
+ },
+ "sun-wukong": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=A-oxDZ3AO74",
+  "title": "The tale of the Monkey King and the Buddha - Ji Hao",
+  "channel": "TED-Ed"
+ },
+ "masada": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=C0OfJgJYcgY",
+  "title": "An Ancient Palatial Fortress Overlooks This Barren Desert in Israel | National Geographic",
+  "channel": "National Geographic"
+ },
+ "atahualpa-cajamarca": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=UO5ktwPXsyM",
+  "title": "The rise and fall of the Inca Empire - Gordon McEwan",
+  "channel": "TED-Ed"
+ }
+}
