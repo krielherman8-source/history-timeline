@@ -7439,7 +7439,8 @@
    ],
    "threads": [
     "creation-myths",
-    "ocean-voyagers"
+    "ocean-voyagers",
+    "fire-thieves"
    ]
   },
   {
@@ -26641,7 +26642,8 @@
     "deep-oral-memory",
     "knowledge-and-power",
     "divine-punishment",
-    "sleeping-heroes"
+    "sleeping-heroes",
+    "fire-thieves"
    ]
   },
   {
@@ -51784,7 +51786,8 @@
     "dragons-and-fossils",
     "serpent-beings",
     "water-spirits",
-    "curses-and-hauntings"
+    "curses-and-hauntings",
+    "dragon-slayers"
    ]
   },
   {
@@ -56544,6 +56547,553 @@
     "giant-monuments",
     "hidden-tombs",
     "megalithic-europe"
+   ]
+  },
+  {
+   "id": "prometheus",
+   "title": "Prometheus: the Titan who stole fire for humanity",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": -700,
+   "end": null,
+   "dateNote": "Hesiod, c. 700 BCE",
+   "evidenceTypes": [
+    "textual"
+   ],
+   "mainstream": "In Greek myth the Titan Prometheus tricks Zeus and steals fire from the gods to give to humans. As punishment Zeus has him chained to a rock, traditionally in the Caucasus, where an eagle eats his liver every day and it grows back every night, until the hero Heracles frees him. The earliest full accounts are in Hesiod's Theogony and Works and Days (around 700 BCE), and the play Prometheus Bound, traditionally attributed to Aeschylus, made him a symbol of defiance. In Hesiod, Zeus answers the theft of fire by creating Pandora, the first woman.",
+   "alternatives": [
+    {
+     "label": "Fire-bringer myths worldwide",
+     "text": "Stories of a trickster or hero stealing fire for people appear in many cultures, from the Georgian hero Amirani (also chained in the Caucasus) to Maui in Polynesia and animal fire-thieves in Native American traditions. Scholars debate whether the Greek and Georgian stories share a common source or influenced each other."
+    },
+    {
+     "label": "The regrowing liver",
+     "text": "Some modern writers note that the liver is the one human organ able to regenerate and wonder whether the Greeks knew this; others reply that the detail is a natural choice for endless punishment and need not reflect medical knowledge."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Prometheus",
+     "url": "https://en.wikipedia.org/wiki/Prometheus",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Prometheus Bound",
+     "url": "https://en.wikipedia.org/wiki/Prometheus_Bound",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Prometheus_and_Atlas%2C_Laconian_black-figure_kylix%2C_by_the_Arkesilas_Painter%2C_560-550_BC%2C_inv._16592_-_Museo_Gregoriano_Etrusco_-_Vatican_Museums_-_DSC01069.jpg/500px-Prometheus_and_Atlas%2C_Laconian_black-figure_kylix%2C_by_the_Arkesilas_Painter%2C_560-550_BC%2C_inv._16592_-_Museo_Gregoriano_Etrusco_-_Vatican_Museums_-_DSC01069.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Prometheus_and_Atlas,_Laconian_black-figure_kylix,_by_the_Arkesilas_Painter,_560-550_BC,_inv._16592_-_Museo_Gregoriano_Etrusco_-_Vatican_Museums_-_DSC01069.jpg",
+     "author": "Daderot",
+     "license": "Public domain",
+     "title": "Prometheus_and_Atlas,_Laconian_black-figure_kylix,_by_the_Arkesilas_Painter,_560-550_BC,_inv._16592_-_Museo_Gregoriano_Etrusco_-_Vatican_Museums_-_DSC01069.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion"
+   ],
+   "threads": [
+    "mastering-fire",
+    "caucasus-crossroads",
+    "classical-world",
+    "fire-thieves"
+   ]
+  },
+  {
+   "id": "medusa",
+   "title": "Medusa and the Gorgons: the face that turns people to stone",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": -700,
+   "end": null,
+   "dateNote": "in Greek art and poetry from c. 700 BCE",
+   "evidenceTypes": [
+    "textual",
+    "archaeological"
+   ],
+   "mainstream": "Medusa was one of three Gorgon sisters in Greek myth, with snakes for hair and a gaze that turned anyone who looked at her to stone. The hero Perseus killed her by looking only at her reflection in a polished shield, and from her neck sprang the winged horse Pegasus. In the version told by the Roman poet Ovid, she was once a beautiful woman punished by Athena after Poseidon assaulted her in Athena's temple. Images of a Gorgon's face, the gorgoneion, were placed on temples, shields and armour from the Archaic period onwards as protection against evil.",
+   "alternatives": [
+    {
+     "label": "A protective symbol first?",
+     "text": "Some scholars think the frightening Gorgon face began as an apotropaic (evil-averting) mask or image, and the story of Medusa grew around it."
+    },
+    {
+     "label": "Modern readings",
+     "text": "In recent decades Medusa has been reinterpreted as a symbol of female rage and of victims blamed for the harm done to them, drawing on Ovid’s version."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Medusa",
+     "url": "https://en.wikipedia.org/wiki/Medusa",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Gorgons",
+     "url": "https://en.wikipedia.org/wiki/Gorgons",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Gorgona_pushkin.jpg/500px-Gorgona_pushkin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Gorgona_pushkin.jpg",
+     "author": "user:shakko",
+     "license": "CC BY-SA 3.0",
+     "title": "Gorgona_pushkin.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion"
+   ],
+   "threads": [
+    "serpent-beings",
+    "petrified-beings",
+    "classical-world"
+   ]
+  },
+  {
+   "id": "beowulf",
+   "title": "Beowulf: the Old English hero who fought Grendel and a dragon",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": 1000,
+   "end": null,
+   "dateNote": "manuscript c. 975–1025; composition date debated",
+   "evidenceTypes": [
+    "textual",
+    "archaeological"
+   ],
+   "mainstream": "Beowulf is an epic poem in Old English, surviving in a single manuscript (the Nowell Codex) copied around 975–1025; when the poem itself was composed is disputed, with suggestions ranging from the 8th to the early 11th century. It tells of the Geatish hero Beowulf, who kills the monster Grendel and Grendel's mother at the Danish king's hall Heorot, and decades later dies fighting a treasure-guarding dragon. The manuscript was damaged in the 1731 fire at the Cotton library. Some characters, like the Geatish king Hygelac, match a raid on Frankish lands recorded by Gregory of Tours in the early 6th century.",
+   "alternatives": [
+    {
+     "label": "Real halls and kings",
+     "text": "Excavations at Lejre in Denmark revealed large royal halls of the right period, and some scholars link them with Heorot; the ship burial at Sutton Hoo is often compared with the poem’s funeral scenes. The monsters remain fiction."
+    },
+    {
+     "label": "Grendel as a real creature",
+     "text": "Some young-Earth creationist writers have claimed Grendel was a surviving dinosaur. Scholars see Grendel as a literary monster descended from Cain, as the poem itself says."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Beowulf",
+     "url": "https://en.wikipedia.org/wiki/Beowulf",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Lejre",
+     "url": "https://en.wikipedia.org/wiki/Lejre",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Beowulf_Cotton_MS_Vitellius_A_XV_f._132r.jpg/500px-Beowulf_Cotton_MS_Vitellius_A_XV_f._132r.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Beowulf_Cotton_MS_Vitellius_A_XV_f._132r.jpg",
+     "author": "anonymous Anglo-Saxon poet",
+     "license": "Public domain",
+     "title": "Beowulf_Cotton_MS_Vitellius_A_XV_f._132r.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "history"
+   ],
+   "threads": [
+    "lost-treasures",
+    "myths-about-history",
+    "dragon-slayers"
+   ]
+  },
+  {
+   "id": "sigurd-fafnir",
+   "title": "Sigurd and the dragon Fafnir",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": 1030,
+   "end": null,
+   "dateNote": "Ramsund carving c. 1030; sagas written 13th century",
+   "evidenceTypes": [
+    "textual",
+    "archaeological"
+   ],
+   "mainstream": "Sigurd (Siegfried in German) is the greatest dragon-slayer of Norse and Germanic legend. In the Poetic Edda and the 13th-century Völsunga saga, he kills the dragon Fafnir, once a dwarf turned into a dragon by greed for a cursed gold hoard, by hiding in a pit and stabbing it from below with the reforged sword Gram. Tasting the dragon's heart-blood, he understands the speech of birds. The story was carved on the Ramsund rock in Sweden around 1030, and a related German version forms the Nibelungenlied, later reworked by Richard Wagner in his Ring cycle.",
+   "alternatives": [
+    {
+     "label": "History inside the legend",
+     "text": "The Nibelung stories include figures based on real 5th-century people, such as the Burgundian king Gundahar (Gunnar/Gunther), whose kingdom was destroyed by Hunnic forces in 437, and Attila (Atli/Etzel)."
+    },
+    {
+     "label": "Dragons from fossils?",
+     "text": "Some writers suggest that finds of large fossil bones fed European dragon legends, as possibly happened elsewhere. For Fafnir specifically there is no direct evidence of this."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Sigurd",
+     "url": "https://en.wikipedia.org/wiki/Sigurd",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Fáfnir",
+     "url": "https://en.wikipedia.org/wiki/F%C3%A1fnir",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Sigurd stones",
+     "url": "https://en.wikipedia.org/wiki/Sigurd_stones",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Sigurd_runestones.JPG/500px-Sigurd_runestones.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Sigurd_runestones.JPG",
+     "author": "Original uploader Berig",
+     "license": "CC BY-SA 3.0",
+     "title": "Sigurd_runestones.JPG"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "history"
+   ],
+   "threads": [
+    "lost-treasures",
+    "myths-about-history",
+    "dragon-slayers"
+   ]
+  },
+  {
+   "id": "amaterasu-cave",
+   "title": "Amaterasu hides in the cave: the day the sun went out",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": 712,
+   "end": null,
+   "evidenceTypes": [
+    "textual"
+   ],
+   "mainstream": "In Japanese myth, recorded in the Kojiki (712) and Nihon Shoki (720), the sun goddess Amaterasu is so upset by the violent behaviour of her brother, the storm god Susanoo, that she shuts herself inside a rock cave, Ama-no-Iwato, plunging the world into darkness. The other gods gather outside, and the goddess Ame-no-Uzume performs a wild dance that makes them roar with laughter. Curious, Amaterasu peeks out, sees her reflection in a mirror hung on a tree and is drawn out, and light returns. The mirror is identified with the Yata no Kagami, one of the three Imperial Regalia of Japan.",
+   "alternatives": [
+    {
+     "label": "Memory of an eclipse",
+     "text": "Some writers have suggested the story preserves the memory of a solar eclipse; others link it to winter-solstice rituals to call back the sun. Neither link can be proved."
+    },
+    {
+     "label": "Ritual origins",
+     "text": "Scholars note that the dance is treated as the origin of kagura, Shinto sacred dance, and that the myth supports the imperial family’s claimed descent from Amaterasu."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Amaterasu",
+     "url": "https://en.wikipedia.org/wiki/Amaterasu",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Amano-Iwato",
+     "url": "https://en.wikipedia.org/wiki/Amano-Iwato",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Amaterasu_cave_crop.jpg/500px-Amaterasu_cave_crop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Amaterasu_cave_crop.jpg",
+     "author": "Utagawa Kunisada (歌川国貞; b. 1786, d. 1865)",
+     "license": "Public domain",
+     "title": "Amaterasu_cave_crop.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion"
+   ],
+   "threads": [
+    "sky-omens",
+    "sacred-relics",
+    "sacred-kingship",
+    "sun-cults"
+   ]
+  },
+  {
+   "id": "yamata-no-orochi",
+   "title": "Yamata no Orochi: the eight-headed serpent and the sword in its tail",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 3,
+   "start": 712,
+   "end": null,
+   "evidenceTypes": [
+    "textual"
+   ],
+   "mainstream": "After being expelled from heaven, the storm god Susanoo arrives in Izumo, western Japan, and meets an elderly couple whose daughters have been eaten one by one by Yamata no Orochi, a huge serpent with eight heads and eight tails. Susanoo has eight vats of strong sake set out; the serpent drinks itself into a stupor and he cuts it to pieces. In one tail he finds the sword Kusanagi, later one of the Imperial Regalia. The story appears in the Kojiki (712) and Nihon Shoki (720).",
+   "alternatives": [
+    {
+     "label": "A river in flood",
+     "text": "A common interpretation sees the many-headed serpent as the Hii River and its tributaries in flood, tamed by human work."
+    },
+    {
+     "label": "Iron-working",
+     "text": "Others note that the Izumo region was a centre of iron production from iron sand, which turned rivers red, and read the sword in the tail as a symbol of iron-working. These readings are interpretations, not proven."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Yamata no Orochi",
+     "url": "https://en.wikipedia.org/wiki/Yamata_no_Orochi",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Susano-o_no_Mikoto_Killing_the_Eight-headed_Dragon.jpg/500px-Susano-o_no_Mikoto_Killing_the_Eight-headed_Dragon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Susano-o_no_Mikoto_Killing_the_Eight-headed_Dragon.jpg",
+     "author": "Torii Kiyomasu II",
+     "license": "CC0",
+     "title": "Susano-o_no_Mikoto_Killing_the_Eight-headed_Dragon.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion"
+   ],
+   "threads": [
+    "serpent-beings",
+    "sacred-relics",
+    "sacred-kingship",
+    "dragon-slayers"
+   ]
+  },
+  {
+   "id": "sun-wukong",
+   "title": "Sun Wukong and Journey to the West: a real pilgrimage turned into myth",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": 1592,
+   "end": null,
+   "evidenceTypes": [
+    "textual"
+   ],
+   "mainstream": "Journey to the West is a Chinese novel published in 1592 and traditionally attributed to Wu Cheng'en. It turns the real 7th-century journey of the monk Xuanzang to India into a fantasy: the monk is protected by the Monkey King Sun Wukong, born from a stone, who has defied heaven and been imprisoned under a mountain by the Buddha, along with the pig-man Zhu Bajie and the river ogre Sha Wujing. It is one of the Four Great Classical Novels of Chinese literature and has inspired countless operas, films, cartoons and games.",
+   "alternatives": [
+    {
+     "label": "Hanuman connection",
+     "text": "In the 1920s the scholar Hu Shih proposed that Sun Wukong was influenced by Hanuman, the monkey hero of the Ramayana; Lu Xun argued instead for a native Chinese origin in the water monster Wuzhiqi. Both views still have supporters."
+    },
+    {
+     "label": "Real journey behind the story",
+     "text": "Xuanzang’s own account, Great Tang Records on the Western Regions (646), is a valuable historical source on Central and South Asia and is far more down-to-earth than the novel."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Journey to the West",
+     "url": "https://en.wikipedia.org/wiki/Journey_to_the_West",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Sun Wukong",
+     "url": "https://en.wikipedia.org/wiki/Sun_Wukong",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Xiyou.PNG/500px-Xiyou.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Xiyou.PNG",
+     "author": "AnonymousUnknown author",
+     "license": "Public domain",
+     "title": "Xiyou.PNG"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion",
+    "history"
+   ],
+   "threads": [
+    "silk-road",
+    "myths-about-history",
+    "travellers-tales"
+   ]
+  },
+  {
+   "id": "jiangshi",
+   "title": "Jiangshi: China’s hopping corpses",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 3,
+   "start": 1750,
+   "end": null,
+   "dateNote": "Qing dynasty tales, 18th century",
+   "evidenceTypes": [
+    "textual",
+    "oral tradition"
+   ],
+   "mainstream": "The jiangshi ('stiff corpse') is a reanimated corpse in Chinese folklore that moves by hopping with its arms stretched out, because rigor mortis keeps its body stiff, and drains the life force (qi) of the living. Stories of such corpses appear in Qing dynasty collections of strange tales, such as those by Ji Yun and Yuan Mei in the 18th century. Folk explanations connect the image to the practice of 'transporting corpses over a thousand li' in western Hunan, in which the bodies of people who died far from home were said to be carried back, sometimes at night, by Taoist priests. Hong Kong films such as Mr. Vampire (1985) made the jiangshi famous worldwide.",
+   "alternatives": [
+    {
+     "label": "Corpse-walkers explained",
+     "text": "One explanation for hopping corpses is that bodies were tied to bamboo poles carried on the shoulders of two men, making them appear to bounce in the dark. This is a popular explanation and is hard to verify historically."
+    },
+    {
+     "label": "Vampire parallels",
+     "text": "The jiangshi is often called the ‘Chinese vampire’, and it shares with European revenant panics the fear that improper burial lets the dead return to harm the living."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Jiangshi",
+     "url": "https://en.wikipedia.org/wiki/Jiangshi",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Jiangshi_custome.jpg/500px-Jiangshi_custome.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Jiangshi_custome.jpg",
+     "author": "Dick Thomas Johnson",
+     "license": "CC BY 2.0",
+     "title": "Jiangshi_custome.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend"
+   ],
+   "threads": [
+    "vampire-panics"
+   ]
+  },
+  {
+   "id": "banshee",
+   "title": "The banshee: the Irish fairy woman who wails before a death",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 3,
+   "start": 1600,
+   "end": null,
+   "dateNote": "folk belief recorded over many centuries; placed here approximately",
+   "evidenceTypes": [
+    "oral tradition",
+    "textual"
+   ],
+   "mainstream": "In Irish folklore the banshee (bean sí, 'woman of the fairy mound') is a female spirit whose keening or wailing at night foretells a death in certain families, traditionally old Irish families. She is described in different ways: as a young woman, a washerwoman cleaning bloodstained clothes at a ford, or an old woman combing her long hair. The figure is closely linked to the real tradition of keening, the lament sung by women at Irish wakes and funerals.",
+   "alternatives": [
+    {
+     "label": "Sounds in the night",
+     "text": "Sceptics suggest that some reported wails were the screeches of barn owls or foxes, given meaning after a death. Believers treat the banshee as a real family omen."
+    },
+    {
+     "label": "Older goddess roots",
+     "text": "Some folklorists connect the banshee to earlier Irish figures such as the war goddess the Morrígan and the washer at the ford who foretells warriors’ deaths in medieval tales."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Banshee",
+     "url": "https://en.wikipedia.org/wiki/Banshee",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Keening",
+     "url": "https://en.wikipedia.org/wiki/Keening",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Banshee.jpg/500px-Banshee.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Banshee.jpg",
+     "author": "W.H. Brooke",
+     "license": "Public domain",
+     "title": "Banshee.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend"
+   ],
+   "threads": [
+    "celtic-worlds",
+    "prophecies"
+   ]
+  },
+  {
+   "id": "changelings",
+   "title": "Changelings: fairy babies swapped for human children",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 3,
+   "start": 1500,
+   "end": null,
+   "dateNote": "widespread from the Middle Ages to the 19th century",
+   "evidenceTypes": [
+    "oral tradition",
+    "textual"
+   ],
+   "mainstream": "Across European folklore, especially in Ireland, Britain and Scandinavia, fairies or trolls were believed to steal human babies and leave one of their own, or an enchanted log, in their place. A 'changeling' might be sickly, cry constantly or fail to grow. Martin Luther recounted such a case in his Table Talk in the 16th century, and the belief had tragic consequences as late as 1895, when Bridget Cleary was killed in County Tipperary, Ireland, by her husband, who claimed she had been replaced by a fairy.",
+   "alternatives": [
+    {
+     "label": "Explaining illness and disability",
+     "text": "Historians and medical writers suggest the belief helped people explain children with illnesses or developmental conditions that were not understood at the time, sometimes with harmful results for those children."
+    },
+    {
+     "label": "Fairy abduction tradition",
+     "text": "Changeling lore belongs to a wider body of stories in which fairies take people into their world, linked to the Irish sídhe and Scandinavian huldufolk traditions."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Changeling",
+     "url": "https://en.wikipedia.org/wiki/Changeling",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Murder of Bridget Cleary",
+     "url": "https://en.wikipedia.org/wiki/Murder_of_Bridget_Cleary",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/F%C3%BCssli_-_Der_Wechselbalg_-_1780.jpeg/500px-F%C3%BCssli_-_Der_Wechselbalg_-_1780.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:F%C3%BCssli_-_Der_Wechselbalg_-_1780.jpeg",
+     "author": "Henry Fuseli",
+     "license": "Public domain",
+     "title": "Füssli_-_Der_Wechselbalg_-_1780.jpeg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "history"
+   ],
+   "threads": [
+    "otherworld-visits",
+    "hidden-peoples",
+    "celtic-worlds"
    ]
   }
  ]
