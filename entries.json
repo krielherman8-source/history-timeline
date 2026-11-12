@@ -57095,6 +57095,531 @@
     "hidden-peoples",
     "celtic-worlds"
    ]
+  },
+  {
+   "id": "petra",
+   "title": "Petra: the rose-red city carved into cliffs",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -312,
+   "end": 363,
+   "dateNote": "Nabataeans first recorded 312 BCE; earthquake 363 CE",
+   "evidenceTypes": [
+    "archaeological",
+    "textual"
+   ],
+   "mainstream": "Petra, in southern Jordan, was the capital of the Nabataean Arabs, who grew rich controlling caravan routes for incense, spices and other goods. They are first recorded in 312 BCE, and they carved monumental tombs and temples, including the famous Treasury (Al-Khazneh), straight into the sandstone cliffs, and engineered dams and channels to collect scarce water. Rome annexed the kingdom in 106 CE. Damaged by an earthquake in 363 and later largely abandoned, Petra became known to Europeans when the Swiss traveller Johann Ludwig Burckhardt visited in disguise in 1812. It is a UNESCO World Heritage site.",
+   "alternatives": [
+    {
+     "label": "Treasure in the urn",
+     "text": "Local Bedouin tradition held that the stone urn atop the Treasury hid a pharaoh’s or bandits’ treasure, and it is pockmarked by bullets fired to break it open. The urn is solid rock."
+    },
+    {
+     "label": "Petra and early Islam",
+     "text": "The independent researcher Dan Gibson has argued that the earliest mosques point toward Petra rather than Mecca, so that Petra was Islam’s original holy city. Historians of early Islam have widely rejected this, citing problems with the data and methods."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Petra",
+     "url": "https://en.wikipedia.org/wiki/Petra",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Nabataeans",
+     "url": "https://en.wikipedia.org/wiki/Nabataeans",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Al_Deir_Petra.JPG/500px-Al_Deir_Petra.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Al_Deir_Petra.JPG",
+     "author": "Azurfrog",
+     "license": "CC BY-SA 3.0",
+     "title": "Al_Deir_Petra.JPG"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology"
+   ],
+   "threads": [
+    "lost-treasures",
+    "water-engineering",
+    "trade-networks",
+    "rediscovered-civilisations",
+    "levant-crossroads",
+    "wonders-of-the-world"
+   ]
+  },
+  {
+   "id": "palmyra-zenobia",
+   "title": "Palmyra and Queen Zenobia, who challenged Rome",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 267,
+   "end": 273,
+   "evidenceTypes": [
+    "archaeological",
+    "textual"
+   ],
+   "mainstream": "Palmyra was a wealthy caravan city in an oasis of the Syrian desert, blending Greco-Roman, Persian and local Aramaic cultures. After her husband Odaenathus was assassinated in 267, Queen Zenobia ruled on behalf of her young son and broke away from Rome, conquering Egypt and much of Anatolia to create the short-lived Palmyrene Empire. The emperor Aurelian defeated her in 272 and captured her; Palmyra was sacked after a revolt in 273. In 2015 the Islamic State group destroyed several of its monuments, including the Temple of Bel, and killed the city's long-time head of antiquities, Khaled al-Asaad.",
+   "alternatives": [
+    {
+     "label": "Zenobia’s fate",
+     "text": "Ancient sources disagree: some say she was paraded in Aurelian’s triumph in Rome and lived out her life in a villa near Tibur, others that she died on the way to Rome, by illness, hunger strike or execution."
+    },
+    {
+     "label": "A legend of her own making",
+     "text": "Zenobia claimed descent from Cleopatra and Dido of Carthage, and later writers turned her into a symbol of the learned warrior queen; how much of her story is propaganda is debated."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Palmyra",
+     "url": "https://en.wikipedia.org/wiki/Palmyra",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Zenobia",
+     "url": "https://en.wikipedia.org/wiki/Zenobia",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Antoninianus_of_Zenobia_%28obverse%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Antoninianus_of_Zenobia_(obverse).png",
+     "author": "CNG",
+     "license": "CC BY-SA 2.5",
+     "title": "Antoninianus_of_Zenobia_(obverse).png"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology"
+   ],
+   "threads": [
+    "warrior-women",
+    "trade-networks",
+    "levant-crossroads",
+    "resistance-to-empire"
+   ]
+  },
+  {
+   "id": "masada",
+   "title": "Masada: the last stand against Rome (73–74 CE)",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 73,
+   "end": null,
+   "dateNote": "siege ended 73 or 74 CE",
+   "evidenceTypes": [
+    "archaeological",
+    "textual"
+   ],
+   "mainstream": "Masada is a desert fortress on a cliff above the Dead Sea, fortified by Herod the Great. After the fall of Jerusalem in 70 CE during the First Jewish–Roman War, Jewish rebels known as the Sicarii held out there until a Roman legion built a huge siege ramp and breached the walls, probably in 73 or 74 CE. According to the historian Josephus, the only ancient source, 960 defenders chose to kill each other and themselves rather than be captured, leaving just two women and five children alive. Excavations by Yigael Yadin in 1963–65 uncovered palaces, storerooms and the Roman siege works, which are among the best preserved in the world.",
+   "alternatives": [
+    {
+     "label": "Did the mass suicide happen?",
+     "text": "The siege is confirmed by archaeology, but some scholars doubt parts of Josephus’ dramatic account, noting that only a few dozen skeletons have been found and that Josephus wrote speeches he could not have heard. Others defend the core of the story."
+    },
+    {
+     "label": "A modern symbol",
+     "text": "Masada became a powerful symbol in 20th-century Israel (“Masada shall not fall again”); historians have studied how this national myth shaped how the evidence was presented."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Masada",
+     "url": "https://en.wikipedia.org/wiki/Masada",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Siege of Masada",
+     "url": "https://en.wikipedia.org/wiki/Siege_of_Masada",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Israel-2013-Aerial_21-Masada.jpg/500px-Israel-2013-Aerial_21-Masada.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Israel-2013-Aerial_21-Masada.jpg",
+     "author": "Godot13",
+     "license": "CC BY-SA 4.0",
+     "title": "Israel-2013-Aerial_21-Masada.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology",
+    "religion"
+   ],
+   "threads": [
+    "levant-crossroads",
+    "myths-about-history",
+    "resistance-to-empire"
+   ]
+  },
+  {
+   "id": "taharqa",
+   "title": "Taharqa: the Kushite pharaoh named in the Bible",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 3,
+   "start": -690,
+   "end": -664,
+   "evidenceTypes": [
+    "archaeological",
+    "textual"
+   ],
+   "mainstream": "Taharqa was a king of Kush (in today's Sudan) and pharaoh of Egypt's Twenty-fifth Dynasty, ruling both lands from 690 to 664 BCE. He built temples from Nubia to Thebes, including additions at Karnak and Jebel Barkal. The Hebrew Bible mentions him as Tirhakah, king of Cush, marching against the Assyrian king Sennacherib. Later the Assyrians under Esarhaddon and Ashurbanipal invaded Egypt and drove him back south. He was buried under a pyramid at Nuri, the largest pyramid built in Nubia.",
+   "alternatives": [
+    {
+     "label": "Black pharaohs rediscovered",
+     "text": "Older Egyptology often downplayed the Kushite pharaohs; since the late 20th century, excavations such as Charles Bonnet’s at Kerma and Dukki Gel have brought new attention to Kush as a major power."
+    },
+    {
+     "label": "Biblical chronology debate",
+     "text": "Scholars debate whether Taharqa could already have led an army in 701 BCE, when Sennacherib besieged Jerusalem, or whether the Bible’s mention reflects a later title."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Taharqa",
+     "url": "https://en.wikipedia.org/wiki/Taharqa",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Twenty-fifth Dynasty of Egypt",
+     "url": "https://en.wikipedia.org/wiki/Twenty-fifth_Dynasty_of_Egypt",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Taharqa%2C_Louvre_Museum.jpg/500px-Taharqa%2C_Louvre_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Taharqa,_Louvre_Museum.jpg",
+     "author": "Tangopaso",
+     "license": "Public domain",
+     "title": "Taharqa,_Louvre_Museum.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology",
+    "religion"
+   ],
+   "threads": [
+    "erased-from-history",
+    "egypt-of-the-pharaohs"
+   ]
+  },
+  {
+   "id": "grootslang",
+   "title": "The Grootslang: South Africa’s giant serpent of the Wonder Hole",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 3,
+   "start": 1900,
+   "end": null,
+   "dateNote": "folklore of uncertain age; recorded in the 20th century",
+   "evidenceTypes": [
+    "oral tradition"
+   ],
+   "mainstream": "The Grootslang ('great snake' in Afrikaans and Dutch) is a legendary creature said to live in a deep cave known as the Wonder Hole or Bottomless Pit in the Richtersveld, in South Africa's Northern Cape. It is described as an enormous serpent, sometimes with diamonds for eyes, and the cave is said to be full of diamonds and to connect to the sea or to the Orange River. The Richtersveld is a real diamond-bearing region, which helps explain the treasure motif.",
+   "alternatives": [
+    {
+     "label": "Elephant-snake?",
+     "text": "Recent popular retellings describe the Grootslang as part elephant, part snake. This seems to be a modern development, traced to a reference book describing it as elephant-sized and to mixing with other African monster legends."
+    },
+    {
+     "label": "A real animal behind it",
+     "text": "Some suggest sightings of large pythons inspired the legend; there is no evidence of an unknown giant snake."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Grootslang",
+     "url": "https://en.wikipedia.org/wiki/Grootslang",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Richtersveld",
+     "url": "https://en.wikipedia.org/wiki/Richtersveld",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Richtersveld_World_Heritage_Site%2C_Matjieshuts_at_Glybank_near_Kuboes.JPG/500px-Richtersveld_World_Heritage_Site%2C_Matjieshuts_at_Glybank_near_Kuboes.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Richtersveld_World_Heritage_Site,_Matjieshuts_at_Glybank_near_Kuboes.JPG",
+     "author": "Andrew Hall",
+     "license": "CC BY-SA 3.0",
+     "title": "Richtersveld_World_Heritage_Site,_Matjieshuts_at_Glybank_near_Kuboes.JPG"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "anomalies"
+   ],
+   "threads": [
+    "cryptids",
+    "serpent-beings",
+    "lost-treasures",
+    "southern-africa"
+   ]
+  },
+  {
+   "id": "hoba-meteorite",
+   "title": "The Hoba meteorite: the biggest known single meteorite on Earth",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 3,
+   "start": 1920,
+   "end": null,
+   "dateNote": "found 1920; fell less than 80,000 years ago",
+   "evidenceTypes": [
+    "geological/ice core"
+   ],
+   "mainstream": "The Hoba meteorite lies where it fell on the farm Hoba West near Grootfontein in Namibia. Weighing an estimated 60 tonnes or more, it is the largest known intact meteorite and the most massive natural piece of iron known at Earth's surface; it is made mostly of iron with some nickel. It was found in 1920 by the farm's owner while ploughing. It is thought to have fallen less than 80,000 years ago, and it left no crater, probably because the atmosphere slowed it to a relatively low speed. It became a national monument in 1955, and the name comes from a Khoekhoegowab word meaning 'gift'.",
+   "alternatives": [
+    {
+     "label": "No crater puzzle",
+     "text": "Its lack of a crater has fascinated visitors; scientists explain it by its flat shape and low speed on arrival, though the exact circumstances of the fall cannot be observed."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Hoba meteorite",
+     "url": "https://en.wikipedia.org/wiki/Hoba_meteorite",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Hoba_meteorite_%2815682150765%29.jpg/500px-Hoba_meteorite_%2815682150765%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Hoba_meteorite_(15682150765).jpg",
+     "author": "Sergio Conti from Montevecchia (LC), Italia",
+     "license": "CC BY-SA 2.0",
+     "title": "Hoba_meteorite_(15682150765).jpg"
+    }
+   ],
+   "categories": [
+    "science-cosmos"
+   ],
+   "threads": [
+    "southern-africa",
+    "sky-stones"
+   ]
+  },
+  {
+   "id": "atahualpa-cajamarca",
+   "title": "Atahualpa’s capture at Cajamarca and the room of gold (1532)",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1532,
+   "end": 1533,
+   "evidenceTypes": [
+    "textual"
+   ],
+   "mainstream": "On 16 November 1532, the Spanish conquistador Francisco Pizarro, with fewer than 200 men, ambushed the Inca emperor Atahualpa and his unarmed retinue in the town square of Cajamarca, killing thousands and taking him prisoner. Atahualpa, who had just won a civil war against his brother Huáscar, offered to fill a room once with gold and twice with silver for his freedom. The ransom was collected from across the empire and melted down, but the Spanish executed him in July 1533.",
+   "alternatives": [
+    {
+     "label": "Hidden Inca treasure",
+     "text": "Legends say much gold on its way to Cajamarca was hidden when news of the execution spread, most famously by the general Rumiñahui in the Llanganates mountains of Ecuador. Searches have continued for centuries without confirmed results."
+    },
+    {
+     "label": "Why so few won",
+     "text": "Historians debate how much the conquest owed to steel and horses, to epidemics such as smallpox that had already devastated the Inca, to the civil war, and to indigenous allies who joined the Spanish."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Atahualpa",
+     "url": "https://en.wikipedia.org/wiki/Atahualpa",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Battle of Cajamarca",
+     "url": "https://en.wikipedia.org/wiki/Battle_of_Cajamarca",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Atahuallpa%2C_Inca_XIIII_From_Berlin_Ethnologisches_Museum%2C_Staatliche_Museen%2C_Berlin%2C_Germany.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Atahuallpa,_Inca_XIIII_From_Berlin_Ethnologisches_Museum,_Staatliche_Museen,_Berlin,_Germany.png",
+     "author": "anonymous",
+     "license": "Public domain",
+     "title": "Atahuallpa,_Inca_XIIII_From_Berlin_Ethnologisches_Museum,_Staatliche_Museen,_Berlin,_Germany.png"
+    }
+   ],
+   "categories": [
+    "history"
+   ],
+   "threads": [
+    "lost-treasures",
+    "andean-empires",
+    "resistance-to-empire"
+   ]
+  },
+  {
+   "id": "kokopelli",
+   "title": "Kokopelli: the humpbacked flute player of the Southwest",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 3,
+   "start": 800,
+   "end": null,
+   "dateNote": "ancient rock-art images; date approximate",
+   "evidenceTypes": [
+    "archaeological",
+    "oral tradition"
+   ],
+   "mainstream": "Kokopelli is a fertility deity and trickster of some Native American cultures in the Southwestern United States, usually shown as a humpbacked flute player, often with feathers or antenna-like shapes on his head. Among the Hopi he carries unborn children on his back and takes part in rituals connected with marriage, and his music is said to chase away winter and bring spring. Images of humpbacked flute players appear in ancient rock art and pottery across the region, some of them many centuries old.",
+   "alternatives": [
+    {
+     "label": "Travelling traders",
+     "text": "One theory suggests the figure was inspired by travelling traders who carried goods in sacks on their backs and announced themselves with flutes; another sees the hump as a sack of seeds or gifts. Both are interpretations."
+    },
+    {
+     "label": "Insect origin",
+     "text": "Some researchers have suggested the hunchbacked, antennaed figure may represent an insect such as a robber fly or cicada."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Kokopelli",
+     "url": "https://en.wikipedia.org/wiki/Kokopelli",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Kokopelli_kachina.jpg/500px-Kokopelli_kachina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Kokopelli_kachina.jpg",
+     "author": "Fewkes, Jesse Walter",
+     "license": "Public domain",
+     "title": "Kokopelli_kachina.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion",
+    "archaeology"
+   ],
+   "threads": [
+    "native-north-america"
+   ]
+  },
+  {
+   "id": "mictlan",
+   "title": "Mictlan: the nine-level Aztec underworld",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 3,
+   "start": 1500,
+   "end": null,
+   "dateNote": "Aztec belief recorded in 16th-century sources",
+   "evidenceTypes": [
+    "textual"
+   ],
+   "mainstream": "In Aztec (Mexica) belief, most people who died ordinary deaths travelled to Mictlan, the underworld ruled by Mictlantecuhtli and his wife Mictecacihuatl. The journey took four years and passed through nine levels with trials such as clashing mountains, freezing winds full of obsidian blades and a wide river, often crossed with the help of a dog. Those who died in battle, in childbirth or by drowning went to other afterlives. The main sources are 16th-century texts such as the Florentine Codex compiled by Bernardino de Sahagún with Nahua scholars.",
+   "alternatives": [
+    {
+     "label": "Echoes in Day of the Dead",
+     "text": "Some customs of the Day of the Dead are often traced to Aztec rites honouring the dead and the goddess Mictecacihuatl; historians note that the modern festival also owes much to Catholic All Saints’ and All Souls’ Days."
+    },
+    {
+     "label": "Nine levels worldwide",
+     "text": "The layered underworld, and the river crossed with an animal guide, has parallels in other traditions, such as the Greek Styx and the Maya Xibalba."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Mictlān",
+     "url": "https://en.wikipedia.org/wiki/Mictl%C4%81n",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Mictlāntēcutli",
+     "url": "https://en.wikipedia.org/wiki/Mictl%C4%81nt%C4%93cutli",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Mictlantecuhtli.svg/500px-Mictlantecuhtli.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Mictlantecuhtli.svg",
+     "author": "Katepanomegas",
+     "license": "CC BY 3.0",
+     "title": "Mictlantecuhtli.svg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion"
+   ],
+   "threads": [
+    "otherworld-visits",
+    "central-america"
+   ]
+  },
+  {
+   "id": "ninki-nanka",
+   "title": "The Ninki Nanka: the swamp dragon of the Gambia",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 3,
+   "start": 1900,
+   "end": null,
+   "dateNote": "folklore of uncertain age; recorded in the 20th century",
+   "evidenceTypes": [
+    "oral tradition"
+   ],
+   "mainstream": "The Ninki Nanka is a legendary dragon-like creature in the folklore of the Gambia and neighbouring Senegal, especially among the Mandinka. It is said to live in swamps, rivers and creeks, and accounts describe it as a huge reptile with a crocodile-like head and sometimes a crest or mirror-like scales; seeing it is said to cause sickness or death. Fear of it was reported to keep people away from some fertile swamps.",
+   "alternatives": [
+    {
+     "label": "A real animal?",
+     "text": "Cryptozoologists have suggested it could be a surviving unknown reptile, and the Centre for Fortean Zoology sent an expedition to the Gambia in 2006 to collect eyewitness testimony; no physical proof of such an animal has been produced. Zoologists point to crocodiles and large monitor lizards as possible inspirations."
+    },
+    {
+     "label": "Water spirit",
+     "text": "Many folklorists treat the Ninki Nanka as a spirit being rather than an animal, related to other West African water spirits."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Ninki Nanka",
+     "url": "https://en.wikipedia.org/wiki/Ninki_Nanka",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [],
+   "categories": [
+    "myth-legend",
+    "anomalies"
+   ],
+   "threads": [
+    "cryptids",
+    "serpent-beings",
+    "water-spirits"
+   ]
   }
  ]
 }
