@@ -1412,7 +1412,8 @@
    "threads": [
     "lost-civilisations",
     "volcanoes-and-memory",
-    "bronze-age-world"
+    "bronze-age-world",
+    "mediterranean-islands"
    ]
   },
   {
@@ -3802,7 +3803,9 @@
     "history",
     "archaeology"
    ],
-   "threads": []
+   "threads": [
+    "gulf-and-indus-trade"
+   ]
   },
   {
    "id": "rome-founding",
@@ -9715,7 +9718,8 @@
    "threads": [
     "lost-civilisations",
     "changed-understanding",
-    "stories-proven-true"
+    "stories-proven-true",
+    "amazonian-earthworks"
    ]
   },
   {
@@ -18418,7 +18422,8 @@
     "sacred-kingship",
     "underground-worlds",
     "human-sacrifice",
-    "rediscovered-civilisations"
+    "rediscovered-civilisations",
+    "mediterranean-islands"
    ]
   },
   {
@@ -30612,7 +30617,8 @@
    ],
    "threads": [
     "lost-civilisations",
-    "changed-understanding"
+    "changed-understanding",
+    "amazonian-earthworks"
    ]
   },
   {
@@ -30677,7 +30683,8 @@
    "threads": [
     "lost-civilisations",
     "disappearances",
-    "hidden-kingdoms"
+    "hidden-kingdoms",
+    "amazonian-earthworks"
    ]
   },
   {
@@ -31181,7 +31188,8 @@
     "ocean-voyagers",
     "ancient-technology",
     "water-engineering",
-    "trade-networks"
+    "trade-networks",
+    "gulf-and-indus-trade"
    ]
   },
   {
@@ -32216,7 +32224,8 @@
     "vanished-landscapes",
     "otherworld-visits",
     "trade-networks",
-    "rediscovered-civilisations"
+    "rediscovered-civilisations",
+    "gulf-and-indus-trade"
    ]
   },
   {
@@ -36369,7 +36378,8 @@
     "civilisation-collapses",
     "ancestral-homelands",
     "genetic-migrations",
-    "bronze-age-world"
+    "bronze-age-world",
+    "sea-peoples-question"
    ]
   },
   {
@@ -40439,7 +40449,8 @@
    "threads": [
     "lost-civilisations",
     "changed-understanding",
-    "rediscovered-civilisations"
+    "rediscovered-civilisations",
+    "amazonian-earthworks"
    ]
   },
   {
@@ -56402,7 +56413,8 @@
    "threads": [
     "giant-monuments",
     "giants-and-little-people",
-    "megalithic-europe"
+    "megalithic-europe",
+    "mediterranean-islands"
    ]
   },
   {
@@ -56452,7 +56464,8 @@
    "threads": [
     "strange-sounds",
     "underground-worlds",
-    "megalithic-europe"
+    "megalithic-europe",
+    "mediterranean-islands"
    ],
    "dateNote": "in use c. 4000–2500 BCE; main Saflieni phase 3300–3000 BCE"
   },
@@ -58781,6 +58794,595 @@
     "plagues-and-epidemics",
     "central-america",
     "disasters-and-scapegoats"
+   ]
+  },
+  {
+   "id": "shimao",
+   "title": "Shimao: the stone city mistaken for the Great Wall",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -2300,
+   "end": -1800,
+   "evidenceTypes": [
+    "archaeological",
+    "radiocarbon"
+   ],
+   "mainstream": "Shimao, in Shenmu County on the northern Loess Plateau of Shaanxi, China, is the largest known walled settlement of its time in China, covering about 400 hectares and occupied roughly 2300–1800 BCE, at the end of the Longshan period. Its stone walls were long thought to be part of the Great Wall, until looted jades led archaeologists to investigate in the 2010s. At its centre stands the Huangchengtai, a terraced stone platform about 70 metres high, decorated with carved stone faces and creatures; jade objects were set into the walls, and pits near the East Gate held the skulls of dozens of young people, many of them women, probably sacrificed. Shimao challenges the older view that Chinese civilisation grew only from the Central Plains.",
+   "alternatives": [
+    {
+     "label": "The Xia question",
+     "text": "Some Chinese scholars have linked Shimao with traditions of early rulers, including the Yellow Emperor or the Xia dynasty; others caution that no writing has been found to connect the site with any named people."
+    },
+    {
+     "label": "A lost pyramid city",
+     "text": "Online, Shimao's stepped platform is sometimes presented as a 'Chinese pyramid' built by a forgotten advanced culture. Archaeologists see it as the work of a powerful local Neolithic polity linked to steppe and Yellow River exchange networks."
+    }
+   ],
+   "changed": "2012 onward: excavations showed the 'Great Wall' ruins were a Neolithic city; the faces on the Huangchengtai were published from 2018.",
+   "sources": [
+    {
+     "title": "Wikipedia: Shimao",
+     "url": "https://en.wikipedia.org/wiki/Shimao",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Longshan culture",
+     "url": "https://en.wikipedia.org/wiki/Longshan_culture",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Shimao_citadel%2C_wall_structure.jpg/500px-Shimao_citadel%2C_wall_structure.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Shimao_citadel,_wall_structure.jpg",
+     "author": "Bilaterian",
+     "license": "CC BY-SA 4.0",
+     "title": "Shimao_citadel,_wall_structure.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history",
+    "lost-civilisations"
+   ],
+   "threads": [
+    "changed-understanding",
+    "giant-monuments",
+    "human-sacrifice",
+    "rediscovered-civilisations"
+   ]
+  },
+  {
+   "id": "hohokam",
+   "title": "The Hohokam: canal builders of the Sonoran Desert",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 450,
+   "end": 1450,
+   "dateNote": "c. 450–1450 CE (start dates vary)",
+   "evidenceTypes": [
+    "archaeological",
+    "oral tradition"
+   ],
+   "mainstream": "The Hohokam culture flourished in the Sonoran Desert of what is now southern Arizona from roughly the 5th century to about 1450 CE. In the Salt and Gila river valleys its people dug hundreds of kilometres of irrigation canals, the largest pre-Columbian canal system in North America, some stretches of which modern Phoenix canals still follow. They built ballcourts and later platform mounds, made shell jewellery etched with acid, and traded with Mesoamerica for copper bells and macaws. Large Hohokam settlements were abandoned in the 1400s. The name comes from an O'odham word often translated as 'those who have gone' or 'all used up', and the city of Phoenix was named in 1867 for rising from their ruins.",
+   "alternatives": [
+    {
+     "label": "Why did they leave?",
+     "text": "Archaeologists debate whether floods that destroyed canal intakes, drought, salt build-up in soils, disease or social upheaval ended the Hohokam towns; several factors may have combined."
+    },
+    {
+     "label": "O'odham memory",
+     "text": "O'odham oral traditions describe a revolt against powerful 'Big House' chiefs (sivanyi); many O'odham regard the Hohokam as their ancestors, while archaeologists see continuity as likely but complex."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Hohokam",
+     "url": "https://en.wikipedia.org/wiki/Hohokam",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Casa Grande Ruins National Monument",
+     "url": "https://en.wikipedia.org/wiki/Casa_Grande_Ruins_National_Monument",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Casagrande2.jpg/500px-Casagrande2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Casagrande2.jpg",
+     "author": "Sirrobin33 at English Wikipedia",
+     "license": "CC BY-SA 3.0",
+     "title": "Casagrande2.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history"
+   ],
+   "threads": [
+    "civilisation-collapses",
+    "water-engineering",
+    "rediscovered-civilisations",
+    "native-north-america"
+   ]
+  },
+  {
+   "id": "marajoara",
+   "title": "Marajoara: the mound builders at the mouth of the Amazon",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 3,
+   "start": 400,
+   "end": 1400,
+   "dateNote": "roughly 400–1400 CE (estimates vary)",
+   "evidenceTypes": [
+    "archaeological"
+   ],
+   "mainstream": "On Marajó, a huge island at the mouth of the Amazon, people built large earthen mounds (tesos) above the seasonal floods, some of them home to many households, and produced elaborate polychrome pottery, including burial urns painted and modelled with human and animal figures. The culture flourished from roughly the middle of the first millennium CE until about 1400. In the 1940s–50s the archaeologist Betty Meggers argued that Marajoara must have been brought by migrants from the Andes and then declined because the tropical forest could not support complex society. From the 1980s, Anna Roosevelt's excavations showed it developed locally, with dense populations fed by fishing and plant foods.",
+   "alternatives": [
+    {
+     "label": "Environmental limits",
+     "text": "Meggers' idea that the Amazon was a 'counterfeit paradise' unable to sustain large societies was influential for decades; it is now widely rejected, though debate continues over how large and hierarchical Marajoara society was."
+    },
+    {
+     "label": "Amazonian chiefdoms",
+     "text": "Roosevelt and others interpret Marajoara as a complex chiefdom; some researchers prefer models with less central control, stressing many cooperating mound communities."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Marajoara culture",
+     "url": "https://en.wikipedia.org/wiki/Marajoara_culture",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Burian_urn%2C_AD_1000-1250%2C_Marajoara_culture_-_AMNH_-_DSC06177_b.jpg/500px-Burian_urn%2C_AD_1000-1250%2C_Marajoara_culture_-_AMNH_-_DSC06177_b.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Burian_urn,_AD_1000-1250,_Marajoara_culture_-_AMNH_-_DSC06177_b.jpg",
+     "author": "Daderot",
+     "license": "CC0",
+     "title": "Burian_urn,_AD_1000-1250,_Marajoara_culture_-_AMNH_-_DSC06177_b.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history",
+    "lost-civilisations"
+   ],
+   "threads": [
+    "changed-understanding",
+    "rediscovered-civilisations",
+    "amazonian-earthworks"
+   ]
+  },
+  {
+   "id": "nuragic-sardinia",
+   "title": "The Nuragic civilisation: Sardinia's land of 7,000 stone towers",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -1700,
+   "end": null,
+   "dateNote": "c. 1700 BCE – Roman conquest (2nd century BCE)",
+   "evidenceTypes": [
+    "archaeological"
+   ],
+   "mainstream": "From about 1700 BCE Bronze Age Sardinians built nuraghi, conical dry-stone towers with corbelled vaults, often grouped into fortresses with villages around them; around 7,000 survive, and the complex of Su Nuraxi at Barumini is a UNESCO World Heritage Site. The Nuragic people also built collective burial monuments known as 'giants' graves' (tombe dei giganti), temple wells aligned so that moonlight falls down the stairs at certain times, and made hundreds of small bronze figurines of warriors, chiefs and priestesses. They traded with Mycenaeans, Cypriots and later Phoenicians, and their culture continued until Carthaginian and Roman conquest.",
+   "alternatives": [
+    {
+     "label": "The Sherden and the Sea Peoples",
+     "text": "Some scholars identify the Sherden, a group of Sea Peoples who served and fought Egyptian pharaohs, with Sardinia, based on the similarity of names and horned helmets. Others think the Sherden came from elsewhere and settled in Sardinia later; the link is unproven."
+    },
+    {
+     "label": "Sardinia as Atlantis",
+     "text": "The journalist Sergio Frau (2002) argued that the Pillars of Hercules were originally placed at the Strait of Sicily, making Sardinia Plato's Atlantis, destroyed by a tsunami. Specialists have not accepted this; it is speculative."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Nuragic civilization",
+     "url": "https://en.wikipedia.org/wiki/Nuragic_civilization",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Nuraghe",
+     "url": "https://en.wikipedia.org/wiki/Nuraghe",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "UNESCO: Su Nuraxi di Barumini",
+     "url": "https://whc.unesco.org/en/list/833/",
+     "type": "heritage listing"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Nuraghe_Losa.jpg/500px-Nuraghe_Losa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Nuraghe_Losa.jpg",
+     "author": "No machine-readable author provided. Jack Aubrey~commonswiki assumed (based on copyright claims).",
+     "license": "CC BY-SA 2.5",
+     "title": "Nuraghe_Losa.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history",
+    "lost-civilisations"
+   ],
+   "threads": [
+    "giant-monuments",
+    "lost-continents",
+    "giants-and-little-people",
+    "ancient-astronomy",
+    "water-engineering",
+    "rediscovered-civilisations",
+    "bronze-age-world",
+    "megalithic-europe",
+    "mediterranean-islands",
+    "sea-peoples-question"
+   ]
+  },
+  {
+   "id": "mont-e-prama",
+   "title": "The Giants of Mont'e Prama: the oldest large statues of the western Mediterranean?",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -900,
+   "end": null,
+   "dateNote": "date debated: c. 11th–8th century BCE",
+   "evidenceTypes": [
+    "archaeological"
+   ],
+   "mainstream": "In March 1974 a farmer ploughing near Mont'e Prama, on the Sinis peninsula of western Sardinia, struck a stone head. Excavations in 1975–79 recovered about 5,000 sandstone fragments, which have since been restored into statues 2 to 2.6 metres tall of archers, warriors and boxers with large circular eyes, along with models of nuraghe towers; the fragments are now thought to come from 44 statues. They stood near a cemetery of single graves and were later smashed. Their date is debated, from the 11th to the 8th century BCE, but they are among the oldest large free-standing human statues in the western Mediterranean, possibly older than the earliest Greek kouroi. New statues were found in 2014 and 2022.",
+   "alternatives": [
+    {
+     "label": "Giants of legend",
+     "text": "Sardinian folklore speaks of giants who built the nuraghi and the 'giants' graves'. The name 'Giants of Mont'e Prama' is modern; there is no evidence the statues depict giants, rather than heroised warriors or ancestors."
+    },
+    {
+     "label": "Who smashed them?",
+     "text": "Some archaeologists blame Carthaginian conquerors; others suggest internal conflict or ritual destruction. The date and cause of the destruction remain uncertain."
+    }
+   ],
+   "changed": "1974: discovered by chance; 2014 and 2022: new statues excavated.",
+   "sources": [
+    {
+     "title": "Wikipedia: Giants of Mont'e Prama",
+     "url": "https://en.wikipedia.org/wiki/Giants_of_Mont'e_Prama",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Et%C3%A0_nuragica%2C_giganti_di_monte_prama%2C_xiii-ix_secolo_ac_ca.%2C_da_cabras%2C_pugilatore_19%2C_02.jpg/500px-Et%C3%A0_nuragica%2C_giganti_di_monte_prama%2C_xiii-ix_secolo_ac_ca.%2C_da_cabras%2C_pugilatore_19%2C_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Et%C3%A0_nuragica,_giganti_di_monte_prama,_xiii-ix_secolo_ac_ca.,_da_cabras,_pugilatore_19,_02.jpg",
+     "author": "Sailko",
+     "license": "CC BY 3.0",
+     "title": "Età_nuragica,_giganti_di_monte_prama,_xiii-ix_secolo_ac_ca.,_da_cabras,_pugilatore_19,_02.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history",
+    "myth-legend"
+   ],
+   "threads": [
+    "changed-understanding",
+    "giants-and-little-people",
+    "bronze-age-world",
+    "mediterranean-islands"
+   ]
+  },
+  {
+   "id": "talaiotic-menorca",
+   "title": "Talaiotic Menorca: taulas, navetas and the Balearic slingers",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 3,
+   "start": -1000,
+   "end": -123,
+   "evidenceTypes": [
+    "archaeological"
+   ],
+   "mainstream": "On Menorca and Mallorca, Iron Age communities from the late second millennium BCE built talaiots (stone towers), large villages, and on Menorca the unique taulas: T-shaped monuments of two huge slabs, standing inside horseshoe-shaped enclosures. The older Naveta des Tudons, a collective tomb shaped like an upturned boat, is one of the best-preserved prehistoric buildings in Europe. In 2023 'Talayotic Menorca' was inscribed as a UNESCO World Heritage Site. Balearic slingers were famous as mercenaries in Carthaginian and Roman armies; the Romans conquered the islands in 123 BCE.",
+   "alternatives": [
+    {
+     "label": "Star-pointing taulas",
+     "text": "The archaeoastronomer Michael Hoskin found that many taula enclosures face south, roughly towards where the Southern Cross and Alpha Centauri rose in antiquity; he suggested a connection with healing cults. Others think orientation reflects local topography."
+    },
+    {
+     "label": "What was a taula?",
+     "text": "Interpretations include a symbolic bull's head, a stylised god or human figure, a roof support, or an altar or table for offerings; there is no consensus."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Talaiotic culture",
+     "url": "https://en.wikipedia.org/wiki/Talaiotic_culture",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Taula",
+     "url": "https://en.wikipedia.org/wiki/Taula",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Naveta d'Es Tudons",
+     "url": "https://en.wikipedia.org/wiki/Naveta_d'Es_Tudons",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Taula-Menorca.jpg/500px-Taula-Menorca.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Taula-Menorca.jpg",
+     "author": "ZenTrowel",
+     "license": "Public domain",
+     "title": "Taula-Menorca.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history"
+   ],
+   "threads": [
+    "ancient-astronomy",
+    "megalithic-europe",
+    "mediterranean-islands"
+   ]
+  },
+  {
+   "id": "elam",
+   "title": "Elam: Iran's first civilisation and the script deciphered in 2022",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -3200,
+   "end": -539,
+   "evidenceTypes": [
+    "archaeological",
+    "textual"
+   ],
+   "mainstream": "Elam was a civilisation of south-western Iran, centred on the lowland city of Susa and the highland city of Anshan, from about 3200 BCE until the Persian era. It used two early scripts, Proto-Elamite and Linear Elamite, and later wrote its language, which has no known relatives, in cuneiform. Elam was often at war with Mesopotamia: around 1158 BCE the Elamite king Shutruk-Nakhunte carried off the stele of Hammurabi's laws and the Naram-Sin victory stele to Susa, where French archaeologists found them in 1898–1902. King Untash-Napirisha built the ziggurat of Chogha Zanbil (c. 1250 BCE), and the Assyrian king Ashurbanipal sacked Susa in about 646 BCE. Elamite remained an administrative language of the Persian Empire.",
+   "alternatives": [
+    {
+     "label": "Linear Elamite decipherment",
+     "text": "In 2020–2022 François Desset and colleagues announced a decipherment of Linear Elamite, used around 2300–1880 BCE, based partly on silver vessels with parallel inscriptions. Many specialists accept major parts of it; some question the reliance on vessels of uncertain provenance."
+    },
+    {
+     "label": "Elamo-Dravidian",
+     "text": "The linguist David McAlpin proposed that Elamite was related to the Dravidian languages of South India. The idea is not widely accepted but is still discussed."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Elam",
+     "url": "https://en.wikipedia.org/wiki/Elam",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Linear Elamite",
+     "url": "https://en.wikipedia.org/wiki/Linear_Elamite",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Chogha Zanbil",
+     "url": "https://en.wikipedia.org/wiki/Chogha_Zanbil",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/%D8%B2%DB%8C%DA%AF%D9%88%D8%B1%D8%A7%D8%AA_%DA%86%D8%BA%D8%A7_%D8%B2%D9%86%D8%A8%DB%8C%D9%84.jpg/500px-%D8%B2%DB%8C%DA%AF%D9%88%D8%B1%D8%A7%D8%AA_%DA%86%D8%BA%D8%A7_%D8%B2%D9%86%D8%A8%DB%8C%D9%84.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:%D8%B2%DB%8C%DA%AF%D9%88%D8%B1%D8%A7%D8%AA_%DA%86%D8%BA%D8%A7_%D8%B2%D9%86%D8%A8%DB%8C%D9%84.jpg",
+     "author": "Mobina ghanbaryan",
+     "license": "CC BY-SA 4.0",
+     "title": "زیگورات_چغا_زنبیل.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology"
+   ],
+   "threads": [
+    "origins-of-writing",
+    "rediscovered-civilisations",
+    "decipherments",
+    "bronze-age-world",
+    "iranian-worlds",
+    "mesopotamia-and-anatolia",
+    "gulf-and-indus-trade"
+   ]
+  },
+  {
+   "id": "magan",
+   "title": "Magan: the copper land of ancient Oman",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 3,
+   "start": -2600,
+   "end": null,
+   "dateNote": "3rd millennium BCE",
+   "evidenceTypes": [
+    "archaeological",
+    "textual"
+   ],
+   "mainstream": "Mesopotamian texts of the third millennium BCE name three distant lands reached by sea: Dilmun, Magan and Meluhha. Sargon of Akkad boasted that ships from all three moored at his capital, and his grandson Naram-Sin claimed to have defeated a king of Magan. Magan is generally identified with what are now Oman and the United Arab Emirates, which supplied copper mined in the Hajar mountains and diorite for royal statues. The Umm an-Nar culture (c. 2600–2000 BCE) there built round stone towers and large circular communal tombs; the sites of Bat, Al-Khutm and Al-Ayn in Oman are a UNESCO World Heritage Site.",
+   "alternatives": [
+    {
+     "label": "Where exactly was Magan?",
+     "text": "A few scholars suggested Magan included parts of southern Iran or even Egypt in later texts, where the name was reused for Egypt; most now place the third-millennium land in south-eastern Arabia."
+    },
+    {
+     "label": "A link to the Indus",
+     "text": "Indus-style seals, weights and pottery in Oman show contact with Meluhha (the Indus civilisation); how much of the trade passed through Magan is debated."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Magan (civilization)",
+     "url": "https://en.wikipedia.org/wiki/Magan_(civilization)",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Umm Al Nar culture",
+     "url": "https://en.wikipedia.org/wiki/Umm_Al_Nar_culture",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "UNESCO: Archaeological Sites of Bat, Al-Khutm and Al-Ayn",
+     "url": "https://whc.unesco.org/en/list/434/",
+     "type": "heritage listing"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Moyen_Orient_3mil_aC.svg/500px-Moyen_Orient_3mil_aC.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Moyen_Orient_3mil_aC.svg",
+     "author": "Middle_East_topographic_map-blank.svg: Sémhur (talk)\nderivative work: Zunkir (talk)",
+     "license": "CC BY-SA 3.0",
+     "title": "Moyen_Orient_3mil_aC.svg"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology",
+    "lost-civilisations"
+   ],
+   "threads": [
+    "trade-networks",
+    "rediscovered-civilisations",
+    "bronze-age-world",
+    "mesopotamia-and-anatolia",
+    "gulf-and-indus-trade"
+   ]
+  },
+  {
+   "id": "akrotiri",
+   "title": "Akrotiri: the Bronze Age town buried by Thera, with no bodies",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -1600,
+   "end": null,
+   "dateNote": "destroyed c. 1600 BCE (date debated)",
+   "evidenceTypes": [
+    "archaeological",
+    "radiocarbon"
+   ],
+   "mainstream": "Akrotiri was a prosperous Bronze Age town on the island of Santorini (Thera), with multi-storey houses, drains and spectacular wall paintings: a boxing match between boys, a fisherman, swallows among lilies and a long frieze of ships. It was buried in ash and pumice by the great Minoan eruption, now dated by radiocarbon to around 1600 BCE (archaeological chronologies have favoured a slightly later date). Systematic excavation began in 1967 under Spyridon Marinatos, who died at the site in 1974 and is buried there. Unlike Pompeii, almost no human remains and few valuables have been found, suggesting the people left after warning earthquakes.",
+   "alternatives": [
+    {
+     "label": "Atlantis",
+     "text": "Marinatos and the seismologist Angelos Galanopoulos argued that the destruction of Thera and the decline of Minoan Crete inspired Plato's Atlantis story. Many find the parallels suggestive, but Plato's dates and geography do not fit, and the link is unproven."
+    },
+    {
+     "label": "Where did the people go?",
+     "text": "No evacuation site has been identified; it is not known whether the townspeople escaped the island or died in the later phases of the eruption."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Akrotiri (prehistoric city)",
+     "url": "https://en.wikipedia.org/wiki/Akrotiri_(prehistoric_city)",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Ancient_Akrotiri.jpeg/500px-Ancient_Akrotiri.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Ancient_Akrotiri.jpeg",
+     "author": "Rt44",
+     "license": "CC BY-SA 4.0",
+     "title": "Ancient_Akrotiri.jpeg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "catastrophes",
+    "lost-civilisations"
+   ],
+   "threads": [
+    "lost-continents",
+    "volcanoes-and-memory",
+    "civilisation-collapses",
+    "sunken-cities",
+    "rediscovered-civilisations",
+    "bronze-age-world",
+    "mediterranean-islands"
+   ]
+  },
+  {
+   "id": "ubaid-lizard-figurines",
+   "title": "The 'lizard-headed' figurines of the Ubaid period",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 3,
+   "start": -4500,
+   "end": null,
+   "dateNote": "late Ubaid, c. 4500–4000 BCE",
+   "evidenceTypes": [
+    "archaeological",
+    "speculative"
+   ],
+   "mainstream": "The Ubaid period (c. 6500–3800 BCE) in southern Mesopotamia saw the first temples at Eridu and the growth of towns that later became Sumerian cities. From late Ubaid graves and houses at sites such as Ur and Eridu come clay figurines of slender standing figures, male and female, with elongated heads, slanted 'coffee-bean' eyes, and pellets or marks on the shoulders; some women hold or nurse a child. Their meaning is unknown. Archaeologists interpret them as stylised humans, perhaps deities, ancestors or protective figures, and some have noted that skeletons from the period show deliberate head-shaping, which the elongated heads may represent. Their fame has also attracted forgers: Iraq's Sulaymaniyah Museum holds confiscated fake 'lizard-headed' figurines made for the antiquities market.",
+   "alternatives": [
+    {
+     "label": "Reptilian visitors",
+     "text": "Online, the figurines are widely presented as evidence that reptilian beings or ancient astronauts lived among early humans, sometimes linked to the Anunnaki. There is no evidence for this; it reflects modern conspiracy ideas about reptilians, which date mainly from the 1990s."
+    },
+    {
+     "label": "Shoulder marks and tattoos",
+     "text": "The pellets on the shoulders have been read as tattoos, scarification, jewellery or symbols of rank; there is no agreement."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Ubaid period",
+     "url": "https://en.wikipedia.org/wiki/Ubaid_period",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Reptilian conspiracy theory",
+     "url": "https://en.wikipedia.org/wiki/Reptilian_conspiracy_theory",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Lizard-headed_nude_woman_nursing_a_child%2C_from_Ur%2C_Iraq%2C_c._4000_BCE._Iraq_Museum.jpg/500px-Lizard-headed_nude_woman_nursing_a_child%2C_from_Ur%2C_Iraq%2C_c._4000_BCE._Iraq_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Lizard-headed_nude_woman_nursing_a_child,_from_Ur,_Iraq,_c._4000_BCE._Iraq_Museum.jpg",
+     "author": "Osama Shukir Muhammed Amin FRCP(Glasg)",
+     "license": "CC BY-SA 4.0",
+     "title": "Lizard-headed nude woman nursing a child, from Ur, Iraq, c. 4000 BCE. Iraq Museum.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "aliens-ufo",
+    "anomalies"
+   ],
+   "threads": [
+    "hoaxes-exposed",
+    "serpent-beings",
+    "outsider-builder-claims",
+    "mesopotamia-and-anatolia",
+    "anunnaki-claims"
    ]
   }
  ]
