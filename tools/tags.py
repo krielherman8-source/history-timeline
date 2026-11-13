@@ -2448,3 +2448,25 @@ addt('outsider-builder-claims','ubaid-lizard-figurines')
 addt('anunnaki-claims','ubaid-lizard-figurines')
 addt('serpent-beings','ubaid-lizard-figurines')
 addt('hoaxes-exposed','ubaid-lizard-figurines')
+
+# batch 26 part 3 — earth-lights, official UFO studies, famous photos, SETI
+C.update({
+'vilas-boas-1957':'aliens-ufo anomalies','brown-mountain-lights':'anomalies myth-legend hoaxes','marfa-lights':'anomalies science-cosmos','geipan':'aliens-ufo history science-cosmos',
+'project-condign':'aliens-ufo history','cometa-report':'aliens-ufo history','drake-equation':'science-cosmos aliens-ufo history','trindade-1958':'aliens-ufo anomalies hoaxes',
+'mcminnville-1950':'aliens-ufo anomalies hoaxes','battle-of-los-angeles':'history anomalies aliens-ufo','lead-masks-1966':'anomalies aliens-ufo history'})
+addt('ufo-encounters','vilas-boas-1957 trindade-1958 mcminnville-1950 battle-of-los-angeles')
+addt('close-encounters','vilas-boas-1957')
+addt('alien-abductions','vilas-boas-1957 betty-barney-hill travis-walton-1975 pascagoula-1973')
+addt('earth-lights','brown-mountain-lights marfa-lights hessdalen-lights min-min naga-fireballs')
+addt('mysterious-lights','brown-mountain-lights marfa-lights')
+addt('modern-legends','brown-mountain-lights marfa-lights lead-masks-1966')
+addt('seeing-what-we-expect','brown-mountain-lights marfa-lights battle-of-los-angeles')
+addt('tested-by-experiment','marfa-lights brown-mountain-lights')
+addt('official-ufo-investigations','geipan project-condign cometa-report condon-report project-blue-book aaro-2024')
+addt('cold-war-secrets','project-condign')
+addt('life-beyond-earth','drake-equation fermi-paradox wow-signal')
+addt('contact-attempts','drake-equation voyager-golden-record lead-masks-1966')
+addt('anomalous-photos','trindade-1958 mcminnville-1950 battle-of-los-angeles')
+addt('hoaxes-exposed','mcminnville-1950')
+addt('disappearances','lead-masks-1966')
+addt('collective-experiences','battle-of-los-angeles')
