@@ -727,7 +727,8 @@
     "flood-myths",
     "lost-civilisations",
     "cosmic-impacts",
-    "younger-dryas-debate"
+    "younger-dryas-debate",
+    "abrupt-climate-shocks"
    ]
   },
   {
@@ -957,7 +958,8 @@
    "threads": [
     "flood-myths",
     "lost-continents",
-    "vanished-landscapes"
+    "vanished-landscapes",
+    "tsunami-memory"
    ]
   },
   {
@@ -6937,7 +6939,8 @@
     "stories-proven-true",
     "deep-oral-memory",
     "earthquake-lore",
-    "pacific-northwest"
+    "pacific-northwest",
+    "tsunami-memory"
    ]
   },
   {
@@ -7298,7 +7301,8 @@
     "sky-omens",
     "volcanoes-and-memory",
     "storms-that-changed-history",
-    "byzantine-world"
+    "byzantine-world",
+    "abrupt-climate-shocks"
    ]
   },
   {
@@ -9328,7 +9332,8 @@
    ],
    "threads": [
     "lost-civilisations",
-    "volcanoes-and-memory"
+    "volcanoes-and-memory",
+    "abrupt-climate-shocks"
    ]
   },
   {
@@ -14656,7 +14661,8 @@
     "changed-understanding",
     "sky-omens",
     "civilisation-collapses",
-    "plagues-and-epidemics"
+    "plagues-and-epidemics",
+    "disasters-and-scapegoats"
    ]
   },
   {
@@ -19993,7 +19999,8 @@
    "threads": [
     "changed-understanding",
     "divine-punishment",
-    "earthquake-lore"
+    "earthquake-lore",
+    "tsunami-memory"
    ]
   },
   {
@@ -22655,7 +22662,8 @@
    ],
    "threads": [
     "volcanoes-and-memory",
-    "strange-sounds"
+    "strange-sounds",
+    "abrupt-climate-shocks"
    ]
   },
   {
@@ -23815,7 +23823,8 @@
    "threads": [
     "stories-proven-true",
     "deep-oral-memory",
-    "earthquake-lore"
+    "earthquake-lore",
+    "tsunami-memory"
    ]
   },
   {
@@ -56071,7 +56080,8 @@
     "sunken-cities",
     "divine-punishment",
     "earthquake-lore",
-    "classical-world"
+    "classical-world",
+    "tsunami-memory"
    ]
   },
   {
@@ -58204,6 +58214,573 @@
     "impostors-and-lost-heirs",
     "forged-documents",
     "travellers-tales"
+   ]
+  },
+  {
+   "id": "laki-1783",
+   "title": "Laki 1783: the Icelandic fissure eruption that poisoned a continent",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1783,
+   "end": null,
+   "evidenceTypes": [
+    "textual",
+    "geological/ice core"
+   ],
+   "mainstream": "On 8 June 1783 a row of more than 130 craters, the Lakagígar fissure in southern Iceland, began an eruption that lasted until February 1784. It poured out roughly 14–15 cubic kilometres of basalt lava and released an estimated 120 million tonnes of sulphur dioxide. Fluorine poisoning and the loss of grazing killed around half to three-quarters of Iceland's cattle, horses and sheep, and the famine that followed, the Móðuharðindin ('Mist Hardships'), killed roughly a fifth of Iceland's people. A sulphurous 'dry fog' spread over Europe in summer 1783; parish registers in England and France show a spike in deaths, and Benjamin Franklin, then in Paris, speculated that the haze had cooled the following winter, an early suggestion that volcanoes can change climate.",
+   "alternatives": [
+    {
+     "label": "The Fire Sermon",
+     "text": "On 20 July 1783 the pastor Jón Steingrímsson preached his famous eldmessa ('fire sermon') at Kirkjubæjarklaustur as the lava approached; the flow stopped short of the church, which local tradition remembered as an answer to prayer. Geologists see it as a flow that stalled where it spread out on flatter ground."
+    },
+    {
+     "label": "A cause of the French Revolution?",
+     "text": "Some writers have linked the Laki years to the poor harvests and unrest that preceded 1789. Historians note that the key harvest failure came later (1788, worsened by a hailstorm), so any link is indirect and debated."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Laki",
+     "url": "https://en.wikipedia.org/wiki/Laki",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Atmospheric and environmental effects of the 1783–1784 Laki eruption: A review and reassessment",
+     "authors": "Thordarson, T. et al.",
+     "year": 2003,
+     "doi": "10.1029/2001JD002042",
+     "type": "paper"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Laki_fissure_%283%29.jpg/500px-Laki_fissure_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Laki_fissure_(3).jpg",
+     "author": "Chmee2/Valtameri",
+     "license": "CC BY-SA 3.0",
+     "title": "Laki_fissure_(3).jpg"
+    }
+   ],
+   "categories": [
+    "catastrophes",
+    "science-cosmos",
+    "history"
+   ],
+   "threads": [
+    "volcanoes-and-memory",
+    "divine-punishment",
+    "abrupt-climate-shocks"
+   ]
+  },
+  {
+   "id": "event-8200",
+   "title": "The 8.2-kiloyear event: when a draining ice-age lake chilled the North Atlantic",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -6200,
+   "end": null,
+   "dateNote": "c. 8,200 years before present",
+   "evidenceTypes": [
+    "geological/ice core",
+    "radiocarbon"
+   ],
+   "mainstream": "Greenland ice cores record a sharp cold spell about 8,200 years ago (c. 6200 BCE) that lasted roughly 150 years, the largest abrupt cooling of the Holocene. The leading explanation is that the ice dam holding back the vast glacial Lake Agassiz–Ojibway in North America failed, sending a pulse of fresh water through Hudson Bay into the North Atlantic, which weakened the ocean circulation that carries heat northward. The same period saw a rapid rise in sea level, and Neolithic communities from the Near East to Europe show signs of change around this time, although how far the climate drove those changes is debated.",
+   "alternatives": [
+    {
+     "label": "Flood myths",
+     "text": "Some writers suggest that sudden sea-level rise around 8,200 years ago, along with the near-contemporary Storegga tsunami in the North Sea, could lie behind flood stories. This is speculative: the event left no written record, and flood myths have many possible sources."
+    },
+    {
+     "label": "Driver of migration",
+     "text": "Some archaeologists argue the cold, dry spell pushed early farmers out of Anatolia and the Levant towards Europe; others find little sign of disruption at many sites and see the timing as coincidence."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: 8.2-kiloyear event",
+     "url": "https://en.wikipedia.org/wiki/8.2-kiloyear_event",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Lake Agassiz",
+     "url": "https://en.wikipedia.org/wiki/Lake_Agassiz",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Agassiz.jpg/500px-Agassiz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Agassiz.jpg",
+     "author": "Unknown",
+     "license": "Public domain",
+     "title": "Agassiz.jpg"
+    }
+   ],
+   "categories": [
+    "catastrophes",
+    "science-cosmos"
+   ],
+   "threads": [
+    "flood-myths",
+    "changed-understanding",
+    "vanished-landscapes",
+    "abrupt-climate-shocks"
+   ]
+  },
+  {
+   "id": "armero-1985",
+   "title": "Armero 1985: the town buried by a volcano everyone had been warned about",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1985,
+   "end": null,
+   "evidenceTypes": [
+    "textual"
+   ],
+   "mainstream": "On the night of 13 November 1985 a fairly small eruption of Nevado del Ruiz in Colombia melted part of the summit ice cap. Mudflows of water, ice and volcanic debris (lahars) rushed down the river valleys and, about two and a half hours later, buried the town of Armero, killing around 23,000 of its roughly 29,000 inhabitants. Scientists had published a hazard map weeks earlier showing Armero in the danger zone, and the town stood on deposits from earlier lahars in 1595 and 1845, but evacuation was never ordered. The slow death of 13-year-old Omayra Sánchez, trapped in the debris and photographed by Frank Fournier, became one of the most famous images of the decade. The disaster led directly to the creation of the USGS–USAID Volcano Disaster Assistance Program.",
+   "alternatives": [
+    {
+     "label": "Forgotten warnings",
+     "text": "Armero is often cited as a case where history repeated: the 1845 lahar had also destroyed settlements on the same site. Researchers use it to show how quickly the memory of rare disasters fades."
+    },
+    {
+     "label": "A place of pilgrimage",
+     "text": "The ruins are now a memorial; Omayra Sánchez's grave site has become an informal shrine where visitors leave offerings and ask for favours, a form of folk devotion that the Catholic Church has not formally recognised."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Armero tragedy",
+     "url": "https://en.wikipedia.org/wiki/Armero_tragedy",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Nevado del Ruiz",
+     "url": "https://en.wikipedia.org/wiki/Nevado_del_Ruiz",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Armerotragedy2.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Armerotragedy2.png",
+     "author": "Unknown",
+     "license": "Public domain",
+     "title": "Armerotragedy2.png"
+    }
+   ],
+   "categories": [
+    "catastrophes",
+    "history"
+   ],
+   "threads": [
+    "volcanoes-and-memory"
+   ]
+  },
+  {
+   "id": "messina-1908",
+   "title": "Messina 1908: Europe's deadliest earthquake, in the strait of Scylla and Charybdis",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1908,
+   "end": null,
+   "evidenceTypes": [
+    "textual",
+    "geological/ice core"
+   ],
+   "mainstream": "Early on 28 December 1908 an earthquake of about magnitude 7.1 struck the Strait of Messina between Sicily and Calabria. Within minutes a tsunami with waves of up to about 12 metres hit both shores. The cities of Messina and Reggio Calabria were almost completely destroyed, and estimates of the death toll range from about 75,000 to over 100,000, making it one of the deadliest earthquakes in recorded European history. Relief came from across the world, including Russian and British sailors who were among the first to help. The strait is the same narrow channel where Greek myth placed the monster Scylla and the whirlpool Charybdis, and where the Fata Morgana mirage is famously seen.",
+   "alternatives": [
+    {
+     "label": "Myth and real danger",
+     "text": "Some writers note that ancient stories of a deadly strait may reflect its real hazards: strong tidal currents and whirlpools, and an earthquake-prone coast. The 1908 quake shows the hazard is real, but there is no evidence linking the myth to any particular earthquake."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: 1908 Messina earthquake",
+     "url": "https://en.wikipedia.org/wiki/1908_Messina_earthquake",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Underwood_%26_Underwood_%C2%A9_1906_No._10495_-_Messina_-_The_once_beautiful_Water-front_after_the_earthquake_dett.jpg/500px-Underwood_%26_Underwood_%C2%A9_1906_No._10495_-_Messina_-_The_once_beautiful_Water-front_after_the_earthquake_dett.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Underwood_%26_Underwood_%C2%A9_1906_No._10495_-_Messina_-_The_once_beautiful_Water-front_after_the_earthquake_dett.jpg",
+     "author": "Underwood & Underwood",
+     "license": "Public domain",
+     "title": "Underwood_&_Underwood_©_1906_No._10495_-_Messina_-_The_once_beautiful_Water-front_after_the_earthquake_dett.jpg"
+    }
+   ],
+   "categories": [
+    "catastrophes",
+    "history",
+    "myth-legend"
+   ],
+   "threads": [
+    "earthquake-lore",
+    "classical-world",
+    "tsunami-memory"
+   ]
+  },
+  {
+   "id": "kanto-1923",
+   "title": "The Great Kantō earthquake (1923): fire, rumour and massacre",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1923,
+   "end": null,
+   "evidenceTypes": [
+    "textual"
+   ],
+   "mainstream": "At 11:58 on 1 September 1923 a magnitude-7.9 earthquake struck the Kantō plain, devastating Tokyo and Yokohama just as charcoal stoves were lit for lunch. Fires driven by typhoon winds caused most of the deaths; at the former Army Clothing Depot in Tokyo, where tens of thousands had taken refuge, a fire whirl killed about 38,000 people. Around 105,000 people died in total. In the chaos, false rumours spread that Koreans were poisoning wells and setting fires, and vigilante groups, sometimes with police or soldiers, murdered thousands of Koreans as well as Chinese residents and some Japanese mistaken for them; the exact number is still disputed. 1 September is now Japan's Disaster Prevention Day.",
+   "alternatives": [
+    {
+     "label": "Rumour and scapegoats",
+     "text": "Historians see the massacre as a classic case of disaster rumour turning into violence against an outsider group, comparable to accusations of well-poisoning against Jews during the Black Death. Japanese governments have been criticised for not acknowledging it fully."
+    },
+    {
+     "label": "Divine warning",
+     "text": "Some contemporaries, including the businessman Shibusawa Eiichi, called the quake tenken, a punishment from heaven for the luxury of modern Tokyo, echoing older Japanese ideas about earthquakes as moral warnings."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Great Kantō Earthquake",
+     "url": "https://en.wikipedia.org/wiki/Great_Kant%C5%8D_Earthquake",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Kantō Massacre",
+     "url": "https://en.wikipedia.org/wiki/Kant%C5%8D_Massacre",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/The_Great_Kanto_Earthquake_%283767766524%29_%28cropped%29.jpg/500px-The_Great_Kanto_Earthquake_%283767766524%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:The_Great_Kanto_Earthquake_(3767766524)_(cropped).jpg",
+     "author": "urbzoo",
+     "license": "CC BY 2.0",
+     "title": "The_Great_Kanto_Earthquake_(3767766524)_(cropped).jpg"
+    }
+   ],
+   "categories": [
+    "catastrophes",
+    "history"
+   ],
+   "threads": [
+    "divine-punishment",
+    "earthquake-lore",
+    "disasters-and-scapegoats"
+   ]
+  },
+  {
+   "id": "tangshan-1976",
+   "title": "Tangshan 1976: the earthquake that came in a year of omens",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1976,
+   "end": null,
+   "evidenceTypes": [
+    "textual"
+   ],
+   "mainstream": "Before dawn on 28 July 1976 an earthquake of about magnitude 7.6 destroyed the industrial city of Tangshan in northern China while most people slept. The official death toll is 242,769, and some outside estimates are higher, making it one of the deadliest earthquakes of the 20th century. A year earlier, in February 1975, officials had evacuated Haicheng hours before a major quake after foreshocks and reports of odd animal behaviour, a success widely publicised as earthquake prediction; at Tangshan there was no such warning. China refused foreign aid at the time. 1976 also saw the deaths of Zhou Enlai, Zhu De and, in September, Mao Zedong.",
+   "alternatives": [
+    {
+     "label": "Mandate of Heaven",
+     "text": "In traditional Chinese thought, great earthquakes could be read as signs that a ruler was losing heaven's favour. Many people at the time connected Tangshan with Mao's death weeks later; historians treat this as popular interpretation, not a causal link."
+    },
+    {
+     "label": "Predicting quakes from animals",
+     "text": "Reports of restless animals, changing well water and strange lights before Haicheng and Tangshan fuelled interest in natural precursors. Seismologists consider Haicheng a special case helped by a strong foreshock sequence; reliable short-term prediction has not been achieved."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: 1976 Tangshan earthquake",
+     "url": "https://en.wikipedia.org/wiki/1976_Tangshan_earthquake",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: 1975 Haicheng earthquake",
+     "url": "https://en.wikipedia.org/wiki/1975_Haicheng_earthquake",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Tangshan_earthquake.jpg/500px-Tangshan_earthquake.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Tangshan_earthquake.jpg",
+     "author": "the National Oceanic and Atmospheric Administration",
+     "license": "Public domain",
+     "title": "Tangshan_earthquake.jpg"
+    }
+   ],
+   "categories": [
+    "catastrophes",
+    "history",
+    "anomalies"
+   ],
+   "threads": [
+    "sky-omens",
+    "sacred-kingship",
+    "earthquake-lore"
+   ]
+  },
+  {
+   "id": "smong-2004",
+   "title": "Smong and the laboon: how oral tradition saved lives in the 2004 tsunami",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": 2004,
+   "end": null,
+   "evidenceTypes": [
+    "oral tradition",
+    "textual"
+   ],
+   "mainstream": "On 26 December 2004 a magnitude-9.1 earthquake off Sumatra sent tsunamis across the Indian Ocean, killing about 230,000 people in 14 countries. On Simeulue island, very close to the epicentre, only seven people died out of roughly 78,000, largely because islanders remembered the word smong, from stories and songs about a tsunami in 1907: when the ground shakes and the sea draws back, run to the hills. In Thailand and Myanmar, Moken sea nomads also moved to high ground, drawing on traditions of the laboon, a destructive wave sent by the spirits of ancestors. Scientists now treat such traditions as valuable sources for disaster planning.",
+   "alternatives": [
+    {
+     "label": "Deep memory in stories",
+     "text": "Researchers point to Simeulue alongside Japanese tsunami stones and Pacific Northwest oral histories of the 1700 Cascadia quake as evidence that oral tradition can preserve practical warnings for generations."
+    },
+    {
+     "label": "Myth as explanation",
+     "text": "For the Moken the laboon is also part of their cosmology, sent to cleanse the world; outsiders often reduce it to a warning, while the Moken see it within a wider spiritual understanding."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: 2004 Indian Ocean earthquake and tsunami",
+     "url": "https://en.wikipedia.org/wiki/2004_Indian_Ocean_earthquake_and_tsunami",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Smong : How an Oral History Saved Thousands on Indonesia's Simeulue Island during the December 2004 and March 2005 Tsunamis",
+     "authors": "McAdoo, B. et al.",
+     "year": 2006,
+     "doi": "10.1193/1.2204966",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: Moken",
+     "url": "https://en.wikipedia.org/wiki/Moken",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/US_Navy_050102-N-9593M-040_A_village_near_the_coast_of_Sumatra_lays_in_ruin_after_the_Tsunami_that_struck_South_East_Asia.jpg/500px-US_Navy_050102-N-9593M-040_A_village_near_the_coast_of_Sumatra_lays_in_ruin_after_the_Tsunami_that_struck_South_East_Asia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:US_Navy_050102-N-9593M-040_A_village_near_the_coast_of_Sumatra_lays_in_ruin_after_the_Tsunami_that_struck_South_East_Asia.jpg",
+     "author": "U.S. Navy photo by Photographer's Mate 2nd Class Philip A. McDaniel",
+     "license": "Public domain",
+     "title": "US_Navy_050102-N-9593M-040_A_village_near_the_coast_of_Sumatra_lays_in_ruin_after_the_Tsunami_that_struck_South_East_Asia.jpg"
+    }
+   ],
+   "categories": [
+    "catastrophes",
+    "history",
+    "myth-legend"
+   ],
+   "threads": [
+    "stories-proven-true",
+    "deep-oral-memory",
+    "earthquake-lore",
+    "island-southeast-asia",
+    "tsunami-memory"
+   ]
+  },
+  {
+   "id": "samalas-1257",
+   "title": "Samalas 1257: the mystery eruption traced to a lost kingdom on Lombok",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1257,
+   "end": null,
+   "evidenceTypes": [
+    "geological/ice core",
+    "textual",
+    "radiocarbon"
+   ],
+   "mainstream": "Ice cores from both Greenland and Antarctica contain a huge sulphate spike dating to about 1257–1258, the largest of the past 2,000 years, but for decades nobody knew which volcano had caused it. In 2013 a team led by Franck Lavigne identified Samalas, part of the Rinjani volcanic complex on the Indonesian island of Lombok, using radiocarbon dates, the spread of its ash and pumice, and the Babad Lombok, Old Javanese texts written on palm leaves that describe the destruction of Pamatan, the capital of a Lombok kingdom. The eruption left the caldera that now holds the crater lake Segara Anak. European chronicles record a cold, wet year and famine in 1258.",
+   "alternatives": [
+    {
+     "label": "An Indonesian Pompeii?",
+     "text": "Pamatan has been described in the press as a possible buried 'Pompeii' of the East. Its remains have not been located or excavated, so this remains a hope rather than a finding."
+    },
+    {
+     "label": "London's mass graves",
+     "text": "Mass burials at Spitalfields in London were once linked to the 1258 famine and the eruption; later radiocarbon work suggested some of the burials may be earlier, so the connection is uncertain."
+    }
+   ],
+   "changed": "2013: the 'mystery eruption' of 1257, known only from ice cores since the 1980s–90s, was pinned to Samalas.",
+   "sources": [
+    {
+     "title": "Wikipedia: Lake Segara Anak",
+     "url": "https://en.wikipedia.org/wiki/Lake_Segara_Anak",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Source of the great A.D. 1257 mystery eruption unveiled, Samalas volcano, Rinjani Volcanic Complex, Indonesia",
+     "authors": "Lavigne, F. et al.",
+     "year": 2013,
+     "doi": "10.1073/pnas.1307520110",
+     "type": "paper"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/KAGAGAHAN_RIJANI.jpg/500px-KAGAGAHAN_RIJANI.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:KAGAGAHAN_RIJANI.jpg",
+     "author": "Suryanata budi",
+     "license": "CC BY-SA 4.0",
+     "title": "KAGAGAHAN_RIJANI.jpg"
+    }
+   ],
+   "categories": [
+    "catastrophes",
+    "science-cosmos",
+    "history"
+   ],
+   "threads": [
+    "changed-understanding",
+    "volcanoes-and-memory",
+    "lost-evidence",
+    "island-southeast-asia",
+    "abrupt-climate-shocks"
+   ]
+  },
+  {
+   "id": "huaynaputina-1600",
+   "title": "Huaynaputina 1600: the Andean eruption felt as famine in Russia",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 3,
+   "start": 1600,
+   "end": null,
+   "evidenceTypes": [
+    "textual",
+    "geological/ice core"
+   ],
+   "mainstream": "On 19 February 1600 Huaynaputina, an inconspicuous volcano in southern Peru, exploded in the largest eruption in recorded South American history. Ash and pyroclastic flows buried several villages, killed around 1,500 people locally and devastated the vineyards and farms of the Moquegua valley; Spanish and Indigenous accounts describe days of darkness in Arequipa. Its sulphate aerosol cooled the Northern Hemisphere: 1601 was one of the coldest summers in six centuries, and the eruption is linked with crop failures in Europe and especially with the Russian famine of 1601–1603, which killed perhaps a third of Russia's population and helped bring on the Time of Troubles.",
+   "alternatives": [
+    {
+     "label": "Appeasing the mountain",
+     "text": "Contemporary chronicles report that local people made offerings and sacrifices to the volcano before and during the eruption, treating it as a powerful being, a belief documented for many Andean mountains."
+    },
+    {
+     "label": "How much was the volcano to blame?",
+     "text": "Historians agree the cold summer harmed harvests, but the scale of the Russian disaster also reflected politics, hoarding and the weakness of Boris Godunov's rule."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Huaynaputina",
+     "url": "https://en.wikipedia.org/wiki/Huaynaputina",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Russian famine of 1601–1603",
+     "url": "https://en.wikipedia.org/wiki/Russian_famine_of_1601%E2%80%931603",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Arequipa_Ascheregen_Huaynaputina_1600.jpg/500px-Arequipa_Ascheregen_Huaynaputina_1600.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Arequipa_Ascheregen_Huaynaputina_1600.jpg",
+     "author": "Felipe Huaman Puma de Ayala",
+     "license": "Public domain",
+     "title": "Arequipa_Ascheregen_Huaynaputina_1600.jpg"
+    }
+   ],
+   "categories": [
+    "catastrophes",
+    "science-cosmos",
+    "history"
+   ],
+   "threads": [
+    "volcanoes-and-memory",
+    "andean-empires",
+    "slavic-worlds",
+    "abrupt-climate-shocks"
+   ]
+  },
+  {
+   "id": "cocoliztli-1545",
+   "title": "Cocoliztli: the great pestilence of New Spain and a 2018 DNA clue",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1545,
+   "end": 1578,
+   "evidenceTypes": [
+    "textual",
+    "genetic"
+   ],
+   "mainstream": "In 1545–1548 and again in 1576–1578 epidemics that the Nahua called cocoliztli ('pestilence') swept through Mexico, killing millions; the first outbreak may have killed as much as 45 per cent of the native population. Spanish doctors such as Francisco Hernández described high fevers, bleeding and jaundice, and the disease killed far more Indigenous people than Spaniards. Its cause has long been debated. In 2018 a study of DNA from victims buried at Teposcolula-Yucundaa in Oaxaca found Salmonella enterica Paratyphi C, a cause of enteric fever, suggesting it was one of the pathogens involved.",
+   "alternatives": [
+    {
+     "label": "A native haemorrhagic fever?",
+     "text": "The epidemiologist Rodolfo Acuña-Soto and colleagues argued that cocoliztli was an Indigenous viral haemorrhagic fever spread by rodents and triggered by severe drought, citing tree-ring evidence. This remains a competing explanation, since the DNA method cannot detect every possible pathogen."
+    },
+    {
+     "label": "Divine judgement",
+     "text": "Contemporaries interpreted the epidemics through religion: friars saw them as God's will, while Indigenous accounts mourned them as the ending of a world."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Cocoliztli epidemics",
+     "url": "https://en.wikipedia.org/wiki/Cocoliztli_epidemics",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Salmonella enterica genomes from victims of a major sixteenth-century epidemic in Mexico",
+     "authors": "Vågene, Å. et al.",
+     "year": 2018,
+     "doi": "10.1038/s41559-017-0446-6",
+     "type": "paper"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/FlorentineCodex_BK12_F54_smallpox.jpg/500px-FlorentineCodex_BK12_F54_smallpox.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:FlorentineCodex_BK12_F54_smallpox.jpg",
+     "author": "en:Bernardino de Sahagún (1499-1590), compiler. Original illustration by unknown 16th-century artist; this version of th",
+     "license": "Public domain",
+     "title": "FlorentineCodex_BK12_F54_smallpox.jpg"
+    }
+   ],
+   "categories": [
+    "catastrophes",
+    "history",
+    "science-cosmos"
+   ],
+   "threads": [
+    "changed-understanding",
+    "rain-and-drought",
+    "plagues-and-epidemics",
+    "central-america",
+    "disasters-and-scapegoats"
    ]
   }
  ]
