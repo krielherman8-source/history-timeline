@@ -2470,3 +2470,25 @@ addt('anomalous-photos','trindade-1958 mcminnville-1950 battle-of-los-angeles')
 addt('hoaxes-exposed','mcminnville-1950')
 addt('disappearances','lead-masks-1966')
 addt('collective-experiences','battle-of-los-angeles')
+
+# batch 26 part 4 — forgeries, literary hoaxes, impostors, fake Old World inscriptions in America
+C.update({
+'protocols-elders-zion':'hoaxes history religion','ossian':'hoaxes history myth-legend','ern-malley':'hoaxes history','drakes-plate-of-brass':'hoaxes history archaeology',
+'michigan-relics':'hoaxes archaeology','los-lunas-stone':'hoaxes archaeology anomalies','davenport-tablets':'hoaxes archaeology lost-civilisations','bat-creek-stone':'hoaxes archaeology anomalies',
+'tichborne-claimant':'hoaxes history','grave-creek-stone':'hoaxes archaeology lost-civilisations'})
+addt('hoaxes-exposed','protocols-elders-zion ossian ern-malley drakes-plate-of-brass michigan-relics los-lunas-stone davenport-tablets bat-creek-stone tichborne-claimant grave-creek-stone')
+addt('forged-documents','protocols-elders-zion ossian drakes-plate-of-brass donation-of-constantine hitler-diaries')
+addt('literary-forgeries','ossian ern-malley george-psalmanazar protocols-elders-zion hitler-diaries')
+addt('suppressed-beliefs','protocols-elders-zion')
+addt('disasters-and-scapegoats','protocols-elders-zion')
+addt('celtic-worlds','ossian')
+addt('sleeping-heroes','ossian')
+addt('old-world-inscriptions-in-america','michigan-relics los-lunas-stone davenport-tablets bat-creek-stone grave-creek-stone kensington-runestone burrows-cave ogham')
+addt('outsider-builder-claims','davenport-tablets grave-creek-stone michigan-relics')
+addt('native-north-america','davenport-tablets grave-creek-stone bat-creek-stone')
+addt('erased-from-history','davenport-tablets')
+addt('myths-about-history','davenport-tablets drakes-plate-of-brass')
+addt('impostors-and-lost-heirs','tichborne-claimant anna-anderson')
+addt('seeing-what-we-expect','tichborne-claimant drakes-plate-of-brass ern-malley')
+addt('lost-evidence','grave-creek-stone')
+addt('decipherments','bat-creek-stone grave-creek-stone')

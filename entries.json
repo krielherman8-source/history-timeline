@@ -3763,7 +3763,8 @@
     "hoaxes"
    ],
    "threads": [
-    "forged-documents"
+    "forged-documents",
+    "old-world-inscriptions-in-america"
    ]
   },
   {
@@ -25224,7 +25225,8 @@
    ],
    "threads": [
     "hoaxes-exposed",
-    "forged-documents"
+    "forged-documents",
+    "literary-forgeries"
    ]
   },
   {
@@ -25802,7 +25804,8 @@
     "origins-of-writing",
     "outsider-builder-claims",
     "seeing-what-we-expect",
-    "decipherments"
+    "decipherments",
+    "old-world-inscriptions-in-america"
    ]
   },
   {
@@ -43889,7 +43892,8 @@
    ],
    "threads": [
     "hoaxes-exposed",
-    "out-of-place-artifacts"
+    "out-of-place-artifacts",
+    "old-world-inscriptions-in-america"
    ]
   },
   {
@@ -58233,7 +58237,8 @@
     "hoaxes-exposed",
     "impostors-and-lost-heirs",
     "forged-documents",
-    "travellers-tales"
+    "travellers-tales",
+    "literary-forgeries"
    ]
   },
   {
@@ -59954,6 +59959,517 @@
     "disappearances",
     "modern-legends",
     "contact-attempts"
+   ]
+  },
+  {
+   "id": "protocols-elders-zion",
+   "title": "The Protocols of the Elders of Zion: the forgery that fuelled antisemitism",
+   "lane": "history",
+   "status": "debunked",
+   "priority": 2,
+   "start": 1903,
+   "end": null,
+   "evidenceTypes": [
+    "textual"
+   ],
+   "mainstream": "The Protocols of the Elders of Zion is a fabricated text that claims to record a secret Jewish plan for world domination. It was first published in Russia in 1903, in Pavel Krushevan's newspaper Znamya, and then in Sergei Nilus's 1905 book, probably composed in Russia in 1902–1903. In August 1921 the Times correspondent Philip Graves showed that large parts were plagiarised from Maurice Joly's 1864 French satire 'Dialogue in Hell Between Machiavelli and Montesquieu', which attacked Napoleon III and had nothing to do with Jews; a court in Bern in 1935 also called it a forgery. Despite this, it was spread worldwide, including half a million copies printed by Henry Ford's newspaper in the 1920s, and it was used in Nazi propaganda. Historians describe it as one of the most influential antisemitic texts ever written.",
+   "alternatives": [
+    {
+     "label": "Claims of authenticity",
+     "text": "Some antisemitic groups still present the Protocols as genuine, or argue that it is 'true in spirit' whatever its origin. Historians reject this completely: its forgery and plagiarism are fully documented, and it played a part in inciting persecution and genocide."
+    },
+    {
+     "label": "Who wrote it?",
+     "text": "The authors are not known for certain. A long-standing theory blamed agents of the Russian secret police in Paris (the Okhrana); more recent scholars such as Cesare De Michelis argue it was produced within Russian right-wing circles."
+    }
+   ],
+   "changed": "1921: exposed as plagiarism by The Times; 1935: called a forgery by a Swiss court.",
+   "sources": [
+    {
+     "title": "Wikipedia: The Protocols of the Elders of Zion",
+     "url": "https://en.wikipedia.org/wiki/The_Protocols_of_the_Elders_of_Zion",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "US Holocaust Memorial Museum: Protocols of the Elders of Zion",
+     "url": "https://encyclopedia.ushmm.org/content/en/article/protocols-of-the-elders-of-zion",
+     "type": "museum"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/1905_2fnl_Velikoe_v_malom_i_antikhrist.jpg/500px-1905_2fnl_Velikoe_v_malom_i_antikhrist.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:1905_2fnl_Velikoe_v_malom_i_antikhrist.jpg",
+     "author": "Sergei Nilus (1862-1929)",
+     "license": "Public domain",
+     "title": "1905_2fnl_Velikoe_v_malom_i_antikhrist.jpg"
+    }
+   ],
+   "categories": [
+    "hoaxes",
+    "history",
+    "religion"
+   ],
+   "threads": [
+    "hoaxes-exposed",
+    "forged-documents",
+    "suppressed-beliefs",
+    "disasters-and-scapegoats",
+    "literary-forgeries"
+   ]
+  },
+  {
+   "id": "ossian",
+   "title": "Ossian: the 'ancient Scottish Homer' and the Romantic hoax",
+   "lane": "history",
+   "status": "debunked",
+   "priority": 2,
+   "start": 1760,
+   "end": null,
+   "evidenceTypes": [
+    "textual",
+    "oral tradition"
+   ],
+   "mainstream": "In 1760 the Scottish writer James Macpherson published 'Fragments of Ancient Poetry', which he said he had collected in the Highlands and translated from Gaelic; then came the epics 'Fingal' (1761) and 'Temora' (1763), attributed to Ossian, a third-century bard and son of the hero Fingal (the Irish Fionn mac Cumhaill). The poems became a European sensation, translated into many languages and admired by Goethe, Napoleon and Thomas Jefferson, and they helped launch the Romantic movement. Samuel Johnson denounced them as a fraud, and Macpherson never produced convincing Gaelic originals. A committee of the Highland Society reported in 1805 that he had used genuine traditional ballads but had greatly altered and expanded them. The modern view is that Macpherson largely composed the poems himself, drawing partly on real Gaelic tradition.",
+   "alternatives": [
+    {
+     "label": "Genuine tradition",
+     "text": "Gaelic scholars note that Ossianic ballads about Fionn and his warriors were really sung in Scotland and Ireland; Macpherson preserved some of this material, even if he reshaped it into a style his readers expected."
+    },
+    {
+     "label": "Irish objections",
+     "text": "Irish critics complained that Macpherson made Scots of heroes whose legends were mainly Irish, a dispute that fed into national rivalries."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Ossian",
+     "url": "https://en.wikipedia.org/wiki/Ossian",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: James Macpherson",
+     "url": "https://en.wikipedia.org/wiki/James_Macpherson",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Ossian._Den_gamle_blinde_skotske_barde_synger_til_harpen_sin_svanesang.jpg/500px-Ossian._Den_gamle_blinde_skotske_barde_synger_til_harpen_sin_svanesang.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Ossian._Den_gamle_blinde_skotske_barde_synger_til_harpen_sin_svanesang.jpg",
+     "author": "Nicolai Abildgaard",
+     "license": "Public domain",
+     "title": "Ossian._Den_gamle_blinde_skotske_barde_synger_til_harpen_sin_svanesang.jpg"
+    }
+   ],
+   "categories": [
+    "hoaxes",
+    "history",
+    "myth-legend"
+   ],
+   "threads": [
+    "hoaxes-exposed",
+    "forged-documents",
+    "sleeping-heroes",
+    "celtic-worlds",
+    "literary-forgeries"
+   ]
+  },
+  {
+   "id": "ern-malley",
+   "title": "Ern Malley: the poet invented in an afternoon (1943–44)",
+   "lane": "history",
+   "status": "debunked",
+   "priority": 3,
+   "start": 1944,
+   "end": null,
+   "evidenceTypes": [
+    "textual"
+   ],
+   "mainstream": "In 1943 two conservative Australian poets, James McAuley and Harold Stewart, set out to prove that modernist poetry was meaningless. In a single day they wrote sixteen poems, 'The Darkening Ecliptic', stitched together partly from random phrases in books on their desks, and invented their author: Ern Malley, a mechanic and insurance salesman who had died young. Posing as his sister Ethel, they sent the poems to Max Harris, the young editor of the modernist journal Angry Penguins, who hailed Malley as a genius and devoted the autumn 1944 issue to him. When the hoax was revealed weeks later, Harris was ridiculed and then prosecuted for publishing obscene material and fined. Ironically, the poems are now admired in their own right.",
+   "alternatives": [
+    {
+     "label": "Bad poems or good ones?",
+     "text": "Critics including John Ashbery and Robert Hughes later argued that the hoaxers had accidentally written real surrealist poetry; others see it as proof that context can create meaning."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Ern Malley hoax",
+     "url": "https://en.wikipedia.org/wiki/Ern_Malley_hoax",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Ern_Malley.jpg/500px-Ern_Malley.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Ern_Malley.jpg",
+     "author": "Unknown",
+     "license": "Public domain",
+     "title": "Ern_Malley.jpg"
+    }
+   ],
+   "categories": [
+    "hoaxes",
+    "history"
+   ],
+   "threads": [
+    "hoaxes-exposed",
+    "seeing-what-we-expect",
+    "literary-forgeries"
+   ]
+  },
+  {
+   "id": "drakes-plate-of-brass",
+   "title": "Drake's Plate of Brass: the prank that fooled historians for 40 years",
+   "lane": "history",
+   "status": "debunked",
+   "priority": 3,
+   "start": 1936,
+   "end": null,
+   "evidenceTypes": [
+    "textual",
+    "archaeological"
+   ],
+   "mainstream": "When Francis Drake landed on the coast of California in 1579, an account of the voyage records that he left behind a metal plate claiming the land, which he called Nova Albion, for Queen Elizabeth. In 1936 a plate matching that description was found near San Francisco Bay and acclaimed as genuine by Herbert Bolton, a prominent historian at the University of California, Berkeley, which acquired it. Some historians doubted its wording and spelling from the start. In the late 1970s metallurgical tests showed it was modern rolled brass. In 2003 researchers showed that it had been made as a joke on Bolton by friends in E Clampus Vitus, a humorous historical fraternity, whose attempts to signal the prank went unnoticed once the plate was publicly celebrated.",
+   "alternatives": [
+    {
+     "label": "Where did Drake land?",
+     "text": "The real landing site is still argued over; the plate was once used as evidence, and the National Park Service now recognises Drakes Bay at Point Reyes as the most likely site, which some researchers dispute."
+    }
+   ],
+   "changed": "1977: modern manufacture shown; 2003: the prank's authors identified.",
+   "sources": [
+    {
+     "title": "Wikipedia: Drake's Plate of Brass",
+     "url": "https://en.wikipedia.org/wiki/Drake's_Plate_of_Brass",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Drakes_Bay_and_Estero_from_Point_Reyes_Hill.jpg/500px-Drakes_Bay_and_Estero_from_Point_Reyes_Hill.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Drakes_Bay_and_Estero_from_Point_Reyes_Hill.jpg",
+     "author": "Kognos",
+     "license": "CC BY 4.0",
+     "title": "Drakes_Bay_and_Estero_from_Point_Reyes_Hill.jpg"
+    }
+   ],
+   "categories": [
+    "hoaxes",
+    "history",
+    "archaeology"
+   ],
+   "threads": [
+    "hoaxes-exposed",
+    "seeing-what-we-expect",
+    "forged-documents",
+    "myths-about-history"
+   ]
+  },
+  {
+   "id": "michigan-relics",
+   "title": "The Michigan relics: thousands of fake 'ancient' tablets (1890–1920)",
+   "lane": "history",
+   "status": "debunked",
+   "priority": 3,
+   "start": 1890,
+   "end": 1920,
+   "evidenceTypes": [
+    "archaeological",
+    "textual"
+   ],
+   "mainstream": "In October 1890 James O. Scotford, a sign painter of Montcalm County, Michigan, announced he had found a clay cup and tablets carved with strange symbols in a burial mound. Over the next three decades, working with Daniel Soper, a former Michigan secretary of state, and others, Scotford 'discovered' thousands of objects of clay, copper and slate, decorated with cuneiform-like signs, Egyptian-style figures and biblical scenes such as the Flood. Promoters claimed they proved an ancient Near Eastern people had lived in America. Scholars quickly declared them fakes, and in 1911 Scotford's stepdaughter signed an affidavit saying she had seen him making them. Many of the objects were later given to the Church of Jesus Christ of Latter-day Saints, which holds a large collection.",
+   "alternatives": [
+    {
+     "label": "Evidence for ancient migrations",
+     "text": "A few writers have continued to defend the relics as genuine, often linking them to Book of Mormon themes or ancient sea voyages. Archaeologists consider them to be among the largest archaeological frauds in American history."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Michigan relics",
+     "url": "https://en.wikipedia.org/wiki/Michigan_relics",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Michigan_relics_1.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Michigan_relics_1.png",
+     "author": "James E. Talmage",
+     "license": "Public domain",
+     "title": "Michigan_relics_1.png"
+    }
+   ],
+   "categories": [
+    "hoaxes",
+    "archaeology"
+   ],
+   "threads": [
+    "hoaxes-exposed",
+    "outsider-builder-claims",
+    "old-world-inscriptions-in-america"
+   ]
+  },
+  {
+   "id": "los-lunas-stone",
+   "title": "The Los Lunas Decalogue Stone: the Ten Commandments in New Mexico?",
+   "lane": "history",
+   "status": "debunked",
+   "priority": 3,
+   "start": 1933,
+   "end": null,
+   "evidenceTypes": [
+    "textual",
+    "archaeological"
+   ],
+   "mainstream": "On a boulder on Hidden Mountain near Los Lunas, New Mexico, a nine-line inscription in a Paleo-Hebrew-like script gives an abridged version of the Ten Commandments. It was first recorded in 1933 by the University of New Mexico archaeologist Frank Hibben, who said a guide had told him he had seen it as a boy in the 1880s. Mainstream archaeologists regard it as a modern carving: the script mixes letter forms in ways typical of 19th-century textbooks, including some Greek letters, the text follows a modern biblical form, and Paleo-Hebrew was known to scholars well before the 1880s. Hibben's credibility has also been questioned because of other claims he made.",
+   "alternatives": [
+    {
+     "label": "Ancient visitors",
+     "text": "Writers including the epigrapher Barry Fell and some others have argued that the stone was carved by ancient Israelites, Samaritans or other travellers who reached America. This is not supported by any archaeological evidence of such visitors in the region."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Los Lunas Decalogue Stone",
+     "url": "https://en.wikipedia.org/wiki/Los_Lunas_Decalogue_Stone",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/10_Commandment_Rock.jpg/500px-10_Commandment_Rock.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:10_Commandment_Rock.jpg",
+     "author": "Brainardo at English Wikipedia",
+     "license": "Public domain",
+     "title": "10_Commandment_Rock.jpg"
+    }
+   ],
+   "categories": [
+    "hoaxes",
+    "archaeology",
+    "anomalies"
+   ],
+   "threads": [
+    "hoaxes-exposed",
+    "old-world-inscriptions-in-america"
+   ]
+  },
+  {
+   "id": "davenport-tablets",
+   "title": "The Davenport tablets and the myth of the Mound Builders",
+   "lane": "history",
+   "status": "debunked",
+   "priority": 3,
+   "start": 1877,
+   "end": null,
+   "evidenceTypes": [
+    "archaeological",
+    "textual"
+   ],
+   "mainstream": "On 10 January 1877 the Reverend Jacob Gass, a Lutheran minister, found two inscribed slate tablets in a mound on Cook's Farm near Davenport, Iowa; a third was found in a nearby mound in 1878. They showed a cremation scene, a hunting scene and a 'calendar' with signs drawn from several alphabets. In the 19th century many Americans believed that the great earthworks of the Mississippi and Ohio valleys had been built by a vanished 'Mound Builder' race rather than by Native Americans, and the tablets seemed to support this. They were challenged from 1885 by the Smithsonian's Bureau of Ethnology, and in 1970 the archaeologist Marshall McKusick concluded that members of the Davenport Academy of Natural Sciences had made and planted them as a prank on Gass, which then got out of hand.",
+   "alternatives": [
+    {
+     "label": "Mound Builders myth",
+     "text": "The idea of a lost white or foreign race of Mound Builders was used to deny Native American achievements and justify land seizures; Cyrus Thomas's Smithsonian report of 1894 showed that the mounds were built by the ancestors of Native Americans."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Davenport Tablets",
+     "url": "https://en.wikipedia.org/wiki/Davenport_Tablets",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Davenport_Tablets.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Davenport_Tablets.gif",
+     "author": "Stephen Williams",
+     "license": "CC BY-SA 4.0",
+     "title": "Davenport_Tablets.gif"
+    }
+   ],
+   "categories": [
+    "hoaxes",
+    "archaeology",
+    "lost-civilisations"
+   ],
+   "threads": [
+    "hoaxes-exposed",
+    "outsider-builder-claims",
+    "erased-from-history",
+    "native-north-america",
+    "myths-about-history",
+    "old-world-inscriptions-in-america"
+   ]
+  },
+  {
+   "id": "bat-creek-stone",
+   "title": "The Bat Creek Stone: Cherokee, Hebrew, or a copy from a Masonic book?",
+   "lane": "history",
+   "status": "debunked",
+   "priority": 3,
+   "start": 1889,
+   "end": null,
+   "evidenceTypes": [
+    "archaeological",
+    "textual"
+   ],
+   "mainstream": "In February 1889 John W. Emmert, working for the Smithsonian's mound survey, reported finding a small inscribed stone under a skeleton in a burial mound at Bat Creek, Tennessee. The survey's director, Cyrus Thomas, published it as Cherokee writing. In the 1970s the scholar Cyrus Gordon turned it the other way up and read it as Paleo-Hebrew of the 1st or 2nd century CE, 'for Judea' or similar, and it became a key exhibit for claims of ancient Jewish voyagers. In 2004 the archaeologists Robert Mainfort and Mary Kwas showed that the inscription closely matches an illustration of a Hebrew phrase in an 1870 Masonic reference book, and argued that Emmert, who needed to keep his job, probably forged it.",
+   "alternatives": [
+    {
+     "label": "Genuine Paleo-Hebrew",
+     "text": "The economist J. Huston McCulloch and others defend its authenticity, citing radiocarbon dates from wood in the mound (from roughly the 1st–8th centuries CE) and arguing that the similarities with the Masonic illustration are inconclusive."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Bat Creek Stone",
+     "url": "https://en.wikipedia.org/wiki/Bat_Creek_Stone",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "The Bat Creek Stone Revisited: A Fraud Exposed",
+     "authors": "Mainfort, R. et al.",
+     "year": 2004,
+     "doi": "10.2307/4128448",
+     "type": "paper"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Bat_Creek_Stone_at_the_Museum_of_the_Cherokee_Indian%2C_Cherokee_NC.jpg/500px-Bat_Creek_Stone_at_the_Museum_of_the_Cherokee_Indian%2C_Cherokee_NC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Bat_Creek_Stone_at_the_Museum_of_the_Cherokee_Indian,_Cherokee_NC.jpg",
+     "author": "HuMcCulloch",
+     "license": "CC BY-SA 4.0",
+     "title": "Bat_Creek_Stone_at_the_Museum_of_the_Cherokee_Indian,_Cherokee_NC.jpg"
+    }
+   ],
+   "categories": [
+    "hoaxes",
+    "archaeology",
+    "anomalies"
+   ],
+   "threads": [
+    "hoaxes-exposed",
+    "decipherments",
+    "native-north-america",
+    "old-world-inscriptions-in-america"
+   ]
+  },
+  {
+   "id": "tichborne-claimant",
+   "title": "The Tichborne Claimant: the butcher from Wagga Wagga who said he was a baronet",
+   "lane": "history",
+   "status": "debunked",
+   "priority": 2,
+   "start": 1866,
+   "end": 1874,
+   "evidenceTypes": [
+    "textual"
+   ],
+   "mainstream": "Roger Tichborne, heir to a wealthy English baronetcy, was lost at sea in 1854 when the ship Bella sank off South America. His mother, Lady Tichborne, refused to believe he was dead and advertised for news of him. In 1866 a butcher from Wagga Wagga, New South Wales, known as Thomas Castro, came forward claiming to be Roger. Though he was much heavier, could not speak French (Roger had been raised in France) and lacked Roger's education, Lady Tichborne accepted him as her son. After her death, the family fought him in court; a civil case collapsed in 1872, and in a criminal trial lasting 188 days, then the longest in English history, he was found in 1874 to be Arthur Orton, a butcher's son from Wapping, and sentenced to 14 years for perjury. He became a popular hero to many working people, who saw the case as the establishment against an ordinary man.",
+   "alternatives": [
+    {
+     "label": "Was he Roger after all?",
+     "text": "A minority of supporters, then and later, believed he really was Roger Tichborne; some modern writers have argued he may have been neither Roger nor Orton. The courts' verdict is accepted by most historians."
+    },
+    {
+     "label": "A wish to believe",
+     "text": "Historians see Lady Tichborne's acceptance as an example of how grief and hope can override evidence, a pattern found in other impostor cases such as that of Anna Anderson."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Tichborne case",
+     "url": "https://en.wikipedia.org/wiki/Tichborne_case",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/TichborneTryptich.jpg/500px-TichborneTryptich.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:TichborneTryptich.jpg",
+     "author": "Tichborne daguerrotype by Thomas Helsby. Author of Claimant photograph not identified (transferred by Jbarta/originally ",
+     "license": "Public domain",
+     "title": "TichborneTryptich.jpg"
+    }
+   ],
+   "categories": [
+    "hoaxes",
+    "history"
+   ],
+   "threads": [
+    "hoaxes-exposed",
+    "impostors-and-lost-heirs",
+    "seeing-what-we-expect"
+   ]
+  },
+  {
+   "id": "grave-creek-stone",
+   "title": "The Grave Creek Stone: a lost inscription from a West Virginia mound",
+   "lane": "history",
+   "status": "debunked",
+   "priority": 3,
+   "start": 1838,
+   "end": null,
+   "evidenceTypes": [
+    "archaeological",
+    "textual"
+   ],
+   "mainstream": "In 1838 the excavation of Grave Creek Mound at Moundsville, now in West Virginia, one of the largest conical burial mounds in North America, built by the Adena culture around 250–150 BCE, produced a small sandstone disc inscribed with about 25 characters. Over the following decades it was read as Celtic, Phoenician, Runic, Etruscan and other scripts, with wildly different translations, and it was used to argue that the mounds were built by Old World settlers. The ethnologist Henry Schoolcraft examined it in 1843; later researchers found that its characters could be matched in a 1752 book of alphabets, suggesting it was a fraud. The original stone has since been lost, and only casts and drawings remain.",
+   "alternatives": [
+    {
+     "label": "Pre-Columbian script",
+     "text": "Some diffusionist writers still treat the stone as evidence of early transatlantic contact; archaeologists note that Adena culture is well understood and shows no sign of Old World writing."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Grave Creek Stone",
+     "url": "https://en.wikipedia.org/wiki/Grave_Creek_Stone",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Grave Creek Mound",
+     "url": "https://en.wikipedia.org/wiki/Grave_Creek_Mound",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Grave_Creek_Stone_and_wax_cast.png/500px-Grave_Creek_Stone_and_wax_cast.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Grave_Creek_Stone_and_wax_cast.png",
+     "author": "Smithsonian Institution",
+     "license": "Public domain",
+     "title": "Grave_Creek_Stone_and_wax_cast.png"
+    }
+   ],
+   "categories": [
+    "hoaxes",
+    "archaeology",
+    "lost-civilisations"
+   ],
+   "threads": [
+    "hoaxes-exposed",
+    "outsider-builder-claims",
+    "lost-evidence",
+    "decipherments",
+    "native-north-america",
+    "old-world-inscriptions-in-america"
    ]
   }
  ]
