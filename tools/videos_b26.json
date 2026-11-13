@@ -1,0 +1,44 @@
+{
+ "laki-1783": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=sftBDluqgTI",
+  "title": "Icelandic volcanic eruption 1783 - Timewatch - BBC",
+  "channel": "BBC Studios"
+ },
+ "armero-1985": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=ini7X-BvbZ0",
+  "title": "The forgotten Colombian city destroyed by a volcano – BBC REEL",
+  "channel": "BBC Global"
+ },
+ "kanto-1923": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=qmwXmsx_YZw",
+  "title": "This Powerful 1923 Earthquake Brought Tokyo to Its Knees",
+  "channel": "Smithsonian Channel"
+ },
+ "elam": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=1eCVDCK7zEA",
+  "title": "The History Of Susa, Capital City of The Elamites | The Persians: A History Of Iran | BBC Select",
+  "channel": "BBC Select"
+ },
+ "akrotiri": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=1gb7g9w6fxo",
+  "title": "Frescoes from Akrotiri, Thera",
+  "channel": "Smarthistory"
+ },
+ "ern-malley": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=WzqG0Z_fPOw",
+  "title": "Ern Malley: The influential Australian poet who never existed - BBC News",
+  "channel": "BBC News"
+ },
+ "drake-equation": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=BAoEnV3Zt_Q",
+  "title": "Are We Alone? Galactic Civilization Challenge",
+  "channel": "PBS Space Time"
+ }
+}
