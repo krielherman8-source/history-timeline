@@ -5466,7 +5466,9 @@
    ],
    "threads": [
     "changed-understanding",
-    "first-americans"
+    "first-americans",
+    "southern-cone",
+    "patagonia-and-fuegia"
    ]
   },
   {
@@ -7635,7 +7637,8 @@
     "stories-proven-true",
     "hidden-kingdoms",
     "lost-treasures",
-    "earthly-paradises"
+    "earthly-paradises",
+    "cities-of-gold"
    ]
   },
   {
@@ -15949,7 +15952,8 @@
     "hidden-kingdoms",
     "lost-treasures",
     "returning-saviours",
-    "earthly-paradises"
+    "earthly-paradises",
+    "cities-of-gold"
    ]
   },
   {
@@ -60512,6 +60516,632 @@
     "decipherments",
     "native-north-america",
     "old-world-inscriptions-in-america"
+   ]
+  },
+  {
+   "id": "chinchorro-mummies",
+   "title": "The Chinchorro mummies: the world's oldest deliberately preserved dead",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -5050,
+   "end": -1800,
+   "evidenceTypes": [
+    "archaeological",
+    "radiocarbon"
+   ],
+   "mainstream": "On the desert coast of northern Chile and southern Peru, the Chinchorro, a fishing and gathering people, began artificially mummifying their dead by about 5050 BCE, some two thousand years before the earliest known deliberate mummification in Egypt. The oldest naturally preserved Chinchorro body dates to about 7020 BCE. Unlike in Egypt, the treatment was given to men, women, children and even foetuses rather than to an elite. Bodies were taken apart, the flesh removed, the skeleton reinforced with sticks and reeds, then rebuilt with clay, ash and plant fibre, covered with the person's own skin, given wigs of human hair and painted black with manganese or red with ochre. The tradition lasted about 3,000 years, ending around 1800 BCE. Chinchorro sites in Chile's Arica and Parinacota region became a UNESCO World Heritage Site in 2021. Conservators report that some mummies in museum collections have begun to degrade as the humid air of the region increases.",
+   "alternatives": [
+    {
+     "label": "Why mummify everyone?",
+     "text": "One proposal, by the anthropologist Bernardo Arriaza and colleagues, links the custom to high levels of arsenic in local drinking water, which may have caused many stillbirths and infant deaths; preserving the dead might have been a response to grief. This is a hypothesis, not proven."
+    },
+    {
+     "label": "A link to Egypt?",
+     "text": "Because the Chinchorro predate Egyptian mummification, some popular writers have wondered whether the practice spread from one to the other. Archaeologists see the two as independent inventions on opposite sides of the world, with no evidence of contact."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Chinchorro mummies",
+     "url": "https://en.wikipedia.org/wiki/Chinchorro_mummies",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Chinchorro culture",
+     "url": "https://en.wikipedia.org/wiki/Chinchorro_culture",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Chinchorro_mummy_heads_Arica.jpg/500px-Chinchorro_mummy_heads_Arica.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Chinchorro_mummy_heads_Arica.jpg",
+     "author": "Zorka Ostojic Espinoza",
+     "license": "CC BY 2.0",
+     "title": "Chinchorro_mummy_heads_Arica.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history"
+   ],
+   "threads": [
+    "mummies",
+    "southern-cone"
+   ]
+  },
+  {
+   "id": "ten-ten-vilu",
+   "title": "Ten Ten-Vilu and Kai Kai-Vilu: the Mapuche serpents of land and sea who fought over a flood",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": 1600,
+   "end": null,
+   "dateNote": "Oral tradition; recorded from the colonial period onwards",
+   "evidenceTypes": [
+    "oral tradition",
+    "textual"
+   ],
+   "mainstream": "In Mapuche tradition of southern Chile and the island of Chiloé, two great serpents embody the opposing forces of the world. Kai Kai-Vilu (also Caicai or Kai Kai Filu), the serpent of the sea, raised the waters to drown humanity; Ten Ten-Vilu (Trentren), the serpent of the earth, raised the hills and mountains so that people could climb to safety. Their battle, in which some people were turned into fish, sea lions or rocks, is said to explain the broken coastline and islands of the Chiloé archipelago. Mapuche communities have sacred hills called trentren where they can take refuge. The story was recorded by Spanish chroniclers from the colonial period onwards, and versions are still told today.",
+   "alternatives": [
+    {
+     "label": "Memory of real tsunamis",
+     "text": "The Chilean coast is one of the most earthquake- and tsunami-prone in the world (the 1960 Valdivia earthquake is the largest ever recorded). Many researchers see the myth as a traditional explanation of, and guide to surviving, tsunamis: when the sea rises, go to the high ground. Whether it preserves memory of particular events is unknown."
+    },
+    {
+     "label": "One of many world flood myths",
+     "text": "Comparative mythologists note the resemblance to flood myths elsewhere in which survivors escape to a mountain; some see a common human pattern, others a widely shared response to local floods. Diffusion from Christian missionaries has also been suggested for some details."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Ten Ten-Vilu",
+     "url": "https://en.wikipedia.org/wiki/Ten_Ten-Vilu",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Mapuche religion",
+     "url": "https://en.wikipedia.org/wiki/Mapuche_religion",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Cai_Cai_Ancud.png/500px-Cai_Cai_Ancud.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Cai_Cai_Ancud.png",
+     "author": "Lufke",
+     "license": "CC BY-SA 3.0",
+     "title": "Cai Cai Ancud.png"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "catastrophes",
+    "religion"
+   ],
+   "threads": [
+    "flood-myths",
+    "deep-oral-memory",
+    "serpent-beings",
+    "earthquake-lore",
+    "southern-cone",
+    "tsunami-memory",
+    "patagonia-and-fuegia"
+   ]
+  },
+  {
+   "id": "selknam-hain",
+   "title": "The Hain: the Selk'nam ceremony where men played the spirits, and the myth that women once ruled",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1923,
+   "end": null,
+   "dateNote": "Ceremony of long but unknown antiquity; last full Hain 1923",
+   "evidenceTypes": [
+    "textual",
+    "oral tradition"
+   ],
+   "mainstream": "The Selk'nam (Ona) of Tierra del Fuego held a long male initiation ceremony called the Hain, which could last for months when food was plentiful (for example after a whale stranding). Young men were taken into a large hut, where they were confronted by 'spirits', men in body paint and masks, until they learned that the spirits were their own relatives. They were then told the founding myth: in ancient times women, led by the Moon (Kreeh), ruled through a secret lodge where they disguised themselves as spirits, until men discovered the trick, killed the women and took over the ceremony. Painted spirits such as Shoort then visited the women's camp in dramatic performances. The last full Hain was held in 1923 and photographed by the missionary and ethnologist Martin Gusinde, whose images are now famous. Within a few decades the Selk'nam population had collapsed through settler violence, disease and forced resettlement, now often described as the Selk'nam genocide.",
+   "alternatives": [
+    {
+     "label": "A myth of matriarchy?",
+     "text": "Some writers have read the myth as memory of an ancient period of female rule. Most anthropologists see it as a story that justified male control of ritual rather than as history; similar 'women once owned the sacred things' myths are found among peoples in Amazonia and Melanesia."
+    },
+    {
+     "label": "Did the women know?",
+     "text": "Gusinde's informants said the women were deceived; other observers, and later scholars, have suggested the women knew the spirits were men and took part in a shared performance."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Selkʼnam people",
+     "url": "https://en.wikipedia.org/wiki/Selk%CA%BCnam_people",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Selkʼnam genocide",
+     "url": "https://en.wikipedia.org/wiki/Selk%CA%BCnam_genocide",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/El_Hain_A74352820250105.jpg/500px-El_Hain_A74352820250105.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:El_Hain_A74352820250105.jpg",
+     "author": "Rjcastillo",
+     "license": "CC BY-SA 4.0",
+     "title": "El Hain A74352820250105.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "religion",
+    "myth-legend"
+   ],
+   "threads": [
+    "secret-societies",
+    "erased-from-history",
+    "southern-cone",
+    "patagonia-and-fuegia"
+   ]
+  },
+  {
+   "id": "caleuche",
+   "title": "The Caleuche: the glowing ghost ship of Chiloé",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": 1700,
+   "end": null,
+   "dateNote": "Folklore recorded from the 19th century; older origins unknown",
+   "evidenceTypes": [
+    "oral tradition"
+   ],
+   "mainstream": "In the folklore of the Chiloé archipelago in southern Chile, the Caleuche is a ship that sails at night through the channels, brightly lit and full of music and the noise of a party. It is crewed by brujos (sorcerers) and the souls of the drowned, can travel underwater, and can turn itself into a rock or a floating log, while its sailors can turn into seals or sea birds. It is said to kidnap people and to make rich the merchants who trade with it secretly, a story sometimes used to explain sudden wealth in a community. The name has been derived from the Mapudungun word kalewche, 'transformed people'. It is linked to the wider Chilote belief in a society of sorcerers, the Recta Provincia, which was the subject of a real trial in 1880–81 in Ancud.",
+   "alternatives": [
+    {
+     "label": "Smugglers and lights",
+     "text": "Rationalising explanations suggest the legend was reinforced by smugglers working at night, or by bioluminescence and mirages in the fjords. These ideas are speculative."
+    },
+    {
+     "label": "European ghost-ship lore",
+     "text": "Scholars note parallels with European legends such as the Flying Dutchman, brought by sailors, mixed with Indigenous ideas of transformation and the sea."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Caleuche",
+     "url": "https://en.wikipedia.org/wiki/Caleuche",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Chilote mythology",
+     "url": "https://en.wikipedia.org/wiki/Chilote_mythology",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Caleuche_A74067820240105.jpg/500px-Caleuche_A74067820240105.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Caleuche_A74067820240105.jpg",
+     "author": "Rjcastillo",
+     "license": "CC BY 4.0",
+     "title": "Caleuche A74067820240105.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "anomalies"
+   ],
+   "threads": [
+    "shapeshifters",
+    "sea-mysteries",
+    "secret-societies",
+    "southern-cone",
+    "ghost-ships",
+    "patagonia-and-fuegia"
+   ]
+  },
+  {
+   "id": "city-of-the-caesars",
+   "title": "The City of the Caesars: the enchanted lost city of Patagonia",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": 1528,
+   "end": 1766,
+   "evidenceTypes": [
+    "textual"
+   ],
+   "mainstream": "For more than two centuries Spanish colonists searched the southern Andes for the Ciudad de los Césares, a rich city said to be hidden in a Patagonian valley, built of gold and silver and sometimes said to be visible only at certain times, or forgotten by anyone who stumbled on it. Its supposed founders changed with the teller: survivors of the 1528 expedition of Francisco César (from whom the name may come), Spanish castaways from shipwrecks in the Strait of Magellan, refugees from the destroyed Spanish towns of southern Chile after 1598, or Inca nobles fleeing the conquest. Expeditions set out from Chile and Argentina into the 18th century; in 1766 the Jesuit José García Alsue searched the area now in Queulat National Park. No city was ever found.",
+   "alternatives": [
+    {
+     "label": "Echo of the Inca Empire",
+     "text": "One explanation is that the legend grew out of Indigenous reports of the wealthy Inca Empire to the north, carried south and misunderstood. Others connect it to real castaway communities."
+    },
+    {
+     "label": "Still out there",
+     "text": "A few modern seekers and novelists keep the idea of a hidden valley alive; there is no archaeological evidence for such a settlement."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: City of the Caesars",
+     "url": "https://en.wikipedia.org/wiki/City_of_the_Caesars",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: El Dorado",
+     "url": "https://en.wikipedia.org/wiki/El_Dorado",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Patagonia_in_Guti%C3%A9rrez%2C_the_Americas%2C_1562_%28cropped%29.jpg/500px-Patagonia_in_Guti%C3%A9rrez%2C_the_Americas%2C_1562_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Patagonia_in_Guti%C3%A9rrez,_the_Americas,_1562_(cropped).jpg",
+     "author": "Diego Gutiérrez",
+     "license": "Public domain",
+     "title": "Patagonia in Gutiérrez, the Americas, 1562 (cropped).jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "lost-civilisations",
+    "history"
+   ],
+   "threads": [
+    "hidden-kingdoms",
+    "lost-treasures",
+    "southern-cone",
+    "travellers-tales",
+    "patagonia-and-fuegia",
+    "cities-of-gold"
+   ]
+  },
+  {
+   "id": "cueva-de-las-manos",
+   "title": "Cueva de las Manos: nine thousand years of hands on a Patagonian cave wall",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -7300,
+   "end": 700,
+   "evidenceTypes": [
+    "archaeological",
+    "radiocarbon"
+   ],
+   "mainstream": "In the Pinturas River canyon in Santa Cruz province, Argentina, the Cueva de las Manos ('Cave of the Hands') holds more than 2,000 hand images, most of them stencilled left hands (829 left to 31 right in one count), made by blowing pigment through bone tubes. Alongside them are paintings of guanacos, hunting scenes, rheas, felines and geometric shapes. The art was made in several phases from about 7300 BCE to about 700 CE by hunter-gatherer peoples, possibly ancestors of the Tehuelche. Dating comes from bone pipes found in the deposits, radiocarbon dates and the layering of images. It was listed as a UNESCO World Heritage Site in 1999.",
+   "alternatives": [
+    {
+     "label": "Missing fingers and messages",
+     "text": "Some hands appear to lack fingers. This may reflect injury or deformity, but some researchers suggest fingers were deliberately bent to make signs, perhaps a gesture language; this cannot be confirmed."
+    },
+    {
+     "label": "A worldwide gesture",
+     "text": "Hand stencils are found from Sulawesi and Borneo to Spain and Australia, some made more than 40,000 years ago. Some see a deep shared human impulse; others stress that the meanings almost certainly differed from place to place."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Cueva de las Manos",
+     "url": "https://en.wikipedia.org/wiki/Cueva_de_las_Manos",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Cave painting",
+     "url": "https://en.wikipedia.org/wiki/Cave_painting",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/SantaCruz-CuevaManos-P2210651b.jpg/500px-SantaCruz-CuevaManos-P2210651b.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:SantaCruz-CuevaManos-P2210651b.jpg",
+     "author": "Mariano",
+     "license": "Public domain",
+     "title": "SantaCruz-CuevaManos-P2210651b.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology"
+   ],
+   "threads": [
+    "first-americans",
+    "first-art",
+    "southern-cone",
+    "patagonia-and-fuegia"
+   ]
+  },
+  {
+   "id": "jemmy-button",
+   "title": "Jemmy Button: the Fuegian boy bought for a button and taken to meet the King",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1830,
+   "end": 1864,
+   "evidenceTypes": [
+    "textual"
+   ],
+   "mainstream": "In 1830 Captain Robert FitzRoy of HMS Beagle took four young Fuegians to England after a whaleboat was stolen. One, a Yaghan (Yámana) boy named Orundellico, was renamed Jemmy Button because FitzRoy wrote that he had been bought for a mother-of-pearl button. In England the Fuegians (one of whom, Boat Memory, died of smallpox) were educated, became celebrities and met King William IV and Queen Adelaide. FitzRoy took the three survivors home on the second voyage of the Beagle in 1831–33, with the young Charles Darwin aboard. Jemmy soon returned to Yaghan life and declined to go back to England. In 1859 missionaries were killed at Wulaia Bay, and Jemmy was accused of involvement but denied it at an inquiry in the Falklands. He died around 1864.",
+   "alternatives": [
+    {
+     "label": "How was he taken?",
+     "text": "FitzRoy's account of buying him for a button is the only source for the name; some historians suspect it softened what was really a kidnapping."
+    },
+    {
+     "label": "Darwin's view",
+     "text": "Darwin's encounter with the Fuegians shaped his views of human nature; his descriptions have been criticised as prejudiced, while he also noted how quickly the Fuegians in England had become like the English, which he used to argue for the unity of humankind."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Jemmy Button",
+     "url": "https://en.wikipedia.org/wiki/Jemmy_Button",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Second voyage of HMS Beagle",
+     "url": "https://en.wikipedia.org/wiki/Second_voyage_of_HMS_Beagle",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Jemmy_Button.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Jemmy_Button.jpg",
+     "author": "Robert Fitzroy",
+     "license": "Public domain",
+     "title": "Jemmy_Button.jpg"
+    }
+   ],
+   "categories": [
+    "history"
+   ],
+   "threads": [
+    "southern-cone",
+    "travellers-tales",
+    "patagonia-and-fuegia"
+   ]
+  },
+  {
+   "id": "valdivia-1960",
+   "title": "The 1960 Valdivia earthquake: the strongest ever recorded, and a sacrifice to calm the sea",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1960,
+   "end": null,
+   "evidenceTypes": [
+    "textual",
+    "geological/ice core"
+   ],
+   "mainstream": "On 22 May 1960 a megathrust earthquake of magnitude about 9.4–9.6, the strongest ever measured, struck southern Chile and shook for around ten minutes. Tsunami waves up to about 25 metres hit the Chilean coast, and the main tsunami crossed the Pacific, killing 61 people in Hilo, Hawaii, and around 140 in Japan. Estimates of the total death toll range from about 1,000 to 6,000. Two days later the Cordón Caulle volcano began erupting. In the isolated Mapuche (Lafkenche) community of Collileufu near Lake Budi, while the people sheltered on a hill from the repeated tsunamis, a local machi (shaman) called for the sacrifice of a five-year-old boy, José Luis Painecur, to calm the earth and the sea; he was killed. Two men confessed and were charged, later recanted, and were released after two years; a judge ruled they had acted 'without free will, driven by an irresistible natural force of ancestral tradition'.",
+   "alternatives": [
+    {
+     "label": "Ritual or crime?",
+     "text": "The case is cited by anthropologists as evidence that the old Mapuche idea of offering to calm Kai Kai-Vilu and the sea survived into the 20th century; others caution that it was an isolated act by individuals under extreme stress, and should not be used to stereotype Mapuche religion."
+    },
+    {
+     "label": "Earthquakes and tsunamis in myth",
+     "text": "The event is often linked to the Ten Ten-Vilu and Kai Kai-Vilu story, which tells people to climb high ground when the sea rises, the same advice modern tsunami warnings give."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: 1960 Valdivia earthquake",
+     "url": "https://en.wikipedia.org/wiki/1960_Valdivia_earthquake",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Puyehue-Cordón Caulle",
+     "url": "https://en.wikipedia.org/wiki/Puyehue-Cord%C3%B3n_Caulle",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Valdivia_after_earthquake%2C_1960.jpg/500px-Valdivia_after_earthquake%2C_1960.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Valdivia_after_earthquake,_1960.jpg",
+     "author": "Pierre St. Amand",
+     "license": "Public domain",
+     "title": "Valdivia_after_earthquake,_1960.jpg"
+    }
+   ],
+   "categories": [
+    "catastrophes",
+    "history",
+    "religion"
+   ],
+   "threads": [
+    "human-sacrifice",
+    "earthquake-lore",
+    "southern-cone",
+    "tsunami-memory",
+    "disasters-and-scapegoats"
+   ]
+  },
+  {
+   "id": "luison",
+   "title": "The Luisón: the seventh son who becomes a beast, and the Argentine president as godfather",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 3,
+   "start": 1907,
+   "end": null,
+   "evidenceTypes": [
+    "oral tradition",
+    "textual"
+   ],
+   "mainstream": "In Guaraní mythology of Paraguay and north-eastern Argentina, the Luisón (or lobizón) is the seventh and last son of the evil spirit Tau and the woman Kerana, one of seven monstrous brothers; in later folk belief, any seventh son in a family of boys was at risk of turning into a dog- or wolf-like creature that haunts cemeteries. Folklorists link the wolf form to European werewolf beliefs brought by settlers, perhaps inspired by the long-legged maned wolf. In Argentina a custom grew up of the President becoming godparent to seventh sons, said to protect them from abandonment; the first official presidential godparent baptism was recorded in 1907, and in the 1970s, under Juan Perón, it was given legal form, with scholarships for the child. The custom continues, and there have been proposals to abolish it as based on superstition.",
+   "alternatives": [
+    {
+     "label": "Seventh-son lore worldwide",
+     "text": "In European folklore a seventh son (or seventh son of a seventh son) is often said to have healing powers or second sight; in the Río de la Plata region the belief took a darker turn. Folklorists see the Luisón as a blend of Guaraní and European traditions."
+    },
+    {
+     "label": "Superstition or welfare?",
+     "text": "Popular accounts say the presidential custom was meant to stop families abandoning or harming seventh sons out of fear; today supporters describe it mainly as help for large families, while critics call it an outdated relic of superstition."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Luison",
+     "url": "https://en.wikipedia.org/wiki/Luison",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Guarani mythology",
+     "url": "https://en.wikipedia.org/wiki/Guarani_mythology",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Luis%C3%B3n.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Luis%C3%B3n.png",
+     "author": "Patty P",
+     "license": "Public domain",
+     "title": "Luisón.png"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "history"
+   ],
+   "threads": [
+    "shapeshifters",
+    "modern-legends",
+    "southern-cone"
+   ]
+  },
+  {
+   "id": "mylodon-cave",
+   "title": "The Mylodon Cave: the giant sloth skin that seemed fresh enough to be alive",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 3,
+   "start": 1895,
+   "end": null,
+   "dateNote": "Remains c. 10,000–13,000 years old; found 1895–96",
+   "evidenceTypes": [
+    "archaeological",
+    "radiocarbon"
+   ],
+   "mainstream": "In 1895–96 settlers near Puerto Natales in Chilean Patagonia found, in a large cave on Cerro Benítez, a piece of skin with hair and bony nodules, along with bones and dung, so well preserved that some thought the animal might still be alive. It belonged to Mylodon, a giant ground sloth about the size of an ox, named from remains Charles Darwin had collected during the Beagle voyage. The finds launched expeditions, including one in 1900 by the journalist Hesketh Hesketh-Prichard, to search Patagonia for a living giant sloth; none was found. Radiocarbon dating shows the remains are around 10,000–13,000 years old, preserved by the cold, dry conditions. The cave also holds evidence of early human presence, and became famous through Bruce Chatwin's book In Patagonia (1977), inspired by a piece of the skin owned by his grandmother's cousin.",
+   "alternatives": [
+    {
+     "label": "A surviving sloth?",
+     "text": "Reports of the Patagonian 'iemisch' and the Amazonian mapinguari have kept alive the idea of a surviving ground sloth. Zoologists consider this very unlikely given the absence of any recent remains."
+    },
+    {
+     "label": "Kept by humans?",
+     "text": "Early researchers suggested people had penned the sloths in the cave like livestock; this was later rejected, and the remains are thought to reflect natural deaths and some human hunting."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Cueva del Milodón Natural Monument",
+     "url": "https://en.wikipedia.org/wiki/Cueva_del_Milod%C3%B3n_Natural_Monument",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Mylodon",
+     "url": "https://en.wikipedia.org/wiki/Mylodon",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Cueva_del_Milod%C3%B3n_%2825356465327%29.jpg/500px-Cueva_del_Milod%C3%B3n_%2825356465327%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Cueva_del_Milod%C3%B3n_(25356465327).jpg",
+     "author": "Deensel",
+     "license": "CC BY 2.0",
+     "title": "Cueva_del_Milodón_(25356465327).jpg"
+    }
+   ],
+   "categories": [
+    "science-cosmos",
+    "archaeology",
+    "anomalies"
+   ],
+   "threads": [
+    "cryptids",
+    "vanished-species",
+    "southern-cone",
+    "patagonia-and-fuegia"
+   ]
+  },
+  {
+   "id": "patagonian-giants",
+   "title": "The Patagonian giants: three centuries of European tales of a land of giants",
+   "lane": "history",
+   "status": "debunked",
+   "priority": 2,
+   "start": 1520,
+   "end": 1773,
+   "evidenceTypes": [
+    "textual"
+   ],
+   "mainstream": "In 1520, during Ferdinand Magellan's voyage around the world, the chronicler Antonio Pigafetta described meeting on the Patagonian coast a man so tall that 'we reached only to his waist'. Magellan called the people 'Patagones', probably after a giant in the Spanish chivalric romance Primaleón (1512), not 'big feet' as was long assumed, and the region was labelled regio gigantum on maps. Later voyagers repeated the claim: Francis Drake's chaplain wrote of men 'seven foot and a half', and in 1766 rumours spread that John Byron's crew on HMS Dolphin had seen nine-foot natives. When an official account appeared in 1773 the figure was 6 feet 6 inches. The people in question were probably Tehuelche (Aónikenk), who were indeed notably tall by European standards of the time.",
+   "alternatives": [
+    {
+     "label": "Exaggeration and expectation",
+     "text": "Historians see the legend as a mix of real height differences, the bulky guanaco-skin cloaks the Tehuelche wore, travellers' exaggeration and expectations shaped by romance and classical tales of giants at the edge of the world."
+    },
+    {
+     "label": "Bones of giants",
+     "text": "In 1615 Schouten and Le Maire reported graves with giant bones at Puerto Deseado; these may have been fossils of large extinct animals, an example of the wider pattern of fossils being read as giants."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Patagons",
+     "url": "https://en.wikipedia.org/wiki/Patagons",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Tehuelche people",
+     "url": "https://en.wikipedia.org/wiki/Tehuelche_people",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Urville-Patagonians3.jpg/500px-Urville-Patagonians3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Urville-Patagonians3.jpg",
+     "author": "Unknown",
+     "license": "Public domain",
+     "title": "Urville-Patagonians3.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "hoaxes",
+    "myth-legend"
+   ],
+   "threads": [
+    "dragons-and-fossils",
+    "giants-and-little-people",
+    "seeing-what-we-expect",
+    "southern-cone",
+    "travellers-tales",
+    "patagonia-and-fuegia"
    ]
   }
  ]
