@@ -2058,7 +2058,8 @@
    ],
    "threads": [
     "returning-saviours",
-    "sleeping-heroes"
+    "sleeping-heroes",
+    "scythia-to-camelot"
    ]
   },
   {
@@ -12822,7 +12823,8 @@
     "serpent-beings",
     "giant-birds",
     "native-north-america",
-    "pacific-northwest"
+    "pacific-northwest",
+    "thunder-gods"
    ]
   },
   {
@@ -16318,7 +16320,8 @@
    "threads": [
     "warrior-women",
     "founding-ancestors",
-    "steppe-empires"
+    "steppe-empires",
+    "scythia-to-camelot"
    ]
   },
   {
@@ -26673,6 +26676,7 @@
     "knowledge-and-power",
     "divine-punishment",
     "sleeping-heroes",
+    "caucasus-crossroads",
     "fire-thieves"
    ]
   },
@@ -26742,6 +26746,7 @@
     "ocean-voyagers",
     "lost-treasures",
     "trade-networks",
+    "caucasus-crossroads",
     "classical-world"
    ]
   },
@@ -31726,7 +31731,8 @@
     "sky-beings",
     "sacred-kingship",
     "civilising-teachers",
-    "elixirs-of-immortality"
+    "elixirs-of-immortality",
+    "kings-who-became-gods"
    ]
   },
   {
@@ -31989,7 +31995,8 @@
    "threads": [
     "giant-monuments",
     "seeing-what-we-expect",
-    "modern-legends"
+    "modern-legends",
+    "walls-against-chaos"
    ]
   },
   {
@@ -42817,7 +42824,8 @@
     "sky-beings",
     "serpent-beings",
     "sacred-kingship",
-    "himalayan-kingdoms"
+    "himalayan-kingdoms",
+    "thunder-gods"
    ]
   },
   {
@@ -48790,7 +48798,8 @@
     "ancient-astronomy",
     "sacred-kingship",
     "origin-of-death",
-    "egypt-of-the-pharaohs"
+    "egypt-of-the-pharaohs",
+    "kings-who-became-gods"
    ]
   },
   {
@@ -54907,7 +54916,8 @@
     "giant-birds",
     "witch-hunts",
     "southern-africa",
-    "vampire-panics"
+    "vampire-panics",
+    "thunder-gods"
    ]
   },
   {
@@ -61142,6 +61152,539 @@
     "southern-cone",
     "travellers-tales",
     "patagonia-and-fuegia"
+   ]
+  },
+  {
+   "id": "nart-sagas",
+   "title": "The Nart sagas: the Caucasus epics of Sosruko, Satanaya and the sword thrown into the sea",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": -500,
+   "end": null,
+   "dateNote": "Oral tradition with roots in Scythian–Sarmatian times; written down from the 19th century",
+   "evidenceTypes": [
+    "oral tradition",
+    "textual"
+   ],
+   "mainstream": "The Nart sagas are a body of heroic tales shared by peoples of the North Caucasus, including the Ossetians, Circassians (Adyghe and Kabardians), Abkhaz, Abazins, Karachay-Balkars and, in part, Chechens and Ingush. They tell of the Narts, a race of heroes: Sosruko (Soslan), born from a stone and tempered by the smith-god Tlepsh, invulnerable except at his knees; Satanaya, the wise matriarch; the trickster Syrdon; and Batraz, who when dying ordered that his sword be thrown into the sea, and knew when his companions lied about having done it. The tales were first written down in the 19th century but scholars agree that the Ossetian versions preserve an ancient Iranian core inherited from the Scythians, Sarmatians and Alans, mixed with even older North Caucasian material. The French scholar Georges Dumézil used them as a key source for his theory of three social functions (priests, warriors, producers) in Indo-European myth.",
+   "alternatives": [
+    {
+     "label": "From Scythia to Camelot",
+     "text": "C. Scott Littleton and Linda Malcor argued (1994) that the Arthurian legends drew on Sarmatian traditions brought by 5,500 Sarmatian cavalrymen the Romans posted to Britain in 175 CE, pointing to the parallel between Batraz's sword and Excalibur. Many Arthurian scholars think the parallels are suggestive but the transmission unproven."
+    },
+    {
+     "label": "Shared Indo-European heritage",
+     "text": "Others see the resemblances to Greek (Achilles' heel), Norse (Loki) and Arthurian stories as common inheritance from much older Indo-European myth, or as independent invention."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Nart saga",
+     "url": "https://en.wikipedia.org/wiki/Nart_saga",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Ossetian mythology",
+     "url": "https://en.wikipedia.org/wiki/Ossetian_mythology",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/SAWSROUQA.jpg/500px-SAWSROUQA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:SAWSROUQA.jpg",
+     "author": "Hadaghath Askar",
+     "license": "Public domain",
+     "title": "SAWSROUQA.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend"
+   ],
+   "threads": [
+    "sleeping-heroes",
+    "steppe-empires",
+    "caucasus-crossroads",
+    "scythia-to-camelot"
+   ]
+  },
+  {
+   "id": "urartu",
+   "title": "Urartu: the forgotten kingdom of Ararat that rivalled Assyria",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -860,
+   "end": -590,
+   "evidenceTypes": [
+    "archaeological",
+    "textual"
+   ],
+   "mainstream": "Urartu was an Iron Age kingdom centred on Lake Van in the Armenian highlands, spanning parts of modern Turkey, Armenia, Iran and Iraq. Its kings, who called their land Biainili, wrote in cuneiform in the Urartian language, related to Hurrian, and built great fortresses, canals and reservoirs. Its capital was Tushpa (at Van), and its chief god was Haldi. In 782 BCE King Argishti I founded the fortress of Erebuni, whose name survives in Yerevan, the capital of Armenia. Urartu fought Assyria for two centuries; in 714 BCE Sargon II's army sacked the Haldi temple at Musasir, described in a famous letter to the god Ashur. The kingdom collapsed in the early 6th century BCE, and fortresses such as Teishebaini (Karmir Blur) were burned. The Assyrian name Urartu is the same word as the biblical 'Ararat'; the Bible's 'mountains of Ararat', where Noah's ark came to rest, and the 'land of Ararat' where the murderers of Sennacherib fled, refer to this kingdom.",
+   "alternatives": [
+    {
+     "label": "Which mountain?",
+     "text": "Genesis places the ark on 'the mountains of Ararat', meaning the region of Urartu, not a single peak. The identification with the volcano now called Mount Ararat (Ağrı Dağı) came later; other traditions, such as the Syriac and Quranic, point to Mount Judi further south."
+    },
+    {
+     "label": "Ancestors of the Armenians?",
+     "text": "Historians debate how far the Urartians contributed to the formation of the Armenian people, who appear in the region soon after Urartu fell; Armenian national history often stresses continuity, while others emphasise the arrival of Armenian speakers."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Urartu",
+     "url": "https://en.wikipedia.org/wiki/Urartu",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Erebuni Fortress",
+     "url": "https://en.wikipedia.org/wiki/Erebuni_Fortress",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Erebuni_Fortress%2C_Yerevan%2C_Armenia_01.jpg/500px-Erebuni_Fortress%2C_Yerevan%2C_Armenia_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Erebuni_Fortress,_Yerevan,_Armenia_01.jpg",
+     "author": "Armen Manukov",
+     "license": "CC BY-SA 3.0",
+     "title": "Erebuni_Fortress,_Yerevan,_Armenia_01.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology",
+    "religion"
+   ],
+   "threads": [
+    "flood-myths",
+    "water-engineering",
+    "bronze-age-world",
+    "caucasus-crossroads",
+    "mesopotamia-and-anatolia"
+   ]
+  },
+  {
+   "id": "vardzia",
+   "title": "Vardzia: Queen Tamar's cave city of thirteen storeys",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 3,
+   "start": 1185,
+   "end": 1551,
+   "evidenceTypes": [
+    "archaeological",
+    "textual"
+   ],
+   "mainstream": "Vardzia is a monastery and town carved into the cliffs above the Kura River in southern Georgia. Begun under King Giorgi III (1156–84) and greatly expanded under his daughter, Queen Tamar, it once held hundreds of rooms on up to 19 tiers along about 500 metres of cliff, with churches, a throne room, wine cellars, tunnels and an irrigation system, able to shelter thousands of people from Turkish and Mongol raids. The Church of the Dormition, carved in the 1180s, contains rare wall paintings of Tamar and her father. In 1283 an earthquake sheared off much of the outer cliff, exposing the honeycomb of chambers that is visible today. The monastery was sacked by Persian forces in 1551 and later abandoned under Ottoman rule.",
+   "alternatives": [
+    {
+     "label": "The legend of the name",
+     "text": "A popular story says the young Tamar got lost in the caves while hunting and called out 'Ak var, dzia!' ('I'm here, uncle!'), giving the place its name. Historians regard this as folk etymology; the name appears to be older."
+    },
+    {
+     "label": "A hidden refuge",
+     "text": "Vardzia is often compared with other cave cities, such as Cappadocia's underground towns, as an example of whole communities going underground for safety; how many people lived there at its height is debated."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Vardzia",
+     "url": "https://en.wikipedia.org/wiki/Vardzia",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Tamar of Georgia",
+     "url": "https://en.wikipedia.org/wiki/Tamar_of_Georgia",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/2025-05-25_Vardzia_9.jpg/500px-2025-05-25_Vardzia_9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:2025-05-25_Vardzia_9.jpg",
+     "author": "Alexkom000",
+     "license": "CC BY 4.0",
+     "title": "2025-05-25_Vardzia_9.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology"
+   ],
+   "threads": [
+    "underground-worlds",
+    "water-engineering",
+    "visionary-women",
+    "caucasus-crossroads"
+   ]
+  },
+  {
+   "id": "gates-of-alexander",
+   "title": "The Gates of Alexander: the iron wall against Gog and Magog",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": 700,
+   "end": null,
+   "dateNote": "Legend c. 1st–7th centuries; Sallam's journey 842",
+   "evidenceTypes": [
+    "textual",
+    "archaeological"
+   ],
+   "mainstream": "Ancient and medieval writers told that Alexander the Great had built a wall of iron and bronze in a mountain pass to shut out barbarous northern peoples. The 1st-century historian Josephus linked the Scythians with Magog, and the 7th-century Syriac Alexander Legend had Alexander enclose the nations of Gog and Magog, who would break out at the end of time. The Quran (Sura 18) tells of Dhu al-Qarnayn, 'the two-horned one', who built a barrier of iron and molten copper against Ya'juj and Ma'juj. The gates were placed at real fortifications, especially the Sasanian Persian walls at Derbent on the Caspian and the Darial gorge in the Caucasus, and the Great Wall of Gorgan. In 842 the Caliph al-Wathiq, after dreaming the wall had been breached, sent an official, Sallam the Interpreter, to inspect it; Sallam returned more than two years later, reporting the wall intact. Medieval maps show Gog and Magog walled up in the far north-east.",
+   "alternatives": [
+    {
+     "label": "Which wall?",
+     "text": "Historians note the Caucasus walls were built by the Sasanians centuries after Alexander. Scholars debate whether Sallam reached Derbent, the Jade Gate of China, or another fortification."
+    },
+    {
+     "label": "Dhu al-Qarnayn's identity",
+     "text": "Many Muslim and Western scholars identify Dhu al-Qarnayn with Alexander, through the Syriac legend; some Muslim scholars prefer Cyrus the Great or a South Arabian king, and some modern writers have suggested the wall is yet to be found. Believers read the end-times prophecy as still to come."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Gates of Alexander",
+     "url": "https://en.wikipedia.org/wiki/Gates_of_Alexander",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Gog and Magog",
+     "url": "https://en.wikipedia.org/wiki/Gog_and_Magog",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Iskandar_%28Alexander%29_builds_a_wall_against_Gog_and_Magog_%28CBL_Per._395.1%29.jpg/500px-Iskandar_%28Alexander%29_builds_a_wall_against_Gog_and_Magog_%28CBL_Per._395.1%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Iskandar_(Alexander)_builds_a_wall_against_Gog_and_Magog_(CBL_Per._395.1).jpg",
+     "author": "Unknown authorUnknown author",
+     "license": "Public domain",
+     "title": "Iskandar (Alexander) builds a wall against Gog and Magog (CBL Per. 395.1).jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion",
+    "history"
+   ],
+   "threads": [
+    "world-ages-and-resets",
+    "caucasus-crossroads",
+    "myths-about-history",
+    "travellers-tales",
+    "prophecies",
+    "walls-against-chaos"
+   ]
+  },
+  {
+   "id": "khazar-conversion",
+   "title": "The Khazars: the steppe empire whose rulers became Jewish",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 740,
+   "end": 969,
+   "evidenceTypes": [
+    "textual",
+    "archaeological",
+    "genetic"
+   ],
+   "mainstream": "The Khazars were a Turkic people who built a powerful multi-ethnic khaganate between the Volga, the Don and the North Caucasus from about 650 until the 960s, controlling trade between the Byzantine world, the Caliphate and the Rus. Arabic, Hebrew and other sources report that the khagan and ruling elite adopted Rabbinic Judaism, probably in the 8th or 9th century, while much of the population remained pagan, Christian or Muslim. A Hebrew letter attributed to King Joseph of Khazaria (part of the 'Khazar Correspondence' with Hasdai ibn Shaprut of Córdoba, 10th century) tells how an earlier king, Bulan, chose Judaism after hearing the case for each faith, a story the poet Judah Halevi retold in his philosophical dialogue the Kuzari (c. 1140). The khaganate was broken by Prince Sviatoslav of Kiev around 965–969. How widespread the conversion was, and the authenticity of parts of the Correspondence, are debated.",
+   "alternatives": [
+    {
+     "label": "Ancestors of Ashkenazi Jews?",
+     "text": "The idea that Ashkenazi Jews descend largely from Khazar converts was popularised by Arthur Koestler's The Thirteenth Tribe (1976) and argued genetically by Eran Elhaik (2012). Most genetic studies, such as Behar et al. (2013), find no substantial Khazar ancestry and point to Middle Eastern and European origins; most scholars regard the hypothesis as unsupported. It has also been used in antisemitic conspiracy theories, which historians and geneticists reject."
+    },
+    {
+     "label": "How deep was the conversion?",
+     "text": "Some historians, such as Moshe Gil and Shaul Stampfer, have argued the conversion is poorly evidenced or even legendary; others point to Khazar coins struck c. 837–838 with the legend 'Moses is the messenger of God' as supporting evidence."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Khazars",
+     "url": "https://en.wikipedia.org/wiki/Khazars",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Khazar Correspondence",
+     "url": "https://en.wikipedia.org/wiki/Khazar_Correspondence",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "The Missing Link of Jewish European Ancestry: Contrasting the Rhineland and the Khazarian Hypotheses",
+     "authors": "Elhaik, E.",
+     "year": 2012,
+     "doi": "10.1093/gbe/evs119",
+     "type": "paper"
+    },
+    {
+     "title": "No Evidence from Genome-Wide Data of a Khazar Origin for the Ashkenazi Jews",
+     "authors": "Behar, D. et al.",
+     "year": 2013,
+     "doi": "10.3378/027.085.0604",
+     "type": "paper"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Chasaren.jpg/500px-Chasaren.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Chasaren.jpg",
+     "author": "Unknown",
+     "license": "CC BY-SA 3.0",
+     "title": "Chasaren.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "religion"
+   ],
+   "threads": [
+    "genetic-migrations",
+    "suppressed-beliefs",
+    "silk-road",
+    "steppe-empires",
+    "caucasus-crossroads"
+   ]
+  },
+  {
+   "id": "oyo-empire",
+   "title": "The Oyo Empire: cavalry, kingmakers and the king who was handed parrot's eggs",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1600,
+   "end": 1836,
+   "evidenceTypes": [
+    "textual",
+    "oral tradition",
+    "archaeological"
+   ],
+   "mainstream": "Oyo was the largest Yoruba state, centred on Oyo-Ile (Old Oyo) in the savanna of what is now western Nigeria. Tradition traces its founding to Oranmiyan, a prince of Ile-Ife. After being driven into exile by the Nupe in the 16th century, Oyo rebuilt itself with a powerful cavalry, and from the late 16th to the 18th century dominated most of Yorubaland and made the kingdom of Dahomey pay tribute. The king, the Alaafin, was checked by a council of nobles, the Oyo Mesi, led by the Bashorun, which could reject a king by presenting him with an empty calabash or parrot's eggs, a sign that he must take his own life. In the 18th century the Bashorun Gaha used this power to force several Alaafins to die before he was overthrown in 1774. Weakened by intrigue, the revolt of the general Afonja at Ilorin and the jihad of the Sokoto Caliphate, Oyo-Ile was abandoned in the 1830s, and a new Oyo was founded further south. The ruins of Oyo-Ile lie in Old Oyo National Park.",
+   "alternatives": [
+    {
+     "label": "Constitutional monarchy?",
+     "text": "Some historians describe Oyo's system of checks on the king as an early form of constitutional government; others caution against applying modern terms, noting the power the system gave to factions such as Gaha's."
+    },
+    {
+     "label": "Oral tradition and dates",
+     "text": "Much early Oyo history depends on king lists and praise poetry recorded in the 19th century, notably by Samuel Johnson in The History of the Yorubas; historians debate how literally to take its chronology."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Oyo Empire",
+     "url": "https://en.wikipedia.org/wiki/Oyo_Empire",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Old Oyo National Park",
+     "url": "https://en.wikipedia.org/wiki/Old_Oyo_National_Park",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Frontiers_of_the_Kingdom_of_Oyo_and_its_neighbours_in_c._1790.jpg/500px-Frontiers_of_the_Kingdom_of_Oyo_and_its_neighbours_in_c._1790.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Frontiers_of_the_Kingdom_of_Oyo_and_its_neighbours_in_c._1790.jpg",
+     "author": "Henry B. Lovejoy\n\n“Old Oyo Influences on the Transformation of Lucumí Identity in Colonial Cuba”, UCLA Electronic Theses",
+     "license": "CC BY 4.0",
+     "title": "Frontiers_of_the_Kingdom_of_Oyo_and_its_neighbours_in_c._1790.jpg"
+    }
+   ],
+   "categories": [
+    "history"
+   ],
+   "threads": [
+    "sacred-kingship",
+    "sahel-kingdoms",
+    "yoruba-worlds"
+   ]
+  },
+  {
+   "id": "shango",
+   "title": "Shango: the king of Oyo who became the god of thunder",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": 1400,
+   "end": null,
+   "dateNote": "Legendary reign; traditionally placed around the 14th–15th century",
+   "evidenceTypes": [
+    "oral tradition",
+    "textual"
+   ],
+   "mainstream": "Ṣàngó (Shango) is the Yoruba orisha of thunder, lightning, fire, dance and justice, symbolised by a double-headed axe. In Oyo tradition he was also a historical king, the third Alaafin of Oyo, after Oranmiyan and Ajaka: a powerful and fiery ruler who could breathe fire and command lightning. In one version his magic brought lightning that destroyed his own palace, and in grief or shame he hanged himself at Koso; when his enemies mocked, his followers declared 'Oba kò so' ('the king did not hang') and calamities, including fires caused by lightning, were blamed on his angry spirit, which was then worshipped. Shango's cult was central to the Oyo state, and through the Atlantic slave trade he became Xangô in Brazilian Candomblé and Changó in Cuban Santería, often identified with Saint Barbara.",
+   "alternatives": [
+    {
+     "label": "A god who was a man",
+     "text": "The story is a classic case of what scholars call euhemerism, a human king becoming a god. Some historians think a real early Alaafin was merged with an older thunder deity, Jakuta or Ara; believers see Shango as a living spiritual force regardless of history."
+    },
+    {
+     "label": "Thunder axes worldwide",
+     "text": "Shango's shrines often hold prehistoric stone axe heads (edun ara, 'thunderstones') believed to be thunderbolts he has hurled, a belief strikingly similar to European, Asian and Native American thunderstone traditions."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Shango",
+     "url": "https://en.wikipedia.org/wiki/Shango",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Oyo Empire",
+     "url": "https://en.wikipedia.org/wiki/Oyo_Empire",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Yoruba religion",
+     "url": "https://en.wikipedia.org/wiki/Yoruba_religion",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Representa%C3%A7%C3%A3o_de_Xang%C3%B4_MN_01.jpg/500px-Representa%C3%A7%C3%A3o_de_Xang%C3%B4_MN_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Representa%C3%A7%C3%A3o_de_Xang%C3%B4_MN_01.jpg",
+     "author": "Dornicke",
+     "license": "CC BY-SA 4.0",
+     "title": "Representação_de_Xangô_MN_01.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion",
+    "history"
+   ],
+   "threads": [
+    "sacred-kingship",
+    "yoruba-worlds",
+    "kings-who-became-gods",
+    "thunder-gods"
+   ]
+  },
+  {
+   "id": "osun-osogbo",
+   "title": "The Osun-Osogbo grove: a sacred forest saved by a river goddess and an Austrian artist",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 3,
+   "start": 1950,
+   "end": null,
+   "dateNote": "Grove centuries old; restoration from the 1950s; UNESCO 2005",
+   "evidenceTypes": [
+    "oral tradition",
+    "archaeological"
+   ],
+   "mainstream": "The Osun-Osogbo Sacred Grove, on the banks of the Osun river outside Osogbo in south-west Nigeria, is one of the last of the sacred forests that once surrounded Yoruba towns. It is dedicated to Ọ̀ṣun, the orisha of fresh water, fertility and love. Tradition says that the town's founders were told by the river goddess to settle on higher ground, promising protection in return for worship, and an annual Osun-Osogbo festival renews this pact and draws large crowds each August. In the mid-20th century the grove was neglected and partly logged. The Austrian artist Susanne Wenger (1915–2009), who became a Yoruba priestess known as Adunni Olorisha, worked with local artists of the New Sacred Art movement to restore the shrines and fill the forest with large sculptures. The grove became a national monument in 1965 and a UNESCO World Heritage Site in 2005.",
+   "alternatives": [
+    {
+     "label": "Restoration or reinvention?",
+     "text": "Some critics argue that Wenger's modernist sculptures changed the grove's character; many local worshippers and UNESCO see her work as saving the site and helping the tradition survive."
+    },
+    {
+     "label": "Sacred groves worldwide",
+     "text": "Sacred forests protected by religious taboos, from Yoruba groves to the sacred groves of India and ancient Europe, are seen by ecologists as an old form of nature conservation."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Osun-Osogbo",
+     "url": "https://en.wikipedia.org/wiki/Osun-Osogbo",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Susanne Wenger",
+     "url": "https://en.wikipedia.org/wiki/Susanne_Wenger",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Osun_groove_Osogbo.jpg/500px-Osun_groove_Osogbo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Osun_groove_Osogbo.jpg",
+     "author": "ABORISADEADETONA",
+     "license": "CC BY-SA 4.0",
+     "title": "Osun_groove_Osogbo.jpg"
+    }
+   ],
+   "categories": [
+    "religion",
+    "history"
+   ],
+   "threads": [
+    "water-spirits",
+    "yoruba-worlds"
+   ]
+  },
+  {
+   "id": "thunderstones",
+   "title": "Thunderstones: prehistoric axes believed to be thunderbolts fallen from the sky",
+   "lane": "history",
+   "status": "debunked",
+   "priority": 2,
+   "start": 1565,
+   "end": null,
+   "dateNote": "Belief ancient; Mercati's work c. 1570s–1590s (published 1717)",
+   "evidenceTypes": [
+    "archaeological",
+    "textual"
+   ],
+   "mainstream": "Across much of the world, people who found polished prehistoric stone axe heads or flint arrowheads in the soil believed they had fallen from the sky with lightning. In Greek and Latin they were ceraunia, 'thunderbolts'; Romans placed them in buildings for protection; in medieval Europe they were prized as amulets against lightning, illness and witchcraft, and in Scandinavia they were offered beer and butter. Similar beliefs existed in Asia, the Americas and Africa, where Yoruba worshippers keep them at shrines of the thunder god Shango. Fossils such as sea urchins and belemnites were also called thunderstones. In the late 16th century the Vatican naturalist Michele Mercati argued that ceraunia were tools made by early people who did not use metal, and in 1723 Antoine de Jussieu compared them with stone tools from the Americas. By the 19th century they had become key evidence for the 'Stone Age' and the deep antiquity of humans.",
+   "alternatives": [
+    {
+     "label": "A universal human reasoning",
+     "text": "Folklorists note that the same idea arose independently in many places because stone tools turn up after rain has washed away soil, where lightning seems to have struck."
+    },
+    {
+     "label": "Still used",
+     "text": "In many places thunderstones remain protective objects, a living belief that coexists with the archaeological explanation."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Thunderstone (folklore)",
+     "url": "https://en.wikipedia.org/wiki/Thunderstone_(folklore)",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Stone tool",
+     "url": "https://en.wikipedia.org/wiki/Stone_tool",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Bifaz_de_Atapuerca_%28TG10%29.jpg/500px-Bifaz_de_Atapuerca_%28TG10%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Bifaz_de_Atapuerca_(TG10).jpg",
+     "author": "José-Manuel Benito Álvarez (España) —> Locutus Borg",
+     "license": "Public domain",
+     "title": "Bifaz_de_Atapuerca_(TG10).jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "myth-legend",
+    "science-cosmos"
+   ],
+   "threads": [
+    "changed-understanding",
+    "out-of-place-artifacts",
+    "sky-stones",
+    "thunder-gods"
    ]
   }
  ]
