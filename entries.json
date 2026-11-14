@@ -7454,7 +7454,9 @@
    "threads": [
     "creation-myths",
     "ocean-voyagers",
-    "fire-thieves"
+    "origin-of-death",
+    "fire-thieves",
+    "trickster-tales"
    ]
   },
   {
@@ -7721,7 +7723,8 @@
    "threads": [
     "serpent-beings",
     "sky-omens",
-    "island-southeast-asia"
+    "island-southeast-asia",
+    "moon-myths"
    ]
   },
   {
@@ -14009,7 +14012,8 @@
     "aliens-ufo"
    ],
    "threads": [
-    "sky-beings"
+    "sky-beings",
+    "moon-myths"
    ]
   },
   {
@@ -30171,6 +30175,7 @@
    "threads": [
     "deep-oral-memory",
     "creation-myths",
+    "origin-of-death",
     "southern-africa"
    ]
   },
@@ -61685,6 +61690,500 @@
     "out-of-place-artifacts",
     "sky-stones",
     "thunder-gods"
+   ]
+  },
+  {
+   "id": "origin-of-death-myths",
+   "title": "Why we die: the lost message, the shed skin and the stone and the banana",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": -3000,
+   "end": null,
+   "dateNote": "Oral traditions of unknown age; recorded mostly 19th–20th centuries",
+   "evidenceTypes": [
+    "oral tradition",
+    "textual"
+   ],
+   "mainstream": "Nearly every culture has a story of how death entered a world where people once lived for ever, and folklorists find that the stories fall into a few recurring types spread across whole regions. In much of Africa, death comes through a message that went wrong: in a Khoikhoi story recorded by Wilhelm Bleek (1864), the Moon sent the hare to tell people that, just as the Moon dies and rises again, so would they, but the hare said they would die and perish, and the angry Moon split its lip; in the Zulu version a slow chameleon is overtaken by a lizard. In Oceania and Southeast Asia people once shed their skins like snakes and were renewed, until a grandchild failed to recognise a rejuvenated grandmother and she put her old skin back on. In the 'stone and banana' story told among the Poso of Sulawesi, the creator lowered a stone from the sky, people refused it and asked for a banana instead, and so their lives became like the banana, which dies after bearing fruit, rather than like enduring stone. Māori tradition tells how Māui tried to win immortality by crawling through the body of Hine-nui-te-pō, goddess of death, and was crushed when a bird laughed.",
+   "alternatives": [
+    {
+     "label": "Ancient shared roots?",
+     "text": "The Russian folklorist Yuri Berezkin has argued that some motifs, such as the garbled message and the shed skin, are so widespread that they may go back to very early human migrations out of Africa. Others think they arose independently many times. Both ideas are hard to test."
+    },
+    {
+     "label": "Religious accounts",
+     "text": "In Genesis, death follows Adam and Eve's disobedience in Eden; in Greek myth it comes with Pandora. Believers read these as revealed truths or moral teachings, while comparative mythologists group them with other 'lost immortality' stories."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Origin of death",
+     "url": "https://en.wikipedia.org/wiki/Origin_of_death",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "The Origin of Death",
+     "authors": "Boas, F.",
+     "year": 1917,
+     "doi": "10.2307/534498",
+     "type": "paper"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Chief_Whatanui_in_front_of_Hinenuitepo_meeting_house_at_Te_Whaiti%2C_1930_ATLIB_298789.png/500px-Chief_Whatanui_in_front_of_Hinenuitepo_meeting_house_at_Te_Whaiti%2C_1930_ATLIB_298789.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Chief_Whatanui_in_front_of_Hinenuitepo_meeting_house_at_Te_Whaiti,_1930_ATLIB_298789.png",
+     "author": "Godber, Albert Percy, 1875-1949",
+     "license": "Public domain",
+     "title": "Chief Whatanui in front of Hinenuitepo meeting house at Te Whaiti, 1930 ATLIB 298789.png"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion"
+   ],
+   "threads": [
+    "creation-myths",
+    "origin-of-death",
+    "island-southeast-asia",
+    "moon-myths",
+    "trickster-tales"
+   ]
+  },
+  {
+   "id": "hainuwele",
+   "title": "Hainuwele: the murdered coconut girl whose body became the first crops",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": 1937,
+   "end": null,
+   "dateNote": "Recorded 1937–38; oral tradition of unknown age",
+   "evidenceTypes": [
+    "oral tradition"
+   ],
+   "mainstream": "On the island of Seram in eastern Indonesia, the Wemale people tell how a man named Ameta found the first coconut and planted it; from a drop of his blood on its blossom grew a girl, Hainuwele ('coconut branch'). She could excrete valuable things such as porcelain dishes, gongs and gold earrings, which she handed out at a great nine-night dance. The jealous dancers buried her alive in a pit in the dance ground. Ameta dug her up, cut her body into pieces and buried them, and from them grew the tubers and other plants that people have eaten ever since. The goddess Satene then made people pass through a spiral gate: those who passed remained human but became mortal, the others became animals and spirits. The myth was recorded by the German ethnologist Adolf Jensen after a 1937–38 expedition, and he used it to define the 'dema deity', a primordial being whose killing brings food plants and death into the world.",
+   "alternatives": [
+    {
+     "label": "A memory of the first farming?",
+     "text": "Jensen argued that such myths belong to early tuber-growing cultures and express an ancient idea that life feeds on death. Critics, including Jonathan Z. Smith, argued the myth also reflects colonial-era experiences, such as the arrival of trade goods."
+    },
+    {
+     "label": "Parallels worldwide",
+     "text": "Similar stories of crops springing from a slain body occur in the Americas (the maize of a slain mother in some Native American traditions), Japan (the food goddess Ōgetsu-hime) and elsewhere; mythologists debate whether they share an origin."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Hainuwele",
+     "url": "https://en.wikipedia.org/wiki/Hainuwele",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Ukemochi",
+     "url": "https://en.wikipedia.org/wiki/Ukemochi",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/XRF-Hainuwele.jpg/500px-XRF-Hainuwele.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:XRF-Hainuwele.jpg",
+     "author": "Xavier Romero-Frias",
+     "license": "CC BY-SA 3.0",
+     "title": "XRF-Hainuwele.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion"
+   ],
+   "threads": [
+    "creation-myths",
+    "human-sacrifice",
+    "origin-of-death",
+    "island-southeast-asia",
+    "crops-from-a-slain-body"
+   ]
+  },
+  {
+   "id": "moon-rabbit",
+   "title": "The rabbit in the Moon: one shape seen in Asia and the Americas",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": -300,
+   "end": null,
+   "dateNote": "Jātaka tales compiled from c. 4th century BCE; Aztec account recorded 16th century",
+   "evidenceTypes": [
+    "textual",
+    "oral tradition"
+   ],
+   "mainstream": "Where some cultures see a man's face in the dark markings of the full Moon, much of Asia and Mesoamerica sees a rabbit or hare. In the Buddhist Śaśa Jātaka, a hare who had nothing else to offer a hungry holy man threw itself into a fire to give him its own body; the man was the god Śakra in disguise, who drew the hare's image on the Moon in its honour. In China the Jade Rabbit (Yutu) pounds the elixir of immortality for the Moon goddess Chang'e, and in Japan and Korea the rabbit pounds rice cakes. In the Aztec creation story recorded by Bernardino de Sahagún, the gods threw a rabbit into the face of the Moon to dim it so it would not shine as brightly as the Sun. China's lunar rovers launched in 2013 and 2019 were named Yutu and Yutu-2.",
+   "alternatives": [
+    {
+     "label": "Independent invention or contact?",
+     "text": "Most scholars see the shared rabbit as independent pattern-seeing (pareidolia): the shape is genuinely rabbit-like when the Moon is viewed from mid-northern latitudes. A few writers have suggested ancient trans-Pacific contact; there is no evidence for this."
+    },
+    {
+     "label": "Hare, moon and death",
+     "text": "In Africa the hare is linked to the Moon in the Khoikhoi story of how death began, and the hare is a lunar animal in parts of Europe too, suggesting a very widespread association whose origin is unknown."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Moon rabbit",
+     "url": "https://en.wikipedia.org/wiki/Moon_rabbit",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Chang'e",
+     "url": "https://en.wikipedia.org/wiki/Chang'e",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Rabbit_in_the_moon_standing_by_pot.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Rabbit_in_the_moon_standing_by_pot.png",
+     "author": "No machine-readable author provided. Zeimusu assumed (based on copyright claims).",
+     "license": "CC BY-SA 3.0",
+     "title": "Rabbit_in_the_moon_standing_by_pot.png"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion",
+    "science-cosmos"
+   ],
+   "threads": [
+    "ancient-astronomy",
+    "pareidolia",
+    "moon-myths",
+    "trickster-tales"
+   ]
+  },
+  {
+   "id": "ohalo-ii",
+   "title": "Ohalo II: a 23,000-year-old camp where people first tried growing cereals",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -21000,
+   "end": null,
+   "dateNote": "c. 23,000 years before present",
+   "evidenceTypes": [
+    "archaeological",
+    "radiocarbon"
+   ],
+   "mainstream": "In 1989, a drought lowered the Sea of Galilee in Israel and exposed the remains of a hunter-gatherer camp, Ohalo II, excavated by Dani Nadel. Dated to about 23,000 years ago, at the height of the last Ice Age, it was preserved under water and silt, so that plant remains survived in extraordinary quantity. The camp had six brushwood huts, the oldest known, a grass bedding floor, hearths and the grave of a man. Researchers recovered tens of thousands of seeds and fruits from more than 140 species, including wild wheat, barley, oats and figs, plus a grinding stone with traces of starch, flint sickle blades with use-wear from cutting cereals, and the seeds of weeds that typically grow in cultivated fields. A 2015 study argued this shows small-scale trial cultivation some 11,000 years before farming proper began.",
+   "alternatives": [
+    {
+     "label": "Cultivation or wild harvest?",
+     "text": "Snir and colleagues (2015) read the 'proto-weeds' as signs of early cultivation; others argue the weeds could have grown among wild cereal stands, so the camp shows intensive wild harvesting rather than farming."
+    },
+    {
+     "label": "A long road to farming",
+     "text": "The site is part of a growing body of evidence, with sites like Shubayqa 1 in Jordan, where charred bread about 14,400 years old was found, that people experimented with cereals long before the Neolithic, challenging the idea of a sudden agricultural 'revolution'."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Ohalo II",
+     "url": "https://en.wikipedia.org/wiki/Ohalo_II",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "The Origin of Cultivation and Proto-Weeds, Long Before Neolithic Farming",
+     "authors": "Snir, A. et al.",
+     "year": 2015,
+     "doi": "10.1371/journal.pone.0131422",
+     "type": "paper"
+    },
+    {
+     "title": "Archaeobotanical evidence reveals the origins of bread 14,400 years ago in northeastern Jordan",
+     "authors": "Arranz-Otaegui, A. et al.",
+     "year": 2018,
+     "doi": "10.1073/pnas.1801071115",
+     "type": "paper"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Composite_Sickles_for_Cereal_Harvesting_at_23%2C000-Years-Old_Ohalo_II%2C_Israel.jpg/500px-Composite_Sickles_for_Cereal_Harvesting_at_23%2C000-Years-Old_Ohalo_II%2C_Israel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Composite_Sickles_for_Cereal_Harvesting_at_23,000-Years-Old_Ohalo_II,_Israel.jpg",
+     "author": "Iris Groman-Yaroslavski , Ehud Weiss, Dani Nadel",
+     "license": "CC BY 4.0",
+     "title": "Composite Sickles for Cereal Harvesting at 23,000-Years-Old Ohalo II, Israel.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "science-cosmos"
+   ],
+   "threads": [
+    "changed-understanding",
+    "origins-of-farming"
+   ]
+  },
+  {
+   "id": "abu-hureyra",
+   "title": "Abu Hureyra: the village that saw the first farming, now under a lake, and a disputed cosmic impact",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": -11300,
+   "end": -5800,
+   "evidenceTypes": [
+    "archaeological",
+    "radiocarbon"
+   ],
+   "mainstream": "Tell Abu Hureyra in the Euphrates valley of northern Syria was excavated in 1972–73 by Andrew Moore in a rescue project before the Tabqa Dam flooded it under Lake Assad. Its deposits span about 13,300 to 7,800 years ago, from a village of settled hunter-gatherers (Abu Hureyra 1) to one of the world's early farming towns (Abu Hureyra 2). It was one of the first sites where flotation was used to recover tiny plant remains. The archaeobotanist Gordon Hillman argued that people there began cultivating rye at the start of the cold, dry Younger Dryas period around 13,000 years ago, possibly the earliest cereal cultivation known, as wild foods became scarce. Since 2012 Moore and colleagues have reported meltglass, nanodiamonds, microspherules and platinum-group metals in the layer at the end of the first village, which they attribute to a cosmic airburst at the onset of the Younger Dryas.",
+   "alternatives": [
+    {
+     "label": "Earliest cultivators?",
+     "text": "Hillman's claim of Younger Dryas rye cultivation is debated: some archaeobotanists argue the grains are too few, or intrusive from later layers, to prove cultivation."
+    },
+    {
+     "label": "Younger Dryas impact",
+     "text": "The 2020 paper by Moore et al. in Scientific Reports argued for an impact at Abu Hureyra; it received a formal correction in 2025. Many archaeologists and impact scientists, for example in a 2023 review led by Vance Holliday, reject the Younger Dryas impact hypothesis; supporters maintain the evidence at Abu Hureyra and other sites is strong."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Tell Abu Hureyra",
+     "url": "https://en.wikipedia.org/wiki/Tell_Abu_Hureyra",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Evidence of Cosmic Impact at Abu Hureyra, Syria at the Younger Dryas Onset (~12.8 ka): High-temperature melting at >2200 °C",
+     "authors": "Moore, A. et al.",
+     "year": 2020,
+     "doi": "10.1038/s41598-020-60867-w",
+     "type": "paper"
+    },
+    {
+     "title": "Comprehensive refutation of the Younger Dryas Impact Hypothesis (YDIH)",
+     "authors": "Holliday, V. et al.",
+     "year": 2023,
+     "doi": "10.1016/j.earscirev.2023.104502",
+     "type": "paper"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Abu_Hureyra_grinding_stones_Ashmolean_Museum.jpg/500px-Abu_Hureyra_grinding_stones_Ashmolean_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Abu_Hureyra_grinding_stones_Ashmolean_Museum.jpg",
+     "author": "Zunkir",
+     "license": "CC BY-SA 4.0",
+     "title": "Abu Hureyra grinding stones Ashmolean Museum.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "catastrophes",
+    "science-cosmos"
+   ],
+   "threads": [
+    "cosmic-impacts",
+    "sunken-cities",
+    "origins-of-farming",
+    "younger-dryas-debate",
+    "abrupt-climate-shocks"
+   ]
+  },
+  {
+   "id": "guila-naquitz",
+   "title": "Guilá Naquitz and the riddle of maize: how a scraggly grass became the grain of the Americas",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -8000,
+   "end": null,
+   "dateNote": "Squash c. 10,000 years ago; maize cobs c. 6,250 years ago",
+   "evidenceTypes": [
+    "archaeological",
+    "radiocarbon",
+    "genetic"
+   ],
+   "mainstream": "Guilá Naquitz, a small cave in the Oaxaca valley of Mexico excavated by Kent Flannery in 1966, held some of the earliest evidence of farming in the Americas: seeds of domesticated squash (Cucurbita pepo) dated to about 10,000 years ago, and the oldest known maize cobs, tiny ears about 6,250 years old. Maize looks very different from any wild plant, and for decades its origin was a puzzle. Genetic studies, notably Matsuoka and colleagues in 2002, showed it was domesticated once, about 9,000 years ago, from a wild grass called teosinte in the Balsas river valley of south-western Mexico, where maize starch about 8,700 years old has since been found on grinding stones. Teosinte has a few hard-cased kernels; over thousands of years of selection farmers turned it into the large, many-rowed cob that now feeds much of the world.",
+   "alternatives": [
+    {
+     "label": "An extinct wild maize",
+     "text": "Before the genetic evidence, the botanist Paul Mangelsdorf argued that maize came from a now-extinct wild maize crossed with the grass Tripsacum. This view has been abandoned by most scientists, though it held sway for decades."
+    },
+    {
+     "label": "Gift of the gods",
+     "text": "In Mesoamerican traditions maize is sacred: the Popol Vuh says the gods made humans from maize dough, and many peoples tell of maize being found inside a mountain or given by a deity, stories that parallel origin myths of crops elsewhere."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Guilá Naquitz Cave",
+     "url": "https://en.wikipedia.org/wiki/Guil%C3%A1_Naquitz_Cave",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "The earliest archaeological maize ( Zea mays L.) from highland Mexico: New accelerator mass spectrometry dates and their implications",
+     "authors": "Piperno, D. et al.",
+     "year": 2001,
+     "doi": "10.1073/pnas.98.4.2101",
+     "type": "paper"
+    },
+    {
+     "title": "A single domestication for maize shown by multilocus microsatellite genotyping",
+     "authors": "Matsuoka, Y. et al.",
+     "year": 2002,
+     "doi": "10.1073/pnas.052125199",
+     "type": "paper"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Teosinte_and_Modern_Corn_Comparison_%283745571067%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Teosinte_and_Modern_Corn_Comparison_(3745571067).jpg",
+     "author": "National  Science Foundation",
+     "license": "Public domain",
+     "title": "Teosinte and Modern Corn Comparison (3745571067).jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "science-cosmos"
+   ],
+   "threads": [
+    "changed-understanding",
+    "central-america",
+    "origins-of-farming",
+    "crops-from-a-slain-body"
+   ]
+  },
+  {
+   "id": "dog-domestication",
+   "title": "The first dogs: when, where and how wolves joined humans",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": -13000,
+   "end": null,
+   "dateNote": "Oldest accepted dog c. 14,000 years ago",
+   "evidenceTypes": [
+    "archaeological",
+    "genetic",
+    "radiocarbon"
+   ],
+   "mainstream": "The dog was the first domesticated animal, tamed by hunter-gatherers long before farming. The oldest generally accepted dog is the Bonn–Oberkassel dog from Germany, about 14,000 years old, buried with a man and a woman; it had survived a serious illness as a puppy, suggesting it was cared for. Genetic studies show that dogs descend from a population of Ice Age wolves, now extinct, which split from the ancestors of modern wolves between about 40,000 and 20,000 years ago. Where and when domestication took place is still debated: proposals include Europe, Siberia, East Asia and the Near East, or more than one place. A 2022 study of ancient wolf genomes found that dogs carry ancestry from at least two wolf populations, an eastern and a western one.",
+   "alternatives": [
+    {
+     "label": "Very early dogs?",
+     "text": "Some researchers, such as Mietje Germonpré, have identified skulls up to about 36,000 years old (for example from Goyet Cave in Belgium) as early dogs; others think they are unusual wolves."
+    },
+    {
+     "label": "Who tamed whom?",
+     "text": "One view is that people captured wolf pups; another is that wolves domesticated themselves by scavenging around human camps, with the tamest thriving. Some suggest Ice Age hunters had surplus meat to share with wolves in winter."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Domestication of the dog",
+     "url": "https://en.wikipedia.org/wiki/Domestication_of_the_dog",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Bonn–Oberkassel dog",
+     "url": "https://en.wikipedia.org/wiki/Bonn%E2%80%93Oberkassel_dog",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Grey wolf genomic history reveals a dual ancestry of dogs",
+     "authors": "Bergström, A. et al.",
+     "year": 2022,
+     "doi": "10.1038/s41586-022-04824-9",
+     "type": "paper"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Dog_skeleton_oberkassel.jpg/500px-Dog_skeleton_oberkassel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Dog_skeleton_oberkassel.jpg",
+     "author": "Don Hitchcock",
+     "license": "CC BY-SA 4.0",
+     "title": "Dog_skeleton_oberkassel.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "science-cosmos"
+   ],
+   "threads": [
+    "genetic-migrations",
+    "ice-age-burials",
+    "origins-of-farming"
+   ]
+  },
+  {
+   "id": "xianren-cave",
+   "title": "Xianren Cave: the world's oldest pottery, made by Ice Age hunters",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -18000,
+   "end": null,
+   "dateNote": "c. 20,000–19,000 years before present",
+   "evidenceTypes": [
+    "archaeological",
+    "radiocarbon"
+   ],
+   "mainstream": "In Xianren (Xianrendong) Cave in Jiangxi province, southern China, archaeologists found fragments of pottery dated by radiocarbon to about 20,000–19,000 years ago, published in Science in 2012 as the oldest known pottery in the world. Many sherds have scorch marks, suggesting they were used for cooking, perhaps for extracting fat and marrow or for making alcoholic drinks. The pots were made by mobile hunter-gatherers during the last Ice Age, about 10,000 years before farming began in the region. Nearby layers of the cave and the Diaotonghuan rock shelter also show the use of wild rice and later early rice cultivation. The find overturned the old idea that pottery was invented by settled farmers.",
+   "alternatives": [
+    {
+     "label": "Why make pots in the Ice Age?",
+     "text": "Some researchers argue that cooking in pots helped people survive the cold, food-scarce Last Glacial Maximum by releasing more nutrition from food; others think the pots were used for feasting or brewing at special times."
+    },
+    {
+     "label": "East Asian pottery first",
+     "text": "Early pottery also appears in Japan (Jōmon) and the Russian Far East around 16,000 years ago, supporting the view that pottery began among East Asian foragers."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Xianren Cave",
+     "url": "https://en.wikipedia.org/wiki/Xianren_Cave",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Early Pottery at 20,000 Years Ago in Xianrendong Cave, China",
+     "authors": "Wu, X. et al.",
+     "year": 2012,
+     "doi": "10.1126/science.1218643",
+     "type": "paper"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Wannian_Xianrendong_yizhi_8816.jpg/500px-Wannian_Xianrendong_yizhi_8816.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Wannian_Xianrendong_yizhi_8816.jpg",
+     "author": "Zhangzhugang",
+     "license": "CC BY-SA 3.0",
+     "title": "Wannian_Xianrendong_yizhi_8816.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology"
+   ],
+   "threads": [
+    "changed-understanding",
+    "ancient-technology",
+    "origins-of-farming"
    ]
   }
  ]
