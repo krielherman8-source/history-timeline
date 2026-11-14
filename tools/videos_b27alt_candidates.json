@@ -1,0 +1,37 @@
+{
+ "urartu": [],
+ "oyo-empire": [],
+ "khazar-conversion": [],
+ "pendle-witches": [],
+ "valdivia-1960": [],
+ "moon-rabbit": [],
+ "xianren-cave": [],
+ "vardzia": [],
+ "basque-witch-trials": [],
+ "abu-hureyra": [],
+ "mylodon-cave": [
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=HPFM_VLlKV8",
+   "title": "Giant Ground Sloth - Museum of Life - BBC",
+   "channel": "BBC"
+  }
+ ],
+ "patagonian-giants": [],
+ "thunderstones": [],
+ "nart-sagas": [],
+ "ohalo-ii": [],
+ "shango": [],
+ "selknam-hain": [],
+ "gates-of-alexander": [],
+ "wurzburg-bamberg-witch-trials": [],
+ "torsaker-witch-trials": [
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=mTMtOsrdbwQ",
+   "title": "Legend of Blåkulla (Full Episode) | Witches: Truth Behind the Trials | Nat Geo",
+   "channel": "National Geographic"
+  }
+ ],
+ "vardo-witch-trials": []
+}

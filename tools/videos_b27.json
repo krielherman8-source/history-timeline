@@ -1,0 +1,50 @@
+{
+ "chinchorro-mummies": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=7rqyfvD4YYU",
+  "title": "The deadly toxin found in the world's oldest mummies - BBC REEL",
+  "channel": "BBC Global"
+ },
+ "cueva-de-las-manos": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=QVr-FWm-YKM",
+  "title": "Cueva de las Manos, Río Pinturas (Argentina) / TBS",
+  "channel": "UNESCO"
+ },
+ "jemmy-button": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=Ng2jQvFpEtc",
+  "title": "This British Captain Had a Strange Plan for his Native Hostages",
+  "channel": "Smithsonian Channel"
+ },
+ "osun-osogbo": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=I4m6Uuckfp4",
+  "title": "Ọṣun-Òṣogbo Sacred Grove, Nigeria | Africa’s Cultural Landmarks",
+  "channel": "The Met"
+ },
+ "guila-naquitz": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=i6teBcfKpik",
+  "title": "The history of the world according to corn - Chris A. Kniesly",
+  "channel": "TED-Ed"
+ },
+ "dog-domestication": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=nDt0HKSdRRw",
+  "title": "How Dogs (Eventually) Became Our Best Friends",
+  "channel": "PBS Eons"
+ },
+ "mylodon-cave": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=HPFM_VLlKV8",
+  "title": "Giant Ground Sloth - Museum of Life - BBC",
+  "channel": "BBC"
+ },
+ "torsaker-witch-trials": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=mTMtOsrdbwQ",
+  "title": "Legend of Blåkulla (Full Episode) | Witches: Truth Behind the Trials | Nat Geo",
+  "channel": "National Geographic"
+ }
+}
