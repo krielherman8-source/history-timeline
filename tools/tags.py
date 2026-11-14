@@ -2581,3 +2581,27 @@ addt('central-america','guila-naquitz')
 addt('ice-age-burials','dog-domestication')
 addt('genetic-migrations','dog-domestication')
 addt('ancient-technology','xianren-cave')
+
+# batch 27 part 4 — witch trials and their sceptics; Voronezh 1989 and Ilkley Moor 1987
+C.update({
+'basque-witch-trials':'history religion','north-berwick-witches':'history religion','pendle-witches':'history religion','wurzburg-bamberg-witch-trials':'history religion',
+'vardo-witch-trials':'history religion catastrophes','torsaker-witch-trials':'history religion','benandanti':'history religion myth-legend','voronezh-1989':'aliens-ufo anomalies history',
+'ilkley-moor-1987':'aliens-ufo anomalies'})
+addt('witch-hunts','basque-witch-trials north-berwick-witches pendle-witches wurzburg-bamberg-witch-trials vardo-witch-trials torsaker-witch-trials benandanti')
+addt('voices-of-doubt','basque-witch-trials wurzburg-bamberg-witch-trials torsaker-witch-trials')
+addt('storm-raisers','north-berwick-witches vardo-witch-trials')
+addt('children-as-witnesses','pendle-witches torsaker-witch-trials voronezh-1989 salem ruwa-ariel westall-ufo')
+addt('disasters-and-scapegoats','vardo-witch-trials north-berwick-witches wurzburg-bamberg-witch-trials')
+addt('suppressed-beliefs','vardo-witch-trials benandanti sami-drums')
+addt('knowledge-and-power','basque-witch-trials wurzburg-bamberg-witch-trials')
+addt('collective-experiences','torsaker-witch-trials voronezh-1989 basque-witch-trials')
+addt('seeing-what-we-expect','torsaker-witch-trials pendle-witches')
+addt('altered-states','benandanti')
+addt('otherworld-visits','benandanti torsaker-witch-trials')
+addt('royal-propaganda','north-berwick-witches')
+addt('ufo-encounters','voronezh-1989 ilkley-moor-1987')
+addt('close-encounters','voronezh-1989 ilkley-moor-1987')
+addt('alien-abductions','ilkley-moor-1987')
+addt('anomalous-photos','ilkley-moor-1987')
+addt('cold-war-secrets','voronezh-1989')
+addt('time-slips','ilkley-moor-1987')
