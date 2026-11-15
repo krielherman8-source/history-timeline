@@ -2930,7 +2930,8 @@
     "anomalies"
    ],
    "threads": [
-    "ufo-encounters"
+    "ufo-encounters",
+    "radar-cases"
    ]
   },
   {
@@ -7925,7 +7926,8 @@
     "anomalies"
    ],
    "threads": [
-    "ufo-encounters"
+    "ufo-encounters",
+    "radar-cases"
    ]
   },
   {
@@ -8286,7 +8288,8 @@
     "cosmic-impacts",
     "changed-understanding",
     "stories-proven-true",
-    "sky-stones"
+    "sky-stones",
+    "falls-from-the-sky"
    ]
   },
   {
@@ -17430,7 +17433,8 @@
    "threads": [
     "stories-proven-true",
     "disappearances",
-    "ciphers-and-codes"
+    "ciphers-and-codes",
+    "unsolved-crimes"
    ]
   },
   {
@@ -17839,7 +17843,8 @@
    ],
    "threads": [
     "collective-experiences",
-    "strange-sounds"
+    "strange-sounds",
+    "fortean-phenomena"
    ]
   },
   {
@@ -19285,7 +19290,8 @@
    "threads": [
     "hoaxes-exposed",
     "disappearances",
-    "sea-mysteries"
+    "sea-mysteries",
+    "bermuda-triangle-lore"
    ]
   },
   {
@@ -20089,7 +20095,8 @@
    "threads": [
     "hoaxes-exposed",
     "collective-experiences",
-    "monster-panics"
+    "monster-panics",
+    "media-hoaxes"
    ]
   },
   {
@@ -22342,7 +22349,9 @@
    "threads": [
     "sky-beings",
     "hoaxes-exposed",
-    "seeing-what-we-expect"
+    "seeing-what-we-expect",
+    "showmen-and-spectacle",
+    "media-hoaxes"
    ]
   },
   {
@@ -22631,7 +22640,8 @@
    "threads": [
     "hoaxes-exposed",
     "seeing-what-we-expect",
-    "fringe-theories"
+    "fringe-theories",
+    "science-gone-wrong"
    ]
   },
   {
@@ -22741,7 +22751,8 @@
    ],
    "threads": [
     "collective-experiences",
-    "seeing-what-we-expect"
+    "seeing-what-we-expect",
+    "fortean-phenomena"
    ]
   },
   {
@@ -31418,7 +31429,8 @@
    "threads": [
     "sky-omens",
     "seeing-what-we-expect",
-    "life-beyond-earth"
+    "life-beyond-earth",
+    "falls-from-the-sky"
    ]
   },
   {
@@ -33042,7 +33054,8 @@
     "collective-experiences",
     "mysterious-lights",
     "seeing-what-we-expect",
-    "official-ufo-investigations"
+    "official-ufo-investigations",
+    "radar-cases"
    ]
   },
   {
@@ -33099,7 +33112,8 @@
     "ufo-encounters",
     "mysterious-lights",
     "seeing-what-we-expect",
-    "caribbean-worlds"
+    "caribbean-worlds",
+    "radar-cases"
    ]
   },
   {
@@ -37596,7 +37610,8 @@
     "mysterious-lights",
     "seeing-what-we-expect",
     "cold-war-secrets",
-    "official-ufo-investigations"
+    "official-ufo-investigations",
+    "radar-cases"
    ]
   },
   {
@@ -55899,7 +55914,8 @@
    "threads": [
     "mysterious-lights",
     "seeing-what-we-expect",
-    "tested-by-experiment"
+    "tested-by-experiment",
+    "fortean-phenomena"
    ]
   },
   {
@@ -57772,7 +57788,8 @@
     "changed-understanding",
     "sky-omens",
     "rejected-pioneers",
-    "sky-stones"
+    "sky-stones",
+    "falls-from-the-sky"
    ]
   },
   {
@@ -62738,6 +62755,926 @@
     "anomalous-photos",
     "close-encounters",
     "alien-abductions"
+   ]
+  },
+  {
+   "id": "rain-of-animals",
+   "title": "Raining fish and frogs: animal rains from the Bible to Honduras",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 1625,
+   "end": null,
+   "dateNote": "Reports from antiquity to today; 1625 Tournai shown",
+   "evidenceTypes": [
+    "eyewitness accounts",
+    "textual",
+    "meteorological (hypothesis)"
+   ],
+   "mainstream": "Reports of small animals, usually fish or frogs, falling with rain go back to antiquity. The Bible describes a plague of frogs in Egypt and quail falling to feed the Israelites; the Greek writer Athenaeus mentions a three-day rain of fish near Chaeronea. A rain of frogs was reported at Tournai (Belgium) in 1625, French soldiers described toads falling during heavy rain near Lille in 1794, and in October 1987 residents of three Gloucestershire towns reported tiny pink frogs falling with rain. In Yoro, Honduras, people speak of a yearly 'lluvia de peces' (rain of fish) and hold a festival for it. Animal rains became a favourite subject of the American collector of anomalies Charles Fort in the early 20th century.",
+   "alternatives": [
+    {
+     "label": "Waterspouts and whirlwinds",
+     "text": "The most common scientific suggestion, made as early as André-Marie Ampère in the 19th century, is that waterspouts or strong winds lift animals from ponds or the sea and drop them miles away. This fits the fact that falls usually involve a single species of small animal, but the lifting itself has never been directly observed by scientists."
+    },
+    {
+     "label": "No fall at all",
+     "text": "Another explanation is that many animals were already on the ground (for example frogs emerging after rain, or fish stranded when floodwaters retreat) and were assumed to have fallen. Locals in Yoro say the fish appear after storms near streams."
+    },
+    {
+     "label": "Fortean view",
+     "text": "Charles Fort and later writers collected such cases as evidence that science ignores data that do not fit. Fort half-jokingly proposed a \"Super-Sargasso Sea\" in the sky. These ideas are not taken seriously by scientists, but the collections preserved many old reports."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Rain of animals",
+     "url": "https://en.wikipedia.org/wiki/Rain_of_animals",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Charles Fort",
+     "url": "https://en.wikipedia.org/wiki/Charles_Fort",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Rain_of_frogs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Rain_of_frogs.jpg",
+     "author": "Konrad Lykosthenes",
+     "license": "Public domain",
+     "title": "Rain of frogs.jpg"
+    }
+   ],
+   "categories": [
+    "anomalies",
+    "science-cosmos",
+    "myth-legend"
+   ],
+   "threads": [
+    "seeing-what-we-expect",
+    "falls-from-the-sky",
+    "fortean-phenomena"
+   ]
+  },
+  {
+   "id": "kentucky-meat-shower",
+   "title": "The Kentucky meat shower of 1876",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1876,
+   "end": null,
+   "evidenceTypes": [
+    "newspaper reports",
+    "laboratory analysis"
+   ],
+   "mainstream": "Between 11 a.m. and noon on 3 March 1876, flakes of what looked like fresh red meat fell from a clear sky over an area roughly 90 by 45 metres near Olympia Springs in Bath County, Kentucky. Mrs Crouch, who was making soap outside her house, saw it fall. Newspapers reported that two men tasted it and thought it was mutton or venison. Samples were sent to scientists: different analysts identified lung tissue, muscle and cartilage, and suggestions about its source included beef, lamb, deer, bear, horse and even human infant tissue. The exact type of meat was never settled.",
+   "alternatives": [
+    {
+     "label": "Vomiting vultures",
+     "text": "The most widely cited explanation, put forward by the Kentucky physician L. D. Kastenbine at the time, is that a flock of vultures threw up their meals in flight, as vultures sometimes do when startled or trying to take off quickly."
+    },
+    {
+     "label": "Nostoc",
+     "text": "One early analyst suggested the material was Nostoc, a cyanobacterium that swells into jelly-like masses after rain. Later tests that found animal tissue made this unlikely."
+    },
+    {
+     "label": "Unexplained",
+     "text": "For collectors of anomalies the case remains a classic \"fall from the sky\" because nobody saw birds overhead. Sceptics reply that a few high-flying birds could easily have been missed."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Kentucky meat shower",
+     "url": "https://en.wikipedia.org/wiki/Kentucky_meat_shower",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [],
+   "categories": [
+    "anomalies"
+   ],
+   "threads": [
+    "falls-from-the-sky",
+    "fortean-phenomena"
+   ]
+  },
+  {
+   "id": "spontaneous-human-combustion",
+   "title": "Spontaneous human combustion: bodies found burned in unburned rooms",
+   "lane": "history",
+   "status": "debunked",
+   "priority": 2,
+   "start": 1951,
+   "end": null,
+   "dateNote": "Reports from the 17th century on; 1951 Reeser case shown",
+   "evidenceTypes": [
+    "forensic",
+    "medical reports",
+    "literary"
+   ],
+   "mainstream": "Since the 17th century there have been reports of people found almost entirely burned to ash while the room around them, and sometimes their lower legs, were left largely untouched. The idea that a human body could burst into flame without an outside source became famous through fiction: Charles Dickens killed off the character Krook this way in Bleak House (1852-53) and defended the idea in his preface. A much-discussed modern case was Mary Reeser, found burned in St Petersburg, Florida in 1951. Investigators note common features in such cases: the victims were usually elderly, alone, often drinking or smoking, and near a heat source such as a fireplace, candle or cigarette.",
+   "alternatives": [
+    {
+     "label": "The wick effect (mainstream)",
+     "text": "Experiments, including tests with pig carcasses wrapped in cloth, show that a body can burn slowly for hours like an inside-out candle: clothing acts as a wick and melted body fat as fuel. The fire stays concentrated on the body, explaining why the surroundings may survive. Scientists conclude that cases involve an overlooked external ignition source."
+    },
+    {
+     "label": "Something unknown",
+     "text": "Believers have proposed unknown internal causes, such as ball lightning, static electricity, intestinal gases or exotic particles. None has been demonstrated."
+    },
+    {
+     "label": "A pattern of the era",
+     "text": "Historians point out that 18th- and 19th-century temperance writers used the idea as a warning: heavy drinkers, they claimed, could ignite. This moral framing shaped which cases were reported."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Spontaneous human combustion",
+     "url": "https://en.wikipedia.org/wiki/Spontaneous_human_combustion",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Wick effect",
+     "url": "https://en.wikipedia.org/wiki/Wick_effect",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [],
+   "categories": [
+    "anomalies",
+    "hoaxes"
+   ],
+   "threads": [
+    "seeing-what-we-expect",
+    "tested-by-experiment",
+    "fortean-phenomena",
+    "moral-panics-and-warnings"
+   ]
+  },
+  {
+   "id": "devils-sea",
+   "title": "The Devil's Sea or Dragon's Triangle: the Pacific's \"Bermuda Triangle\"",
+   "lane": "history",
+   "status": "debunked",
+   "priority": 2,
+   "start": 1952,
+   "end": null,
+   "evidenceTypes": [
+    "newspaper reports",
+    "official investigation"
+   ],
+   "mainstream": "Ma no Umi, 'devil sea' or 'dangerous sea', is a general Japanese term for treacherous waters. In January 1955 Japanese newspapers used it for the sea south of Tokyo around the Izu and Ogasawara islands after a ship, the Shinyo Maru No. 10, lost radio contact (it was found safe days later); the Yomiuri Shimbun mapped nine ships lost in five years. The New York Times reported it as 'The Devil's Sea' where ships had vanished 'in perfect weather'. The research ship Kaiyo Maru No. 5, sent in 1952 to study the erupting undersea volcano Myojin-sho, was lost with all aboard. In 1974 Charles Berlitz added the area to his book The Bermuda Triangle, and in 1989 he wrote The Dragon's Triangle about it.",
+   "alternatives": [
+    {
+     "label": "Sceptical investigation",
+     "text": "The librarian Larry Kusche contacted Japanese authorities in the 1970s and found no one who knew of a special danger zone beyond a small area around Myojin-sho. The Kaiyo Maru No. 5 was destroyed by the volcano's eruption; most of the other lost vessels were small fishing boats with poor radios, the weather was not perfect, and some lay far outside the area."
+    },
+    {
+     "label": "Paranormal zone",
+     "text": "Berlitz and others linked the area with the Bermuda Triangle as one of several \"vile vortices\" on Earth, suggesting magnetic anomalies or unknown forces. There is no evidence that ships are lost there at a higher rate than in other busy, stormy, volcanically active seas."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Devil's Sea",
+     "url": "https://en.wikipedia.org/wiki/Devil's_Sea",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Bermuda Triangle",
+     "url": "https://en.wikipedia.org/wiki/Bermuda_Triangle",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Map_of_Izu_Islands.png/500px-Map_of_Izu_Islands.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Map_of_Izu_Islands.png",
+     "author": "Artanisen",
+     "license": "Public domain",
+     "title": "Map_of_Izu_Islands.png"
+    }
+   ],
+   "categories": [
+    "anomalies",
+    "hoaxes"
+   ],
+   "threads": [
+    "disappearances",
+    "sea-mysteries",
+    "bermuda-triangle-lore"
+   ]
+  },
+  {
+   "id": "carroll-deering",
+   "title": "The Carroll A. Deering: a schooner found with sails set and no crew",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1921,
+   "end": null,
+   "evidenceTypes": [
+    "official investigation",
+    "newspaper reports"
+   ],
+   "mainstream": "On 31 January 1921 the five-masted schooner Carroll A. Deering was found hard aground with all sails set on Diamond Shoals off Cape Hatteras, North Carolina. When she was finally boarded on 4 February, her crew of eleven, their belongings, the log, navigation equipment and both lifeboats were gone; food appeared to have been prepared for the next day's meal and the steering gear was damaged. Days earlier, a lightship keeper at Cape Lookout had been hailed by a red-haired man with a foreign accent who said the ship had lost her anchors. Five US government departments investigated. A message in a bottle claiming the ship had been captured turned out to be a forgery by a local fisherman. The inquiry closed in 1922 without an official finding; the wreck was dynamited as a hazard.",
+   "alternatives": [
+    {
+     "label": "Mutiny",
+     "text": "The first mate had been heard threatening the elderly captain in Barbados, and mutiny became the explanation favoured by investigators, though it was never proven."
+    },
+    {
+     "label": "Pirates or rum-runners",
+     "text": "Prohibition-era smugglers, or pirates (some suggested Bolshevik sympathisers), were blamed in the press. A mysterious steamer seen near the ship that ignored signals fuelled this idea."
+    },
+    {
+     "label": "Bermuda Triangle",
+     "text": "Later paranormal writers added the Deering to Bermuda Triangle lists, although Cape Hatteras lies well outside the usual triangle and the ship was lost on notoriously dangerous shoals."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Carroll A. Deering",
+     "url": "https://en.wikipedia.org/wiki/Carroll_A._Deering",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Deering2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Deering2.jpg",
+     "author": "Unknown",
+     "license": "Public domain",
+     "title": "Deering2.jpg"
+    }
+   ],
+   "categories": [
+    "anomalies",
+    "history"
+   ],
+   "threads": [
+    "disappearances",
+    "sea-mysteries",
+    "ghost-ships",
+    "bermuda-triangle-lore"
+   ]
+  },
+  {
+   "id": "baychimo",
+   "title": "SS Baychimo: the ghost ship that drifted in Arctic ice for 38 years",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1931,
+   "end": 1969,
+   "evidenceTypes": [
+    "eyewitness reports",
+    "official documents"
+   ],
+   "mainstream": "The Baychimo was a steel cargo steamer built in Sweden in 1914 and owned by the Hudson's Bay Company, which used her to trade supplies for furs with Inuit settlements in the Canadian Arctic. In October 1931 she became trapped in pack ice off Alaska near Barrow. Most of the crew were flown out, while some stayed in a shelter nearby to wait for spring. After a blizzard in November the ship vanished; the company assumed she had sunk and abandoned her. But the Baychimo was sighted drifting along the Alaskan coast many times afterwards, boarded by Inuit hunters and others more than once, and last reported in 1969, still frozen in ice. Searches have never found her.",
+   "alternatives": [
+    {
+     "label": "Why she survived",
+     "text": "Sturdy construction and the slow drift of sea ice explain how an unmanned steel ship could stay afloat for decades; ships frozen in ice can travel great distances without sinking."
+    },
+    {
+     "label": "A true ghost-ship story",
+     "text": "Unlike legendary ghost ships such as the Flying Dutchman, the Baychimo is documented. She is often listed alongside mysteries such as the Mary Celeste, but there is no mystery about why she was abandoned, only about where she ended up."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: SS Baychimo",
+     "url": "https://en.wikipedia.org/wiki/SS_Baychimo",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Baychimo.jpg/500px-Baychimo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Baychimo.jpg",
+     "author": "Aldus Books London",
+     "license": "Public domain",
+     "title": "Baychimo.jpg"
+    }
+   ],
+   "categories": [
+    "anomalies",
+    "history"
+   ],
+   "threads": [
+    "sea-mysteries",
+    "polar-mysteries",
+    "arctic-peoples",
+    "ghost-ships"
+   ]
+  },
+  {
+   "id": "victor-of-aveyron",
+   "title": "Victor of Aveyron: the wild boy of the woods",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1800,
+   "end": null,
+   "dateNote": "Emerged from the woods January 1800; died 1828",
+   "evidenceTypes": [
+    "medical reports",
+    "textual"
+   ],
+   "mainstream": "In January 1800 a naked boy, thought to be roughly nine to twelve years old, who had apparently lived alone in the woods of southern France for years, came out of the forest near Saint-Sernin-sur-Rance in the Aveyron. He did not speak, and he had escaped from people several times before. In Paris the young doctor Jean Marc Gaspard Itard took charge of him, named him Victor and spent five years trying to teach him language and social behaviour, publishing detailed reports. Victor learned to recognise some words and showed affection, but never learned to speak more than a few sounds. He died in Paris in 1828. Itard's methods influenced Maria Montessori and the education of children with learning disabilities, and the story inspired François Truffaut's film L'Enfant sauvage (1970).",
+   "alternatives": [
+    {
+     "label": "A test of human nature",
+     "text": "Enlightenment thinkers hoped such a child would show what humans are like without society. Itard concluded that much of what makes us human is learned, and that there may be a critical period for learning language."
+    },
+    {
+     "label": "Disability, not just isolation",
+     "text": "Many modern scholars suggest Victor may have been autistic or had another developmental condition, and may have been abandoned because of it, so his difficulties cannot be blamed on isolation alone. This is debated and cannot be proven."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Victor of Aveyron",
+     "url": "https://en.wikipedia.org/wiki/Victor_of_Aveyron",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Feral child",
+     "url": "https://en.wikipedia.org/wiki/Feral_child",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Victor%2C_the_salvage_of_Aveyron%2C_end_XVIIIe.jpg/500px-Victor%2C_the_salvage_of_Aveyron%2C_end_XVIIIe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Victor,_the_salvage_of_Aveyron,_end_XVIIIe.jpg",
+     "author": "AnonymousUnknown author",
+     "license": "Public domain",
+     "title": "Victor,_the_salvage_of_Aveyron,_end_XVIIIe.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "science-cosmos"
+   ],
+   "threads": [
+    "tested-by-experiment",
+    "raised-in-isolation"
+   ]
+  },
+  {
+   "id": "hinterkaifeck",
+   "title": "The Hinterkaifeck murders: Germany's most puzzling unsolved crime",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1922,
+   "end": null,
+   "evidenceTypes": [
+    "police records",
+    "newspaper reports"
+   ],
+   "mainstream": "On the evening of 31 March 1922 six people were killed with a mattock on the remote Hinterkaifeck farm about 70 km north of Munich: the farmer Andreas Gruber, his wife, their widowed daughter Viktoria Gabriel, her two young children and the maid, who had arrived that day. Afterwards the killer apparently stayed at the farm for several days, eating food, feeding the animals and lighting the fire. Before the murders Gruber had reported footprints in the snow leading from the forest to the farm but not back, strange noises in the attic and a missing house key, and a previous maid had left saying the house was haunted. Despite repeated investigations over decades, and a re-examination by police academy students in 2007, the case remains unsolved.",
+   "alternatives": [
+    {
+     "label": "Suspects",
+     "text": "Suspicion fell over the years on a neighbour, Lorenz Schlittenbauer, who may have fathered Viktoria's son; on Viktoria's husband Karl Gabriel, officially killed in the First World War but rumoured to have survived; and on several local men. None was charged."
+    },
+    {
+     "label": "The uncanny details",
+     "text": "The footprints, the noises in the attic and the killer living with the dead have made the case a favourite of true-crime and ghost-story writers. Investigators see them as signs that the murderer had been hiding on the farm before the attack, not as anything supernatural."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Hinterkaifeck murders",
+     "url": "https://en.wikipedia.org/wiki/Hinterkaifeck_murders",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Hinterkaifeck-Hof_%28cropped%29.jpg/500px-Hinterkaifeck-Hof_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Hinterkaifeck-Hof_(cropped).jpg",
+     "author": "Andreas Biegleder. According to a letter from the City Archive of Munich from October 2, 2013, number 3053/3231.0, Andre",
+     "license": "Public domain",
+     "title": "Hinterkaifeck-Hof_(cropped).jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "anomalies"
+   ],
+   "threads": [
+    "curses-and-hauntings",
+    "unsolved-crimes"
+   ]
+  },
+  {
+   "id": "fiji-mermaid",
+   "title": "The Fiji mermaid: P. T. Barnum's monkey-and-fish sideshow wonder",
+   "lane": "history",
+   "status": "debunked",
+   "priority": 2,
+   "start": 1842,
+   "end": null,
+   "evidenceTypes": [
+    "museum objects",
+    "newspaper reports"
+   ],
+   "mainstream": "In 1842 the showman P. T. Barnum exhibited in New York a small, shrivelled 'mermaid' supposedly caught near the Fiji Islands. It was in fact the upper body of a young monkey sewn to the rear half of a fish, a type of object made in East Asia, probably Japan, where craftsmen produced dried 'mermaids' for shrines and for sale. Barnum leased it from the Boston museum owner Moses Kimball and built excitement with planted newspaper stories and a fake British naturalist. The original probably burned in one of the fires at Barnum's museums, but many similar 'Feejee mermaids' survive, including one at Harvard's Peabody Museum.",
+   "alternatives": [
+    {
+     "label": "Hoax and showmanship",
+     "text": "Historians see it as a landmark in commercial hoaxing: Barnum made money both from believers and from people who paid to see how they were being fooled."
+    },
+    {
+     "label": "A link to Japanese mermaid lore",
+     "text": "Similar composite mermaid mummies are kept as relics in some Japanese temples, connected with ningyo legends. A 2022-23 study of one such temple mermaid in Okayama found it was made mostly of cloth, paper and cotton with fish skin and scales, showing the craft tradition behind the Barnum object."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Fiji mermaid",
+     "url": "https://en.wikipedia.org/wiki/Fiji_mermaid",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: P. T. Barnum",
+     "url": "https://en.wikipedia.org/wiki/P._T._Barnum",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Ningyo",
+     "url": "https://en.wikipedia.org/wiki/Ningyo",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Feejee_Mermaid%2C_shown_in_P.T._Barnum%27s_American_Museum%2C_1842%2C_as_leased_from_Moses_Kimball_of_the_Boston_Museum%2C_papier-mache_-_Peabody_Museum%2C_Harvard_University_-_DSC06154.jpg/500px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Feejee_Mermaid,_shown_in_P.T._Barnum%27s_American_Museum,_1842,_as_leased_from_Moses_Kimball_of_the_Boston_Museum,_papier-mache_-_Peabody_Museum,_Harvard_University_-_DSC06154.jpg",
+     "author": "Daderot",
+     "license": "Public domain",
+     "title": "Feejee_Mermaid,_shown_in_P.T._Barnum's_American_Museum,_1842,_as_leased_from_Moses_Kimball_of_the_Boston_Museum,_papier-mache_-_Peabody_Museum,_Harvard_University_-_DSC06154.jpg"
+    }
+   ],
+   "categories": [
+    "hoaxes",
+    "myth-legend"
+   ],
+   "threads": [
+    "hoaxes-exposed",
+    "water-spirits",
+    "showmen-and-spectacle"
+   ]
+  },
+  {
+   "id": "exeter-1965",
+   "title": "The Exeter incident: police officers and a teenager see red lights over a New Hampshire field",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 1965,
+   "end": null,
+   "evidenceTypes": [
+    "eyewitness reports",
+    "police report",
+    "official investigation"
+   ],
+   "mainstream": "At about 2 a.m. on 3 September 1965, 18-year-old Norman Muscarello, hitchhiking home near Kensington, New Hampshire, saw a large object with five bright, flashing red lights hovering over a field. He reported it at the Exeter police station; officer Eugene Bertrand, who had earlier met a frightened woman claiming a similar object had followed her car, returned with him to the field, where both, and soon officer David Hunt, saw the lights rise from behind trees as horses and dogs panicked. An Air Force officer sent from nearby Pease Air Force Base reported to Project Blue Book that he could find no probable cause and that the witnesses, especially the two patrolmen, seemed stable and reliable. The writer John G. Fuller's book Incident at Exeter (1966) made the case nationally famous.",
+   "alternatives": [
+    {
+     "label": "Air-refuelling tanker",
+     "text": "In 2011 the sceptic Joe Nickell and retired USAF pilot James McGaha proposed in Skeptical Inquirer that the witnesses saw a KC-97 tanker from nearby Pease Air Force Base, whose five underbelly lights flashed in the same sequence before air-to-air refuelling."
+    },
+    {
+     "label": "Unexplained craft",
+     "text": "Many ufologists consider it one of the best-witnessed close sightings, because the witnesses were police officers who described a silent object at low altitude. The case is still celebrated at Exeter's UFO festival."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Exeter incident",
+     "url": "https://en.wikipedia.org/wiki/Exeter_incident",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Incident_at_Exeter_map.png/500px-Incident_at_Exeter_map.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Incident_at_Exeter_map.png",
+     "author": "United States Air Force",
+     "license": "Public domain",
+     "title": "Incident at Exeter map.png"
+    }
+   ],
+   "categories": [
+    "aliens-ufo",
+    "anomalies"
+   ],
+   "threads": [
+    "ufo-encounters",
+    "official-ufo-investigations"
+   ]
+  },
+  {
+   "id": "gulf-breeze-1987",
+   "title": "Gulf Breeze 1987: the UFO photos and the model in the attic",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 1987,
+   "end": 1988,
+   "evidenceTypes": [
+    "photographs",
+    "newspaper reports"
+   ],
+   "mainstream": "In November 1987 Ed Walters, a building contractor in Gulf Breeze, Florida, gave the local Gulf Breeze Sentinel photographs of a glowing, structured UFO and later described repeated encounters and abduction experiences. Other residents came forward with sightings, and the town became a magnet for UFO watchers. Some ufologists, including the physicist Bruce Maccabee, analysed the photos and judged them genuine. In 1990, after the Walters family had moved, the new owners of their house found a small styrofoam model UFO hidden in the attic; a reporter, Craig Myers, used it to recreate the photographs closely.",
+   "alternatives": [
+    {
+     "label": "Hoax",
+     "text": "Sceptics and many journalists regard the model as strong evidence that the photos were faked; a young man also claimed to have helped Walters stage pictures."
+    },
+    {
+     "label": "Planted evidence",
+     "text": "Walters denied any hoax and said the model had been planted to discredit him. Some supporters point out that other people in the area reported sightings, which they say cannot all be explained by one model."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Gulf Breeze UFO incident",
+     "url": "https://en.wikipedia.org/wiki/Gulf_Breeze_UFO_incident",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Gulf_Breeze_UFO_model.jpg/500px-Gulf_Breeze_UFO_model.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Gulf_Breeze_UFO_model.jpg",
+     "author": "Tbrighamphd",
+     "license": "CC0",
+     "title": "Gulf_Breeze_UFO_model.jpg"
+    }
+   ],
+   "categories": [
+    "aliens-ufo",
+    "hoaxes"
+   ],
+   "threads": [
+    "ufo-encounters",
+    "hoaxes-exposed",
+    "anomalous-photos"
+   ]
+  },
+  {
+   "id": "leonids-1833",
+   "title": "The night the stars fell: the Leonid meteor storm of 1833",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1833,
+   "end": null,
+   "evidenceTypes": [
+    "eyewitness accounts",
+    "newspaper reports",
+    "astronomical"
+   ],
+   "mainstream": "On the night of 12-13 November 1833, people across North America east of the Rocky Mountains saw a storm of shooting stars, estimated at tens of thousands or more per hour. Many thought the world was ending. The event was recorded in Lakota winter counts, whose calendars were reset by it, and Native American birthdays were reckoned from it; Frederick Douglass and Harriet Tubman were among those who remembered it, and the Mormon leader Joseph Smith saw it as a literal fulfilment of prophecy. The Yale scientist Denison Olmsted collected reports and showed that the meteors radiated from one point in the constellation Leo, helping prove that meteors come from space rather than the atmosphere. The Leonids are now known to come from debris left by comet Tempel-Tuttle, with great storms roughly every 33 years.",
+   "alternatives": [
+    {
+     "label": "A sign from heaven",
+     "text": "Preachers across the United States took the falling stars as a sign of the Last Days (Revelation 6:13: \"the stars of heaven fell unto the earth\"). The memory of 1833 fed later millennialist movements, and the \"night the stars fell\" entered African American and frontier folklore."
+    },
+    {
+     "label": "Science born from a spectacle",
+     "text": "Historians of astronomy see 1833 as the birth of meteor science: the realisation that showers repeat and come from a fixed direction led to the link with comets later in the century."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Leonids",
+     "url": "https://en.wikipedia.org/wiki/Leonids",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Denison Olmsted",
+     "url": "https://en.wikipedia.org/wiki/Denison_Olmsted",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Winter count",
+     "url": "https://en.wikipedia.org/wiki/Winter_count",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Leonid_Meteor.jpg/500px-Leonid_Meteor.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Leonid_Meteor.jpg",
+     "author": "Navicore",
+     "license": "CC BY 3.0",
+     "title": "Leonid_Meteor.jpg"
+    }
+   ],
+   "categories": [
+    "science-cosmos",
+    "religion",
+    "history"
+   ],
+   "threads": [
+    "changed-understanding",
+    "sky-omens",
+    "millenarian-movements",
+    "prophecies"
+   ]
+  },
+  {
+   "id": "shoemaker-levy-9",
+   "title": "Comet Shoemaker-Levy 9 hits Jupiter (1994)",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1994,
+   "end": 1994,
+   "evidenceTypes": [
+    "astronomical observation",
+    "spacecraft imagery"
+   ],
+   "mainstream": "Comet Shoemaker-Levy 9 was discovered in March 1993 by Carolyn and Eugene Shoemaker and David Levy at Palomar Observatory. It had been captured by Jupiter's gravity decades earlier and, after passing too close in July 1992, had been torn into a string of fragments up to about 2 km across. Between 16 and 22 July 1994 more than twenty fragments struck Jupiter's southern hemisphere at about 60 km per second, leaving dark scars larger than Earth that were more visible than the Great Red Spot for months. It was the first collision between two Solar System bodies ever observed directly, watched by the Hubble Space Telescope, the Galileo spacecraft and observatories worldwide.",
+   "alternatives": [
+    {
+     "label": "A wake-up call",
+     "text": "The impacts made the danger of cosmic collisions vivid to the public and to politicians. In the years after, NASA's programme to find near-Earth objects was expanded, and the idea of Jupiter as a \"shield\" that sweeps up comets was widely discussed (some later studies question how protective Jupiter really is)."
+    },
+    {
+     "label": "Impacts in human history",
+     "text": "The event gave new credibility to researchers who argued that impacts had shaped Earth's past, from the dinosaur-killing Chicxulub impact to more speculative proposals of recent impacts behind myths and catastrophes."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Comet Shoemaker–Levy 9",
+     "url": "https://en.wikipedia.org/wiki/Comet_Shoemaker%E2%80%93Levy_9",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Comet_Shoemaker-Levy_9_Impact_Site_on_Jupiter.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Comet_Shoemaker-Levy_9_Impact_Site_on_Jupiter.jpg",
+     "author": "NASA Hubble",
+     "license": "CC BY 2.0",
+     "title": "Comet Shoemaker-Levy 9 Impact Site on Jupiter.jpg"
+    }
+   ],
+   "categories": [
+    "science-cosmos",
+    "catastrophes"
+   ],
+   "threads": [
+    "cosmic-impacts",
+    "changed-understanding"
+   ]
+  },
+  {
+   "id": "keplers-supernova",
+   "title": "Kepler's star: the last supernova seen in our galaxy (1604)",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1604,
+   "end": null,
+   "evidenceTypes": [
+    "astronomical records",
+    "textual"
+   ],
+   "mainstream": "In October 1604 a new star appeared in the constellation Ophiuchus, brighter than any other star in the night sky and visible in daylight for weeks. It was observed in Europe, China and Korea. Johannes Kepler studied it closely and published De Stella Nova (On the New Star) in 1606. It appeared close to a conjunction of Jupiter and Saturn, which Kepler connected with astrological ideas and with speculation about the Star of Bethlehem. Coming only 32 years after Tycho Brahe's new star of 1572, it helped overturn the old belief that the heavens beyond the Moon never change. Today it is classified as a Type Ia supernova, an exploding white dwarf, and it remains the most recent supernova in the Milky Way seen with the naked eye.",
+   "alternatives": [
+    {
+     "label": "Omens and prophecy",
+     "text": "Many writers at the time treated the new star as an omen of great political or religious change, and Kepler himself discussed its astrological meaning alongside its physics."
+    },
+    {
+     "label": "Star of Bethlehem theories",
+     "text": "Kepler suggested that the Star of Bethlehem might have been a similar new star appearing during a conjunction of planets. Modern astronomers have proposed conjunctions, comets and novae for the biblical star; others see it as a theological symbol, not an astronomical event."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Kepler's Supernova",
+     "url": "https://en.wikipedia.org/wiki/Kepler's_Supernova",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Star of Bethlehem",
+     "url": "https://en.wikipedia.org/wiki/Star_of_Bethlehem",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Keplers_supernova.jpg/500px-Keplers_supernova.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Keplers_supernova.jpg",
+     "author": "NASA/ESA/JHU/R.Sankrit & W.Blair",
+     "license": "Public domain",
+     "title": "Keplers_supernova.jpg"
+    }
+   ],
+   "categories": [
+    "science-cosmos",
+    "history",
+    "religion"
+   ],
+   "threads": [
+    "changed-understanding",
+    "sky-omens",
+    "scientific-revolution"
+   ]
+  },
+  {
+   "id": "spaghetti-tree",
+   "title": "The spaghetti-tree hoax: the BBC fools Britain (1957)",
+   "lane": "history",
+   "status": "debunked",
+   "priority": 2,
+   "start": 1957,
+   "end": null,
+   "evidenceTypes": [
+    "film",
+    "audience research"
+   ],
+   "mainstream": "On 1 April 1957 the BBC's respected current affairs programme Panorama broadcast a three-minute report, narrated by the trusted broadcaster Richard Dimbleby, showing a Swiss family harvesting spaghetti from trees after a mild winter and the 'virtual disappearance of the spaghetti weevil'. At the time spaghetti was an unusual food in Britain, and many viewers did not know it was made from flour and water. Hundreds phoned the BBC; some asked how to grow their own spaghetti trees and were told to 'place a sprig of spaghetti in a tin of tomato sauce and hope for the best'. CNN later called it the biggest hoax any reputable news organisation ever pulled.",
+   "alternatives": [
+    {
+     "label": "Why it worked",
+     "text": "Media historians point to the trusted presenter, the documentary style and viewers' unfamiliarity with the subject: an example of how authority and format can make almost anything believable."
+    },
+    {
+     "label": "Harmless fun or warning",
+     "text": "Some saw it as a joke in poor taste for a serious news programme; it is now widely celebrated as one of the greatest April Fools' pranks and used to teach media literacy."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Spaghetti-tree hoax",
+     "url": "https://en.wikipedia.org/wiki/Spaghetti-tree_hoax",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: April Fools' Day",
+     "url": "https://en.wikipedia.org/wiki/April_Fools'_Day",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Sunny_april_morning_spaghetti_tree_harvest_%287036208493%29.jpg/500px-Sunny_april_morning_spaghetti_tree_harvest_%287036208493%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Sunny_april_morning_spaghetti_tree_harvest_(7036208493).jpg",
+     "author": "Robert Couse-Baker from Sacramento, California",
+     "license": "CC BY 2.0",
+     "title": "Sunny_april_morning_spaghetti_tree_harvest_(7036208493).jpg"
+    }
+   ],
+   "categories": [
+    "hoaxes",
+    "history"
+   ],
+   "threads": [
+    "hoaxes-exposed",
+    "showmen-and-spectacle",
+    "media-hoaxes"
+   ]
+  },
+  {
+   "id": "cold-fusion-1989",
+   "title": "Cold fusion (1989): energy from a jar of heavy water?",
+   "lane": "history",
+   "status": "debunked",
+   "priority": 2,
+   "start": 1989,
+   "end": null,
+   "evidenceTypes": [
+    "experimental",
+    "peer-reviewed"
+   ],
+   "mainstream": "On 23 March 1989 the electrochemists Martin Fleischmann and Stanley Pons announced at a press conference at the University of Utah that a simple tabletop cell, passing electric current through heavy water with a palladium electrode, produced more heat than could be explained by chemistry, and traces of neutrons and tritium. They suggested nuclear fusion was happening at room temperature, raising hopes of cheap, limitless energy. Laboratories around the world rushed to repeat the experiment. A few early positive results were withdrawn, most attempts failed, and flaws were found in the original measurements. By the end of 1989 most scientists considered the claim dead; reviews by the US Department of Energy in 1989 and 2004 found no convincing evidence.",
+   "alternatives": [
+    {
+     "label": "Pathological science",
+     "text": "Most physicists regard cold fusion as a case study in how announcing results before peer review, combined with wishful thinking and measurement errors, can lead science astray."
+    },
+    {
+     "label": "Ongoing research",
+     "text": "A small community continues to investigate \"low-energy nuclear reactions\" (LENR), reporting anomalous heat. A large Google-funded project published in 2019 found no evidence of cold fusion but improved materials science; supporters say the question is not completely closed."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Cold fusion",
+     "url": "https://en.wikipedia.org/wiki/Cold_fusion",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Electrochemically induced nuclear fusion of deuterium",
+     "authors": "Fleischmann, M. et al.",
+     "year": 1989,
+     "doi": "10.1016/0022-0728(89)80006-3",
+     "type": "paper"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Cold-fusion-calorimeter-nhe-diagram.png/500px-Cold-fusion-calorimeter-nhe-diagram.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Cold-fusion-calorimeter-nhe-diagram.png",
+     "author": "Unknown",
+     "license": "Public domain",
+     "title": "Cold-fusion-calorimeter-nhe-diagram.png"
+    }
+   ],
+   "categories": [
+    "science-cosmos",
+    "hoaxes"
+   ],
+   "threads": [
+    "rejected-pioneers",
+    "tested-by-experiment",
+    "science-gone-wrong"
+   ]
+  },
+  {
+   "id": "lakenheath-1956",
+   "title": "Lakenheath-Bentwaters 1956: radar and visual UFO contacts over English airbases",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 1956,
+   "end": null,
+   "evidenceTypes": [
+    "radar",
+    "eyewitness reports",
+    "military records"
+   ],
+   "mainstream": "On the night of 13-14 August 1956, radar operators at the US-run air bases RAF Bentwaters and RAF Lakenheath in eastern England tracked unidentified targets, some apparently moving at thousands of miles per hour, while ground personnel and the pilot of a C-47 reported fast-moving lights. According to the Lakenheath radar watch supervisor, Forrest Perkins, writing to investigators in 1968, two RAF de Havilland Venom interceptors were scrambled; the first pilot made contact, but the target then manoeuvred behind him and followed him for about ten minutes despite evasive action. The night was clear, with many Perseid meteors. The case was recorded in Project Blue Book and later examined by the Condon Committee, which, though dismissive of UFOs in general, wrote that in this case 'the probability that at least one genuine UFO was involved appears to be fairly high'.",
+   "alternatives": [
+    {
+     "label": "Radar and astronomy",
+     "text": "Sceptics, including later analyses of the Blue Book file, argue that the targets were false returns caused by unusual atmospheric conditions (anomalous propagation), combined with misidentified stars, Mars and meteors, and confusion between several separate events."
+    },
+    {
+     "label": "A genuine unknown",
+     "text": "Ufologists such as the atmospheric physicist James E. McDonald regarded it as one of the strongest cases ever recorded because radar and visual sightings by trained military personnel seemed to match."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Lakenheath-Bentwaters incident",
+     "url": "https://en.wikipedia.org/wiki/Lakenheath-Bentwaters_incident",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Condon Committee",
+     "url": "https://en.wikipedia.org/wiki/Condon_Committee",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Lakenheath_Military_airfield_-_geograph.org.uk_-_53241.jpg/500px-Lakenheath_Military_airfield_-_geograph.org.uk_-_53241.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Lakenheath_Military_airfield_-_geograph.org.uk_-_53241.jpg",
+     "author": "Bev Dickinson",
+     "license": "CC BY-SA 2.0",
+     "title": "Lakenheath Military airfield - geograph.org.uk - 53241.jpg"
+    }
+   ],
+   "categories": [
+    "aliens-ufo",
+    "anomalies",
+    "history"
+   ],
+   "threads": [
+    "ufo-encounters",
+    "official-ufo-investigations",
+    "radar-cases"
    ]
   }
  ]

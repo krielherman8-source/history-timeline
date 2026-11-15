@@ -2605,3 +2605,48 @@ addt('alien-abductions','ilkley-moor-1987')
 addt('anomalous-photos','ilkley-moor-1987')
 addt('cold-war-secrets','voronezh-1989')
 addt('time-slips','ilkley-moor-1987')
+
+# batch 28 part 1 — falls from the sky, ghost ships, a feral child, an unsolved murder and a sideshow mermaid
+C.update({
+'rain-of-animals':'anomalies science-cosmos myth-legend','kentucky-meat-shower':'anomalies','spontaneous-human-combustion':'anomalies hoaxes',
+'devils-sea':'anomalies hoaxes','carroll-deering':'anomalies history','baychimo':'anomalies history','victor-of-aveyron':'history science-cosmos',
+'hinterkaifeck':'history anomalies','fiji-mermaid':'hoaxes myth-legend'})
+addt('falls-from-the-sky','rain-of-animals kentucky-meat-shower kerala-red-rain ensisheim-meteorite laigle-meteorites')
+addt('fortean-phenomena','rain-of-animals kentucky-meat-shower spontaneous-human-combustion devils-footprints ball-lightning the-hum')
+addt('ghost-ships','carroll-deering baychimo')
+addt('sea-mysteries','devils-sea carroll-deering baychimo')
+addt('disappearances','carroll-deering devils-sea')
+addt('bermuda-triangle-lore','devils-sea carroll-deering bermuda-triangle')
+addt('raised-in-isolation','victor-of-aveyron')
+addt('tested-by-experiment','victor-of-aveyron spontaneous-human-combustion')
+addt('curses-and-hauntings','hinterkaifeck')
+addt('unsolved-crimes','hinterkaifeck tamam-shud')
+addt('hoaxes-exposed','fiji-mermaid')
+addt('water-spirits','fiji-mermaid')
+addt('arctic-peoples','baychimo')
+addt('polar-mysteries','baychimo')
+addt('seeing-what-we-expect','spontaneous-human-combustion rain-of-animals')
+addt('moral-panics-and-warnings','spontaneous-human-combustion')
+addt('showmen-and-spectacle','fiji-mermaid')
+
+# batch 28 part 2 — UFO cases and sky events that changed minds
+C.update({
+'lakenheath-1956':'aliens-ufo anomalies history','exeter-1965':'aliens-ufo anomalies','gulf-breeze-1987':'aliens-ufo hoaxes',
+'leonids-1833':'science-cosmos religion history','shoemaker-levy-9':'science-cosmos catastrophes','keplers-supernova':'science-cosmos history religion',
+'spaghetti-tree':'hoaxes history','cold-fusion-1989':'science-cosmos hoaxes'})
+addt('ufo-encounters','lakenheath-1956 exeter-1965 gulf-breeze-1987')
+addt('official-ufo-investigations','lakenheath-1956 exeter-1965')
+addt('radar-cases','lakenheath-1956 washington-1952 tehran-1976 jal-1628 belgian-ufo-wave nimitz-tic-tac')
+addt('anomalous-photos','gulf-breeze-1987')
+addt('hoaxes-exposed','gulf-breeze-1987 spaghetti-tree')
+addt('sky-omens','leonids-1833 keplers-supernova')
+addt('prophecies','leonids-1833')
+addt('millenarian-movements','leonids-1833')
+addt('cosmic-impacts','shoemaker-levy-9')
+addt('scientific-revolution','keplers-supernova')
+addt('changed-understanding','leonids-1833 keplers-supernova shoemaker-levy-9')
+addt('media-hoaxes','spaghetti-tree great-moon-hoax war-of-the-worlds-1938')
+addt('showmen-and-spectacle','spaghetti-tree great-moon-hoax')
+addt('tested-by-experiment','cold-fusion-1989')
+addt('rejected-pioneers','cold-fusion-1989')
+addt('science-gone-wrong','cold-fusion-1989 n-rays')
