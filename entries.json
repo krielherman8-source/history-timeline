@@ -1045,7 +1045,8 @@
     "archaeology"
    ],
    "threads": [
-    "mesopotamia-and-anatolia"
+    "mesopotamia-and-anatolia",
+    "first-cities"
    ]
   },
   {
@@ -1448,7 +1449,8 @@
    ],
    "threads": [
     "abandoned-babies",
-    "levant-crossroads"
+    "levant-crossroads",
+    "bible-and-archaeology"
    ]
   },
   {
@@ -4582,7 +4584,9 @@
     "history",
     "archaeology"
    ],
-   "threads": []
+   "threads": [
+    "repatriation-debates"
+   ]
   },
   {
    "id": "blombos",
@@ -5428,7 +5432,8 @@
     "history"
    ],
    "threads": [
-    "andean-empires"
+    "andean-empires",
+    "first-cities"
    ]
   },
   {
@@ -9736,7 +9741,8 @@
     "lost-civilisations",
     "changed-understanding",
     "stories-proven-true",
-    "amazonian-earthworks"
+    "amazonian-earthworks",
+    "lidar-discoveries"
    ]
   },
   {
@@ -10897,7 +10903,8 @@
     "myth-legend"
    ],
    "threads": [
-    "giant-monuments"
+    "giant-monuments",
+    "walls-against-chaos"
    ]
   },
   {
@@ -12229,7 +12236,8 @@
    ],
    "threads": [
     "deep-oral-memory",
-    "ancient-astronomy"
+    "ancient-astronomy",
+    "star-lore"
    ]
   },
   {
@@ -17512,7 +17520,8 @@
     "giant-monuments",
     "ancient-astronomy",
     "hunter-gatherer-monuments",
-    "levant-crossroads"
+    "levant-crossroads",
+    "first-cities"
    ]
   },
   {
@@ -24759,7 +24768,8 @@
    ],
    "threads": [
     "shapeshifters",
-    "altered-states"
+    "altered-states",
+    "berserkers-and-warriors"
    ]
   },
   {
@@ -24820,7 +24830,8 @@
    "threads": [
     "changed-understanding",
     "giant-monuments",
-    "deep-oral-memory"
+    "deep-oral-memory",
+    "hill-figures"
    ]
   },
   {
@@ -34306,7 +34317,8 @@
    "threads": [
     "deep-oral-memory",
     "sky-omens",
-    "ancient-astronomy"
+    "ancient-astronomy",
+    "star-lore"
    ]
   },
   {
@@ -48949,7 +48961,8 @@
    ],
    "threads": [
     "levant-crossroads",
-    "royal-propaganda"
+    "royal-propaganda",
+    "bible-and-archaeology"
    ]
   },
   {
@@ -49013,7 +49026,8 @@
     "divine-punishment",
     "decipherments",
     "levant-crossroads",
-    "royal-propaganda"
+    "royal-propaganda",
+    "bible-and-archaeology"
    ]
   },
   {
@@ -49717,7 +49731,8 @@
     "lost-civilisations",
     "stories-proven-true",
     "rediscovered-civilisations",
-    "central-america"
+    "central-america",
+    "lidar-discoveries"
    ]
   },
   {
@@ -53856,7 +53871,8 @@
    "threads": [
     "changed-understanding",
     "decipherments",
-    "egypt-of-the-pharaohs"
+    "egypt-of-the-pharaohs",
+    "repatriation-debates"
    ]
   },
   {
@@ -63400,7 +63416,8 @@
     "changed-understanding",
     "sky-omens",
     "millenarian-movements",
-    "prophecies"
+    "prophecies",
+    "star-lore"
    ]
   },
   {
@@ -63675,6 +63692,1094 @@
     "ufo-encounters",
     "official-ufo-investigations",
     "radar-cases"
+   ]
+  },
+  {
+   "id": "bantu-expansion",
+   "title": "The Bantu expansion: how one language family spread across half a continent",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": -4000,
+   "end": 500,
+   "evidenceTypes": [
+    "linguistic",
+    "genetic (ancient DNA)",
+    "archaeological"
+   ],
+   "mainstream": "Around 500 languages spoken today across central, eastern and southern Africa, from Swahili and Kikongo to isiZulu and Shona, belong to the Bantu family and are strikingly similar, pointing to a shared origin in the region of today's south-eastern Nigeria and western Cameroon. Over roughly 5,000 years, beginning around 4000 BCE, Bantu-speaking farmers spread south through or around the Congo rainforest and east towards the Great Lakes, bringing farming, pottery and later iron-working. By about 300 CE they had reached what is now South Africa. Genetic studies, including ancient DNA, show a large movement of people who mixed to varying degrees with the hunter-gatherer and herding peoples they met, whose own languages, such as the click languages of southern Africa, were often displaced.",
+   "alternatives": [
+    {
+     "label": "Routes and timing",
+     "text": "Researchers debate whether speakers moved mainly along rivers and the coast, or through a rainforest opened up by a drier climate around 2,500 years ago, and how much spread was migration versus local people adopting the language and way of life."
+    },
+    {
+     "label": "Older ideas",
+     "text": "Colonial-era writers sometimes used the expansion to argue that Bantu speakers were recent arrivals in southern Africa with no prior claim to land; this \"empty land\" idea has been rejected by historians and archaeologists, who show long settlement by both earlier and Bantu-speaking peoples."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Bantu expansion",
+     "url": "https://en.wikipedia.org/wiki/Bantu_expansion",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Bantu languages",
+     "url": "https://en.wikipedia.org/wiki/Bantu_languages",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/East_and_southern_africa_early_iron_age.png/500px-East_and_southern_africa_early_iron_age.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:East_and_southern_africa_early_iron_age.png",
+     "author": "Unknown",
+     "license": "Public domain",
+     "title": "East_and_southern_africa_early_iron_age.png"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology",
+    "science-cosmos"
+   ],
+   "threads": [
+    "changed-understanding",
+    "genetic-migrations",
+    "myths-about-history",
+    "southern-africa"
+   ]
+  },
+  {
+   "id": "benin-walls",
+   "title": "The Walls of Benin: earthworks longer than the Great Wall?",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1460,
+   "end": null,
+   "dateNote": "Rural earthworks possibly from c. 800 CE; inner city moat c. 1460",
+   "evidenceTypes": [
+    "archaeological",
+    "textual"
+   ],
+   "mainstream": "The Iya are networks of ditches and earth banks around Benin City and across Edo State in southern Nigeria. The great inner moat and rampart around the city, about 12 km long, was built around 1460 under the Benin kingdom's obas; the much more extensive rural earthworks, which mostly marked village and field boundaries, may have begun as early as about 800 CE. The combined length of all the earthworks has been estimated at around 16,000 km, which led Guinness World Records to describe the linear earthworks of Benin and Isha as the longest of the pre-mechanical era. Much was damaged after the British punitive expedition of 1897 and by later urban growth; the Iya are on Nigeria's tentative list for World Heritage.",
+   "alternatives": [
+    {
+     "label": "Bigger than the Great Wall",
+     "text": "Popular articles often say the walls were four times longer than the Great Wall of China. Archaeologists stress that they are many separate earthworks of different ages, mostly modest boundary ditches, so the comparison is misleading even though the total effort was enormous."
+    },
+    {
+     "label": "Overlooked achievement",
+     "text": "Researchers such as Patrick Darling, who surveyed them from the 1960s, argued that the Iya were long ignored in world history because of colonial assumptions about African societies."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Benin Moat",
+     "url": "https://en.wikipedia.org/wiki/Benin_Moat",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Kingdom of Benin",
+     "url": "https://en.wikipedia.org/wiki/Kingdom_of_Benin",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Benin_City_Walls.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Benin_City_Walls.jpg",
+     "author": "UGC",
+     "license": "CC BY-SA 4.0",
+     "title": "Benin City Walls.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology"
+   ],
+   "threads": [
+    "giant-monuments",
+    "myths-about-history",
+    "resistance-to-empire",
+    "walls-against-chaos"
+   ]
+  },
+  {
+   "id": "tula-toltecs",
+   "title": "Tula and the Toltecs: the real city behind the Aztecs' golden age legend",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 950,
+   "end": 1150,
+   "evidenceTypes": [
+    "archaeological",
+    "textual (colonial chronicles)"
+   ],
+   "mainstream": "Tula, in the modern Mexican state of Hidalgo, was the capital of the Toltecs, flourishing between the fall of Teotihuacan and the rise of the Aztecs, roughly 900 to 1150 CE. Its most famous monument is the Pyramid of Quetzalcoatl (Temple B), topped by four-metre basalt columns carved as warriors. The Aztecs later looked back on Tollan and the Toltecs as a golden age of wisdom and craftsmanship: 'Toltec' came to mean a skilled artisan, and Aztec rulers claimed Toltec descent. Aztec stories told of a priest-king, Topiltzin Quetzalcoatl, who was driven out of Tollan and departed eastwards, promising to return. Tula collapsed around 1150 and was later looted by the Aztecs for relics.",
+   "alternatives": [
+    {
+     "label": "Tula and Chichen Itza",
+     "text": "Tula's architecture and imagery closely resemble parts of Chichen Itza in Yucatán, more than 1,000 km away. Older theories said Toltecs conquered the Maya city; many archaeologists now see shared ideas and trade, and debate which way influence flowed."
+    },
+    {
+     "label": "Myth and history",
+     "text": "Some historians doubt how much of the Aztec picture of the Toltecs reflects the real Tula, suggesting \"Tollan\" was an idealised name used for several great cities, including Teotihuacan."
+    },
+    {
+     "label": "The returning god",
+     "text": "The story of Quetzalcoatl's promised return was later linked to Cortés's arrival. Many historians now think this link was largely created after the conquest (see the related entry)."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Tula (Mesoamerican site)",
+     "url": "https://en.wikipedia.org/wiki/Tula_(Mesoamerican_site)",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Toltec",
+     "url": "https://en.wikipedia.org/wiki/Toltec",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/TulaSite81.JPG/500px-TulaSite81.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:TulaSite81.JPG",
+     "author": "AlejandroLinaresGarcia",
+     "license": "CC BY-SA 3.0",
+     "title": "TulaSite81.JPG"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology",
+    "myth-legend"
+   ],
+   "threads": [
+    "civilisation-collapses",
+    "returning-saviours",
+    "central-america",
+    "myths-about-history"
+   ]
+  },
+  {
+   "id": "el-mirador",
+   "title": "El Mirador: a giant Maya city that flourished centuries before the Classic age",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -600,
+   "end": 150,
+   "evidenceTypes": [
+    "archaeological",
+    "lidar survey"
+   ],
+   "mainstream": "Deep in the rainforest of northern Guatemala lies El Mirador, a Maya city of the Middle and Late Preclassic period (about 1000 BCE to 250 CE). Its La Danta complex is one of the most massive pyramids in the world by volume, and raised white causeways (sacbeob) up to 40 metres wide link it with other cities across the Mirador-Calakmul basin. It reached its height between about 300 BCE and 150 CE and was largely abandoned before the famous Classic cities such as Tikal reached their peak. Since 2003 the archaeologist Richard D. Hansen has led large investigation and conservation projects there, and airborne lidar has mapped hundreds of related settlements under the forest.",
+   "alternatives": [
+    {
+     "label": "Changed understanding",
+     "text": "For much of the 20th century the Preclassic Maya were thought to be simple villagers. El Mirador and similar sites showed that monumental cities and states existed centuries earlier, pushing back the story of Maya civilisation."
+    },
+    {
+     "label": "Why it collapsed",
+     "text": "Proposed reasons for its decline include deforestation and soil loss (huge amounts of lime plaster required burning trees), drought, and political change. The relative weight of these factors is debated."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: El Mirador",
+     "url": "https://en.wikipedia.org/wiki/El_Mirador",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Pir%C3%A1mide_de_la_Danta%2C_Pet%C3%A9n.jpg/500px-Pir%C3%A1mide_de_la_Danta%2C_Pet%C3%A9n.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Pir%C3%A1mide_de_la_Danta,_Pet%C3%A9n.jpg",
+     "author": "Konjiki1",
+     "license": "CC0",
+     "title": "Pirámide_de_la_Danta,_Petén.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history"
+   ],
+   "threads": [
+    "changed-understanding",
+    "giant-monuments",
+    "civilisation-collapses",
+    "central-america",
+    "lidar-discoveries"
+   ]
+  },
+  {
+   "id": "paquime",
+   "title": "Paquimé (Casas Grandes): adobe towers, ballcourts and macaw farms in the desert",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1200,
+   "end": 1450,
+   "evidenceTypes": [
+    "archaeological"
+   ],
+   "mainstream": "Paquimé, also known as Casas Grandes, in the northern Mexican state of Chihuahua, was the largest and most complex settlement of its region between about 1200 and 1450 CE. Its builders, linked to the Mogollon culture, raised multi-storey adobe apartment blocks with some 2,000 rooms, and built a water system with channels, reservoirs and drains. It combined features of the Pueblo world of the American Southwest with Mesoamerican ones such as I-shaped ballcourts and platform mounds. Rows of adobe pens held scarlet macaws, imported from far to the south and bred for their sacred feathers, which were traded north. Paquimé was burned and abandoned around 1450; it became a UNESCO World Heritage Site in 1998.",
+   "alternatives": [
+    {
+     "label": "Outpost or homegrown",
+     "text": "Early excavator Charles Di Peso thought Paquimé was founded by Mesoamerican merchants (pochteca) as a trading outpost; later researchers mostly see it as a local society that adopted Mesoamerican ideas. The debate is a good example of shifting views on how cultures influence each other."
+    },
+    {
+     "label": "Fall",
+     "text": "Why it was burned and abandoned is unknown; conflict, drought and the breakdown of trade networks have all been proposed."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Casas Grandes",
+     "url": "https://en.wikipedia.org/wiki/Casas_Grandes",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Paquime1.jpg/500px-Paquime1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Paquime1.jpg",
+     "author": "HJPD",
+     "license": "CC BY-SA 3.0",
+     "title": "Paquime1.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history"
+   ],
+   "threads": [
+    "civilisation-collapses",
+    "trade-networks",
+    "native-north-america"
+   ]
+  },
+  {
+   "id": "manco-capac",
+   "title": "Manco Cápac: the first Inca, son of the Sun",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": 1200,
+   "end": null,
+   "dateNote": "Legendary; perhaps early 13th century",
+   "evidenceTypes": [
+    "textual (colonial chronicles)",
+    "oral tradition"
+   ],
+   "mainstream": "Inca tradition, recorded by Spanish and mestizo chroniclers after the conquest, names Manco Cápac as the founder of the Inca dynasty and of Cusco, perhaps in the early 13th century. In one legend, told by Garcilaso de la Vega in 1609, the Sun god Inti sent his children Manco Cápac and Mama Ocllo up from the waters of Lake Titicaca with a golden staff, instructing them to settle where it sank into the ground, which it did at Cusco. In another, four brothers and four sisters, the Ayar siblings, emerged from a cave called Tambo Toco at Pacaritambo; during the journey the other brothers were turned to stone or sealed in a cave, and Ayar Manco went on to found Cusco. Inca rulers used these stories to present themselves as descendants of the Sun.",
+   "alternatives": [
+    {
+     "label": "Real person?",
+     "text": "Some historians think Manco Cápac may reflect a real leader of a small group that settled in the Cusco valley; others treat him as purely legendary. There are no contemporary records."
+    },
+    {
+     "label": "Political myth",
+     "text": "Scholars note that the two versions served different purposes: the Titicaca story linked the Incas to the ancient sacred lake and the older Tiwanaku world, while the cave story tied them to local ancestral places around Cusco."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Manco Cápac",
+     "url": "https://en.wikipedia.org/wiki/Manco_C%C3%A1pac",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Inca mythology",
+     "url": "https://en.wikipedia.org/wiki/Inca_mythology",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Brooklyn_Museum_-_Manco_Capac%2C_First_Inca%2C_1_of_14_Portraits_of_Inca_Kings.jpg/500px-Brooklyn_Museum_-_Manco_Capac%2C_First_Inca%2C_1_of_14_Portraits_of_Inca_Kings.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Brooklyn_Museum_-_Manco_Capac,_First_Inca,_1_of_14_Portraits_of_Inca_Kings.jpg",
+     "author": "Unknown",
+     "license": "Public domain",
+     "title": "Brooklyn_Museum_-_Manco_Capac,_First_Inca,_1_of_14_Portraits_of_Inca_Kings.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "history",
+    "religion"
+   ],
+   "threads": [
+    "petrified-beings",
+    "sun-cults",
+    "founding-ancestors",
+    "andean-empires"
+   ]
+  },
+  {
+   "id": "coyote-trickster",
+   "title": "Coyote: the trickster who shaped the world and brought death",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": 1800,
+   "end": null,
+   "dateNote": "Oral traditions of great age; mostly recorded from the 19th century",
+   "evidenceTypes": [
+    "oral tradition",
+    "ethnographic"
+   ],
+   "mainstream": "Coyote is one of the best-known figures in the traditional stories of many Indigenous peoples of western North America, from the Great Basin and California to the Plateau and the Southwest. He is a trickster: clever and foolish, greedy and generous, a creator and a troublemaker. In various traditions Coyote steals fire for people, places the stars carelessly in the sky, releases animals or diseases, gives humans their customs, and in several stories decides that the dead should not come back to life. Stories were often told only in winter. Coyote shares many traits with Raven of the Pacific Northwest and with tricksters elsewhere, such as Anansi in West Africa and Maui in Polynesia.",
+   "alternatives": [
+    {
+     "label": "Universal trickster",
+     "text": "Comparative mythologists, following writers such as Paul Radin and Carl Jung, have seen the trickster as a worldwide human pattern that expresses the disorder and creativity of life. Critics warn that such comparisons can flatten very different cultures into a single type."
+    },
+    {
+     "label": "Teaching stories",
+     "text": "Many Indigenous storytellers emphasise that Coyote stories teach by bad example, showing the consequences of greed, pride and breaking rules."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Coyote (mythology)",
+     "url": "https://en.wikipedia.org/wiki/Coyote_(mythology)",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Trickster",
+     "url": "https://en.wikipedia.org/wiki/Trickster",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Coyoteinacanoe.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Coyoteinacanoe.png",
+     "author": "F. N. Wilson",
+     "license": "Public domain",
+     "title": "Coyoteinacanoe.png"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion"
+   ],
+   "threads": [
+    "origin-of-death",
+    "native-north-america",
+    "fire-thieves",
+    "trickster-tales"
+   ]
+  },
+  {
+   "id": "cowherd-weaver-girl",
+   "title": "The Cowherd and the Weaver Girl: lovers separated by the Milky Way",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": -600,
+   "end": null,
+   "dateNote": "Earliest reference in the Classic of Poetry (c. 11th to 7th century BCE)",
+   "evidenceTypes": [
+    "textual",
+    "folk belief",
+    "astronomical"
+   ],
+   "mainstream": "In Chinese tradition, Zhinü the weaver girl, a heavenly being identified with the star Vega, falls in love with Niulang the cowherd, a mortal identified with Altair. Because their love is forbidden, they are separated on either side of the Silver River, the Milky Way, and allowed to meet only once a year, on the seventh day of the seventh lunar month, when magpies form a bridge across the sky. The earliest known reference to the two stars as weaver and ox-herd is in a poem of the Classic of Poetry, more than 2,600 years old. The story is celebrated as the Qixi festival in China, Tanabata in Japan and Chilseok in Korea, when people traditionally made wishes, especially for skill in needlework and for a good marriage.",
+   "alternatives": [
+    {
+     "label": "Stars to story",
+     "text": "Scholars see the tale as growing from early star-watching: Vega and Altair do lie on opposite sides of the Milky Way, and the festival falls when they are high in the evening summer sky."
+    },
+    {
+     "label": "Swan maidens",
+     "text": "Folklorists note the similarity of some versions, in which the cowherd hides the robe of a bathing celestial maiden, to \"swan maiden\" tales found across Eurasia, suggesting very old shared story patterns."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: The Cowherd and the Weaver Girl",
+     "url": "https://en.wikipedia.org/wiki/The_Cowherd_and_the_Weaver_Girl",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Qixi Festival",
+     "url": "https://en.wikipedia.org/wiki/Qixi_Festival",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Tanabata",
+     "url": "https://en.wikipedia.org/wiki/Tanabata",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/The_Magpie_Bridge.jpg/500px-The_Magpie_Bridge.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:The_Magpie_Bridge.jpg",
+     "author": "ScribblingGeek",
+     "license": "CC BY-SA 4.0",
+     "title": "The_Magpie_Bridge.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "science-cosmos"
+   ],
+   "threads": [
+    "ancient-astronomy",
+    "star-lore"
+   ]
+  },
+  {
+   "id": "garuda",
+   "title": "Garuda: the giant bird of Vishnu and enemy of serpents",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": -500,
+   "end": null,
+   "dateNote": "Mentioned in Vedic texts; main myth in the Mahabharata (compiled c. 400 BCE to 400 CE)",
+   "evidenceTypes": [
+    "religious text",
+    "iconographic"
+   ],
+   "mainstream": "Garuda is the king of birds in Hindu, Buddhist and Jain traditions, the mount (vahana) of the god Vishnu, shown as a giant bird or as a man with wings and a beak. In the Mahabharata he is born from an egg laid by Vinata; to free his mother from slavery to the serpents (nagas), the children of her rival sister, he steals the nectar of immortality (amrita) from the gods, and becomes the eternal enemy of snakes. Garuda spread with Indian religions across South-East Asia: he appears at Angkor and Prambanan, and today Garuda is part of the national emblems of India, Indonesia and Thailand, and the name of Indonesia's national airline.",
+   "alternatives": [
+    {
+     "label": "Real birds",
+     "text": "The image may draw on large birds of prey such as eagles and kites; the name is also associated with the greater adjutant stork in India."
+    },
+    {
+     "label": "Thunderbirds and serpent-slayers",
+     "text": "Comparative mythologists note similar giant birds that fight serpents in many cultures, such as the Thunderbird of North America and the eagle and serpent of Norse myth. Some see a shared Indo-European or even older pattern; others see independent responses to real predatory birds and snakes."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Garuda",
+     "url": "https://en.wikipedia.org/wiki/Garuda",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Nāga",
+     "url": "https://en.wikipedia.org/wiki/N%C4%81ga",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Garuda_by_Hyougushi_in_Delhi.jpg/500px-Garuda_by_Hyougushi_in_Delhi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Garuda_by_Hyougushi_in_Delhi.jpg",
+     "author": "Hyougushi / Hideyuki KAMON from National Museum in Delhi, India",
+     "license": "CC BY-SA 2.0",
+     "title": "Garuda_by_Hyougushi_in_Delhi.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion"
+   ],
+   "threads": [
+    "serpent-beings",
+    "giant-birds",
+    "born-from-eggs",
+    "elixirs-of-immortality",
+    "south-asian-epics"
+   ]
+  },
+  {
+   "id": "uruk",
+   "title": "Uruk: the first great city, home of writing and of Gilgamesh",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": -3500,
+   "end": 650,
+   "evidenceTypes": [
+    "archaeological",
+    "textual (cuneiform tablets)"
+   ],
+   "mainstream": "Uruk, today the ruin mound of Warka in southern Iraq, was the leading city of Sumer in the 4th millennium BCE and gave its name to the Uruk period. By about 3100 BCE it may have had 50,000 residents, with tens of thousands more around it, making it probably the largest urban settlement in the world. Its Eanna temple district has produced the earliest known proto-cuneiform tablets, mostly administrative records of goods and labour, together with masterpieces such as the Warka Vase and the Mask of Warka. In Mesopotamian tradition Uruk was the city of the hero-king Gilgamesh, who the Sumerian King List says ruled there around the 27th century BCE, and of the goddess Inanna. The city was inhabited for some 5,000 years, until around the time of the Islamic conquest. The Bible calls it Erech.",
+   "alternatives": [
+    {
+     "label": "Did Gilgamesh exist?",
+     "text": "Many historians think Gilgamesh may have been a real early king of Uruk around 2700 BCE whose deeds were turned into legend, but no inscription of his own has been found."
+    },
+    {
+     "label": "Why cities began",
+     "text": "Scholars debate whether cities like Uruk grew from irrigation agriculture, temple economies, trade, or simply the gathering of people in a fertile delta. Uruk-style pottery and buildings found far up the Euphrates suggest an early network of colonies or trading posts, the \"Uruk expansion\"."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Uruk",
+     "url": "https://en.wikipedia.org/wiki/Uruk",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Uruk period",
+     "url": "https://en.wikipedia.org/wiki/Uruk_period",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Warka Vase",
+     "url": "https://en.wikipedia.org/wiki/Warka_Vase",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Warka_vase_%28background_retouched%29.jpg/500px-Warka_vase_%28background_retouched%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Warka_vase_(background_retouched).jpg",
+     "author": "Osama Shukir Muhammed Amin FRCP(Glasg)",
+     "license": "CC BY-SA 4.0",
+     "title": "Warka_vase_(background_retouched).jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology"
+   ],
+   "threads": [
+    "origins-of-writing",
+    "mesopotamia-and-anatolia",
+    "first-cities"
+   ]
+  },
+  {
+   "id": "merneptah-stele",
+   "title": "The Merneptah Stele: the first mention of \"Israel\"",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -1208,
+   "end": null,
+   "evidenceTypes": [
+    "inscription",
+    "archaeological"
+   ],
+   "mainstream": "This granite stele, discovered by Flinders Petrie at Thebes in 1896 and now in the Egyptian Museum in Cairo, records the victories of the pharaoh Merneptah (reigned 1213-1203 BCE), mainly over the Libyans. Near the end, a short passage about a campaign in Canaan says: 'Israel is laid waste, his seed is not.' A sign in the hieroglyphs marks Israel as a people rather than a city or land. It is the earliest known textual mention of Israel, and the only one from ancient Egypt. Petrie himself considered it his most famous find.",
+   "alternatives": [
+    {
+     "label": "What it tells us",
+     "text": "Most scholars take it as evidence that a group called Israel lived in Canaan by about 1208 BCE. How this fits with the biblical accounts of the Exodus and conquest is debated: some see support for an early Israel, others note that the stele says nothing about Egypt or an exodus."
+    },
+    {
+     "label": "Alternative readings",
+     "text": "A minority of scholars have proposed other readings of the name, such as Jezreel or a different people, but these are not widely accepted. Some researchers also identify Israelites in nearby battle reliefs at Karnak; this is disputed."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Merneptah Stele",
+     "url": "https://en.wikipedia.org/wiki/Merneptah_Stele",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Merneptah",
+     "url": "https://en.wikipedia.org/wiki/Merneptah",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Merneptah_Steli_%28cropped%29.jpg/500px-Merneptah_Steli_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Merneptah_Steli_(cropped).jpg",
+     "author": "𐰇𐱅𐰚𐰤",
+     "license": "CC BY-SA 4.0",
+     "title": "Merneptah_Steli_(cropped).jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology",
+    "religion"
+   ],
+   "threads": [
+    "egypt-of-the-pharaohs",
+    "levant-crossroads",
+    "bible-and-archaeology"
+   ]
+  },
+  {
+   "id": "dendera-zodiac",
+   "title": "The Dendera zodiac: an ancient sky map and the controversy over its age",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -50,
+   "end": null,
+   "evidenceTypes": [
+    "archaeological",
+    "astronomical",
+    "inscription"
+   ],
+   "mainstream": "The Dendera zodiac is a round sandstone relief from the ceiling of a chapel dedicated to Osiris on the roof of the temple of Hathor at Dendera, Egypt. It shows the night sky: Egyptian constellations together with the Babylonian-Greek signs of the zodiac, such as Taurus and Libra, held up by goddesses and falcon-headed figures, with the positions of planets and two eclipses. In 1821 the antiquities dealer Sébastien Louis Saulnier had it cut out with saws, jacks and gunpowder and shipped to Paris, where Louis XVIII bought it; it has been in the Louvre since 1922 and a cast replaces it at Dendera. The astronomer John H. Rogers called it 'the only complete map that we have of an ancient sky'. The Louvre dates it to about 50 BCE.",
+   "alternatives": [
+    {
+     "label": "The \"Dendera Affair\"",
+     "text": "In the early 19th century some French scholars argued from the star positions that the zodiac was many thousands of years old, a claim that seemed to challenge the biblical chronology. Champollion, after deciphering hieroglyphs, read names showing that the chapel was Greco-Roman, ending the debate for most scholars."
+    },
+    {
+     "label": "Lost-knowledge claims",
+     "text": "Some alternative writers still argue that the zodiac encodes much older astronomical knowledge, precession or past catastrophes. Egyptologists see it as a late synthesis of Egyptian and Mesopotamian-Greek astronomy."
+    },
+    {
+     "label": "Return to Egypt?",
+     "text": "In 2022 the Egyptologist Zahi Hawass launched a petition calling for the zodiac, the Rosetta Stone and other objects to be returned to Egypt."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Dendera zodiac",
+     "url": "https://en.wikipedia.org/wiki/Dendera_zodiac",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Dendera temple complex",
+     "url": "https://en.wikipedia.org/wiki/Dendera_temple_complex",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Zodiaque_de_Dend%C3%A9ra_-_Mus%C3%A9e_du_Louvre_Antiquit%C3%A9s_Egyptiennes_D_38_%3B_E_13482.jpg/500px-Zodiaque_de_Dend%C3%A9ra_-_Mus%C3%A9e_du_Louvre_Antiquit%C3%A9s_Egyptiennes_D_38_%3B_E_13482.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Zodiaque_de_Dend%C3%A9ra_-_Mus%C3%A9e_du_Louvre_Antiquit%C3%A9s_Egyptiennes_D_38_;_E_13482.jpg",
+     "author": "Shonagon",
+     "license": "CC0",
+     "title": "Zodiaque_de_Dendéra_-_Musée_du_Louvre_Antiquités_Egyptiennes_D_38_;_E_13482.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "science-cosmos",
+    "anomalies"
+   ],
+   "threads": [
+    "ancient-astronomy",
+    "chronology-wars",
+    "egypt-of-the-pharaohs",
+    "dating-the-past",
+    "star-lore",
+    "repatriation-debates"
+   ]
+  },
+  {
+   "id": "hallstatt",
+   "title": "Hallstatt: the salt mine that named an age",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -800,
+   "end": null,
+   "dateNote": "Salt mining from the Bronze Age; Hallstatt culture c. 1200-450 BCE",
+   "evidenceTypes": [
+    "archaeological"
+   ],
+   "mainstream": "In a narrow Alpine valley above Lake Hallstatt in Austria, people have mined salt for more than 3,000 years, one of the oldest salt-mining sites in the world. Salt was precious for preserving food, and the wealth it brought is visible in the prehistoric cemetery discovered in 1846 by the mine official Johann Georg Ramsauer, who excavated over a thousand graves; around 1,300 burials are now known, rich in bronze, iron, amber and glass. The finds gave their name to the Hallstatt culture of central Europe (about 1200 to 450 BCE), linked with Proto-Celtic and early Celtic peoples. Because salt preserves organic material, the mines have also yielded tools, leather, textiles and even food remains of the miners.",
+   "alternatives": [
+    {
+     "label": "The first Celts?",
+     "text": "The Hallstatt culture is often called \"Celtic\", but scholars debate when and where Celtic languages arose; some argue they spread from the Atlantic west rather than from the Alpine region."
+    },
+    {
+     "label": "A heritage landscape",
+     "text": "The village and its region became a UNESCO World Heritage Site in 1997. Today Hallstatt faces overtourism, partly because it was copied in a replica town in China in 2012."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Hallstatt",
+     "url": "https://en.wikipedia.org/wiki/Hallstatt",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Hallstatt culture",
+     "url": "https://en.wikipedia.org/wiki/Hallstatt_culture",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Hallstatt_-_Salt_mine%2C_1977_%2802%29.jpg/500px-Hallstatt_-_Salt_mine%2C_1977_%2802%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Hallstatt_-_Salt_mine,_1977_(02).jpg",
+     "author": "Bahnfrend",
+     "license": "CC BY-SA 4.0",
+     "title": "Hallstatt - Salt mine, 1977 (02).jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history"
+   ],
+   "threads": [
+    "bronze-age-world",
+    "celtic-worlds"
+   ]
+  },
+  {
+   "id": "amesbury-archer",
+   "title": "The Amesbury Archer: a man from the Alps buried near Stonehenge",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -2300,
+   "end": null,
+   "evidenceTypes": [
+    "archaeological",
+    "isotopic",
+    "radiocarbon"
+   ],
+   "mainstream": "In May 2002, during building work at Amesbury, about 5 km from Stonehenge, archaeologists found the grave of a man who died around 2300 BCE, aged about 35-45. He was buried with more objects than any other early Bronze Age grave in Britain: around 100 items, including flint arrowheads, stone wrist-guards for archery, copper knives, Beaker pots and the earliest gold objects yet found in England. Oxygen isotopes in his tooth enamel showed he grew up in central Europe, probably the western Alps. He had a damaged knee and a painful jaw abscess. A younger man buried nearby, possibly a relative, had the same unusual foot bones. His skeleton is in the Salisbury Museum.",
+   "alternatives": [
+    {
+     "label": "King of Stonehenge?",
+     "text": "Newspapers called him the \"King of Stonehenge\". Archaeologists caution that Stonehenge's main stones were probably already standing before he was born, though he may have come to visit or work there."
+    },
+    {
+     "label": "Metalworker and migrant",
+     "text": "Because he arrived as the first metal objects appeared in Britain, some suggest he was valued for knowledge of metalworking. Ancient DNA later showed that Beaker-associated people from the continent largely replaced Britain's Neolithic population within a few centuries, placing him in a much larger migration."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Amesbury Archer",
+     "url": "https://en.wikipedia.org/wiki/Amesbury_Archer",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Bell Beaker culture",
+     "url": "https://en.wikipedia.org/wiki/Bell_Beaker_culture",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Salisbury_Museum%2C_%27The_Amesbury_Archer%27_skeleton_from_the_Late_Neolithic_period_-_geograph.org.uk_-_7047710.jpg/500px-Salisbury_Museum%2C_%27The_Amesbury_Archer%27_skeleton_from_the_Late_Neolithic_period_-_geograph.org.uk_-_7047710.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Salisbury_Museum,_%27The_Amesbury_Archer%27_skeleton_from_the_Late_Neolithic_period_-_geograph.org.uk_-_7047710.jpg",
+     "author": "Michael Garlick",
+     "license": "CC BY-SA 2.0",
+     "title": "Salisbury_Museum,_'The_Amesbury_Archer'_skeleton_from_the_Late_Neolithic_period_-_geograph.org.uk_-_7047710.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history"
+   ],
+   "threads": [
+    "genetic-migrations",
+    "bronze-age-world",
+    "megalithic-europe"
+   ]
+  },
+  {
+   "id": "seahenge",
+   "title": "Seahenge: a Bronze Age timber circle revealed by the sea",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -2049,
+   "end": null,
+   "evidenceTypes": [
+    "archaeological",
+    "dendrochronology"
+   ],
+   "mainstream": "In 1998 shifting sands on the beach at Holme-next-the-Sea in Norfolk, England, exposed a ring of 55 oak posts surrounding an upside-down oak tree stump, its roots in the air. Tree-ring dating showed that the trees were felled in the spring or early summer of 2049 BCE. A second, nearby timber circle (Holme II) was built at the same time. Marks on the wood show that at least fifty different bronze axes were used. The purpose is unknown; one idea is that the upturned stump was used to expose a dead body to the elements. In 1999 English Heritage excavated the timbers to save them from the sea, and they are now displayed at King's Lynn. Holme II was left in place.",
+   "alternatives": [
+    {
+     "label": "Excavation protests",
+     "text": "The removal led to protests by local people who wanted it to stay as an attraction and by modern pagans and druids who saw it as a sacred site that should be left to the sea. Archaeologists argued it would otherwise be destroyed within years."
+    },
+    {
+     "label": "A world upside down",
+     "text": "The inverted tree has been interpreted as a symbol linking the underworld and the sky, a theme found in later myths of world trees. This is speculative."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Seahenge",
+     "url": "https://en.wikipedia.org/wiki/Seahenge",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Seahenge.jpg/500px-Seahenge.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Seahenge.jpg",
+     "author": "-JvL-",
+     "license": "CC BY 2.0",
+     "title": "Seahenge.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "religion"
+   ],
+   "threads": [
+    "vanished-landscapes",
+    "stone-circles",
+    "bronze-age-world",
+    "dating-the-past",
+    "megalithic-europe",
+    "world-trees"
+   ]
+  },
+  {
+   "id": "lewis-chessmen",
+   "title": "The Lewis chessmen: walrus-ivory warriors from a Scottish beach",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1175,
+   "end": null,
+   "dateNote": "Carved c. 1150-1200; found 1831",
+   "evidenceTypes": [
+    "archaeological",
+    "museum objects",
+    "art historical"
+   ],
+   "mainstream": "In 1831 a hoard of 93 game pieces was found on the Isle of Lewis in the Outer Hebrides: 78 chessmen, 14 plain draughtsmen and a buckle, mostly carved from walrus ivory between about 1150 and 1200. The kings, queens, bishops, knights and warders (rooks) have expressive faces; the queens rest their cheeks on their hands, and some warders bite the tops of their shields like berserker warriors. They are commonly thought to have been made in Trondheim, Norway, when the Hebrides were under Norwegian rule, and to have been buried by a merchant. Today 82 pieces are in the British Museum and 11 in the National Museum of Scotland; a missing warder, unknowingly kept by an Edinburgh family since 1964, sold at auction for £735,000 in 2019.",
+   "alternatives": [
+    {
+     "label": "Where were they made?",
+     "text": "Besides Trondheim, scholars have suggested Iceland, where a bishop's ivory-carver is recorded, or the Hebrides themselves. The question is linked to arguments over national heritage."
+    },
+    {
+     "label": "Discovery stories",
+     "text": "Accounts of the find differ: a local legend says a farm worker found them in a sand dune and fled thinking they were elves or demons. Museum researchers now think the hoard was found at Mealista rather than at Uig Bay."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Lewis chessmen",
+     "url": "https://en.wikipedia.org/wiki/Lewis_chessmen",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Berserker",
+     "url": "https://en.wikipedia.org/wiki/Berserker",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/NMSLewisChessmen28.jpg/500px-NMSLewisChessmen28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:NMSLewisChessmen28.jpg",
+     "author": "National Museums Scotland",
+     "license": "CC BY-SA 4.0",
+     "title": "NMSLewisChessmen28.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology"
+   ],
+   "threads": [
+    "lost-treasures",
+    "berserkers-and-warriors",
+    "repatriation-debates"
+   ]
+  },
+  {
+   "id": "cerne-abbas-giant",
+   "title": "The Cerne Abbas Giant: a chalk figure of uncertain age",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 900,
+   "end": null,
+   "dateNote": "OSL dates suggest c. 700-1110 CE; first recorded late 17th century",
+   "evidenceTypes": [
+    "archaeological",
+    "OSL dating",
+    "textual"
+   ],
+   "mainstream": "The Cerne Abbas Giant is a 55-metre figure of a naked man with a club cut into a chalk hillside in Dorset, England. Its first written record dates only from the late 17th century, which led some historians to think it was cut then, perhaps as a parody of Oliver Cromwell. Others identified it with the Roman hero Hercules or a pagan god. In 2021 the National Trust announced results of optically stimulated luminescence dating of soil samples, indicating that the figure was first made between about 700 and 1110 CE, in the late Anglo-Saxon period, possibly close to the founding of nearby Cerne Abbey in the 10th century. Evidence shows parts of it have been altered and recut over time. Local folklore links it with fertility.",
+   "alternatives": [
+    {
+     "label": "Saxon, Roman or 17th century?",
+     "text": "The OSL results point to a late Anglo-Saxon origin, but researchers note that the figure might have been changed later and that its silence in medieval records is still puzzling. One suggestion is that it could have been a depiction of a Saxon god, perhaps one mentioned in local legends of the abbey; this is speculative."
+    },
+    {
+     "label": "Folk belief",
+     "text": "For centuries couples hoping for children are said to have visited the figure. Such customs are hard to date and may be much more recent than the giant itself."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Cerne Abbas Giant",
+     "url": "https://en.wikipedia.org/wiki/Cerne_Abbas_Giant",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Hill figure",
+     "url": "https://en.wikipedia.org/wiki/Hill_figure",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Cerne-abbas-giant-2001-cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Cerne-abbas-giant-2001-cropped.jpg",
+     "author": "PeteHarlow",
+     "license": "CC BY-SA 3.0",
+     "title": "Cerne-abbas-giant-2001-cropped.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "myth-legend"
+   ],
+   "threads": [
+    "giants-and-little-people",
+    "dating-the-past",
+    "hill-figures"
+   ]
+  },
+  {
+   "id": "long-man-wilmington",
+   "title": "The Long Man of Wilmington: an ancient-looking giant cut in the 16th or 17th century",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1550,
+   "end": null,
+   "dateNote": "Probably 16th-17th century (2003 investigation)",
+   "evidenceTypes": [
+    "archaeological",
+    "textual"
+   ],
+   "mainstream": "The Long Man of Wilmington is a 72-metre outline of a human figure holding two staves on the steep slope of Windover Hill in East Sussex, England, designed to look in proportion when seen from below. It was long thought to date from the Iron Age or even the Neolithic. But an archaeological investigation in 2003 indicated that the figure was probably first cut in the early modern period, in the 16th or 17th century. Today its outline is marked with white-painted concrete blocks. Locally it was once called the Green Man. With the Cerne Abbas Giant, it is one of England's two major human hill figures.",
+   "alternatives": [
+    {
+     "label": "Ancient or not",
+     "text": "Its dating is a good example of how monuments that \"look\" prehistoric can be surprisingly recent; for many years writers linked it to ley lines, pagan gods or prehistoric astronomy."
+    },
+    {
+     "label": "Fringe ideas",
+     "text": "Alternative writers have seen it as a surveyor holding measuring rods, a gateway guardian or a figure aligned with sunrise; these ideas lack supporting evidence."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Long Man of Wilmington",
+     "url": "https://en.wikipedia.org/wiki/Long_Man_of_Wilmington",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Hill figure",
+     "url": "https://en.wikipedia.org/wiki/Hill_figure",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Long_Man_of_Wilmington.jpg/500px-Long_Man_of_Wilmington.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Long_Man_of_Wilmington.jpg",
+     "author": "User:Cupcakekid at en.wikipedia",
+     "license": "CC BY 2.5",
+     "title": "Long_Man_of_Wilmington.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "myth-legend"
+   ],
+   "threads": [
+    "giants-and-little-people",
+    "dating-the-past",
+    "ley-lines-and-alignments",
+    "hill-figures"
+   ]
+  },
+  {
+   "id": "arthurs-grave-glastonbury",
+   "title": "King Arthur's grave at Glastonbury (1191): a monastic discovery or publicity stunt?",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 1191,
+   "end": null,
+   "evidenceTypes": [
+    "textual (medieval chronicles)",
+    "archaeological"
+   ],
+   "mainstream": "In 1184 a great fire destroyed Glastonbury Abbey in Somerset. In 1191, while the monks were rebuilding, they announced that they had found the grave of King Arthur and Queen Guinevere in their cemetery. According to Gerald of Wales, writing a few years later, the abbot Henry de Sully had the ground searched and the diggers found, about 5 metres down, a hollowed oak trunk holding two skeletons, with a lead cross inscribed in Latin: 'Here lies buried the famous King Arthur in the Isle of Avalon'. The bones were later reburied in a black marble tomb in front of the high altar in 1278, in the presence of King Edward I. The tomb was lost when the abbey was dissolved in 1539. The cross was drawn by the antiquary William Camden but has since disappeared.",
+   "alternatives": [
+    {
+     "label": "Publicity stunt (mainstream)",
+     "text": "Most historians think the discovery was staged or at least embellished to attract pilgrims and money for rebuilding after the fire, and perhaps to please the Plantagenet kings by showing that Arthur was dead and would not return to lead the Welsh."
+    },
+    {
+     "label": "A real early burial",
+     "text": "Excavations in the 1960s by Ralegh Radford found evidence that a hole had been dug and an early grave removed at the spot the monks described, suggesting they did dig up an old burial. Whose it was cannot be known."
+    },
+    {
+     "label": "Avalon",
+     "text": "The claim that Glastonbury was the Isle of Avalon, and later legends that Joseph of Arimathea brought the Holy Grail there, made the town a centre of Arthurian and alternative spirituality that continues today."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Glastonbury Abbey",
+     "url": "https://en.wikipedia.org/wiki/Glastonbury_Abbey",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Avalon",
+     "url": "https://en.wikipedia.org/wiki/Avalon",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Glastonbury_Abbey_church_view_from_east.jpg/500px-Glastonbury_Abbey_church_view_from_east.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Glastonbury_Abbey_church_view_from_east.jpg",
+     "author": "Steve Slater",
+     "license": "CC BY 2.0",
+     "title": "Glastonbury_Abbey_church_view_from_east.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "myth-legend",
+    "hoaxes",
+    "religion"
+   ],
+   "threads": [
+    "sacred-relics",
+    "hidden-tombs",
+    "returning-saviours",
+    "sleeping-heroes",
+    "scythia-to-camelot"
    ]
   }
  ]
