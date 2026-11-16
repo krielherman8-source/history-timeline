@@ -1,0 +1,68 @@
+{
+ "great-oxidation-event": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=qERdL8uHSgI",
+  "title": "That Time Oxygen Almost Killed Everything",
+  "channel": "PBS Eons"
+ },
+ "tiktaalik": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=o5Z4mPQBjqA",
+  "title": "Tiktaalik's First Steps - David Attenborough's Rise of the Animals: Triumph of the Vertebrates - BBC",
+  "channel": "BBC"
+ },
+ "hero-twins": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=s-kDttqywJ4",
+  "title": "The twins who tricked the Maya gods of death - Ilan Stavans",
+  "channel": "TED-Ed"
+ },
+ "uluru": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=8T4w7jv3lhA",
+  "title": "Australia: Reclaiming the Rock - BBC News",
+  "channel": "BBC News"
+ },
+ "calvine-1990": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=0mQ1kGk2A88",
+  "title": "The story of the Calvine UFO photograph | In Case You Missed It",
+  "channel": "BBC News"
+ },
+ "early-stromatolites": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=uCVnRIP3pIk",
+  "title": "The Search for the Earliest Life",
+  "channel": "PBS Eons"
+ },
+ "mitochondrial-eve": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=YNQPQkV3nhw",
+  "title": "The Two People We're All Related To",
+  "channel": "PBS Eons"
+ },
+ "fall-of-nineveh": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=jpAphcaVJIs",
+  "title": "13. The Assyrians - Empire of Iron",
+  "channel": "Fall of Civilizations"
+ },
+ "tale-of-genji": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=UDwX7NLUr40",
+  "title": "Tale of Genji",
+  "channel": "Smarthistory"
+ },
+ "red-sprites": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=Xp-8xp_3hqU",
+  "title": "Blue jets, sprites & elves formed by storm cloud activity | Colourful Weather | ABC Australia",
+  "channel": "ABC Australia"
+ },
+ "mpemba-effect": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=UjIdzcxSe3g",
+  "title": "Does Hot Water Freeze Faster Than Cold Water?",
+  "channel": "SciShow"
+ }
+}
