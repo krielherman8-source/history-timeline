@@ -65395,6 +65395,536 @@
     "out-of-place-artifacts",
     "southern-africa"
    ]
+  },
+  {
+   "id": "fall-of-nineveh",
+   "title": "The fall of Nineveh, 612 BCE: the end of Assyria and the legend of Sardanapalus",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -612,
+   "end": null,
+   "evidenceTypes": [
+    "textual",
+    "archaeological"
+   ],
+   "mainstream": "In 612 BCE an alliance of Medes and Babylonians besieged and captured Nineveh, near modern Mosul in Iraq. It was the capital of the Neo-Assyrian Empire, then among the greatest cities in the world. The Babylonian chronicle known as the Fall of Nineveh Chronicle records the siege and the city's capture. Within three years the Assyrian Empire was gone, and Babylon became the centre of a new empire. Archaeology shows that Nineveh was largely abandoned afterwards, and its palaces, including the library of Ashurbanipal, lay buried until excavations in the 1840s and 1850s. The Hebrew prophet Nahum celebrated its fall.",
+   "alternatives": [
+    {
+     "label": "Sardanapalus",
+     "text": "A garbled Greek account turned the fall into the legend of Sardanapalus, a decadent last king who burned himself, his treasure and his concubines on a pyre. Historians see the story as a mix of several real kings and moral storytelling."
+    },
+    {
+     "label": "Flood or fire?",
+     "text": "Some ancient writers said the river rose and broke the walls. Archaeologists found burned palaces and destruction layers; whether flooding also helped the attackers is not settled."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Fall of Nineveh",
+     "url": "https://en.wikipedia.org/wiki/Fall_of_Nineveh",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Nineveh",
+     "url": "https://en.wikipedia.org/wiki/Nineveh",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Sardanapalus",
+     "url": "https://en.wikipedia.org/wiki/Sardanapalus",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Fall_of_nineveh.jpg/500px-Fall_of_nineveh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Fall_of_nineveh.jpg",
+     "author": "(Mu-tamajo) むーたんじょ",
+     "license": "CC BY-SA 4.0",
+     "title": "Fall_of_nineveh.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology",
+    "myth-legend"
+   ],
+   "threads": [
+    "civilisation-collapses",
+    "lost-libraries",
+    "mesopotamia-and-anatolia",
+    "royal-propaganda",
+    "myths-about-history"
+   ]
+  },
+  {
+   "id": "lilith",
+   "title": "Lilith: from night demon to Adam's first wife",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": 800,
+   "end": null,
+   "dateNote": "Alphabet of Ben Sira c. 700–1000 CE; older Mesopotamian roots",
+   "evidenceTypes": [
+    "textual",
+    "folklore",
+    "incantation bowls"
+   ],
+   "mainstream": "Lilith is a female figure in Jewish folklore. Her roots are often traced to Mesopotamian demons called lilitu, linked to wind and night. The Hebrew Bible mentions a 'lilith' once (Isaiah 34:14), among wild creatures living in ruins. Later Aramaic incantation bowls and the Babylonian Talmud describe Liliths as dangerous night spirits. The best-known story comes from the Alphabet of Ben Sira, a satirical medieval text (c. 700–1000 CE): Lilith was created from the earth like Adam, refused to be beneath him, and flew away; she was then said to threaten newborn babies, and amulets protected children from her.",
+   "alternatives": [
+    {
+     "label": "A feminist symbol",
+     "text": "From the 1970s some feminist writers adopted Lilith as a symbol of independence, reading her as a woman punished for demanding equality. Others note that the original sources present her as a demon."
+    },
+    {
+     "label": "The Burney Relief",
+     "text": "A Babylonian clay plaque of a winged woman with bird talons (c. 1800 BCE, British Museum) is sometimes called the 'Queen of the Night' and was once linked to Lilith. Most scholars now think it shows a goddess such as Ishtar or Ereshkigal."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Lilith",
+     "url": "https://en.wikipedia.org/wiki/Lilith",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Alphabet of Sirach",
+     "url": "https://en.wikipedia.org/wiki/Alphabet_of_Sirach",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Burney Relief",
+     "url": "https://en.wikipedia.org/wiki/Burney_Relief",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Lilith_%28John_Collier_painting%29.jpg/500px-Lilith_%28John_Collier_painting%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Lilith_(John_Collier_painting).jpg",
+     "author": "John Collier",
+     "license": "Public domain",
+     "title": "Lilith_(John_Collier_painting).jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion"
+   ],
+   "threads": [
+    "suppressed-beliefs",
+    "mesopotamia-and-anatolia",
+    "night-demons",
+    "contested-texts"
+   ]
+  },
+  {
+   "id": "battle-of-marathon",
+   "title": "Marathon, 490 BCE: the battle, the god Pan, and the run that may never have happened",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": -490,
+   "end": null,
+   "evidenceTypes": [
+    "textual",
+    "archaeological"
+   ],
+   "mainstream": "In 490 BCE an Athenian army, helped by Plataea, defeated a Persian force sent by King Darius I on the plain of Marathon, northeast of Athens. Herodotus, writing a few decades later, says that 192 Athenians died and about 6,400 Persians. The burial mound of the Athenian dead, the Soros, can still be seen. Herodotus also says that before the battle the runner Pheidippides ran from Athens to Sparta, about 240 km, to ask for help, and that the god Pan met him on the way and asked why the Athenians did not honour him. The Spartans arrived only after the battle, because they were celebrating a religious festival.",
+   "alternatives": [
+    {
+     "label": "The first marathon",
+     "text": "The story of a runner who ran from Marathon to Athens, announced victory and died appears centuries later, in Plutarch (1st century CE) and Lucian. Herodotus does not mention it. The tale inspired the marathon race at the 1896 Olympic Games. Historians consider it a legend that may mix up the run to Sparta."
+    },
+    {
+     "label": "Pan and the \"panic\"",
+     "text": "The Athenians later built a shrine to Pan. Some writers link Pan to the sudden fear (\"panic\") that was said to strike enemies, though this link is debated."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Battle of Marathon",
+     "url": "https://en.wikipedia.org/wiki/Battle_of_Marathon",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Pheidippides",
+     "url": "https://en.wikipedia.org/wiki/Pheidippides",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Scene_of_the_Battle_of_Marathon.jpg/500px-Scene_of_the_Battle_of_Marathon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Scene_of_the_Battle_of_Marathon.jpg",
+     "author": "John Steeple Davis",
+     "license": "Public domain",
+     "title": "Scene_of_the_Battle_of_Marathon.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "myth-legend"
+   ],
+   "threads": [
+    "iranian-worlds",
+    "myths-about-history",
+    "classical-world",
+    "greco-persian-wars"
+   ]
+  },
+  {
+   "id": "battle-of-salamis",
+   "title": "Salamis, 480 BCE: the sea battle that saved Athens",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -480,
+   "end": null,
+   "evidenceTypes": [
+    "textual"
+   ],
+   "mainstream": "In September 480 BCE, after the Persian king Xerxes had won at Thermopylae and burned Athens, a Greek fleet led by the Athenian Themistocles trapped the much larger Persian fleet in the narrow strait between the island of Salamis and the mainland. In the cramped water the Persian ships could not use their numbers, and many were sunk. Xerxes is said to have watched from a throne on the shore. He returned to Asia with much of his army, and the Greeks won the war the next year at Plataea. The playwright Aeschylus, who may have fought at Salamis, staged 'The Persians' about it in 472 BCE, the oldest surviving Greek play.",
+   "alternatives": [
+    {
+     "label": "Trick or treachery?",
+     "text": "Herodotus says Themistocles sent a slave to tell Xerxes that the Greeks were about to flee, luring the Persians into the strait. Some historians doubt the story or think it was told later to make Themistocles look clever."
+    },
+    {
+     "label": "Did it save the West?",
+     "text": "Many historians have called Salamis a turning point for Greek and Western civilisation. Others see this as exaggerated and point out that Persia remained a great power for 150 years."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Battle of Salamis",
+     "url": "https://en.wikipedia.org/wiki/Battle_of_Salamis",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: The Persians",
+     "url": "https://en.wikipedia.org/wiki/The_Persians",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Battle_of_salamis.png/500px-Battle_of_salamis.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Battle_of_salamis.png",
+     "author": "The Department of History, United States Military Academy",
+     "license": "Public domain",
+     "title": "Battle_of_salamis.png"
+    }
+   ],
+   "categories": [
+    "history"
+   ],
+   "threads": [
+    "iranian-worlds",
+    "myths-about-history",
+    "classical-world",
+    "greco-persian-wars"
+   ]
+  },
+  {
+   "id": "tale-of-genji",
+   "title": "The Tale of Genji: a court lady writes one of the first novels",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1008,
+   "end": null,
+   "dateNote": "Early 11th century; mentioned in 1008",
+   "evidenceTypes": [
+    "textual"
+   ],
+   "mainstream": "The Tale of Genji was written in the early 11th century by Murasaki Shikibu, a lady-in-waiting at the Japanese imperial court in Heian-kyō (Kyoto). Its 54 chapters follow the life and loves of Hikaru Genji, the 'shining' son of an emperor, and then his descendants. It is written in Japanese using kana script, and is famous for its psychology, poetry and picture of court life. Murasaki's own diary mentions the tale around 1008. No manuscript from her lifetime survives; the oldest copies and the famous illustrated handscrolls date from the 12th century onwards.",
+   "alternatives": [
+    {
+     "label": "The first novel?",
+     "text": "The tale is often called the world's first novel. Some scholars prefer 'first psychological novel' or reject the label, pointing to earlier long prose works, such as Greek and Latin novels."
+    },
+    {
+     "label": "One author or several?",
+     "text": "Some scholars have suggested that the final chapters (the 'Uji chapters') may have been written or reworked by someone else. Most still attribute the whole work to Murasaki Shikibu."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: The Tale of Genji",
+     "url": "https://en.wikipedia.org/wiki/The_Tale_of_Genji",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Murasaki Shikibu",
+     "url": "https://en.wikipedia.org/wiki/Murasaki_Shikibu",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Genji_emaki_01003_002.jpg/500px-Genji_emaki_01003_002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Genji_emaki_01003_002.jpg",
+     "author": "Imperial Palace Kyoto",
+     "license": "Public domain",
+     "title": "Genji_emaki_01003_002.jpg"
+    }
+   ],
+   "categories": [
+    "history"
+   ],
+   "threads": [
+    "knowledge-and-power",
+    "visionary-women"
+   ]
+  },
+  {
+   "id": "sennacherib-judah-701",
+   "title": "Sennacherib against Judah, 701 BCE: the Lachish reliefs and the angel of death",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -701,
+   "end": null,
+   "evidenceTypes": [
+    "textual",
+    "archaeological",
+    "relief sculpture"
+   ],
+   "mainstream": "In 701 BCE the Assyrian king Sennacherib marched west to crush a rebellion. He captured Lachish, the second city of the Kingdom of Judah, and had the siege carved on stone reliefs in his palace at Nineveh, now in the British Museum. Assyrian records, such as Sennacherib's annals on clay prisms, say he shut up King Hezekiah in Jerusalem 'like a bird in a cage' and received heavy tribute, but they do not claim the city was taken. Hezekiah stayed on the throne as a tribute-paying vassal. Excavations at Lachish found a siege ramp, arrowheads and destruction layers.",
+   "alternatives": [
+    {
+     "label": "The angel of the Lord",
+     "text": "The Hebrew Bible (2 Kings 18–19, Isaiah 36–37) says an angel struck down 185,000 Assyrian soldiers in one night outside Jerusalem, and Sennacherib went home. Believers read this as a miracle; many historians think it reflects a real withdrawal, perhaps because of disease or the tribute paid."
+    },
+    {
+     "label": "The mice of Herodotus",
+     "text": "The Greek historian Herodotus told an Egyptian version: field mice gnawed the Assyrians' bowstrings and shields, forcing them to retreat. Some scholars link mice to plague, but this is speculative."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Sennacherib's campaign in the Levant",
+     "url": "https://en.wikipedia.org/wiki/Sennacherib's_campaign_in_the_Levant",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Lachish reliefs",
+     "url": "https://en.wikipedia.org/wiki/Lachish_reliefs",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Siege of Lachish",
+     "url": "https://en.wikipedia.org/wiki/Siege_of_Lachish",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Assyrian_siege-engine_attacking_the_city_wall_of_Lachish%2C_part_of_the_ascending_assaulting_wave._Detail_of_a_wall_relief_dating_back_to_the_reign_of_Sennacherib%2C_700-692_BCE._From_Nineveh%2C_Iraq%2C_currently_housed_in_the_British_Museum.jpg/500px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Assyrian_siege-engine_attacking_the_city_wall_of_Lachish,_part_of_the_ascending_assaulting_wave._Detail_of_a_wall_relief_dating_back_to_the_reign_of_Sennacherib,_700-692_BCE._From_Nineveh,_Iraq,_currently_housed_in_the_British_Museum.jpg",
+     "author": "Osama Shukir Muhammed Amin FRCP(Glasg)",
+     "license": "CC BY-SA 4.0",
+     "title": "Assyrian_siege-engine_attacking_the_city_wall_of_Lachish,_part_of_the_ascending_assaulting_wave._Detail_of_a_wall_relief_dating_back_to_the_reign_of_Sennacherib,_700-692_BCE._From_Nineveh,_Iraq,_currently_housed_in_the_British_Museum.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology",
+    "religion"
+   ],
+   "threads": [
+    "plagues-and-epidemics",
+    "divine-punishment",
+    "mesopotamia-and-anatolia",
+    "levant-crossroads",
+    "royal-propaganda",
+    "bible-and-archaeology"
+   ]
+  },
+  {
+   "id": "siloam-tunnel",
+   "title": "Hezekiah's tunnel: two teams digging blind through the rock",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 3,
+   "start": -700,
+   "end": null,
+   "dateNote": "c. 700 BCE (some argue earlier)",
+   "evidenceTypes": [
+    "archaeological",
+    "epigraphic",
+    "radiometric dating"
+   ],
+   "mainstream": "The Siloam tunnel is a water channel about 533 m long, cut through the rock under the City of David in Jerusalem to carry water from the Gihon Spring to the Pool of Siloam. The Bible says King Hezekiah redirected the Gihon waters to protect Jerusalem from an Assyrian siege (2 Kings 20; 2 Chronicles 32:30). In 1880 an inscription was found inside the tunnel. In early Hebrew it describes how two teams of diggers, working from both ends, heard each other's voices through the rock and met in the middle. A 2003 study using radiocarbon and uranium-thorium dating supported a date around 700 BCE. The inscription is now in the Istanbul Archaeology Museums.",
+   "alternatives": [
+    {
+     "label": "Earlier than Hezekiah?",
+     "text": "Excavations published in 2011 suggested that the tunnel might have been started in the late 9th or early 8th century BCE, before Hezekiah."
+    },
+    {
+     "label": "How did they meet?",
+     "text": "The tunnel winds in an S shape. Engineers and archaeologists debate whether the diggers followed a natural crack in the rock, used sound, or had another method."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Siloam tunnel",
+     "url": "https://en.wikipedia.org/wiki/Siloam_tunnel",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Siloam inscription",
+     "url": "https://en.wikipedia.org/wiki/Siloam_inscription",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Radiometric dating of the Siloam Tunnel, Jerusalem",
+     "authors": "Frumkin, A. et al.",
+     "year": 2003,
+     "doi": "10.1038/nature01875",
+     "type": "paper"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Siloam22.jpg/500px-Siloam22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Siloam22.jpg",
+     "author": "Tamar Hayardeni תמר הירדני",
+     "license": "CC BY 3.0",
+     "title": "Siloam22.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history",
+    "religion"
+   ],
+   "threads": [
+    "water-engineering",
+    "levant-crossroads",
+    "dating-the-past",
+    "bible-and-archaeology"
+   ]
+  },
+  {
+   "id": "grand-canal-china",
+   "title": "The Grand Canal of China: the longest artificial river",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 605,
+   "end": null,
+   "dateNote": "Oldest sections 5th century BCE; Sui network early 600s CE",
+   "evidenceTypes": [
+    "archaeological",
+    "textual"
+   ],
+   "mainstream": "The Grand Canal is a system of waterways linking Beijing in the north with Hangzhou in the south. Its main route today is about 1,776 km long, the longest canal in the world. The oldest sections were dug in the 5th century BCE. Under Emperor Yang of the Sui dynasty, in the early 600s CE, earlier canals were linked into a single network joining the Yellow River and the Yangtze. This let grain from the rich south feed the capital and armies in the north. The work used huge forced labour, and Sui rule soon collapsed. Later dynasties, especially the Yuan, rebuilt and extended it. UNESCO listed it as a World Heritage Site in 2014.",
+   "alternatives": [
+    {
+     "label": "A cause of the Sui collapse",
+     "text": "Traditional Chinese histories blamed the Sui fall on the cost of the canal and Emperor Yang's wars and luxury. Some modern historians think this picture was exaggerated by the next dynasty, the Tang."
+    },
+    {
+     "label": "Water and power",
+     "text": "Some scholars see the canal as an example of how controlling water helped build and hold together large states; others think this idea, sometimes called \"hydraulic despotism\", is too simple."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Grand Canal (China)",
+     "url": "https://en.wikipedia.org/wiki/Grand_Canal_(China)",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "UNESCO World Heritage: The Grand Canal",
+     "url": "https://whc.unesco.org/en/list/1443",
+     "type": "heritage"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Wanning_Bridge_1.jpg/500px-Wanning_Bridge_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Wanning_Bridge_1.jpg",
+     "author": "EditQ",
+     "license": "CC BY-SA 4.0",
+     "title": "Wanning_Bridge_1.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology"
+   ],
+   "threads": [
+    "giant-monuments",
+    "water-engineering"
+   ]
+  },
+  {
+   "id": "tengu",
+   "title": "Tengu: the mountain goblins that began as a roaring shooting star",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": 637,
+   "end": null,
+   "dateNote": "First recorded mention: Nihon Shoki (720), entry for 637",
+   "evidenceTypes": [
+    "textual",
+    "folklore",
+    "art"
+   ],
+   "mainstream": "Tengu are supernatural beings of Japanese folklore, linked to mountains and forests. The Nihon Shoki, written in 720, is generally held to contain their first recorded mention: in an entry for 637, a large shooting star with a thunderous sound was named a tengu by a Buddhist monk, with a reading glossed as amatsukitsune, 'heavenly fox'. Early tengu were bird-like, kite-shaped demons; later art shows a red-faced figure with a very long nose, dressed like the yamabushi mountain ascetics. Buddhism long treated tengu as disruptive demons and omens of war, but over time they became dangerous protectors of mountains and teachers of swordsmanship.",
+   "alternatives": [
+    {
+     "label": "Origins in China and India",
+     "text": "The name uses the Chinese characters for tiangou, the 'heavenly dog' that was linked to meteors and eclipses in China. Some scholars also see influence from the Indian bird-being Garuda."
+    },
+    {
+     "label": "Real encounters",
+     "text": "Japanese folklore includes many stories of people, especially children, taken by tengu and later returned. Folklorists compare these to fairy abductions in Europe."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Tengu",
+     "url": "https://en.wikipedia.org/wiki/Tengu",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/The_Tengu_King_Training_his_Pupils.jpg/500px-The_Tengu_King_Training_his_Pupils.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:The_Tengu_King_Training_his_Pupils.jpg",
+     "author": "Hishikawa Moronobu",
+     "license": "CC0",
+     "title": "The Tengu King Training his Pupils.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion",
+    "science-cosmos"
+   ],
+   "threads": [
+    "sky-omens",
+    "shapeshifters",
+    "otherworld-visits",
+    "sky-stones",
+    "sacred-rocks-and-mountains"
+   ]
   }
  ]
 }
