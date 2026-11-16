@@ -65925,6 +65925,787 @@
     "sky-stones",
     "sacred-rocks-and-mountains"
    ]
+  },
+  {
+   "id": "naha-stone",
+   "title": "The Naha Stone: lift it and rule all Hawaii",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 3,
+   "start": 1772,
+   "end": null,
+   "dateNote": "Kamehameha's feat traditionally placed in his youth (18th century); exact date unknown",
+   "evidenceTypes": [
+    "oral tradition",
+    "physical object"
+   ],
+   "mainstream": "The Naha Stone is a volcanic boulder weighing about 2.5–3.5 tonnes, now outside the Hilo Public Library on the Island of Hawaii, where it was moved in 1952. Tradition says it came from Kauaʻi by double canoe. It was used to test babies said to be of the Naha royal line: a child placed on it who stayed silent was accepted. A legend said that whoever could overturn the stone would unite all the Hawaiian islands. Kamehameha, who did go on to unify Hawaii by 1810, is said to have moved it as a young man.",
+   "alternatives": [
+    {
+     "label": "A prophecy fulfilled",
+     "text": "Hawaiian tradition presents Kamehameha's feat as a sign that he was destined to rule, and it is a well-known part of his story."
+    },
+    {
+     "label": "Legend after the fact",
+     "text": "Historians note that stories like this are often told after a ruler succeeds, to support his right to rule. There is no independent record of the event; accounts differ on his age."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Naha Stone",
+     "url": "https://en.wikipedia.org/wiki/Naha_Stone",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Kamehameha I",
+     "url": "https://en.wikipedia.org/wiki/Kamehameha_I",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Naha_Stone%2C_Hilo.jpg/500px-Naha_Stone%2C_Hilo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Naha_Stone,_Hilo.jpg",
+     "author": "W Nowicki",
+     "license": "CC BY-SA 3.0",
+     "title": "Naha_Stone,_Hilo.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "history"
+   ],
+   "threads": [
+    "sacred-kingship",
+    "pacific-wayfinding",
+    "royal-propaganda",
+    "myths-about-history",
+    "prophecies",
+    "sacred-rocks-and-mountains"
+   ]
+  },
+  {
+   "id": "uluru",
+   "title": "Uluru: the sacred rock and the end of the climb",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": 1985,
+   "end": null,
+   "dateNote": "Handback 1985; climb closed 2019",
+   "evidenceTypes": [
+    "oral tradition",
+    "geological",
+    "historical records"
+   ],
+   "mainstream": "Uluru is a huge sandstone monolith in the Northern Territory of Australia, rising about 348 m above the plain. Geologists say it formed from sediments laid down over 500 million years ago and later tilted and exposed by erosion. For the Aṉangu, its traditional owners, Uluru is a place of Tjukurpa (often translated 'Dreaming'), with sites that record the deeds of ancestral beings such as the python woman Kuniya and the venomous snake man Liru. On 26 October 1985 the Australian government returned ownership to the Aṉangu, who leased it back as a national park. After years of requests from the Aṉangu, the climb was closed on 26 October 2019 and the chain handhold was removed.",
+   "alternatives": [
+    {
+     "label": "Ancient presence",
+     "text": "Archaeological evidence shows that Aboriginal people have lived in the area for many thousands of years. Aṉangu tradition holds that they have always been there."
+    },
+    {
+     "label": "Curse of the stolen rocks",
+     "text": "Park staff have received many rocks that tourists took and later mailed back, often with letters blaming them for bad luck. This is a modern legend; the Aṉangu do not describe it as part of their law."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Uluru",
+     "url": "https://en.wikipedia.org/wiki/Uluru",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Parks Australia: Uluru-Kata Tjuta National Park",
+     "url": "https://parksaustralia.gov.au/uluru/",
+     "type": "official"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/ULURU.jpg/500px-ULURU.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:ULURU.jpg",
+     "author": "Ek2030372672",
+     "license": "CC BY-SA 4.0",
+     "title": "ULURU.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion",
+    "history"
+   ],
+   "threads": [
+    "deep-oral-memory",
+    "serpent-beings",
+    "modern-legends",
+    "curses-and-hauntings",
+    "repatriation-debates",
+    "sacred-rocks-and-mountains"
+   ]
+  },
+  {
+   "id": "treaty-of-waitangi",
+   "title": "The Treaty of Waitangi: one treaty, two texts",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1840,
+   "end": null,
+   "evidenceTypes": [
+    "textual",
+    "historical records"
+   ],
+   "mainstream": "On 6 February 1840 representatives of the British Crown and more than 40 Māori chiefs signed a treaty at Waitangi in New Zealand; copies were later signed by about 500 chiefs in total. It became the founding document of New Zealand. There are English and Māori versions, and they differ. In the English text the chiefs cede 'all the rights and powers of sovereignty'. In the Māori text they grant 'kawanatanga' (governance) while keeping 'tino rangatiratanga' (full chieftainship) over their lands, villages and 'taonga' (treasures). Land sales and wars followed, and many Māori lost their lands. Since 1975 the Waitangi Tribunal has investigated breaches.",
+   "alternatives": [
+    {
+     "label": "Which text counts?",
+     "text": "Many academics and the Waitangi Tribunal give extra weight to the Māori text, which most chiefs signed, and argue that Māori never gave up sovereignty. Others hold that the English text and later law established Crown sovereignty."
+    },
+    {
+     "label": "A living debate",
+     "text": "The meaning of the treaty is still debated in New Zealand politics, including recent arguments over how its principles should be written into law."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Treaty of Waitangi",
+     "url": "https://en.wikipedia.org/wiki/Treaty_of_Waitangi",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Treatyofwaitangi.jpg/500px-Treatyofwaitangi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Treatyofwaitangi.jpg",
+     "author": "William Hobson, James Freeman, and James Busby (English version); Henry Williams and Edward Williams (Māori translation)",
+     "license": "Public domain",
+     "title": "Treatyofwaitangi.jpg"
+    }
+   ],
+   "categories": [
+    "history"
+   ],
+   "threads": [
+    "changed-understanding",
+    "resistance-to-empire",
+    "contested-texts"
+   ]
+  },
+  {
+   "id": "isandlwana-1879",
+   "title": "Isandlwana, 1879: a Zulu victory under a darkening sun",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1879,
+   "end": null,
+   "evidenceTypes": [
+    "historical records",
+    "oral tradition",
+    "astronomical"
+   ],
+   "mainstream": "On 22 January 1879, early in the Anglo-Zulu War, a Zulu army of about 20,000 attacked a British camp at the foot of Isandlwana hill in Zululand. The British force was largely destroyed: more than 1,300 British soldiers and African auxiliaries were killed, one of the worst defeats of a modern army by an indigenous force. The Zulu also lost heavily. That afternoon, around 2:30 pm, a partial solar eclipse darkened the sky over the battlefield. Britain sent reinforcements and defeated the Zulu kingdom later in 1879, but the battle changed British tactics and is still remembered in South Africa.",
+   "alternatives": [
+    {
+     "label": "An omen in the sky",
+     "text": "Some accounts, including oral memories gathered later, connect the darkened sun with the slaughter. Historians treat these as later interpretations; the eclipse was real but partial."
+    },
+    {
+     "label": "Who was to blame?",
+     "text": "British officials blamed Colonel Anthony Durnford, who died in the battle. Later historians argue that the commander Lord Chelmsford's decisions, such as splitting his force, were more to blame."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Battle of Isandlwana",
+     "url": "https://en.wikipedia.org/wiki/Battle_of_Isandlwana",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Anglo-Zulu War",
+     "url": "https://en.wikipedia.org/wiki/Anglo-Zulu_War",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Isandhlwana.jpg/500px-Isandhlwana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Isandhlwana.jpg",
+     "author": "Charles Edwin Fripp",
+     "license": "Public domain",
+     "title": "Isandhlwana.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "science-cosmos"
+   ],
+   "threads": [
+    "sky-omens",
+    "resistance-to-empire",
+    "southern-africa",
+    "eclipses-in-history"
+   ]
+  },
+  {
+   "id": "hero-twins",
+   "title": "The Maya Hero Twins: ballgame against the Lords of Death",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": 200,
+   "end": null,
+   "dateNote": "Identified in Classic Maya art (200–900 CE); written down in the 16th century",
+   "evidenceTypes": [
+    "textual",
+    "art",
+    "archaeological"
+   ],
+   "mainstream": "The Hero Twins, Hunahpu and Xbalanque, are the central figures of the Popol Vuh, a Kʼicheʼ Maya text written down in the 16th century, which preserves the oldest complete Maya myth. Their father and uncle were summoned to Xibalba, the underworld, by the Lords of Death, lost a ballgame and were killed. The father's head, hung in a tree, made a daughter of an underworld lord pregnant, and she gave birth to the twins. They grew up to defeat their monstrous enemies, survived the trials of Xibalba, beat the Lords at the ballgame and through trickery, and finally rose into the sky, often identified as the Sun and the Moon. The twins have also been identified in the art of the Classic Maya (200–900 CE), many centuries before the Popol Vuh was written down.",
+   "alternatives": [
+    {
+     "label": "Myth and kingship",
+     "text": "Classic Maya kings often linked themselves to the Hero Twins and other mythic figures. Some scholars think the ballgame re-enacted the twins' victory over death."
+    },
+    {
+     "label": "Twins worldwide",
+     "text": "Divine twins appear in many mythologies, such as Romulus and Remus, the Greek Dioscuri and the Vedic Ashvins. Some see a deep shared pattern; others see independent inventions arising from the fascination with twins."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Maya Hero Twins",
+     "url": "https://en.wikipedia.org/wiki/Maya_Hero_Twins",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Popol Vuh",
+     "url": "https://en.wikipedia.org/wiki/Popol_Vuh",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Altar_5_from_La_Venta%2C_left_side_%28Ruben_Charles%29.jpg/500px-Altar_5_from_La_Venta%2C_left_side_%28Ruben_Charles%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Altar_5_from_La_Venta,_left_side_(Ruben_Charles).jpg",
+     "author": "Ruben Charles, (http://www.rubencharles.com)",
+     "license": "CC BY 2.0",
+     "title": "Altar_5_from_La_Venta,_left_side_(Ruben_Charles).jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion"
+   ],
+   "threads": [
+    "sacred-kingship",
+    "otherworld-visits",
+    "underground-worlds",
+    "central-america",
+    "trickster-tales",
+    "divine-twins"
+   ]
+  },
+  {
+   "id": "yggdrasil",
+   "title": "Yggdrasil: the World Tree of Norse myth",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": 1220,
+   "end": null,
+   "dateNote": "Written sources 13th century (Prose Edda c. 1220); older oral tradition",
+   "evidenceTypes": [
+    "textual"
+   ],
+   "mainstream": "In Norse mythology Yggdrasil is an immense ash tree at the centre of the cosmos, whose branches and roots connect the worlds of gods, giants, humans and the dead. It is described in the Poetic Edda, a collection of poems preserved in a 13th-century Icelandic manuscript, and in the Prose Edda written by Snorri Sturluson around 1220. Three roots reach to wells or springs; the Norns, who shape fate, tend it. A dragon, Níðhöggr, gnaws its roots, an eagle sits at the top, and a squirrel, Ratatoskr, runs between them carrying insults. The god Odin hung for nine nights on a tree, usually identified as Yggdrasil, to gain the runes. At Ragnarök the tree shakes but survives.",
+   "alternatives": [
+    {
+     "label": "A shared pattern",
+     "text": "World trees connecting heaven, earth and underworld appear in many cultures, from Siberian shamanism to the Maya ceiling tree. Some scholars see a very old shared idea; others think the image arises independently because trees link the ground and the sky."
+    },
+    {
+     "label": "Christian influence?",
+     "text": "Because the Eddas were written down by Christians, some researchers think the image of Odin on the tree may have been shaped by the crucifixion; others argue it is an older pagan theme."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Yggdrasil",
+     "url": "https://en.wikipedia.org/wiki/Yggdrasil",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Poetic Edda",
+     "url": "https://en.wikipedia.org/wiki/Poetic_Edda",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Prose Edda",
+     "url": "https://en.wikipedia.org/wiki/Prose_Edda",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Yggdrasil.jpg/500px-Yggdrasil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Yggdrasil.jpg",
+     "author": "Oluf Bagge",
+     "license": "Public domain",
+     "title": "Yggdrasil.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion"
+   ],
+   "threads": [
+    "serpent-beings",
+    "world-ages-and-resets",
+    "creation-myths",
+    "underground-worlds",
+    "world-trees"
+   ]
+  },
+  {
+   "id": "adamastor",
+   "title": "Adamastor: the giant of the Cape of Storms",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": 1572,
+   "end": null,
+   "dateNote": "Cape rounded 1488; Os Lusíadas published 1572",
+   "evidenceTypes": [
+    "literary",
+    "historical records"
+   ],
+   "mainstream": "In 1488 the Portuguese navigator Bartolomeu Dias sailed round the southern tip of Africa; according to tradition he named it the Cape of Storms, and King John II renamed it the Cape of Good Hope. In 1572 the poet Luís de Camões published Os Lusíadas, an epic about Vasco da Gama's voyage to India. In it, a monstrous giant named Adamastor rises from the sea at the Cape, warns of disasters that will strike later Portuguese ships, and tells how the gods turned him into the rocky headland as punishment for loving a sea nymph. Adamastor became a lasting symbol of the Cape in poetry, from Fernando Pessoa to André Brink.",
+   "alternatives": [
+    {
+     "label": "Myth from real danger",
+     "text": "Many readers see Adamastor as a personification of the storms, currents and shipwrecks that made the Cape so dangerous for sailors. Other Cape legends, such as the Flying Dutchman, grew from the same fears."
+    },
+    {
+     "label": "A colonial symbol",
+     "text": "Some South African writers read Adamastor as a symbol of Africa resisting European arrival, while others see the poem as celebrating Portuguese expansion."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Adamastor",
+     "url": "https://en.wikipedia.org/wiki/Adamastor",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Os Lusíadas",
+     "url": "https://en.wikipedia.org/wiki/Os_Lus%C3%ADadas",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Bartolomeu Dias",
+     "url": "https://en.wikipedia.org/wiki/Bartolomeu_Dias",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Adamastor_no_alto_de_Santa_Catarina_1980.JPG/500px-Adamastor_no_alto_de_Santa_Catarina_1980.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Adamastor_no_alto_de_Santa_Catarina_1980.JPG",
+     "author": "João Carvalho",
+     "license": "CC BY-SA 3.0",
+     "title": "Adamastor_no_alto_de_Santa_Catarina_1980.JPG"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "history"
+   ],
+   "threads": [
+    "giants-and-little-people",
+    "petrified-beings",
+    "sea-mysteries",
+    "divine-punishment",
+    "travellers-tales",
+    "southern-africa",
+    "prophecies",
+    "sacred-rocks-and-mountains"
+   ]
+  },
+  {
+   "id": "max-headroom-1987",
+   "title": "The Max Headroom hijacking: Chicago's unsolved TV takeover",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 3,
+   "start": 1987,
+   "end": null,
+   "evidenceTypes": [
+    "broadcast recordings",
+    "news reports"
+   ],
+   "mainstream": "On the evening of 22 November 1987, two Chicago television stations were hijacked about two hours apart. During WGN-TV's evening news, a figure in a Max Headroom mask swayed in front of a moving metal panel for about 17 seconds, with only a buzzing sound, before engineers regained control. Later that night, during PBS station WTTW's broadcast of the Doctor Who serial Horror of Fang Rock, the masked figure returned for about 90 seconds with garbled audio, ending with the figure's bare buttocks being swatted by a woman with a flyswatter. The Federal Communications Commission investigated, but the people responsible have never been identified.",
+   "alternatives": [
+    {
+     "label": "Insider job",
+     "text": "Many investigators think the hijackers needed technical knowledge and equipment to overpower the stations' microwave links, perhaps people with experience in broadcasting. Various online sleuths have named suspects, but none has been confirmed."
+    },
+    {
+     "label": "Something stranger",
+     "text": "The incident has become an internet legend, sometimes treated as creepy or mysterious. There is no evidence that it was anything more than a prank by unknown people."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Max Headroom signal hijackings",
+     "url": "https://en.wikipedia.org/wiki/Max_Headroom_signal_hijackings",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [],
+   "categories": [
+    "history",
+    "anomalies"
+   ],
+   "threads": [
+    "modern-legends",
+    "unsolved-crimes",
+    "media-hoaxes"
+   ]
+  },
+  {
+   "id": "kryptos",
+   "title": "Kryptos: the CIA's unsolved sculpture",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 3,
+   "start": 1990,
+   "end": null,
+   "evidenceTypes": [
+    "physical object",
+    "cryptanalysis"
+   ],
+   "mainstream": "Kryptos is a sculpture by the American artist Jim Sanborn at CIA headquarters in Langley, Virginia, dedicated on 3 November 1990. A curved copper screen bears four encrypted messages cut into the metal. The first three were solved by the late 1990s by a CIA analyst, by an NSA team and by a computer scientist, Jim Gillogly. The fourth, K4, became one of the world's most famous unsolved codes; Sanborn released clues, including the words BERLIN and CLOCK. In September 2025 two journalists, Jarett Kobek and Richard Byrne, said they had found what appeared to be the K4 plaintext among Sanborn's papers at the Smithsonian's Archives of American Art. Sanborn's K4 archive was auctioned in November 2025 for $962,500.",
+   "alternatives": [
+    {
+     "label": "Still unsolved?",
+     "text": "Some puzzle fans say that the archive find does not count as 'solving' K4, since nobody has shown how to decrypt it from the sculpture. The Smithsonian sealed the files at Sanborn's request."
+    },
+    {
+     "label": "A fifth message",
+     "text": "Sanborn has said that a fifth message, K5, will become apparent once K4 is solved, which keeps the puzzle alive."
+    }
+   ],
+   "changed": "1990: dedicated; 1999: K1–K3 solution announced publicly; 2025: K4 plaintext found in Smithsonian archive and the solution archive auctioned.",
+   "sources": [
+    {
+     "title": "Wikipedia: Kryptos",
+     "url": "https://en.wikipedia.org/wiki/Kryptos",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Kryptos_sculptor.jpg/500px-Kryptos_sculptor.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Kryptos_sculptor.jpg",
+     "author": "Jim Sanborn",
+     "license": "CC BY-SA 3.0",
+     "title": "Kryptos_sculptor.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "anomalies"
+   ],
+   "threads": [
+    "knowledge-and-power",
+    "cold-war-secrets",
+    "ciphers-and-codes"
+   ]
+  },
+  {
+   "id": "grusch-hearing-2023",
+   "title": "The 2023 UFO hearing: David Grusch and \"non-human biologics\"",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 2023,
+   "end": null,
+   "evidenceTypes": [
+    "testimony",
+    "official statements"
+   ],
+   "mainstream": "On 26 July 2023, David Grusch, a former US Air Force intelligence officer who had served on the Unidentified Aerial Phenomena Task Force, testified under oath before a subcommittee of the US House Oversight Committee, along with two former Navy pilots. He said the US government had a long-running secret programme to recover and reverse-engineer craft of non-human origin, and that 'non-human biologics' had been recovered. He said his claims were based on interviews with others and that he could give details only in a classified setting. NASA and the Department of Defense denied that any such programmes exist, and no supporting evidence has been made public.",
+   "alternatives": [
+    {
+     "label": "Cover-up",
+     "text": "Supporters say the hearing showed that serious officials believe the government hides evidence of non-human craft, and they point to whistleblower laws passed by Congress. They say the lack of public evidence is due to secrecy."
+    },
+    {
+     "label": "Second-hand claims",
+     "text": "Sceptics and many scientists stress that Grusch did not see the craft himself and that independent experts have dismissed the claims. A 2024 report by the Pentagon's All-domain Anomaly Resolution Office found no evidence of recovered alien technology."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: David Grusch UFO whistleblower claims",
+     "url": "https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: All-domain Anomaly Resolution Office",
+     "url": "https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/David_Grusch_giving_testimony_on_26_July_2023_before_the_US_House_Subcommittee_on_National_Security_the_Border_and_Foreign_Affairs.png/500px-David_Grusch_giving_testimony_on_26_July_2023_before_the_US_House_Subcommittee_on_National_Security_the_Border_and_Foreign_Affairs.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:David_Grusch_giving_testimony_on_26_July_2023_before_the_US_House_Subcommittee_on_National_Security_the_Border_and_Foreign_Affairs.png",
+     "author": "U.S. House Subcommittee on National Security, the Border, and Foreign Affairs (screenshot from government website video ",
+     "license": "Public domain",
+     "title": "David_Grusch_giving_testimony_on_26_July_2023_before_the_US_House_Subcommittee_on_National_Security_the_Border_and_Foreign_Affairs.png"
+    }
+   ],
+   "categories": [
+    "aliens-ufo",
+    "history"
+   ],
+   "threads": [
+    "cold-war-secrets",
+    "official-ufo-investigations"
+   ]
+  },
+  {
+   "id": "calvine-1990",
+   "title": "The Calvine photograph: a diamond-shaped UFO and a hovering jet",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 3,
+   "start": 1990,
+   "end": null,
+   "evidenceTypes": [
+    "photograph",
+    "official documents"
+   ],
+   "mainstream": "On 4 August 1990 two men walking on moors near Calvine in Perthshire, Scotland, said they saw a large, silent, diamond-shaped object hovering above them, while a military jet, later identified as a Harrier, made low passes nearby. They gave photographs and negatives to the Daily Record newspaper, which passed them to the Ministry of Defence; the newspaper never ran the story and the negatives disappeared. Ministry of Defence files released in 2009 mentioned the case. In 2022 the journalist and researcher David Clarke tracked down a print kept by a former RAF press officer, Craig Lindsay, and it was published in August 2022. The witnesses have never been identified.",
+   "alternatives": [
+    {
+     "label": "Best UFO photo?",
+     "text": "Some ufologists and media called it one of the best UFO photographs ever taken. Nick Pope, who worked on UFO reports at the Ministry of Defence, said analysts thought it showed a real object."
+    },
+    {
+     "label": "Reflection or hoax",
+     "text": "Sceptics have suggested a reflection of a rock in water, a small object hung on a line, or a staged photo. A former head of the Pentagon's AARO, Sean Kirkpatrick, said he thought it showed a reflection and had been doctored."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Calvine UFO photograph",
+     "url": "https://en.wikipedia.org/wiki/Calvine_UFO_photograph",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [],
+   "categories": [
+    "aliens-ufo",
+    "anomalies"
+   ],
+   "threads": [
+    "ufo-encounters",
+    "lost-evidence",
+    "seeing-what-we-expect",
+    "official-ufo-investigations",
+    "anomalous-photos"
+   ]
+  },
+  {
+   "id": "red-sprites",
+   "title": "Red sprites: lightning that goes up, doubted until 1989",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1989,
+   "end": null,
+   "evidenceTypes": [
+    "photographic",
+    "eyewitness accounts",
+    "instrumental"
+   ],
+   "mainstream": "Sprites are huge, brief flashes of red-orange light in the upper atmosphere, about 50–90 km high, above powerful thunderstorms. They are usually triggered by strong positive lightning strikes below and last only a few milliseconds. For a century, pilots and others reported strange lights shooting up from storm clouds; the earliest known report is from 1886, and the physicist C. T. R. Wilson predicted such discharges in 1925. Most scientists were sceptical until July 1989, when University of Minnesota researchers recorded one by accident with a low-light camera. Since then, sprites have been filmed thousands of times, including from the International Space Station.",
+   "alternatives": [
+    {
+     "label": "Explained UFO reports?",
+     "text": "Some researchers suggest that sprites and related flashes (blue jets and ELVES) may explain some reports of strange lights over storms. This is speculative for any particular case."
+    },
+    {
+     "label": "Lesson about witnesses",
+     "text": "Sprites are often cited as an example of reports that were dismissed for decades and then confirmed, which some use to argue that other unexplained sightings deserve study."
+    }
+   ],
+   "changed": "1886: first known report; 1925: Wilson's prediction; 1989: first recorded on camera.",
+   "sources": [
+    {
+     "title": "Wikipedia: Sprite (lightning)",
+     "url": "https://en.wikipedia.org/wiki/Sprite_(lightning)",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Television Image of a Large Upward Electrical Discharge Above a Thunderstorm System",
+     "authors": "Franz, R. et al.",
+     "year": 1990,
+     "doi": "10.1126/science.249.4964.48",
+     "type": "paper"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Sprite_over_Southeast_Asia_from_ISS.jpg/500px-Sprite_over_Southeast_Asia_from_ISS.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Sprite_over_Southeast_Asia_from_ISS.jpg",
+     "author": "Matthew Dominick",
+     "license": "Public domain",
+     "title": "Sprite_over_Southeast_Asia_from_ISS.jpg"
+    }
+   ],
+   "categories": [
+    "science-cosmos",
+    "anomalies"
+   ],
+   "threads": [
+    "changed-understanding",
+    "stories-proven-true",
+    "mysterious-lights",
+    "fortean-phenomena"
+   ]
+  },
+  {
+   "id": "mpemba-effect",
+   "title": "The Mpemba effect: a Tanzanian schoolboy and the hot water that freezes faster",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 3,
+   "start": 1963,
+   "end": null,
+   "evidenceTypes": [
+    "experimental"
+   ],
+   "mainstream": "In 1963 Erasto Mpemba, a pupil at Magamba Secondary School in Tanganyika (now Tanzania), noticed in a cookery class that a hot ice-cream mixture froze before a cold one. His teachers and classmates laughed. Later, when the physicist Denis Osborne visited his school, Mpemba asked him about it. Osborne tested it, and in 1969 they published a joint paper. The idea that hot water can freeze faster than cold was mentioned long before by Aristotle, Francis Bacon and René Descartes. Today the 'Mpemba effect' has been studied in water, colloids and even quantum and magnetic systems.",
+   "alternatives": [
+    {
+     "label": "It is real",
+     "text": "Some experiments, and newer work on other systems, report a genuine effect under certain conditions, for example through evaporation, dissolved gases or convection."
+    },
+    {
+     "label": "It depends on the setup",
+     "text": "Other careful studies of water found no reproducible effect, and some argue it depends on how 'freezing' is defined or on uncontrolled details. Physicists remain divided."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Mpemba effect",
+     "url": "https://en.wikipedia.org/wiki/Mpemba_effect",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Cool?",
+     "authors": "Mpemba, E. et al.",
+     "year": 1969,
+     "doi": "10.1088/0031-9120/4/3/312",
+     "type": "paper"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Erasto_Mpemba_%281963%29.jpg/500px-Erasto_Mpemba_%281963%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Erasto_Mpemba_(1963).jpg",
+     "author": "Unknown authorUnknown author",
+     "license": "Public domain",
+     "title": "Erasto_Mpemba_(1963).jpg"
+    }
+   ],
+   "categories": [
+    "science-cosmos",
+    "anomalies"
+   ],
+   "threads": [
+    "stories-proven-true",
+    "rejected-pioneers",
+    "tested-by-experiment",
+    "voices-of-doubt"
+   ]
+  },
+  {
+   "id": "sailing-stones",
+   "title": "The sailing stones of Death Valley: solved in 2014",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 3,
+   "start": 2014,
+   "end": null,
+   "dateNote": "Tracks studied from the early 1900s; movement filmed 2013–2014",
+   "evidenceTypes": [
+    "observational",
+    "GPS tracking",
+    "time-lapse"
+   ],
+   "mainstream": "On Racetrack Playa, a dry lake bed in Death Valley National Park, California, rocks weighing up to hundreds of kilograms leave long tracks across the flat mud, as if they had moved by themselves. The tracks were studied from the early 1900s, and suggested explanations included strong winds, ice, slime, and magnetism. Nobody had seen a stone move. In 2013–2014 a team led by Richard Norris and James Norris used GPS-tagged stones and time-lapse cameras and filmed the stones moving. Thin sheets of ice formed on a shallow pond, broke up on sunny days, and were pushed by light winds, sliding the stones a few metres per minute.",
+   "alternatives": [
+    {
+     "label": "Paranormal ideas",
+     "text": "Before 2014 the stones were cited in books on unexplained phenomena, with some suggesting magnetic or unknown forces. These ideas are now considered disproved."
+    },
+    {
+     "label": "One answer for all?",
+     "text": "Scientists note that tracks from different years may have formed in slightly different conditions, such as thicker ice or stronger winds."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Sailing stones",
+     "url": "https://en.wikipedia.org/wiki/Sailing_stones",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Sliding Rocks on Racetrack Playa, Death Valley National Park: First Observation of Rocks in Motion",
+     "authors": "Norris, R. et al.",
+     "year": 2014,
+     "doi": "10.1371/journal.pone.0105948",
+     "type": "paper"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Death_Valley_NP_-_Racetrack_Playa_-_sailing_stone_-_closeup.JPG/500px-Death_Valley_NP_-_Racetrack_Playa_-_sailing_stone_-_closeup.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Death_Valley_NP_-_Racetrack_Playa_-_sailing_stone_-_closeup.JPG",
+     "author": "Daniel Mayer (mav)",
+     "license": "CC BY-SA 3.0",
+     "title": "Death_Valley_NP_-_Racetrack_Playa_-_sailing_stone_-_closeup.JPG"
+    }
+   ],
+   "categories": [
+    "anomalies",
+    "science-cosmos"
+   ],
+   "threads": [
+    "changed-understanding",
+    "stories-proven-true",
+    "seeing-what-we-expect",
+    "tested-by-experiment",
+    "fortean-phenomena"
+   ]
   }
  ]
 }
