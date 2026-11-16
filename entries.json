@@ -3851,7 +3851,8 @@
    ],
    "threads": [
     "abandoned-babies",
-    "classical-world"
+    "classical-world",
+    "divine-twins"
    ]
   },
   {
@@ -8472,7 +8473,8 @@
    ],
    "threads": [
     "changed-understanding",
-    "human-origins"
+    "human-origins",
+    "cradle-of-humankind"
    ]
   },
   {
@@ -12778,7 +12780,8 @@
     "deep-oral-memory",
     "sky-omens",
     "ancient-astronomy",
-    "native-north-america"
+    "native-north-america",
+    "eclipses-in-history"
    ]
   },
   {
@@ -20821,7 +20824,8 @@
     "human-origins",
     "rejected-pioneers",
     "giant-birds",
-    "southern-africa"
+    "southern-africa",
+    "cradle-of-humankind"
    ]
   },
   {
@@ -21247,7 +21251,8 @@
    ],
    "threads": [
     "sky-omens",
-    "strange-sounds"
+    "strange-sounds",
+    "night-demons"
    ]
   },
   {
@@ -21435,7 +21440,8 @@
     "millenarian-movements",
     "suppressed-beliefs",
     "native-north-america",
-    "resistance-to-empire"
+    "resistance-to-empire",
+    "eclipses-in-history"
    ]
   },
   {
@@ -25016,7 +25022,8 @@
    "threads": [
     "changed-understanding",
     "sky-omens",
-    "seeing-what-we-expect"
+    "seeing-what-we-expect",
+    "eclipses-in-history"
    ]
   },
   {
@@ -34768,7 +34775,8 @@
    "threads": [
     "changed-understanding",
     "human-origins",
-    "accidental-discoveries"
+    "accidental-discoveries",
+    "cradle-of-humankind"
    ]
   },
   {
@@ -38976,7 +38984,8 @@
     "science-cosmos"
    ],
    "threads": [
-    "human-origins"
+    "human-origins",
+    "cradle-of-humankind"
    ]
   },
   {
@@ -39192,7 +39201,8 @@
    "threads": [
     "sky-omens",
     "knowledge-and-power",
-    "caribbean-worlds"
+    "caribbean-worlds",
+    "eclipses-in-history"
    ]
   },
   {
@@ -51275,7 +51285,8 @@
    "threads": [
     "myths-about-history",
     "classical-world",
-    "resistance-to-empire"
+    "resistance-to-empire",
+    "greco-persian-wars"
    ]
   },
   {
@@ -64853,6 +64864,536 @@
     "returning-saviours",
     "sleeping-heroes",
     "scythia-to-camelot"
+   ]
+  },
+  {
+   "id": "great-oxidation-event",
+   "title": "The Great Oxidation Event: when microbes filled the air with oxygen",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -2460000000,
+   "end": -2060000000,
+   "dateNote": "c. 2.46–2.06 billion years ago",
+   "evidenceTypes": [
+    "geochemical",
+    "isotopic",
+    "geological"
+   ],
+   "mainstream": "Between about 2.46 and 2.06 billion years ago, free oxygen first built up in Earth's atmosphere and shallow seas. Geologists infer that it came from cyanobacteria, microbes that had evolved photosynthesis releasing oxygen as a by-product. For a long time the oxygen was soaked up by dissolved iron, laying down the banded iron formations that supply most of today's iron ore. Once those 'sinks' were used up, oxygen accumulated. Because oxygen is toxic to many organisms that evolved without it, the event is sometimes called the Oxygen Catastrophe, and it may have contributed to the Huronian glaciations. It also paved the way for oxygen-breathing cells and, much later, complex life.",
+   "alternatives": [
+    {
+     "label": "Debate over timing and cause",
+     "text": "Researchers still argue over why oxygen rose when it did. Proposals include a slow decline in volcanic gases that consumed oxygen, changes in nutrient supply, and the gradual lengthening of Earth's day, which gave microbial mats more continuous daylight. Some evidence hints at short \"whiffs\" of oxygen before the main event."
+    },
+    {
+     "label": "Life reshaping a planet",
+     "text": "The event is often cited as the first time living things changed the chemistry of the whole planet. Some writers compare it to human-caused change today; scientists caution that the scales of time are very different."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Great Oxidation Event",
+     "url": "https://en.wikipedia.org/wiki/Great_Oxidation_Event",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "The rise of oxygen in Earth’s early ocean and atmosphere",
+     "authors": "Lyons, T. et al.",
+     "year": 2014,
+     "doi": "10.1038/nature13068",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: Banded iron formation",
+     "url": "https://en.wikipedia.org/wiki/Banded_iron_formation",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Black-band_ironstone_%28aka%29.jpg/500px-Black-band_ironstone_%28aka%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Black-band_ironstone_(aka).jpg",
+     "author": "André Karwath aka Aka",
+     "license": "CC BY-SA 2.5",
+     "title": "Black-band ironstone (aka).jpg"
+    }
+   ],
+   "categories": [
+    "science-cosmos",
+    "catastrophes"
+   ],
+   "threads": [
+    "mass-extinctions",
+    "deep-time-earth",
+    "how-life-began"
+   ]
+  },
+  {
+   "id": "early-stromatolites",
+   "title": "Stromatolites: the oldest signs of life, and the 3.7-billion-year argument",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": -3700000000,
+   "end": -3430000000,
+   "dateNote": "Pilbara stromatolites c. 3.48–3.43 billion years ago; disputed Isua structures c. 3.7 billion years ago",
+   "evidenceTypes": [
+    "palaeontological",
+    "geochemical",
+    "geological"
+   ],
+   "mainstream": "Stromatolites are layered rock mounds built by mats of microbes, such as cyanobacteria, that trap and cement sediment layer by layer. Fossil stromatolites are among the oldest accepted evidence of life. Those in the Pilbara region of Western Australia, about 3.48 to 3.43 billion years old, are widely accepted, and a 2006 study described a 3.43-billion-year-old stromatolite reef in the Strelley Pool Formation. Living stromatolites still grow in a few places, most famously Shark Bay in Western Australia. They give a rare glimpse of what the shallow seas of the early Earth looked like.",
+   "alternatives": [
+    {
+     "label": "Life at 3.7 billion years?",
+     "text": "In 2016 a team reported cone-shaped structures in 3.7-billion-year-old rocks at Isua, Greenland, as the oldest stromatolites. A 2018 study of the same outcrop argued that the structures were deformed rock layers, not biological. The question is still debated."
+    },
+    {
+     "label": "Look-alikes",
+     "text": "Some scientists warn that chemical and physical processes can form layered mounds without life, so a stromatolite shape alone is not proof. This is why researchers look for chemical traces of microbes as well."
+    }
+   ],
+   "changed": "2006: Strelley Pool reef described. 2016: Isua structures announced as older stromatolites. 2018: reanalysis argued they are not biological.",
+   "sources": [
+    {
+     "title": "Wikipedia: Stromatolite",
+     "url": "https://en.wikipedia.org/wiki/Stromatolite",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Stromatolite reef from the Early Archaean era of Australia",
+     "authors": "Allwood, A. et al.",
+     "year": 2006,
+     "doi": "10.1038/nature04764",
+     "type": "paper"
+    },
+    {
+     "title": "Rapid emergence of life shown by discovery of 3,700-million-year-old microbial structures",
+     "authors": "Nutman, A. et al.",
+     "year": 2016,
+     "doi": "10.1038/nature19355",
+     "type": "paper"
+    },
+    {
+     "title": "Reassessing evidence of life in 3,700-million-year-old rocks of Greenland",
+     "authors": "Allwood, A. et al.",
+     "year": 2018,
+     "doi": "10.1038/s41586-018-0610-4",
+     "type": "paper"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Stromatolithe_Pal%C3%A9oarch%C3%A9en_-_MNHT.PAL.2009.10.1.jpg/500px-Stromatolithe_Pal%C3%A9oarch%C3%A9en_-_MNHT.PAL.2009.10.1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Stromatolithe_Pal%C3%A9oarch%C3%A9en_-_MNHT.PAL.2009.10.1.jpg",
+     "author": "Didier Descouens",
+     "license": "CC BY-SA 4.0",
+     "title": "Stromatolithe_Paléoarchéen_-_MNHT.PAL.2009.10.1.jpg"
+    }
+   ],
+   "categories": [
+    "science-cosmos"
+   ],
+   "threads": [
+    "changed-understanding",
+    "deep-time-earth",
+    "how-life-began",
+    "dating-the-past"
+   ]
+  },
+  {
+   "id": "tiktaalik",
+   "title": "Tiktaalik: the \"fishapod\" found where scientists predicted",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -375000000,
+   "end": null,
+   "evidenceTypes": [
+    "fossil",
+    "geological dating"
+   ],
+   "mainstream": "Tiktaalik roseae was a lobe-finned fish that lived about 375 million years ago, in the late Devonian. It had gills and scales, but also a flat, crocodile-like head, a neck, and sturdy fins with wrist-like bones that could prop it up in shallow water. Its fossils were found in 2004 on Ellesmere Island in Arctic Canada by a team including Neil Shubin, Edward Daeschler and Farish Jenkins, and described in Nature in 2006. The team chose the site because rocks of the right age and type, laid down in shallow streams, were exposed there. Tiktaalik is often presented as a transitional form between fish and four-legged animals (tetrapods). Its name means 'large freshwater fish' in Inuktitut, chosen with the advice of Inuit elders.",
+   "alternatives": [
+    {
+     "label": "Older footprints",
+     "text": "In 2010 researchers described tetrapod-like trackways from Zachełmie, Poland, dated to about 395 million years ago, older than Tiktaalik. This suggests that four-legged animals already existed earlier, so Tiktaalik may be a late survivor of a transitional group rather than a direct ancestor."
+    },
+    {
+     "label": "Creationist objections",
+     "text": "Some creationist writers argue that Tiktaalik is simply an unusual fish and not evidence of evolution, and point to the Polish tracks. Palaeontologists reply that a transitional form does not need to be a direct ancestor to show how the change from fins to limbs happened."
+    }
+   ],
+   "changed": "2004: fossils found; 2006: described in Nature; 2010: older Zachełmie trackways complicated the picture.",
+   "sources": [
+    {
+     "title": "Wikipedia: Tiktaalik",
+     "url": "https://en.wikipedia.org/wiki/Tiktaalik",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "A Devonian tetrapod-like fish and the evolution of the tetrapod body plan",
+     "authors": "Daeschler, E. et al.",
+     "year": 2006,
+     "doi": "10.1038/nature04639",
+     "type": "paper"
+    },
+    {
+     "title": "Tetrapod trackways from the early Middle Devonian period of Poland",
+     "authors": "Niedźwiedzki, G. et al.",
+     "year": 2010,
+     "doi": "10.1038/nature08623",
+     "type": "paper"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Tiktaalik_Chicago.JPG/500px-Tiktaalik_Chicago.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Tiktaalik_Chicago.JPG",
+     "author": "Eduard Solà",
+     "license": "CC BY-SA 3.0",
+     "title": "Tiktaalik_Chicago.JPG"
+    }
+   ],
+   "categories": [
+    "science-cosmos"
+   ],
+   "threads": [
+    "changed-understanding",
+    "deep-time-earth"
+   ]
+  },
+  {
+   "id": "mitochondrial-eve",
+   "title": "Mitochondrial Eve and Y-chromosomal Adam: the shared ancestors in our DNA",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -155000,
+   "end": null,
+   "dateNote": "Estimates vary; c. 155,000 years ago (as of 2013)",
+   "evidenceTypes": [
+    "genetic"
+   ],
+   "mainstream": "Mitochondrial DNA passes almost only from mother to child. By comparing it across living people, geneticists can trace all maternal lines back to one woman, the most recent common ancestor of everyone alive today along the mother's line. She has been nicknamed 'Mitochondrial Eve'. A 1987 study in Nature by Rebecca Cann, Mark Stoneking and Allan Wilson placed her in Africa about 200,000 years ago. As of 2013, estimates were around 155,000 years. Her male counterpart, 'Y-chromosomal Adam', is traced through the Y chromosome passed from father to son; estimates as of 2015 put him around 200,000 to 300,000 years ago. The two need not have lived at the same time or met.",
+   "alternatives": [
+    {
+     "label": "Not the first woman",
+     "text": "Geneticists stress that she was not the only woman alive, nor the first human. Many of her contemporaries also have descendants today, just not through an unbroken line of mothers. The title also moves forward in time whenever a maternal line dies out."
+    },
+    {
+     "label": "Echo of Eden",
+     "text": "The biblical nickname has led some religious writers to connect the finding to Adam and Eve. Scientists note that the genetic 'Eve' and 'Adam' are separated by tens of thousands of years and lived among large populations, which differs from the Genesis account."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Mitochondrial Eve",
+     "url": "https://en.wikipedia.org/wiki/Mitochondrial_Eve",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Mitochondrial DNA and human evolution",
+     "authors": "Cann, R. et al.",
+     "year": 1987,
+     "doi": "10.1038/325031a0",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: Y-chromosomal Adam",
+     "url": "https://en.wikipedia.org/wiki/Y-chromosomal_Adam",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Early_diversification.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Early_diversification.PNG",
+     "author": "Pdeitiker",
+     "license": "Public domain",
+     "title": "Early_diversification.PNG"
+    }
+   ],
+   "categories": [
+    "science-cosmos",
+    "history",
+    "religion"
+   ],
+   "threads": [
+    "changed-understanding",
+    "human-origins",
+    "genetic-migrations"
+   ]
+  },
+  {
+   "id": "klasies-river",
+   "title": "Klasies River Caves: early Homo sapiens on the Cape coast",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 3,
+   "start": -125000,
+   "end": -55000,
+   "dateNote": "Occupation from c. 125,000 years ago",
+   "evidenceTypes": [
+    "archaeological",
+    "fossil"
+   ],
+   "mainstream": "The Klasies River Caves lie in a sandstone cliff on the Tsitsikamma coast of South Africa's Eastern Cape. Excavations by Ronald Singer and John Wymer in 1967–1968, and later by Hilary Deacon and Sarah Wurz, revealed Middle Stone Age occupation beginning about 125,000 years ago. More than 50 human fossils, mostly fragments, belong to early Homo sapiens. The layers also contain stone tools, shellfish, burnt food remains, and from the Howiesons Poort period (about 80,000–65,000 years ago) a ground bone point and a charred bone with engraved lines. The site is a key record of how modern human behaviour developed in southern Africa.",
+   "alternatives": [
+    {
+     "label": "Cannibalism?",
+     "text": "Cut marks and burning on some human bones have led some researchers to propose episodic cannibalism. Others say the evidence is too limited to know whether this happened, or whether the marks come from funeral practices."
+    },
+    {
+     "label": "How \"modern\" were they?",
+     "text": "Scholars debate whether the people of Klasies were fully modern in behaviour or whether such behaviour emerged gradually. The site is often compared with Blombos Cave and Pinnacle Point."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Klasies River Caves",
+     "url": "https://en.wikipedia.org/wiki/Klasies_River_Caves",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [],
+   "categories": [
+    "archaeology",
+    "history"
+   ],
+   "threads": [
+    "human-origins",
+    "first-art",
+    "southern-africa"
+   ]
+  },
+  {
+   "id": "diepkloof-eggshells",
+   "title": "Diepkloof: engraved ostrich-egg water flasks, 60,000 years ago",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 3,
+   "start": -60000,
+   "end": null,
+   "evidenceTypes": [
+    "archaeological",
+    "dating"
+   ],
+   "mainstream": "At Diepkloof Rock Shelter, near Elands Bay about 150 km north of Cape Town, archaeologists found hundreds of fragments of ostrich eggshell engraved with repeated geometric patterns, such as hatched bands and parallel lines. Some had holes at one end, like ostrich-egg water containers still used by San people in recent times. A 2010 study dated them to about 60,000 years ago, in the Howiesons Poort period. The researchers argued that the repeated motifs were a shared graphic tradition, possibly marking the identity of a person or group. In 2024 the site became part of the World Heritage Site 'Pleistocene Occupation Sites of South Africa'.",
+   "alternatives": [
+    {
+     "label": "Symbols or decoration?",
+     "text": "Most specialists accept the patterns as deliberate and symbolic. Some argue it is hard to know what they meant: they may be personal marks, group signs, or simply decoration."
+    },
+    {
+     "label": "One of many beginnings",
+     "text": "The find adds to evidence from Blombos and other southern African sites that symbolic behaviour was present in Africa long before cave art appeared in Europe."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Diepkloof Rock Shelter",
+     "url": "https://en.wikipedia.org/wiki/Diepkloof_Rock_Shelter",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "A Howiesons Poort tradition of engraving ostrich eggshell containers dated to 60,000 years ago at Diepkloof Rock Shelter, South Africa",
+     "authors": "Texier, P. et al.",
+     "year": 2010,
+     "doi": "10.1073/pnas.0913047107",
+     "type": "paper"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Diepkloof-general-view.JPG/500px-Diepkloof-general-view.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Diepkloof-general-view.JPG",
+     "author": "Vincent Mourre / Inrap",
+     "license": "CC BY-SA 3.0",
+     "title": "Diepkloof-general-view.JPG"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history"
+   ],
+   "threads": [
+    "first-art",
+    "southern-africa"
+   ]
+  },
+  {
+   "id": "mrs-ples",
+   "title": "Mrs Ples: the skull blasted out with dynamite",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -3700000,
+   "end": -2100000,
+   "dateNote": "First dated c. 2.1–2.6 million years; 2022 study: c. 3.4–3.7 million years (debated); found 1947",
+   "evidenceTypes": [
+    "fossil",
+    "geological dating"
+   ],
+   "mainstream": "On 18 April 1947 Robert Broom and John T. Robinson found the most complete skull of Australopithecus africanus ever recovered in South Africa, at Sterkfontein, about 40 km northwest of Johannesburg. Broom used dynamite and pickaxes, so the skull came out in pieces and some fragments are missing. Broom first named it Plesianthropus transvaalensis ('near-man from the Transvaal'), and his young co-workers nicknamed it 'Mrs Ples'. Scientists call it STS 5. It helped persuade sceptics that Raymond Dart's Taung Child was a genuine human relative. It is kept at the Ditsong National Museum of Natural History in Pretoria, and the area is now part of the Cradle of Humankind World Heritage Site.",
+   "alternatives": [
+    {
+     "label": "Mrs or Mr?",
+     "text": "Some researchers have argued from the skull's features that it may be male, but the question has not been settled and the nickname has stayed."
+    },
+    {
+     "label": "How old?",
+     "text": "The skull was first dated to about 2.1–2.6 million years ago. A 2022 study using cosmogenic nuclide dating of the surrounding rocks gave 3.4–3.7 million years, which would make it as old as Lucy. Other researchers question whether the new dates apply to the fossils themselves."
+    }
+   ],
+   "changed": "1947: found; dated to c. 2.1–2.6 million years; 2022: cosmogenic dating of the cave rocks suggested 3.4–3.7 million years.",
+   "sources": [
+    {
+     "title": "Wikipedia: Mrs. Ples",
+     "url": "https://en.wikipedia.org/wiki/Mrs._Ples",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Cosmogenic nuclide dating of Australopithecus at Sterkfontein, South Africa",
+     "authors": "Granger, D. et al.",
+     "year": 2022,
+     "doi": "10.1073/pnas.2123516119",
+     "type": "paper"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Mrs_Ples_Face.jpg/500px-Mrs_Ples_Face.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Mrs_Ples_Face.jpg",
+     "author": "José Braga; Didier Descouens",
+     "license": "CC BY-SA 4.0",
+     "title": "Mrs_Ples_Face.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "science-cosmos"
+   ],
+   "threads": [
+    "changed-understanding",
+    "human-origins",
+    "southern-africa",
+    "dating-the-past",
+    "cradle-of-humankind"
+   ]
+  },
+  {
+   "id": "makapansgat-pebble",
+   "title": "The Makapansgat pebble: a 3-million-year-old stone face",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 3,
+   "start": -3000000,
+   "end": null,
+   "dateNote": "c. 3 million years ago; found 1925",
+   "evidenceTypes": [
+    "archaeological",
+    "geological"
+   ],
+   "mainstream": "In 1925 a schoolteacher, Wilfred Eitzman, found a reddish-brown jasper pebble in a cave in the Makapan Valley, north of Mokopane, South Africa. Natural chipping and weathering give it what look like two eyes and a mouth, so it resembles a face. The cave also held fossils of australopithecines. The pebble was found several kilometres from the nearest possible natural source of this kind of stone, so some scholars suggest an early hominin noticed the 'face' and carried it back about 3 million years ago. No traces of artificial shaping have been found; the markings are natural. It is held at the University of the Witwatersrand in Johannesburg.",
+   "alternatives": [
+    {
+     "label": "The oldest manuport",
+     "text": "Some researchers, such as Robert Bednarik, argue that the pebble is the oldest known manuport (an object carried by a human relative) and possibly the earliest sign of a sense of beauty or of seeing faces in things."
+    },
+    {
+     "label": "Carried by nature",
+     "text": "Sceptics say the pebble could have reached the cave by water, animals or other natural means, and that there is no way to prove a hominin chose it."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Makapansgat pebble",
+     "url": "https://en.wikipedia.org/wiki/Makapansgat_pebble",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Makapansgat_pebble.webp/500px-Makapansgat_pebble.webp?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Makapansgat_pebble.webp",
+     "author": "Robert G. Bednarik",
+     "license": "CC BY-SA 4.0",
+     "title": "Makapansgat_pebble.webp"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "anomalies"
+   ],
+   "threads": [
+    "human-origins",
+    "pareidolia",
+    "first-art",
+    "southern-africa",
+    "cradle-of-humankind"
+   ]
+  },
+  {
+   "id": "klerksdorp-spheres",
+   "title": "Klerksdorp spheres: \"ancient machined balls\" in 3-billion-year-old rock",
+   "lane": "history",
+   "status": "debunked",
+   "priority": 3,
+   "start": 1982,
+   "end": null,
+   "dateNote": "rocks c. 3 billion years old; popularised from the 1980s",
+   "evidenceTypes": [
+    "geological",
+    "popular claims"
+   ],
+   "mainstream": "Miners at the Wonderstone pyrophyllite quarries near Ottosdal, South Africa, collect small spheres and discs, usually 0.5–10 cm across, from rocks about 3 billion years old. In popular books, magazine articles (including a 1982 issue of Scope) and websites they have been described as manufactured objects, some with grooves around the middle, made by an unknown ancient civilisation or by aliens. Geologists who have cut them open, such as Paul Heinrich, found radiating crystal structures of hematite or wollastonite. They concluded that the spheres are natural concretions that grew inside volcanic sediments as the rock changed over time.",
+   "alternatives": [
+    {
+     "label": "Out-of-place artefacts",
+     "text": "Writers on ancient mysteries have cited the spheres as evidence of intelligent makers billions of years ago, pointing to their regular shapes and grooves. These claims are speculative and have no support in geological studies."
+    },
+    {
+     "label": "The spinning-sphere story",
+     "text": "Popular articles quoted Roelf Marx, a former curator of the Klerksdorp Museum, as saying a sphere rotated by itself in a sealed display case. Marx later said he had been misquoted: it moved because of earth tremors from blasting in nearby gold mines."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Klerksdorp sphere",
+     "url": "https://en.wikipedia.org/wiki/Klerksdorp_sphere",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Ottosdal1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Ottosdal1.jpg",
+     "author": "Robert Huggett",
+     "license": "Public domain",
+     "title": "Ottosdal1.jpg"
+    }
+   ],
+   "categories": [
+    "anomalies",
+    "hoaxes",
+    "lost-civilisations",
+    "aliens-ufo"
+   ],
+   "threads": [
+    "outsider-builder-claims",
+    "seeing-what-we-expect",
+    "out-of-place-artifacts",
+    "southern-africa"
    ]
   }
  ]
