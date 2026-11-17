@@ -66773,6 +66773,708 @@
     "tested-by-experiment",
     "fortean-phenomena"
    ]
+  },
+  {
+   "id": "penicillin-1928",
+   "title": "Penicillin: the mould on a forgotten dish",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": 1928,
+   "end": null,
+   "evidenceTypes": [
+    "documentary",
+    "laboratory records",
+    "scientific publication"
+   ],
+   "mainstream": "In September 1928 the Scottish bacteriologist Alexander Fleming, working at St Mary's Hospital in London, noticed that a mould contaminating one of his Staphylococcus culture plates had killed the bacteria around it. He identified the mould as a Penicillium, called the active substance 'penicillin' and published his findings in 1929, but he could not purify it in useful amounts. In 1940 a team at the University of Oxford led by Howard Florey and Ernst Chain purified penicillin and showed that it cured infections in mice and then people. Mass production during the Second World War made it the first widely used antibiotic. Fleming, Florey and Chain shared the 1945 Nobel Prize in Physiology or Medicine.",
+   "alternatives": [
+    {
+     "label": "Luck or preparation?",
+     "text": "The story is often told as a pure accident. Later reconstructions suggest that an unusual run of cool and then warm weather in London, while Fleming was on holiday, helped the mould and bacteria grow in just the right order. Others stress that Fleming had studied antibacterial substances for years and recognised what he saw."
+    },
+    {
+     "label": "Who gets the credit",
+     "text": "Press coverage in the 1940s focused on Fleming, and some historians argue that the Oxford team, including biochemist Norman Heatley, did much of the work that turned a curiosity into a medicine. Mouldy food used in folk remedies in several cultures is sometimes cited as a forerunner; the evidence for this is anecdotal."
+    },
+    {
+     "label": "A warning in 1945",
+     "text": "In his Nobel lecture Fleming warned that misuse of penicillin could lead to resistant bacteria. Antibiotic resistance is now considered a major global health problem."
+    }
+   ],
+   "changed": "1928: mould noticed. 1929: published. 1940-41: purified and tested at Oxford. 1945: Nobel Prize. Since then: growing antibiotic resistance.",
+   "sources": [
+    {
+     "title": "Wikipedia: Penicillin",
+     "url": "https://en.wikipedia.org/wiki/Penicillin",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: History of penicillin",
+     "url": "https://en.wikipedia.org/wiki/History_of_penicillin",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Alexander Fleming",
+     "url": "https://en.wikipedia.org/wiki/Alexander_Fleming",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Synthetic_Production_of_Penicillin_TR1468.jpg/500px-Synthetic_Production_of_Penicillin_TR1468.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Synthetic_Production_of_Penicillin_TR1468.jpg",
+     "author": "Official photographer",
+     "license": "Public domain",
+     "title": "Synthetic_Production_of_Penicillin_TR1468.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "science-cosmos"
+   ],
+   "threads": [
+    "stories-proven-true",
+    "plagues-and-epidemics",
+    "accidental-discoveries",
+    "voices-of-doubt"
+   ]
+  },
+  {
+   "id": "smallpox-eradication",
+   "title": "From milkmaids to eradication: the defeat of smallpox",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": 1796,
+   "end": 1980,
+   "dateNote": "1796 Jenner experiment; eradication declared 1980",
+   "evidenceTypes": [
+    "documentary",
+    "epidemiological",
+    "medical records"
+   ],
+   "mainstream": "Smallpox killed hundreds of millions of people over the centuries. Long before vaccines, people in China, India, the Ottoman Empire and parts of Africa practised 'variolation', deliberately infecting a person with material from a mild case. In 1796 the English doctor Edward Jenner tested a rural belief that milkmaids who caught cowpox did not get smallpox: he inoculated a boy, James Phipps, with cowpox and then showed he resisted smallpox. The word 'vaccine' comes from the Latin vacca, cow. In 1967 the World Health Organization launched an intensified eradication campaign built on surveillance and ring vaccination. The last natural case was in Somalia in 1977, and in 1980 the WHO declared smallpox eradicated, the only human disease wiped out so far.",
+   "alternatives": [
+    {
+     "label": "Folk knowledge first",
+     "text": "Jenner was not the first to try cowpox; a farmer, Benjamin Jesty, is recorded as having inoculated his family in 1774. In 1721 Onesimus, an enslaved African man in Boston, described variolation as practised in West Africa to Cotton Mather, who promoted it during an epidemic. Historians cite these cases as examples of traditional knowledge that formal medicine later adopted."
+    },
+    {
+     "label": "Should the last samples be destroyed?",
+     "text": "Stocks of the virus are still kept in two high-security laboratories, in the United States and Russia. Whether to destroy them has been debated at the WHO for decades."
+    }
+   ],
+   "changed": "1796: Jenner's cowpox experiment. 1967: WHO intensified campaign. 1977: last natural case. 1980: eradication declared.",
+   "sources": [
+    {
+     "title": "Wikipedia: Smallpox vaccine",
+     "url": "https://en.wikipedia.org/wiki/Smallpox_vaccine",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Smallpox",
+     "url": "https://en.wikipedia.org/wiki/Smallpox",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Edward Jenner",
+     "url": "https://en.wikipedia.org/wiki/Edward_Jenner",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Edward_Jenner.jpg/500px-Edward_Jenner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Edward_Jenner.jpg",
+     "author": "John Raphael Smith",
+     "license": "Public domain",
+     "title": "Edward_Jenner.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "science-cosmos",
+    "catastrophes"
+   ],
+   "threads": [
+    "stories-proven-true",
+    "deep-oral-memory",
+    "plagues-and-epidemics"
+   ]
+  },
+  {
+   "id": "mendel-peas",
+   "title": "Mendel's peas: the forgotten laws of heredity",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1866,
+   "end": null,
+   "evidenceTypes": [
+    "experimental",
+    "scientific publication"
+   ],
+   "mainstream": "Gregor Mendel, an Augustinian friar at St Thomas's Abbey in Brno (now in the Czech Republic), bred thousands of pea plants between 1856 and 1863. Tracking seven traits, such as seed colour and plant height, he found that traits are passed on as separate units in predictable ratios. A trait could vanish in one generation and return in the next, about one in four times. He called traits 'dominant' and 'recessive' and published in 1866. His work drew little attention in his lifetime. In 1900 three botanists, Hugo de Vries, Carl Correns and Erich von Tschermak, independently reached similar results and rediscovered his paper. His 'factors' are now called genes, and his work is seen as the foundation of genetics.",
+   "alternatives": [
+    {
+     "label": "Too good to be true?",
+     "text": "In 1936 the statistician Ronald Fisher argued that Mendel's ratios were closer to the expected values than chance would allow, suggesting that the data had been tidied. Others have defended Mendel, pointing to how he may have chosen and counted plants. The debate has never been fully settled."
+    },
+    {
+     "label": "Why was he ignored?",
+     "text": "Explanations include his use of mathematics, unusual in biology at the time, publication in a local journal, and the fact that he later turned to running his abbey. Some historians argue he was less ignored than the legend says."
+    }
+   ],
+   "changed": "1866: published. 1900: rediscovered by de Vries, Correns and Tschermak. 1936: Fisher questions the data. 2025: the last of Mendel's seven pea genes reported identified.",
+   "sources": [
+    {
+     "title": "Wikipedia: Gregor Mendel",
+     "url": "https://en.wikipedia.org/wiki/Gregor_Mendel",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Mendelian inheritance",
+     "url": "https://en.wikipedia.org/wiki/Mendelian_inheritance",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Experiments on Plant Hybridization",
+     "url": "https://en.wikipedia.org/wiki/Experiments_on_Plant_Hybridization",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Gregor_Mendel_2.jpg/500px-Gregor_Mendel_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Gregor_Mendel_2.jpg",
+     "author": "Unknown authorUnknown author",
+     "license": "Public domain",
+     "title": "Gregor_Mendel_2.jpg"
+    }
+   ],
+   "categories": [
+    "science-cosmos",
+    "history"
+   ],
+   "threads": [
+    "changed-understanding",
+    "rejected-pioneers",
+    "scientific-revolution",
+    "voices-of-doubt"
+   ]
+  },
+  {
+   "id": "expanding-universe-1929",
+   "title": "The universe is expanding: Lemaître, Hubble and the receding galaxies",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": 1929,
+   "end": null,
+   "evidenceTypes": [
+    "astronomical observation",
+    "theoretical"
+   ],
+   "mainstream": "In the 1910s Vesto Slipher measured that most spiral 'nebulae' show redshifted light, meaning they are moving away from us. In 1922 Alexander Friedmann showed that Einstein's general relativity allowed an expanding universe. In 1927 the Belgian priest and physicist Georges Lemaître proposed that the universe is expanding and that recession speed rises with distance. In 1929 Edwin Hubble, using distances to galaxies measured at Mount Wilson Observatory, published the relation between distance and velocity. This expansion is the basis of the Big Bang model. In 2018 the International Astronomical Union recommended calling it the Hubble–Lemaître law to recognise Lemaître's earlier work.",
+   "alternatives": [
+    {
+     "label": "Tired light and steady state",
+     "text": "In 1929 Fritz Zwicky suggested that light might lose energy over vast distances (\"tired light\") rather than galaxies receding; this idea is rejected by most astronomers today. From 1948 Fred Hoyle, Hermann Bondi and Thomas Gold proposed a \"steady state\" universe that expands forever without a beginning. The discovery of the cosmic microwave background in 1965 weighed heavily against it."
+    },
+    {
+     "label": "Einstein's \"biggest blunder\"",
+     "text": "Einstein is often quoted as calling his cosmological constant his \"biggest blunder\" after expansion was found. The quote comes second-hand from the physicist George Gamow, and historians question whether Einstein said it."
+    },
+    {
+     "label": "The Hubble tension",
+     "text": "Different methods give different values for the expansion rate today. Whether this points to measurement problems or to new physics is an open question."
+    }
+   ],
+   "changed": "1912-1917: Slipher's redshifts. 1922: Friedmann. 1927: Lemaître. 1929: Hubble. 1965: CMB found. 2018: renamed Hubble–Lemaître law.",
+   "sources": [
+    {
+     "title": "Wikipedia: Hubble's law",
+     "url": "https://en.wikipedia.org/wiki/Hubble's_law",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "A relation between distance and radial velocity among extra-galactic nebulae",
+     "authors": "Hubble, E.",
+     "year": 1929,
+     "doi": "10.1073/pnas.15.3.168",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: Georges Lemaître",
+     "url": "https://en.wikipedia.org/wiki/Georges_Lema%C3%AEtre",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Studio_portrait_photograph_of_Edwin_Powell_Hubble_%28cropped%29.JPG/500px-Studio_portrait_photograph_of_Edwin_Powell_Hubble_%28cropped%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Studio_portrait_photograph_of_Edwin_Powell_Hubble_(cropped).JPG",
+     "author": "Johan Hagemeyer",
+     "license": "Public domain",
+     "title": "Studio_portrait_photograph_of_Edwin_Powell_Hubble_(cropped).JPG"
+    }
+   ],
+   "categories": [
+    "science-cosmos"
+   ],
+   "threads": [
+    "changed-understanding",
+    "scientific-revolution"
+   ]
+  },
+  {
+   "id": "pulsars-lgm-1967",
+   "title": "\"Little Green Men\": the pulsar that looked like a signal",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1967,
+   "end": null,
+   "evidenceTypes": [
+    "radio astronomy",
+    "scientific publication"
+   ],
+   "mainstream": "In August 1967 Jocelyn Bell, a PhD student at the University of Cambridge, noticed a small, odd trace in the paper chart records of a new radio telescope she had helped build. It turned out to be a source pulsing every 1.337 seconds with clock-like precision. Because no natural source this regular was known, the team half-jokingly labelled it LGM-1, for 'Little Green Men', and briefly considered whether it could be artificial. Finding more sources in different parts of the sky made that unlikely. The 1968 paper in Nature, led by Antony Hewish, reported the first pulsar, now known to be a rapidly spinning neutron star sweeping beams of radio waves past Earth like a lighthouse.",
+   "alternatives": [
+    {
+     "label": "A signal from aliens?",
+     "text": "The alien idea was dropped within months, once several pulsars were found and a natural explanation fitted. The episode is often told to show how scientists handle a signal that looks artificial; it is cited alongside the 1977 Wow! signal, which has never been repeated or explained."
+    },
+    {
+     "label": "The Nobel controversy",
+     "text": "The 1974 Nobel Prize in Physics went to Hewish and Martin Ryle but not to Bell (later Bell Burnell). Some astronomers, such as Fred Hoyle, criticised the decision. Bell Burnell has said she was not upset at the time. In 2018 she received a Breakthrough Prize and gave the money to fund graduate students from under-represented groups."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Pulsar",
+     "url": "https://en.wikipedia.org/wiki/Pulsar",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Observation of a Rapidly Pulsating Radio Source",
+     "authors": "HEWISH, A. et al.",
+     "year": 1968,
+     "doi": "10.1038/217709a0",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: Jocelyn Bell Burnell",
+     "url": "https://en.wikipedia.org/wiki/Jocelyn_Bell_Burnell",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Launch_of_IYA_2009%2C_Paris_-_Grygar%2C_Bell_Burnell_cropped.jpg/500px-Launch_of_IYA_2009%2C_Paris_-_Grygar%2C_Bell_Burnell_cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Launch_of_IYA_2009,_Paris_-_Grygar,_Bell_Burnell_cropped.jpg",
+     "author": "Launch_of_IYA_2009,_Paris_-_Grygar,_Bell_Burnell.jpg: Astronomical Institute, Academy of Sciences of the Czech Republic\n",
+     "license": "CC BY-SA 3.0",
+     "title": "Launch_of_IYA_2009,_Paris_-_Grygar,_Bell_Burnell_cropped.jpg"
+    }
+   ],
+   "categories": [
+    "science-cosmos",
+    "aliens-ufo",
+    "anomalies"
+   ],
+   "threads": [
+    "rejected-pioneers",
+    "seeing-what-we-expect",
+    "life-beyond-earth",
+    "visionary-women",
+    "accidental-discoveries",
+    "contact-attempts"
+   ]
+  },
+  {
+   "id": "vera-rubin-dark-matter",
+   "title": "Vera Rubin and the galaxies spinning too fast: the case for dark matter",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 1970,
+   "end": null,
+   "evidenceTypes": [
+    "astronomical observation",
+    "spectroscopy"
+   ],
+   "mainstream": "In the 1970s the American astronomer Vera Rubin and her colleague Kent Ford measured how fast stars and gas orbit the centres of spiral galaxies, starting with Andromeda. If most of a galaxy's mass were in its bright centre, outer stars should orbit more slowly, as outer planets do around the Sun. Instead their speeds stayed roughly flat far out. This implied large amounts of unseen mass. Together with Fritz Zwicky's 1933 observation that galaxies in the Coma Cluster moved too fast to be held together by their visible matter, and later radio measurements, Rubin's work made 'dark matter' part of mainstream cosmology. Most estimates now say it makes up about 85% of the matter in the universe.",
+   "alternatives": [
+    {
+     "label": "What is it?",
+     "text": "Decades of experiments have not detected a dark matter particle directly. Candidates include weakly interacting particles, axions and primordial black holes. Until something is found, its nature is unknown."
+    },
+    {
+     "label": "Or is gravity different?",
+     "text": "A minority of physicists favour modifying the laws of gravity instead, for example Mordehai Milgrom's Modified Newtonian Dynamics (MOND), proposed in 1983. Supporters say it predicts galaxy rotation well; critics say it struggles with galaxy clusters and the cosmic microwave background."
+    },
+    {
+     "label": "Overlooked",
+     "text": "Rubin never received a Nobel Prize, which some scientists consider an oversight. The Vera C. Rubin Observatory in Chile is named after her."
+    }
+   ],
+   "changed": "1933: Zwicky's \"dunkle Materie\". 1970s: Rubin and Ford's rotation curves. 1983: MOND proposed. Today: still not directly detected.",
+   "sources": [
+    {
+     "title": "Wikipedia: Vera Rubin",
+     "url": "https://en.wikipedia.org/wiki/Vera_Rubin",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Rotation of the Andromeda Nebula from a Spectroscopic Survey of Emission Regions",
+     "authors": "Rubin, V. et al.",
+     "year": 1970,
+     "doi": "10.1086/150317",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: Dark matter",
+     "url": "https://en.wikipedia.org/wiki/Dark_matter",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Galaxy rotation curve",
+     "url": "https://en.wikipedia.org/wiki/Galaxy_rotation_curve",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Vera_Rubin_measuring_spectra.jpg/500px-Vera_Rubin_measuring_spectra.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Vera_Rubin_measuring_spectra.jpg",
+     "author": "NOIRLab/NSF/AURA",
+     "license": "CC BY 4.0",
+     "title": "Vera Rubin measuring spectra.jpg"
+    }
+   ],
+   "categories": [
+    "science-cosmos",
+    "anomalies"
+   ],
+   "threads": [
+    "changed-understanding",
+    "rejected-pioneers",
+    "visionary-women"
+   ]
+  },
+  {
+   "id": "first-exoplanet-1995",
+   "title": "51 Pegasi b: the first planet found around a Sun-like star",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1995,
+   "end": null,
+   "evidenceTypes": [
+    "astronomical observation",
+    "spectroscopy"
+   ],
+   "mainstream": "In October 1995 the Swiss astronomers Michel Mayor and Didier Queloz announced a planet orbiting the star 51 Pegasi, about 50 light-years away. Using precise spectra from the Haute-Provence Observatory in France, they detected the star wobbling as an unseen companion tugged on it. The planet turned out to be a surprise: at least half Jupiter's mass but orbiting closer to its star than Mercury is to the Sun, completing a 'year' in about four days. Such 'hot Jupiters' were not predicted by theories of planet formation. The discovery opened a flood of finds; more than 5,000 exoplanets are now confirmed. Mayor and Queloz shared the 2019 Nobel Prize in Physics.",
+   "alternatives": [
+    {
+     "label": "Earlier claims",
+     "text": "In 1992 Aleksander Wolszczan and Dale Frail found planets orbiting a pulsar, a dead star, which are accepted as the first confirmed exoplanets. A 1988 claim of a planet around Gamma Cephei was treated with caution at the time and confirmed in 2003. A 1991 pulsar planet claim was retracted."
+    },
+    {
+     "label": "Are we alone?",
+     "text": "Exoplanet discoveries have fuelled debate on how common Earth-like planets and life might be. Many astronomers think rocky planets in habitable zones are common; whether life exists on any of them is unknown."
+    }
+   ],
+   "changed": "1992: pulsar planets. 1995: 51 Pegasi b. 2003: Gamma Cephei b confirmed. 2019: Nobel Prize. 2022: NASA count passes 5,000.",
+   "sources": [
+    {
+     "title": "Wikipedia: 51 Pegasi b",
+     "url": "https://en.wikipedia.org/wiki/51_Pegasi_b",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "A Jupiter-mass companion to a solar-type star",
+     "authors": "Mayor, M. et al.",
+     "year": 1995,
+     "doi": "10.1038/378355a0",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: Exoplanet",
+     "url": "https://en.wikipedia.org/wiki/Exoplanet",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Artist_impression_of_the_exoplanet_51_Pegasi_b.jpg/500px-Artist_impression_of_the_exoplanet_51_Pegasi_b.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Artist_impression_of_the_exoplanet_51_Pegasi_b.jpg",
+     "author": "ESO/M. Kornmesser/Nick Risinger (skysurvey.org)",
+     "license": "CC BY 4.0",
+     "title": "Artist_impression_of_the_exoplanet_51_Pegasi_b.jpg"
+    }
+   ],
+   "categories": [
+    "science-cosmos",
+    "aliens-ufo"
+   ],
+   "threads": [
+    "changed-understanding",
+    "life-beyond-earth"
+   ]
+  },
+  {
+   "id": "human-genome-2003",
+   "title": "Reading the human genome",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1990,
+   "end": 2003,
+   "dateNote": "1990-2003; gapless sequence 2022",
+   "evidenceTypes": [
+    "genetic",
+    "scientific publication"
+   ],
+   "mainstream": "The Human Genome Project was an international effort, begun in 1990, to read the sequence of the roughly three billion DNA 'letters' in human chromosomes. A rival private company, Celera Genomics, led by Craig Venter, raced to sequence it too. A draft was announced jointly in June 2000 and published in February 2001, and the project was declared complete in April 2003, although about 8% of the genome, mostly highly repetitive regions, was still missing. That gap was closed in 2022 by the Telomere-to-Telomere consortium. One of the biggest surprises was that humans have only about 20,000 protein-coding genes, far fewer than the 50,000 to 100,000 many had expected.",
+   "alternatives": [
+    {
+     "label": "How much is \"junk\"?",
+     "text": "Only about 1-2% of the genome codes for proteins. In 2012 the ENCODE project claimed that about 80% of the genome had some biochemical function; many geneticists disputed that definition, and the share that is truly functional is still debated."
+    },
+    {
+     "label": "Ancient DNA inside us",
+     "text": "Genome sequencing later showed that most people outside Africa carry a small percentage of Neanderthal DNA, and some populations carry Denisovan DNA, changing how human origins are understood."
+    }
+   ],
+   "changed": "1990: project begins. 2000: draft announced. 2001: published. 2003: declared complete. 2022: first gapless sequence.",
+   "sources": [
+    {
+     "title": "Wikipedia: Human Genome Project",
+     "url": "https://en.wikipedia.org/wiki/Human_Genome_Project",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Initial sequencing and analysis of the human genome",
+     "authors": " et al.",
+     "year": 2001,
+     "doi": "10.1038/35057062",
+     "type": "paper"
+    },
+    {
+     "title": "The complete sequence of a human genome",
+     "authors": "Nurk, S. et al.",
+     "year": 2022,
+     "doi": "10.1126/science.abj6987",
+     "type": "paper"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Logo_HGP.jpg/500px-Logo_HGP.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Logo_HGP.jpg",
+     "author": "U.S. Department of Energy, Human Genome Project",
+     "license": "Public domain",
+     "title": "Logo_HGP.jpg"
+    }
+   ],
+   "categories": [
+    "science-cosmos",
+    "history"
+   ],
+   "threads": [
+    "changed-understanding",
+    "human-origins",
+    "genetic-migrations"
+   ]
+  },
+  {
+   "id": "indian-ocean-tsunami-2004",
+   "title": "The 2004 Indian Ocean tsunami and the island that remembered",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": 2004,
+   "end": null,
+   "evidenceTypes": [
+    "seismological",
+    "documentary",
+    "oral tradition"
+   ],
+   "mainstream": "On 26 December 2004 a magnitude 9.1-9.3 earthquake struck off the west coast of Sumatra, Indonesia, one of the largest ever recorded. It set off tsunamis that crossed the Indian Ocean, striking Indonesia, Sri Lanka, India, Thailand and as far as Somalia and South Africa. Around 230,000 people died in 14 countries, making it one of the deadliest natural disasters in recorded history. There was no tsunami warning system in the Indian Ocean at the time; one was set up afterwards. On Simeulue, an island very close to the epicentre, few people died, which researchers credit to a local oral tradition, smong, passed down since a 1907 tsunami: when the ground shakes and the sea draws back, run to high ground.",
+   "alternatives": [
+    {
+     "label": "Memory as a warning system",
+     "text": "Simeulue, along with reports that Moken sea nomads in Thailand and Myanmar fled to high ground, is often cited as evidence that traditional stories can preserve useful knowledge of rare disasters. Researchers note that such traditions work best when the last event is recent enough to be remembered."
+    },
+    {
+     "label": "Animals that sensed it?",
+     "text": "Many reports said animals fled before the waves arrived. Scientists say animals may have reacted to the earthquake shaking or to the sound of the approaching waves; there is no clear evidence of a special \"sixth sense\"."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: 2004 Indian Ocean earthquake and tsunami",
+     "url": "https://en.wikipedia.org/wiki/2004_Indian_Ocean_earthquake_and_tsunami",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Simeulue",
+     "url": "https://en.wikipedia.org/wiki/Simeulue",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "The Great Sumatra-Andaman Earthquake of 26 December 2004",
+     "authors": "Lay, T. et al.",
+     "year": 2005,
+     "doi": "10.1126/science.1112250",
+     "type": "paper"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/US_Navy_050102-N-9593M-040_A_village_near_the_coast_of_Sumatra_lays_in_ruin_after_the_Tsunami_that_struck_South_East_Asia.jpg/500px-US_Navy_050102-N-9593M-040_A_village_near_the_coast_of_Sumatra_lays_in_ruin_after_the_Tsunami_that_struck_South_East_Asia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:US_Navy_050102-N-9593M-040_A_village_near_the_coast_of_Sumatra_lays_in_ruin_after_the_Tsunami_that_struck_South_East_Asia.jpg",
+     "author": "U.S. Navy photo by Photographer's Mate 2nd Class Philip A. McDaniel",
+     "license": "Public domain",
+     "title": "US_Navy_050102-N-9593M-040_A_village_near_the_coast_of_Sumatra_lays_in_ruin_after_the_Tsunami_that_struck_South_East_Asia.jpg"
+    }
+   ],
+   "categories": [
+    "catastrophes",
+    "history",
+    "myth-legend"
+   ],
+   "threads": [
+    "stories-proven-true",
+    "deep-oral-memory",
+    "earthquake-lore",
+    "tsunami-memory"
+   ]
+  },
+  {
+   "id": "tohoku-2011",
+   "title": "Tōhoku 2011: the tsunami, Fukushima and the stones that warned",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": 2011,
+   "end": null,
+   "evidenceTypes": [
+    "seismological",
+    "documentary",
+    "geological"
+   ],
+   "mainstream": "On 11 March 2011 a magnitude 9.0-9.1 earthquake off north-east Japan, the most powerful ever recorded in the country, generated a tsunami that reached heights of up to about 40 metres. Around 18,000 people died or are missing. At the Fukushima Daiichi nuclear power plant the tsunami knocked out cooling systems, and three reactors suffered meltdowns, the worst nuclear accident since Chernobyl and rated at the maximum level 7. Geologists had found sand layers showing that a similar great tsunami, the Jōgan tsunami of 869, had swept far inland on the same coast, and old stone markers along the coast warned later generations not to build below certain points.",
+   "alternatives": [
+    {
+     "label": "Warnings in stone and sand",
+     "text": "Some villages that followed old tsunami stones, such as Aneyoshi, where a stone reads \"Do not build your homes below this point\", were spared. Researchers had warned before 2011 that the Jōgan evidence implied a larger risk than planners assumed; how far that warning was taken into account is debated."
+    },
+    {
+     "label": "Radiation and health",
+     "text": "Most experts conclude that radiation from Fukushima caused few or no measurable health effects, while the evacuation itself caused many deaths among elderly people. Some groups dispute these assessments. The release of treated water into the sea from 2023 also remains controversial."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: 2011 Tōhoku earthquake and tsunami",
+     "url": "https://en.wikipedia.org/wiki/2011_T%C5%8Dhoku_earthquake_and_tsunami",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Fukushima nuclear accident",
+     "url": "https://en.wikipedia.org/wiki/Fukushima_nuclear_accident",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: 869 Jōgan earthquake",
+     "url": "https://en.wikipedia.org/wiki/869_J%C5%8Dgan_earthquake",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Fukushima_I_by_Digital_Globe.jpg/500px-Fukushima_I_by_Digital_Globe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Fukushima_I_by_Digital_Globe.jpg",
+     "author": "Digital Globe",
+     "license": "CC BY-SA 3.0",
+     "title": "Fukushima_I_by_Digital_Globe.jpg"
+    }
+   ],
+   "categories": [
+    "catastrophes",
+    "history"
+   ],
+   "threads": [
+    "earthquake-lore",
+    "nuclear-age",
+    "tsunami-memory",
+    "science-gone-wrong"
+   ]
+  },
+  {
+   "id": "halifax-explosion-1917",
+   "title": "The Halifax Explosion: the largest human-made blast before the atomic bomb",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 3,
+   "start": 1917,
+   "end": null,
+   "evidenceTypes": [
+    "documentary",
+    "photographic",
+    "legal records"
+   ],
+   "mainstream": "On the morning of 6 December 1917 the French cargo ship Mont-Blanc, loaded with wartime explosives, collided with the Norwegian ship Imo in the harbour of Halifax, Nova Scotia. Fire broke out on Mont-Blanc and about 20 minutes later it exploded with the force of roughly 2.9 kilotons of TNT. At least 1,782 people were killed and about 9,000 injured. The Richmond district was flattened, and a tsunami from the blast destroyed a Mi'kmaq community at Tufts Cove. Train dispatcher Vince Coleman stayed at his post to telegraph a warning to an incoming passenger train and was killed. It remained the largest human-made explosion until atomic weapons were tested in 1945.",
+   "alternatives": [
+    {
+     "label": "Who was to blame?",
+     "text": "The first inquiry blamed Mont-Blanc. A later appeal, decided ultimately by the Privy Council in London, found both ships at fault. Writers still debate the roles of the pilots, harbour rules and wartime secrecy about the cargo."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Halifax Explosion",
+     "url": "https://en.wikipedia.org/wiki/Halifax_Explosion",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Vince Coleman",
+     "url": "https://en.wikipedia.org/wiki/Vince_Coleman",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Halifax_Explosion_blast_cloud_restored.jpg/500px-Halifax_Explosion_blast_cloud_restored.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Halifax_Explosion_blast_cloud_restored.jpg",
+     "author": "Unknown authorUnknown author",
+     "license": "Public domain",
+     "title": "Halifax Explosion blast cloud restored.jpg"
+    }
+   ],
+   "categories": [
+    "catastrophes",
+    "history"
+   ],
+   "threads": [
+    "storms-that-changed-history",
+    "science-gone-wrong"
+   ]
   }
  ]
 }
