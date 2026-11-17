@@ -67475,6 +67475,677 @@
     "storms-that-changed-history",
     "science-gone-wrong"
    ]
+  },
+  {
+   "id": "hyksos",
+   "title": "The Hyksos: foreign kings of Egypt, and an echo in the Exodus story?",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -1650,
+   "end": -1550,
+   "dateNote": "Fifteenth Dynasty, c. 1650-1550 BCE",
+   "evidenceTypes": [
+    "archaeological",
+    "textual",
+    "isotopic"
+   ],
+   "mainstream": "The Hyksos, from an Egyptian phrase meaning 'rulers of foreign lands', were the kings of Egypt's Fifteenth Dynasty, about 1650 to 1550 BCE. They ruled Lower and Middle Egypt from Avaris in the Nile Delta, where excavations at Tell el-Dab'a, led by Manfred Bietak, revealed a city with strong Levantine (Canaanite) features in its houses, burials and goods. They were driven out by the Theban king Ahmose I, who founded the New Kingdom. Later Egyptian texts portrayed Hyksos rule as a disaster, but they also seem to have brought new technologies to Egypt, such as the horse-drawn chariot and the composite bow, though how many were introduced by them is debated.",
+   "alternatives": [
+    {
+     "label": "Invasion or slow takeover?",
+     "text": "The priest-historian Manetho, writing in the 3rd century BCE, described a violent invasion. Many Egyptologists now think Levantine settlers grew in the Delta over generations before taking power. A 2020 study of strontium isotopes in teeth from Avaris found many people born outside Egypt over a long period, which its authors argued fits gradual migration better than a sudden conquest."
+    },
+    {
+     "label": "The Exodus link",
+     "text": "The Jewish historian Josephus, quoting Manetho in the 1st century CE, linked the expulsion of the Hyksos to the Israelites leaving Egypt. Some modern writers have revived versions of this idea; most scholars see no direct evidence connecting the two and note that the dates do not clearly match."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Hyksos",
+     "url": "https://en.wikipedia.org/wiki/Hyksos",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Who were the Hyksos? Challenging traditional narratives using strontium isotope (87Sr/86Sr) analysis of human remains from ancient Egypt",
+     "authors": "Stantis, C. et al.",
+     "year": 2020,
+     "doi": "10.1371/journal.pone.0235414",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: Avaris",
+     "url": "https://en.wikipedia.org/wiki/Avaris",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Painting_of_foreign_delegation_in_the_tomb_of_Khnumhotep_II_circa_1900_BCE_%28Detail_mentioning_%22Abisha_the_Hyksos%22_in_hieroglyphs%29.jpg/500px-Painting_of_foreign_delegation_in_the_tomb_of_Khnumhotep_II_circa_1900_BCE_%28Detail_mentioning_%22Abisha_the_Hyksos%22_in_hieroglyphs%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Painting_of_foreign_delegation_in_the_tomb_of_Khnumhotep_II_circa_1900_BCE_(Detail_mentioning_%22Abisha_the_Hyksos%22_in_hieroglyphs).jpg",
+     "author": "Macquarie University",
+     "license": "Public domain",
+     "title": "Painting_of_foreign_delegation_in_the_tomb_of_Khnumhotep_II_circa_1900_BCE_(Detail_mentioning_\"Abisha_the_Hyksos\"_in_hieroglyphs).jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology",
+    "religion"
+   ],
+   "threads": [
+    "genetic-migrations",
+    "egypt-of-the-pharaohs",
+    "levant-crossroads",
+    "myths-about-history",
+    "bible-and-archaeology"
+   ]
+  },
+  {
+   "id": "enheduanna",
+   "title": "Enheduanna: the first author known by name?",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": -2300,
+   "end": null,
+   "evidenceTypes": [
+    "textual",
+    "archaeological"
+   ],
+   "mainstream": "Enheduanna was the high priestess of the moon god Nanna at Ur, in southern Mesopotamia, around 2300 BCE. She was the daughter of Sargon of Akkad, who united Mesopotamia into the first empire, and was probably appointed to bind the religion of his Akkadian court to the older Sumerian traditions. A limestone disc found at Ur in the 1920s by Leonard Woolley's excavations shows her taking part in a ritual and names her. Several Sumerian hymns, including the 'Exaltation of Inanna', speak in her voice or name her as their composer. On this basis she is often called the earliest named author in history, about 1,500 years before Homer.",
+   "alternatives": [
+    {
+     "label": "Did she write them?",
+     "text": "The surviving copies of the hymns were made centuries after her lifetime, in the Old Babylonian period. Some Assyriologists argue that the texts were attributed to her later, or reworked so much that her authorship cannot be proven; others accept that at least some of the core is hers."
+    },
+    {
+     "label": "A modern icon",
+     "text": "Enheduanna has become a symbol in feminist history and poetry. Historians note that her prominence also reflects her royal birth and the political role her father gave her."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Enheduanna",
+     "url": "https://en.wikipedia.org/wiki/Enheduanna",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Sargon of Akkad",
+     "url": "https://en.wikipedia.org/wiki/Sargon_of_Akkad",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Enheduanna%2C_daughter_of_Sargon_of_Akkad.jpg/500px-Enheduanna%2C_daughter_of_Sargon_of_Akkad.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Enheduanna,_daughter_of_Sargon_of_Akkad.jpg",
+     "author": "Mefman00",
+     "license": "CC0",
+     "title": "Enheduanna,_daughter_of_Sargon_of_Akkad.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "religion",
+    "archaeology"
+   ],
+   "threads": [
+    "origins-of-writing",
+    "visionary-women",
+    "mesopotamia-and-anatolia",
+    "moon-myths",
+    "contested-texts"
+   ]
+  },
+  {
+   "id": "confucius",
+   "title": "Confucius: the teacher who became a state philosophy",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": -551,
+   "end": -479,
+   "evidenceTypes": [
+    "textual",
+    "historical tradition"
+   ],
+   "mainstream": "Kong Qiu, known in Chinese as Kongzi or Kong Fuzi ('Master Kong') and in the West as Confucius, was a teacher and minor official from the state of Lu, in what is now Shandong, traditionally dated 551 to 479 BCE. He lived during the Spring and Autumn period, when the Zhou kingdom had split into rival states. He taught that good government depends on rulers of good character, on ritual, and on respect within the family and society. His sayings were collected by his followers in the Analects. Under the Han dynasty, from the 2nd century BCE, Confucian teachings became the basis of state education, and the imperial examinations on Confucian texts lasted until 1905.",
+   "alternatives": [
+    {
+     "label": "How much is really his?",
+     "text": "The Analects were compiled after his death, probably over generations. Scholars debate which sayings go back to Confucius himself and which reflect the views of later disciples."
+    },
+    {
+     "label": "Sage, god or reactionary?",
+     "text": "Confucius was later honoured in temples and given imperial titles, and some regard Confucianism as a religion while others call it a philosophy. During the 1973-74 \"Criticise Lin, Criticise Confucius\" campaign in China he was attacked as a defender of the old order; today he is again officially honoured."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Confucius",
+     "url": "https://en.wikipedia.org/wiki/Confucius",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Analects",
+     "url": "https://en.wikipedia.org/wiki/Analects",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Stanford Encyclopedia of Philosophy: Confucius",
+     "url": "https://plato.stanford.edu/entries/confucius/",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Confucius%2C_fresco_from_a_Western_Han_tomb_of_Dongping_County%2C_Shandong_province%2C_China_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Confucius,_fresco_from_a_Western_Han_tomb_of_Dongping_County,_Shandong_province,_China_(cropped).jpg",
+     "author": "Anonymous Chinese painter of the Western Han period",
+     "license": "Public domain",
+     "title": "Confucius,_fresco_from_a_Western_Han_tomb_of_Dongping_County,_Shandong_province,_China_(cropped).jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "religion"
+   ],
+   "threads": [
+    "knowledge-and-power",
+    "civilising-teachers",
+    "kings-who-became-gods"
+   ]
+  },
+  {
+   "id": "laozi-daodejing",
+   "title": "Laozi and the Daodejing: the sage who rode west",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": -500,
+   "end": null,
+   "dateNote": "Traditionally 6th century BCE; Guodian manuscripts c. 300 BCE",
+   "evidenceTypes": [
+    "textual",
+    "archaeological (manuscripts)",
+    "legend"
+   ],
+   "mainstream": "Laozi ('Old Master') is the traditional author of the Daodejing, the founding text of Daoism, which teaches harmony with the Dao (the 'Way') through simplicity and effortless action (wu wei). The historian Sima Qian, writing around 100 BCE, gave a short biography: Laozi was an archivist of the Zhou court, older than Confucius, who met him. Disillusioned, he rode west on an ox; at the frontier pass the gatekeeper Yinxi asked him to write down his teachings, and he left the Daodejing before disappearing. Sima Qian himself admitted uncertainty, offering other possible identities. The oldest known copies of the text are bamboo slips from a tomb at Guodian, buried around 300 BCE and found in 1993.",
+   "alternatives": [
+    {
+     "label": "A real person?",
+     "text": "Many scholars think the Daodejing is a compilation of sayings that grew over time, and that \"Laozi\" may be a legendary or composite figure. Others accept that a historical teacher lies behind the tradition."
+    },
+    {
+     "label": "Laozi becomes a god",
+     "text": "By the Han dynasty Laozi was worshipped as a deity, later as Taishang Laojun, one of the highest gods of religious Daoism. A later text, the Huahu jing, claimed that he travelled to India and became the Buddha; Buddhists rejected it, and Chinese emperors ordered it destroyed more than once."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Laozi",
+     "url": "https://en.wikipedia.org/wiki/Laozi",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Tao Te Ching",
+     "url": "https://en.wikipedia.org/wiki/Tao_Te_Ching",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Bamboo Texts of Guodian",
+     "url": "https://en.wikipedia.org/wiki/Bamboo_Texts_of_Guodian",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Zhang_Lu-Laozi_Riding_an_Ox.jpg/500px-Zhang_Lu-Laozi_Riding_an_Ox.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Zhang_Lu-Laozi_Riding_an_Ox.jpg",
+     "author": "Zhang Lu",
+     "license": "Public domain",
+     "title": "Zhang Lu-Laozi Riding an Ox.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "religion",
+    "myth-legend"
+   ],
+   "threads": [
+    "hidden-scriptures",
+    "civilising-teachers",
+    "elixirs-of-immortality",
+    "kings-who-became-gods",
+    "contested-texts"
+   ]
+  },
+  {
+   "id": "the-buddha",
+   "title": "The Buddha: Siddhartha Gautama and the birthplace dug up",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": -480,
+   "end": null,
+   "dateNote": "Traditionally c. 563-483 BCE; many scholars c. 480-400 BCE",
+   "evidenceTypes": [
+    "textual",
+    "archaeological",
+    "inscriptions"
+   ],
+   "mainstream": "Buddhism traces its origins to Siddhartha Gautama, a prince of the Shakya clan born at Lumbini in what is now Nepal. According to tradition he left his palace after seeing old age, sickness and death, sought liberation as a wandering ascetic, and attained awakening under a tree at Bodh Gaya, becoming the Buddha ('awakened one'). He taught for decades in the Ganges plain and died at Kushinagar, aged about 80. Dates vary: older accounts give about 563-483 BCE; many scholars now prefer about 480-400 BCE. Around 249 BCE the emperor Ashoka erected a pillar at Lumbini with an inscription saying 'here the Buddha was born'.",
+   "alternatives": [
+    {
+     "label": "Dating the Buddha",
+     "text": "Different Buddhist traditions and modern scholars disagree on his dates by more than a century. In 2013 archaeologists led by Robin Coningham reported a timber structure beneath the Maya Devi Temple at Lumbini, which they dated to about the 6th century BCE and suggested was an early shrine; others question how securely it can be linked to the Buddha."
+    },
+    {
+     "label": "History and legend",
+     "text": "Accounts of his life, including miracles at his birth, were written down centuries after his death. Scholars generally accept that he was a historical person while treating many details as later tradition."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: The Buddha",
+     "url": "https://en.wikipedia.org/wiki/The_Buddha",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Lumbini",
+     "url": "https://en.wikipedia.org/wiki/Lumbini",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Lumbini pillar inscription",
+     "url": "https://en.wikipedia.org/wiki/Lumbini_pillar_inscription",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Buddha_in_Sarnath_Museum_%28Dhammajak_Mutra%29.jpg/500px-Buddha_in_Sarnath_Museum_%28Dhammajak_Mutra%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Buddha_in_Sarnath_Museum_(Dhammajak_Mutra).jpg",
+     "author": "พระมหาเทวประภาส วชิรญาณเมธี (ผู้ถ่าย-ปล่อยสัญญาอนุญาตภาพให้นำไปใช้ได้เพื่อการศึกษาโดยอยู่ภา่ยใต้ cc-by-sa-3.0)  ผู้สร้าง",
+     "license": "CC BY-SA 3.0",
+     "title": "Buddha_in_Sarnath_Museum_(Dhammajak_Mutra).jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "religion",
+    "archaeology"
+   ],
+   "threads": [
+    "sacred-relics",
+    "civilising-teachers",
+    "himalayan-kingdoms",
+    "dating-the-past"
+   ]
+  },
+  {
+   "id": "pythagoras",
+   "title": "Pythagoras: mathematician, mystic and miracle-worker",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": -570,
+   "end": null,
+   "dateNote": "c. 570 - c. 495 BCE",
+   "evidenceTypes": [
+    "textual (later sources)",
+    "historical tradition"
+   ],
+   "mainstream": "Pythagoras of Samos, born about 570 BCE, settled in Croton in southern Italy, where he founded a community of followers bound by rules about diet, silence and secrecy. The Pythagoreans taught that the soul is reborn in new bodies and that numbers underlie the order of the world, including musical harmony, an idea later expanded into the 'music of the spheres'. No writings by Pythagoras survive, and almost everything known about him comes from authors writing centuries later. Ancient biographers credited him with miracles: a golden thigh, being seen in two cities at once, and speaking to animals.",
+   "alternatives": [
+    {
+     "label": "Did he discover \"his\" theorem?",
+     "text": "The relationship now called Pythagoras's theorem was known in Babylonia over a thousand years earlier, as the clay tablet Plimpton 322 (c. 1800 BCE) shows, and appears in early Indian texts. Whether Pythagoras himself proved it is uncertain; ancient sources credit discoveries of his school to the master."
+    },
+    {
+     "label": "Secret brotherhood",
+     "text": "His community was attacked and dispersed in a political uprising. Later esoteric movements, from Neoplatonists to some modern secret societies, claimed descent from Pythagorean wisdom; historians see these as inspired by, not continuous with, the original school."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Pythagoras",
+     "url": "https://en.wikipedia.org/wiki/Pythagoras",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Plimpton 322",
+     "url": "https://en.wikipedia.org/wiki/Plimpton_322",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Stanford Encyclopedia of Philosophy: Pythagoras",
+     "url": "https://plato.stanford.edu/entries/pythagoras/",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Pythagoras_in_the_Roman_Forum%2C_Colosseum.jpg/500px-Pythagoras_in_the_Roman_Forum%2C_Colosseum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Pythagoras_in_the_Roman_Forum,_Colosseum.jpg",
+     "author": "Unknown authorUnknown author",
+     "license": "Public domain",
+     "title": "Pythagoras_in_the_Roman_Forum,_Colosseum.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "science-cosmos",
+    "myth-legend"
+   ],
+   "threads": [
+    "ancient-astronomy",
+    "secret-societies",
+    "civilising-teachers",
+    "classical-world",
+    "star-lore"
+   ]
+  },
+  {
+   "id": "aristarchus-heliocentrism",
+   "title": "Aristarchus: the Sun-centred universe, 1,800 years before Copernicus",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -270,
+   "end": null,
+   "dateNote": "c. 310 - c. 230 BCE",
+   "evidenceTypes": [
+    "textual"
+   ],
+   "mainstream": "Aristarchus of Samos (about 310 to 230 BCE) was a Greek astronomer who proposed that the Earth goes around the Sun and spins on its own axis. His book on the idea is lost; we know of it because Archimedes described it in The Sand Reckoner. His one surviving work, On the Sizes and Distances of the Sun and Moon, used geometry to argue that the Sun is far larger than the Earth, which may be why he put it at the centre. Most Greek astronomers rejected the idea, partly because they could not detect the shift in star positions (parallax) that a moving Earth implied, and the Earth-centred system later set out by Ptolemy dominated for centuries.",
+   "alternatives": [
+    {
+     "label": "Did Copernicus know?",
+     "text": "Copernicus mentioned Aristarchus in a passage of his manuscript that he later crossed out. Historians debate how much the ancient idea influenced him."
+    },
+    {
+     "label": "Why was he ignored?",
+     "text": "Some ancient writers say a philosopher, Cleanthes, thought Aristarchus should be charged with impiety. Historians generally think the idea failed mainly for scientific reasons of the time, since stellar parallax was not measured until 1838."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Aristarchus of Samos",
+     "url": "https://en.wikipedia.org/wiki/Aristarchus_of_Samos",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Heliocentrism",
+     "url": "https://en.wikipedia.org/wiki/Heliocentrism",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: The Sand Reckoner",
+     "url": "https://en.wikipedia.org/wiki/The_Sand_Reckoner",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Aristarco.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Aristarco.PNG",
+     "author": "Claudio Camozzi",
+     "license": "Public domain",
+     "title": "Aristarco.PNG"
+    }
+   ],
+   "categories": [
+    "science-cosmos",
+    "history"
+   ],
+   "threads": [
+    "ancient-astronomy",
+    "rejected-pioneers",
+    "scientific-revolution",
+    "classical-world"
+   ]
+  },
+  {
+   "id": "emerald-tablet",
+   "title": "The Emerald Tablet: \"as above, so below\"",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 3,
+   "start": 800,
+   "end": null,
+   "dateNote": "Earliest Arabic versions 8th-10th century CE; claimed to be far older",
+   "evidenceTypes": [
+    "textual",
+    "legend"
+   ],
+   "mainstream": "The Emerald Tablet is a short, cryptic text attributed to Hermes Trismegistus ('thrice-great Hermes'), a legendary sage combining the Greek god Hermes and the Egyptian god Thoth. The earliest known versions are in Arabic, in alchemical works of the 8th to 10th centuries CE such as the Secret of Creation, often with a story that the text was found on an emerald tablet in Hermes' tomb. Latin translations reached Europe from the 12th century, and the text became a cornerstone of alchemy, read as instructions for making the philosopher's stone. Its best-known line is usually paraphrased as 'as above, so below'. Isaac Newton made his own translation.",
+   "alternatives": [
+    {
+     "label": "Ancient Egyptian wisdom?",
+     "text": "Renaissance scholars believed the Hermetic writings preserved wisdom older than Moses. In 1614 Isaac Casaubon showed that the related Greek Hermetic texts dated from the early Christian era. The Emerald Tablet itself is not known before the Arabic sources."
+    },
+    {
+     "label": "Esoteric readings",
+     "text": "Occultists and New Age writers treat the tablet as a key to hidden laws linking the cosmos and the self, and some link Hermes to lost civilisations such as Atlantis. These readings are speculative and not supported by historical evidence."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Emerald Tablet",
+     "url": "https://en.wikipedia.org/wiki/Emerald_Tablet",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Hermes Trismegistus",
+     "url": "https://en.wikipedia.org/wiki/Hermes_Trismegistus",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Leipzig_tablet_text.jpg/500px-Leipzig_tablet_text.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Leipzig_tablet_text.jpg",
+     "author": "Unknown authorUnknown author",
+     "license": "Public domain",
+     "title": "Leipzig_tablet_text.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion",
+    "lost-civilisations"
+   ],
+   "threads": [
+    "knowledge-and-power",
+    "secret-societies",
+    "hidden-scriptures",
+    "civilising-teachers",
+    "elixirs-of-immortality",
+    "contested-texts"
+   ]
+  },
+  {
+   "id": "zhang-qian",
+   "title": "Zhang Qian: the envoy who opened the Silk Road",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -138,
+   "end": -125,
+   "evidenceTypes": [
+    "textual"
+   ],
+   "mainstream": "In about 138 BCE the Han emperor Wu sent an official, Zhang Qian, west to find the Yuezhi people and form an alliance against the Xiongnu nomads. Zhang was captured by the Xiongnu and held for about ten years, married and had a son, then escaped and reached Central Asia, including Ferghana and Bactria. The Yuezhi had settled down and refused the alliance. Captured again on the way home, he finally returned around 125 BCE, with only one of his original companions. His reports of rich cities, Persian-ruled lands and the 'heavenly horses' of Ferghana led the Han to expand west and open regular trade along what was later called the Silk Road. His travels are recorded by Sima Qian.",
+   "alternatives": [
+    {
+     "label": "Did he \"create\" the Silk Road?",
+     "text": "Goods and ideas already moved across Central Asia before him, as finds of Chinese silk far to the west suggest. Historians see his mission as the start of official Chinese contact rather than the first exchange."
+    },
+    {
+     "label": "Exploration as legend",
+     "text": "Later Chinese tradition credited Zhang Qian with bringing back grapes, alfalfa and other plants; scholars note that some of these attributions are doubtful."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Zhang Qian",
+     "url": "https://en.wikipedia.org/wiki/Zhang_Qian",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Silk Road",
+     "url": "https://en.wikipedia.org/wiki/Silk_Road",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/ZhangQianTravels.jpg/500px-ZhangQianTravels.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:ZhangQianTravels.jpg",
+     "author": "PHG",
+     "license": "Public domain",
+     "title": "ZhangQianTravels.jpg"
+    }
+   ],
+   "categories": [
+    "history"
+   ],
+   "threads": [
+    "silk-road",
+    "steppe-empires",
+    "myths-about-history",
+    "travellers-tales"
+   ]
+  },
+  {
+   "id": "lindow-man",
+   "title": "Lindow Man: a bog body, a ritual death and an unexpected confession",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -2,
+   "end": null,
+   "dateNote": "c. 2 BCE - 119 CE",
+   "evidenceTypes": [
+    "archaeological",
+    "radiocarbon",
+    "forensic"
+   ],
+   "mainstream": "In August 1984 peat cutters at Lindow Moss near Wilmslow, Cheshire, found the preserved upper body of a man. Lindow Man was a healthy man in his mid-20s with trimmed nails and beard. He seems to have been struck on the head, garrotted with a cord and had his throat cut before being placed face-down in the bog, sometime between about 2 BCE and 119 CE. The find caused a media sensation and is now in the British Museum. A year earlier, workers in the same moss had found a woman's skull. A local man, believing it was his wife's, confessed to killing her decades earlier; radiocarbon dating later showed the skull was from the Roman era, but he was still convicted on his confession.",
+   "alternatives": [
+    {
+     "label": "A druid sacrifice?",
+     "text": "A 1989 book by Anne Ross and Don Robins argued that Lindow Man was a high-status druid sacrificed in a \"triple death\". Many archaeologists consider this too speculative, and some suggest some injuries happened after death or that he was executed or murdered."
+    },
+    {
+     "label": "Bog bodies across Europe",
+     "text": "Lindow Man is one of hundreds of bog bodies found in northern Europe, many of whom died violently. Scholars often link them to offerings or executions."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Lindow Man",
+     "url": "https://en.wikipedia.org/wiki/Lindow_Man",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Bog body",
+     "url": "https://en.wikipedia.org/wiki/Bog_body",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Lindow_Man_1.jpg/500px-Lindow_Man_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Lindow_Man_1.jpg",
+     "author": "Photograph by Mike Peel (www.mikepeel.net).",
+     "license": "CC BY-SA 4.0",
+     "title": "Lindow Man 1.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history"
+   ],
+   "threads": [
+    "human-sacrifice",
+    "bog-bodies-and-offerings",
+    "celtic-worlds",
+    "dating-the-past",
+    "strange-coincidences"
+   ]
+  },
+  {
+   "id": "maeshowe",
+   "title": "Maeshowe: the solstice tomb and the Viking graffiti",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 3,
+   "start": -2800,
+   "end": null,
+   "evidenceTypes": [
+    "archaeological",
+    "astronomical alignment",
+    "runic inscriptions"
+   ],
+   "mainstream": "Maeshowe is a Neolithic chambered cairn on Mainland Orkney, Scotland, built around 2800 BCE. A long, low passage leads to a central chamber of finely fitted stone slabs. Around the winter solstice, the setting Sun shines along the passage and lights the back wall of the chamber. In the 12th century Norse men broke into the mound and carved more than 30 runic inscriptions, one of the largest collections in the world. Some boast that treasure was carried away, others mention women, and one shows a carved creature often called the Maeshowe dragon. It is part of the Heart of Neolithic Orkney World Heritage Site.",
+   "alternatives": [
+    {
+     "label": "Built for the Sun?",
+     "text": "The solstice alignment is widely accepted. Some researchers argue it was deliberate to mark the turning of the year, linked with beliefs about death and rebirth; others caution that ancient intentions cannot be known for certain."
+    },
+    {
+     "label": "Treasure and the hogboon",
+     "text": "The Norse runes claim treasure was taken, but no contents of the tomb survive and the claim cannot be checked. Orkney folklore told of a mound-dweller, the hogboon, living in such mounds."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Maeshowe",
+     "url": "https://en.wikipedia.org/wiki/Maeshowe",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Historic Environment Scotland: Maeshowe Chambered Cairn",
+     "url": "https://www.historicenvironment.scot/visit-a-place/places/maeshowe-chambered-cairn/",
+     "type": "heritage"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/MaesHowe.jpg/500px-MaesHowe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:MaesHowe.jpg",
+     "author": "Unknown",
+     "license": "Public domain",
+     "title": "MaesHowe.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "science-cosmos"
+   ],
+   "threads": [
+    "giants-and-little-people",
+    "ancient-astronomy",
+    "hidden-tombs",
+    "lost-treasures",
+    "sun-cults",
+    "megalithic-europe"
+   ]
   }
  ]
 }
