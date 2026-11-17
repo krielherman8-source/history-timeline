@@ -68146,6 +68146,635 @@
     "sun-cults",
     "megalithic-europe"
    ]
+  },
+  {
+   "id": "agartha",
+   "title": "Agartha: the kingdom inside the Earth",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": 1873,
+   "end": null,
+   "evidenceTypes": [
+    "literary",
+    "esoteric",
+    "speculative"
+   ],
+   "mainstream": "Agartha is a legendary underground kingdom, usually placed beneath Central Asia and ruled by a hidden 'King of the World' who secretly guides events on the surface. The idea is modern. It first appeared in 1873 in Les fils de Dieu by the French writer Louis Jacolliot, who claimed to draw on ancient Indian manuscripts. It was developed by the occultist Saint-Yves d'Alveydre in the 1880s, popularised by Ferdynand Ossendowski's 1922 travel book Beasts, Men and Gods, and discussed by René Guénon in The King of the World (1927). From the 1960s, writers such as Raymond Bernard merged it with Hollow Earth ideas, with entrances at the poles.",
+   "alternatives": [
+    {
+     "label": "Hidden masters",
+     "text": "Esoteric and New Age movements have described Agartha as home to an advanced race or spiritual masters, sometimes linked to Shambhala, Atlantis or UFOs. There is no physical evidence for such a realm, and these claims are speculative."
+    },
+    {
+     "label": "Literary origins",
+     "text": "Historians trace the legend to 19th-century European fascination with India and Tibet. Some note that Ossendowski's account closely follows Saint-Yves's earlier book, which suggests borrowing."
+    },
+    {
+     "label": "The real underground",
+     "text": "Geophysics shows that Earth's interior is solid and molten rock and metal, not hollow; seismic waves from earthquakes are used to map its layers."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Agartha",
+     "url": "https://en.wikipedia.org/wiki/Agartha",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Hollow Earth",
+     "url": "https://en.wikipedia.org/wiki/Hollow_Earth",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Agartha_and_Shambhala%2C_Land_of_Advanced_Races%2C_Raymond_Bernard.png/500px-Agartha_and_Shambhala%2C_Land_of_Advanced_Races%2C_Raymond_Bernard.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Agartha_and_Shambhala,_Land_of_Advanced_Races,_Raymond_Bernard.png",
+     "author": "Walter Siegmeister",
+     "license": "Public domain",
+     "title": "Agartha_and_Shambhala,_Land_of_Advanced_Races,_Raymond_Bernard.png"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "lost-civilisations",
+    "anomalies"
+   ],
+   "threads": [
+    "lost-continents",
+    "hidden-kingdoms",
+    "underground-worlds",
+    "earthly-paradises",
+    "fringe-theories"
+   ]
+  },
+  {
+   "id": "bell-witch",
+   "title": "The Bell Witch: America's most famous haunting",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": 1817,
+   "end": 1821,
+   "evidenceTypes": [
+    "folklore",
+    "later written accounts"
+   ],
+   "mainstream": "According to Tennessee legend, from 1817 to 1821 the family of farmer John Bell in Robertson County was tormented by an invisible entity. It knocked on walls, pulled bedclothes, slapped and pinched the children, especially daughter Betsy, and eventually spoke, sang and argued with visitors. It claimed to be the spirit of a neighbour, 'Kate Batts', among other identities. When John Bell died in 1820, the spirit was said to have boasted that it had poisoned him. The best-known account, Martin Ingram's Authenticated History of the Bell Witch, appeared in 1894, more than 70 years later. A cave on the former Bell farm is now a tourist site.",
+   "alternatives": [
+    {
+     "label": "Andrew Jackson's visit",
+     "text": "A famous episode says General Andrew Jackson came to investigate and his party fled. It appears only in a letter printed in Ingram's book, and historians have found no contemporary record of it."
+    },
+    {
+     "label": "Hoax, poltergeist or folklore?",
+     "text": "Sceptics point out that no account written during the haunting itself is known, and one 1880s newspaper story about the witch was linked to a known hoaxer. Believers treat the case as a classic poltergeist. Folklorists study it as a legend that grew over generations."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Bell Witch",
+     "url": "https://en.wikipedia.org/wiki/Bell_Witch",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Poltergeist",
+     "url": "https://en.wikipedia.org/wiki/Poltergeist",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/WmPorterBurnWitch.jpg/500px-WmPorterBurnWitch.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:WmPorterBurnWitch.jpg",
+     "author": "M. V. Ingram",
+     "license": "Public domain",
+     "title": "WmPorterBurnWitch.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "anomalies"
+   ],
+   "threads": [
+    "modern-legends",
+    "curses-and-hauntings",
+    "haunted-houses",
+    "poltergeists"
+   ]
+  },
+  {
+   "id": "persian-princess-2000",
+   "title": "The \"Persian Princess\": a mummy that turned out to be a murder case",
+   "lane": "history",
+   "status": "debunked",
+   "priority": 2,
+   "start": 2000,
+   "end": null,
+   "evidenceTypes": [
+    "forensic",
+    "radiocarbon",
+    "documentary"
+   ],
+   "mainstream": "In October 2000 Pakistani police recovered a mummy that was reportedly being offered on the black antiquities market for 600 million Pakistani rupees (about US$11 million at the time). It lay in a carved coffin with a gold crown and a breastplate inscribed in cuneiform, which identified her as a daughter of the Persian king Xerxes, about 2,500 years ago. Iran and Pakistan both claimed her. Asma Ibrahim, curator of the National Museum of Pakistan, soon noticed features that raised doubts. The philologist Rüdiger Schmitt found many grammatical errors in the Old Persian text, parts of which had been copied from the Behistun inscription, radiocarbon dating put the coffin at only about 250 years old, and examination suggested the woman had died only a few years earlier. Police treated the case as a possible murder; the woman's identity has never been established.",
+   "alternatives": [
+    {
+     "label": "A forgery ring",
+     "text": "Investigators suspected that the body was obtained, and possibly the woman killed, to make a saleable fake antiquity. Several people were arrested, but the full story has not come out."
+    },
+    {
+     "label": "How it fooled people",
+     "text": "The case is often cited as a warning about how convincing forgeries can be, and how the antiquities market can encourage crime."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Persian Princess",
+     "url": "https://en.wikipedia.org/wiki/Persian_Princess",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [],
+   "categories": [
+    "hoaxes",
+    "archaeology"
+   ],
+   "threads": [
+    "hoaxes-exposed",
+    "mummies",
+    "forged-documents",
+    "iranian-worlds",
+    "unsolved-crimes"
+   ]
+  },
+  {
+   "id": "guadalupe-1531",
+   "title": "Our Lady of Guadalupe: the vision at Tepeyac",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 1531,
+   "end": null,
+   "evidenceTypes": [
+    "religious tradition",
+    "textual",
+    "material (the tilma)"
+   ],
+   "mainstream": "According to Catholic tradition, in December 1531 the Virgin Mary appeared several times to Juan Diego, an Indigenous convert, on the hill of Tepeyac near Mexico City, ten years after the Spanish conquest of the Aztec capital. Asked for a sign by the bishop, Juan Diego gathered roses in winter in his cloak (tilma); when he opened it, an image of the Virgin was revealed. The tilma hangs today in the Basilica of Our Lady of Guadalupe, one of the most visited Catholic shrines in the world. The fullest early account, the Nican Mopohua in Nahuatl, was published in 1649. Juan Diego was canonised in 2002, and Guadalupe became a symbol of Mexican identity.",
+   "alternatives": [
+    {
+     "label": "Historical doubts",
+     "text": "Some historians note the lack of surviving documents from the 1530s about the apparitions. In the 1990s the basilica's own former abbot, Guillermo Schulenburg, questioned whether Juan Diego existed, causing controversy. Supporters cite Indigenous traditions and later testimonies."
+    },
+    {
+     "label": "Tonantzin and the hill",
+     "text": "A 16th-century friar, Bernardino de Sahagún, wrote that Tepeyac had been a place of worship for a mother goddess called Tonantzin. Some scholars see the Guadalupe devotion as blending Indigenous and Catholic beliefs; others reject this as overstated."
+    },
+    {
+     "label": "Studies of the image",
+     "text": "Some art experts have identified paint and later retouching on the tilma. Believers have claimed that tiny human figures can be seen reflected in the Virgin's eyes; sceptics describe this as pareidolia."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Our Lady of Guadalupe",
+     "url": "https://en.wikipedia.org/wiki/Our_Lady_of_Guadalupe",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Juan Diego",
+     "url": "https://en.wikipedia.org/wiki/Juan_Diego",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Huei tlamahuiçoltica",
+     "url": "https://en.wikipedia.org/wiki/Huei_tlamahui%C3%A7oltica",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Virgen_de_guadalupe1.jpg/500px-Virgen_de_guadalupe1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Virgen_de_guadalupe1.jpg",
+     "author": "Unknown",
+     "license": "Public domain",
+     "title": "Virgen_de_guadalupe1.jpg"
+    }
+   ],
+   "categories": [
+    "religion",
+    "history",
+    "anomalies"
+   ],
+   "threads": [
+    "collective-experiences",
+    "seeing-what-we-expect",
+    "pareidolia",
+    "suppressed-beliefs",
+    "central-america",
+    "contested-texts"
+   ]
+  },
+  {
+   "id": "lourdes-1858",
+   "title": "Lourdes: Bernadette's visions and the healing spring",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 1858,
+   "end": 1858,
+   "evidenceTypes": [
+    "testimony",
+    "religious tradition",
+    "medical records"
+   ],
+   "mainstream": "Between February and July 1858, Bernadette Soubirous, a 14-year-old miller's daughter in Lourdes in south-western France, reported 18 visions of a young lady in a grotto called Massabielle. Crowds followed her; at the lady's direction she dug in the ground and a spring appeared. Asked her name, the lady reportedly said, in the local dialect, 'I am the Immaculate Conception'. The Catholic Church approved the apparitions in 1862, and Lourdes became one of the world's largest pilgrimage sites. A medical bureau founded in 1883 examines claimed cures; only about 70 have been formally recognised as miracles by the Church. Bernadette became a nun and was canonised in 1933.",
+   "alternatives": [
+    {
+     "label": "Miracle or natural recovery?",
+     "text": "Sceptics argue that with millions of visitors, rare spontaneous recoveries are expected, and that the small number of recognised cures is itself telling. Supporters point to the strict medical checks before any cure is recognised."
+    },
+    {
+     "label": "A child as witness",
+     "text": "Bernadette was questioned repeatedly by officials who suspected fraud or illness and kept to her account. The case is often compared with other child visionaries, such as the children of Fátima in 1917."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Our Lady of Lourdes",
+     "url": "https://en.wikipedia.org/wiki/Our_Lady_of_Lourdes",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Bernadette Soubirous",
+     "url": "https://en.wikipedia.org/wiki/Bernadette_Soubirous",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Lourdes apparitions",
+     "url": "https://en.wikipedia.org/wiki/Lourdes_apparitions",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/France-002009_-_Our_Lady_of_Lourdes_%2815774765182%29.jpg/500px-France-002009_-_Our_Lady_of_Lourdes_%2815774765182%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:France-002009_-_Our_Lady_of_Lourdes_(15774765182).jpg",
+     "author": "Dennis G. Jarvis",
+     "license": "CC BY-SA 2.0",
+     "title": "France-002009_-_Our_Lady_of_Lourdes_(15774765182).jpg"
+    }
+   ],
+   "categories": [
+    "religion",
+    "anomalies",
+    "history"
+   ],
+   "threads": [
+    "collective-experiences",
+    "visionary-women",
+    "water-spirits",
+    "tested-by-experiment",
+    "children-as-witnesses"
+   ]
+  },
+  {
+   "id": "platypus-1799",
+   "title": "The platypus: the animal scientists thought was a hoax",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1799,
+   "end": null,
+   "evidenceTypes": [
+    "zoological specimens",
+    "scientific publication"
+   ],
+   "mainstream": "When the first platypus skin reached Britain from New South Wales in the late 1790s, it looked like a joke: a duck's bill on a furry, beaver-like body with webbed feet. The naturalist George Shaw, who described it in 1799, wrote that it was hard not to suspect deception, and some scientists thought it might be a fake stitched together, like the 'mermaids' sold to collectors. Further specimens proved it was real. Its biology kept surprising: it detects prey with electroreceptors in its bill, the male has a venomous spur, and it lays eggs. Egg-laying was finally confirmed in 1884, when William Caldwell sent a famous telegram from Australia: 'Monotremes oviparous, ovum meroblastic'.",
+   "alternatives": [
+    {
+     "label": "Scissor marks",
+     "text": "Shaw is said to have used scissors to check the specimen for stitches. Some at the time suspected that it had been made by sailors who sewed a duck's beak onto another animal."
+    },
+    {
+     "label": "Lessons in doubt",
+     "text": "The platypus is often cited both as a reason for scientific caution and as a warning that some \"impossible\" reports turn out to be true. Indigenous Australians knew the animal well long before Europeans debated it."
+    }
+   ],
+   "changed": "1799: described, suspected fake. Early 1800s: more specimens confirm it. 1884: egg-laying confirmed.",
+   "sources": [
+    {
+     "title": "Wikipedia: Platypus",
+     "url": "https://en.wikipedia.org/wiki/Platypus",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Monotreme",
+     "url": "https://en.wikipedia.org/wiki/Monotreme",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Duck-billed_platypus_%28Ornithorhynchus_anatinus%29_Scottsdale.jpg/500px-Duck-billed_platypus_%28Ornithorhynchus_anatinus%29_Scottsdale.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Duck-billed_platypus_(Ornithorhynchus_anatinus)_Scottsdale.jpg",
+     "author": "Charles J. Sharp",
+     "license": "CC BY-SA 4.0",
+     "title": "Duck-billed_platypus_(Ornithorhynchus_anatinus)_Scottsdale.jpg"
+    }
+   ],
+   "categories": [
+    "science-cosmos",
+    "hoaxes",
+    "anomalies"
+   ],
+   "threads": [
+    "hoaxes-exposed",
+    "stories-proven-true",
+    "voices-of-doubt"
+   ]
+  },
+  {
+   "id": "komodo-dragon-1910",
+   "title": "The Komodo dragon: a rumoured \"land crocodile\" turns out to be real",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1910,
+   "end": null,
+   "dateNote": "First European specimen c. 1910; described 1912",
+   "evidenceTypes": [
+    "zoological specimens",
+    "scientific publication",
+    "local tradition"
+   ],
+   "mainstream": "Pearl divers and fishermen in the Lesser Sunda Islands of Indonesia had long told of huge lizards. Around 1910 the Dutch colonial officer J. K. H. van Steyn van Hensbroek visited Komodo after hearing reports of a 'land crocodile', and obtained a specimen. In 1912 Peter Ouwens, director of the zoological museum at Buitenzorg (Bogor) in Java, described it scientifically as Varanus komodoensis. It is the largest living lizard, up to about 3 metres long. The Komodo people also call the lizards sebae, 'twins', from a traditional belief that they share the same spiritual mother as the dragons. Komodo dragons live only on Komodo, Rinca, Flores and a few nearby islets, now largely within Komodo National Park.",
+   "alternatives": [
+    {
+     "label": "A dragon legend?",
+     "text": "Some writers suggest such animals could have inspired Chinese or other dragon legends; there is no direct evidence for this. The dragon's discovery is often cited by cryptozoologists as proof that large unknown animals can still be found, while zoologists note that it was well known locally all along."
+    },
+    {
+     "label": "Island giants",
+     "text": "Flores was also home to Homo floresiensis, the small human species found in 2003, and to dwarf elephants. Scientists study the island as an example of how size changes on islands."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Komodo dragon",
+     "url": "https://en.wikipedia.org/wiki/Komodo_dragon",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Komodo National Park",
+     "url": "https://en.wikipedia.org/wiki/Komodo_National_Park",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/202306_Varanus_komodoensis.jpg/500px-202306_Varanus_komodoensis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:202306_Varanus_komodoensis.jpg",
+     "author": "James Jolokia (james1203)",
+     "license": "CC BY 4.0",
+     "title": "202306_Varanus_komodoensis.jpg"
+    }
+   ],
+   "categories": [
+    "science-cosmos",
+    "myth-legend",
+    "anomalies"
+   ],
+   "threads": [
+    "dragons-and-fossils",
+    "cryptids",
+    "stories-proven-true",
+    "island-southeast-asia"
+   ]
+  },
+  {
+   "id": "wollemi-pine-1994",
+   "title": "The Wollemi pine: a \"living fossil\" found in a hidden canyon",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1994,
+   "end": null,
+   "evidenceTypes": [
+    "botanical",
+    "fossil comparison",
+    "genetic"
+   ],
+   "mainstream": "In September 1994 David Noble, a New South Wales national parks officer, was exploring a remote gorge in the Wollemi National Park, about 150 km north-west of Sydney, when he noticed unusual trees. They turned out to be a previously unknown conifer of the ancient Araucariaceae family, named Wollemia nobilis. Similar trees are known from fossils dating back tens of millions of years, so it was hailed as a 'living fossil'. Fewer than 100 adult trees grow in the wild, and their location is kept secret. In the 2019-20 bushfires, firefighters set up irrigation and dropped fire retardant to save the grove. Cloned trees are now sold and planted worldwide to protect the species.",
+   "alternatives": [
+    {
+     "label": "How \"living\" a fossil?",
+     "text": "Scientists caution that \"living fossil\" can mislead: the species has continued to evolve, though its family has a long fossil record. Genetic studies show the wild trees have very low genetic diversity."
+    },
+    {
+     "label": "A pattern of rediscovery",
+     "text": "The Wollemi pine is often grouped with the coelacanth and other \"Lazarus\" species that were thought long extinct, showing that remote places can still hide surprises."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Wollemia",
+     "url": "https://en.wikipedia.org/wiki/Wollemia",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Wakehurst_Place_woodland_Wollemi_pine.jpg/500px-Wakehurst_Place_woodland_Wollemi_pine.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Wakehurst_Place_woodland_Wollemi_pine.jpg",
+     "author": "AndyScott",
+     "license": "CC BY-SA 4.0",
+     "title": "Wakehurst_Place_woodland_Wollemi_pine.jpg"
+    }
+   ],
+   "categories": [
+    "science-cosmos"
+   ],
+   "threads": [
+    "stories-proven-true",
+    "vanished-species",
+    "accidental-discoveries"
+   ]
+  },
+  {
+   "id": "moshoeshoe-thaba-bosiu",
+   "title": "Moshoeshoe and Thaba Bosiu: the mountain that \"grew at night\"",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1824,
+   "end": 1870,
+   "evidenceTypes": [
+    "oral tradition",
+    "documentary",
+    "archaeological"
+   ],
+   "mainstream": "Moshoeshoe I (about 1786-1870) was the founder of the Basotho nation and the first king of Lesotho. In July 1824, during the upheavals known as the Mfecane or Difaqane, he moved his people to a flat-topped sandstone mountain he named Thaba Bosiu, 'mountain at night', because they arrived there at night. To scare off enemies, he spread word that the mountain grew larger at night. It was never taken by force. Moshoeshoe gave cattle and protection to refugees, welcomed French missionaries in 1833, and fought wars with the Boer Orange Free State. In 1868 he obtained British protection, and the territory became Basutoland, later independent Lesotho.",
+   "alternatives": [
+    {
+     "label": "Strategy and legend",
+     "text": "Historians see the \"growing mountain\" as an example of deliberate psychological warfare, while stories about it remain part of Basotho tradition. Moshoeshoe's reputation for diplomacy, including feeding defeated enemies, is central to national memory."
+    },
+    {
+     "label": "Contested histories",
+     "text": "The Mfecane itself is debated: older accounts blamed the Zulu kingdom under Shaka for widespread chaos, while some historians since the 1980s argue that colonial slave raiding and drought also played major roles."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Moshoeshoe I",
+     "url": "https://en.wikipedia.org/wiki/Moshoeshoe_I",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Thaba Bosiu",
+     "url": "https://en.wikipedia.org/wiki/Thaba_Bosiu",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/King_Moshoeshoe_of_the_Sotho_-_Lesotho_-_from_the_Natal_Archives.jpg/500px-King_Moshoeshoe_of_the_Sotho_-_Lesotho_-_from_the_Natal_Archives.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:King_Moshoeshoe_of_the_Sotho_-_Lesotho_-_from_the_Natal_Archives.jpg",
+     "author": "Natal Archives anon.",
+     "license": "Public domain",
+     "title": "King_Moshoeshoe_of_the_Sotho_-_Lesotho_-_from_the_Natal_Archives.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "myth-legend"
+   ],
+   "threads": [
+    "founding-ancestors",
+    "resistance-to-empire",
+    "southern-africa",
+    "sacred-rocks-and-mountains"
+   ]
+  },
+  {
+   "id": "kaggen-mantis",
+   "title": "ǀKaggen: the San trickster who becomes a mantis",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": 1870,
+   "end": null,
+   "dateNote": "Recorded 1870s; tradition much older",
+   "evidenceTypes": [
+    "oral tradition",
+    "ethnographic records",
+    "rock art"
+   ],
+   "mainstream": "ǀKaggen, often called 'Mantis' in English, is a creator and trickster figure of the ǀXam San of southern Africa. He can change shape, usually becoming a praying mantis but also an eland, a snake or a louse. He gets into trouble and plays tricks, and the eland is his favourite creation: in one story his sons kill his hidden eland, and blood from it, churned in a pot, spatters onto the ground and turns into snakes. Much of what is known comes from the Bleek and Lloyd archive: in the 1870s the linguist Wilhelm Bleek and Lucy Lloyd recorded thousands of pages of stories in Cape Town from ǀXam men such as ǁKabbo, some of them prisoners. The archive is listed in UNESCO's Memory of the World register.",
+   "alternatives": [
+    {
+     "label": "Reading the rock art",
+     "text": "Since the 1970s many researchers, notably David Lewis-Williams, have interpreted San rock paintings of eland and part-human figures as linked to trance and to beliefs like those in the ǀXam records. Others warn against applying 19th-century ǀXam beliefs to art made by different groups over thousands of years."
+    },
+    {
+     "label": "A culture recorded on the edge of loss",
+     "text": "The ǀXam language died out soon after it was recorded, so the archive is a rare surviving voice. Some descendants and scholars stress that it was collected under colonial conditions."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: ǀKaggen",
+     "url": "https://en.wikipedia.org/wiki/%C7%80Kaggen",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Wilhelm Bleek",
+     "url": "https://en.wikipedia.org/wiki/Wilhelm_Bleek",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Mantis_%28European%29.jpg/500px-Mantis_%28European%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Mantis_(European).jpg",
+     "author": "Mihai C. Popa",
+     "license": "CC BY-SA 4.0",
+     "title": "Mantis_(European).jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion"
+   ],
+   "threads": [
+    "creation-myths",
+    "shapeshifters",
+    "first-art",
+    "southern-africa",
+    "trickster-tales"
+   ]
+  },
+  {
+   "id": "molasses-flood-1919",
+   "title": "The Great Molasses Flood: a 35 mph wave of syrup",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 3,
+   "start": 1919,
+   "end": null,
+   "evidenceTypes": [
+    "documentary",
+    "photographic",
+    "legal records"
+   ],
+   "mainstream": "On 15 January 1919 a huge storage tank holding about 8.7 million litres of molasses burst in the North End of Boston, Massachusetts. A wave of molasses several metres high rushed through the streets at an estimated 56 km/h, knocking buildings off their foundations and trapping people and horses. Twenty-one people died and about 150 were injured. A long court case found that the tank, owned by a subsidiary of United States Industrial Alcohol, had been poorly built and never properly tested; it had leaked so badly that it was painted brown to hide the leaks. Residents said the area smelled of molasses on hot days for decades.",
+   "alternatives": [
+    {
+     "label": "Why so deadly?",
+     "text": "In 2016 a team of scientists and students at Harvard University studied the disaster and suggested that the cold January air made the molasses thicken quickly, trapping victims and hampering rescuers."
+    },
+    {
+     "label": "The anarchist defence",
+     "text": "The company claimed the tank had been blown up by anarchists. The court rejected this and blamed the tank's construction; the case helped push for stricter engineering checks and building codes."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Great Molasses Flood",
+     "url": "https://en.wikipedia.org/wiki/Great_Molasses_Flood",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/BostonMolassesDisaster.jpg/500px-BostonMolassesDisaster.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:BostonMolassesDisaster.jpg",
+     "author": "BPL",
+     "license": "Public domain",
+     "title": "BostonMolassesDisaster.jpg"
+    }
+   ],
+   "categories": [
+    "catastrophes",
+    "history"
+   ],
+   "threads": [
+    "modern-legends",
+    "strange-coincidences",
+    "science-gone-wrong"
+   ]
   }
  ]
 }
