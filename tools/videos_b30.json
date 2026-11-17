@@ -1,0 +1,104 @@
+{
+ "penicillin-1928": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=CNbnLgetqHs",
+  "title": "The accident that changed the world - Allison Ramsey and Mary Staicu",
+  "channel": "TED-Ed"
+ },
+ "smallpox-eradication": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=yqUFy-t4MlQ",
+  "title": "How we conquered the deadly smallpox virus - Simona Zompi",
+  "channel": "TED-Ed"
+ },
+ "mendel-peas": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=Mehz7tCxjSE",
+  "title": "How Mendel's pea plants helped us understand genetics - Hortensia Jiménez Díaz",
+  "channel": "TED-Ed"
+ },
+ "pulsars-lgm-1967": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=PKtnaTxLARc",
+  "title": "Jocelyn Bell Burnell describes how she discovered pulsars - Beautiful Minds_Ep1 Preview_BBC Four",
+  "channel": "BBC"
+ },
+ "vera-rubin-dark-matter": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=ywppy_2M03I",
+  "title": "How Vera Rubin Found the First Direct Evidence for Dark Matter | Great Minds",
+  "channel": "SciShow Space"
+ },
+ "first-exoplanet-1995": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=CBvrn0Ki714",
+  "title": "Nobel Winners Michel Mayor and Didier Queloz Talk About 51 Peg b Discovery",
+  "channel": "NASA Solar System"
+ },
+ "human-genome-2003": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=AhsIF-cmoQQ",
+  "title": "The race to sequence the human genome - Tien Nguyen",
+  "channel": "TED-Ed"
+ },
+ "indian-ocean-tsunami-2004": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=iSOdNTnkKu0",
+  "title": "Tsunami Witness | National Geographic",
+  "channel": "National Geographic"
+ },
+ "tohoku-2011": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=oWzdgBNfhQU",
+  "title": "Rare Video: Japan Tsunami | National Geographic",
+  "channel": "National Geographic"
+ },
+ "halifax-explosion-1917": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=OSuX9RvLq54",
+  "title": "A city destroyed: The Halifax Explosion, 100 years later in 360-degrees",
+  "channel": "CBC News"
+ },
+ "enheduanna": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=XhNw1BhV6sw",
+  "title": "The princess exiled from ancient Mesopotamia - Soraya Field Fiorio",
+  "channel": "TED-Ed"
+ },
+ "lindow-man": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=oGV402Z1KNY",
+  "title": "The Stunningly Clear Features on the Lindow Man Mummy",
+  "channel": "Smithsonian Channel"
+ },
+ "komodo-dragon-1910": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=28FzV5OHqMU",
+  "title": "Largest Lizard on Earth | The Komodo Dragon | Deadly 60 | Indonesia | Series 3 | BBC",
+  "channel": "BBC Earth"
+ },
+ "confucius": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=wFt_VGG0kJU",
+  "title": "Who was Confucius? - Bryan W. Van Norden",
+  "channel": "TED-Ed"
+ },
+ "zhang-qian": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=vfe-eNq-Qyg",
+  "title": "The Silk Road and Ancient Trade: Crash Course World History #9",
+  "channel": "CrashCourse"
+ },
+ "platypus-1799": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=z1semqcAVos",
+  "title": "Platypuses Aren't Weird, You Are",
+  "channel": "SciShow"
+ },
+ "wollemi-pine-1994": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=yLPDb3zR9cY",
+  "title": "The top secret mission to preserve the 'botanical find of the century' | 7.30",
+  "channel": "ABC News In-depth"
+ }
+}
