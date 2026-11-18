@@ -29807,7 +29807,8 @@
     "ancient-technology",
     "knowledge-and-power",
     "cold-war-secrets",
-    "nuclear-age"
+    "nuclear-age",
+    "secrets-kept-for-decades"
    ]
   },
   {
@@ -69630,6 +69631,733 @@
     "accidental-discoveries",
     "science-gone-wrong",
     "who-got-there-first"
+   ]
+  },
+  {
+   "id": "enigma-bletchley",
+   "title": "Breaking Enigma: Polish codebreakers, Bletchley Park and Alan Turing",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": 1932,
+   "end": 1945,
+   "evidenceTypes": [
+    "documentary",
+    "declassified records",
+    "surviving machines"
+   ],
+   "mainstream": "Germany's armed forces used Enigma cipher machines, which scrambled messages with rotating wheels and were thought to be unbreakable. In 1932 Polish mathematicians Marian Rejewski, Jerzy Różycki and Henryk Zygalski broke Enigma, and in July 1939, weeks before the German invasion of Poland, they shared their methods with British and French intelligence. At Bletchley Park in England, Alan Turing and Gordon Welchman designed electromechanical 'bombes' to find daily Enigma settings, and Tommy Flowers built Colossus, an early electronic computer, to break the German Lorenz cipher. The intelligence, codenamed Ultra, helped the Allies in the Battle of the Atlantic and elsewhere. It stayed secret until the 1970s.",
+   "alternatives": [
+    {
+     "label": "How much did it shorten the war?",
+     "text": "The official historian of British intelligence, Harry Hinsley, estimated that Ultra shortened the war in Europe by about two years. Other historians think such figures are impossible to measure."
+    },
+    {
+     "label": "The Coventry story",
+     "text": "A claim popularised in the 1970s says Churchill knew in advance that Coventry would be bombed in November 1940 and let it happen to protect the Enigma secret. Most historians reject this, saying the target was not identified in time."
+    },
+    {
+     "label": "Turing's death",
+     "text": "After the war Turing was prosecuted in 1952 for homosexual acts and accepted hormone treatment. He died of cyanide poisoning in 1954, and an inquest ruled suicide. Some biographers think an accident was possible. He received a posthumous royal pardon in 2013."
+    }
+   ],
+   "changed": "1932: Poles break Enigma. 1939: methods shared with Britain and France. 1974: Ultra secret made public. 2013: Turing pardoned.",
+   "sources": [
+    {
+     "title": "Wikipedia: Cryptanalysis of the Enigma",
+     "url": "https://en.wikipedia.org/wiki/Cryptanalysis_of_the_Enigma",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Bletchley Park",
+     "url": "https://en.wikipedia.org/wiki/Bletchley_Park",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Alan Turing",
+     "url": "https://en.wikipedia.org/wiki/Alan_Turing",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Enigma_%28crittografia%29_-_Museo_scienza_e_tecnologia_Milano.jpg/500px-Enigma_%28crittografia%29_-_Museo_scienza_e_tecnologia_Milano.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Enigma_(crittografia)_-_Museo_scienza_e_tecnologia_Milano.jpg",
+     "author": "Alessandro Nassiri",
+     "license": "CC BY-SA 4.0",
+     "title": "Enigma_(crittografia)_-_Museo_scienza_e_tecnologia_Milano.jpg"
+    }
+   ],
+   "categories": [
+    "history"
+   ],
+   "threads": [
+    "erased-from-history",
+    "myths-about-history",
+    "ciphers-and-codes",
+    "secrets-kept-for-decades"
+   ]
+  },
+  {
+   "id": "hiroshima-nagasaki-1945",
+   "title": "Hiroshima and Nagasaki: the only nuclear weapons used in war",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": 1945,
+   "end": null,
+   "evidenceTypes": [
+    "documentary",
+    "photographic",
+    "survivor testimony",
+    "physical"
+   ],
+   "mainstream": "On 6 August 1945 a US B-29 bomber dropped a uranium bomb, 'Little Boy', on the Japanese city of Hiroshima. On 9 August a plutonium bomb, 'Fat Man', was dropped on Nagasaki. Most of both cities was destroyed. Estimates of deaths by the end of 1945 range from about 90,000 to 146,000 in Hiroshima and 39,000 to 80,000 in Nagasaki, many from burns and radiation sickness. On 8 August the Soviet Union declared war on Japan, and on 15 August Emperor Hirohito announced Japan's surrender. Survivors, called hibakusha, became leading voices against nuclear weapons; their organisation Nihon Hidankyo received the Nobel Peace Prize in 2024.",
+   "alternatives": [
+    {
+     "label": "Were the bombs necessary?",
+     "text": "One view holds that the bombings ended the war quickly and avoided an invasion that would have cost more lives on both sides. Others argue that Japan was near surrender, that the Soviet declaration of war was the decisive shock, or that the bombs were partly meant to impress the Soviet Union. The debate among historians continues."
+    },
+    {
+     "label": "Twice bombed",
+     "text": "Tsutomu Yamaguchi was in Hiroshima on business on 6 August, returned home to Nagasaki and survived the second bomb too. In 2009 Japan officially recognised him as a survivor of both."
+    }
+   ],
+   "changed": "1945: bombings and surrender. 1950s onward: hibakusha movement. 2009: Yamaguchi recognised as double survivor. 2024: Nobel Peace Prize for Nihon Hidankyo.",
+   "sources": [
+    {
+     "title": "Wikipedia: Atomic bombings of Hiroshima and Nagasaki",
+     "url": "https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Debate over the atomic bombings of Hiroshima and Nagasaki",
+     "url": "https://en.wikipedia.org/wiki/Debate_over_the_atomic_bombings_of_Hiroshima_and_Nagasaki",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Tsutomu Yamaguchi",
+     "url": "https://en.wikipedia.org/wiki/Tsutomu_Yamaguchi",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Nihon Hidankyo",
+     "url": "https://en.wikipedia.org/wiki/Nihon_Hidankyo",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Atomic_bombing_of_Japan.jpg/500px-Atomic_bombing_of_Japan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Atomic_bombing_of_Japan.jpg",
+     "author": "George R. Caron / Charles Levy",
+     "license": "Public domain",
+     "title": "Atomic_bombing_of_Japan.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "catastrophes"
+   ],
+   "threads": [
+    "nuclear-age",
+    "strange-coincidences"
+   ]
+  },
+  {
+   "id": "gagarin-1961",
+   "title": "\"Poyekhali!\": Yuri Gagarin, the first human in space",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": 1961,
+   "end": null,
+   "evidenceTypes": [
+    "documentary",
+    "telemetry",
+    "photographic"
+   ],
+   "mainstream": "On 12 April 1961 the Soviet pilot Yuri Gagarin was launched from Baikonur in the spacecraft Vostok 1. As it lifted off he said 'Poyekhali!' ('Let's go!'). He made one orbit of Earth in about 108 minutes. On the way down he ejected from the capsule and landed by his own parachute in a field near Saratov, where a local woman and a young girl were the first to meet him. He became a worldwide celebrity. Gagarin died in 1968 when his MiG-15 jet crashed on a training flight; the cause has been investigated several times without agreement on every detail.",
+   "alternatives": [
+    {
+     "label": "The hidden parachute landing",
+     "text": "For years Soviet officials said Gagarin landed inside his capsule, because the rules for aviation records required a pilot to land with the craft. The truth was later admitted."
+    },
+    {
+     "label": "The \"Lost Cosmonauts\"",
+     "text": "Rumours, including claimed radio intercepts by two Italian amateur radio operators, the Judica-Cordiglia brothers, said the Soviet Union had secretly launched and lost cosmonauts before Gagarin. Historians who studied Soviet archives after 1991 found no evidence of such flights, though some cosmonaut trainees did die in accidents on the ground."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Vostok 1",
+     "url": "https://en.wikipedia.org/wiki/Vostok_1",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Yuri Gagarin",
+     "url": "https://en.wikipedia.org/wiki/Yuri_Gagarin",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Lost Cosmonauts",
+     "url": "https://en.wikipedia.org/wiki/Lost_Cosmonauts",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Yuri_Gagarin_with_awards_%28cropped%29_2.jpg/500px-Yuri_Gagarin_with_awards_%28cropped%29_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Yuri_Gagarin_with_awards_(cropped)_2.jpg",
+     "author": "Александр Моклецов / СовИнформБюро",
+     "license": "CC BY 4.0",
+     "title": "Yuri_Gagarin_with_awards_(cropped)_2.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "science-cosmos",
+    "hoaxes"
+   ],
+   "threads": [
+    "hoaxes-exposed",
+    "space-race",
+    "cold-war-secrets",
+    "rumour-and-disinformation"
+   ]
+  },
+  {
+   "id": "cuban-missile-crisis-1962",
+   "title": "The Cuban Missile Crisis and the submarine officer who said no",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": 1962,
+   "end": null,
+   "evidenceTypes": [
+    "documentary",
+    "declassified records",
+    "aerial photographs",
+    "testimony"
+   ],
+   "mainstream": "In October 1962 American U-2 spy planes photographed Soviet nuclear missile sites being built in Cuba. President John F. Kennedy announced a naval 'quarantine' of the island, and for thirteen days the world was closer to nuclear war than ever before. On 27 October, 'Black Saturday', a U-2 was shot down over Cuba and its pilot killed. The crisis ended when Soviet leader Nikita Khrushchev agreed to remove the missiles in return for a US promise not to invade Cuba and a secret agreement to withdraw American missiles from Turkey. A hotline between Washington and Moscow was set up in 1963.",
+   "alternatives": [
+    {
+     "label": "Submarine B-59",
+     "text": "On 27 October US ships dropped practice depth charges to force the Soviet submarine B-59 to surface, unaware that it carried a nuclear torpedo. According to later accounts by crew members, the captain wanted to fire it, but launching required the agreement of the senior officers aboard, and the flotilla chief of staff, Vasily Arkhipov, refused. Some historians question how close the launch really came."
+    },
+    {
+     "label": "How close?",
+     "text": "Former US defence secretary Robert McNamara later said the world avoided nuclear war partly by luck. Others argue that both leaders were more cautious than the public knew."
+    }
+   ],
+   "changed": "1962: crisis. 1963: hotline. 1990s-2000s: Soviet and US records and veterans' accounts reveal near misses such as B-59.",
+   "sources": [
+    {
+     "title": "Wikipedia: Cuban Missile Crisis",
+     "url": "https://en.wikipedia.org/wiki/Cuban_Missile_Crisis",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Vasily Arkhipov",
+     "url": "https://en.wikipedia.org/wiki/Vasily_Arkhipov",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Soviet submarine B-59",
+     "url": "https://en.wikipedia.org/wiki/Soviet_submarine_B-59",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/PGM-19A_Jupiter_missile-02.jpg/500px-PGM-19A_Jupiter_missile-02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:PGM-19A_Jupiter_missile-02.jpg",
+     "author": "USAF",
+     "license": "Public domain",
+     "title": "PGM-19A_Jupiter_missile-02.jpg"
+    }
+   ],
+   "categories": [
+    "history"
+   ],
+   "threads": [
+    "cold-war-secrets",
+    "nuclear-age",
+    "secrets-kept-for-decades",
+    "near-misses"
+   ]
+  },
+  {
+   "id": "apollo-13-1970",
+   "title": "Apollo 13: the successful failure",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1970,
+   "end": null,
+   "evidenceTypes": [
+    "documentary",
+    "telemetry",
+    "audio recordings"
+   ],
+   "mainstream": "Apollo 13 launched on 11 April 1970 to land on the Moon. About 56 hours into the flight, on 13 April, an oxygen tank in the service module exploded, crippling the spacecraft. Astronaut Jack Swigert reported: 'Houston, we've had a problem.' The landing was abandoned. Jim Lovell, Swigert and Fred Haise used the lunar module Aquarius as a lifeboat, swung around the Moon and returned. Engineers on the ground improvised fixes, including a way to fit square carbon-dioxide filters into a round socket using tape, plastic bags and cardboard. The crew splashed down safely on 17 April. Investigators traced the explosion to damaged wiring inside the tank caused by an overlooked design change.",
+   "alternatives": [
+    {
+     "label": "The number 13",
+     "text": "Many people noted that it was Apollo 13, launched at 13:13 Houston time, and that the explosion came on 13 April. Sceptics see this as a classic example of noticing coincidences after the fact."
+    },
+    {
+     "label": "\"Houston, we have a problem\"",
+     "text": "The well-known form of the quote comes from the 1995 film Apollo 13; the recorded words were \"we've had a problem\"."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Apollo 13",
+     "url": "https://en.wikipedia.org/wiki/Apollo_13",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Apollo 13 (film)",
+     "url": "https://en.wikipedia.org/wiki/Apollo_13_(film)",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Apollo_13-insignia.png/500px-Apollo_13-insignia.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Apollo_13-insignia.png",
+     "author": "NASA",
+     "license": "Public domain",
+     "title": "Apollo_13-insignia.png"
+    }
+   ],
+   "categories": [
+    "history",
+    "science-cosmos"
+   ],
+   "threads": [
+    "space-race",
+    "myths-about-history",
+    "strange-coincidences",
+    "near-misses"
+   ]
+  },
+  {
+   "id": "petrov-1983",
+   "title": "26 September 1983: the false alarm that did not start a nuclear war",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": 1983,
+   "end": null,
+   "evidenceTypes": [
+    "documentary",
+    "testimony"
+   ],
+   "mainstream": "Just after midnight on 26 September 1983 the Soviet early-warning system at the Serpukhov-15 command centre near Moscow reported that the United States had launched an intercontinental ballistic missile, then several more. The duty officer, Lieutenant Colonel Stanislav Petrov, judged that a real American first strike would involve hundreds of missiles and that the system was new and unreliable. He reported a false alarm rather than an attack. He was right: satellites had mistaken sunlight reflecting off high clouds for rocket launches. Tensions were very high that year: three weeks earlier the Soviet Union had shot down Korean Air Lines Flight 007. The incident was kept secret until 1998.",
+   "alternatives": [
+    {
+     "label": "Did one man save the world?",
+     "text": "Petrov was praised internationally and received several awards. Some analysts argue that Soviet procedures would not have launched a retaliation based on one officer's report alone. Petrov himself said he was just doing his job."
+    },
+    {
+     "label": "Able Archer 83",
+     "text": "In November 1983 a NATO exercise called Able Archer 83 alarmed some Soviet officials, who feared it could cover a real attack. Historians disagree on how close this came to war."
+    }
+   ],
+   "changed": "1983: incident kept secret. 1998: revealed in a memoir by a former commander. 2013: Dresden Peace Prize for Petrov. 2017: Petrov dies.",
+   "sources": [
+    {
+     "title": "Wikipedia: 1983 Soviet nuclear false alarm incident",
+     "url": "https://en.wikipedia.org/wiki/1983_Soviet_nuclear_false_alarm_incident",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Stanislav Petrov",
+     "url": "https://en.wikipedia.org/wiki/Stanislav_Petrov",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Able Archer 83",
+     "url": "https://en.wikipedia.org/wiki/Able_Archer_83",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Stanislaw-jewgrafowitsch-petrow-2016.jpg/500px-Stanislaw-jewgrafowitsch-petrow-2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Stanislaw-jewgrafowitsch-petrow-2016.jpg",
+     "author": "Queery-54",
+     "license": "CC BY-SA 4.0",
+     "title": "Stanislaw-jewgrafowitsch-petrow-2016.jpg"
+    }
+   ],
+   "categories": [
+    "history"
+   ],
+   "threads": [
+    "cold-war-secrets",
+    "nuclear-age",
+    "secrets-kept-for-decades",
+    "near-misses"
+   ]
+  },
+  {
+   "id": "challenger-1986",
+   "title": "Challenger: seventy-three seconds and a cold O-ring",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1986,
+   "end": null,
+   "evidenceTypes": [
+    "documentary",
+    "video",
+    "engineering analysis"
+   ],
+   "mainstream": "On 28 January 1986 the US space shuttle Challenger broke apart 73 seconds after launch from Florida, killing all seven crew, including Christa McAuliffe, a schoolteacher chosen to be the first teacher in space. Millions watched, many children in classrooms. The Rogers Commission found that a rubber O-ring seal in the right solid rocket booster had failed in the unusually cold weather, allowing hot gas to escape. Engineers at the booster maker Morton Thiokol, including Roger Boisjoly, had warned the night before that the seals might fail in the cold, but managers approved the launch. During a public hearing the physicist Richard Feynman dipped a piece of O-ring material in iced water to show how it stiffened.",
+   "alternatives": [
+    {
+     "label": "A culture problem",
+     "text": "The sociologist Diane Vaughan described the \"normalisation of deviance\": small, repeated problems with the seals had come to be accepted as normal. The 2003 Columbia disaster investigation found similar organisational problems."
+    },
+    {
+     "label": "Were the crew alive?",
+     "text": "The crew cabin separated largely intact and hit the ocean minutes later. NASA could not determine whether the crew were conscious during the fall."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Space Shuttle Challenger disaster",
+     "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Rogers Commission Report",
+     "url": "https://en.wikipedia.org/wiki/Rogers_Commission_Report",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Roger Boisjoly",
+     "url": "https://en.wikipedia.org/wiki/Roger_Boisjoly",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Challenger_explosion.jpg/500px-Challenger_explosion.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Challenger_explosion.jpg",
+     "author": "Kennedy Space Center",
+     "license": "Public domain",
+     "title": "Challenger_explosion.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "catastrophes",
+    "science-cosmos"
+   ],
+   "threads": [
+    "space-race",
+    "voices-of-doubt",
+    "science-gone-wrong"
+   ]
+  },
+  {
+   "id": "hiv-aids",
+   "title": "HIV/AIDS: a new pandemic, its hidden origins and the rumours it bred",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": 1981,
+   "end": null,
+   "evidenceTypes": [
+    "epidemiological",
+    "genetic",
+    "documentary"
+   ],
+   "mainstream": "On 5 June 1981 the US Centers for Disease Control reported unusual pneumonia cases in five young gay men in Los Angeles, the first official report of what became known as AIDS. In 1983 researchers at the Institut Pasteur in Paris, including Françoise Barré-Sinoussi and Luc Montagnier, identified the virus later named HIV. Genetic studies show that HIV-1 came from a chimpanzee virus that crossed into humans in central Africa in the early 20th century, with the city of Kinshasa an early hub of spread. About 40 million people have died of AIDS-related illnesses. Since 1996 combination antiretroviral therapy has turned HIV into a manageable condition for those who can get it. Southern Africa has been among the hardest hit regions.",
+   "alternatives": [
+    {
+     "label": "\"Patient Zero\"",
+     "text": "A Canadian flight attendant, Gaëtan Dugas, was blamed in popular accounts as the man who brought AIDS to North America. His label in a study was \"Patient O\", for \"outside California\", misread as zero. A 2016 genetic study showed the virus was in the US years before him."
+    },
+    {
+     "label": "A lab-made virus?",
+     "text": "In the 1980s the Soviet KGB ran a disinformation campaign, known as Operation INFEKTION or Operation Denver, claiming that the US military had created AIDS. The claim spread worldwide and is still repeated. Genetic evidence points to a natural origin decades earlier."
+    },
+    {
+     "label": "Denial in South Africa",
+     "text": "Under President Thabo Mbeki, the South African government questioned whether HIV causes AIDS and delayed providing antiretroviral drugs. A 2008 Harvard study estimated that more than 330,000 lives were lost as a result. South Africa later built the world's largest HIV treatment programme."
+    }
+   ],
+   "changed": "1981: first reports. 1983: virus identified. 1996: effective combination therapy. 2008: Nobel Prize for the discovery. 2014: Kinshasa origin study. 2016: Dugas cleared.",
+   "sources": [
+    {
+     "title": "Wikipedia: HIV/AIDS",
+     "url": "https://en.wikipedia.org/wiki/HIV%2FAIDS",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Operation Denver",
+     "url": "https://en.wikipedia.org/wiki/Operation_Denver",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: HIV/AIDS denialism in South Africa",
+     "url": "https://en.wikipedia.org/wiki/HIV%2FAIDS_denialism_in_South_Africa",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "The early spread and epidemic ignition of HIV-1 in human populations",
+     "authors": "Faria, N. et al.",
+     "year": 2014,
+     "doi": "10.1126/science.1256739",
+     "type": "paper"
+    },
+    {
+     "title": "1970s and ‘Patient 0’ HIV-1 genomes illuminate early HIV/AIDS history in North America",
+     "authors": "Worobey, M. et al.",
+     "year": 2016,
+     "doi": "10.1038/nature19827",
+     "type": "paper"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/HIV-budding-Color.jpg/500px-HIV-budding-Color.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:HIV-budding-Color.jpg",
+     "author": "Photo Credit: C. Goldsmith\nContent Providers: CDC/ C. Goldsmith, P. Feorino, E. L. Palmer, W. R. McManus",
+     "license": "Public domain",
+     "title": "HIV-budding-Color.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "catastrophes",
+    "science-cosmos",
+    "hoaxes"
+   ],
+   "threads": [
+    "plagues-and-epidemics",
+    "cold-war-secrets",
+    "southern-africa",
+    "disasters-and-scapegoats",
+    "rumour-and-disinformation"
+   ]
+  },
+  {
+   "id": "covid-19-pandemic",
+   "title": "COVID-19: the pandemic of 2020 and the fight over its origin",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": 2019,
+   "end": 2023,
+   "evidenceTypes": [
+    "epidemiological",
+    "genetic",
+    "documentary"
+   ],
+   "mainstream": "In December 2019 a cluster of pneumonia cases was identified in Wuhan, China, caused by a new coronavirus, SARS-CoV-2. The World Health Organization declared a pandemic on 11 March 2020. Countries closed borders, schools and workplaces; South Africa entered one of the world's strictest lockdowns. Vaccines, including the first widely used mRNA vaccines, were approved from December 2020. In November 2021 scientists in South Africa and Botswana identified the Omicron variant. The WHO ended the global health emergency in May 2023. About 7 million deaths were officially reported, and the WHO's estimates of total excess deaths are much higher.",
+   "alternatives": [
+    {
+     "label": "Market or laboratory?",
+     "text": "Many scientists point to evidence that the virus spread to humans from animals sold at the Huanan seafood market in Wuhan, as with earlier coronaviruses. Others argue it may have escaped from research at the Wuhan Institute of Virology. US intelligence agencies have disagreed, mostly with low confidence. A WHO advisory group said in 2025 that the available evidence favoured an animal origin but that a laboratory leak could not be ruled out without more data from China."
+    },
+    {
+     "label": "A wave of rumours",
+     "text": "False claims spread widely, for example that 5G mobile networks caused the disease, which led to phone masts being set on fire in Britain. The WHO called this flood of misinformation an \"infodemic\"."
+    }
+   ],
+   "changed": "2019: first cases. 2020: pandemic declared, lockdowns, first vaccines. 2021: Omicron identified. 2023: emergency ends. Origin still debated.",
+   "sources": [
+    {
+     "title": "Wikipedia: COVID-19 pandemic",
+     "url": "https://en.wikipedia.org/wiki/COVID-19_pandemic",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Origin of SARS-CoV-2",
+     "url": "https://en.wikipedia.org/wiki/Origin_of_SARS-CoV-2",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: SARS-CoV-2 Omicron variant",
+     "url": "https://en.wikipedia.org/wiki/SARS-CoV-2_Omicron_variant",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: COVID-19 misinformation",
+     "url": "https://en.wikipedia.org/wiki/COVID-19_misinformation",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Novel_Coronavirus_SARS-CoV-2.jpg/500px-Novel_Coronavirus_SARS-CoV-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Novel_Coronavirus_SARS-CoV-2.jpg",
+     "author": "NIAID-RML (https://www.niaid.nih.gov/ & https://www.niaid.nih.gov/about/rocky-mountain-laboratories)",
+     "license": "CC BY 2.0",
+     "title": "Novel_Coronavirus_SARS-CoV-2.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "catastrophes",
+    "science-cosmos"
+   ],
+   "threads": [
+    "plagues-and-epidemics",
+    "southern-africa",
+    "disasters-and-scapegoats",
+    "rumour-and-disinformation"
+   ]
+  },
+  {
+   "id": "antonine-plague",
+   "title": "The Antonine Plague: Rome's pandemic and the cursed casket",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 165,
+   "end": 180,
+   "evidenceTypes": [
+    "textual",
+    "epigraphic",
+    "archaeological"
+   ],
+   "mainstream": "Around 165 CE Roman troops returning from a war against the Parthian Empire in Mesopotamia brought back a deadly disease. It spread across the Roman Empire for about fifteen years, reaching Rome, Gaul and the armies on the Rhine. The physician Galen described fever, diarrhoea and a dark rash, and many historians think it was smallpox. It is named after the ruling Antonine dynasty; the co-emperor Lucius Verus died in 169, possibly of it, and Emperor Marcus Aurelius may also have died of it in 180.",
+   "alternatives": [
+    {
+     "label": "The golden casket",
+     "text": "The 4th-century historian Ammianus Marcellinus wrote that the plague began when soldiers looting a temple of Apollo at Seleucia opened a small golden casket and released a poisonous vapour. Modern historians treat this as legend that blamed the disease on sacrilege."
+    },
+    {
+     "label": "An oracle against plague",
+     "text": "The writer Lucian mocked a self-styled prophet, Alexander of Abonoteichus, whose verse \"Phoebus, the unshorn, keeps off the cloud of plague\" was written over doorways as protection. Lucian claimed that the houses with the verse suffered most."
+    },
+    {
+     "label": "How deadly?",
+     "text": "Estimates of deaths range widely, from a few per cent to a third of the population. Some historians see it as a turning point that weakened Rome; others think its effects were limited."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Antonine Plague",
+     "url": "https://en.wikipedia.org/wiki/Antonine_Plague",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Galen",
+     "url": "https://en.wikipedia.org/wiki/Galen",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Alexander of Abonoteichus",
+     "url": "https://en.wikipedia.org/wiki/Alexander_of_Abonoteichus",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Aurelius180AD.png/500px-Aurelius180AD.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Aurelius180AD.png",
+     "author": "Tataryn77",
+     "license": "CC0",
+     "title": "Aurelius180AD.png"
+    }
+   ],
+   "categories": [
+    "history",
+    "catastrophes",
+    "religion"
+   ],
+   "threads": [
+    "plagues-and-epidemics",
+    "divine-punishment",
+    "classical-world",
+    "prophecies",
+    "disasters-and-scapegoats"
+   ]
+  },
+  {
+   "id": "polio-vaccine-1955",
+   "title": "The polio vaccine: \"Could you patent the sun?\"",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1955,
+   "end": null,
+   "evidenceTypes": [
+    "clinical trial",
+    "epidemiological",
+    "documentary"
+   ],
+   "mainstream": "Polio epidemics paralysed or killed hundreds of thousands of children each year in the early 20th century. Jonas Salk developed an injected vaccine made from killed virus, and in 1954 it was tested on about 1.8 million American children, the 'Polio Pioneers', in one of the largest medical trials ever. On 12 April 1955 it was announced as safe and effective. Asked on television who owned the patent, Salk replied that there was none: 'Could you patent the sun?' Albert Sabin later developed an oral vaccine. A global eradication campaign began in 1988, and cases of wild polio fell by more than 99 per cent. Africa was certified free of wild polio in 2020.",
+   "alternatives": [
+    {
+     "label": "The Cutter incident",
+     "text": "In 1955 some vaccine batches made by Cutter Laboratories contained live virus. They caused about 40,000 cases of polio, left about 200 people with paralysis and killed 10. The disaster led to stricter vaccine regulation."
+    },
+    {
+     "label": "Rumours and real deceptions",
+     "text": "In 2003 some states in northern Nigeria suspended polio vaccination after claims that the vaccine caused infertility or HIV. In Pakistan, distrust grew after it was revealed in 2011 that the CIA had used a fake vaccination campaign to try to locate Osama bin Laden; polio workers have since been attacked. Wild polio remains endemic only in Pakistan and Afghanistan."
+    }
+   ],
+   "changed": "1954: field trial. 1955: vaccine announced; Cutter incident. 1960s: oral vaccine. 1988: global eradication campaign. 2020: Africa free of wild polio.",
+   "sources": [
+    {
+     "title": "Wikipedia: Polio vaccine",
+     "url": "https://en.wikipedia.org/wiki/Polio_vaccine",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Jonas Salk",
+     "url": "https://en.wikipedia.org/wiki/Jonas_Salk",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Cutter Laboratories",
+     "url": "https://en.wikipedia.org/wiki/Cutter_Laboratories",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Polio eradication",
+     "url": "https://en.wikipedia.org/wiki/Polio_eradication",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Jonas_Salk_candid.jpg/500px-Jonas_Salk_candid.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Jonas_Salk_candid.jpg",
+     "author": "SAS Scandinavian Airlines",
+     "license": "Public domain",
+     "title": "Jonas_Salk_candid.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "science-cosmos"
+   ],
+   "threads": [
+    "plagues-and-epidemics",
+    "science-gone-wrong",
+    "rumour-and-disinformation"
    ]
   }
  ]
