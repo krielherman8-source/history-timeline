@@ -1,0 +1,134 @@
+{
+ "newton-principia-1687": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=brJjnKPmo68",
+  "title": "Newton on the Beach: Principia Mathematica",
+  "channel": "Stanford"
+ },
+ "pasteur-germ-theory": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=N9LC-3ZKiok",
+  "title": "How a few scientists transformed the way we think about disease - Tien Nguyen",
+  "channel": "TED-Ed"
+ },
+ "curie-radioactivity": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=7qlRjqUMX4E",
+  "title": "Marie Curie and Spooky Rays: Crash Course History of Science #31",
+  "channel": "CrashCourse"
+ },
+ "dna-double-helix-1953": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=BIP0lYrdirI",
+  "title": "Rosalind Franklin: DNA's unsung hero - Cláudio L. Guerra",
+  "channel": "TED-Ed"
+ },
+ "crispr-2012": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=6tw_JVz_IEc",
+  "title": "How CRISPR lets you edit DNA - Andrea M. Henle",
+  "channel": "TED-Ed"
+ },
+ "enigma-bletchley": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=mXZNayEPFKc",
+  "title": "How Was Hitler's Enigma Machine Cracked?",
+  "channel": "Smithsonian Channel"
+ },
+ "hiroshima-nagasaki-1945": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=3wxWNAM8Cso",
+  "title": "Hiroshima: Dropping The Bomb - Hiroshima - BBC",
+  "channel": "BBC Studios"
+ },
+ "gagarin-1961": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=KANuFlelQ5k",
+  "title": "Yuri Gagarin: The first man in space - BBC News",
+  "channel": "BBC News"
+ },
+ "cuban-missile-crisis-1962": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=bwWW3sbk4EU",
+  "title": "The history of the Cuban Missile Crisis - Matthew A. Jordan",
+  "channel": "TED-Ed"
+ },
+ "apollo-13-1970": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=MdvoA-sjs0A",
+  "title": "Apollo 13: ‘Houston, We’ve Had a Problem’",
+  "channel": "NASA"
+ },
+ "petrov-1983": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=L7EmLf4Xlq0",
+  "title": "Stanislav Petrov, who averted possible nuclear war, dies at 77 - BBC News",
+  "channel": "BBC News"
+ },
+ "hiv-aids": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=izwomieBwG0",
+  "title": "How HIV First Started in Humans",
+  "channel": "SciShow"
+ },
+ "covid-19-pandemic": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=D9tTi-CDjDU",
+  "title": "What is a coronavirus? - Elizabeth Cox",
+  "channel": "TED-Ed"
+ },
+ "orpheus-eurydice": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=RhaepLsP5eg",
+  "title": "The tragic myth of Orpheus and Eurydice - Brendan Pelsue",
+  "channel": "TED-Ed"
+ },
+ "persephone-demeter": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=zLAYGZeVTPQ",
+  "title": "The myth of Hades and Persephone - Iseult Gillespie",
+  "channel": "TED-Ed"
+ },
+ "pandoras-jar": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=pMdJxVjZMRI",
+  "title": "The myth of Pandora’s box - Iseult Gillespie",
+  "channel": "TED-Ed"
+ },
+ "labours-of-heracles": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=nIIjhAuC76g",
+  "title": "The myth of Hercules: 12 labors in 8-bits - Alex Gendler",
+  "channel": "TED-Ed"
+ },
+ "odyssey-homer": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=8Z9FQxcCAZ0",
+  "title": "Everything you need to know to read Homer's \"Odyssey\" - Jill Dash",
+  "channel": "TED-Ed"
+ },
+ "daedalus-icarus": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=3s2QPQnuaGk",
+  "title": "The myth of Icarus and Daedalus - Amy Adkins",
+  "channel": "TED-Ed"
+ },
+ "cassandra": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=l29K-ZkARmE",
+  "title": "The Greek myth of Apollo's curse - Iseult Gillespie",
+  "channel": "TED-Ed"
+ },
+ "oedipus": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=0a9Wuz7MvUE",
+  "title": "What really happened to Oedipus? - Stephen Esposito",
+  "channel": "TED-Ed"
+ },
+ "sisyphus": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=q4pDUxth5fQ",
+  "title": "The myth of Sisyphus - Alex Gendler",
+  "channel": "TED-Ed"
+ }
+}

@@ -1,0 +1,249 @@
+{
+ "newton-principia-1687": [
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=brJjnKPmo68",
+   "title": "Newton on the Beach: Principia Mathematica",
+   "channel": "Stanford"
+  }
+ ],
+ "faraday-induction-1831": [],
+ "telegraph-1844": [],
+ "broad-street-cholera-1854": [],
+ "pasteur-germ-theory": [
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=N9LC-3ZKiok",
+   "title": "How a few scientists transformed the way we think about disease - Tien Nguyen",
+   "channel": "TED-Ed"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=2JdBH2tys6M",
+   "title": "Micro-Biology: Crash Course History of Science #24",
+   "channel": "CrashCourse"
+  }
+ ],
+ "roentgen-xrays-1895": [],
+ "curie-radioactivity": [
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=7qlRjqUMX4E",
+   "title": "Marie Curie and Spooky Rays: Crash Course History of Science #31",
+   "channel": "CrashCourse"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=w6JFRi0Qm_s",
+   "title": "The genius of Marie Curie - Shohini Ghose",
+   "channel": "TED-Ed"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=vJzcWmi0erk",
+   "title": "How Radioactive Is Marie Curie’s Lab Today?",
+   "channel": "SciShow"
+  }
+ ],
+ "wright-flyer-1903": [],
+ "dna-double-helix-1953": [
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=BIP0lYrdirI",
+   "title": "Rosalind Franklin: DNA's unsung hero - Cláudio L. Guerra",
+   "channel": "TED-Ed"
+  }
+ ],
+ "arpanet-1969": [],
+ "crispr-2012": [
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=6tw_JVz_IEc",
+   "title": "How CRISPR lets you edit DNA - Andrea M. Henle",
+   "channel": "TED-Ed"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=n7npqtgyVpY",
+   "title": "What Is CRISPR Gene Editing?",
+   "channel": "NOVA PBS Official"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=uHWD8RSw4As",
+   "title": "The First CRISPR Gene Therapy Is Here",
+   "channel": "SciShow"
+  }
+ ],
+ "enigma-bletchley": [
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=mXZNayEPFKc",
+   "title": "How Was Hitler's Enigma Machine Cracked?",
+   "channel": "Smithsonian Channel"
+  }
+ ],
+ "hiroshima-nagasaki-1945": [
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=3wxWNAM8Cso",
+   "title": "Hiroshima: Dropping The Bomb - Hiroshima - BBC",
+   "channel": "BBC Studios"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=nPhwdH8MDcI",
+   "title": "Hiroshima marks 80 years since US dropped atomic bomb. #Hiroshima #WW2 #BBCNews",
+   "channel": "BBC News"
+  }
+ ],
+ "gagarin-1961": [
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=KANuFlelQ5k",
+   "title": "Yuri Gagarin: The first man in space - BBC News",
+   "channel": "BBC News"
+  }
+ ],
+ "cuban-missile-crisis-1962": [
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=bwWW3sbk4EU",
+   "title": "The history of the Cuban Missile Crisis - Matthew A. Jordan",
+   "channel": "TED-Ed"
+  }
+ ],
+ "apollo-13-1970": [
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=MdvoA-sjs0A",
+   "title": "Apollo 13: ‘Houston, We’ve Had a Problem’",
+   "channel": "NASA"
+  }
+ ],
+ "petrov-1983": [
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=L7EmLf4Xlq0",
+   "title": "Stanislav Petrov, who averted possible nuclear war, dies at 77 - BBC News",
+   "channel": "BBC News"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=quM5obcn8R0",
+   "title": "The night the world almost ended - BBC REEL",
+   "channel": "BBC Global"
+  }
+ ],
+ "challenger-1986": [],
+ "hiv-aids": [
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=izwomieBwG0",
+   "title": "How HIV First Started in Humans",
+   "channel": "SciShow"
+  }
+ ],
+ "covid-19-pandemic": [
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=D9tTi-CDjDU",
+   "title": "What is a coronavirus? - Elizabeth Cox",
+   "channel": "TED-Ed"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=BtN-goy9VOY",
+   "title": "The Coronavirus Explained & What You Should Do",
+   "channel": "Kurzgesagt – In a Nutshell"
+  }
+ ],
+ "antonine-plague": [],
+ "polio-vaccine-1955": [],
+ "orpheus-eurydice": [
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=RhaepLsP5eg",
+   "title": "The tragic myth of Orpheus and Eurydice - Brendan Pelsue",
+   "channel": "TED-Ed"
+  }
+ ],
+ "persephone-demeter": [
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=zLAYGZeVTPQ",
+   "title": "The myth of Hades and Persephone - Iseult Gillespie",
+   "channel": "TED-Ed"
+  }
+ ],
+ "pandoras-jar": [
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=pMdJxVjZMRI",
+   "title": "The myth of Pandora’s box - Iseult Gillespie",
+   "channel": "TED-Ed"
+  }
+ ],
+ "labours-of-heracles": [
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=nIIjhAuC76g",
+   "title": "The myth of Hercules: 12 labors in 8-bits - Alex Gendler",
+   "channel": "TED-Ed"
+  }
+ ],
+ "odyssey-homer": [
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=8Z9FQxcCAZ0",
+   "title": "Everything you need to know to read Homer's \"Odyssey\" - Jill Dash",
+   "channel": "TED-Ed"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=MS4jk5kavy4",
+   "title": "A Long and Difficult Journey, or  The Odyssey: Crash Course Literature 201",
+   "channel": "CrashCourse"
+  }
+ ],
+ "daedalus-icarus": [
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=3s2QPQnuaGk",
+   "title": "The myth of Icarus and Daedalus - Amy Adkins",
+   "channel": "TED-Ed"
+  }
+ ],
+ "cassandra": [
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=l29K-ZkARmE",
+   "title": "The Greek myth of Apollo's curse - Iseult Gillespie",
+   "channel": "TED-Ed"
+  }
+ ],
+ "oedipus": [
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=0a9Wuz7MvUE",
+   "title": "What really happened to Oedipus? - Stephen Esposito",
+   "channel": "TED-Ed"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=Cj7R36s4dbM",
+   "title": "Fate, Family, and Oedipus Rex: Crash Course Literature 202",
+   "channel": "CrashCourse"
+  }
+ ],
+ "sisyphus": [
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=q4pDUxth5fQ",
+   "title": "The myth of Sisyphus - Alex Gendler",
+   "channel": "TED-Ed"
+  }
+ ],
+ "garden-of-eden": [],
+ "lake-fundudzi": []
+}
