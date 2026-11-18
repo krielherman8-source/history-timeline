@@ -6021,7 +6021,9 @@
     "religion"
    ],
    "threads": [
-    "creation-myths"
+    "creation-myths",
+    "descents-to-the-underworld",
+    "dont-look-back"
    ]
   },
   {
@@ -28804,7 +28806,8 @@
    "threads": [
     "otherworld-visits",
     "underground-worlds",
-    "mesopotamia-and-anatolia"
+    "mesopotamia-and-anatolia",
+    "descents-to-the-underworld"
    ]
   },
   {
@@ -57723,7 +57726,8 @@
    ],
    "threads": [
     "otherworld-visits",
-    "central-america"
+    "central-america",
+    "descents-to-the-underworld"
    ]
   },
   {
@@ -65152,7 +65156,8 @@
    "threads": [
     "changed-understanding",
     "human-origins",
-    "genetic-migrations"
+    "genetic-migrations",
+    "first-woman-myths"
    ]
   },
   {
@@ -70358,6 +70363,711 @@
     "plagues-and-epidemics",
     "science-gone-wrong",
     "rumour-and-disinformation"
+   ]
+  },
+  {
+   "id": "orpheus-eurydice",
+   "title": "Orpheus and Eurydice: the singer who must not look back",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": -530,
+   "end": null,
+   "dateNote": "Orpheus named by the 6th century BCE; descent story told in full by Virgil (29 BCE) and Ovid (8 CE)",
+   "evidenceTypes": [
+    "textual",
+    "archaeological",
+    "iconographic"
+   ],
+   "mainstream": "Orpheus was the greatest musician of Greek myth, whose songs could charm animals, trees and stones. When his wife Eurydice died of a snakebite, he went down to the underworld and his music moved Hades and Persephone to let her return, on one condition: he must not look back at her until they reached the world above. Just before the exit he turned, and she vanished for ever. Orpheus is mentioned as famous by the 6th century BCE; the fullest surviving versions of the descent are by the Roman poets Virgil and Ovid. A religious movement, Orphism, claimed his teachings on the soul and life after death.",
+   "alternatives": [
+    {
+     "label": "Instructions for the dead",
+     "text": "Thin gold tablets found in graves in southern Italy, Greece and Crete, from about the 4th century BCE onward, give the dead directions for the underworld, such as which spring to drink from. Many scholars link them to Orphic or similar mystery beliefs. The Derveni papyrus, a partly burned Orphic commentary from about 340 BCE, is often called Europe's oldest surviving manuscript."
+    },
+    {
+     "label": "Don't look back",
+     "text": "Stories of a forbidden backward glance appear elsewhere: Izanagi in Japan, and Lot's wife in Genesis. Researchers have also collected many Native North American tales of a man who travels to the land of the dead to bring back his wife. Some see a shared ancient story, others a common human idea."
+    },
+    {
+     "label": "Happy ending?",
+     "text": "Some scholars argue that earlier Greek versions may have let Orpheus succeed in rescuing Eurydice, and that the tragic ending was added later. The evidence is thin."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Orpheus",
+     "url": "https://en.wikipedia.org/wiki/Orpheus",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Orphism",
+     "url": "https://en.wikipedia.org/wiki/Orphism",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Derveni papyrus",
+     "url": "https://en.wikipedia.org/wiki/Derveni_papyrus",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/DSC00355_-_Orfeo_%28epoca_romana%29_-_Foto_G._Dall%27Orto.jpg/500px-DSC00355_-_Orfeo_%28epoca_romana%29_-_Foto_G._Dall%27Orto.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:DSC00355_-_Orfeo_(epoca_romana)_-_Foto_G._Dall%27Orto.jpg",
+     "author": "Giovanni Dall'Orto",
+     "license": "Public domain",
+     "title": "DSC00355_-_Orfeo_(epoca_romana)_-_Foto_G._Dall'Orto.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion",
+    "archaeology"
+   ],
+   "threads": [
+    "otherworld-visits",
+    "hidden-scriptures",
+    "origin-of-death",
+    "classical-world",
+    "descents-to-the-underworld",
+    "dont-look-back"
+   ]
+  },
+  {
+   "id": "persephone-demeter",
+   "title": "Persephone and Demeter: the kidnapped daughter and the hungry earth",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": -650,
+   "end": null,
+   "evidenceTypes": [
+    "textual",
+    "archaeological"
+   ],
+   "mainstream": "In the Homeric Hymn to Demeter, probably composed in the 7th or 6th century BCE, Hades, god of the underworld, seizes Persephone, the daughter of the grain goddess Demeter. Grieving, Demeter searches the earth and stops crops from growing, until Zeus orders Persephone's return. But Persephone has eaten pomegranate seeds in the underworld, so she must spend part of every year there. The hymn links the story to the founding of the Eleusinian Mysteries, secret rites at Eleusis near Athens that promised initiates a better fate after death.",
+   "alternatives": [
+    {
+     "label": "Winter or summer?",
+     "text": "The story is often read as an explanation of winter. Some scholars argue that in the Greek climate her absence may match the hot, dry summer, when grain was stored underground in jars before autumn sowing."
+    },
+    {
+     "label": "Descents elsewhere",
+     "text": "The Sumerian goddess Inanna also goes down to the underworld and must leave a substitute there for part of the year. Whether these myths are related or simply share a common theme of seasons and death is debated."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Persephone",
+     "url": "https://en.wikipedia.org/wiki/Persephone",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Homeric Hymns",
+     "url": "https://en.wikipedia.org/wiki/Homeric_Hymns",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Demeter",
+     "url": "https://en.wikipedia.org/wiki/Demeter",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Terracotta_votive_plaque_from_Eleusis%2C_450_BC%2C_NAMA%2C_190875.jpg/500px-Terracotta_votive_plaque_from_Eleusis%2C_450_BC%2C_NAMA%2C_190875.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Terracotta_votive_plaque_from_Eleusis,_450_BC,_NAMA,_190875.jpg",
+     "author": "Zde",
+     "license": "CC BY-SA 4.0",
+     "title": "Terracotta_votive_plaque_from_Eleusis,_450_BC,_NAMA,_190875.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion"
+   ],
+   "threads": [
+    "otherworld-visits",
+    "rain-and-drought",
+    "classical-world",
+    "descents-to-the-underworld"
+   ]
+  },
+  {
+   "id": "pandoras-jar",
+   "title": "Pandora: the first woman and the jar of evils",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": -700,
+   "end": null,
+   "evidenceTypes": [
+    "textual",
+    "iconographic"
+   ],
+   "mainstream": "In the poems of Hesiod, around 700 BCE, Zeus punishes humans after Prometheus steals fire for them. He has the smith god Hephaestus make the first woman, Pandora ('all-gifted'), and the gods give her beauty and cunning. She opens a large jar and releases sickness, toil and other evils into the world; only Hope stays inside. In Hesiod the container is a pithos, a storage jar. It became a 'box' after the 16th-century scholar Erasmus rendered it with a word meaning a small box.",
+   "alternatives": [
+    {
+     "label": "A blame myth?",
+     "text": "Many modern readers see the story as blaming women for human suffering, much like later readings of Eve in Genesis. Others note that the two stories differ in many details."
+    },
+    {
+     "label": "An older goddess?",
+     "text": "The scholar Jane Ellen Harrison argued in the early 20th century that Pandora, whose name can also mean \"all-giving\", was originally an earth goddess who gave gifts, and that Hesiod turned her into a source of evil. This remains a theory."
+    },
+    {
+     "label": "What is Hope doing in the jar?",
+     "text": "Scholars disagree whether keeping Hope in the jar means it was kept for humans as a comfort, or kept from them."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Pandora",
+     "url": "https://en.wikipedia.org/wiki/Pandora",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Pandora's box",
+     "url": "https://en.wikipedia.org/wiki/Pandora's_box",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Abel-josef-1764-1818-austria-prometheus-merkur-und-die-pand.jpg/500px-Abel-josef-1764-1818-austria-prometheus-merkur-und-die-pand.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Abel-josef-1764-1818-austria-prometheus-merkur-und-die-pand.jpg",
+     "author": "Josef Abel",
+     "license": "Public domain",
+     "title": "Abel-josef-1764-1818-austria-prometheus-merkur-und-die-pand.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion"
+   ],
+   "threads": [
+    "origin-of-death",
+    "classical-world",
+    "fire-thieves",
+    "first-woman-myths"
+   ]
+  },
+  {
+   "id": "labours-of-heracles",
+   "title": "The twelve labours of Heracles and the Pillars at the edge of the world",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": -700,
+   "end": null,
+   "evidenceTypes": [
+    "textual",
+    "iconographic",
+    "archaeological"
+   ],
+   "mainstream": "Heracles (Hercules to the Romans), son of Zeus and a mortal woman, was driven mad by the goddess Hera and killed his own children. To atone, he served King Eurystheus and performed a series of near-impossible tasks, usually counted as twelve: among them, killing the Nemean lion and the many-headed Hydra, cleaning the stables of King Augeas in one day by diverting rivers, fetching golden apples from the garden of the Hesperides and bringing the three-headed dog Cerberus up from the underworld. After death he became a god. The rocks on either side of the Strait of Gibraltar were called the Pillars of Heracles, marking the edge of the known world; Plato placed Atlantis beyond them.",
+   "alternatives": [
+    {
+     "label": "Heracles and Melqart",
+     "text": "Greek writers identified Heracles with Melqart, the god of the Phoenician city of Tyre. Herodotus visited his temple at Tyre, and a famous temple of Melqart stood at Gades (Cádiz) near the Strait of Gibraltar. Some historians think the Pillars legend reflects Phoenician sailors' sanctuaries."
+    },
+    {
+     "label": "A journey through the zodiac?",
+     "text": "From the late 18th century some writers, such as Charles-François Dupuis, argued that the twelve labours stood for the Sun passing through the twelve signs of the zodiac. Most scholars reject this, noting that ancient lists of the labours varied."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Labours of Hercules",
+     "url": "https://en.wikipedia.org/wiki/Labours_of_Hercules",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Heracles",
+     "url": "https://en.wikipedia.org/wiki/Heracles",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Pillars of Hercules",
+     "url": "https://en.wikipedia.org/wiki/Pillars_of_Hercules",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Melqart",
+     "url": "https://en.wikipedia.org/wiki/Melqart",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/LL%C3%8DRIA_%28SPAIN%29_MOSAIC_OF_THE_LABORS_OF_HERACLES.jpg/500px-LL%C3%8DRIA_%28SPAIN%29_MOSAIC_OF_THE_LABORS_OF_HERACLES.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:LL%C3%8DRIA_(SPAIN)_MOSAIC_OF_THE_LABORS_OF_HERACLES.jpg",
+     "author": "Jcremolina",
+     "license": "CC BY-SA 4.0",
+     "title": "LLÍRIA_(SPAIN)_MOSAIC_OF_THE_LABORS_OF_HERACLES.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion"
+   ],
+   "threads": [
+    "lost-continents",
+    "otherworld-visits",
+    "phantom-islands",
+    "classical-world",
+    "dragon-slayers",
+    "descents-to-the-underworld"
+   ]
+  },
+  {
+   "id": "odyssey-homer",
+   "title": "The Odyssey: ten years to get home, and the hunt for the real Ithaca",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 1,
+   "start": -725,
+   "end": null,
+   "dateNote": "poem composed c. late 8th–7th century BCE; set after the Trojan War",
+   "evidenceTypes": [
+    "textual",
+    "archaeological",
+    "astronomical"
+   ],
+   "mainstream": "Homer's Odyssey, composed probably in the late 8th or 7th century BCE, follows the Greek hero Odysseus on his ten-year journey home from the Trojan War. He outwits the one-eyed Cyclops Polyphemus, resists the Sirens' song by having himself tied to the mast, escapes the witch Circe, steers between the monster Scylla and the whirlpool Charybdis, and visits the land of the dead. He finally returns in disguise to Ithaca, where his wife Penelope has held off a crowd of suitors. The poem has shaped Western storytelling ever since.",
+   "alternatives": [
+    {
+     "label": "Where was Ithaca?",
+     "text": "Homer's description of Ithaca does not fit the modern island well. In 2005 Robert Bittlestone and colleagues argued that Homer's Ithaca was Paliki, a peninsula of neighbouring Kefalonia once separated by a channel. Many archaeologists remain unconvinced."
+    },
+    {
+     "label": "An eclipse in the poem?",
+     "text": "In 2008 two researchers argued in PNAS that astronomical hints in the Odyssey match the solar eclipse of 16 April 1178 BCE, around the time Odysseus would have returned. Critics say the hints are too vague to date the story."
+    },
+    {
+     "label": "Who was Homer?",
+     "text": "Scholars debate whether \"Homer\" was one poet, several or a long oral tradition. In 1897 the novelist Samuel Butler even argued the Odyssey was written by a young woman in Sicily, an idea few accept."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Odyssey",
+     "url": "https://en.wikipedia.org/wiki/Odyssey",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Homeric Question",
+     "url": "https://en.wikipedia.org/wiki/Homeric_Question",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Is an eclipse described in the Odyssey?",
+     "authors": "Baikouzis, C. et al.",
+     "year": 2008,
+     "doi": "10.1073/pnas.0803317105",
+     "type": "paper"
+    },
+    {
+     "title": "Odyssey 20.356-57 and the Eclipse of 1178 b.c.e .: A Response to Baikouzis and Magnasco",
+     "authors": "Gainsford, P.",
+     "year": 2012,
+     "doi": "10.1353/apa.2012.0006",
+     "type": "paper"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Fragment_Odyssee_2245_2.jpg/500px-Fragment_Odyssee_2245_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Fragment_Odyssee_2245_2.jpg",
+     "author": "Zunkir",
+     "license": "CC BY-SA 4.0",
+     "title": "Fragment_Odyssee_2245_2.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "history",
+    "science-cosmos"
+   ],
+   "threads": [
+    "giants-and-little-people",
+    "ocean-voyagers",
+    "otherworld-visits",
+    "classical-world",
+    "eclipses-in-history",
+    "descents-to-the-underworld"
+   ]
+  },
+  {
+   "id": "daedalus-icarus",
+   "title": "Daedalus and Icarus: wings of wax and the first inventor",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": -700,
+   "end": null,
+   "dateNote": "Daedalus named in Homer's Iliad; flight story best known from Ovid (8 CE)",
+   "evidenceTypes": [
+    "textual",
+    "iconographic",
+    "experimental"
+   ],
+   "mainstream": "In Greek myth Daedalus was a brilliant Athenian craftsman who built the Labyrinth for King Minos of Crete to hold the Minotaur. When Minos kept him prisoner, Daedalus made wings of feathers and wax for himself and his son Icarus. He warned Icarus not to fly too low, where the sea would soak the feathers, nor too high, where the sun would melt the wax. Icarus flew too high, the wax melted and he fell into the sea, which was named the Icarian Sea after him. Daedalus is mentioned in Homer's Iliad; the best-known version of the flight is in Ovid's Metamorphoses.",
+   "alternatives": [
+    {
+     "label": "Living statues",
+     "text": "Ancient writers credited Daedalus with statues so lifelike that they seemed to move; Plato joked that they had to be tied down to stop them running away. Some modern writers cite this as an early idea of robots."
+    },
+    {
+     "label": "Flying from Crete",
+     "text": "In 1988 the human-powered aircraft Daedalus 88, built by a team from MIT and pedalled by the Greek cyclist Kanellos Kanellopoulos, flew about 115 km from Crete to Santorini, a record for human-powered flight."
+    },
+    {
+     "label": "Too close to the sun?",
+     "text": "Readers have noted that air gets colder, not hotter, at greater heights. The myth is usually read as a lesson about ambition and the limits of technology rather than physics."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Daedalus",
+     "url": "https://en.wikipedia.org/wiki/Daedalus",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Icarus",
+     "url": "https://en.wikipedia.org/wiki/Icarus",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: MIT Daedalus",
+     "url": "https://en.wikipedia.org/wiki/MIT_Daedalus",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Gaziantep_Zeugma_Museum_Daedalus_mosaic_1873.jpg/500px-Gaziantep_Zeugma_Museum_Daedalus_mosaic_1873.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Gaziantep_Zeugma_Museum_Daedalus_mosaic_1873.jpg",
+     "author": "Dosseman",
+     "license": "CC BY-SA 4.0",
+     "title": "Gaziantep_Zeugma_Museum_Daedalus_mosaic_1873.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "science-cosmos"
+   ],
+   "threads": [
+    "ancient-flight",
+    "tested-by-experiment",
+    "automata-and-robots",
+    "classical-world"
+   ]
+  },
+  {
+   "id": "cassandra",
+   "title": "Cassandra: the prophet no one believed",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": -700,
+   "end": null,
+   "evidenceTypes": [
+    "textual",
+    "iconographic"
+   ],
+   "mainstream": "Cassandra was a princess of Troy. In one version, the god Apollo gave her the gift of prophecy in hope of winning her love; when she refused him, he cursed her so that no one would ever believe her predictions. She warned the Trojans that the wooden horse left by the Greeks was a trap, but they brought it inside the walls. After the fall of Troy she was taken as a captive by King Agamemnon and murdered with him by his wife Clytemnestra, as told in Aeschylus' play Agamemnon (458 BCE).",
+   "alternatives": [
+    {
+     "label": "The Cassandra syndrome",
+     "text": "Today \"a Cassandra\" means someone whose accurate warnings are ignored. The label has been applied to many real cases, such as engineers who warned before disasters, and scientists warning about pandemics or climate change. Critics note that people who warned wrongly are rarely remembered, so the pattern can be exaggerated after the fact."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Cassandra",
+     "url": "https://en.wikipedia.org/wiki/Cassandra",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Oresteia",
+     "url": "https://en.wikipedia.org/wiki/Oresteia",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Attic_red-figure_cup_with_Ajax_and_Cassandra_Louvre_G_458.jpg/500px-Attic_red-figure_cup_with_Ajax_and_Cassandra_Louvre_G_458.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Attic_red-figure_cup_with_Ajax_and_Cassandra_Louvre_G_458.jpg",
+     "author": "Kodros Painter",
+     "license": "Public domain",
+     "title": "Attic_red-figure_cup_with_Ajax_and_Cassandra_Louvre_G_458.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend"
+   ],
+   "threads": [
+    "classical-world",
+    "prophecies",
+    "voices-of-doubt"
+   ]
+  },
+  {
+   "id": "oedipus",
+   "title": "Oedipus: the prophecy that made itself come true",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": -700,
+   "end": null,
+   "dateNote": "myth older than Homer; Sophocles' play c. 429 BCE",
+   "evidenceTypes": [
+    "textual"
+   ],
+   "mainstream": "An oracle told King Laius of Thebes that his son would kill him and marry his wife. Laius had the baby abandoned on a mountainside, but the child, Oedipus, was rescued and raised in Corinth. As a young man he heard the same prophecy and fled Corinth to avoid it. On the road he killed a stranger, who was Laius. He freed Thebes from the Sphinx by answering its riddle and married the widowed queen, Jocasta, his own mother. When the truth emerged, Jocasta killed herself and Oedipus blinded himself. Sophocles' play Oedipus the King, of about 429 BCE, is the most famous version.",
+   "alternatives": [
+    {
+     "label": "The Oedipus effect",
+     "text": "Every attempt to escape the prophecy helped fulfil it. The philosopher Karl Popper used the term \"Oedipus effect\" for predictions that influence the events they predict, and the sociologist Robert Merton described the \"self-fulfilling prophecy\"."
+    },
+    {
+     "label": "The Oedipus complex",
+     "text": "Sigmund Freud took the name for his theory that young children have hidden desires toward one parent and rivalry with the other. The theory is widely disputed by modern psychologists."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Oedipus",
+     "url": "https://en.wikipedia.org/wiki/Oedipus",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Oedipus Rex",
+     "url": "https://en.wikipedia.org/wiki/Oedipus_Rex",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Self-fulfilling prophecy",
+     "url": "https://en.wikipedia.org/wiki/Self-fulfilling_prophecy",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Oedipus complex",
+     "url": "https://en.wikipedia.org/wiki/Oedipus_complex",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Oedipus_and_Sphinx%2C_pelike%2C_450-440_BC%2C_Berlin_F_2355%2C_141646.jpg/500px-Oedipus_and_Sphinx%2C_pelike%2C_450-440_BC%2C_Berlin_F_2355%2C_141646.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Oedipus_and_Sphinx,_pelike,_450-440_BC,_Berlin_F_2355,_141646.jpg",
+     "author": "Zde",
+     "license": "CC BY-SA 4.0",
+     "title": "Oedipus_and_Sphinx,_pelike,_450-440_BC,_Berlin_F_2355,_141646.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend"
+   ],
+   "threads": [
+    "classical-world",
+    "prophecies"
+   ]
+  },
+  {
+   "id": "sisyphus",
+   "title": "Sisyphus: the king who cheated death",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 3,
+   "start": -700,
+   "end": null,
+   "evidenceTypes": [
+    "textual",
+    "iconographic"
+   ],
+   "mainstream": "Sisyphus, the cunning king of Corinth, tricked the gods more than once. In one story he chained up Thanatos, Death himself, so that no one on earth could die until the war god Ares freed him. In another, he told his wife not to bury him properly, then persuaded Persephone to let him return to the living to complain, and refused to go back. As punishment he was condemned in the underworld to roll a huge boulder up a hill forever; each time it neared the top it rolled down again. Homer's Odyssey describes him at his endless task.",
+   "alternatives": [
+    {
+     "label": "Happy Sisyphus",
+     "text": "In 1942 the French writer Albert Camus used the myth in his essay The Myth of Sisyphus as a picture of human life without ultimate meaning, ending: \"One must imagine Sisyphus happy.\""
+    },
+    {
+     "label": "Allegory",
+     "text": "The Roman poet Lucretius read Sisyphus as a symbol of the politician who keeps seeking power and never finds satisfaction."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Sisyphus",
+     "url": "https://en.wikipedia.org/wiki/Sisyphus",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: The Myth of Sisyphus",
+     "url": "https://en.wikipedia.org/wiki/The_Myth_of_Sisyphus",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Nekyia_Staatliche_Antikensammlungen_1494_n2.jpg/500px-Nekyia_Staatliche_Antikensammlungen_1494_n2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Nekyia_Staatliche_Antikensammlungen_1494_n2.jpg",
+     "author": "Swing Painter",
+     "license": "Public domain",
+     "title": "Nekyia_Staatliche_Antikensammlungen_1494_n2.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion"
+   ],
+   "threads": [
+    "otherworld-visits",
+    "origin-of-death",
+    "classical-world",
+    "trickster-tales",
+    "descents-to-the-underworld"
+   ]
+  },
+  {
+   "id": "garden-of-eden",
+   "title": "The Garden of Eden: a paradise with an address?",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 1,
+   "start": -600,
+   "end": null,
+   "dateNote": "written text usually dated to the 1st millennium BCE",
+   "evidenceTypes": [
+    "textual",
+    "geographical"
+   ],
+   "mainstream": "In the Book of Genesis, God plants a garden in Eden 'in the east' and places the first humans, Adam and Eve, there. A river flows out of Eden and divides into four: the Pishon, the Gihon, the Tigris and the Euphrates. A serpent persuades Eve to eat fruit from the tree of the knowledge of good and evil, which God had forbidden; she and Adam are expelled, and death and hard labour enter human life. Scholars generally date the written text to the first millennium BCE, drawing on older Near Eastern traditions. The story is central to Judaism, Christianity and Islam.",
+   "alternatives": [
+    {
+     "label": "Under the Persian Gulf?",
+     "text": "The archaeologist Juris Zarins argued that Eden could be a memory of a fertile area at the head of the Persian Gulf, where the Tigris, Euphrates and other rivers met before rising sea levels flooded it after the last Ice Age. Most scholars treat Eden as theology rather than geography."
+    },
+    {
+     "label": "Many Edens",
+     "text": "People have placed Eden in many locations. In 1881 the British general Charles Gordon suggested the Vallée de Mai on Praslin in the Seychelles. Early Latter-day Saint teaching places it in Jackson County, Missouri."
+    },
+    {
+     "label": "Shared themes",
+     "text": "Scholars compare Eden with the Sumerian paradise of Dilmun, with Gilgamesh losing the plant of immortality to a snake, and with Pandora in Greek myth."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Garden of Eden",
+     "url": "https://en.wikipedia.org/wiki/Garden_of_Eden",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Adam and Eve",
+     "url": "https://en.wikipedia.org/wiki/Adam_and_Eve",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Dilmun",
+     "url": "https://en.wikipedia.org/wiki/Dilmun",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Jan_Brueghel_de_Oude_en_Peter_Paul_Rubens_-_Het_aards_paradijs_met_de_zondeval_van_Adam_en_Eva.jpg/500px-Jan_Brueghel_de_Oude_en_Peter_Paul_Rubens_-_Het_aards_paradijs_met_de_zondeval_van_Adam_en_Eva.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Jan_Brueghel_de_Oude_en_Peter_Paul_Rubens_-_Het_aards_paradijs_met_de_zondeval_van_Adam_en_Eva.jpg",
+     "author": "Peter Paul Rubens / Jan Brueghel the Elder",
+     "license": "Public domain",
+     "title": "Jan_Brueghel_de_Oude_en_Peter_Paul_Rubens_-_Het_aards_paradijs_met_de_zondeval_van_Adam_en_Eva.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion",
+    "lost-civilisations"
+   ],
+   "threads": [
+    "serpent-beings",
+    "vanished-landscapes",
+    "divine-punishment",
+    "origin-of-death",
+    "earthly-paradises",
+    "first-woman-myths"
+   ]
+  },
+  {
+   "id": "lake-fundudzi",
+   "title": "Lake Fundudzi: the Venda sacred lake guarded by a python",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": 1900,
+   "end": null,
+   "dateNote": "oral tradition, recorded in the 20th century; lake formed in prehistory",
+   "evidenceTypes": [
+    "oral tradition",
+    "geological",
+    "ethnographic"
+   ],
+   "mainstream": "Lake Fundudzi lies in the Soutpansberg mountains of Limpopo, South Africa. Geologists explain it as a lake formed when an ancient landslide blocked the Mutale River; it is often described as one of the very few natural freshwater lakes in southern Africa. The lake, its crocodiles and the nearby Thathe Vondo forest are sacred to the Vhatavhatsindi, the 'People of the Pool', a group within the Venda people. In Venda tradition the lake is protected by a python god, and the colour and fullness of the water are said to show the mood of the ancestors and the chance of rain. The python god is honoured each year in a puberty dance in which adolescent girls move in a long, swaying line.",
+   "alternatives": [
+    {
+     "label": "The drowned village",
+     "text": "A Venda legend says the lake formed when a village refused food and shelter to a passing traveller, a man with leprosy, who cursed it; the village sank beneath the new lake, and in the early morning people say the sound of drums, voices and cattle can be heard from the water. Stories of a place destroyed for refusing hospitality to a stranger occur elsewhere too, such as the Greek tale of Baucis and Philemon."
+    },
+    {
+     "label": "Science and the sacred",
+     "text": "The landslide origin is the geological explanation. For the Vhatavhatsindi the lake remains a place of the ancestors, and the two accounts answer different questions."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Lake Fundudzi",
+     "url": "https://en.wikipedia.org/wiki/Lake_Fundudzi",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Venda people",
+     "url": "https://en.wikipedia.org/wiki/Venda_people",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Lake_Fundudzi00.jpg/500px-Lake_Fundudzi00.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Lake_Fundudzi00.jpg",
+     "author": "Iris Auda",
+     "license": "CC BY-SA 4.0",
+     "title": "Lake_Fundudzi00.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion"
+   ],
+   "threads": [
+    "serpent-beings",
+    "sunken-cities",
+    "rain-and-drought",
+    "divine-punishment",
+    "water-spirits",
+    "southern-africa"
    ]
   }
  ]
