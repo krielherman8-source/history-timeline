@@ -67923,7 +67923,8 @@
     "secret-societies",
     "civilising-teachers",
     "classical-world",
-    "star-lore"
+    "star-lore",
+    "scientists-and-the-occult"
    ]
   },
   {
@@ -68044,7 +68045,8 @@
     "hidden-scriptures",
     "civilising-teachers",
     "elixirs-of-immortality",
-    "contested-texts"
+    "contested-texts",
+    "scientists-and-the-occult"
    ]
   },
   {
@@ -68876,6 +68878,758 @@
     "modern-legends",
     "strange-coincidences",
     "science-gone-wrong"
+   ]
+  },
+  {
+   "id": "newton-principia-1687",
+   "title": "Newton's Principia: one law for the apple and the Moon",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": 1687,
+   "end": null,
+   "evidenceTypes": [
+    "documentary",
+    "scientific publication",
+    "manuscripts"
+   ],
+   "mainstream": "In July 1687 Isaac Newton published Philosophiæ Naturalis Principia Mathematica (Mathematical Principles of Natural Philosophy). The astronomer Edmond Halley encouraged the work and paid for its printing. In it Newton set out three laws of motion and a law of universal gravitation: every mass attracts every other mass with a force that weakens with the square of the distance. With one set of rules he explained falling objects on Earth, the orbits of the planets described by Kepler, the paths of comets and the tides. The Principia became the foundation of physics for more than two centuries, until Einstein's relativity refined it.",
+   "alternatives": [
+    {
+     "label": "The apple",
+     "text": "The famous apple story comes from Newton himself, told late in life to his friend William Stukeley and others. Historians accept that he may have used it as an illustration, but the idea that an apple hit him on the head is a later embellishment."
+    },
+    {
+     "label": "Who thought of it first?",
+     "text": "Robert Hooke claimed he had suggested the inverse-square law to Newton, and the two quarrelled bitterly. Newton also fought a long dispute with Gottfried Leibniz over who invented calculus; most historians now say both developed it independently."
+    },
+    {
+     "label": "\"The last of the magicians\"",
+     "text": "Newton wrote far more on alchemy, biblical prophecy and ancient chronology than on physics. He made his own translation of the alchemical Emerald Tablet, and in a note he reckoned the world would not end before 2060. After buying many of these papers, the economist John Maynard Keynes called him \"not the first of the age of reason\" but \"the last of the magicians\". Historians debate how far these interests shaped his science."
+    }
+   ],
+   "changed": "1687: Principia published. 1915: Einstein's general relativity refines Newtonian gravity. 1936: Newton's alchemical and religious papers auctioned, revealing their extent.",
+   "sources": [
+    {
+     "title": "Wikipedia: Philosophiæ Naturalis Principia Mathematica",
+     "url": "https://en.wikipedia.org/wiki/Philosophi%C3%A6_Naturalis_Principia_Mathematica",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Isaac Newton",
+     "url": "https://en.wikipedia.org/wiki/Isaac_Newton",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Isaac Newton's occult studies",
+     "url": "https://en.wikipedia.org/wiki/Isaac_Newton's_occult_studies",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Portrait_of_Sir_Isaac_Newton%2C_1689_%28brightened%29.jpg/500px-Portrait_of_Sir_Isaac_Newton%2C_1689_%28brightened%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Portrait_of_Sir_Isaac_Newton,_1689_(brightened).jpg",
+     "author": "Godfrey Kneller",
+     "license": "Public domain",
+     "title": "Portrait_of_Sir_Isaac_Newton,_1689_(brightened).jpg"
+    }
+   ],
+   "categories": [
+    "science-cosmos",
+    "history"
+   ],
+   "threads": [
+    "changed-understanding",
+    "scientific-revolution",
+    "myths-about-history",
+    "prophecies",
+    "scientists-and-the-occult",
+    "who-got-there-first"
+   ]
+  },
+  {
+   "id": "faraday-induction-1831",
+   "title": "Faraday and electromagnetic induction: the birth of the power age",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1831,
+   "end": null,
+   "evidenceTypes": [
+    "experimental",
+    "laboratory notebooks",
+    "scientific publication"
+   ],
+   "mainstream": "Michael Faraday, the son of a blacksmith, had little formal schooling. He educated himself while apprenticed to a London bookbinder and became assistant to the chemist Humphry Davy at the Royal Institution. In August 1831 he wound two coils of wire on an iron ring and found that switching a current on or off in one coil produced a brief current in the other. He then showed that moving a magnet near a wire generates electricity. This electromagnetic induction is the principle behind electric generators and transformers, which supply almost all the world's electricity today. Faraday also described lines of force (fields), an idea James Clerk Maxwell later turned into mathematics.",
+   "alternatives": [
+    {
+     "label": "Joseph Henry",
+     "text": "The American scientist Joseph Henry discovered induction independently at about the same time, but Faraday published first."
+    },
+    {
+     "label": "\"One day, sir, you may tax it\"",
+     "text": "A popular story says a politician, often named as William Gladstone, asked Faraday what use electricity was, and he replied that one day the government would tax it. No contemporary source for the exchange has been found, and historians treat it as apocryphal."
+    },
+    {
+     "label": "Faraday and the table-turners",
+     "text": "In 1853, during the craze for spiritualist séances, Faraday tested \"table-turning\" with a simple device and concluded that the sitters were moving the table themselves through unconscious muscle movements. Spiritualists rejected his explanation."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Michael Faraday",
+     "url": "https://en.wikipedia.org/wiki/Michael_Faraday",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Electromagnetic induction",
+     "url": "https://en.wikipedia.org/wiki/Electromagnetic_induction",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Table-turning",
+     "url": "https://en.wikipedia.org/wiki/Table-turning",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Michael_Faraday_sitting_crop.jpg/500px-Michael_Faraday_sitting_crop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Michael_Faraday_sitting_crop.jpg",
+     "author": "Unknown authorUnknown author",
+     "license": "Public domain",
+     "title": "Michael_Faraday_sitting_crop.jpg"
+    }
+   ],
+   "categories": [
+    "science-cosmos",
+    "history"
+   ],
+   "threads": [
+    "tested-by-experiment",
+    "scientific-revolution",
+    "scientists-and-the-occult",
+    "who-got-there-first",
+    "wires-and-waves"
+   ]
+  },
+  {
+   "id": "telegraph-1844",
+   "title": "\"What hath God wrought\": the electric telegraph",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1844,
+   "end": null,
+   "evidenceTypes": [
+    "documentary",
+    "technological"
+   ],
+   "mainstream": "In the 1830s several inventors built electrical telegraphs. In Britain William Cooke and Charles Wheatstone put a needle telegraph into commercial use on a railway in 1838. In the United States Samuel Morse, a painter turned inventor, worked with Alfred Vail on a system using a code of dots and dashes. On 24 May 1844 Morse sent the message 'What hath God wrought', a line from the Bible, from Washington to Baltimore. Within decades telegraph wires crossed continents, and from 1866 a lasting cable ran under the Atlantic. For the first time news could travel faster than a horse or a ship.",
+   "alternatives": [
+    {
+     "label": "The Victorian internet",
+     "text": "Some historians compare the telegraph to the internet: it brought instant long-distance messages, codes and ciphers, online-style romances and new kinds of fraud. Critics of the comparison say it was costly and used mainly by businesses, governments and newspapers."
+    },
+    {
+     "label": "A cable that lasted weeks",
+     "text": "The first transatlantic cable of 1858 carried a message from Queen Victoria to President Buchanan, but it failed within weeks; its electrician applied too high a voltage while trying to make it work. Some at the time suspected the whole thing was a hoax."
+    },
+    {
+     "label": "Wires to the spirit world",
+     "text": "The rise of spiritualism, with its rapping spirits, came in the same years. Believers described séances as a kind of spiritual telegraph, and one New York spiritualist paper of the 1850s was called the Spiritual Telegraph."
+    }
+   ],
+   "changed": "1838: Cooke and Wheatstone telegraph in service. 1844: Morse's Washington–Baltimore line. 1858: first transatlantic cable fails. 1866: lasting transatlantic cable.",
+   "sources": [
+    {
+     "title": "Wikipedia: Electrical telegraph",
+     "url": "https://en.wikipedia.org/wiki/Electrical_telegraph",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Samuel Morse",
+     "url": "https://en.wikipedia.org/wiki/Samuel_Morse",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Transatlantic telegraph cable",
+     "url": "https://en.wikipedia.org/wiki/Transatlantic_telegraph_cable",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Samuel_Morse.jpg/500px-Samuel_Morse.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Samuel_Morse.jpg",
+     "author": "Mathew Benjamin Brady",
+     "license": "Public domain",
+     "title": "Samuel_Morse.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "science-cosmos"
+   ],
+   "threads": [
+    "ciphers-and-codes",
+    "who-got-there-first",
+    "wires-and-waves"
+   ]
+  },
+  {
+   "id": "broad-street-cholera-1854",
+   "title": "The Broad Street pump: John Snow maps a killer",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": 1854,
+   "end": null,
+   "evidenceTypes": [
+    "epidemiological",
+    "documentary",
+    "maps"
+   ],
+   "mainstream": "In late August 1854 cholera broke out in Soho, London, and more than 600 people died within weeks. Most doctors believed cholera spread through 'miasma', bad air from filth. The physician John Snow suspected contaminated water. He recorded where the victims lived and found they clustered around a public water pump on Broad Street; people who drank other water, such as workers at a nearby brewery, were mostly spared. On 8 September he persuaded local officials to remove the pump's handle. Snow's map of the outbreak is often seen as a founding moment of epidemiology. The bacterium that causes cholera was described by Filippo Pacini in 1854 and studied further by Robert Koch in 1884.",
+   "alternatives": [
+    {
+     "label": "Did removing the handle stop it?",
+     "text": "Snow himself noted that the outbreak was already declining when the handle was removed, perhaps because many people had fled or died. The story of a single dramatic act is a simplification."
+    },
+    {
+     "label": "The baby's nappies",
+     "text": "A local curate, Henry Whitehead, set out to disprove Snow but was won over. He traced the probable source to a baby whose nappies had been washed into a cesspit next to the well."
+    },
+    {
+     "label": "Right for the wrong reason",
+     "text": "After the 1855 inquiry, officials still favoured miasma. London's great sewer system, built after the \"Great Stink\" of 1858, was meant to remove foul smells, but it also kept sewage out of drinking water and helped end cholera in the city."
+    }
+   ],
+   "changed": "1854: outbreak and pump handle removed. 1855: Snow's expanded study. 1858: Great Stink and sewer plans. 1884: Koch's work on the cholera bacterium. Since: Snow seen as a founder of epidemiology.",
+   "sources": [
+    {
+     "title": "Wikipedia: 1854 Broad Street cholera outbreak",
+     "url": "https://en.wikipedia.org/wiki/1854_Broad_Street_cholera_outbreak",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: John Snow",
+     "url": "https://en.wikipedia.org/wiki/John_Snow",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Miasma theory",
+     "url": "https://en.wikipedia.org/wiki/Miasma_theory",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Pump_Handle_-_John_Snow_.jpg/500px-Pump_Handle_-_John_Snow_.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Pump_Handle_-_John_Snow_.jpg",
+     "author": "Jamzze",
+     "license": "CC BY-SA 4.0",
+     "title": "Pump_Handle_-_John_Snow_.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "science-cosmos",
+    "catastrophes"
+   ],
+   "threads": [
+    "changed-understanding",
+    "plagues-and-epidemics",
+    "rejected-pioneers",
+    "tested-by-experiment",
+    "myths-about-history"
+   ]
+  },
+  {
+   "id": "pasteur-germ-theory",
+   "title": "Pasteur, Koch and germ theory: invisible life causes disease",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": 1862,
+   "end": null,
+   "evidenceTypes": [
+    "experimental",
+    "scientific publication",
+    "laboratory notebooks"
+   ],
+   "mainstream": "For centuries many people believed that life could arise spontaneously from decaying matter, and that diseases came from bad air or imbalances in the body. In the early 1860s the French chemist Louis Pasteur boiled broth in flasks with long swan-shaped necks; dust and microbes were trapped in the bend, and the broth stayed sterile, showing that microbes came from outside. In Germany Robert Koch linked specific bacteria to specific diseases, including anthrax in 1876 and tuberculosis in 1882. In 1885 Pasteur gave a rabies vaccine to Joseph Meister, a boy bitten by a rabid dog, who survived. Germ theory led to antiseptic surgery, cleaner water and many vaccines.",
+   "alternatives": [
+    {
+     "label": "The private notebooks",
+     "text": "In 1995 the historian Gerald Geison published a study of Pasteur's private laboratory notebooks. He argued that Pasteur sometimes presented his work more favourably in public, for example how much his rabies vaccine had been tested on animals before Meister. Others think Geison was too harsh."
+    },
+    {
+     "label": "Béchamp and \"terrain\"",
+     "text": "Pasteur's rival Antoine Béchamp argued that the state of the body, its \"terrain\", mattered more than outside germs. Mainstream medicine rejected his theory, but it is cited today by people who deny germ theory."
+    },
+    {
+     "label": "Ideas ahead of their time",
+     "text": "Much earlier thinkers had proposed tiny agents of disease, such as Girolamo Fracastoro in 1546. Ignaz Semmelweis's handwashing campaign of the 1840s was rejected in his lifetime."
+    }
+   ],
+   "changed": "1546: Fracastoro's \"seeds\" of contagion. 1860s: Pasteur's flask experiments. 1876-1882: Koch identifies anthrax and TB bacteria. 1885: rabies vaccine. 1995: Geison's study of the notebooks.",
+   "sources": [
+    {
+     "title": "Wikipedia: Germ theory of disease",
+     "url": "https://en.wikipedia.org/wiki/Germ_theory_of_disease",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Louis Pasteur",
+     "url": "https://en.wikipedia.org/wiki/Louis_Pasteur",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Spontaneous generation",
+     "url": "https://en.wikipedia.org/wiki/Spontaneous_generation",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Louis_Pasteur%2C_foto_av_Paul_Nadar%2C_Crisco_edit.jpg/500px-Louis_Pasteur%2C_foto_av_Paul_Nadar%2C_Crisco_edit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Louis_Pasteur,_foto_av_Paul_Nadar,_Crisco_edit.jpg",
+     "author": "Paul Nadar",
+     "license": "Public domain",
+     "title": "Louis_Pasteur,_foto_av_Paul_Nadar,_Crisco_edit.jpg"
+    }
+   ],
+   "categories": [
+    "science-cosmos",
+    "history"
+   ],
+   "threads": [
+    "changed-understanding",
+    "plagues-and-epidemics",
+    "rejected-pioneers",
+    "tested-by-experiment"
+   ]
+  },
+  {
+   "id": "roentgen-xrays-1895",
+   "title": "Röntgen's X-rays: seeing through flesh",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1895,
+   "end": null,
+   "evidenceTypes": [
+    "experimental",
+    "photographic",
+    "scientific publication"
+   ],
+   "mainstream": "On 8 November 1895 the German physicist Wilhelm Röntgen was experimenting with a cathode-ray tube in his laboratory in Würzburg when he noticed that a fluorescent screen across the room glowed, even though the tube was covered. He had found a new, invisible kind of radiation that could pass through paper, wood and flesh but was blocked by bone and metal. He called it 'X' for unknown. In December he made an X-ray image of his wife Anna Bertha's hand, showing her bones and ring. Within months doctors used X-rays to find bullets and broken bones. Röntgen received the first Nobel Prize in Physics in 1901 and chose not to patent the discovery.",
+   "alternatives": [
+    {
+     "label": "Seen before but not recognised",
+     "text": "Other researchers had probably produced X-rays without realising it. In 1890 Arthur Goodspeed in Philadelphia accidentally made an X-ray photograph and only understood it after Röntgen's announcement."
+    },
+    {
+     "label": "Rays everywhere",
+     "text": "The discovery set off a hunt for new rays. In 1903 French physicist René Blondlot announced \"N-rays\", which turned out to exist only in the eyes of the observers."
+    },
+    {
+     "label": "Hidden dangers",
+     "text": "Early users did not know X-rays were harmful. Clarence Dally, who worked on X-ray equipment for Thomas Edison, died in 1904 after severe radiation injuries. Shoe shops used X-ray machines to fit shoes until the mid-20th century."
+    }
+   ],
+   "changed": "1895: discovery. 1896: medical use spreads. 1901: first Nobel Prize in Physics. 1904: death of Clarence Dally. Since: radiation safety rules.",
+   "sources": [
+    {
+     "title": "Wikipedia: X-ray",
+     "url": "https://en.wikipedia.org/wiki/X-ray",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Wilhelm Röntgen",
+     "url": "https://en.wikipedia.org/wiki/Wilhelm_R%C3%B6ntgen",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: N-ray",
+     "url": "https://en.wikipedia.org/wiki/N-ray",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Wilhelm_Conrad_R%C3%B6ntgen_%281888-1900%29%2C_88374_p.jpg/500px-Wilhelm_Conrad_R%C3%B6ntgen_%281888-1900%29%2C_88374_p.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Wilhelm_Conrad_R%C3%B6ntgen_(1888-1900),_88374_p.jpg",
+     "author": "Erwin Hanfstaengl",
+     "license": "Public domain",
+     "title": "Wilhelm_Conrad_Röntgen_(1888-1900),_88374_p.jpg"
+    }
+   ],
+   "categories": [
+    "science-cosmos",
+    "history"
+   ],
+   "threads": [
+    "seeing-what-we-expect",
+    "accidental-discoveries",
+    "science-gone-wrong",
+    "who-got-there-first"
+   ]
+  },
+  {
+   "id": "curie-radioactivity",
+   "title": "Marie Curie and the glow of radium",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": 1898,
+   "end": null,
+   "evidenceTypes": [
+    "experimental",
+    "scientific publication",
+    "laboratory notebooks"
+   ],
+   "mainstream": "In 1896 Henri Becquerel found that uranium salts darkened a photographic plate even in the dark. Marie Skłodowska-Curie, a Polish-born physicist working in Paris, studied this and coined the word 'radioactivity'. With her husband Pierre she discovered two new elements in 1898, polonium (named after Poland) and radium. In 1902 Ernest Rutherford and Frederick Soddy showed that radioactive atoms change into other elements. Marie Curie shared the 1903 Nobel Prize in Physics with Pierre and Becquerel, and won the 1911 Nobel Prize in Chemistry alone, the first person to win two. She died in 1934 of aplastic anaemia, probably caused by radiation exposure. Her notebooks are still radioactive.",
+   "alternatives": [
+    {
+     "label": "Nearly left out",
+     "text": "The 1903 Nobel committee at first planned to honour only Pierre Curie and Becquerel. Pierre was told by a committee member and insisted that Marie be included."
+    },
+    {
+     "label": "Modern alchemy",
+     "text": "According to Soddy's later account, when he realised one element was turning into another he exclaimed that it was transmutation, and Rutherford warned him not to use the word or they would be dismissed as alchemists."
+    },
+    {
+     "label": "The radium craze",
+     "text": "In the 1910s and 1920s radium was sold as a health tonic in water, creams and toothpaste. Women who painted watch dials with radium paint, the \"Radium Girls\", fell ill and sued their employer, which helped bring in workplace safety laws. The US industrialist Eben Byers died in 1932 after drinking large amounts of a radium tonic."
+    }
+   ],
+   "changed": "1896: Becquerel. 1898: polonium and radium. 1903 and 1911: Nobel Prizes. 1920s: Radium Girls cases. 1934: Curie dies.",
+   "sources": [
+    {
+     "title": "Wikipedia: Marie Curie",
+     "url": "https://en.wikipedia.org/wiki/Marie_Curie",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Radium",
+     "url": "https://en.wikipedia.org/wiki/Radium",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Radium Girls",
+     "url": "https://en.wikipedia.org/wiki/Radium_Girls",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Marie_Curie_c._1920s.jpg/500px-Marie_Curie_c._1920s.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Marie_Curie_c._1920s.jpg",
+     "author": "Henri Manuel",
+     "license": "Public domain",
+     "title": "Marie_Curie_c._1920s.jpg"
+    }
+   ],
+   "categories": [
+    "science-cosmos",
+    "history"
+   ],
+   "threads": [
+    "changed-understanding",
+    "visionary-women",
+    "accidental-discoveries",
+    "elixirs-of-immortality",
+    "science-gone-wrong",
+    "scientists-and-the-occult"
+   ]
+  },
+  {
+   "id": "wright-flyer-1903",
+   "title": "Kitty Hawk, 1903: the first powered flight, and its rivals",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": 1903,
+   "end": null,
+   "evidenceTypes": [
+    "photographic",
+    "documentary",
+    "eyewitness"
+   ],
+   "mainstream": "On 17 December 1903, near Kitty Hawk, North Carolina, Orville Wright flew the brothers' Wright Flyer for 12 seconds and about 37 metres. It is widely recognised as the first sustained, controlled flight of a powered, heavier-than-air aircraft with a pilot. That day the brothers made four flights; the longest, by Wilbur, lasted 59 seconds and covered about 260 metres. A famous photograph shows the first take-off. The Wrights, bicycle makers from Dayton, Ohio, had studied gliding for years, built their own wind tunnel and solved the problem of control by 'wing warping'. Within 66 years humans walked on the Moon.",
+   "alternatives": [
+    {
+     "label": "Gustave Whitehead",
+     "text": "The German-American Gustave Whitehead was reported in a 1901 newspaper article to have flown a powered aircraft in Connecticut. No photograph of the flight has been confirmed. In 2013 an editorial in Jane's All the World's Aircraft backed his claim, which most aviation historians reject."
+    },
+    {
+     "label": "Santos-Dumont",
+     "text": "In Brazil and elsewhere, Alberto Santos-Dumont is often celebrated as the true pioneer. His 14-bis flew in public in Paris in 1906 and took off on its own wheels, whereas the Wrights' early flights had few witnesses and used a launching rail."
+    },
+    {
+     "label": "A contract with the museum",
+     "text": "When the Smithsonian Institution received the original Flyer in 1948, it signed an agreement with the Wright estate not to credit any earlier aircraft with powered, controlled flight. Supporters of rival claims point to this as a conflict of interest."
+    }
+   ],
+   "changed": "1903: Kitty Hawk flights. 1906: Santos-Dumont's 14-bis in Paris. 1948: Flyer goes to the Smithsonian. 2013: Jane's editorial on Whitehead.",
+   "sources": [
+    {
+     "title": "Wikipedia: Wright brothers",
+     "url": "https://en.wikipedia.org/wiki/Wright_brothers",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Wright Flyer",
+     "url": "https://en.wikipedia.org/wiki/Wright_Flyer",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Gustave Whitehead",
+     "url": "https://en.wikipedia.org/wiki/Gustave_Whitehead",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Alberto Santos-Dumont",
+     "url": "https://en.wikipedia.org/wiki/Alberto_Santos-Dumont",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/First_flight2.jpg/500px-First_flight2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:First_flight2.jpg",
+     "author": "John T. Daniels",
+     "license": "Public domain",
+     "title": "First_flight2.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "science-cosmos"
+   ],
+   "threads": [
+    "ancient-flight",
+    "who-got-there-first"
+   ]
+  },
+  {
+   "id": "dna-double-helix-1953",
+   "title": "The double helix: DNA's shape and Photo 51",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": 1953,
+   "end": null,
+   "evidenceTypes": [
+    "experimental",
+    "X-ray crystallography",
+    "scientific publication"
+   ],
+   "mainstream": "In April 1953 James Watson and Francis Crick, at the University of Cambridge, published in Nature a model of DNA as a double helix: two strands wound around each other, joined by paired bases. The pairing suggested how genetic information could be copied. Their model relied on X-ray diffraction work done at King's College London by Rosalind Franklin, her student Raymond Gosling and Maurice Wilkins, including a sharp image known as Photo 51, which Wilkins showed to Watson without Franklin's knowledge. Franklin died of cancer in 1958 at 37. In 1962 Watson, Crick and Wilkins received the Nobel Prize, which is not awarded after death.",
+   "alternatives": [
+    {
+     "label": "Stolen or shared?",
+     "text": "For decades Franklin was portrayed as a wronged scientist whose data were taken. In 2023 historians Matthew Cobb and Nathaniel Comfort argued in Nature, based on archival papers, that she was an equal member of a competing effort and closer to solving the structure than often assumed, rather than simply a victim."
+    },
+    {
+     "label": "The race",
+     "text": "The American chemist Linus Pauling proposed a triple-helix model early in 1953, which turned out to be wrong."
+    },
+    {
+     "label": "Older roots",
+     "text": "DNA itself was first isolated by Friedrich Miescher in 1869, and in 1944 Oswald Avery's team showed that it carries hereditary information."
+    }
+   ],
+   "changed": "1869: DNA isolated. 1944: Avery shows DNA carries genes. 1952: Photo 51. 1953: double helix. 1962: Nobel Prize. 2023: new reading of Franklin's role.",
+   "sources": [
+    {
+     "title": "Wikipedia: Nucleic acid double helix",
+     "url": "https://en.wikipedia.org/wiki/Nucleic_acid_double_helix",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Rosalind Franklin",
+     "url": "https://en.wikipedia.org/wiki/Rosalind_Franklin",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Photo 51",
+     "url": "https://en.wikipedia.org/wiki/Photo_51",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Molecular Structure of Nucleic Acids: A Structure for Deoxyribose Nucleic Acid",
+     "authors": "WATSON, J. et al.",
+     "year": 1953,
+     "doi": "10.1038/171737a0",
+     "type": "paper"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/DNA_Structure%2BKey%2BLabelled.pn_NoBB.png/500px-DNA_Structure%2BKey%2BLabelled.pn_NoBB.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:DNA_Structure%2BKey%2BLabelled.pn_NoBB.png",
+     "author": "Zephyris",
+     "license": "CC BY-SA 3.0",
+     "title": "DNA_Structure+Key+Labelled.pn_NoBB.png"
+    }
+   ],
+   "categories": [
+    "science-cosmos",
+    "history"
+   ],
+   "threads": [
+    "changed-understanding",
+    "rejected-pioneers",
+    "erased-from-history",
+    "visionary-women",
+    "how-life-began",
+    "who-got-there-first"
+   ]
+  },
+  {
+   "id": "arpanet-1969",
+   "title": "\"LO\": the first message of the internet's ancestor",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1969,
+   "end": null,
+   "evidenceTypes": [
+    "documentary",
+    "technological"
+   ],
+   "mainstream": "On 29 October 1969 a student programmer, Charley Kline, at the University of California, Los Angeles, tried to log in to a computer at the Stanford Research Institute over the new ARPANET, a network funded by the US Defense Department's Advanced Research Projects Agency. He typed 'L' and 'O' before the system crashed, so the first message was 'LO'. ARPANET used packet switching, breaking data into small blocks sent independently. In 1983 it switched to the TCP/IP protocols that still underlie the internet. In 1989 Tim Berners-Lee at CERN proposed the World Wide Web, which made the internet easy for the public to use.",
+   "alternatives": [
+    {
+     "label": "Built to survive a nuclear war?",
+     "text": "A popular story says ARPANET was designed to survive a nuclear attack. Paul Baran's earlier work on distributed networks at the RAND Corporation was motivated by that concern, but ARPANET's own planners have said its main purpose was to share scarce computing resources among researchers."
+    },
+    {
+     "label": "The Soviet internet that never was",
+     "text": "In the 1960s the Soviet scientist Viktor Glushkov proposed OGAS, a nationwide computer network to manage the planned economy. It was never built, partly because of rivalries between ministries."
+    }
+   ],
+   "changed": "1969: first ARPANET link. 1983: TCP/IP. 1989: World Wide Web proposed. 1990s: public internet.",
+   "sources": [
+    {
+     "title": "Wikipedia: ARPANET",
+     "url": "https://en.wikipedia.org/wiki/ARPANET",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: History of the internet",
+     "url": "https://en.wikipedia.org/wiki/History_of_the_internet",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: OGAS",
+     "url": "https://en.wikipedia.org/wiki/OGAS",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Arpanet_logical_map%2C_march_1977.png/500px-Arpanet_logical_map%2C_march_1977.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Arpanet_logical_map,_march_1977.png",
+     "author": "ARPANET",
+     "license": "Public domain",
+     "title": "Arpanet_logical_map,_march_1977.png"
+    }
+   ],
+   "categories": [
+    "history",
+    "science-cosmos"
+   ],
+   "threads": [
+    "cold-war-secrets",
+    "myths-about-history",
+    "wires-and-waves"
+   ]
+  },
+  {
+   "id": "crispr-2012",
+   "title": "CRISPR: gene editing borrowed from bacteria",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": 2012,
+   "end": null,
+   "evidenceTypes": [
+    "experimental",
+    "scientific publication"
+   ],
+   "mainstream": "In the 1990s the Spanish microbiologist Francisco Mojica, studying microbes from salt marshes near Alicante, noticed strange repeated DNA sequences, later named CRISPR. Researchers found that bacteria use them as an immune system, storing pieces of viral DNA so that an enzyme called Cas9 can recognise and cut the virus if it returns. In 2012 Jennifer Doudna and Emmanuelle Charpentier showed in Science that this system could be programmed to cut any chosen DNA sequence. Gene editing became cheaper and faster than ever before. Doudna and Charpentier received the 2020 Nobel Prize in Chemistry. In 2023 the first CRISPR-based therapy, for sickle cell disease, was approved in the United Kingdom.",
+   "alternatives": [
+    {
+     "label": "The edited babies",
+     "text": "In 2018 the Chinese scientist He Jiankui announced the birth of twin girls whose genes he had edited to try to make them resistant to HIV. The experiment was widely condemned, and he was sentenced to three years in prison in China in 2019."
+    },
+    {
+     "label": "Who owns it?",
+     "text": "The University of California and the Broad Institute, where Feng Zhang adapted CRISPR for human cells, fought a long patent battle over the technique."
+    },
+    {
+     "label": "Designer humans?",
+     "text": "Supporters see a route to curing genetic diseases. Critics worry about unintended edits, unequal access and changes that would pass to future generations."
+    }
+   ],
+   "changed": "1993-2005: Mojica and others study CRISPR repeats. 2012: programmable Cas9. 2018: He Jiankui affair. 2020: Nobel Prize. 2023: first approved CRISPR therapy.",
+   "sources": [
+    {
+     "title": "Wikipedia: CRISPR",
+     "url": "https://en.wikipedia.org/wiki/CRISPR",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: CRISPR gene editing",
+     "url": "https://en.wikipedia.org/wiki/CRISPR_gene_editing",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: He Jiankui affair",
+     "url": "https://en.wikipedia.org/wiki/He_Jiankui_affair",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "A Programmable Dual-RNA–Guided DNA Endonuclease in Adaptive Bacterial Immunity",
+     "authors": "Jinek, M. et al.",
+     "year": 2012,
+     "doi": "10.1126/science.1225829",
+     "type": "paper"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Streptococcus_pyogenes_Cas9-DNA-RNA_complex_PDB_4OO8.png/500px-Streptococcus_pyogenes_Cas9-DNA-RNA_complex_PDB_4OO8.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Streptococcus_pyogenes_Cas9-DNA-RNA_complex_PDB_4OO8.png",
+     "author": "Deposition authors: Nishimasu, H., Ishitani, R., Nureki, O.; Visualization author: Synpath",
+     "license": "CC0",
+     "title": "Streptococcus_pyogenes_Cas9-DNA-RNA_complex_PDB_4OO8.png"
+    }
+   ],
+   "categories": [
+    "science-cosmos",
+    "history"
+   ],
+   "threads": [
+    "accidental-discoveries",
+    "science-gone-wrong",
+    "who-got-there-first"
    ]
   }
  ]
