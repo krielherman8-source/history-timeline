@@ -71524,7 +71524,7 @@
   },
   {
    "id": "meiji-restoration-1868",
-   "title": "The Meiji Restoration (1868): the samurai age ends, and Saigō is seen in Mars",
+   "title": "The Meiji Restoration (1868): the samurai age ends, and a rebel becomes a star",
    "lane": "history",
    "status": "confirmed",
    "priority": 2,
@@ -71537,12 +71537,12 @@
    "mainstream": "In 1853 US warships under Commodore Matthew Perry arrived in Japan and forced the Tokugawa shogunate to open the country to trade. In 1868 a coalition of domains overthrew the shogun and restored power to the young Emperor Meiji. The new government abolished the feudal domains and the samurai as a class, introduced conscription, built railways and factories, and sent students abroad to learn Western science. In 1877 the Satsuma Rebellion, led by the samurai leader Saigō Takamori, was crushed and Saigō died. Within a few decades Japan became an industrial power.",
    "alternatives": [
     {
-     "label": "The star of Saigō",
-     "text": "In 1877, while the rebellion was being crushed, the planet Mars was unusually bright, and popular prints showed Saigō's figure in it, calling it the \"Saigō star\"."
+     "label": "Saigō in the sky",
+     "text": "Legends about Saigō spread even before his death. Some said he had not died but had escaped to China or India; others that he had risen to the heavens as the planet Mars or a comet. In 1877 Mars was unusually close and bright, and woodblock prints showed him in heroic poses."
     },
     {
-     "label": "The hero who did not die",
-     "text": "Rumours later spread that Saigō had survived and would return, one version saying he would come back from Russia. Such stories are found for many fallen heroes; the government pardoned him after his death and his statue stands in Tokyo's Ueno Park."
+     "label": "The rebel pardoned",
+     "text": "The government that crushed him pardoned him after his death, and his statue stands in Tokyo's Ueno Park. Stories that a fallen hero survived and may return are told of many figures, from King Arthur to Frederick Barbarossa."
     }
    ],
    "sources": [
@@ -71883,6 +71883,760 @@
     "southern-africa",
     "near-misses",
     "rumour-and-disinformation"
+   ]
+  },
+  {
+   "id": "thor-mjolnir",
+   "title": "Thor and Mjölnir: the thunder god whose hammer was worn against the cross",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 1,
+   "start": 800,
+   "end": null,
+   "dateNote": "Viking Age worship; written sources 13th century",
+   "evidenceTypes": [
+    "textual",
+    "archaeological",
+    "place names"
+   ],
+   "mainstream": "Thor was the Norse god of thunder, strength and the protection of people and gods against the giants. His hammer Mjölnir, made by the dwarf brothers Eitri and Brokkr according to Snorri Sturluson's Prose Edda (about 1220), returned to his hand when thrown. In the Eddic poem Þrymskviða the giant Thrym steals the hammer and demands the goddess Freyja as his bride; Thor goes to the wedding disguised as Freyja and recovers it. At Ragnarök he is fated to kill the world serpent Jörmungandr, then walk nine steps and die from its venom. Small hammer pendants were commonly worn in the Viking Age, and the English word Thursday means 'Thunor's day'.",
+   "alternatives": [
+    {
+     "label": "Hammer against cross",
+     "text": "Many archaeologists suggest that hammer pendants became popular in the 10th century partly as a pagan answer to the Christian cross, as Christianity spread into Scandinavia."
+    },
+    {
+     "label": "A shared thunder god?",
+     "text": "Scholars compare Thor with other thunder gods who fight a serpent, such as the Vedic Indra who kills the serpent Vritra and the Slavic Perun, and some reconstruct a common Indo-European storm god. Others are cautious about how much can be reconstructed."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Thor",
+     "url": "https://en.wikipedia.org/wiki/Thor",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Mjölnir",
+     "url": "https://en.wikipedia.org/wiki/Mj%C3%B6lnir",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Þrymskviða",
+     "url": "https://en.wikipedia.org/wiki/%C3%9Erymskvi%C3%B0a",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/A_painting_by_Max_Friedrich_Koch_-_Donar-Thor.jpg/500px-A_painting_by_Max_Friedrich_Koch_-_Donar-Thor.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:A_painting_by_Max_Friedrich_Koch_-_Donar-Thor.jpg",
+     "author": "Max Koch",
+     "license": "Public domain",
+     "title": "A_painting_by_Max_Friedrich_Koch_-_Donar-Thor.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion",
+    "archaeology"
+   ],
+   "threads": [
+    "serpent-beings",
+    "world-ages-and-resets",
+    "dragon-slayers",
+    "thunder-gods"
+   ]
+  },
+  {
+   "id": "loki-bound",
+   "title": "Loki bound: the trickster whose pain shakes the earth",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": 800,
+   "end": null,
+   "dateNote": "known mainly from 13th-century Icelandic texts",
+   "evidenceTypes": [
+    "textual"
+   ],
+   "mainstream": "Loki is the shape-shifting trickster of Norse myth, a companion of the gods who is also their enemy. He turned himself into a mare and gave birth to Odin's eight-legged horse Sleipnir, and he fathered the wolf Fenrir and the world serpent. When he arranged the death of the beloved god Baldr, the gods bound him in a cave. A snake drips venom on to his face; his wife Sigyn catches it in a bowl, but when she leaves to empty it the venom strikes him and his writhing causes earthquakes. At Ragnarök he will break free and fight against the gods.",
+   "alternatives": [
+    {
+     "label": "A god without worship",
+     "text": "There is little evidence that Loki was ever worshipped, and scholars have long debated his origins: theories have made him a fire god, a spider-like figure, or a literary creation shaped partly by Christian ideas of the Devil."
+    },
+    {
+     "label": "Bound gods elsewhere",
+     "text": "The punishment of a bound god who will one day break loose has been compared with the Greek Prometheus and the Georgian Amirani, both chained in the Caucasus."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Loki",
+     "url": "https://en.wikipedia.org/wiki/Loki",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Baldr",
+     "url": "https://en.wikipedia.org/wiki/Baldr",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Sigyn",
+     "url": "https://en.wikipedia.org/wiki/Sigyn",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Gylfaginning",
+     "url": "https://en.wikipedia.org/wiki/Gylfaginning",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Processed_SAM_loki.jpg/500px-Processed_SAM_loki.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Processed_SAM_loki.jpg",
+     "author": "Unknown",
+     "license": "Public domain",
+     "title": "Processed_SAM_loki.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion",
+    "catastrophes"
+   ],
+   "threads": [
+    "serpent-beings",
+    "world-ages-and-resets",
+    "shapeshifters",
+    "earthquake-lore",
+    "fire-thieves",
+    "trickster-tales"
+   ]
+  },
+  {
+   "id": "weighing-of-the-heart",
+   "title": "The weighing of the heart: an Egyptian judgement of the dead",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 1,
+   "start": -1475,
+   "end": null,
+   "dateNote": "Spell 125 first known c. 1475 BCE (Hatshepsut and Thutmose III)",
+   "evidenceTypes": [
+    "textual",
+    "iconographic",
+    "archaeological"
+   ],
+   "mainstream": "The Book of the Dead is the modern name for collections of spells that helped Egyptians pass through the underworld (the Duat) into the afterlife. Its most famous chapter, Spell 125, first known from about 1475 BCE, describes the dead person's heart being weighed on scales against Maat, the goddess of truth and justice, often shown as an ostrich feather. The jackal-headed Anubis supervises the scales and the scribe god Thoth records the result. If the heart balanced, the person was declared 'true of voice' and could enter the afterlife before Osiris; if not, the monster Ammit, part crocodile, lion and hippopotamus, devoured it. The deceased also recited a list of sins they had not committed.",
+   "alternatives": [
+    {
+     "label": "Morality beyond the grave",
+     "text": "Egyptologists note that this scene is one of the few parts of the Book of the Dead with explicit moral content, and that the idea of judgement by one's deeds after death appears in many later religions."
+    },
+    {
+     "label": "Scales of souls elsewhere",
+     "text": "In medieval Christian art the archangel Michael is often shown weighing souls, and Zoroastrian tradition describes the dead crossing the Chinvat Bridge, which widens for the righteous and narrows for the wicked. Whether these ideas are connected or arose separately is debated."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Book of the Dead",
+     "url": "https://en.wikipedia.org/wiki/Book_of_the_Dead",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Ammit",
+     "url": "https://en.wikipedia.org/wiki/Ammit",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Maat",
+     "url": "https://en.wikipedia.org/wiki/Maat",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Papyrus of Ani",
+     "url": "https://en.wikipedia.org/wiki/Papyrus_of_Ani",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/BD_Weighing_of_the_Heart.jpg/500px-BD_Weighing_of_the_Heart.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:BD_Weighing_of_the_Heart.jpg",
+     "author": "Photographed by the British Museum; original artist unknown",
+     "license": "Public domain",
+     "title": "BD_Weighing_of_the_Heart.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion",
+    "archaeology"
+   ],
+   "threads": [
+    "otherworld-visits",
+    "egypt-of-the-pharaohs",
+    "descents-to-the-underworld"
+   ]
+  },
+  {
+   "id": "kalki",
+   "title": "Kalki: the rider on the white horse who will end the dark age",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": 300,
+   "end": null,
+   "dateNote": "first mentioned in the Mahabharata; Puranic accounts from the 1st millennium CE",
+   "evidenceTypes": [
+    "textual"
+   ],
+   "mainstream": "In Hindu tradition Kalki is the tenth and final avatar of the god Vishnu, who will appear at the end of the Kali Yuga, the present and darkest of the four ages of the world. The Puranas describe him riding a white horse named Devadatta and carrying a blazing sword. He will destroy evil, restore dharma (righteousness) and begin a new golden age, the Satya Yuga. Some texts say he will be born in a village called Shambhala. Kalki also appears in the Kalachakra Tantra of Tibetan Buddhism and in Sikh texts. By a traditional reckoning the Kali Yuga began in 3102 BCE and has hundreds of thousands of years still to run.",
+   "alternatives": [
+    {
+     "label": "Claimed by many",
+     "text": "Several religious founders have been identified as Kalki, including Mirza Ghulam Ahmad, founder of the Ahmadiyya movement, and Bahá'u'lláh in the Bahá'í Faith."
+    },
+    {
+     "label": "A world pattern",
+     "text": "Comparative religion notes similar end-time saviour figures, such as the Buddhist Maitreya, the Islamic Mahdi and the rider on a white horse in the Christian Book of Revelation. Scholars debate whether these share roots or developed independently."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Kalki",
+     "url": "https://en.wikipedia.org/wiki/Kalki",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Kali Yuga",
+     "url": "https://en.wikipedia.org/wiki/Kali_Yuga",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Kalki Purana",
+     "url": "https://en.wikipedia.org/wiki/Kalki_Purana",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Kalki_Avatar_by_Ravi_Varma.jpg/500px-Kalki_Avatar_by_Ravi_Varma.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Kalki_Avatar_by_Ravi_Varma.jpg",
+     "author": "Raja Ravi Varma",
+     "license": "Public domain",
+     "title": "Kalki_Avatar_by_Ravi_Varma.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion"
+   ],
+   "threads": [
+    "world-ages-and-resets",
+    "returning-saviours",
+    "south-asian-epics",
+    "prophecies"
+   ]
+  },
+  {
+   "id": "jonah-great-fish",
+   "title": "Jonah and the great fish, and the sailor said to have survived a whale",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": -500,
+   "end": null,
+   "dateNote": "book usually dated to the Persian period, 5th-4th century BCE",
+   "evidenceTypes": [
+    "textual",
+    "archaeological"
+   ],
+   "mainstream": "The Book of Jonah in the Hebrew Bible tells of a prophet ordered by God to preach to Nineveh, the capital of Assyria. Jonah flees by ship in the other direction; a storm rises, the sailors throw him overboard, and a 'great fish' (Hebrew dag gadol) swallows him. After three days and nights he is spat out on land, goes to Nineveh, and the city repents and is spared. Jonah is also a prophet in Islam, and a chapter of the Quran, Yunus, is named after him. Many modern scholars consider the book a later story, partly satirical, rather than history.",
+   "alternatives": [
+    {
+     "label": "James Bartley",
+     "text": "From 1891 newspapers reported that a sailor named James Bartley had been swallowed by a sperm whale and found alive in its stomach. The historian Edward B. Davis investigated and found many inconsistencies: the ship named, the Star of the East, was not a whaling vessel. The story is generally regarded as a hoax."
+    },
+    {
+     "label": "A palace under Jonah's tomb",
+     "text": "The shrine of Nabi Yunus in Mosul, revered as Jonah's tomb, was blown up by Islamic State in 2014. When the group was driven out in 2017, tunnels it had dug beneath the site revealed the remains of an Assyrian palace with inscriptions of King Esarhaddon."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Jonah",
+     "url": "https://en.wikipedia.org/wiki/Jonah",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Book of Jonah",
+     "url": "https://en.wikipedia.org/wiki/Book_of_Jonah",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: James Bartley",
+     "url": "https://en.wikipedia.org/wiki/James_Bartley",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Al-Nabi Yunus Mosque",
+     "url": "https://en.wikipedia.org/wiki/Al-Nabi_Yunus_Mosque",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Dore_jonah.jpg/500px-Dore_jonah.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Dore_jonah.jpg",
+     "author": "Gustave Doré",
+     "license": "Public domain",
+     "title": "Dore_jonah.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion",
+    "hoaxes",
+    "archaeology"
+   ],
+   "threads": [
+    "hoaxes-exposed",
+    "mesopotamia-and-anatolia",
+    "storm-raisers",
+    "bible-and-archaeology"
+   ]
+  },
+  {
+   "id": "momotaro",
+   "title": "Momotarō, the Peach Boy: a folk hero drafted into war",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": 1700,
+   "end": null,
+   "dateNote": "written versions from the Edo period",
+   "evidenceTypes": [
+    "textual",
+    "oral tradition"
+   ],
+   "mainstream": "In the Japanese folk tale an elderly, childless couple find a giant peach floating down a river. Inside is a baby boy, whom they name Momotarō, 'Peach Boy'. When he grows up he sets out to fight the oni (ogres) of Onigashima, the ogre island, taking millet dumplings that win him three companions: a dog, a monkey and a pheasant. They defeat the oni and return with treasure. The story became widely known in the Edo period and was a standard tale in Japanese schoolbooks.",
+   "alternatives": [
+    {
+     "label": "A wartime hero",
+     "text": "During the Second World War Momotarō was used in propaganda, with the oni standing for the Western Allies; the historian John Dower discussed this in War Without Mercy (1986). The tale disappeared from Japanese schoolbooks after the war."
+    },
+    {
+     "label": "Okayama's claim",
+     "text": "Okayama Prefecture promotes Momotarō as a local hero, linking him with the legend of Prince Kibitsuhiko who defeated an ogre. Scholars note that this link was developed in modern times."
+    },
+    {
+     "label": "Babies on the water",
+     "text": "A child found floating on a river is a widespread story pattern, seen also in the tales of Moses, Sargon of Akkad and Romulus and Remus."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Momotarō",
+     "url": "https://en.wikipedia.org/wiki/Momotar%C5%8D",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Kibitsuhiko-no-mikoto",
+     "url": "https://en.wikipedia.org/wiki/Kibitsuhiko-no-mikoto",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Momotaro2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Momotaro2.jpg",
+     "author": "Fg2",
+     "license": "Public domain",
+     "title": "Momotaro2.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "history"
+   ],
+   "threads": [
+    "abandoned-babies",
+    "royal-propaganda",
+    "myths-about-history"
+   ]
+  },
+  {
+   "id": "glooscap",
+   "title": "Glooscap: the Wabanaki giant who shaped the land",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": 1600,
+   "end": null,
+   "dateNote": "oral tradition; recorded from the 19th century",
+   "evidenceTypes": [
+    "oral tradition",
+    "textual"
+   ],
+   "mainstream": "Glooscap (Klóskap and other spellings) is the culture hero of the Wabanaki peoples, including the Mi'kmaq, of Atlantic Canada and the north-eastern United States. In the stories he shapes the land and its animals, defeats monsters, and battles an evil twin, whom in one legend he turns to stone. One tale says he became a giant beaver and slapped his tail so hard that he created five islands in the Bay of Fundy, and his home is said to be Cape Blomidon in Nova Scotia. The stories were written down in the 19th century by the missionary Silas Rand and the folklorist Charles Godfrey Leland.",
+   "alternatives": [
+    {
+     "label": "One of a family",
+     "text": "Scholars compare Glooscap with other Algonquian culture heroes, such as the Ojibwe Nanabozho and the Cree Wisakedjak, who also shape the world and mix wisdom with mischief."
+    },
+    {
+     "label": "Collected and reshaped",
+     "text": "Leland's 1884 book Algonquin Legends compared the stories with Norse myth, and modern scholars say he sometimes reshaped them to fit his own theories."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Glooscap",
+     "url": "https://en.wikipedia.org/wiki/Glooscap",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Wabanaki Confederacy",
+     "url": "https://en.wikipedia.org/wiki/Wabanaki_Confederacy",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Charles Godfrey Leland",
+     "url": "https://en.wikipedia.org/wiki/Charles_Godfrey_Leland",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Glooscap_turning_a_man_into_a_cedar_tree.jpg/500px-Glooscap_turning_a_man_into_a_cedar_tree.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Glooscap_turning_a_man_into_a_cedar_tree.jpg",
+     "author": "Tomah Joseph",
+     "license": "Public domain",
+     "title": "Glooscap_turning_a_man_into_a_cedar_tree.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend"
+   ],
+   "threads": [
+    "shapeshifters",
+    "petrified-beings",
+    "civilising-teachers",
+    "native-north-america",
+    "trickster-tales"
+   ]
+  },
+  {
+   "id": "spider-grandmother",
+   "title": "Spider Grandmother: the weaver who led people up through the worlds",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": 1300,
+   "end": null,
+   "dateNote": "oral traditions; recorded from the late 19th century",
+   "evidenceTypes": [
+    "oral tradition",
+    "ethnographic"
+   ],
+   "mainstream": "Spider Grandmother (Hopi Kokyangwuti; Navajo Na'ashjé'ii Asdzáá, Spider Woman) is a helper and teacher of humans in the traditions of many peoples of the American Southwest. In Hopi tradition she guides living beings upward through a series of earlier worlds, teaching them to weave and make pottery, until they emerge into the present world. In Navajo tradition Spider Woman taught people to weave on the loom. Spider Rock, a tall sandstone spire in Canyon de Chelly, Arizona, is said to be her home.",
+   "alternatives": [
+    {
+     "label": "Worlds that end",
+     "text": "The Hopi account of earlier worlds left behind because people turned away from the creator is one of many traditions of successive world ages, alongside the Aztec Five Suns and the Hindu yugas."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Spider Grandmother",
+     "url": "https://en.wikipedia.org/wiki/Spider_Grandmother",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Canyon de Chelly National Monument",
+     "url": "https://en.wikipedia.org/wiki/Canyon_de_Chelly_National_Monument",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Canyon_de_Chelly%2C_Navajo.jpg/500px-Canyon_de_Chelly%2C_Navajo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Canyon_de_Chelly,_Navajo.jpg",
+     "author": "Edward S. Curtis",
+     "license": "Public domain",
+     "title": "Canyon_de_Chelly,_Navajo.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion"
+   ],
+   "threads": [
+    "world-ages-and-resets",
+    "creation-myths",
+    "underground-worlds",
+    "civilising-teachers",
+    "native-north-america",
+    "sacred-rocks-and-mountains",
+    "descents-to-the-underworld"
+   ]
+  },
+  {
+   "id": "pachamama",
+   "title": "Pachamama: the Andean Earth Mother, from mountain offerings to the River Tiber",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": 1500,
+   "end": null,
+   "dateNote": "pre-Hispanic origins; recorded by Spanish chroniclers from the 16th century",
+   "evidenceTypes": [
+    "ethnographic",
+    "textual",
+    "oral tradition"
+   ],
+   "mainstream": "Pachamama, 'Mother Earth' or 'Mother World' in Quechua and Aymara, is revered by Indigenous peoples of the Andes as the source of fertility, harvests and life. Her main ritual, the challa or pago ('payment'), takes place throughout August, when people offer food, drink, coca leaves and other gifts to the earth. After the Spanish conquest, missionaries tried to suppress her worship, and in many places she became associated with the Virgin Mary. In the 21st century the constitutions of Ecuador (2008) and laws in Bolivia have recognised rights of nature using the language of Pachamama.",
+   "alternatives": [
+    {
+     "label": "The statues in the river",
+     "text": "In October 2019 wooden carvings of a pregnant woman were displayed in Rome during a Vatican synod on the Amazon. The media called them Pachamama; assailants stole some and threw them into the River Tiber, calling them idols. Pope Francis apologised, and church leaders disagreed over what the figures represented."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Pachamama",
+     "url": "https://en.wikipedia.org/wiki/Pachamama",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Synod of Bishops for the Pan-Amazon region",
+     "url": "https://en.wikipedia.org/wiki/Synod_of_Bishops_for_the_Pan-Amazon_region",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Rights of nature",
+     "url": "https://en.wikipedia.org/wiki/Rights_of_nature",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Santa_Cruz_Pachacuti_Yamqui_Pachamama.jpg/500px-Santa_Cruz_Pachacuti_Yamqui_Pachamama.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Santa_Cruz_Pachacuti_Yamqui_Pachamama.jpg",
+     "author": "Juan Santa Cruz Pachacuti",
+     "license": "Public domain",
+     "title": "Santa_Cruz_Pachacuti_Yamqui_Pachamama.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion"
+   ],
+   "threads": [
+    "rain-and-drought",
+    "suppressed-beliefs",
+    "andean-empires",
+    "sacred-rocks-and-mountains"
+   ]
+  },
+  {
+   "id": "coatlicue",
+   "title": "Coatlicue: the Aztec goddess too frightening to display",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 1,
+   "start": 1450,
+   "end": null,
+   "dateNote": "statue c. 15th century; found 1790; Coyolxauhqui stone found 1978",
+   "evidenceTypes": [
+    "archaeological",
+    "textual",
+    "iconographic"
+   ],
+   "mainstream": "In Aztec myth Coatlicue, 'Snakes-Her-Skirt', was sweeping on the hill of Coatepec when a ball of feathers fell and made her pregnant. Her daughter Coyolxauhqui and her 400 sons, the stars of the southern sky, set out to kill her for this dishonour. But her son Huitzilopochtli, the Mexica war and sun god, was born fully armed, killed Coyolxauhqui and threw her body down the hill, where it broke apart. A colossal Coatlicue statue with a head of two serpents and a skirt of snakes was carved for Tenochtitlan in the 15th century; it is now in the National Museum of Anthropology in Mexico City.",
+   "alternatives": [
+    {
+     "label": "Buried twice",
+     "text": "The statue was buried after the Spanish conquest and dug up in 1790. Officials feared it would be revered, or found it too disturbing, and reburied it at the university; it was uncovered in 1803 so that Alexander von Humboldt could study it, buried again, and finally recovered in 1823."
+    },
+    {
+     "label": "The myth found in stone",
+     "text": "In 1978 electricity workers in Mexico City struck a huge stone disc showing the broken body of Coyolxauhqui. It lay at the foot of the Great Temple, matching the myth, and led to the excavation of the Templo Mayor."
+    },
+    {
+     "label": "Sky reading",
+     "text": "Many scholars read the myth as the sun (Huitzilopochtli) defeating the moon (Coyolxauhqui) and the stars at each dawn; others stress its political meaning for the Mexica."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Cōātlīcue",
+     "url": "https://en.wikipedia.org/wiki/C%C5%8D%C4%81tl%C4%ABcue",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Coatlicue statue",
+     "url": "https://en.wikipedia.org/wiki/Coatlicue_statue",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Coyolxāuhqui",
+     "url": "https://en.wikipedia.org/wiki/Coyolx%C4%81uhqui",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Templo Mayor",
+     "url": "https://en.wikipedia.org/wiki/Templo_Mayor",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Statue_of_Coatlicue.jpg/500px-Statue_of_Coatlicue.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Statue_of_Coatlicue.jpg",
+     "author": "Source and author: \"Luidger\"",
+     "license": "CC BY-SA 3.0",
+     "title": "Statue_of_Coatlicue.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion",
+    "archaeology"
+   ],
+   "threads": [
+    "stories-proven-true",
+    "serpent-beings",
+    "lost-evidence",
+    "suppressed-beliefs",
+    "sun-cults",
+    "central-america",
+    "moon-myths",
+    "star-lore"
+   ]
+  },
+  {
+   "id": "mwindo-epic",
+   "title": "The Mwindo epic: a Congo hero sealed in a drum",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": 1900,
+   "end": null,
+   "dateNote": "oral tradition; recorded 1950s, published 1969",
+   "evidenceTypes": [
+    "oral tradition",
+    "ethnographic"
+   ],
+   "mainstream": "The Mwindo epic is a long heroic story of the Nyanga people of the eastern Democratic Republic of the Congo, performed by bards with song, dance and music before local audiences. The chief Shemwindo ordered that only daughters be born to his wives, but Mwindo was born a son, already able to speak and carrying a magic conga scepter. His father tried to kill him with spears, then to bury him alive, and finally sealed him inside a drum and threw it into a river. Mwindo floated away to his aunt, travelled through the underworld and the sky, defeated a dragon and his father, and returned to rule wisely. A version was recorded by Daniel Biebuyck and Kahombo Mateene and published in 1969.",
+   "alternatives": [
+    {
+     "label": "A universal hero?",
+     "text": "Folklorists compare Mwindo's story with the hero pattern found in many cultures, including miraculous birth, an attempt to kill the child, exile, and a return in triumph. Others stress its specifically Nyanga values of humility and responsibility."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Mwindo epic",
+     "url": "https://en.wikipedia.org/wiki/Mwindo_epic",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Nyanga people",
+     "url": "https://en.wikipedia.org/wiki/Nyanga_people",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [],
+   "categories": [
+    "myth-legend"
+   ],
+   "threads": [
+    "otherworld-visits",
+    "abandoned-babies",
+    "dragon-slayers",
+    "descents-to-the-underworld"
+   ]
+  },
+  {
+   "id": "nanabozho",
+   "title": "Nanabozho, the muskrat and Turtle Island",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": 1600,
+   "end": null,
+   "dateNote": "oral tradition; recorded from the 19th century",
+   "evidenceTypes": [
+    "oral tradition",
+    "textual"
+   ],
+   "mainstream": "Nanabozho (also Nanabush, Wenabozho) is the shape-shifting trickster and culture hero of the Ojibwe and other Anishinaabe peoples. In one widespread story a great flood covers the world. Nanabozho, floating with the surviving animals, asks them to dive for earth. The beaver and the loon fail; the muskrat dives longest and comes up dead but with mud on its nose. Nanabozho places the mud on the back of a turtle, and it grows into the land, Turtle Island, a name many Indigenous people use for North America. Similar 'earth-diver' myths are known across North America and northern Asia.",
+   "alternatives": [
+    {
+     "label": "The Sleeping Giant",
+     "text": "The Sleeping Giant, a mesa on Lake Superior near Thunder Bay, Ontario, is identified in one Ojibwe legend as Nanabozho turned to stone after the secret location of a rich silver mine, now Silver Islet, was revealed to white men."
+    },
+    {
+     "label": "Earth-divers across continents",
+     "text": "Folklorists note that earth-diver stories appear among peoples from Siberia to the Americas, and some suggest they may have travelled with the first people who crossed into the Americas. This is debated."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Nanabozho",
+     "url": "https://en.wikipedia.org/wiki/Nanabozho",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Turtle Island",
+     "url": "https://en.wikipedia.org/wiki/Turtle_Island",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Sleeping Giant (Ontario)",
+     "url": "https://en.wikipedia.org/wiki/Sleeping_Giant_(Ontario)",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Sleeping_Giant%2C_Thunder_Bay.jpg/500px-Sleeping_Giant%2C_Thunder_Bay.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Sleeping_Giant,_Thunder_Bay.jpg",
+     "author": "D. Gordon E. Robertson",
+     "license": "CC BY-SA 3.0",
+     "title": "Sleeping_Giant,_Thunder_Bay.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend"
+   ],
+   "threads": [
+    "flood-myths",
+    "creation-myths",
+    "shapeshifters",
+    "lost-treasures",
+    "petrified-beings",
+    "civilising-teachers",
+    "native-north-america",
+    "trickster-tales",
+    "sacred-rocks-and-mountains"
    ]
   }
  ]
