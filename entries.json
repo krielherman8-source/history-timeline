@@ -72638,6 +72638,600 @@
     "trickster-tales",
     "sacred-rocks-and-mountains"
    ]
+  },
+  {
+   "id": "patience-worth",
+   "title": "Patience Worth: the 17th-century \"spirit\" who wrote novels through a Ouija board (1913)",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 1913,
+   "end": 1937,
+   "evidenceTypes": [
+    "documentary",
+    "textual"
+   ],
+   "mainstream": "In July 1913 Pearl Curran, a housewife in St Louis, Missouri, was using a Ouija board with a friend when the board spelled out: 'Many moons ago I lived. Again I come. Patience Worth my name.' Over the following years 'Patience', who said she was an Englishwoman of the 1600s, dictated poems, plays and several novels, first through the board and later through Curran speaking or writing directly. The writing used old-fashioned English and won praise from some critics of the day. The psychical researcher Walter Franklin Prince published a 509-page study, The Case of Patience Worth, in 1927.",
+   "alternatives": [
+    {
+     "label": "A spirit?",
+     "text": "Spiritualists took the case as evidence of communication with the dead. No historical Patience Worth has been identified."
+    },
+    {
+     "label": "A hidden talent",
+     "text": "Psychologists and sceptics who studied the writing have generally concluded that it came from Curran's own mind, perhaps through dissociation or a form of automatic writing, while noting that its speed and vocabulary are remarkable. Linguists have found the language to be a mixture of styles rather than consistent 17th-century English."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Patience Worth",
+     "url": "https://en.wikipedia.org/wiki/Patience_Worth",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Automatic writing",
+     "url": "https://en.wikipedia.org/wiki/Automatic_writing",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Ouija",
+     "url": "https://en.wikipedia.org/wiki/Ouija",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Pearl_Curran.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Pearl_Curran.jpg",
+     "author": "Walter Franklin Prince",
+     "license": "Public domain",
+     "title": "Pearl_Curran.jpg"
+    }
+   ],
+   "categories": [
+    "anomalies"
+   ],
+   "threads": [
+    "altered-states",
+    "visionary-women",
+    "contested-texts",
+    "scientists-and-the-occult"
+   ]
+  },
+  {
+   "id": "amelia-earhart-1937",
+   "title": "Amelia Earhart (1937): vanished over the Pacific, and the bones on Nikumaroro",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 1,
+   "start": 1937,
+   "end": null,
+   "evidenceTypes": [
+    "documentary",
+    "forensic",
+    "radio logs"
+   ],
+   "mainstream": "On 2 July 1937 the aviator Amelia Earhart and her navigator Fred Noonan disappeared during an attempt to fly around the world at the equator. They had left Lae in New Guinea for Howland Island, a tiny speck in the Pacific, in a Lockheed Electra. Radio messages suggested they were near the island and low on fuel, but they never arrived, and a large US Navy and Coast Guard search found nothing. The official conclusion was that they ran out of fuel and crashed into the sea.",
+   "alternatives": [
+    {
+     "label": "Castaways on Nikumaroro",
+     "text": "In 1940 a British official found 13 bones on the uninhabited island of Nikumaroro (then Gardner Island), about 650 km south-east of Howland, and wondered if they could be Earhart's. A doctor in Fiji judged them male, and the bones were later lost. In 2018 the forensic anthropologist Richard Jantz reanalysed the recorded measurements and said they were consistent with Earhart. The group TIGHAR has searched the island for decades. Other researchers dispute the identification."
+    },
+    {
+     "label": "Captured by Japan?",
+     "text": "Another theory says the fliers were captured by Japanese forces in the Marshall Islands. A photograph promoted in 2017 as showing Earhart there was quickly found to have been published in a Japanese book in 1935, two years before she vanished."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Amelia Earhart",
+     "url": "https://en.wikipedia.org/wiki/Amelia_Earhart",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Nikumaroro",
+     "url": "https://en.wikipedia.org/wiki/Nikumaroro",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Fred Noonan",
+     "url": "https://en.wikipedia.org/wiki/Fred_Noonan",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Amelia_Earhart_standing_under_nose_of_her_Lockheed_Model_10-E_Electra%2C_small_%28cropped%29.jpg/500px-Amelia_Earhart_standing_under_nose_of_her_Lockheed_Model_10-E_Electra%2C_small_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Amelia_Earhart_standing_under_nose_of_her_Lockheed_Model_10-E_Electra,_small_(cropped).jpg",
+     "author": "Underwood & Underwood (active 1880 – c. 1950)[1]",
+     "license": "Public domain",
+     "title": "Amelia_Earhart_standing_under_nose_of_her_Lockheed_Model_10-E_Electra,_small_(cropped).jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "anomalies"
+   ],
+   "threads": [
+    "disappearances",
+    "lost-evidence",
+    "anomalous-photos"
+   ]
+  },
+  {
+   "id": "hindenburg-1937",
+   "title": "The Hindenburg (1937): 34 seconds that ended the age of airships",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1937,
+   "end": null,
+   "evidenceTypes": [
+    "documentary",
+    "film",
+    "radio recording"
+   ],
+   "mainstream": "On 6 May 1937 the German passenger airship Hindenburg, filled with hydrogen, caught fire while landing at Lakehurst, New Jersey, and was destroyed within about half a minute. Of the 97 people aboard, 35 died, along with one member of the ground crew. Newsreel cameras filmed the fire, and the reporter Herbert Morrison's recorded description, including the cry 'Oh, the humanity!', was broadcast the next day. Confidence in passenger airships collapsed and the era of large rigid airships soon ended. Most investigators conclude that a spark, probably from static electricity after a stormy flight, ignited hydrogen leaking near the stern.",
+   "alternatives": [
+    {
+     "label": "Sabotage?",
+     "text": "At the time many, including Hugo Eckener, the former head of the Zeppelin company, suspected sabotage, possibly by opponents of the Nazi regime. No proof of a bomb was found."
+    },
+    {
+     "label": "The paint theory",
+     "text": "In 1996 the retired NASA scientist Addison Bain proposed that the airship's outer coating was highly flammable and was the main cause, rather than the hydrogen. Other researchers have contested this, and the theory is disputed."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Hindenburg disaster",
+     "url": "https://en.wikipedia.org/wiki/Hindenburg_disaster",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: LZ 129 Hindenburg",
+     "url": "https://en.wikipedia.org/wiki/LZ_129_Hindenburg",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Herbert Morrison (journalist)",
+     "url": "https://en.wikipedia.org/wiki/Herbert_Morrison_(journalist)",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Hindenburg_disaster.jpg/500px-Hindenburg_disaster.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Hindenburg_disaster.jpg",
+     "author": "Sam Shere",
+     "license": "Public domain",
+     "title": "Hindenburg_disaster.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "catastrophes"
+   ],
+   "threads": [
+    "science-gone-wrong",
+    "wires-and-waves"
+   ]
+  },
+  {
+   "id": "san-francisco-1906",
+   "title": "San Francisco 1906: the earthquake, the fire, and the hidden death toll",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1906,
+   "end": null,
+   "evidenceTypes": [
+    "documentary",
+    "photographic",
+    "geological"
+   ],
+   "mainstream": "At about 5:12 in the morning on 18 April 1906 a great earthquake, estimated at magnitude 7.9, ruptured about 470 km of the San Andreas Fault in northern California. In San Francisco, broken gas and water mains led to fires that burned for several days, and more than 80 percent of the city was destroyed. It is the deadliest earthquake in United States history. Studying how the ground had shifted, the geologist Harry Fielding Reid proposed the elastic-rebound theory, which explains earthquakes as the sudden release of strain built up along a fault.",
+   "alternatives": [
+    {
+     "label": "Deaths played down",
+     "text": "Officials at the time reported a few hundred deaths, partly to protect the city's reputation and property values. Research by the city historian Gladys Hansen and others raised the total to more than 3,000, a figure the city's Board of Supervisors later formally recognised."
+    },
+    {
+     "label": "Quake or fire?",
+     "text": "Many insurance policies covered fire but not earthquake damage. Historians note that some owners set fire to their own damaged buildings so they could claim."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: 1906 San Francisco earthquake",
+     "url": "https://en.wikipedia.org/wiki/1906_San_Francisco_earthquake",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Elastic-rebound theory",
+     "url": "https://en.wikipedia.org/wiki/Elastic-rebound_theory",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: San Andreas Fault",
+     "url": "https://en.wikipedia.org/wiki/San_Andreas_Fault",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Post-and-Grant-Avenue-Look.jpg/500px-Post-and-Grant-Avenue-Look.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Post-and-Grant-Avenue-Look.jpg",
+     "author": "Chadwick, H. D",
+     "license": "Public domain",
+     "title": "Post-and-Grant-Avenue-Look.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "catastrophes",
+    "science-cosmos"
+   ],
+   "threads": [
+    "changed-understanding",
+    "earthquake-lore",
+    "secrets-kept-for-decades"
+   ]
+  },
+  {
+   "id": "mount-st-helens-1980",
+   "title": "Mount St Helens (1980): the mountain of the Klickitat legend explodes sideways",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1980,
+   "end": null,
+   "evidenceTypes": [
+    "geological",
+    "documentary",
+    "oral tradition"
+   ],
+   "mainstream": "On 18 May 1980 at 8:32 am an earthquake beneath Mount St Helens in Washington State caused its bulging north face to collapse in the largest landslide in recorded history. The sudden release of pressure produced a sideways blast that flattened forests over hundreds of square kilometres, followed by an eruption column about 24 km high. About 57 people were killed, including the volcanologist David Johnston, who radioed 'Vancouver! Vancouver! This is it!', and Harry R. Truman, an 83-year-old lodge owner who refused to leave. The eruption greatly improved scientific understanding of lateral blasts and volcanic landslides.",
+   "alternatives": [
+    {
+     "label": "Loowit and the Bridge of the Gods",
+     "text": "In a Klickitat legend the two sons of the great spirit, Pahto and Wy'east, fought over a beautiful maiden named Loowit, throwing fire and rocks and shaking the earth until the Bridge of the Gods across the Columbia River fell. All three were turned into mountains: Mount Adams, Mount Hood and Mount St Helens."
+    },
+    {
+     "label": "A memory in the legend?",
+     "text": "Geologists have found that a huge landslide, the Bonneville Slide, did dam the Columbia River a few centuries ago, creating a natural land bridge that later washed away. Many see the legend as a memory of this event and of volcanic activity in the Cascades; the exact link is debated."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: 1980 eruption of Mount St. Helens",
+     "url": "https://en.wikipedia.org/wiki/1980_eruption_of_Mount_St._Helens",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Bridge of the Gods (land bridge)",
+     "url": "https://en.wikipedia.org/wiki/Bridge_of_the_Gods_(land_bridge)",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: David A. Johnston",
+     "url": "https://en.wikipedia.org/wiki/David_A._Johnston",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/MSH80_eruption_mount_st_helens_05-18-80-dramatic-edit.jpg/500px-MSH80_eruption_mount_st_helens_05-18-80-dramatic-edit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:MSH80_eruption_mount_st_helens_05-18-80-dramatic-edit.jpg",
+     "author": "Austin Post",
+     "license": "Public domain",
+     "title": "MSH80_eruption_mount_st_helens_05-18-80-dramatic-edit.jpg"
+    }
+   ],
+   "categories": [
+    "catastrophes",
+    "science-cosmos",
+    "myth-legend"
+   ],
+   "threads": [
+    "changed-understanding",
+    "deep-oral-memory",
+    "volcanoes-and-memory",
+    "petrified-beings",
+    "native-north-america",
+    "pacific-northwest"
+   ]
+  },
+  {
+   "id": "db-cooper-1971",
+   "title": "D. B. Cooper (1971): the hijacker who jumped into the night",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 1971,
+   "end": null,
+   "evidenceTypes": [
+    "documentary",
+    "forensic"
+   ],
+   "mainstream": "On 24 November 1971 a man who bought a ticket as 'Dan Cooper' hijacked Northwest Orient Airlines Flight 305 between Portland and Seattle, saying he had a bomb. In Seattle he exchanged the passengers for a ransom of 200,000 US dollars and four parachutes, then ordered the plane to fly towards Mexico. Somewhere over south-western Washington he lowered the rear airstair and jumped. He was never found or identified, and a press mistake gave him the name 'D. B. Cooper'. In February 1980 an eight-year-old boy, Brian Ingram, found bundles of decaying ransom bills on a beach on the Columbia River. The FBI suspended its active investigation in 2016.",
+   "alternatives": [
+    {
+     "label": "Did he survive?",
+     "text": "The FBI considered it likely that he died in the jump, at night, in rain, over rough forest. Others point to the money found in 1980 and dozens of named suspects as reasons to think he may have lived; no theory has been proven."
+    },
+    {
+     "label": "The Cooper vane",
+     "text": "After copycat hijackings in 1972, US authorities required Boeing 727s to be fitted with a simple device, nicknamed the \"Cooper vane\", that stops the rear stairs from being lowered in flight."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: D. B. Cooper",
+     "url": "https://en.wikipedia.org/wiki/D._B._Cooper",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Boeing 727",
+     "url": "https://en.wikipedia.org/wiki/Boeing_727",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/CompositeB-FBI-1973.jpg/500px-CompositeB-FBI-1973.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:CompositeB-FBI-1973.jpg",
+     "author": "Roy Rose",
+     "license": "Public domain",
+     "title": "CompositeB-FBI-1973.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "anomalies"
+   ],
+   "threads": [
+    "disappearances",
+    "modern-legends",
+    "unsolved-crimes"
+   ]
+  },
+  {
+   "id": "black-shuck-1577",
+   "title": "Black Shuck: the devil dog in the Suffolk churches (1577)",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 1577,
+   "end": null,
+   "evidenceTypes": [
+    "documentary",
+    "folklore"
+   ],
+   "mainstream": "Black Shuck is the name of a ghostly black dog with fiery eyes in the folklore of East Anglia, England. The most famous account dates from Sunday 4 August 1577, when a violent thunderstorm struck the churches of Bungay and Blythburgh in Suffolk during services. A pamphlet by Abraham Fleming, A Straunge and Terrible Wunder, described a black dog that ran through Bungay church, killing two worshippers and harming others; at Blythburgh the church tower is said to have collapsed through the roof. Scorch marks on Blythburgh's north door are known locally as the 'devil's fingerprints'.",
+   "alternatives": [
+    {
+     "label": "Lightning",
+     "text": "Most historians interpret the event as a severe thunderstorm with lightning strikes on the two churches, which people of the time described in religious terms as a sign from God or the devil. Some writers suggest ball lightning."
+    },
+    {
+     "label": "Black dogs everywhere",
+     "text": "Black dog apparitions appear in folklore across Britain and beyond, and are often linked to death omens, crossroads and churchyards. They are thought to have inspired Arthur Conan Doyle's The Hound of the Baskervilles."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Black Shuck",
+     "url": "https://en.wikipedia.org/wiki/Black_Shuck",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Black dog (folklore)",
+     "url": "https://en.wikipedia.org/wiki/Black_dog_(folklore)",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Holy Trinity Church, Blythburgh",
+     "url": "https://en.wikipedia.org/wiki/Holy_Trinity_Church%2C_Blythburgh",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Holy_Trinity_church%2C_Blyhburgh.jpg/500px-Holy_Trinity_church%2C_Blyhburgh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Holy_Trinity_church,_Blyhburgh.jpg",
+     "author": "Unknown",
+     "license": "CC BY-SA 3.0",
+     "title": "Holy_Trinity_church,_Blyhburgh.jpg"
+    }
+   ],
+   "categories": [
+    "anomalies",
+    "myth-legend",
+    "religion"
+   ],
+   "threads": [
+    "cryptids",
+    "modern-legends",
+    "curses-and-hauntings",
+    "storm-raisers",
+    "fortean-phenomena"
+   ]
+  },
+  {
+   "id": "lusitania-1915",
+   "title": "The Lusitania (1915): a sinking, a second explosion and a conspiracy theory",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1915,
+   "end": null,
+   "evidenceTypes": [
+    "documentary",
+    "underwater archaeology"
+   ],
+   "mainstream": "On 7 May 1915 the British liner Lusitania, sailing from New York to Liverpool, was torpedoed by the German submarine U-20 off the southern coast of Ireland. A second explosion followed inside the ship, and it sank in 18 minutes. Of the 1,960 people aboard, 1,197 died, including about 128 Americans. Germany had declared the waters around Britain a war zone, and its embassy had placed warnings in US newspapers. The ship was carrying a cargo of rifle ammunition and shell parts. The sinking turned opinion against Germany and contributed to US entry into the war almost two years later, in April 1917.",
+   "alternatives": [
+    {
+     "label": "Set up to be sunk?",
+     "text": "Some writers argue that the British government, with Winston Churchill at the Admiralty, deliberately left the Lusitania exposed to draw the United States into the war, pointing to a letter in which Churchill wrote of the importance of attracting neutral shipping, \"in the hope especially of embroiling the United States with Germany\". Mainstream historians generally reject a deliberate plot, describing a combination of British mistakes and German policy."
+    },
+    {
+     "label": "What caused the second blast?",
+     "text": "Explanations include exploding munitions, a coal-dust explosion and a boiler or steam-line explosion. Dives to the wreck have not settled the question."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Sinking of RMS Lusitania",
+     "url": "https://en.wikipedia.org/wiki/Sinking_of_RMS_Lusitania",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: RMS Lusitania",
+     "url": "https://en.wikipedia.org/wiki/RMS_Lusitania",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Bundesarchiv_DVM_10_Bild-23-61-17%2C_Untergang_der_%22Lusitania%22.jpg/500px-Bundesarchiv_DVM_10_Bild-23-61-17%2C_Untergang_der_%22Lusitania%22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_DVM_10_Bild-23-61-17,_Untergang_der_%22Lusitania%22.jpg",
+     "author": "UnknownUnknown",
+     "license": "CC BY-SA 3.0 de",
+     "title": "Bundesarchiv_DVM_10_Bild-23-61-17,_Untergang_der_\"Lusitania\".jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "catastrophes"
+   ],
+   "threads": [
+    "sea-mysteries",
+    "secrets-kept-for-decades",
+    "rumour-and-disinformation"
+   ]
+  },
+  {
+   "id": "zodiac-killer",
+   "title": "The Zodiac Killer: a cipher solved after 51 years, a killer never named",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1968,
+   "end": 1974,
+   "evidenceTypes": [
+    "documentary",
+    "forensic",
+    "cryptographic"
+   ],
+   "mainstream": "Between December 1968 and October 1969 an unidentified killer murdered at least five people in the San Francisco Bay Area, attacking three couples and a taxi driver; two victims survived. He sent taunting letters and coded messages to newspapers, signing himself 'the Zodiac'. A 408-symbol cipher was solved within days in 1969 by Donald and Bettye Harden, a couple in Salinas. A 340-symbol cipher resisted the FBI and amateur codebreakers until December 2020, when it was solved by David Oranchak, Sam Blake and Jarl Van Eycke using computer analysis. Neither message revealed his name, and the case remains open.",
+   "alternatives": [
+    {
+     "label": "Many suspects",
+     "text": "Dozens of people have been put forward as the Zodiac; the most investigated, Arthur Leigh Allen, was never charged and DNA comparisons have not confirmed him. Claims to have solved the case appear regularly and have not been accepted by police."
+    }
+   ],
+   "changed": "1969: Z408 solved by the Hardens. 2020: Z340 solved. Identity still unknown.",
+   "sources": [
+    {
+     "title": "Wikipedia: Zodiac Killer",
+     "url": "https://en.wikipedia.org/wiki/Zodiac_Killer",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Arthur Leigh Allen",
+     "url": "https://en.wikipedia.org/wiki/Arthur_Leigh_Allen",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Zodiac-Killer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Zodiac-Killer.jpg",
+     "author": "San Francisco Police Department",
+     "license": "Public domain",
+     "title": "Zodiac-Killer.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "anomalies"
+   ],
+   "threads": [
+    "ciphers-and-codes",
+    "unsolved-crimes"
+   ]
+  },
+  {
+   "id": "jack-the-ripper-1888",
+   "title": "Jack the Ripper (1888): the killer named by a hoax letter",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1888,
+   "end": null,
+   "evidenceTypes": [
+    "documentary",
+    "forensic"
+   ],
+   "mainstream": "Between August and November 1888 five women were murdered in the Whitechapel district of London's East End: Mary Ann Nichols, Annie Chapman, Elizabeth Stride, Catherine Eddowes and Mary Jane Kelly. They are known as the 'canonical five', though police files include other killings. The press coverage was enormous. The name 'Jack the Ripper' came from the 'Dear Boss' letter sent to a news agency, which many historians believe was a hoax written by a journalist to sell newspapers. Another, the 'From Hell' letter, arrived with half a preserved human kidney. The killer was never caught, and more than 100 suspects have been proposed.",
+   "alternatives": [
+    {
+     "label": "DNA claims",
+     "text": "DNA analyses have been used to link a shawl to the Polish barber Aaron Kosminski, and letters to the painter Walter Sickert. The methods behind these claims, which contradict each other, have been strongly criticised."
+    },
+    {
+     "label": "The victims' stories",
+     "text": "The historian Hallie Rubenhold's book The Five (2019) argued that the victims' lives had been misrepresented and that several were not sex workers, as usually assumed. Some Ripper researchers dispute her conclusions."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Jack the Ripper",
+     "url": "https://en.wikipedia.org/wiki/Jack_the_Ripper",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Jack the Ripper suspects",
+     "url": "https://en.wikipedia.org/wiki/Jack_the_Ripper_suspects",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Whitechapel murders",
+     "url": "https://en.wikipedia.org/wiki/Whitechapel_murders",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/JacktheRipper1888.jpg/500px-JacktheRipper1888.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:JacktheRipper1888.jpg",
+     "author": "R. Taylor (R. & E. Taylor (Firm))",
+     "license": "Public domain",
+     "title": "JacktheRipper1888.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "hoaxes"
+   ],
+   "threads": [
+    "unsolved-crimes",
+    "moral-panics-and-warnings",
+    "media-hoaxes",
+    "rumour-and-disinformation"
+   ]
   }
  ]
 }
