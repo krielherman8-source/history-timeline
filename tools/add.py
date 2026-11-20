@@ -52,6 +52,7 @@ def run(E):
       except Exception as ex: log.append(f"{e['id']}: image FAILED {ex}")
     o=dict(id=e['id'],title=e['title'],lane=e['lane'],status=e['status'],priority=e['priority'],start=e['start'],end=e.get('end'))
     if e.get('dateNote'): o['dateNote']=e['dateNote']
+    if e.get('statusNote'): o['statusNote']=e['statusNote']
     o.update(evidenceTypes=e['ev'],mainstream=e['main'],alternatives=[dict(label=a,text=b) for a,b in e['alts']])
     if e.get('changed'): o['changed']=e['changed']
     o['sources']=srcs;o['media']=media;out.append(o)
@@ -61,7 +62,8 @@ def run(E):
 if __name__=='__main__':
   mod=importlib.import_module(sys.argv[1]);lo,hi=int(sys.argv[2]),int(sys.argv[3])
   p='../entries.json';d=json.load(open(p));have={e['id'] for e in d['entries']}
-  todo=[e for e in mod.E[lo:hi] if e['id'] not in have]
+  from merged import MERGED
+  todo=[e for e in mod.E[lo:hi] if e['id'] not in have and e['id'] not in MERGED]
   out,log=run(todo);import tags;tags.apply(out)
   d['entries']+=out;json.dump(d,open(p,'w'),ensure_ascii=False,indent=1)
   open('../data.js','w').write('// generated from entries.json - do not edit\nwindow.TIMELINE_DATA='+json.dumps(d,ensure_ascii=False)+';\n')

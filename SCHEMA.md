@@ -6,8 +6,8 @@ Filter choices persist in the browser (localStorage key `tl-filters`). Bump `?v=
 Scale: x = log10(years before now + 1), with "now" computed from the browser clock (fractional year), so the present is reachable and recent decades zoom linearly-ish.
 
 Entry fields:
-- `id` (unique), `title`, `lane`: `"history"` | `"myth"` (marker shape: circle / diamond)
-- `status`: `confirmed` | `disputed` | `hypothesis` | `debunked` | `myth-legend` (marker colour + badge)
+- `id` (unique; merged/removed ids are listed in `tools/merged.py` and must not be reused), `title`, `lane`: `"history"` | `"myth"` (marker shape: circle / diamond)
+- `status`: `confirmed` | `disputed` | `hypothesis` | `debunked` | `myth-legend` (marker colour + badge); optional `statusNote` (short text shown next to the badge when parts of an entry differ in status, e.g. event confirmed but interpretation disputed)
 - `priority`: 1 (always labelled) | 2 (mid zoom) | 3 (close zoom only)
 - `start`, `end` (year; negative = BCE; `end` may be null), optional `dateNote`
 - `categories` (REQUIRED, ≥1): any of `history`, `science-cosmos`, `archaeology`, `myth-legend`, `religion`, `aliens-ufo`, `anomalies`, `lost-civilisations`, `catastrophes`, `hoaxes` (drives the filter panel; add new keys to `CATS` in app.js)

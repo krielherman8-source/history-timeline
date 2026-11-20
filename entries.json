@@ -8589,7 +8589,9 @@
    ],
    "threads": [
     "changed-understanding",
-    "ice-age-burials"
+    "ice-age-burials",
+    "dating-the-past",
+    "repatriation-debates"
    ]
   },
   {
@@ -20280,14 +20282,15 @@
    "title": "The Kecksburg \"acorn\": Pennsylvania's Roswell (1965)",
    "lane": "history",
    "status": "disputed",
-   "priority": 3,
+   "priority": 2,
    "start": 1965,
    "end": null,
    "dateNote": "9 December 1965",
    "evidenceTypes": [
     "eyewitness reports",
     "astronomical records",
-    "FOIA documents"
+    "FOIA documents",
+    "documentary"
    ],
    "mainstream": "On 9 December 1965 a brilliant fireball was seen across six US states and Ontario, and residents of Kecksburg, Pennsylvania, reported something falling into nearby woods. Some locals later said they had seen an acorn-shaped object about the size of a Volkswagen Beetle, with a band of writing like hieroglyphs, which soldiers removed under guard. In 2005 NASA said experts had examined fragments from the area and found they came from a re-entering Soviet satellite, but that the records had been lost in the 1980s; after a Freedom of Information lawsuit by journalist Leslie Kean, a court ordered NASA in 2007 to search again, and NASA reported missing boxes of papers.",
    "alternatives": [
@@ -20301,7 +20304,11 @@
     },
     {
      "label": "Secret recovery (speculative)",
-     "text": "Ufologists suggest an alien craft or a classified US spy re-entry capsule was recovered by the military; no documents confirming a recovery have been released."
+     "text": "Ufologists suggest an alien craft or a classified US spy re-entry capsule was recovered by the military; no documents confirming a recovery have been released. The MUFON investigator John Ventre has suggested a General Electric Mark 2 re-entry vehicle from a US spy satellite programme; he has said confirmation from NASA or the Air Force is still needed."
+    },
+    {
+     "label": "Memory and media",
+     "text": "Sceptics argue that a brilliant but ordinary fireball was embellished over decades of retelling and television coverage, and note that contemporary newspapers reported that searchers found nothing ('Searchers Fail to Find Object'); the acorn shape may be a detail that grew in the telling."
     }
    ],
    "sources": [
@@ -20323,7 +20330,8 @@
    ],
    "categories": [
     "aliens-ufo",
-    "anomalies"
+    "anomalies",
+    "history"
    ],
    "threads": [
     "ufo-encounters",
@@ -24913,9 +24921,10 @@
    "evidenceTypes": [
     "military records",
     "newspaper",
-    "photographic"
+    "photographic",
+    "textual"
    ],
-   "mainstream": "On the night of 24–25 February 1942, less than three months after Pearl Harbor and one day after a Japanese submarine shelled an oil field near Santa Barbara, air-raid sirens sounded across Los Angeles. Searchlights swept the sky and anti-aircraft batteries fired about 1,400 shells for roughly an hour at reported enemy aircraft. No bombs fell and no aircraft were shot down; five deaths were attributed to the event (traffic accidents and heart attacks), and falling shell fragments damaged buildings. Navy Secretary Frank Knox called it a false alarm caused by \"jittery nerves\"; the Army maintained that unidentified aircraft had been present. A widely reproduced Los Angeles Times photograph shows searchlights converging on an object.",
+   "mainstream": "On the night of 24–25 February 1942, less than three months after Pearl Harbor and one day after a Japanese submarine shelled an oil field near Santa Barbara, air-raid sirens sounded across Los Angeles. Searchlights swept the sky and anti-aircraft batteries fired about 1,400 shells for roughly an hour at reported enemy aircraft. No bombs fell and no aircraft were shot down; five deaths were attributed to the event (traffic accidents and heart attacks), and falling shell fragments damaged buildings. Navy Secretary Frank Knox called it a false alarm caused by \"jittery nerves\"; the Army maintained that unidentified aircraft had been present. In 1949 the US Coast Artillery Association concluded that a weather balloon released at 1 a.m. had \"started all the shooting\", and a 1983 Office of Air Force History study attributed the event to \"war nerves\" triggered by a lost weather balloon and made worse by stray flares and shell bursts. The air-raid alarm and anti-aircraft barrage are documented fact; what, if anything, was in the sky remains disputed. A widely reproduced Los Angeles Times photograph shows searchlights converging on an object.",
    "alternatives": [
     {
      "label": "War nerves",
@@ -24928,6 +24937,10 @@
     {
      "label": "A retouched photo",
      "text": "The newspaper photograph was heavily retouched before publication, as was common at the time; the darkroom work makes the \"object\" look more solid than in the original negative."
+    },
+    {
+     "label": "Cover-up of a Japanese raid",
+     "text": "At the time some newspapers suspected the government was hiding a real enemy attack. After the war the Japanese government stated that it had flown no aircraft over Los Angeles."
     }
    ],
    "sources": [
@@ -24956,8 +24969,10 @@
     "ufo-encounters",
     "collective-experiences",
     "seeing-what-we-expect",
-    "modern-legends"
-   ]
+    "modern-legends",
+    "anomalous-photos"
+   ],
+   "statusNote": "Event confirmed; what was seen disputed"
   },
   {
    "id": "eddington-1919",
@@ -33041,7 +33056,7 @@
     },
     {
      "label": "Helicopters, radar and psychology",
-     "text": "Sceptics, including Brian Dunning, argue that the first report probably described a helicopter, that the F-16 radar locks were on each other or due to atmospheric interference, and that the wave grew through media coverage as a psychosocial phenomenon."
+     "text": "Sceptics, including Brian Dunning, argue that the first report probably described a helicopter, that the F-16 radar locks were on each other or due to atmospheric interference, and that the wave grew through media coverage as a psychosocial phenomenon. Later analyses also questioned the interpretation of the radar data."
     },
     {
      "label": "Secret aircraft",
@@ -33076,6 +33091,7 @@
     "collective-experiences",
     "mysterious-lights",
     "seeing-what-we-expect",
+    "cold-war-secrets",
     "official-ufo-investigations",
     "radar-cases"
    ]
@@ -43958,56 +43974,6 @@
    ]
   },
   {
-   "id": "kecksburg-ufo",
-   "title": "Kecksburg UFO incident (1965)",
-   "lane": "history",
-   "status": "disputed",
-   "priority": 2,
-   "start": 1965,
-   "end": null,
-   "evidenceTypes": [
-    "eyewitness",
-    "documentary"
-   ],
-   "mainstream": "On 9 December 1965 a fireball was seen across the Great Lakes and northeastern US; residents of Kecksburg, Pennsylvania, reported an acorn-shaped object in the woods and a military recovery. The US Air Force listed it as a meteor; later FOIA-related attention and a NASA statement about a retrieved object that was not a spacecraft kept controversy alive. Unresolved claims include a Soviet Venus probe (Kosmos 96) re-entry—timeline problematic—or a secret US device.",
-   "alternatives": [
-    {
-     "label": "Alien craft",
-     "text": "Local lore and TV specials favour a non-human vehicle under military seal; hard public evidence is lacking."
-    },
-    {
-     "label": "Meteor only",
-     "text": "Sceptics argue eyewitness embellishment layered onto a brilliant fireball; the acorn shape may be folkloric crystallisation."
-    }
-   ],
-   "sources": [
-    {
-     "title": "Wikipedia: Kecksburg UFO incident",
-     "url": "https://en.wikipedia.org/wiki/Kecksburg_UFO_incident",
-     "type": "encyclopedia"
-    }
-   ],
-   "media": [
-    {
-     "type": "image",
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Kecksburg_UFO.JPG/500px-Kecksburg_UFO.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:Kecksburg_UFO.JPG",
-     "author": "Ryright",
-     "license": "CC BY-SA 3.0",
-     "title": "Kecksburg_UFO.JPG"
-    }
-   ],
-   "categories": [
-    "aliens-ufo",
-    "anomalies",
-    "history"
-   ],
-   "threads": [
-    "ufo-encounters",
-    "cold-war-secrets"
-   ]
-  },
-  {
    "id": "london-hammer",
    "title": "London Hammer (London Artifact)",
    "lane": "history",
@@ -46083,47 +46049,6 @@
      "title": "BrunswickAutumn.JPG"
     }
    ],
-   "categories": [
-    "aliens-ufo",
-    "anomalies"
-   ],
-   "threads": [
-    "ufo-encounters",
-    "seeing-what-we-expect",
-    "cold-war-secrets"
-   ]
-  },
-  {
-   "id": "belgium-wave-1989-90",
-   "title": "Belgian UFO wave (1989–90)",
-   "lane": "history",
-   "status": "disputed",
-   "priority": 2,
-   "start": 1989,
-   "end": null,
-   "dateNote": "Peak 1989–1990",
-   "evidenceTypes": [
-    "testimonial"
-   ],
-   "mainstream": "From November 1989 through 1990, Belgium experienced a wave of reports of large silent triangular craft, including a well-known 30 March 1990 night when Belgian Air Force F-16s were scrambled after radar locks. SOBEPS and official statements fuelled international attention; later analyses disputed radar interpretations and photograph authenticity (notably a famous triangular object photo). The wave remains contested.",
-   "alternatives": [
-    {
-     "label": "Radar-visual confirmation",
-     "text": "Supporters cite military radar and pilot reports; sceptics argue locks were spurious or conventional and photos were faked or misread."
-    },
-    {
-     "label": "NATO black-project aircraft",
-     "text": "Another mundane hypothesis posits secret terrestrial aircraft tests during the late Cold War."
-    }
-   ],
-   "sources": [
-    {
-     "title": "Wikipedia: Belgian UFO wave",
-     "url": "https://en.wikipedia.org/wiki/Belgian_UFO_wave",
-     "type": "encyclopedia"
-    }
-   ],
-   "media": [],
    "categories": [
     "aliens-ufo",
     "anomalies"
@@ -56542,6 +56467,7 @@
     "anomalies"
    ],
    "threads": [
+    "lost-evidence",
     "strange-sounds",
     "underground-worlds",
     "megalithic-europe",
@@ -59964,57 +59890,6 @@
    "threads": [
     "ufo-encounters",
     "hoaxes-exposed",
-    "anomalous-photos"
-   ]
-  },
-  {
-   "id": "battle-of-los-angeles",
-   "title": "The 'Battle of Los Angeles' (1942): anti-aircraft fire at an enemy that wasn't there",
-   "lane": "history",
-   "status": "confirmed",
-   "priority": 2,
-   "start": 1942,
-   "end": null,
-   "evidenceTypes": [
-    "textual"
-   ],
-   "mainstream": "In the early hours of 25 February 1942, less than three months after Pearl Harbor and a day after a Japanese submarine shelled an oil field near Santa Barbara, sirens sounded across Los Angeles and anti-aircraft guns fired more than 1,400 shells into the sky at reported enemy aircraft. No planes were shot down and no bombs fell, but five civilians died from falling shell fragments, car accidents and heart attacks. Navy Secretary Frank Knox called it a false alarm; a 1983 Office of Air Force History study attributed it to 'war nerves' set off by a weather balloon and made worse by flares and shell bursts.",
-   "alternatives": [
-    {
-     "label": "An early UFO",
-     "text": "Since the 1980s ufologists have cited a retouched Los Angeles Times photograph of searchlights converging on an object as evidence of an alien craft; the newspaper itself later showed the image had been heavily retouched."
-    },
-    {
-     "label": "Cover-up of a Japanese raid",
-     "text": "At the time some newspapers suspected the government was hiding a real enemy attack; Japanese records show no aircraft were sent."
-    }
-   ],
-   "sources": [
-    {
-     "title": "Wikipedia: Battle of Los Angeles",
-     "url": "https://en.wikipedia.org/wiki/Battle_of_Los_Angeles",
-     "type": "encyclopedia"
-    }
-   ],
-   "media": [
-    {
-     "type": "image",
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Battle_of_Los_Angeles_LATimes.jpg/500px-Battle_of_Los_Angeles_LATimes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:Battle_of_Los_Angeles_LATimes.jpg",
-     "author": "LA Times.",
-     "license": "Public domain",
-     "title": "Battle_of_Los_Angeles_LATimes.jpg"
-    }
-   ],
-   "categories": [
-    "history",
-    "anomalies",
-    "aliens-ufo"
-   ],
-   "threads": [
-    "ufo-encounters",
-    "collective-experiences",
-    "seeing-what-we-expect",
     "anomalous-photos"
    ]
   },
@@ -73322,6 +73197,521 @@
     "moral-panics-and-warnings",
     "media-hoaxes",
     "rumour-and-disinformation"
+   ]
+  },
+  {
+   "id": "nevali-cori",
+   "title": "Nevalı Çori: a stone-age cult building now under a reservoir",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -8400,
+   "end": -8100,
+   "evidenceTypes": [
+    "archaeological"
+   ],
+   "mainstream": "Nevalı Çori was an early Neolithic settlement on the middle Euphrates in Şanlıurfa Province, south-eastern Turkey, dated to the Pre-Pottery Neolithic B, about 8400–8100 BCE. It is one of the 'Taş Tepeler' sites, together with the earlier Göbekli Tepe. A team from the University of Heidelberg led by Harald Hauptmann excavated it from 1983 to 1991 as a rescue dig before the Atatürk Dam was built; the site has since been flooded. Finds include a cult building with a terrazzo-like lime floor, some of the earliest known life-size limestone sculptures, including a bare human head with a snake-like tuft and a bird statue, skulls deposited in houses, and some of the oldest domesticated einkorn wheat.",
+   "alternatives": [
+    {
+     "label": "Temple or meeting house?",
+     "text": "The excavators interpreted the special building as a cult or temple building, a reading widely accepted alongside Göbekli Tepe; some archaeologists prefer neutral terms such as communal or special buildings, since what happened inside is not recorded."
+    },
+    {
+     "label": "Lost to the water",
+     "text": "Like many sites in the area, Nevalı Çori was excavated only because a dam was coming; the parts not dug are now beyond reach under the reservoir, so its full layout will never be known."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Nevalı Çori",
+     "url": "https://en.wikipedia.org/wiki/Neval%C4%B1_%C3%87ori",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Taş Tepeler",
+     "url": "https://en.wikipedia.org/wiki/Ta%C5%9F_Tepeler",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Urfa_museum_Neval%C4%B1_%C3%87ori_Diorama_4862.jpg/500px-Urfa_museum_Neval%C4%B1_%C3%87ori_Diorama_4862.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Urfa_museum_Neval%C4%B1_%C3%87ori_Diorama_4862.jpg",
+     "author": "Dosseman",
+     "license": "CC BY-SA 4.0",
+     "title": "Urfa museum Nevalı Çori Diorama 4862.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history",
+    "religion"
+   ],
+   "threads": [
+    "vanished-landscapes",
+    "first-art",
+    "gobekli-cluster",
+    "mesopotamia-and-anatolia",
+    "origins-of-farming"
+   ]
+  },
+  {
+   "id": "durrington-walls",
+   "title": "Durrington Walls: the giant henge next door to Stonehenge",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -2800,
+   "end": -2100,
+   "dateNote": "Settled for about 500 years, beginning between c. 2800 and 2100 BCE",
+   "evidenceTypes": [
+    "archaeological",
+    "geophysical survey"
+   ],
+   "mainstream": "Durrington Walls is a large Neolithic settlement and later henge enclosure 3.2 km north-east of Stonehenge in Wiltshire, England. Excavations by a University of Sheffield team in 2004–2006 found houses, and it has been suggested the settlement may once have held up to about 1,000 houses and perhaps 4,000 people, which would have made it briefly one of the largest settlements in northern Europe. A timber circle was oriented towards the midwinter-solstice sunrise, and a paved avenue led to the River Avon, which connected it with Stonehenge and its own avenue. In 2020 a geophysical survey identified a ring of large pits about 2 km across around the site.",
+   "alternatives": [
+    {
+     "label": "Land of the living and the dead",
+     "text": "The archaeologists who excavated the site proposed that Durrington, with its timber circle, was a place for the living and for feasting, complementary to the stone circle of Stonehenge as a monument to the dead; others treat this pairing as an attractive but unproven interpretation."
+    },
+    {
+     "label": "Britain's largest monument?",
+     "text": "If the 2020 interpretation of the pit ring as a deliberately dug Neolithic boundary is correct, it would be Britain's largest prehistoric monument; some researchers argue that many of the pits are natural sinkholes, and the question is still being tested."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Durrington Walls",
+     "url": "https://en.wikipedia.org/wiki/Durrington_Walls",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Stonehenge Riverside Project",
+     "url": "https://en.wikipedia.org/wiki/Stonehenge_Riverside_Project",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Southern_Wall_of_Durrington_Walls.jpg/500px-Southern_Wall_of_Durrington_Walls.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Southern_Wall_of_Durrington_Walls.jpg",
+     "author": "Ethan Doyle White",
+     "license": "CC BY-SA 4.0",
+     "title": "Southern_Wall_of_Durrington_Walls.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history"
+   ],
+   "threads": [
+    "giant-monuments",
+    "ancient-astronomy",
+    "stone-circles",
+    "sun-cults",
+    "megalithic-europe"
+   ]
+  },
+  {
+   "id": "banpo",
+   "title": "Banpo: a Neolithic village made to fit a theory of matriarchy",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 3,
+   "start": -4500,
+   "end": null,
+   "dateNote": "Yangshao culture c. 5000–3000 BCE; Banpo belongs to its first phase",
+   "evidenceTypes": [
+    "archaeological"
+   ],
+   "mainstream": "Banpo is a Neolithic site in the Yellow River valley east of Xi'an, China, discovered in 1953 and belonging to the first phase of the Yangshao culture (c. 5000–3000 BCE). It was a moated village of round and semi-subterranean houses of mud and timber with thatched roofs, with cemeteries and pottery kilns outside the ditch; population estimates range from about 100 to 500. Its painted pottery, decorated with geometric designs, fish and human-like faces, is among the best-known Neolithic art of China, and the site became one of China's first on-site museums.",
+   "alternatives": [
+    {
+     "label": "A matriarchy?",
+     "text": "At the time of excavation, Friedrich Engels' theory that early societies were matriarchal shaped Chinese archaeology, and the excavators presented Banpo as matrilineal, citing gender-segregated collective burials and a lavish burial of a young girl."
+    },
+    {
+     "label": "A re-reading",
+     "text": "Later scholars argue that the evidence does not demonstrate matrilineal organisation and that the interpretation reflected the political doctrine of the time; early Banpo society is now generally described as broadly egalitarian."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Banpo",
+     "url": "https://en.wikipedia.org/wiki/Banpo",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Yangshao culture",
+     "url": "https://en.wikipedia.org/wiki/Yangshao_culture",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Yangshao_Village_Diorama.jpg/500px-Yangshao_Village_Diorama.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Yangshao_Village_Diorama.jpg",
+     "author": "Gary Todd",
+     "license": "CC0",
+     "title": "Yangshao_Village_Diorama.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history"
+   ],
+   "threads": [
+    "changed-understanding",
+    "first-art",
+    "myths-about-history",
+    "origins-of-farming"
+   ]
+  },
+  {
+   "id": "talheim-death-pit",
+   "title": "The Talheim death pit: a Stone Age massacre in Germany",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -5000,
+   "end": null,
+   "evidenceTypes": [
+    "archaeological",
+    "osteological",
+    "isotopic"
+   ],
+   "mainstream": "In 1983 a mass grave of about 5000 BCE was found at Talheim in south-west Germany, in a settlement of the Linear Pottery (LBK) culture, Europe's first farmers. It held 34 people: 16 children, nine men, seven women and two adults of unknown sex. Their skulls show wounds from the sharp and blunt edges of LBK stone adzes and a few from arrows, and the lack of defensive injuries suggests they were killed while fleeing. The weapons and the skeletons point to an attack by other LBK people, and it is one of the earliest clear pieces of evidence for organised violence in Neolithic Europe.",
+   "alternatives": [
+    {
+     "label": "Why?",
+     "text": "Researchers suggest motives including land and resources in a time of crisis, vengeance, or the capture of women; isotope studies found fewer local women than men and children among the dead, which some interpret as women being taken captive rather than killed. These remain interpretations."
+    },
+    {
+     "label": "Peaceful first farmers?",
+     "text": "Talheim, together with similar LBK sites such as Schöneck-Kilianstädten and Asparn-Schletz, challenged an older picture of the first European farmers as peaceful; others caution against generalising from a handful of sites."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Talheim Death Pit",
+     "url": "https://en.wikipedia.org/wiki/Talheim_Death_Pit",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Linear Pottery culture",
+     "url": "https://en.wikipedia.org/wiki/Linear_Pottery_culture",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Infotafel_Massaker_von_Talheim.JPG/500px-Infotafel_Massaker_von_Talheim.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Infotafel_Massaker_von_Talheim.JPG",
+     "author": "Steak at German Wikipedia",
+     "license": "CC BY-SA 3.0",
+     "title": "Infotafel Massaker von Talheim.JPG"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history"
+   ],
+   "threads": [
+    "changed-understanding",
+    "origins-of-farming",
+    "prehistoric-violence"
+   ]
+  },
+  {
+   "id": "ness-of-brodgar",
+   "title": "The Ness of Brodgar: painted Stone Age temples, reburied in 2024",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -3500,
+   "end": -2200,
+   "evidenceTypes": [
+    "archaeological"
+   ],
+   "mainstream": "The Ness of Brodgar is a Neolithic complex on a strip of land between the Ring of Brodgar and the Stones of Stenness in Orkney, Scotland. Excavated from 2003 to 2024, it revealed large stone buildings, a wall about 6 metres thick and a building described as a Neolithic temple, with activity from about 3500 BCE. Some stones were painted red, yellow and orange with ochre, the earliest evidence in Britain of painted buildings, and the site produced stone roof tiles and hundreds of decorated stones. Around 2400–2200 BCE the large Structure 10 was 'closed' in a ceremony that left the shin bones of about 400 cattle. To protect it from crumbling, the site was reburied in August–September 2024.",
+   "alternatives": [
+    {
+     "label": "Centre of Neolithic Britain?",
+     "text": "Some archaeologists argue that Orkney was a source of innovations, such as grooved-ware pottery and the layout of later monuments, that spread south to Stonehenge; others see the influences as flowing in more than one direction."
+    },
+    {
+     "label": "A temple?",
+     "text": "The word temple reflects the excavators' view that the buildings were ceremonial rather than ordinary houses; their exact use is still debated."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Ness of Brodgar",
+     "url": "https://en.wikipedia.org/wiki/Ness_of_Brodgar",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Heart of Neolithic Orkney",
+     "url": "https://en.wikipedia.org/wiki/Heart_of_Neolithic_Orkney",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Ness_of_Brodgar_19_-_6.7.16.jpg/500px-Ness_of_Brodgar_19_-_6.7.16.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Ness_of_Brodgar_19_-_6.7.16.jpg",
+     "author": "S Marshall",
+     "license": "CC BY-SA 4.0",
+     "title": "Ness_of_Brodgar_19_-_6.7.16.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history",
+    "religion"
+   ],
+   "threads": [
+    "stone-circles",
+    "first-art",
+    "megalithic-europe"
+   ]
+  },
+  {
+   "id": "yamnaya-steppe",
+   "title": "The Yamnaya: steppe herders whose genes reached from Ireland to India",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": -3300,
+   "end": -2600,
+   "evidenceTypes": [
+    "archaeological",
+    "genetic",
+    "linguistic"
+   ],
+   "mainstream": "The Yamnaya, or Pit Grave, culture of the Pontic–Caspian steppe (c. 3300–2600 BCE) buried its dead in pits under mounds (kurgans) and lived by herding, using wheeled carts and wagons and, there is evidence, riding horses. Ancient-DNA studies since 2015 have shown that people with Yamnaya-related 'steppe ancestry' spread rapidly into Europe, where they contributed much of the ancestry of the Corded Ware culture, and their descendants later reached Central and South Asia. Many linguists link them to speakers of Proto-Indo-European, the ancestor of languages from English and Russian to Persian and Hindi.",
+   "alternatives": [
+    {
+     "label": "Kurgan hypothesis vs alternatives",
+     "text": "The widely accepted Kurgan (steppe) hypothesis places the Proto-Indo-European homeland on the steppe; the Anatolian hypothesis places it with early farmers in Anatolia, and some scholars propose a homeland south of the Caucasus. Genetic results have strengthened the steppe view without settling every detail."
+    },
+    {
+     "label": "How it happened",
+     "text": "How the spread took place is debated: through migration of whole communities, through warrior bands, or through disease. Some studies have found plague bacteria in Bronze Age steppe remains and suggested an epidemic eased the expansion; this remains a hypothesis."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Massive migration from the steppe was a source for Indo-European languages in Europe",
+     "authors": "Haak, W. et al.",
+     "year": 2015,
+     "doi": "10.1038/nature14317",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: Yamnaya culture",
+     "url": "https://en.wikipedia.org/wiki/Yamnaya_culture",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Steppe theory",
+     "url": "https://en.wikipedia.org/wiki/Steppe_theory",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Yamnaya_Culture.png/500px-Yamnaya_Culture.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Yamnaya_Culture.png",
+     "author": "Maptist",
+     "license": "CC0",
+     "title": "Yamnaya_Culture.png"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history",
+    "science-cosmos"
+   ],
+   "threads": [
+    "changed-understanding",
+    "ancestral-homelands",
+    "genetic-migrations",
+    "steppe-empires"
+   ]
+  },
+  {
+   "id": "taosi-observatory",
+   "title": "Taosi: a walled city and a 4,000-year-old solar observatory in China?",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": -2300,
+   "end": -1900,
+   "evidenceTypes": [
+    "archaeological",
+    "archaeoastronomical"
+   ],
+   "mainstream": "Taosi in southern Shanxi, China, is a large late Longshan site (c. 2300–1900 BCE) surrounded by a rammed-earth wall enclosing about 280 hectares, with an inner wall separating elite and commoner areas. In 2003–2004 archaeologists from the Chinese Academy of Social Sciences uncovered a semicircular structure of rammed-earth pillars with narrow gaps, and a central observation point. They argue that sunrises at the solstices and other key dates could be seen through the slots, making it the oldest known observatory in East Asia.",
+   "alternatives": [
+    {
+     "label": "Observatory",
+     "text": "Supporters, including field tests of sunrise alignments, see it as a calendar device; the scholar David Pankenier suggests that keeping such astronomical calendars may even have driven the invention of writing in China."
+    },
+    {
+     "label": "Caution",
+     "text": "Other researchers note that the structure survives only as foundations, so the original height and gaps must be reconstructed, and that alignments can be found by chance; Chinese tradition links Taosi with the sage-king Yao, an identification that cannot be tested without written records."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Taosi",
+     "url": "https://en.wikipedia.org/wiki/Taosi",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Excavation_of_Observatory_at_Taosi_%2810099227926%29.jpg/500px-Excavation_of_Observatory_at_Taosi_%2810099227926%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Excavation_of_Observatory_at_Taosi_(10099227926).jpg",
+     "author": "Gary Todd from Xinzheng, China",
+     "license": "CC0",
+     "title": "Excavation of Observatory at Taosi (10099227926).jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "science-cosmos",
+    "history"
+   ],
+   "threads": [
+    "ancient-astronomy",
+    "origins-of-writing",
+    "sun-cults",
+    "first-cities"
+   ]
+  },
+  {
+   "id": "dholavira",
+   "title": "Dholavira: the Indus city that harvested rain in stone reservoirs",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -2650,
+   "end": -1450,
+   "evidenceTypes": [
+    "archaeological"
+   ],
+   "mainstream": "Dholavira, on Khadir Bet island in the Great Rann of Kutch, Gujarat, is one of the five largest cities of the Indus (Harappan) Civilisation and was declared a UNESCO World Heritage Site in 2021. A local resident, Shambhudan Gadhvi, brought it to official attention in the 1960s. The 47-hectare city lay between two seasonal streams that were dammed at several points, and it had a system of channels and large stone-built reservoirs to collect and store rainwater, among the earliest such systems known. Occupation is usually dated from about 2650 BCE, with decline after 2100 BCE and final abandonment around 1450 BCE, though some recent research proposes occupation from about 3500 BCE. The city was hit by earthquakes, including a severe one around 2600 BCE.",
+   "alternatives": [
+    {
+     "label": "Earliest water engineering?",
+     "text": "The Archaeological Survey of India excavators praise its water system as advanced hydraulic engineering for the third millennium BCE; comparisons over which ancient system came first depend on how such structures are defined and dated."
+    },
+    {
+     "label": "The Indus signboard",
+     "text": "Dholavira is also known for a large inscription of ten Indus signs, sometimes called a signboard, found fallen near a gateway. Since the Indus script is undeciphered, what it said is unknown."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Dholavira",
+     "url": "https://en.wikipedia.org/wiki/Dholavira",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Indus Valley Civilisation",
+     "url": "https://en.wikipedia.org/wiki/Indus_Valley_Civilisation",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/DHOLAVIRA_SITE_%2824%29.jpg/500px-DHOLAVIRA_SITE_%2824%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:DHOLAVIRA_SITE_(24).jpg",
+     "author": "Lalit Gajjer",
+     "license": "CC BY-SA 4.0",
+     "title": "DHOLAVIRA_SITE_(24).jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history"
+   ],
+   "threads": [
+    "origins-of-writing",
+    "water-engineering",
+    "earthquake-lore",
+    "decipherments",
+    "gulf-and-indus-trade",
+    "first-cities"
+   ]
+  },
+  {
+   "id": "watson-brake",
+   "title": "Watson Brake: mounds older than the pyramids, built by hunter-gatherers",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -3500,
+   "end": -2800,
+   "evidenceTypes": [
+    "archaeological",
+    "radiocarbon"
+   ],
+   "mainstream": "Watson Brake, near Monroe in northern Louisiana, is an oval of eleven earthen mounds up to 7.6 m high, joined by ridges into a ring nearly 270 m across. A 1997 paper in Science by Joe Saunders and colleagues dated it to about 5,400–5,000 years ago, making it the oldest known mound complex in North America, older than Egypt's pyramids or Stonehenge, and about 1,900 years older than Poverty Point. It was built in stages over centuries by mobile hunter-gatherers, apparently used as a base from summer to autumn, and was abandoned around 2800 BCE.",
+   "alternatives": [
+    {
+     "label": "Overturning an assumption",
+     "text": "Before the dating, many archaeologists assumed that large earthworks required farming, settled villages and chiefs; Watson Brake showed that hunter-gatherers could organise such projects, a pattern echoed by Göbekli Tepe in Turkey."
+    },
+    {
+     "label": "Why build?",
+     "text": "Saunders's team suggested that building episodes coincided with periods of unpredictable rainfall linked to El Niño; the mounds' purpose, whether ceremonial, territorial or practical, is not known."
+    }
+   ],
+   "sources": [
+    {
+     "title": "A Mound Complex in Louisiana at 5400-5000 Years Before the Present",
+     "authors": "Saunders, J. et al.",
+     "year": 1997,
+     "doi": "10.1126/science.277.5333.1796",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: Watson Brake",
+     "url": "https://en.wikipedia.org/wiki/Watson_Brake",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Watson_Brake_Aerial_Illustration_HRoe_2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Watson_Brake_Aerial_Illustration_HRoe_2014.jpg",
+     "author": "Herb Roe",
+     "license": "CC BY-SA 4.0",
+     "title": "Watson_Brake_Aerial_Illustration_HRoe_2014.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history"
+   ],
+   "threads": [
+    "changed-understanding",
+    "giant-monuments",
+    "hunter-gatherer-monuments",
+    "native-north-america",
+    "dating-the-past"
    ]
   }
  ]

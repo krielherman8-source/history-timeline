@@ -65,7 +65,7 @@ function draw(){x.setTransform(window.devicePixelRatio||1,0,0,window.devicePixel
  x.fillStyle='#888';x.textAlign='right';x.fillText(level<3?'Zoom in for more entries':'',W-8,H-10);x.textAlign='left';}
 function esc(s){return String(s).replace(/[&<>"]/g,function(ch){return{'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[ch];});}
 function yr(v){return v<0?-v+' BCE':v+' CE';}
-function show(e){var s=ST[e.status]||['#ccc',e.status];var h='<h3>'+esc(e.title)+'</h3><div><span class="badge" style="background:'+s[0]+'">'+esc(s[1])+'</span>'+e.evidenceTypes.map(function(t){return'<span class="tag">'+esc(t)+'</span>';}).join('')+'</div>';
+function show(e){var s=ST[e.status]||['#ccc',e.status];var h='<h3>'+esc(e.title)+'</h3><div><span class="badge" style="background:'+s[0]+'">'+esc(s[1])+'</span>'+(e.statusNote?'<span class="tag" title="status note">'+esc(e.statusNote)+'</span>':'')+e.evidenceTypes.map(function(t){return'<span class="tag">'+esc(t)+'</span>';}).join('')+'</div>';
  h+='<p><b>Date:</b> '+yr(e.start)+(e.end!=null?' – '+yr(e.end):'')+(e.dateNote?' <i>('+esc(e.dateNote)+')</i>':'')+'</p>';
  h+='<div class="cols"><div><b>Mainstream view</b><p>'+esc(e.mainstream)+'</p></div><div><b>Alternative views</b>'+(e.alternatives.length?e.alternatives.map(function(a){return'<p><i>'+esc(a.label)+':</i> '+esc(a.text)+'</p>';}).join(''):'<p>(none listed)</p>')+'</div></div>';
  if(e.changed)h+='<div class="changed"><b>How understanding changed</b><p>'+esc(e.changed)+'</p></div>';
