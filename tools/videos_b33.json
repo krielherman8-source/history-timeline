@@ -1,0 +1,56 @@
+{
+ "durrington-walls": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=uxlJCHD_NR0",
+  "title": "Stonehenge: Durrington Walls Settlement",
+  "channel": "English Heritage"
+ },
+ "boudican-revolt": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=rxWucSi2k1k",
+  "title": "The True Story Of Boudica’s Revolt Against the Romans",
+  "channel": "History Hit"
+ },
+ "hadrians-wall": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=pmmfS4Z4Jig",
+  "title": "Why Was Hadrian’s Wall Built? | Animated History",
+  "channel": "English Heritage"
+ },
+ "council-of-nicaea": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=TG55ErfdaeY",
+  "title": "Christianity from Judaism to Constantine: Crash Course World History #11",
+  "channel": "CrashCourse"
+ },
+ "lady-of-cao": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=-lxFtO0kiaw",
+  "title": "Revealing the Face of a 1,600-Year-Old Mummy | National Geographic",
+  "channel": "National Geographic"
+ },
+ "dogu-figurines": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=VRxcHHLSe8Y",
+  "title": "Ceramics from early Japan, the Jōmon",
+  "channel": "Smarthistory"
+ },
+ "nibiru-cataclysm": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=F8dheAUn59c",
+  "title": "The 170-Year Search for a Planet Beyond Neptune I NOVA I PBS",
+  "channel": "NOVA PBS Official"
+ },
+ "y2k-bug": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=ddzbxJasID4",
+  "title": "The Y2K Scare | National Geographic",
+  "channel": "National Geographic"
+ },
+ "slender-man": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=R0RNkkd2peE",
+  "title": "How is Slender Man Internet Folklore? | Idea Channel | PBS Digital Studios",
+  "channel": "PBS Idea Channel"
+ }
+}
