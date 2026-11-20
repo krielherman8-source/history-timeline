@@ -73713,6 +73713,706 @@
     "native-north-america",
     "dating-the-past"
    ]
+  },
+  {
+   "id": "boudican-revolt",
+   "title": "Boudica's revolt (60–61 CE): the queen who burned Roman London",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": 60,
+   "end": 61,
+   "evidenceTypes": [
+    "textual",
+    "archaeological"
+   ],
+   "mainstream": "Around 60–61 CE Boudica, queen of the Iceni of what is now Norfolk, led a rising of British tribes against Roman rule. According to the Roman historian Tacitus, when her husband Prasutagus died the Romans ignored his will, seized his kingdom, flogged Boudica and raped her daughters. The rebels destroyed Camulodunum (Colchester), Londinium (London) and Verulamium (St Albans); archaeologists find a thick red layer of burnt debris under Roman London dated to about this time. The governor Gaius Suetonius Paulinus defeated the Britons in a final battle at an unknown site, and Boudica died soon after, by poison according to Tacitus or of illness according to Cassius Dio.",
+   "alternatives": [
+    {
+     "label": "Only the Romans' side",
+     "text": "Everything written about the revolt comes from two Roman authors, Tacitus and Cassius Dio, writing decades or more than a century later; their figures, such as 70,000 killed in the towns and 80,000 Britons dead in the last battle against 400 Romans, are often treated as exaggerated."
+    },
+    {
+     "label": "A national legend",
+     "text": "Rediscovered in the Renaissance and celebrated by the Victorians as 'Boadicea', she became a symbol of British resistance, with Thomas Thornycroft's statue unveiled beside Westminster Bridge in 1902; the location of the final battle and of her grave remain unknown, and local legends place her burial in many spots, including under a London railway station."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Boudican revolt",
+     "url": "https://en.wikipedia.org/wiki/Boudican_revolt",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Boudica",
+     "url": "https://en.wikipedia.org/wiki/Boudica",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Boudica_statue%2C_Westminster_%288433726848%29.jpg/500px-Boudica_statue%2C_Westminster_%288433726848%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Boudica_statue,_Westminster_(8433726848).jpg",
+     "author": "Paul Walter",
+     "license": "CC BY 2.0",
+     "title": "Boudica statue, Westminster (8433726848).jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology"
+   ],
+   "threads": [
+    "hidden-tombs",
+    "warrior-women",
+    "celtic-worlds",
+    "classical-world",
+    "resistance-to-empire"
+   ]
+  },
+  {
+   "id": "hadrians-wall",
+   "title": "Hadrian's Wall (122 CE): the edge of the Roman world",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": 122,
+   "end": null,
+   "evidenceTypes": [
+    "archaeological",
+    "textual"
+   ],
+   "mainstream": "Hadrian's Wall was begun in 122 CE under the emperor Hadrian and ran about 117.5 km (73 miles) from Wallsend on the River Tyne to Bowness-on-Solway, across what is now northern England. In its final form it was a stone wall with ditches in front and behind, garrisoned by soldiers in large forts, milecastles and turrets. Twenty years later the turf-built Antonine Wall further north briefly replaced it before being abandoned. Much of its stone was later taken for roads and farmhouses. It became a UNESCO World Heritage Site in 1987.",
+   "alternatives": [
+    {
+     "label": "Defence or control?",
+     "text": "The popular image is of a wall built to keep out the 'barbarian' tribes of the north. Many historians argue its main roles were controlling and taxing movement, with gates that may have served as customs posts, and displaying Roman power, rather than stopping full-scale invasions."
+    },
+    {
+     "label": "Not the border",
+     "text": "A common misconception is that the wall marks the border between England and Scotland; it lies entirely in England, in places more than 100 km south of the modern border."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Hadrian's Wall",
+     "url": "https://en.wikipedia.org/wiki/Hadrian's_Wall",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Antonine Wall",
+     "url": "https://en.wikipedia.org/wiki/Antonine_Wall",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Hadrian%27s_Wall_west_of_Housesteads_3.jpg/500px-Hadrian%27s_Wall_west_of_Housesteads_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Hadrian%27s_Wall_west_of_Housesteads_3.jpg",
+     "author": "Steven Fruitsmaak",
+     "license": "Public domain",
+     "title": "Hadrian's Wall west of Housesteads 3.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology"
+   ],
+   "threads": [
+    "giant-monuments",
+    "myths-about-history",
+    "classical-world",
+    "walls-against-chaos"
+   ]
+  },
+  {
+   "id": "vindolanda-tablets",
+   "title": "The Vindolanda tablets: socks, beer and a birthday party on Rome's frontier",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 100,
+   "end": null,
+   "dateNote": "Tablets c. 85–130 CE; birthday invitation c. 100 CE; first found 1973",
+   "evidenceTypes": [
+    "textual",
+    "archaeological"
+   ],
+   "mainstream": "In 1973 the archaeologist Robin Birley found thin wooden writing tablets with ink text at Vindolanda, a Roman fort just south of Hadrian's Wall. More than 1,700 have now been found, dating to the late 1st and early 2nd centuries CE, and they are among the oldest surviving handwritten documents from Britain. They record military business and private letters: a cavalry officer asks for more beer because his men have run out, a letter mentions socks and underpants sent to a soldier, a report calls the local Britons Brittunculi ('little Britons'), and Claudia Severa, wife of a nearby commander, invites her friend Sulpicia Lepidina to her birthday party in about 100 CE, adding a greeting in her own hand, perhaps the oldest known writing in Latin by a woman. Most of the tablets are held by the British Museum.",
+   "alternatives": [
+    {
+     "label": "Survival by accident",
+     "text": "The tablets survived because they were thrown away and sealed in waterlogged, oxygen-free layers; before 1973 historians did not know that wooden ink tablets of this kind had been used so widely."
+    },
+    {
+     "label": "Voices usually missing",
+     "text": "Historians value them because they record ordinary soldiers, families and enslaved people rather than emperors; some caution that they still reflect the world of the fort's literate officers."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Vindolanda tablets",
+     "url": "https://en.wikipedia.org/wiki/Vindolanda_tablets",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Vindolanda",
+     "url": "https://en.wikipedia.org/wiki/Vindolanda",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Roman_writing_tablet_02.jpg/500px-Roman_writing_tablet_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Roman_writing_tablet_02.jpg",
+     "author": "Unknown",
+     "license": "CC BY-SA 3.0",
+     "title": "Roman_writing_tablet_02.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology"
+   ],
+   "threads": [
+    "stories-proven-true",
+    "origins-of-writing",
+    "visionary-women",
+    "classical-world",
+    "ordinary-lives"
+   ]
+  },
+  {
+   "id": "plague-of-cyprian",
+   "title": "The Plague of Cyprian (249–262): a mystery pandemic in a Roman crisis",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 249,
+   "end": 262,
+   "evidenceTypes": [
+    "textual",
+    "archaeological"
+   ],
+   "mainstream": "From about 249 to 262 CE (or 251 to 270) a pandemic swept the Roman Empire during the Crisis of the Third Century. It is named after Cyprian, bishop of Carthage, who described it in his treatise On Mortality, including symptoms such as bleeding into the eyes. At its height 5,000 people a day were said to be dying in Rome, and one historian has calculated that the population of Alexandria fell from about 500,000 to 190,000, though people fleeing may account for part of that. In Thebes, Egypt, archaeologists found remains of bodies burned and covered in lime from this period. The disease has not been identified.",
+   "alternatives": [
+    {
+     "label": "What disease?",
+     "text": "Proposed causes include smallpox, measles and a viral haemorrhagic fever like Ebola; the historian Kyle Harper has argued for a filovirus, while others think the descriptions fit smallpox. Without ancient DNA, none is confirmed."
+    },
+    {
+     "label": "Plague and faith",
+     "text": "Cyprian told Christians the plague struck 'the just and unjust' alike and urged them to care for the sick; the sociologist Rodney Stark and others argue that this care helped Christianity grow, a view some historians think overstates the evidence. The same years saw official persecutions of Christians under Decius and Valerian."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Plague of Cyprian",
+     "url": "https://en.wikipedia.org/wiki/Plague_of_Cyprian",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Crisis of the Third Century",
+     "url": "https://en.wikipedia.org/wiki/Crisis_of_the_Third_Century",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Heiliger_Cyprianus.jpg/500px-Heiliger_Cyprianus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Heiliger_Cyprianus.jpg",
+     "author": "Master of Messkirch",
+     "license": "Public domain",
+     "title": "Heiliger_Cyprianus.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "catastrophes",
+    "religion"
+   ],
+   "threads": [
+    "plagues-and-epidemics",
+    "classical-world",
+    "disasters-and-scapegoats"
+   ]
+  },
+  {
+   "id": "cai-lun-paper",
+   "title": "Cai Lun and paper (105 CE): the \"inventor\" who improved an older craft",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 105,
+   "end": 121,
+   "evidenceTypes": [
+    "textual",
+    "archaeological"
+   ],
+   "mainstream": "Cai Lun was a eunuch official at the Eastern Han court in Luoyang. In 105 CE, according to the Book of the Later Han, he presented the emperor with an improved way of making paper from tree bark, hemp waste, old rags and fishing nets, which made large-scale paper production possible and was later carried across Asia and to Europe. Archaeological finds show that paper of other kinds had existed in China since at least the 2nd or 3rd century BCE, so his contribution was a major improvement rather than an invention. Caught up in court politics, he killed himself by poison around 121 CE. He was later deified as the god of papermaking.",
+   "alternatives": [
+    {
+     "label": "Inventor or improver?",
+     "text": "Traditional histories credited Cai Lun with inventing paper; the discovery of older paper fragments, some used for wrapping and at least one carrying a map, changed this view in the 20th century. Some Chinese scholars still emphasise his role as decisive."
+    },
+    {
+     "label": "How paper reached the West",
+     "text": "A famous story says Chinese papermakers captured at the Battle of Talas in 751 taught the craft in Samarkand; historians debate the story, noting that paper was probably already known in Central Asia earlier."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Cai Lun",
+     "url": "https://en.wikipedia.org/wiki/Cai_Lun",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: History of paper",
+     "url": "https://en.wikipedia.org/wiki/History_of_paper",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Cai-lun.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Cai-lun.jpg",
+     "author": "Unknown authorUnknown author",
+     "license": "Public domain",
+     "title": "Cai-lun.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "science-cosmos"
+   ],
+   "threads": [
+    "changed-understanding",
+    "origins-of-writing",
+    "silk-road",
+    "myths-about-history",
+    "kings-who-became-gods",
+    "who-got-there-first"
+   ]
+  },
+  {
+   "id": "council-of-nicaea",
+   "title": "The Council of Nicaea (325): what it decided, and what it did not",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": 325,
+   "end": null,
+   "evidenceTypes": [
+    "textual"
+   ],
+   "mainstream": "In 325 CE the emperor Constantine I called a council of Christian bishops at Nicaea (now İznik, Turkey), the first 'ecumenical' council. Between about 250 and 300 bishops attended, nearly all from the eastern empire; the traditional figure of 318 matches the number of Abraham's servants in Genesis. The main dispute was the teaching of the Alexandrian priest Arius that the Son was created by and subordinate to the Father. The council rejected Arius' view, produced the first version of the Nicene Creed, set a common rule for the date of Easter and issued about twenty canons on church discipline.",
+   "alternatives": [
+    {
+     "label": "A popular myth",
+     "text": "There is no record of the council discussing which books belonged in the Bible; the biblical canon developed over a longer period. The idea that Nicaea chose the books seems to come largely from Voltaire, who repeated a story that the competing books were placed on an altar and the false ones fell off."
+    },
+    {
+     "label": "Politics and belief",
+     "text": "Some see Nicaea as the moment an emperor shaped Christian doctrine for political unity; others stress that the bishops debated theology that had divided churches for years, and that the Arian dispute continued for decades after the council, with Constantine himself later moving to readmit Arius."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: First Council of Nicaea",
+     "url": "https://en.wikipedia.org/wiki/First_Council_of_Nicaea",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Arianism",
+     "url": "https://en.wikipedia.org/wiki/Arianism",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Biblical canon",
+     "url": "https://en.wikipedia.org/wiki/Biblical_canon",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/%CE%9C%CE%B9%CF%87%CE%B1%CE%AE%CE%BB_%CE%94%CE%B1%CE%BC%CE%B1%CF%83%CE%BA%CE%B7%CE%BD%CF%8C%CF%82_-_%CE%91%CE%84_%CE%9F%CE%B9%CE%BA%CE%BF%CF%85%CE%BC%CE%B5%CE%BD%CE%B9%CE%BA%CE%AE_%CE%A3%CF%8D%CE%BD%CE%BF%CE%B4%CE%BF%CF%82_7741.jpg/500px-%CE%9C%CE%B9%CF%87%CE%B1%CE%AE%CE%BB_%CE%94%CE%B1%CE%BC%CE%B1%CF%83%CE%BA%CE%B7%CE%BD%CF%8C%CF%82_-_%CE%91%CE%84_%CE%9F%CE%B9%CE%BA%CE%BF%CF%85%CE%BC%CE%B5%CE%BD%CE%B9%CE%BA%CE%AE_%CE%A3%CF%8D%CE%BD%CE%BF%CE%B4%CE%BF%CF%82_7741.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:%CE%9C%CE%B9%CF%87%CE%B1%CE%AE%CE%BB_%CE%94%CE%B1%CE%BC%CE%B1%CF%83%CE%BA%CE%B7%CE%BD%CF%8C%CF%82_-_%CE%91%CE%84_%CE%9F%CE%B9%CE%BA%CE%BF%CF%85%CE%BC%CE%B5%CE%BD%CE%B9%CE%BA%CE%AE_%CE%A3%CF%8D%CE%BD%CE%BF%CE%B4%CE%BF%CF%82_7741.jpg",
+     "author": "C messier",
+     "license": "Public domain",
+     "title": "Μιχαήλ_Δαμασκηνός_-_Α΄_Οικουμενική_Σύνοδος_7741.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "religion"
+   ],
+   "threads": [
+    "knowledge-and-power",
+    "suppressed-beliefs",
+    "myths-about-history",
+    "classical-world",
+    "contested-texts"
+   ]
+  },
+  {
+   "id": "apollonius-of-tyana",
+   "title": "Apollonius of Tyana: the pagan miracle-worker compared with Jesus",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 15,
+   "end": 100,
+   "statusNote": "Person historical; miracle stories legendary",
+   "evidenceTypes": [
+    "textual"
+   ],
+   "mainstream": "Apollonius of Tyana in Cappadocia (c. 15 – c. 100 CE) was a Greek philosopher of the Neopythagorean school who travelled and taught in the Middle East, North Africa and India and was one of the most famous wonder-workers of his age. Most of what is known comes from the long Life of Apollonius written about a century later by Philostratus at the request of the empress Julia Domna. It tells of healings, exorcisms, foreknowledge, raising a dead girl and vanishing from his trial before the emperor Domitian; his followers believed he was taken up to heaven. Most scholars accept that he was a real person.",
+   "alternatives": [
+    {
+     "label": "A rival to Christ?",
+     "text": "Around 300 CE the Roman official Hierocles used Apollonius' miracles to argue that Jesus was not unique, and Eusebius of Caesarea wrote a reply; modern writers have sometimes claimed that the Gospels copied Apollonius or vice versa. Scholars generally see both as examples of a wider ancient type of holy man, and note that Philostratus wrote after the Gospels."
+    },
+    {
+     "label": "Novel or biography?",
+     "text": "Many historians treat Philostratus' Life as partly a novel, with travel tales such as meetings with Indian sages; others think it preserves real details from older sources now lost."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Apollonius of Tyana",
+     "url": "https://en.wikipedia.org/wiki/Apollonius_of_Tyana",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Life of Apollonius of Tyana",
+     "url": "https://en.wikipedia.org/wiki/Life_of_Apollonius_of_Tyana",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Philosopher%2C_probably_Apollonius_of_Tyana%2C_marble%2C_ca_200_AD%2C_from_Gortys%2C_AMH%2C_145418.jpg/500px-Philosopher%2C_probably_Apollonius_of_Tyana%2C_marble%2C_ca_200_AD%2C_from_Gortys%2C_AMH%2C_145418.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Philosopher,_probably_Apollonius_of_Tyana,_marble,_ca_200_AD,_from_Gortys,_AMH,_145418.jpg",
+     "author": "Zde",
+     "license": "CC BY-SA 4.0",
+     "title": "Philosopher,_probably_Apollonius_of_Tyana,_marble,_ca_200_AD,_from_Gortys,_AMH,_145418.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "religion",
+    "myth-legend"
+   ],
+   "threads": [
+    "classical-world",
+    "travellers-tales",
+    "contested-texts",
+    "miracle-workers"
+   ]
+  },
+  {
+   "id": "simon-magus",
+   "title": "Simon Magus: the sorcerer who flew over Rome",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": 35,
+   "end": null,
+   "dateNote": "Mid-1st century CE; legends written in the 2nd–3rd centuries",
+   "evidenceTypes": [
+    "textual",
+    "mythological"
+   ],
+   "mainstream": "Simon Magus was a Samaritan of the 1st century CE known almost entirely from Christian sources. In the Acts of the Apostles he is a magician who is baptised but then tries to buy the power to give the Holy Spirit, which gave the Church the word simony for buying church offices. Later apocryphal texts, such as the Acts of Peter, make him a great sorcerer who could levitate and fly: in Rome he rose into the air above the Forum to prove he was a god, until Peter prayed and he fell onto the Sacred Way, breaking his leg in three places. Second-century Church Fathers called him the founder of Gnosticism and 'father of all heresies'.",
+   "alternatives": [
+    {
+     "label": "A misread statue",
+     "text": "Justin Martyr (2nd century) wrote that Romans had set up a statue to Simon inscribed 'Simoni Deo Sancto' ('to Simon the holy god'). In the 16th century a statue base was found on the Tiber Island inscribed 'Semoni Sanco Deo Fidio', a dedication to the Sabine god Semo Sancus; many scholars think Justin misread a similar inscription."
+    },
+    {
+     "label": "Founder of Gnosticism?",
+     "text": "Some modern scholars accept the Church Fathers' picture of Simon as a Gnostic teacher with followers (the Simonians); others argue that the heresiologists projected later movements back onto him, and that the real Simon is almost impossible to recover."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Simon Magus",
+     "url": "https://en.wikipedia.org/wiki/Simon_Magus",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Simony",
+     "url": "https://en.wikipedia.org/wiki/Simony",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Basilica_Saint-Sernin_-_Simon_Magus_%28cropped%29.jpg/500px-Basilica_Saint-Sernin_-_Simon_Magus_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Basilica_Saint-Sernin_-_Simon_Magus_(cropped).jpg",
+     "author": "PierreSelim",
+     "license": "CC0",
+     "title": "Basilica_Saint-Sernin_-_Simon_Magus_(cropped).jpg"
+    }
+   ],
+   "categories": [
+    "religion",
+    "myth-legend"
+   ],
+   "threads": [
+    "seeing-what-we-expect",
+    "ancient-flight",
+    "suppressed-beliefs",
+    "hidden-scriptures",
+    "miracle-workers"
+   ]
+  },
+  {
+   "id": "thomas-in-india",
+   "title": "Did the apostle Thomas reach India?",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 52,
+   "end": 72,
+   "statusNote": "Gondophares confirmed; the mission itself unproven",
+   "evidenceTypes": [
+    "textual",
+    "oral tradition",
+    "numismatic"
+   ],
+   "mainstream": "The Saint Thomas Christians of Kerala hold that the apostle Thomas landed at Muziris on the Malabar coast in 52 CE, founded seven churches, and was killed near Mylapore (now part of Chennai) in 72 CE; San Thome Basilica stands over the traditional tomb. The main early text, the apocryphal Acts of Thomas (written in Syria around 180–230 CE), says Thomas was sold as a slave to the Indian king Gudnaphar. For a long time this king was assumed to be fictional, until coins and an inscription of an Indo-Parthian ruler named Gondophares, who ruled in what is now Afghanistan and Pakistan in the 1st century CE, were identified in the 19th century.",
+   "alternatives": [
+    {
+     "label": "Tradition",
+     "text": "For the Saint Thomas Christians the mission is a living tradition, and Roman trade with Muziris in the 1st century shows that a journey from the eastern Mediterranean to south India was possible."
+    },
+    {
+     "label": "Scholarly doubt",
+     "text": "Many historians regard the story as unprovable, noting that the Acts of Thomas is a legendary text and that Gondophares ruled far to the north of Kerala; some suggest the community was founded or strengthened by later Syriac Christian traders and missionaries, such as Thomas of Cana, whom tradition dates to the 4th or 8th century."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Thomas the Apostle",
+     "url": "https://en.wikipedia.org/wiki/Thomas_the_Apostle",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Saint Thomas Christians",
+     "url": "https://en.wikipedia.org/wiki/Saint_Thomas_Christians",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Gondophares",
+     "url": "https://en.wikipedia.org/wiki/Gondophares",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Thomas_the_Apostle._Detail_of_the_mosaic_in_the_Basilica_of_San_Vitale._Ravena%2C_Italy.jpg/500px-Thomas_the_Apostle._Detail_of_the_mosaic_in_the_Basilica_of_San_Vitale._Ravena%2C_Italy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Thomas_the_Apostle._Detail_of_the_mosaic_in_the_Basilica_of_San_Vitale._Ravena,_Italy.jpg",
+     "author": "Richard Mortel",
+     "license": "CC BY 2.0",
+     "title": "Thomas_the_Apostle._Detail_of_the_mosaic_in_the_Basilica_of_San_Vitale._Ravena,_Italy.jpg"
+    }
+   ],
+   "categories": [
+    "religion",
+    "history",
+    "myth-legend"
+   ],
+   "threads": [
+    "stories-proven-true",
+    "ocean-voyagers",
+    "sacred-relics",
+    "hidden-scriptures",
+    "silk-road",
+    "travellers-tales"
+   ]
+  },
+  {
+   "id": "lady-of-cao",
+   "title": "The Lady of Cao: a tattooed woman ruler of the Moche",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 450,
+   "end": null,
+   "evidenceTypes": [
+    "archaeological",
+    "bioarchaeological"
+   ],
+   "mainstream": "In 2006 Peruvian archaeologists led by Régulo Franco found the mummified body of a woman at El Brujo, a Moche site about 45 km north of Trujillo in northern Peru. She had died in her mid-twenties around 450 CE, possibly from complications of pregnancy or childbirth. Her arms and feet were tattooed with designs including snakes and spiders, and she was buried with rich ornaments, crowns and war clubs, together with the body of a young woman who may have been sacrificed. Before the find, Moche rulers were assumed to have been men. In 2017 a reconstruction of her face was unveiled.",
+   "alternatives": [
+    {
+     "label": "Ruler or priestess?",
+     "text": "The weapons and regalia lead many archaeologists to see her as a ruler, perhaps of the Chicama valley; others prefer high priestess, since Moche art shows women in ritual roles and weapons can be symbolic."
+    },
+    {
+     "label": "Rewriting the Moche",
+     "text": "Later discoveries of other high-status women at San José de Moro suggest that women held powerful positions more widely in Moche society than once thought."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Lady of Cao",
+     "url": "https://en.wikipedia.org/wiki/Lady_of_Cao",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Moche culture",
+     "url": "https://en.wikipedia.org/wiki/Moche_culture",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Reconstitution_de_la_Dame_de_Cao_%28Mus%C3%A9e_du_quai_Branly_-_Jacques_Chirac%2C_Paris%29.jpg/500px-Reconstitution_de_la_Dame_de_Cao_%28Mus%C3%A9e_du_quai_Branly_-_Jacques_Chirac%2C_Paris%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Reconstitution_de_la_Dame_de_Cao_(Mus%C3%A9e_du_quai_Branly_-_Jacques_Chirac,_Paris).jpg",
+     "author": "Jean-Pierre Dalbéra from Paris, France",
+     "license": "CC BY 2.0",
+     "title": "Reconstitution_de_la_Dame_de_Cao_(Musée_du_quai_Branly_-_Jacques_Chirac,_Paris).jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history"
+   ],
+   "threads": [
+    "mummies",
+    "sacred-kingship",
+    "warrior-women",
+    "human-sacrifice",
+    "andean-empires"
+   ]
+  },
+  {
+   "id": "attila-the-hun",
+   "title": "Attila the Hun: the Scourge of God and his hidden grave",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": 434,
+   "end": 453,
+   "evidenceTypes": [
+    "textual"
+   ],
+   "mainstream": "Attila ruled the Huns from 434 (jointly with his brother Bleda until 445) until his death in 453, at the head of an empire of Huns, Ostrogoths, Alans, Gepids and others in central and eastern Europe. He ravaged the Balkans but could not take Constantinople, invaded Gaul in 451 and was halted at the Battle of the Catalaunian Plains, and in 452 invaded Italy; at the River Mincio he met an embassy including Pope Leo I and agreed to withdraw. According to the historian Priscus he died on the night of his wedding to a young woman named Ildico, apparently choking on a nosebleed in a drunken stupor. His empire collapsed soon after.",
+   "alternatives": [
+    {
+     "label": "The lost grave",
+     "text": "The 6th-century historian Jordanes says Attila was buried secretly at night in three coffins of gold, silver and iron, and that the men who buried him were killed so the place would never be known. The grave has never been found."
+    },
+    {
+     "label": "Murder?",
+     "text": "Some later chroniclers, such as Marcellinus Comes, claimed Ildico stabbed him; modern historians usually prefer Priscus' account. Attila also lived on in legend as Etzel in the Nibelungenlied and Atli in Norse sagas, and the credit given to Pope Leo for saving Rome is debated, since famine and disease in Attila's army may also explain his retreat."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Attila",
+     "url": "https://en.wikipedia.org/wiki/Attila",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Huns",
+     "url": "https://en.wikipedia.org/wiki/Huns",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Attila-ChroniconPictum.jpg/500px-Attila-ChroniconPictum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Attila-ChroniconPictum.jpg",
+     "author": "Anonymus (P. Magister)",
+     "license": "Public domain",
+     "title": "Attila-ChroniconPictum.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "myth-legend"
+   ],
+   "threads": [
+    "hidden-tombs",
+    "lost-treasures",
+    "steppe-empires"
+   ]
+  },
+  {
+   "id": "sack-of-rome-410",
+   "title": "The sack of Rome (410): the fall that inspired the City of God",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": 410,
+   "end": null,
+   "evidenceTypes": [
+    "textual",
+    "archaeological"
+   ],
+   "mainstream": "On 24 August 410 the Visigoths under their king Alaric entered Rome through the Salarian Gate and plundered the city for three days. Rome was no longer the empire's capital, which had moved to Milan and then Ravenna, but it was the first time in almost 800 years that the city had fallen to a foreign enemy. The emperor's sister Galla Placidia was taken captive. Jerome, in Bethlehem, wrote that 'the city which had taken the whole world was itself taken'. The shock led Augustine of Hippo to write The City of God, answering pagans who blamed the disaster on Rome's abandonment of the old gods for Christianity.",
+   "alternatives": [
+    {
+     "label": "Alaric's river grave",
+     "text": "According to Jordanes, Alaric died soon afterwards near Cosenza in southern Italy and was buried with treasure in the bed of the River Busento, which was diverted and then returned to its course; the captives who did the work were killed. Treasure hunters have searched for the grave, but it has never been found."
+    },
+    {
+     "label": "How great a turning point?",
+     "text": "The sack is often treated as a symbol of the fall of the Western Roman Empire; some historians stress that it was relatively restrained, that churches were spared, and that the western empire lasted until 476."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Sack of Rome (410)",
+     "url": "https://en.wikipedia.org/wiki/Sack_of_Rome_(410)",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Alaric I",
+     "url": "https://en.wikipedia.org/wiki/Alaric_I",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: The City of God",
+     "url": "https://en.wikipedia.org/wiki/The_City_of_God",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Visigoths_sack_Rome.jpg/500px-Visigoths_sack_Rome.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Visigoths_sack_Rome.jpg",
+     "author": "Joseph-Noël Sylvestre",
+     "license": "Public domain",
+     "title": "Visigoths_sack_Rome.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "catastrophes"
+   ],
+   "threads": [
+    "hidden-tombs",
+    "civilisation-collapses",
+    "lost-treasures",
+    "classical-world",
+    "disasters-and-scapegoats"
+   ]
   }
  ]
 }
