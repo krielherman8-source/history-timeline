@@ -10270,7 +10270,8 @@
    "threads": [
     "world-ages-and-resets",
     "millenarian-movements",
-    "prophecies"
+    "prophecies",
+    "doomsday-dates"
    ]
   },
   {
@@ -22608,7 +22609,8 @@
     "seeing-what-we-expect",
     "pareidolia",
     "life-beyond-earth",
-    "fringe-theories"
+    "fringe-theories",
+    "pathological-science"
    ]
   },
   {
@@ -22666,7 +22668,8 @@
     "hoaxes-exposed",
     "seeing-what-we-expect",
     "fringe-theories",
-    "science-gone-wrong"
+    "science-gone-wrong",
+    "pathological-science"
    ]
   },
   {
@@ -63556,7 +63559,8 @@
    "threads": [
     "rejected-pioneers",
     "tested-by-experiment",
-    "science-gone-wrong"
+    "science-gone-wrong",
+    "pathological-science"
    ]
   },
   {
@@ -74412,6 +74416,916 @@
     "lost-treasures",
     "classical-world",
     "disasters-and-scapegoats"
+   ]
+  },
+  {
+   "id": "georgia-guidestones",
+   "title": "The Georgia Guidestones: a granite guide for after the apocalypse (1980–2022)",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1980,
+   "end": 2022,
+   "evidenceTypes": [
+    "documentary",
+    "archaeoastronomical"
+   ],
+   "mainstream": "In June 1979 a man using the pseudonym Robert C. Christian commissioned a monument from the Elberton Granite Finishing Company in Georgia, USA, saying he represented 'a small group of loyal Americans who believe in God'. Erected on 22 March 1980, the Georgia Guidestones were six granite slabs about 5.9 m tall carrying ten guidelines for a world after a coming calamity, in eight modern languages, beginning 'Maintain humanity under 500,000,000 in perpetual balance with nature'. A hole drilled through the central pillar showed the North Star and a slot was aligned with the solstices and equinoxes. On 6 July 2022 the stones were badly damaged by a bomb and were removed the same day. The sponsor's identity was never officially confirmed.",
+   "alternatives": [
+    {
+     "label": "Conspiracy readings",
+     "text": "Because of the population figure and the anonymous sponsor, the stones became the subject of conspiracy theories linking them to a secret elite plan or to Satanism; in 2022 a candidate for governor of Georgia called them satanic and promised to remove them. No evidence of such a plan has been produced."
+    },
+    {
+     "label": "A time capsule of Cold War fears",
+     "text": "Others see the monument as a product of late-1970s anxieties about nuclear war and overpopulation, and as a modern counterpart to ancient monuments with astronomical alignments; a 2015 documentary claimed to expose the sponsor, but the claim has not been confirmed."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Georgia Guidestones",
+     "url": "https://en.wikipedia.org/wiki/Georgia_Guidestones",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Georgia_Guidestones%2C_Elbert_County%2C_GA%2C_US_%2805%29.jpg/500px-Georgia_Guidestones%2C_Elbert_County%2C_GA%2C_US_%2805%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Georgia_Guidestones,_Elbert_County,_GA,_US_(05).jpg",
+     "author": "Bubba73",
+     "license": "Public domain",
+     "title": "Georgia_Guidestones,_Elbert_County,_GA,_US_(05).jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "anomalies"
+   ],
+   "threads": [
+    "ancient-astronomy",
+    "secret-societies",
+    "cold-war-secrets",
+    "doomsday-dates"
+   ]
+  },
+  {
+   "id": "montauk-project",
+   "title": "The Montauk Project: time travel at an abandoned radar base?",
+   "lane": "history",
+   "status": "debunked",
+   "priority": 3,
+   "start": 1983,
+   "end": null,
+   "dateNote": "Stories from the early 1980s; first book 1992",
+   "statusNote": "Camp Hero is real; the secret experiments are unsupported",
+   "evidenceTypes": [
+    "testimony",
+    "speculative"
+   ],
+   "mainstream": "The Montauk Project is a conspiracy theory claiming that the US government ran secret experiments at Camp Hero, a former military base and radar station at Montauk on Long Island, New York, including mind control, teleportation, time travel and contact with extraterrestrials, as a sequel to the alleged 1943 Philadelphia Experiment. The stories circulated from the early 1980s and were spread by a series of books by Preston Nichols and Peter Moon. Nichols and Al Bielek said they had recovered repressed memories of their own involvement. The base and its large radar tower are real and now part of a state park; no documentary evidence supports the experiments.",
+   "alternatives": [
+    {
+     "label": "Recovered memories",
+     "text": "The UFO researcher Jacques Vallée described the accounts as highly questionable; critics note that recovered-memory testimony is unreliable and that Bielek's biography contains claims that have been disproved."
+    },
+    {
+     "label": "Why it endures",
+     "text": "A closed Cold War base with a giant radar dish invites speculation; the story inspired the TV series Stranger Things, which had the working title Montauk."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Montauk Project",
+     "url": "https://en.wikipedia.org/wiki/Montauk_Project",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Camp Hero State Park",
+     "url": "https://en.wikipedia.org/wiki/Camp_Hero_State_Park",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Camp_Hero_Radar_Tower.jpg/500px-Camp_Hero_Radar_Tower.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Camp_Hero_Radar_Tower.jpg",
+     "author": "Hhoschton",
+     "license": "CC BY-SA 3.0",
+     "title": "Camp Hero Radar Tower.jpg"
+    }
+   ],
+   "categories": [
+    "hoaxes",
+    "aliens-ufo",
+    "anomalies"
+   ],
+   "threads": [
+    "time-slips",
+    "modern-legends",
+    "cold-war-secrets",
+    "fringe-theories"
+   ]
+  },
+  {
+   "id": "dogu-figurines",
+   "title": "The goggle-eyed dogū: Jōmon goddesses or ancient astronauts?",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -1000,
+   "end": -400,
+   "dateNote": "Goggle-eyed type c. 1000–400 BCE; dogū as a whole span much of the Jōmon period",
+   "statusNote": "Figurines real; spacesuit reading speculative",
+   "evidenceTypes": [
+    "archaeological",
+    "speculative"
+   ],
+   "mainstream": "Dogū are small clay figures made in Japan during the Jōmon period; an estimated 15,000–18,000 are known, mostly from eastern Japan, and none were made after the Jōmon. Most appear female, with large eyes, small waists, wide hips and sometimes pregnant bellies. The best-known type, the shakōki-dogū or 'goggle-eyed' figures of about 1000–400 BCE from sites such as Kamegaoka in Aomori, has huge eyes that reminded early scholars of Arctic snow goggles. Many dogū were found deliberately broken.",
+   "alternatives": [
+    {
+     "label": "Archaeological view",
+     "text": "Scholars interpret dogū as figures connected with fertility, childbirth or healing; one theory is that illness was transferred into a figure that was then broken. No single purpose has been proven."
+    },
+    {
+     "label": "Ancient astronauts (speculative)",
+     "text": "In Chariots of the Gods? (1968) Erich von Däniken presented the goggle-eyed dogū as astronauts in spacesuits and helmets, an idea that became famous in Japan and abroad. Archaeologists reject it, noting that the figures belong to a long Jōmon tradition of stylised human forms."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Dogū",
+     "url": "https://en.wikipedia.org/wiki/Dog%C5%AB",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Chariots of the Gods?",
+     "url": "https://en.wikipedia.org/wiki/Chariots_of_the_Gods%3F",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Of robots and ancient mysteries: Representations of Jōmon figurines as cultural heritage and popular culture",
+     "authors": "Yasui, E.",
+     "year": 2024,
+     "doi": "10.1177/14696053241292579",
+     "type": "paper"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Dogu_Miyagi_1000_BCE_400_BCE.jpg/500px-Dogu_Miyagi_1000_BCE_400_BCE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Dogu_Miyagi_1000_BCE_400_BCE.jpg",
+     "author": "World Imaging",
+     "license": "CC BY-SA 3.0",
+     "title": "Dogu_Miyagi_1000_BCE_400_BCE.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "aliens-ufo",
+    "religion"
+   ],
+   "threads": [
+    "sky-beings",
+    "outsider-builder-claims",
+    "seeing-what-we-expect",
+    "first-art"
+   ]
+  },
+  {
+   "id": "polywater",
+   "title": "Polywater (1961–1973): the new form of water that was sweat",
+   "lane": "history",
+   "status": "debunked",
+   "priority": 2,
+   "start": 1961,
+   "end": 1973,
+   "evidenceTypes": [
+    "experimental",
+    "textual"
+   ],
+   "mainstream": "In 1961 the Soviet physicist Nikolai Fedyakin reported that water condensed in very narrow quartz tubes seemed to have a higher boiling point, lower freezing point and a syrupy viscosity. Boris Derjaguin of Moscow's Institute for Physical Chemistry developed the work, and by 1969 Western laboratories were trying to reproduce 'polywater' while newspapers worried about a 'polywater gap' with the USSR. Doubts grew from 1970: Denis Rousseau and Sergio Porto of Bell Labs found the samples were mostly contaminated with sodium and chlorine, and Rousseau showed his own sweat after a handball game had the same properties. By 1973 polywater was recognised as ordinary water contaminated with dissolved substances and tiny particles of silica and other materials.",
+   "alternatives": [
+    {
+     "label": "Pathological science",
+     "text": "Polywater is often cited, alongside N-rays and cold fusion, as a case of pathological science, in which researchers see an effect they hope to see at the limits of detection; Rousseau himself later wrote about such cases."
+    },
+    {
+     "label": "Science correcting itself",
+     "text": "Others point out that the episode lasted barely a decade and was ended by careful replication and analysis, showing the scientific process working, if slowly, under Cold War pressure."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Polywater",
+     "url": "https://en.wikipedia.org/wiki/Polywater",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Polywater: Polymer or Artifact?",
+     "authors": "Rousseau, D. et al.",
+     "year": 1970,
+     "doi": "10.1126/science.167.3926.1715",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: Pathological science",
+     "url": "https://en.wikipedia.org/wiki/Pathological_science",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Proposed_structure_of_polywater_in_1969.png/500px-Proposed_structure_of_polywater_in_1969.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Proposed_structure_of_polywater_in_1969.png",
+     "author": "Ellis R. Lippincott, Robert R. Stromberg, Warren H. Grant, Gerald L. Cessac",
+     "license": "Public domain",
+     "title": "Proposed_structure_of_polywater_in_1969.png"
+    }
+   ],
+   "categories": [
+    "science-cosmos",
+    "hoaxes",
+    "history"
+   ],
+   "threads": [
+    "tested-by-experiment",
+    "cold-war-secrets",
+    "science-gone-wrong",
+    "pathological-science"
+   ]
+  },
+  {
+   "id": "planet-vulcan",
+   "title": "Vulcan: the planet inside Mercury's orbit that Einstein made vanish",
+   "lane": "history",
+   "status": "debunked",
+   "priority": 2,
+   "start": 1859,
+   "end": 1915,
+   "evidenceTypes": [
+    "astronomical observation",
+    "textual"
+   ],
+   "mainstream": "In 1859 the French mathematician Urbain Le Verrier, who had predicted Neptune from the motion of Uranus, showed that Mercury's orbit shifted slightly more than Newtonian physics allowed and proposed an unseen planet or ring of asteroids closer to the Sun. That December a country doctor and amateur astronomer, Edmond Lescarbault, wrote that he had seen a small round body cross the Sun on 26 March 1859; Le Verrier visited him, was convinced, and announced the planet, named Vulcan. Searches over the following decades produced conflicting claims, including sightings by James Craig Watson and Lewis Swift during the total eclipse of 29 July 1878. In 1915 Einstein's general theory of relativity explained Mercury's orbit through the curvature of spacetime, and no planet was needed.",
+   "alternatives": [
+    {
+     "label": "Why it was believed",
+     "text": "The same method had just found Neptune, so a planet near the Sun was a reasonable prediction; observers looking into the glare near the Sun could easily mistake stars, sunspots or instrument effects for a planet."
+    },
+    {
+     "label": "Small bodies still possible",
+     "text": "Astronomers have since searched for tiny 'vulcanoid' asteroids in stable orbits close to the Sun; none has been found, though very small ones are not ruled out."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Vulcan (hypothetical planet)",
+     "url": "https://en.wikipedia.org/wiki/Vulcan_(hypothetical_planet)",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Tests of general relativity",
+     "url": "https://en.wikipedia.org/wiki/Tests_of_general_relativity",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Planet-Vulcan_1846_003790.jpg/500px-Planet-Vulcan_1846_003790.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Planet-Vulcan_1846_003790.jpg",
+     "author": "Lith. of E. Jones & G.W. Newman",
+     "license": "CC0",
+     "title": "Planet-Vulcan_1846_003790.jpg"
+    }
+   ],
+   "categories": [
+    "science-cosmos",
+    "history"
+   ],
+   "threads": [
+    "changed-understanding",
+    "seeing-what-we-expect",
+    "tested-by-experiment",
+    "pathological-science",
+    "phantom-planets"
+   ]
+  },
+  {
+   "id": "nibiru-cataclysm",
+   "title": "The Nibiru cataclysm: a doomsday planet that keeps not arriving",
+   "lane": "history",
+   "status": "debunked",
+   "priority": 2,
+   "start": 1995,
+   "end": null,
+   "dateNote": "Claim first made 1995; predicted dates 2003, 2012, 2017 and later",
+   "evidenceTypes": [
+    "speculative",
+    "textual"
+   ],
+   "mainstream": "The idea that a large planet called Nibiru or Planet X would collide with or pass close to Earth was first put forward in 1995 by Nancy Lieder, founder of the website ZetaTalk, who said she received messages from aliens of the Zeta Reticuli system through a brain implant. She predicted the encounter for May 2003, a date later postponed. The claim spread through internet doomsday groups and in the late 2000s merged with the 2012 phenomenon; in 2017 the self-described Christian numerologist David Meade predicted it for 23 September 2017. The name comes from the ancient-astronaut writer Zecharia Sitchin's readings of Babylonian texts, though he denied any link to the doomsday claims. Astronomers, including NASA scientists, have repeatedly stated that no such planet exists; an object large enough would long since have been visible.",
+   "alternatives": [
+    {
+     "label": "Nibiru in the texts",
+     "text": "In Babylonian astronomy Nibiru was a name associated with the god Marduk and usually with a visible planet such as Jupiter, or a point in the sky; Assyriologists reject Sitchin's reading of it as a hidden twelfth planet."
+    },
+    {
+     "label": "A recurring pattern",
+     "text": "Each failed date has been followed by a new one, often tied to a real astronomical news story such as Comet ISON or the hypothesised Planet Nine, a pattern seen in other millenarian predictions."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Nibiru cataclysm",
+     "url": "https://en.wikipedia.org/wiki/Nibiru_cataclysm",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Zecharia Sitchin",
+     "url": "https://en.wikipedia.org/wiki/Zecharia_Sitchin",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [],
+   "categories": [
+    "hoaxes",
+    "science-cosmos",
+    "aliens-ufo"
+   ],
+   "threads": [
+    "millenarian-movements",
+    "fringe-theories",
+    "anunnaki-claims",
+    "prophecies",
+    "contactees",
+    "rumour-and-disinformation",
+    "doomsday-dates",
+    "phantom-planets",
+    "internet-folklore"
+   ]
+  },
+  {
+   "id": "y2k-bug",
+   "title": "Y2K (2000): the doomsday that was fixed, or never coming?",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 2000,
+   "end": null,
+   "dateNote": "Rollover 1 January 2000; remediation through the 1990s",
+   "evidenceTypes": [
+    "documentary",
+    "technical"
+   ],
+   "mainstream": "Many computer programs stored years with only two digits, so that 2000 would be read as 1900. In the late 1990s fears grew that banking, power, transport and military systems could fail at midnight on 31 December 1999; some people stocked food, water, guns and generators and withdrew cash. Governments and companies spent an estimated 300 billion US dollars worldwide on checking and fixing software. When the date rolled over, few major failures occurred.",
+   "alternatives": [
+    {
+     "label": "A success",
+     "text": "One view holds that the problem was real and that the remediation work, much of it unseen, prevented serious failures; supporters point to errors that were caught in testing and to minor glitches that did occur in 2000."
+    },
+    {
+     "label": "An overreaction",
+     "text": "Another view holds that the danger was exaggerated by consultants and the media, noting that countries and small businesses that spent little on preparation had few problems. Both views are still argued."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Year 2000 problem",
+     "url": "https://en.wikipedia.org/wiki/Year_2000_problem",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Bug_de_l%27an_2000.jpg/500px-Bug_de_l%27an_2000.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Bug_de_l%27an_2000.jpg",
+     "author": "Bug de l'an 2000",
+     "license": "CC BY-SA 3.0",
+     "title": "Bug_de_l'an_2000.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "science-cosmos"
+   ],
+   "threads": [
+    "wires-and-waves",
+    "near-misses",
+    "doomsday-dates"
+   ]
+  },
+  {
+   "id": "owlman-1976",
+   "title": "The Owlman of Mawnan (1976): a bird-man over a Cornish church",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 3,
+   "start": 1976,
+   "end": null,
+   "evidenceTypes": [
+    "testimony"
+   ],
+   "mainstream": "On 17 April 1976 two young sisters on holiday in Mawnan, Cornwall, were reported to have seen a large winged 'feathered bird-man' hovering above the tower of the parish church, and their father cut the holiday short. The story was reported by Tony 'Doc' Shiels, a showman and magician who was involved that year in 'monster-raising' stunts, and who said one girl gave him a drawing of what he called the Owlman. Shiels reported a second sighting by two 14-year-old girls on 3 July 1976, and scattered reports followed in 1978, 1979, 1989 and 1995.",
+   "alternatives": [
+    {
+     "label": "A barn owl",
+     "text": "Sceptics suggest misidentification of a large owl such as a barn owl, a species known to nest in church towers."
+    },
+    {
+     "label": "A hoax",
+     "text": "The occult historian Gareth Medway and others suggest the whole story may have been a hoax by Shiels, who was also linked to photographs of the sea monster Morgawr."
+    },
+    {
+     "label": "Cryptid (speculative)",
+     "text": "Some cryptozoologists treat the Owlman as a genuine unknown creature, comparing it with Mothman in West Virginia (1966–67)."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Owlman",
+     "url": "https://en.wikipedia.org/wiki/Owlman",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Mawnan_Church.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Mawnan_Church.jpg",
+     "author": "Kym Moore\n\nUploaded by Fibberwikkle at en.wikipedia",
+     "license": "Public domain",
+     "title": "Mawnan_Church.jpg"
+    }
+   ],
+   "categories": [
+    "anomalies",
+    "hoaxes",
+    "myth-legend"
+   ],
+   "threads": [
+    "hoaxes-exposed",
+    "cryptids",
+    "giant-birds",
+    "seeing-what-we-expect",
+    "modern-legends",
+    "showmen-and-spectacle"
+   ]
+  },
+  {
+   "id": "men-in-black",
+   "title": "The Men in Black: silencers of UFO witnesses",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": 1953,
+   "end": null,
+   "dateNote": "Bender story 1953; popularised 1956",
+   "evidenceTypes": [
+    "testimony",
+    "folklore"
+   ],
+   "mainstream": "In UFO lore, the men in black are mysterious figures in dark suits, often in threes, who visit witnesses and pressure them to keep quiet about what they saw. The idea goes back to Albert K. Bender, who in 1953 closed his International Flying Saucer Bureau saying he had been visited and warned by three men in dark suits; the writer Gray Barker spread the story in his 1956 book They Knew Too Much About Flying Saucers. John Keel later described MIB as uncanny, almost supernatural visitors. The legend inspired the Men in Black comics and films from 1997.",
+   "alternatives": [
+    {
+     "label": "Government agents",
+     "text": "Some ufologists believe the visitors were agents of the US government or military trying to suppress information; officials did sometimes interview witnesses, but no evidence of an organised campaign of intimidation has been found."
+    },
+    {
+     "label": "Folklore and hoax",
+     "text": "The folklorist James R. Lewis compared MIB accounts with traditional tales of meeting the Devil, and John C. Sherwood later wrote that Gray Barker had urged him, as a teenager in the late 1960s, to create a hoax MIB story that Barker then published."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Men in black",
+     "url": "https://en.wikipedia.org/wiki/Men_in_black",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Gray Barker",
+     "url": "https://en.wikipedia.org/wiki/Gray_Barker",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/MiB.svg/500px-MiB.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:MiB.svg",
+     "author": "File:MiB.png by RadioKirk\nVectorised by MesserWoland",
+     "license": "CC BY-SA 3.0",
+     "title": "MiB.svg"
+    }
+   ],
+   "categories": [
+    "aliens-ufo",
+    "myth-legend",
+    "hoaxes"
+   ],
+   "threads": [
+    "ufo-encounters",
+    "hoaxes-exposed",
+    "modern-legends",
+    "rumour-and-disinformation"
+   ]
+  },
+  {
+   "id": "slender-man",
+   "title": "Slender Man (2009): a monster invented on a forum that escaped into the world",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": 2009,
+   "end": null,
+   "statusNote": "Known modern fiction; the 2014 stabbing is fact",
+   "evidenceTypes": [
+    "documentary",
+    "folklore"
+   ],
+   "mainstream": "Slender Man was created in June 2009 by Eric Knudsen, posting as 'Victor Surge' on the Something Awful forum, for a contest to make fake paranormal photographs. His tall, faceless figure in a black suit, lurking behind children, was quickly taken up by other users, who added fake historical sources, including a story set in 16th-century Germany, and he spread through web series such as Marble Hornets and video games. In 2014 two 12-year-old girls in Waukesha, Wisconsin, stabbed a classmate, saying they wanted to please Slender Man, and a moral panic followed; the victim survived.",
+   "alternatives": [
+    {
+     "label": "Folklore in real time",
+     "text": "Folklorists such as Shira Chess describe Slender Man as a rare chance to watch a legend form, and link him to older stories of fairies who steal children; the invented old woodcuts and documents mimic the way older legends gained authority."
+    },
+    {
+     "label": "Legend tripping and harm",
+     "text": "Researchers on the Waukesha case stress that the girls' mental health was central, while others discuss how online legends can blur the line between fiction and belief."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Slender Man",
+     "url": "https://en.wikipedia.org/wiki/Slender_Man",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Slender Man stabbing",
+     "url": "https://en.wikipedia.org/wiki/Slender_Man_stabbing",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Slenderman_redacted_bg.jpg/500px-Slenderman_redacted_bg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Slenderman_redacted_bg.jpg",
+     "author": "LuxAmber",
+     "license": "CC BY-SA 4.0",
+     "title": "Slenderman_redacted_bg.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "hoaxes",
+    "history"
+   ],
+   "threads": [
+    "hoaxes-exposed",
+    "modern-legends",
+    "moral-panics-and-warnings",
+    "media-hoaxes",
+    "internet-folklore"
+   ]
+  },
+  {
+   "id": "heitsi-eibib",
+   "title": "Heitsi-eibib: the Khoikhoi hero who died and rose again, and his stone cairns",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 3,
+   "start": 1881,
+   "end": null,
+   "dateNote": "Recorded in the 19th century; tradition much older",
+   "evidenceTypes": [
+    "oral tradition",
+    "ethnographic records"
+   ],
+   "mainstream": "Heitsi-eibib (also Haitse-aibeb) is a hero and trickster of Khoikhoi tradition in southern Africa, who, with Tsui-ǁGoab and Gaunab, is a central figure of their myths. He is a shapeshifter who appears as a man or a child, is said to have died and come back to life many times, and is not always well behaved. In one story he defeats the monster Ga-Gorib, who sat beside a deep hole and challenged passers-by to throw stones at him, the stones bouncing back to kill them; Heitsi-eibib refused, distracted him, struck him behind the ear and knocked him into his own pit. Many stone cairns in South Africa and Namibia are known as his graves.",
+   "alternatives": [
+    {
+     "label": "Graves of a myth",
+     "text": "The many cairns called Heitsi-eibib's graves tie a mythical figure to real places in the landscape, a pattern also seen in the graves of giants and heroes in Europe and elsewhere; who built each cairn, and when, is usually unknown."
+    },
+    {
+     "label": "Comparisons",
+     "text": "Nineteenth-century collectors compared his repeated deaths and returns with dying-and-rising figures in other religions; modern scholars warn that such comparisons can impose outside frameworks on Khoikhoi belief, which was recorded mostly by missionaries and colonial writers."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Heitsi-eibib",
+     "url": "https://en.wikipedia.org/wiki/Heitsi-eibib",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Khoekhoe",
+     "url": "https://en.wikipedia.org/wiki/Khoekhoe",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [],
+   "categories": [
+    "myth-legend",
+    "religion"
+   ],
+   "threads": [
+    "hidden-tombs",
+    "shapeshifters",
+    "origin-of-death",
+    "southern-africa",
+    "trickster-tales",
+    "sacred-rocks-and-mountains"
+   ]
+  },
+  {
+   "id": "lost-city-kalahari",
+   "title": "The Lost City of the Kalahari: a showman's ruins that turned out to be rock",
+   "lane": "history",
+   "status": "debunked",
+   "priority": 2,
+   "start": 1885,
+   "end": null,
+   "dateNote": "Farini's journey 1885; Clement's study 1964",
+   "evidenceTypes": [
+    "textual",
+    "geological",
+    "travel account"
+   ],
+   "mainstream": "In 1885 William Leonard Hunt, a Canadian tightrope walker and showman known as 'the Great Farini', crossed part of the Kalahari Desert and on his return published a book describing what he took to be the ruins of a long-lost city of stone. A paper was read in his absence to the Royal Geographical Society and photographs from his trip were exhibited. The story became a South African legend, compared with Great Zimbabwe, and inspired many searches; numerous expeditions set out in the 1930s. In 1964 the researcher Clement, working with F. R. Paver, studied Farini's route, concluded he had never reached the heart of the Kalahari, and found along the probable route a formation of dolerite rocks that erodes into straight, regular blocks resembling walls.",
+   "alternatives": [
+    {
+     "label": "A natural formation",
+     "text": "Most researchers accept Clement's conclusion that Farini saw natural dolerite outcrops, possibly embellished by a showman's eye for a good story."
+    },
+    {
+     "label": "Still searched",
+     "text": "Some explorers continue to look for a real ruined city elsewhere in the Kalahari, and television programmes have revisited the 'Clement walls'; no archaeological city has been found."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Lost City of the Kalahari",
+     "url": "https://en.wikipedia.org/wiki/Lost_City_of_the_Kalahari",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: William Leonard Hunt",
+     "url": "https://en.wikipedia.org/wiki/William_Leonard_Hunt",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/South_Africa-_Mr._G.A._Farini%27s_Routes_in_the_Kalahari_Desert_-_DPLA_-_314980487fd2555a44ce0ed60c4af43f.jpg/500px-South_Africa-_Mr._G.A._Farini%27s_Routes_in_the_Kalahari_Desert_-_DPLA_-_314980487fd2555a44ce0ed60c4af43f.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:South_Africa-_Mr._G.A._Farini%27s_Routes_in_the_Kalahari_Desert_-_DPLA_-_314980487fd2555a44ce0ed60c4af43f.jpg",
+     "author": "Milne, H. A",
+     "license": "Public domain",
+     "title": "South Africa- Mr. G.A. Farini's Routes in the Kalahari Desert - DPLA - 314980487fd2555a44ce0ed60c4af43f.jpg"
+    }
+   ],
+   "categories": [
+    "lost-civilisations",
+    "hoaxes",
+    "history"
+   ],
+   "threads": [
+    "lost-civilisations",
+    "outsider-builder-claims",
+    "seeing-what-we-expect",
+    "pareidolia",
+    "travellers-tales",
+    "southern-africa",
+    "showmen-and-spectacle"
+   ]
+  },
+  {
+   "id": "kruger-millions",
+   "title": "The Kruger Millions: the Boer gold that vanished in 1900",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 1900,
+   "end": null,
+   "statusNote": "Removal of the gold documented; a hidden hoard unproven",
+   "evidenceTypes": [
+    "documentary",
+    "oral tradition"
+   ],
+   "mainstream": "In May–June 1900, as British forces approached Pretoria during the Second Boer War, President Paul Kruger's government left the capital. On 4 June the State Attorney Jan Smuts had the gold in the Mint and the National Bank weighed and loaded onto a train east along the Delagoa Bay line. Kruger later left for Europe via Lourenço Marques (Maputo), and a diary records gold being handed to a German firm there in August 1900. British records and later calculations suggest a large amount of gold was never accounted for, giving rise to the legend of the 'Kruger Millions': a hoard buried somewhere in the Lowveld or shipped abroad.",
+   "alternatives": [
+    {
+     "label": "Buried in the bushveld",
+     "text": "Many stories place the gold in hiding places along the railway or in the hills of Mpumalanga, and treasure hunters still search; no hoard has been found."
+    },
+    {
+     "label": "Spent or exported",
+     "text": "Other accounts hold that the gold was used to fund the Boer war effort and Kruger's exile, or was shipped to Europe, and that the missing quantities reflect gaps in the records rather than buried treasure."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Kruger Millions",
+     "url": "https://en.wikipedia.org/wiki/Kruger_Millions",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Paul Kruger",
+     "url": "https://en.wikipedia.org/wiki/Paul_Kruger",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/INGRAM1891_pg134_Stephanus_Johannes_Palus_Kruger.jpg/500px-INGRAM1891_pg134_Stephanus_Johannes_Palus_Kruger.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:INGRAM1891_pg134_Stephanus_Johannes_Palus_Kruger.jpg",
+     "author": "Unknown",
+     "license": "Public domain",
+     "title": "INGRAM1891_pg134_Stephanus_Johannes_Palus_Kruger.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "myth-legend"
+   ],
+   "threads": [
+    "lost-treasures",
+    "modern-legends",
+    "southern-africa"
+   ]
+  },
+  {
+   "id": "daedalus-sea-serpent",
+   "title": "The HMS Daedalus sea serpent (1848): a navy captain's monster",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 1848,
+   "end": null,
+   "dateNote": "6 August 1848; Gloucester sightings from 1817",
+   "evidenceTypes": [
+    "testimony",
+    "textual"
+   ],
+   "mainstream": "On 6 August 1848 Captain Peter M'Quhae of the Royal Navy frigate HMS Daedalus, sailing for Saint Helena, and several officers and crew reported a huge serpent-like animal swimming past the ship, with its head held above the water, in view for about twenty minutes. The captain said it passed so close that he could have recognised a man's features. His report, published in The Times, caused a sensation, and the anatomist Richard Owen publicly argued that the crew had seen a large seal. Earlier, from August 1817, hundreds of people at Gloucester, Massachusetts, reported a sea serpent off Cape Ann, investigated by the Linnaean Society of New England.",
+   "alternatives": [
+    {
+     "label": "Known animals",
+     "text": "Proposed explanations include a large seal, a sei whale (argued by Galbreath), a giant squid, floating seaweed, or the oarfish, a very long fish that may lie behind many sea-serpent sightings."
+    },
+    {
+     "label": "An unknown animal (speculative)",
+     "text": "Some cryptozoologists argue that consistent reports by experienced sailors point to an undiscovered large marine animal; no specimen has been found."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Sea serpent",
+     "url": "https://en.wikipedia.org/wiki/Sea_serpent",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Gloucester sea serpent",
+     "url": "https://en.wikipedia.org/wiki/Gloucester_sea_serpent",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/The_Great_Sea-Serpent_-_ILN_1848.jpg/500px-The_Great_Sea-Serpent_-_ILN_1848.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:The_Great_Sea-Serpent_-_ILN_1848.jpg",
+     "author": "Edwin Weedon / After Frederick James Smyth",
+     "license": "Public domain",
+     "title": "The Great Sea-Serpent - ILN 1848.jpg"
+    }
+   ],
+   "categories": [
+    "anomalies",
+    "myth-legend",
+    "history"
+   ],
+   "threads": [
+    "cryptids",
+    "serpent-beings",
+    "sea-mysteries",
+    "seeing-what-we-expect",
+    "travellers-tales"
+   ]
+  },
+  {
+   "id": "aswang",
+   "title": "The aswang: shapeshifting ghouls of the Philippines, and a Cold War trick",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": 1589,
+   "end": null,
+   "dateNote": "Recorded by Spanish friars in the 16th century; tradition older",
+   "evidenceTypes": [
+    "oral tradition",
+    "textual"
+   ],
+   "mainstream": "Aswang is a general Filipino name for malevolent shapeshifting creatures: vampires, ghouls, witches, viscera-suckers and beings that turn into dogs, cats or pigs. Spanish friars in the 16th century, including Juan de Plasencia in 1589, recorded beliefs in such beings, including the manananggal, a creature that appeared at night without its head or entrails, and noted that the aswang was the most feared of all. The belief is strongest in parts of the Visayas, especially the province of Capiz, often called the aswang's home.",
+   "alternatives": [
+    {
+     "label": "A weapon of psychological war",
+     "text": "In the early 1950s the US officer Edward Lansdale, advising the Philippine government against the Huk rebellion, spread rumours that aswangs were loose in the jungle; his men then drained the blood from a captured rebel's body and left it to be found, and the Huks fled the area. The tactic had earlier been used by the Japanese army in the Second World War."
+    },
+    {
+     "label": "Social meaning",
+     "text": "Scholars suggest the aswang's behaviour can be read as an inversion of traditional Filipino values, a mirror of what a community fears, much as witch beliefs work elsewhere."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Aswang",
+     "url": "https://en.wikipedia.org/wiki/Aswang",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Edward Lansdale",
+     "url": "https://en.wikipedia.org/wiki/Edward_Lansdale",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Aswang%2C_common_form.jpg/500px-Aswang%2C_common_form.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Aswang,_common_form.jpg",
+     "author": "H.M.Bec",
+     "license": "CC BY-SA 4.0",
+     "title": "Aswang,_common_form.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "history"
+   ],
+   "threads": [
+    "shapeshifters",
+    "island-southeast-asia",
+    "vampire-panics",
+    "night-demons",
+    "rumour-and-disinformation"
+   ]
+  },
+  {
+   "id": "tikbalang",
+   "title": "The tikbalang: the horse-headed trickster of Philippine forests",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 3,
+   "start": 1589,
+   "end": null,
+   "dateNote": "Recorded from 1589; horse form later",
+   "evidenceTypes": [
+    "oral tradition",
+    "textual"
+   ],
+   "mainstream": "The tikbalang of Philippine folklore is a tall, bony creature with the head and hooves of a horse and limbs so long that its knees rise above its head when it squats. It haunts mountains and forests and leads travellers astray so that they walk in circles; wearing one's shirt inside out is said to break the spell. When the sun shines during rain, people say a tikbalang is getting married. Early Spanish sources, such as Juan de Plasencia's account of Tagalog customs (1589), described tigbalang only as forest ghosts or spirits; since horses were not native to the islands before the Spanish, the horse form appears to have been added later.",
+   "alternatives": [
+    {
+     "label": "A borrowed shape?",
+     "text": "Folklorists note the horse form probably developed after the arrival of horses, while the older idea of a wild forest spirit is pre-colonial; the sunshower saying has close parallels in other cultures, such as Japan's fox's wedding."
+    },
+    {
+     "label": "A real experience",
+     "text": "Some writers link stories of being led in circles to genuine disorientation in dense forest; for believers, the tikbalang remains a real presence."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Tikbalang",
+     "url": "https://en.wikipedia.org/wiki/Tikbalang",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Tikbalang_The_Philippine_Demon_Horse_Commons.jpg/500px-Tikbalang_The_Philippine_Demon_Horse_Commons.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Tikbalang_The_Philippine_Demon_Horse_Commons.jpg",
+     "author": "The original uploader was Rodsan18 at English Wikipedia.\n\n(Original text: Original illustration of Dragonbite (copyright",
+     "license": "CC BY 2.5",
+     "title": "Tikbalang_The_Philippine_Demon_Horse_Commons.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend"
+   ],
+   "threads": [
+    "island-southeast-asia",
+    "trickster-tales"
    ]
   }
  ]
