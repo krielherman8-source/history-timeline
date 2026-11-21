@@ -32111,7 +32111,8 @@
    "threads": [
     "suppressed-beliefs",
     "trade-networks",
-    "silk-road"
+    "silk-road",
+    "lost-tribes"
    ]
   },
   {
@@ -76088,6 +76089,707 @@
     "origins-of-writing",
     "decipherments",
     "bronze-age-world"
+   ]
+  },
+  {
+   "id": "sri-maha-bodhi",
+   "title": "Jaya Sri Maha Bodhi: a 2,300-year-old tree from the Buddha's fig",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -236,
+   "end": null,
+   "dateNote": "236 BCE (traditional date in the Mahavamsa)",
+   "evidenceTypes": [
+    "textual",
+    "botanical",
+    "oral tradition"
+   ],
+   "mainstream": "The Jaya Sri Maha Bodhi is a sacred fig tree (Ficus religiosa) in the Mahamewuna Garden of Anuradhapura, the ancient royal capital of Sri Lanka. According to the Sri Lankan chronicle the Mahavamsa, it was grown from a cutting of the southern branch of the tree at Bodh Gaya in India under which the Buddha is believed to have attained enlightenment, brought to the island in 236 BCE (traditional date) by the nun Sanghamitta, a daughter of the emperor Ashoka, during the reign of King Devanampiya Tissa. It is described as the oldest living human-planted tree in the world with a recorded planting date. Anuradhapura, now a World Heritage Site, was the centre of Theravada Buddhism and of the island's great irrigation works for well over a thousand years.",
+   "alternatives": [
+    {
+     "label": "Chronicle and tree",
+     "text": "The planting date comes from the Mahavamsa, a Buddhist chronicle compiled in the 5th–6th centuries CE from older traditions; historians accept that the tree has been tended continuously for many centuries, but the exact early date rests on the chronicle."
+    },
+    {
+     "label": "The original tree",
+     "text": "The tree at Bodh Gaya itself has been destroyed and replanted several times, and saplings from the Sri Lankan tree are said to have been used to replace it; this makes the Anuradhapura tree, in Buddhist tradition, a link back to the original."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Jaya Sri Maha Bodhi",
+     "url": "https://en.wikipedia.org/wiki/Jaya_Sri_Maha_Bodhi",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Anuradhapura",
+     "url": "https://en.wikipedia.org/wiki/Anuradhapura",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Photograph_of_Jaya_Sri_Maha_Bodhi_Anuradhapura_Sri_Lanka.jpg/500px-Photograph_of_Jaya_Sri_Maha_Bodhi_Anuradhapura_Sri_Lanka.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Photograph_of_Jaya_Sri_Maha_Bodhi_Anuradhapura_Sri_Lanka.jpg",
+     "author": "A Derivative Work by MediaJet, from Images Credited above.",
+     "license": "CC BY 2.0",
+     "title": "Photograph_of_Jaya_Sri_Maha_Bodhi_Anuradhapura_Sri_Lanka.jpg"
+    }
+   ],
+   "categories": [
+    "religion",
+    "history"
+   ],
+   "threads": [
+    "sacred-relics",
+    "water-engineering",
+    "south-asian-epics"
+   ]
+  },
+  {
+   "id": "baekje-incense-burner",
+   "title": "The Gilt-bronze Incense Burner of Baekje: a lost kingdom's masterpiece found in the mud",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 567,
+   "end": null,
+   "dateNote": "Probably 6th century; found 1993",
+   "evidenceTypes": [
+    "archaeological"
+   ],
+   "mainstream": "In 1993 archaeologists excavating a temple site at Neungsan-ri in Buyeo, South Korea, the last capital of the kingdom of Baekje, found a large gilt-bronze incense burner preserved in a waterlogged pit. Standing 64 cm high and weighing 11.8 kg, it was probably made in the 6th century. Its lid rises as a mountain landscape full of figures, animals and musicians, crowned by a phoenix, and the bowl rests on a dragon. It was the largest of about 450 objects found at the site and was designated National Treasure of Korea No. 287 in 1996; it is displayed at the Buyeo National Museum. Baekje was conquered in 660 by an alliance of Silla and Tang China, and few of its works survived.",
+   "alternatives": [
+    {
+     "label": "Hidden in haste?",
+     "text": "Archaeologists have suggested the burner was buried deliberately to save it, perhaps when the Silla–Tang armies captured Buyeo in 660, which would explain why such a precious object lay in a workshop pit."
+    },
+    {
+     "label": "Chinese model, Korean art",
+     "text": "The design follows Chinese \"boshan\" mountain censers, which show the island mountains of the immortals; scholars debate how much its imagery reflects Daoist ideas of immortality, Buddhist cosmology or Baekje's own beliefs."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Gilt-bronze Incense Burner of Baekje",
+     "url": "https://en.wikipedia.org/wiki/Gilt-bronze_Incense_Burner_of_Baekje",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Paekche",
+     "url": "https://en.wikipedia.org/wiki/Paekche",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Baekje_Incense_Burner_NT_287_%281%29.jpg/500px-Baekje_Incense_Burner_NT_287_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Baekje_Incense_Burner_NT_287_(1).jpg",
+     "author": "G41rn8",
+     "license": "CC BY-SA 4.0",
+     "title": "Baekje_Incense_Burner_NT_287_(1).jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history",
+    "religion"
+   ],
+   "threads": [
+    "lost-treasures",
+    "elixirs-of-immortality",
+    "korean-kingdoms"
+   ]
+  },
+  {
+   "id": "wu-zetian",
+   "title": "Wu Zetian: China's only female emperor and her unopened tomb",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": 690,
+   "end": 705,
+   "evidenceTypes": [
+    "textual",
+    "archaeological"
+   ],
+   "mainstream": "Wu Zhao (624–705), known as Wu Zetian, was the only undisputed female sovereign in Chinese history. A former concubine of Emperor Taizong of Tang, she became empress to his son Gaozong in 655, governed for him after his stroke in 660, and ruled through her sons after his death in 683. In 690 she proclaimed her own Zhou dynasty and took the title of emperor, ruling until she was forced to abdicate in 705. She used informants and harsh laws, purged rivals, expanded the civil service examinations to promote officials by merit, and was a major patron of Buddhism. She was buried with Gaozong in the Qianling Mausoleum near Xi'an, which is believed never to have been looted and has not been excavated.",
+   "alternatives": [
+    {
+     "label": "A wicked usurper?",
+     "text": "Traditional Confucian historians portrayed her as a ruthless usurper who murdered her own children and rivals; some accusations, such as the killing of her infant daughter, are now regarded by many historians as later propaganda or impossible to verify."
+    },
+    {
+     "label": "A capable ruler",
+     "text": "Many modern historians emphasise her administrative ability, the stability of her reign and her promotion of talented officials, while still recognising the violence of her purges. A blank \"wordless stele\" stands at her tomb, variously interpreted as modesty or a challenge to later historians."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Wu Zetian",
+     "url": "https://en.wikipedia.org/wiki/Wu_Zetian",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Qianling Mausoleum",
+     "url": "https://en.wikipedia.org/wiki/Qianling_Mausoleum",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/%E5%94%90%E5%90%8E%E8%A1%8C%E5%BE%9E%E5%9C%96_%28%E5%B1%80%E9%83%A8%29_-_%E6%AD%A6%E5%89%87%E5%A4%A9.png/500px-%E5%94%90%E5%90%8E%E8%A1%8C%E5%BE%9E%E5%9C%96_%28%E5%B1%80%E9%83%A8%29_-_%E6%AD%A6%E5%89%87%E5%A4%A9.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:%E5%94%90%E5%90%8E%E8%A1%8C%E5%BE%9E%E5%9C%96_(%E5%B1%80%E9%83%A8)_-_%E6%AD%A6%E5%89%87%E5%A4%A9.png",
+     "author": "Likely to be Zhang Xuan (张萱)",
+     "license": "Public domain",
+     "title": "唐后行從圖_(局部)_-_武則天.png"
+    }
+   ],
+   "categories": [
+    "history"
+   ],
+   "threads": [
+    "hidden-tombs",
+    "sacred-kingship",
+    "visionary-women",
+    "royal-propaganda"
+   ]
+  },
+  {
+   "id": "an-lushan-rebellion",
+   "title": "The An Lushan rebellion: the war that broke the Tang dynasty",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 755,
+   "end": 763,
+   "evidenceTypes": [
+    "textual"
+   ],
+   "mainstream": "The An Lushan rebellion was a civil war in China from 755 to 763, at the midpoint of the Tang dynasty. An Lushan, a frontier general of Sogdian and Turkic descent who had become a favourite at the court of Emperor Xuanzong, launched a revolt from Fanyang (near modern Beijing) on 16 December 755 and declared a new Yan dynasty. The rebels captured Luoyang and then the capital Chang'an; the emperor fled towards Sichuan, and on the way his troops forced the execution of his beloved consort Yang Guifei, whose family they blamed. An Lushan was murdered by his son in 757, and the rebellion passed to Shi Siming and his son before collapsing in 763, with help for the Tang from Uyghur and other allied forces.",
+   "alternatives": [
+    {
+     "label": "How many died?",
+     "text": "Tang census returns fell from about 53 million people before the war to about 17 million afterwards, and the rebellion is sometimes listed among the deadliest wars in history. Most historians think much of the drop reflects the collapse of tax registration rather than deaths alone, so the true toll is unknown."
+    },
+    {
+     "label": "A turning point",
+     "text": "The war weakened central government, left regional military governors (jiedushi) powerful, and is often seen as the turning point of the Tang; it also inspired some of the greatest Chinese poetry, including works by Du Fu, and the later legend of Yang Guifei as a tragic beauty."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: An Lushan rebellion",
+     "url": "https://en.wikipedia.org/wiki/An_Lushan_rebellion",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: An Lushan",
+     "url": "https://en.wikipedia.org/wiki/An_Lushan",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Yang Guifei",
+     "url": "https://en.wikipedia.org/wiki/Yang_Guifei",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/An_Lushan_Rebellion.png/500px-An_Lushan_Rebellion.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:An_Lushan_Rebellion.png",
+     "author": "SY",
+     "license": "CC BY-SA 4.0",
+     "title": "An Lushan Rebellion.png"
+    }
+   ],
+   "categories": [
+    "history",
+    "catastrophes"
+   ],
+   "threads": [
+    "civilisation-collapses",
+    "silk-road",
+    "steppe-empires"
+   ]
+  },
+  {
+   "id": "charlemagne",
+   "title": "Charlemagne: crowned emperor in 800, and the king who sleeps in a mountain",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": 800,
+   "end": 814,
+   "evidenceTypes": [
+    "textual",
+    "archaeological",
+    "legend"
+   ],
+   "mainstream": "Charlemagne (748–814) became king of the Franks in 768, conquered the Lombard kingdom of Italy in 774, and through decades of campaigns brought Saxony, Bavaria and much of western and central Europe under his rule, forcibly converting the Saxons. On Christmas Day 800, Pope Leo III crowned him emperor in St Peter's in Rome, the first emperor in the west in about three centuries. His court at Aachen became the centre of a revival of learning, the Carolingian Renaissance, which produced the clear Carolingian minuscule handwriting from which modern lower-case letters descend. He exchanged embassies with the Abbasid caliph Harun al-Rashid, who sent him an elephant named Abul-Abbas. He died in 814 and was buried at Aachen.",
+   "alternatives": [
+    {
+     "label": "The opened tomb",
+     "text": "According to an 11th-century chronicle, Emperor Otto III opened Charlemagne's tomb in the year 1000 and found him seated upright on a throne, crowned and incorrupt; historians regard the details as legend."
+    },
+    {
+     "label": "Sleeping hero",
+     "text": "Like King Arthur and Frederick Barbarossa, Charlemagne appears in folk legend as a king asleep inside a mountain, such as the Untersberg near Salzburg, waiting to return in his people's hour of need; medieval epics such as the Song of Roland also made him a legendary figure."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Charlemagne",
+     "url": "https://en.wikipedia.org/wiki/Charlemagne",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Carolingian Renaissance",
+     "url": "https://en.wikipedia.org/wiki/Carolingian_Renaissance",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Charlemagne_denier_Mayence_812_814.jpg/500px-Charlemagne_denier_Mayence_812_814.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Charlemagne_denier_Mayence_812_814.jpg",
+     "author": "Charlemagne. Autorité émettrice de monnaie\n\nindéterminé. Atelier monétaire. Émetteur",
+     "license": "Public domain",
+     "title": "Charlemagne_denier_Mayence_812_814.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "myth-legend"
+   ],
+   "threads": [
+    "hidden-tombs",
+    "sacred-kingship",
+    "sleeping-heroes",
+    "myths-about-history"
+   ]
+  },
+  {
+   "id": "norse-greenland",
+   "title": "The Norse of Greenland: a colony that vanished",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 985,
+   "end": 1450,
+   "dateNote": "c. 985 – mid-15th century",
+   "evidenceTypes": [
+    "archaeological",
+    "textual",
+    "isotopic"
+   ],
+   "mainstream": "Norse settlers from Iceland, led according to the sagas by Erik the Red, began settling south-west Greenland around 985–986. At its height the Eastern Settlement had perhaps 4,000 people, with about 500 farms and 16 churches, and the smaller Western Settlement lay further north. The colonists kept cattle and sheep, hunted seals, and exported walrus ivory to Europe. Greenland was also the base for voyages to Vinland in North America. The Western Settlement was abandoned around the mid-14th century, and the last written record from the Eastern Settlement is of a wedding at Hvalsey church in 1408. When a Danish-Norwegian mission arrived in 1721 to find the Norse, it found only Inuit, whose Thule ancestors had moved into Greenland from about 1200.",
+   "alternatives": [
+    {
+     "label": "Why did they disappear?",
+     "text": "Proposed explanations include the cooling of the Little Ice Age, the collapse of the European market for walrus ivory, isolation as ships from Norway became rare, conflict with the Inuit, soil erosion, and gradual emigration; most researchers now think several factors combined."
+    },
+    {
+     "label": "Failed or adaptable?",
+     "text": "Some writers, notably Jared Diamond, portrayed the Norse as too conservative to adapt; isotope studies of skeletons show they ate increasing amounts of seal and fish, and many archaeologists now argue they adapted considerably before leaving or dying out."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Norse settlements in Greenland",
+     "url": "https://en.wikipedia.org/wiki/Norse_settlements_in_Greenland",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Eastern Settlement",
+     "url": "https://en.wikipedia.org/wiki/Eastern_Settlement",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Hvalsey Church",
+     "url": "https://en.wikipedia.org/wiki/Hvalsey_Church",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Hvalsey_Church.jpg/500px-Hvalsey_Church.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Hvalsey_Church.jpg",
+     "author": "Number 57 at English Wikipedia",
+     "license": "CC0",
+     "title": "Hvalsey Church.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology",
+    "lost-civilisations"
+   ],
+   "threads": [
+    "civilisation-collapses",
+    "disappearances",
+    "arctic-peoples",
+    "abrupt-climate-shocks",
+    "who-got-there-first"
+   ]
+  },
+  {
+   "id": "huanchaquito-las-llamas",
+   "title": "Huanchaquito-Las Llamas: the Chimú mass sacrifice of children and llamas",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1450,
+   "end": null,
+   "evidenceTypes": [
+    "archaeological",
+    "bioarchaeological",
+    "radiocarbon"
+   ],
+   "mainstream": "At Huanchaquito-Las Llamas, on the coast of northern Peru near the Chimú capital Chan Chan, archaeologists led by Gabriel Prieto and John Verano excavated in the 2010s the remains of more than 140 children, mostly aged between about 5 and 14, and over 200 young llamas, sacrificed in a single event dated to around 1450 CE. Many of the children's breastbones showed cuts consistent with their chests being opened, possibly to remove the heart. The burials lay in a layer of mud, which the excavators suggest was laid down after heavy rain and flooding on the normally arid coast.",
+   "alternatives": [
+    {
+     "label": "A response to El Niño?",
+     "text": "The excavators proposed that the sacrifice was an attempt to stop the extreme rains and floods of an El Niño event that would have devastated the Chimú economy; this is a widely discussed interpretation but cannot be proven directly."
+    },
+    {
+     "label": "Largest known?",
+     "text": "It has been described as the largest known single mass sacrifice of children in the Americas, and perhaps in the world; further sacrifice sites have since been reported nearby. The Chimú kingdom was conquered by the Inca around 1470."
+    }
+   ],
+   "sources": [
+    {
+     "title": "A mass sacrifice of children and camelids at the Huanchaquito-Las Llamas site, Moche Valley, Peru",
+     "authors": "Prieto, G. et al.",
+     "year": 2019,
+     "doi": "10.1371/journal.pone.0211691",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: Chimor",
+     "url": "https://en.wikipedia.org/wiki/Chimor",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [],
+   "categories": [
+    "archaeology",
+    "religion",
+    "catastrophes"
+   ],
+   "threads": [
+    "rain-and-drought",
+    "human-sacrifice",
+    "andean-empires",
+    "abrupt-climate-shocks"
+   ]
+  },
+  {
+   "id": "ten-lost-tribes",
+   "title": "The Ten Lost Tribes of Israel: the exile that launched a thousand theories",
+   "lane": "myth",
+   "status": "disputed",
+   "priority": 1,
+   "start": -720,
+   "end": null,
+   "statusNote": "Assyrian conquest confirmed; fate of the tribes legendary",
+   "evidenceTypes": [
+    "textual",
+    "archaeological",
+    "genetic",
+    "oral tradition"
+   ],
+   "mainstream": "According to the Bible, ten of the twelve tribes of Israel lived in the northern Kingdom of Israel, which was conquered by the Neo-Assyrian Empire around 722–720 BCE; its people were deported and resettled elsewhere in the empire, as Assyrian records and the Bible both describe. Only Judah and Benjamin, in the southern kingdom of Judah, and part of Levi remained identifiable. The Jewish historian Josephus wrote in the 1st century that the ten tribes still lived beyond the Euphrates as an immense multitude, and in later Jewish and Christian tradition their return was linked with the coming of the Messiah. Over the centuries, groups from Afghanistan and India to Africa, Japan, the British Isles and the Americas have been claimed as their descendants.",
+   "alternatives": [
+    {
+     "label": "Mainstream historians",
+     "text": "Most historians think the Assyrians deported only part of Israel's population, mainly the elite, and that the deportees were gradually absorbed into other peoples, while many Israelites remained in the land or fled south to Judah; the Samaritans trace their descent to them."
+    },
+    {
+     "label": "Descent claims",
+     "text": "Claims of lost-tribe descent have been made for the Pashtuns, the Bnei Menashe of north-east India, the Beta Israel of Ethiopia, the Lemba of southern Africa, Native Americans, and the British (British Israelism), among others; a few communities have been recognised by Israeli religious authorities, while most claims are regarded by historians and geneticists as unsupported."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Ten Lost Tribes",
+     "url": "https://en.wikipedia.org/wiki/Ten_Lost_Tribes",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Assyrian captivity",
+     "url": "https://en.wikipedia.org/wiki/Assyrian_captivity",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/The_Black_Obelisk_of_Shalmaneser_III%2C_9th_century_BC%2C_from_Nimrud%2C_Iraq._The_British_Museum.jpg/500px-The_Black_Obelisk_of_Shalmaneser_III%2C_9th_century_BC%2C_from_Nimrud%2C_Iraq._The_British_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:The_Black_Obelisk_of_Shalmaneser_III,_9th_century_BC,_from_Nimrud,_Iraq._The_British_Museum.jpg",
+     "author": "Osama Shukir Muhammed Amin FRCP(Glasg)",
+     "license": "CC BY-SA 4.0",
+     "title": "The_Black_Obelisk_of_Shalmaneser_III,_9th_century_BC,_from_Nimrud,_Iraq._The_British_Museum.jpg"
+    }
+   ],
+   "categories": [
+    "religion",
+    "history",
+    "myth-legend"
+   ],
+   "threads": [
+    "disappearances",
+    "ancestral-homelands",
+    "returning-saviours",
+    "genetic-migrations",
+    "levant-crossroads",
+    "myths-about-history",
+    "bible-and-archaeology",
+    "lost-tribes"
+   ]
+  },
+  {
+   "id": "lemba-ngoma",
+   "title": "The Lemba: a lost-tribe tradition, DNA and the \"drum that thunders\"",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 1996,
+   "end": null,
+   "dateNote": "Genetic studies 1996–2013; date of the ancestral migration unknown",
+   "evidenceTypes": [
+    "genetic",
+    "oral tradition",
+    "archaeological"
+   ],
+   "mainstream": "The Lemba (who call themselves Sena and are also known as Mwenye) are a people of South Africa, Zimbabwe, Mozambique and Malawi whose oral traditions say their ancestors came by sea from a city called Sena, and who kept customs such as food taboos, male circumcision and ritual slaughter that reminded outsiders of Jewish practice. Y-chromosome studies by Spurdle and Jenkins (1996), Thomas and colleagues (2000) and Himla Soodyall (2013) found that a large share of Lemba paternal ancestry comes from western Asia, while their maternal ancestry is African; the 2000 study reported the 'Cohen modal haplotype', associated with Jewish priestly families, among some Lemba men. Their tradition also tells of a sacred drum, the ngoma lungundu, said to have been the Ark of the Covenant.",
+   "alternatives": [
+    {
+     "label": "Israelite or Arabian ancestry?",
+     "text": "The 2000 study was widely reported as genetic support for Jewish ancestry. Soodyall's higher-resolution 2013 study did not detect Y chromosomes typically linked to Jewish ancestry and suggested the non-African ancestry more probably came from Arab and other traders of the Indian Ocean network; most researchers now think the ancestors of Sena were likely in southern Arabia, possibly the Hadhramaut in Yemen."
+    },
+    {
+     "label": "The ngoma and the Ark",
+     "text": "In 2007 the historian Tudor Parfitt identified an old ngoma in a museum in Harare and suggested in a 2008 book and documentary that it was a descendant of the biblical Ark; most scholars regard the link to the Ark as speculative."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Y Chromosomes Traveling South: The Cohen Modal Haplotype and the Origins of the Lemba—the “Black Jews of Southern Africa”",
+     "authors": "Thomas, M. et al.",
+     "year": 2000,
+     "doi": "10.1086/302749",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: Lemba people",
+     "url": "https://en.wikipedia.org/wiki/Lemba_people",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Lemba_Elder.jpg/500px-Lemba_Elder.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Lemba_Elder.jpg",
+     "author": "Sanali.SD",
+     "license": "CC BY-SA 4.0",
+     "title": "Lemba_Elder.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "religion",
+    "science-cosmos"
+   ],
+   "threads": [
+    "sacred-relics",
+    "ancestral-homelands",
+    "genetic-migrations",
+    "sacred-vessels",
+    "tested-by-experiment",
+    "southern-africa",
+    "lost-tribes"
+   ]
+  },
+  {
+   "id": "city-of-ys",
+   "title": "Ys: the Breton city drowned by the sea",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": 1480,
+   "end": null,
+   "dateNote": "Legend set in the 5th–6th centuries; first written mention 1480",
+   "evidenceTypes": [
+    "mythological",
+    "folklore",
+    "textual"
+   ],
+   "mainstream": "Ys (Kêr-Is in Breton) is a legendary city on the coast of Brittany, usually placed in the Bay of Douarnenez, which was swallowed by the sea. In the best-known version, King Gradlon ruled a rich city built on land reclaimed from the sea and protected by a dike whose gate had a single key. His wayward daughter Dahut stole the key, often at the urging of a lover who was the Devil in disguise, and opened the gate; the sea poured in, and as Gradlon fled on horseback a saint ordered him to throw off his daughter, who became a sea spirit. The story appears to have taken shape between the late 15th century, when Pierre Le Baud mentioned Ys in 1480, and the 17th century, with Dahut first named in 1680, and was popularised in the 19th century.",
+   "alternatives": [
+    {
+     "label": "Memory of a drowned coast?",
+     "text": "Some writers suggest the legend preserves a memory of the rising sea and of land and settlements lost on the Breton coast, as with Lyonesse and the drowned lands of Wales; there is no archaeological evidence for a city of Ys, and folklorists see the story as a moral tale of sin and divine punishment."
+    },
+    {
+     "label": "Bells under the sea",
+     "text": "19th-century folklorists recorded beliefs that the ruins could be seen at low tide or its church bells heard beneath the waves, a motif found in many drowned-city legends from Kitezh to Cardigan Bay."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Ys",
+     "url": "https://en.wikipedia.org/wiki/Ys",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Gradlon",
+     "url": "https://en.wikipedia.org/wiki/Gradlon",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Evariste-Vital_Luminais_-_Fuite_de_Gradlon.jpg/500px-Evariste-Vital_Luminais_-_Fuite_de_Gradlon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Evariste-Vital_Luminais_-_Fuite_de_Gradlon.jpg",
+     "author": "Évariste-Vital Luminais",
+     "license": "Public domain",
+     "title": "Evariste-Vital_Luminais_-_Fuite_de_Gradlon.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "catastrophes"
+   ],
+   "threads": [
+    "sunken-cities",
+    "vanished-landscapes",
+    "divine-punishment",
+    "water-spirits",
+    "celtic-worlds"
+   ]
+  },
+  {
+   "id": "zerzura",
+   "title": "Zerzura: the lost white oasis of the Sahara",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": 1250,
+   "end": null,
+   "dateNote": "First mention 13th century; searches 1830s–1930s",
+   "evidenceTypes": [
+    "textual",
+    "exploration"
+   ],
+   "mainstream": "Zerzura is a legendary oasis or city in the deserts west of the Nile. A village called Zarzura appears among abandoned villages in a 13th-century tax register of the Fayyum, and the treasure hunters' manual Kitab al-Kanuz describes a white city 'like a dove', with a bird carved on its gate holding a key in its beak, and a sleeping king and queen inside with great treasure. In 1835 the Egyptologist John Gardner Wilkinson reported an Arab account of an 'Oasis called Wadee Zerzoora' with palms, springs and ruins, west of the Farafra–Bahariya route. In the 1920s and 1930s explorers including Ralph Bagnold and László Almásy searched for it by car and plane; in 1932–33 Almásy and Patrick Clayton located rain-fed valleys in the Gilf Kebir plateau, sometimes identified as the 'Zerzura' wadis.",
+   "alternatives": [
+    {
+     "label": "Real valleys",
+     "text": "Some explorers argued that the Gilf Kebir valleys, with seasonal vegetation and rock art such as the Cave of Swimmers found by Almásy, were the real source of the legend; others think Zerzura was always a treasure-hunters' fable."
+    },
+    {
+     "label": "The Zerzura Club",
+     "text": "Bagnold and his companions founded a light-hearted \"Zerzura Club\"; their desert experience later shaped the Long Range Desert Group in the Second World War, and Almásy's story inspired the novel and film The English Patient."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Zerzura",
+     "url": "https://en.wikipedia.org/wiki/Zerzura",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Gilf Kebir",
+     "url": "https://en.wikipedia.org/wiki/Gilf_Kebir",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Gilf_Kebir_jan_2007_rock_carvings.jpg/500px-Gilf_Kebir_jan_2007_rock_carvings.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Gilf_Kebir_jan_2007_rock_carvings.jpg",
+     "author": "Ilan Molcho https://www.flickr.com/people/98489045@N00/",
+     "license": "CC BY 2.0",
+     "title": "Gilf Kebir jan 2007 rock carvings.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "lost-civilisations",
+    "history"
+   ],
+   "threads": [
+    "hidden-kingdoms",
+    "lost-treasures",
+    "travellers-tales",
+    "cities-of-gold"
+   ]
+  },
+  {
+   "id": "gumiho",
+   "title": "The gumiho: Korea's nine-tailed fox",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 3,
+   "start": 1100,
+   "end": null,
+   "dateNote": "Goryeo period onwards (fox spirits earlier)",
+   "evidenceTypes": [
+    "mythological",
+    "folklore",
+    "textual"
+   ],
+   "mainstream": "The gumiho or kumiho ('nine-tailed fox') is a fox spirit of Korean folklore, related to the Chinese jiuweihu, the Japanese kitsune and the Vietnamese hồ ly tinh. Korea's early histories, the Samguk sagi and Samguk yusa, already tell of white foxes able to take human form, but nine-tailed foxes appear in Korean records only from the Goryeo period onwards. In folk tales of the Joseon dynasty the gumiho usually appears as a deceptive and dangerous shapeshifter, often a beautiful woman, and in the well-known tale 'The Fox Sister' a much-wished-for daughter turns out to be a fox demon who secretly eats the family's livestock and then her parents. The term was also used to denounce treacherous officials.",
+   "alternatives": [
+    {
+     "label": "Wicked or tragic?",
+     "text": "Older Korean tales mostly show foxes as malevolent, which scholars partly link to Confucian views that placed animals below humans; in modern films and television dramas the gumiho has become a tragic figure who longs to become human."
+    },
+    {
+     "label": "A shared East Asian creature",
+     "text": "Folklorists trace the nine-tailed fox to ancient Chinese texts such as the Shanhaijing, where it could be an omen of good fortune; its image in Korea, Japan and Vietnam developed differently in each culture."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Gumiho",
+     "url": "https://en.wikipedia.org/wiki/Gumiho",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Nine-tailed fox",
+     "url": "https://en.wikipedia.org/wiki/Nine-tailed_fox",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/KUMIHO.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:KUMIHO.jpg",
+     "author": "국립국어원",
+     "license": "CC BY-SA 2.0 kr",
+     "title": "KUMIHO.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend"
+   ],
+   "threads": [
+    "shapeshifters",
+    "korean-kingdoms",
+    "night-demons"
    ]
   }
  ]
