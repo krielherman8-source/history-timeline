@@ -76791,6 +76791,375 @@
     "korean-kingdoms",
     "night-demons"
    ]
+  },
+  {
+   "id": "adze-firefly-vampire",
+   "title": "The adze: the Ewe firefly vampire",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 3,
+   "start": 1900,
+   "end": null,
+   "dateNote": "Recorded in 20th-century ethnography; age of the belief unknown",
+   "evidenceTypes": [
+    "folklore",
+    "oral tradition"
+   ],
+   "mainstream": "The adze is a vampiric being in the folklore of the Ewe people of Togo and Ghana. In the wild it takes the form of a firefly, slipping through keyholes, cracks in walls or under doors at night to suck the blood of sleepers, who fall sick and die; if captured it turns into a human shape. It can also possess people, who are then regarded as witches. Traditional accounts describe suspicion falling on people thought to have reason for envy: women whose brothers' children were doing better than their own, old people if the young were dying, or the poor who might envy the rich.",
+   "alternatives": [
+    {
+     "label": "Malaria in folk form?",
+     "text": "Folklorists and writers have suggested that stories of a small flying night creature that sucks blood and causes fatal illness may reflect experience of mosquitoes and malaria; this is an interpretation, not something the tradition itself states."
+    },
+    {
+     "label": "Witchcraft and envy",
+     "text": "Anthropologists see the adze, like many witchcraft beliefs, as a way of explaining misfortune through social tensions such as jealousy within families, which could lead to accusations against vulnerable people."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Adze (folklore)",
+     "url": "https://en.wikipedia.org/wiki/Adze_(folklore)",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Ewe people",
+     "url": "https://en.wikipedia.org/wiki/Ewe_people",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [],
+   "categories": [
+    "myth-legend"
+   ],
+   "threads": [
+    "shapeshifters",
+    "plagues-and-epidemics",
+    "witch-hunts",
+    "vampire-panics",
+    "night-demons"
+   ]
+  },
+  {
+   "id": "rakshasa",
+   "title": "Rakshasas: the shape-shifting demons of the Ramayana and Mahabharata",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": -500,
+   "end": null,
+   "dateNote": "In the epics, composed c. 5th century BCE – 4th century CE",
+   "evidenceTypes": [
+    "mythological",
+    "textual"
+   ],
+   "mainstream": "Rakshasas are a race of usually malevolent beings in Hindu, Buddhist and Jain traditions, and in Indonesian folk belief; the female form is rakshasi. They live on Earth but have supernatural powers, which they use to disrupt Vedic sacrifices, take on illusory forms or eat humans. The most famous is Ravana, the ten-headed rakshasa king of Lanka, who abducts Sita in the Ramayana. In the Mahabharata, the hero Bhima kills the cannibal rakshasa Hidimba and marries his sister Hidimbi; their son Ghatotkacha fights for the Pandavas. Not all rakshasas are evil: Ravana's brother Vibhishana sides with Rama.",
+   "alternatives": [
+    {
+     "label": "Mythic enemies or memory of real peoples?",
+     "text": "Some 19th- and 20th-century writers argued that rakshasas were a demonised memory of real non-Vedic peoples of the forests or the south; most modern scholars regard this as speculative and treat rakshasas as figures of religious imagination."
+    },
+    {
+     "label": "Across Asia",
+     "text": "Rakshasas spread with Hindu and Buddhist art and texts to South-east and East Asia, appearing as guardian or demon figures in art and texts as far as Japan, where they are known as rasetsu."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Rakshasa",
+     "url": "https://en.wikipedia.org/wiki/Rakshasa",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Ravana",
+     "url": "https://en.wikipedia.org/wiki/Ravana",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Ravana_British_Museum.jpg/500px-Ravana_British_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Ravana_British_Museum.jpg",
+     "author": "Claire H.",
+     "license": "CC BY-SA 2.0",
+     "title": "Ravana British Museum.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion"
+   ],
+   "threads": [
+    "shapeshifters",
+    "south-asian-epics",
+    "night-demons"
+   ]
+  },
+  {
+   "id": "sodder-children",
+   "title": "The Sodder children: five who vanished in a Christmas fire (1945)",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 1945,
+   "end": null,
+   "evidenceTypes": [
+    "documentary",
+    "forensic",
+    "testimony"
+   ],
+   "mainstream": "Early on Christmas morning 1945 a fire destroyed the house of George and Jennie Sodder in Fayetteville, West Virginia. George, Jennie and four of the nine children at home escaped, but five children, aged between 5 and 14, were not seen again. The ladder normally kept by the house could not be found, the telephone did not work, and the fire brigade did not arrive until the morning. No remains were found in the ashes at the time, and the fire was officially blamed on faulty wiring. In 1949 a search supervised by a pathologist found a few vertebrae, which a Smithsonian specialist identified as coming from one person aged about 16–22, showing no sign of burning and probably mixed in with fill soil. The family put up a billboard with the children's photos that stood until after Jennie's death in 1989.",
+   "alternatives": [
+    {
+     "label": "The family's view",
+     "text": "The Sodders believed the children had been kidnapped, possibly by people connected to the Sicilian Mafia in retaliation for George's criticism of Mussolini, and pointed to the missing ladder, a cut telephone line and the lack of remains; they followed up claimed sightings for decades."
+    },
+    {
+     "label": "The fire explanation",
+     "text": "Investigators and many later commentators think the children most likely died in the fire, noting that a man admitted cutting the phone line while stealing equipment and that remains can be lost in a fierce fire and its debris; the case remains officially unresolved."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Sodder children disappearance",
+     "url": "https://en.wikipedia.org/wiki/Sodder_children_disappearance",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [],
+   "categories": [
+    "history",
+    "anomalies"
+   ],
+   "threads": [
+    "disappearances",
+    "modern-legends",
+    "unsolved-crimes"
+   ]
+  },
+  {
+   "id": "billy-meier",
+   "title": "Billy Meier and the Plejaren: the most photographed contactee",
+   "lane": "history",
+   "status": "debunked",
+   "priority": 2,
+   "start": 1975,
+   "end": null,
+   "statusNote": "Photos widely judged to be models",
+   "evidenceTypes": [
+    "photographic",
+    "testimony"
+   ],
+   "mainstream": "Eduard 'Billy' Meier (born 1937) is a Swiss farmer who claims to have been in contact with human-like extraterrestrials from the Pleiades, whom he calls the Plejaren, since childhood, with contacts resuming in January 1975 with a being named Semjase. From the mid-1970s he produced hundreds of colour photographs and films of 'beamships' over the Swiss countryside, along with metal samples, sound recordings and long channelled messages, and he founded a group known as FIGU. His photos were widely published and became some of the most famous UFO images of the 1970s.",
+   "alternatives": [
+    {
+     "label": "Hoax",
+     "text": "Sceptics and many ufologists concluded that the photos were faked using small models. In 1997 Meier's ex-wife Kalliope said the spaceships were models he built from household objects such as trash-can lids, and that photos of the alien women \"Asket\" and \"Nera\" were really of Michelle DellaFave and Susan Lund, members of a television dance troupe. His messages have also been criticised for antisemitic content."
+    },
+    {
+     "label": "Believers",
+     "text": "Supporters argue that a one-armed farmer could not have faked so many images and films, and continue to promote his prophecies; there is no independent evidence for the Plejaren."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Billy Meier",
+     "url": "https://en.wikipedia.org/wiki/Billy_Meier",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Billy_meier.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Billy_meier.jpg",
+     "author": "Freie Interessengemeinschaft für Grenz- und Geisteswissenschaften und Ufologiestudien, CH-8495 Schmidrüti",
+     "license": "CC BY-SA 2.5",
+     "title": "Billy_meier.jpg"
+    }
+   ],
+   "categories": [
+    "aliens-ufo",
+    "hoaxes"
+   ],
+   "threads": [
+    "hoaxes-exposed",
+    "anomalous-photos",
+    "contactees"
+   ]
+  },
+  {
+   "id": "raelism",
+   "title": "Raël and the Elohim: the volcano encounter that founded a UFO religion",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1973,
+   "end": null,
+   "statusNote": "The movement is real; the alien contact is an unverified claim",
+   "evidenceTypes": [
+    "testimony",
+    "textual"
+   ],
+   "mainstream": "Raëlism is a new religious movement founded by the French sports journalist Claude Vorilhon, who took the name Raël. In his 1974 book he wrote that on 13 December 1973, while walking in the crater of the Puy de Lassolas volcano near Clermont-Ferrand, he met a being from a spacecraft who told him over six days that humanity had been created in laboratories by extraterrestrials, the Elohim, mistaken in the Bible for God. Raëlism teaches that prophets including the Buddha, Jesus and Muhammad were sent by the Elohim, with Raël as the last, and that they will return when humanity builds them an embassy. In 2002 Clonaid, a company linked to the movement, announced the birth of a cloned baby, but no evidence was ever provided.",
+   "alternatives": [
+    {
+     "label": "Religion or fiction?",
+     "text": "Scholars of religion classify Raëlism as a UFO religion and study it as an atheistic reinterpretation of the Bible in the light of science and the space age; there is no independent evidence for Raël's encounter."
+    },
+    {
+     "label": "Ancient astronauts",
+     "text": "Raël's reading of the Elohim as alien scientists closely parallels the ancient-astronaut ideas popularised by Erich von Däniken a few years earlier, and the movement is part of the wider modern myth of gods as visitors from space."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Raëlism",
+     "url": "https://en.wikipedia.org/wiki/Ra%C3%ABlism",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Raël",
+     "url": "https://en.wikipedia.org/wiki/Ra%C3%ABl",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Puy_de_Lassolas_und_Puy_de_la_Vache.jpg/500px-Puy_de_Lassolas_und_Puy_de_la_Vache.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Puy_de_Lassolas_und_Puy_de_la_Vache.jpg",
+     "author": "GerritR",
+     "license": "CC BY-SA 4.0",
+     "title": "Puy de Lassolas und Puy de la Vache.jpg"
+    }
+   ],
+   "categories": [
+    "aliens-ufo",
+    "religion"
+   ],
+   "threads": [
+    "sky-beings",
+    "millenarian-movements",
+    "anunnaki-claims",
+    "contactees"
+   ]
+  },
+  {
+   "id": "heavens-gate-1997",
+   "title": "Heaven's Gate: the comet, the \"Next Level\" and 39 deaths (1997)",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1997,
+   "end": null,
+   "dateNote": "Group founded 1974; deaths March 1997",
+   "evidenceTypes": [
+    "documentary",
+    "forensic"
+   ],
+   "mainstream": "Heaven's Gate was an American new religious movement founded in 1974 by Marshall Applewhite and Bonnie Nettles, known as Do and Ti, who taught that followers could leave their human bodies and become immortal beings of 'the Evolutionary Level Above Human', reached by spacecraft. The group combined Christian millenarianism, New Age ideas and ufology, and ran a web-design business called Higher Source. Rumours spread that a spacecraft was travelling behind the bright comet Hale–Bopp. On 26 March 1997 sheriff's deputies found the bodies of all 39 active members, including Applewhite, in a house in Rancho Santa Fe, California; they had died in a coordinated series of ritual suicides timed with the comet's closest approach.",
+   "alternatives": [
+    {
+     "label": "The comet rumour",
+     "text": "In late 1996 an amateur astronomer's photograph appeared to show a \"companion object\" beside Hale–Bopp, and the claim was discussed on the radio show Coast to Coast AM; astronomers identified the object as a background star, but the group came to believe the comet signalled their departure."
+    },
+    {
+     "label": "How to understand it",
+     "text": "Scholars of new religions describe Heaven's Gate as a UFO religion and debate how isolation, charismatic leadership and the death of Nettles in 1985 reshaped its beliefs from bodily ascent to leaving the body behind."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Heaven's Gate (religious group)",
+     "url": "https://en.wikipedia.org/wiki/Heaven's_Gate_(religious_group)",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Comet Hale–Bopp",
+     "url": "https://en.wikipedia.org/wiki/Comet_Hale%E2%80%93Bopp",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Comet_Hale-Bopp_from_State_College_PA_1997.jpg/500px-Comet_Hale-Bopp_from_State_College_PA_1997.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Comet_Hale-Bopp_from_State_College_PA_1997.jpg",
+     "author": "Jstuby",
+     "license": "CC0",
+     "title": "Comet Hale-Bopp from State College PA 1997.jpg"
+    }
+   ],
+   "categories": [
+    "aliens-ufo",
+    "religion",
+    "history"
+   ],
+   "threads": [
+    "sky-beings",
+    "sky-omens",
+    "millenarian-movements",
+    "contactees",
+    "internet-folklore"
+   ]
+  },
+  {
+   "id": "aetherius-society",
+   "title": "The Aetherius Society: \"the voice of Interplanetary Parliament\" (1954)",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 3,
+   "start": 1954,
+   "end": null,
+   "evidenceTypes": [
+    "testimony",
+    "textual"
+   ],
+   "mainstream": "The Aetherius Society is a new religious movement founded in London in the mid-1950s by George King, who said that on 8 May 1954, in his flat in Maida Vale, a voice told him: 'Prepare yourself! You are to become the voice of Interplanetary Parliament.' King claimed to channel messages from 'Cosmic Masters' on other planets, and his followers combined Theosophy, yoga, spiritual healing and UFO beliefs. In 'Operation Starlight' (1958–1961) King and members climbed eighteen mountains around the world, including Holdstone Down in Devon, which they believe were charged with spiritual energy. The society still exists, with members mainly in Britain, the United States and New Zealand.",
+   "alternatives": [
+    {
+     "label": "Scooped by a UFO?",
+     "text": "In 1958 the society's magazine claimed the Cosmic Masters had told of an atomic accident in Russia; when the Kyshtym nuclear disaster of 1957 became known in the West in 1976, New Scientist ran a short item titled \"Scooped by a UFO!\". Sceptics note that vague claims of disasters can be matched to later events."
+    },
+    {
+     "label": "A quiet UFO religion",
+     "text": "Scholars describe the Aetherius Society as one of the earliest UFO religions and as relatively uncontroversial compared with others; there is no independent evidence for its extraterrestrial contacts."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Aetherius Society",
+     "url": "https://en.wikipedia.org/wiki/Aetherius_Society",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: George King (religious leader)",
+     "url": "https://en.wikipedia.org/wiki/George_King_(religious_leader)",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Holdstone_Hill_%28Holdstone_Down%29_-_geograph.org.uk_-_3275355.jpg/500px-Holdstone_Hill_%28Holdstone_Down%29_-_geograph.org.uk_-_3275355.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Holdstone_Hill_(Holdstone_Down)_-_geograph.org.uk_-_3275355.jpg",
+     "author": "Rude Health",
+     "license": "CC BY-SA 2.0",
+     "title": "Holdstone Hill (Holdstone Down) - geograph.org.uk - 3275355.jpg"
+    }
+   ],
+   "categories": [
+    "aliens-ufo",
+    "religion"
+   ],
+   "threads": [
+    "sky-beings",
+    "millenarian-movements",
+    "contactees",
+    "sacred-rocks-and-mountains"
+   ]
   }
  ]
 }
