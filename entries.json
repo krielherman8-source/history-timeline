@@ -77593,6 +77593,598 @@
     "cold-war-secrets",
     "rumour-and-disinformation"
    ]
+  },
+  {
+   "id": "shanidar-flower-burial",
+   "title": "Shanidar Cave: the Neanderthal \"flower burial\" and the man who was cared for",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -70000,
+   "end": null,
+   "dateNote": "Burials roughly 70,000-45,000 years ago; excavated 1951-1961 and again since 2015",
+   "statusNote": "burials confirmed; \"flower\" interpretation disputed",
+   "evidenceTypes": [
+    "archaeological",
+    "fossil",
+    "pollen analysis"
+   ],
+   "mainstream": "Shanidar Cave lies on Bradost Mountain in the Zagros range of Iraqi Kurdistan. Between 1957 and 1961 the American archaeologist Ralph Solecki and his team uncovered the remains of nine Neanderthals there, and further individuals were identified later, including Shanidar Z, announced in 2020 and dated to more than 70,000 years ago. Shanidar 1, an older man nicknamed 'Nandy', had a withered, fractured right arm, a crushed eye socket and severe hearing loss, yet lived with these injuries for a long time. Shanidar 4 became famous as the 'flower burial' after soil samples analysed by Arlette Leroi-Gourhan contained clumps of pollen from flowering plants, which Solecki interpreted as flowers deliberately laid in the grave.",
+   "alternatives": [
+    {
+     "label": "Flowers or burrowing animals?",
+     "text": "Many researchers now think the pollen clumps were brought in by animals, especially the burrowing Persian jird (a gerbil-like rodent) whose burrows were found nearby, or by nesting bees; Paul Pettitt wrote that deliberate placement of flowers had been convincingly eliminated, while still regarding the Shanidar burials as deliberate mortuary behaviour."
+    },
+    {
+     "label": "Neanderthal compassion",
+     "text": "Shanidar 1's long survival with disabling injuries is widely read as evidence that others in his group looked after him, a key part of the shift from seeing Neanderthals as brutish to seeing them as caring; how far this reflects empathy as modern humans understand it is debated."
+    }
+   ],
+   "changed": "In 1971 Solecki's book 'Shanidar: The First Flower People' made the flower burial famous as a sign of Neanderthal spirituality; from the 1990s onward the rodent and bee explanations gained ground; new excavations from 2015 found Shanidar Z close to the Shanidar 4 grave.",
+   "sources": [
+    {
+     "title": "New Neanderthal remains associated with the ‘flower burial’ at Shanidar Cave",
+     "authors": "Pomeroy, E. et al.",
+     "year": 2020,
+     "doi": "10.15184/aqy.2019.207",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: Shanidar Cave",
+     "url": "https://en.wikipedia.org/wiki/Shanidar_Cave",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/3._Shanidar_cave%2C_a_paleolithic_cave_in_Bradost_Mountain%2C_Erbil_Governorate%2C_Iraqi_Kurdistan._April_4%2C_2014.jpg/500px-3._Shanidar_cave%2C_a_paleolithic_cave_in_Bradost_Mountain%2C_Erbil_Governorate%2C_Iraqi_Kurdistan._April_4%2C_2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:3._Shanidar_cave,_a_paleolithic_cave_in_Bradost_Mountain,_Erbil_Governorate,_Iraqi_Kurdistan._April_4,_2014.jpg",
+     "author": "Osama Shukir Muhammed Amin FRCP(Glasg)",
+     "license": "CC BY-SA 4.0",
+     "title": "3._Shanidar_cave,_a_paleolithic_cave_in_Bradost_Mountain,_Erbil_Governorate,_Iraqi_Kurdistan._April_4,_2014.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "science-cosmos",
+    "religion"
+   ],
+   "threads": [
+    "changed-understanding",
+    "human-origins",
+    "seeing-what-we-expect"
+   ]
+  },
+  {
+   "id": "star-carr",
+   "title": "Star Carr: Mesolithic antler headdresses and Britain's oldest house",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -9000,
+   "end": -8500,
+   "evidenceTypes": [
+    "archaeological",
+    "radiocarbon"
+   ],
+   "mainstream": "Star Carr is a Mesolithic site near Scarborough in North Yorkshire, England, on the edge of a vanished lake, occupied about 11,000 years ago when Britain was still joined to continental Europe. Noticed by the amateur archaeologist John Moore in 1947, with excavations beginning in 1948 and the classic campaign led by Grahame Clark from 1949 to 1951, it is regarded as the most important Mesolithic site in Britain. Waterlogged peat preserved rare organic finds: about 200 barbed points made of red deer antler and 21 red deer skull-caps with the antlers still attached, carefully thinned and perforated. New excavations led by Nicky Milner, Chantal Conneller and Barry Taylor also found the remains of a circular post-built structure, described as Britain's oldest known house, and a large wooden platform at the lake edge.",
+   "alternatives": [
+    {
+     "label": "Shamans' masks or hunting disguises?",
+     "text": "The perforated deer frontlets are often interpreted as headdresses worn in rituals, possibly by shamans, by analogy with later Siberian and northern peoples; others have proposed they were hunting disguises used to stalk deer. Both ideas are interpretations; the objects themselves cannot show how they were used."
+    },
+    {
+     "label": "A disappearing site",
+     "text": "The excavators warned that changes in the water table were causing the peat to dry and acidify, so that bone and antler still in the ground were rapidly decaying; the risk of losing the evidence drove the renewed digging."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Technological Analysis of the World’s Earliest Shamanic Costume: A Multi-Scalar, Experimental Study of a Red Deer Headdress from the Early Holocene Site of Star Carr, North Yorkshire, UK",
+     "authors": "Little, A. et al.",
+     "year": 2016,
+     "doi": "10.1371/journal.pone.0152136",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: Star Carr",
+     "url": "https://en.wikipedia.org/wiki/Star_Carr",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Star_Carr_Antler_Mask_in_the_British_Museum.jpg/500px-Star_Carr_Antler_Mask_in_the_British_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Star_Carr_Antler_Mask_in_the_British_Museum.jpg",
+     "author": "Ethan Doyle White",
+     "license": "CC BY-SA 4.0",
+     "title": "Star Carr Antler Mask in the British Museum.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "religion"
+   ],
+   "threads": [
+    "changed-understanding",
+    "vanished-landscapes",
+    "shapeshifters",
+    "altered-states"
+   ]
+  },
+  {
+   "id": "atlit-yam",
+   "title": "Atlit Yam: a 9,000-year-old village under the Mediterranean",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -6900,
+   "end": -6300,
+   "dateNote": "Late 7th to early 6th millennium BCE",
+   "evidenceTypes": [
+    "archaeological",
+    "underwater archaeology",
+    "genetic"
+   ],
+   "mainstream": "Atlit Yam is a submerged Neolithic village lying about 300–400 metres off the coast of Atlit, south of Haifa in Israel, at depths of roughly 8–12 metres. It was spotted in 1984 by the marine archaeologist Ehud Galili while surveying for shipwrecks. Dating to the late 7th and early 6th millennia BCE, it shows a community combining farming, herding and fishing on the Levantine coast. Divers have recorded stone houses, a dry-stone well about 5.5 metres deep, at least 90 human burials and a semicircle of large standing stones with cup marks set around a spring. Bones of a woman and child found there produced in 2008 the earliest DNA-confirmed cases of human tuberculosis.",
+   "alternatives": [
+    {
+     "label": "Slow rise or sudden wave?",
+     "text": "Galili proposed that the village was abandoned gradually as rising sea levels salinised its well, which was later used as a rubbish pit. A study led by Maria Pareschi modelled a large tsunami from a collapse of Mount Etna's flank about 8,500 years ago, and some researchers have linked the abandonment of Atlit Yam to such a wave; the idea is debated."
+    },
+    {
+     "label": "Sunken-city legends",
+     "text": "Submerged prehistoric sites like Atlit Yam are sometimes cited in support of lost-civilisation ideas about drowned coasts; archaeologists see them as ordinary Neolithic villages flooded by the well-documented rise in sea level after the Ice Age."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Detection and Molecular Characterization of 9000-Year-Old Mycobacterium tuberculosis from a Neolithic Settlement in the Eastern Mediterranean",
+     "authors": "Hershkovitz, I. et al.",
+     "year": 2008,
+     "doi": "10.1371/journal.pone.0003426",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: Atlit Yam",
+     "url": "https://en.wikipedia.org/wiki/Atlit_Yam",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Atlit-Yam%2C_Ritual_structure_made_of_stones.JPG/500px-Atlit-Yam%2C_Ritual_structure_made_of_stones.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Atlit-Yam,_Ritual_structure_made_of_stones.JPG",
+     "author": "Hanay",
+     "license": "CC BY-SA 3.0",
+     "title": "Atlit-Yam,_Ritual_structure_made_of_stones.JPG"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "catastrophes",
+    "lost-civilisations"
+   ],
+   "threads": [
+    "sunken-cities",
+    "vanished-landscapes",
+    "plagues-and-epidemics",
+    "stone-circles",
+    "levant-crossroads",
+    "tsunami-memory"
+   ]
+  },
+  {
+   "id": "ain-dara-footprints",
+   "title": "The giant footprints of Ain Dara temple",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -1300,
+   "end": -740,
+   "evidenceTypes": [
+    "archaeological",
+    "textual"
+   ],
+   "mainstream": "Ain Dara is an archaeological site about 67 km northwest of Aleppo in Syria, best known for an Iron Age Syro-Hittite temple excavated by Ali Abu Assaf after a colossal basalt lion was found by chance in 1955. The excavator dated its use to about 1300–740 BCE. Its walls were lined with reliefs of lions and sphinxes, and its floor was carved with a pair of bare footprints each about a metre long, followed by a single footprint and another on the threshold, as if a giant were striding into the building. The temple's plan, with a portico, middle room and main hall, closely resembles the description of Solomon's Temple in the Hebrew Bible. In January 2018 the temple was badly damaged during the Turkish military operation in Afrin.",
+   "alternatives": [
+    {
+     "label": "The footprints of a god",
+     "text": "Scholars generally interpret the footprints as a symbol of the deity, perhaps the storm god Hadad or the goddess Ishtar, entering his or her house; John Monson compared them to Ezekiel 43:7, where the temple is called \"the place of the soles of my feet\"."
+    },
+    {
+     "label": "Giants and Nephilim",
+     "text": "Some writers on ancient giants or ancient astronauts point out that a being with such feet would be about 20 m tall and treat the prints as a memory of real giants; this is speculative and not supported by any other evidence at the site."
+    },
+    {
+     "label": "Solomon's Temple",
+     "text": "The similarities with the biblical temple are widely discussed; they are used by some as evidence that the biblical description reflects a real Iron Age building type, and by others simply as a regional architectural tradition."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Ain Dara (archaeological site)",
+     "url": "https://en.wikipedia.org/wiki/Ain_Dara_(archaeological_site)",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Ain_Dara_Alp1.jpg/500px-Ain_Dara_Alp1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Ain_Dara_Alp1.jpg",
+     "author": "Institute for the Study of the Ancient World Contact",
+     "license": "CC BY 2.0",
+     "title": "Ain_Dara_Alp1.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "religion",
+    "myth-legend",
+    "anomalies"
+   ],
+   "threads": [
+    "giants-and-little-people",
+    "levant-crossroads",
+    "thunder-gods",
+    "bible-and-archaeology"
+   ]
+  },
+  {
+   "id": "vix-grave",
+   "title": "The Lady of Vix and the largest bronze vessel of the ancient West",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -470,
+   "end": null,
+   "evidenceTypes": [
+    "archaeological"
+   ],
+   "mainstream": "The Vix Grave is a burial mound near the village of Vix in northern Burgundy, France, part of a Celtic complex beneath the hill fort of Mont Lassois. It was discovered by Maurice Moisson and excavated with René Joffroy in early 1953. The undisturbed grave of a woman, the 'Lady of Vix', buried around 470 BCE, held a dismantled four-wheeled wagon, a gold torc of about 480 grams and many imports from the Mediterranean: Etruscan and Athenian drinking vessels and the Vix krater, a bronze wine-mixing vessel 1.64 m tall, weighing about 208 kg and holding about 1,100 litres. It is the largest known metal vessel from Western classical antiquity and was probably shipped in pieces, carrying Greek letters as assembly marks.",
+   "alternatives": [
+    {
+     "label": "A princess, a priestess or a ruler?",
+     "text": "Because the burial contains jewellery and no weapons, the dead person has been interpreted as a woman. Whether she was a ruler in her own right, a priestess, or the relative of a male chief is debated; her status shows that women could receive the richest burials of the age."
+    },
+    {
+     "label": "Gift or trade?",
+     "text": "The krater may have been a diplomatic gift from Greek traders seeking access to tin or other goods moving along the Seine, or a prestige purchase; the find shows how far Mediterranean luxury goods reached into Iron Age Gaul."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Vix Grave",
+     "url": "https://en.wikipedia.org/wiki/Vix_Grave",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Mont Lassois",
+     "url": "https://en.wikipedia.org/wiki/Mont_Lassois",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Chatillon-sur-Seine_-_Mus%C3%A9e_du_Pays_chatillonnais_-_Crat%C3%A8re_de_Vix_-_01_%28cropped%29.jpg/500px-Chatillon-sur-Seine_-_Mus%C3%A9e_du_Pays_chatillonnais_-_Crat%C3%A8re_de_Vix_-_01_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Chatillon-sur-Seine_-_Mus%C3%A9e_du_Pays_chatillonnais_-_Crat%C3%A8re_de_Vix_-_01_(cropped).jpg",
+     "author": "Own work",
+     "license": "CC BY-SA 3.0",
+     "title": "Chatillon-sur-Seine - Musée du Pays chatillonnais - Cratère de Vix - 01 (cropped).jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history"
+   ],
+   "threads": [
+    "hidden-tombs",
+    "warrior-women",
+    "trade-networks",
+    "celtic-worlds"
+   ]
+  },
+  {
+   "id": "xiongnu",
+   "title": "The Xiongnu: the steppe empire that faced Han China, and the Hun question",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -209,
+   "end": 150,
+   "dateNote": "c. 209 BCE - 2nd century CE",
+   "evidenceTypes": [
+    "textual",
+    "archaeological",
+    "genetic"
+   ],
+   "mainstream": "The Xiongnu were a confederation of nomadic peoples of the eastern Eurasian steppe, known mainly from Chinese sources such as Sima Qian. In 209 BCE Modu Chanyu became their leader and built a steppe empire centred on the Mongolian Plateau. In 200 BCE he surrounded the first Han emperor, Gaozu, at Baideng, after which the Han paid tribute and sent princesses in marriage (the heqin policy). Under Emperor Wu the Han went on the offensive. The confederation split into northern and southern parts in 48 CE; in 89 CE a Han army under Dou Xian defeated the Northern Xiongnu, and the historian Ban Gu composed a victory inscription that was carved on a cliff in Mongolia and rediscovered there in 2017. The Southern Xiongnu settled within China and were gradually absorbed.",
+   "alternatives": [
+    {
+     "label": "Ancestors of the Huns?",
+     "text": "The 18th-century French historian Joseph de Guignes proposed that the Xiongnu were the ancestors of the Huns who reached Europe in the 4th century. The idea is now accepted by many scholars, supported by Sogdian letters that use the same name for both and by some ancient DNA, but it is not a consensus; others think the Huns were a different confederation that adopted a prestigious name."
+    },
+    {
+     "label": "Who were they?",
+     "text": "The Xiongnu appear to have been multi-ethnic. Their language is unknown, and proposals include Turkic, Mongolic, Iranian and Yeniseian; genetic studies of Xiongnu burials show a mix of eastern and western Eurasian ancestry."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Xiongnu",
+     "url": "https://en.wikipedia.org/wiki/Xiongnu",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Inscription of Yanran",
+     "url": "https://en.wikipedia.org/wiki/Inscription_of_Yanran",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Met%2C_china%2C_two_belt_buckles_with_standing_oxes%2C_nwchina%2C_Xiongnu_culture%2C_3-01st_century_BC.jpg/500px-Met%2C_china%2C_two_belt_buckles_with_standing_oxes%2C_nwchina%2C_Xiongnu_culture%2C_3-01st_century_BC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Met,_china,_two_belt_buckles_with_standing_oxes,_nwchina,_Xiongnu_culture,_3-01st_century_BC.jpg",
+     "author": "sailko",
+     "license": "CC BY-SA 3.0",
+     "title": "Met, china, two belt buckles with standing oxes, nwchina, Xiongnu culture, 3-01st century BC.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology"
+   ],
+   "threads": [
+    "genetic-migrations",
+    "silk-road",
+    "steppe-empires",
+    "mongolia-and-siberia",
+    "walls-against-chaos"
+   ]
+  },
+  {
+   "id": "kushan-kanishka",
+   "title": "The Kushan Empire and Kanishka, the king rediscovered on a field stone",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 30,
+   "end": 375,
+   "evidenceTypes": [
+    "textual",
+    "archaeological",
+    "numismatic"
+   ],
+   "mainstream": "The Kushan Empire (about 30–375 CE) was founded by the Kushans, one branch of the Yuezhi, nomads who had migrated from northwestern China into Bactria. At its height it covered much of present-day Afghanistan, Pakistan and northern India and parts of Central Asia, controlling a crossroads of trade between Rome, Persia, India and China. Its rulers used Greek and then the Bactrian language, and its coins show Greek, Iranian, Hindu and Buddhist deities side by side. Kanishka the Great, in the 2nd century CE, is remembered in Buddhist tradition as a great patron; Gandharan art flourished, and monks from the region helped carry Buddhism to China. In 1993 a stone inscription in Bactrian found at Rabatak in Afghanistan, read by Nicholas Sims-Williams and Joe Cribb, gave Kanishka's genealogy back to Kujula Kadphises.",
+   "alternatives": [
+    {
+     "label": "Forgotten and found",
+     "text": "Much of the Kushan dynastic history was reconstructed from coins and scattered inscriptions; the Rabatak inscription, saved after being found by Afghan workers and photographed by aid workers during the civil war, clarified the sequence of kings and suggested Kushan rule reached further into India than once thought."
+    },
+    {
+     "label": "Dating disputes",
+     "text": "The year Kanishka came to the throne has been debated for over a century, with proposals spanning more than 200 years; many historians now favour about 127 CE, but this is not universally agreed."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Kushan Empire",
+     "url": "https://en.wikipedia.org/wiki/Kushan_Empire",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Kanishka",
+     "url": "https://en.wikipedia.org/wiki/Kanishka",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Rabatak inscription",
+     "url": "https://en.wikipedia.org/wiki/Rabatak_inscription",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/KanishkaCoin3.JPG/500px-KanishkaCoin3.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:KanishkaCoin3.JPG",
+     "author": "No machine-readable author provided. World Imaging assumed (based on copyright claims).",
+     "license": "Public domain",
+     "title": "KanishkaCoin3.JPG"
+    }
+   ],
+   "categories": [
+    "history",
+    "religion",
+    "archaeology"
+   ],
+   "threads": [
+    "trade-networks",
+    "decipherments",
+    "silk-road",
+    "steppe-empires",
+    "iranian-worlds"
+   ]
+  },
+  {
+   "id": "sogdian-merchants",
+   "title": "The Sogdians: merchants of the Silk Road and a letter from an abandoned wife",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 313,
+   "end": null,
+   "dateNote": "Ancient Letters c. 313 CE; Sogdian trade 4th-8th centuries",
+   "evidenceTypes": [
+    "textual",
+    "archaeological"
+   ],
+   "mainstream": "Sogdia, between the Amu Darya and Syr Darya rivers in present-day Uzbekistan and Tajikistan, was a land of city-states centred on Samarkand that was never politically united. Its people spoke an Eastern Iranian language, Sogdian, which became a lingua franca along the Silk Road; their merchants and diplomats travelled from the Byzantine Empire to China, and many settled in China, rising to prominence under the Tang. In 1907 Aurel Stein found the 'Ancient Letters', five Sogdian documents, in an abandoned watchtower near Dunhuang. One, dated to about 313 CE, reports that Luoyang had been sacked and its Sogdian and Indian residents had died of famine; another was written by a woman, Miwnay, abandoned in China by her husband, who wrote that she would rather have married a dog or a pig.",
+   "alternatives": [
+    {
+     "label": "Middlemen of the world",
+     "text": "Historians such as Étienne de la Vaissière and Valerie Hansen see the Sogdians as the most important trading diaspora of the Silk Road between the 4th and 8th centuries; their role faded after the An Lushan rebellion (led by a man of Sogdian descent) and the Islamic conquest of Central Asia."
+    },
+    {
+     "label": "A language that survives",
+     "text": "Sogdian itself is no longer spoken, but Yaghnobi, spoken by a small community in Tajikistan, descends from one of its dialects."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Sogdia",
+     "url": "https://en.wikipedia.org/wiki/Sogdia",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Sogdian language",
+     "url": "https://en.wikipedia.org/wiki/Sogdian_language",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Afrasiab_-_details_from_The_Ambassadors%27_Painting_3_-_great_procession.JPG/500px-Afrasiab_-_details_from_The_Ambassadors%27_Painting_3_-_great_procession.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Afrasiab_-_details_from_The_Ambassadors%27_Painting_3_-_great_procession.JPG",
+     "author": "anonymous",
+     "license": "Public domain",
+     "title": "Afrasiab - details from The Ambassadors' Painting 3 - great procession.JPG"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology"
+   ],
+   "threads": [
+    "trade-networks",
+    "silk-road",
+    "iranian-worlds",
+    "ordinary-lives"
+   ]
+  },
+  {
+   "id": "al-andalus-cordoba",
+   "title": "Al-Andalus and Córdoba: the golden age of tolerance, or a myth?",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 711,
+   "end": 1492,
+   "evidenceTypes": [
+    "textual",
+    "archaeological"
+   ],
+   "mainstream": "In 711 an Umayyad army led by Tariq ibn Ziyad crossed from North Africa into the Iberian peninsula and within a few years conquered most of the Visigothic kingdom. The Muslim-ruled territory, called al-Andalus, became an independent emirate under Abd al-Rahman I in 756, and in 929 Abd al-Rahman III proclaimed the Caliphate of Córdoba. Córdoba became one of the largest and richest cities in Europe, with the Great Mosque, the palace-city of Madinat al-Zahra and a flourishing culture of science, philosophy and poetry in which Muslims, Jews and Christians all took part. The caliphate broke up into rival taifa kingdoms in 1031; Christian kingdoms expanded southward, and the last Muslim state, the Nasrid emirate of Granada, fell in 1492.",
+   "alternatives": [
+    {
+     "label": "Convivencia",
+     "text": "The Spanish historian Américo Castro used the term convivencia (\"living together\") for the coexistence of the three faiths, and writers such as María Rosa Menocal have described al-Andalus as a culture of tolerance."
+    },
+    {
+     "label": "A myth of paradise?",
+     "text": "Others, including David Nirenberg, Mark Cohen and Darío Fernández-Morera, argue that the idea is idealised; Cohen describes both the interfaith utopia and its opposite, a story of constant persecution, as myths. Non-Muslims lived as protected but subordinate dhimmis, and there were episodes of violence such as the 1066 Granada massacre."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Al-Andalus",
+     "url": "https://en.wikipedia.org/wiki/Al-Andalus",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Umayyad state of Córdoba",
+     "url": "https://en.wikipedia.org/wiki/Umayyad_state_of_C%C3%B3rdoba",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Convivencia",
+     "url": "https://en.wikipedia.org/wiki/Convivencia",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Mezquita_de_C%C3%B3rdoba_desde_el_aire_%28C%C3%B3rdoba%2C_Espa%C3%B1a%29.jpg/500px-Mezquita_de_C%C3%B3rdoba_desde_el_aire_%28C%C3%B3rdoba%2C_Espa%C3%B1a%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Mezquita_de_C%C3%B3rdoba_desde_el_aire_(C%C3%B3rdoba,_Espa%C3%B1a).jpg",
+     "author": "Toni Castillo Quero",
+     "license": "CC BY-SA 2.0",
+     "title": "Mezquita_de_Córdoba_desde_el_aire_(Córdoba,_España).jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "religion"
+   ],
+   "threads": [
+    "changed-understanding",
+    "knowledge-and-power",
+    "holy-wars",
+    "myths-about-history"
+   ]
+  },
+  {
+   "id": "boskop-man",
+   "title": "Boskop Man: the \"big-brained\" lost race that never was",
+   "lane": "history",
+   "status": "debunked",
+   "priority": 2,
+   "start": -30000,
+   "end": null,
+   "dateNote": "Skull found 1913; age uncertain (Late Pleistocene or Holocene)",
+   "evidenceTypes": [
+    "fossil",
+    "archaeological"
+   ],
+   "mainstream": "The Boskop skull is a fossil human cranium found in 1913 by two Afrikaner farmers at Boskop in the former Transvaal, South Africa. Its large braincase led Robert Broom to describe a new species, Homo capensis, and for decades palaeontologists such as Broom and Raymond Dart assigned other large skulls to a 'Boskopoid' race said to have once lived in southern Africa. By the 1970s scientists had concluded that these skulls fall within the range of modern Khoe and San populations and do not form a separate type; the Boskopoid category is now seen as an artefact of the biases of the researchers who created it. The skull is undated but belongs to the Late Pleistocene or later.",
+   "alternatives": [
+    {
+     "label": "A super-intelligent people?",
+     "text": "In the book Big Brain (2008), the neuroscientists Gary Lynch and Richard Granger suggested that the Boskop people may have had exceptionally high intelligence; the anthropologist John Hawks strongly criticised this, noting that the Boskop type had been abandoned by physical anthropologists decades earlier."
+    },
+    {
+     "label": "Race science in context",
+     "text": "Historians of science link the Boskop idea to early 20th-century efforts to sort fossils and living people into races, and its abandonment to better samples and changing methods."
+    }
+   ],
+   "changed": "1913 skull found; 1918 Broom names Homo capensis; by the 1970s the Boskopoid type is abandoned; 2008 revived in a popular book and rebutted again.",
+   "sources": [
+    {
+     "title": "Wikipedia: Boskop Man",
+     "url": "https://en.wikipedia.org/wiki/Boskop_Man",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Boskop-Sch%C3%A4del.jpg/500px-Boskop-Sch%C3%A4del.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Boskop-Sch%C3%A4del.jpg",
+     "author": "Robert Broom",
+     "license": "Public domain",
+     "title": "Boskop-Schädel.jpg"
+    }
+   ],
+   "categories": [
+    "science-cosmos",
+    "archaeology",
+    "hoaxes"
+   ],
+   "threads": [
+    "lost-civilisations",
+    "changed-understanding",
+    "human-origins",
+    "seeing-what-we-expect",
+    "southern-africa",
+    "cradle-of-humankind"
+   ]
   }
  ]
 }
