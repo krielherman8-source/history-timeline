@@ -79338,6 +79338,550 @@
     "royal-propaganda",
     "myths-about-history"
    ]
+  },
+  {
+   "id": "prince-madoc",
+   "title": "Prince Madoc and the \"Welsh Indians\": did a Welshman reach America in 1170?",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": 1170,
+   "end": null,
+   "dateNote": "Supposed voyage 1170; legend developed from the 1580s",
+   "evidenceTypes": [
+    "textual",
+    "oral tradition"
+   ],
+   "mainstream": "According to a legend first written down in detail in the 16th century, Madoc (Madog) ab Owain Gwynedd, a son of the 12th-century Welsh king Owain Gwynedd, fled the fighting among his brothers and sailed west in 1170, reaching a land across the ocean. Only allusions to a sea-voyaging Madoc survive from medieval Welsh poetry. In 1580 the scholar John Dee told Queen Elizabeth I that Madoc had led a colony to 'Terra Florida', and the story was printed by George Peckham (1583), David Powel (1584) and Richard Hakluyt (1589) to support English claims to North America ahead of Spain. Later versions said Madoc's people had married into Native American nations and that Welsh-speaking 'Welsh Indians' still lived in the interior, often identified with the Mandan of the Missouri River.",
+   "alternatives": [
+    {
+     "label": "Searches and plaques",
+     "text": "Travellers and explorers, including John Evans of Waunfawr in the 1790s, went in search of Welsh-speaking tribes and found none. Stone walls in Georgia and Tennessee were attributed to Madoc, and in 1953 the Daughters of the American Revolution put up a plaque at Fort Morgan, Alabama, saying he had landed at Mobile Bay in 1170."
+    },
+    {
+     "label": "A political legend",
+     "text": "Historians regard the voyage as unproven and the Welsh Indian stories as a legend that served Tudor and Elizabethan claims to the Americas and later American frontier romance; archaeologists attribute the walls and mounds credited to Madoc to Native American builders, and no archaeological, linguistic or other evidence of Madoc or his voyage has been found."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Madoc",
+     "url": "https://en.wikipedia.org/wiki/Madoc",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Owain Gwynedd",
+     "url": "https://en.wikipedia.org/wiki/Owain_Gwynedd",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/01madog07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:01madog07.jpg",
+     "author": "BaeColwyn.com\n\nFrom the book \"Prince Madog, Discoverer Of America. A Legendary Story: Illustrated By A. S. Boyd\" By DANE",
+     "license": "Public domain",
+     "title": "01madog07.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "history",
+    "lost-civilisations"
+   ],
+   "threads": [
+    "ocean-voyagers",
+    "outsider-builder-claims",
+    "celtic-worlds",
+    "native-north-america",
+    "royal-propaganda",
+    "old-world-inscriptions-in-america",
+    "who-got-there-first",
+    "lost-tribes"
+   ]
+  },
+  {
+   "id": "wandering-jew",
+   "title": "The Wandering Jew: an immortal witness to the crucifixion",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": 1228,
+   "end": null,
+   "dateNote": "First recorded 1228; popularised by 1602 pamphlet",
+   "evidenceTypes": [
+    "textual",
+    "folklore"
+   ],
+   "mainstream": "The Wandering Jew is a legendary man cursed to live and wander until the Second Coming because he mocked or struck Jesus on the way to the crucifixion. An early written version appears in the chronicle of Roger of Wendover under the year 1228: an Armenian archbishop visiting St Albans said he had met a man named Cartaphilus, Pontius Pilate's doorkeeper, who had struck Jesus and been told 'I am going, and you will wait till I return'. The legend spread widely after a German pamphlet of 1602 told of a Jewish shoemaker named Ahasverus seen in Hamburg by the theologian Paulus von Eitzen; eight editions appeared that year. 'Sightings' of the immortal wanderer were reported across Europe and later in the Americas, from 1542 in Hamburg to 1868 in New Jersey.",
+   "alternatives": [
+    {
+     "label": "A Christian moral tale",
+     "text": "Scholars see the legend as growing from Gospel sayings that some bystanders would not die before Jesus returned, and as a medieval and early-modern tale about sin, repentance and witness to the truth of Christianity; it became a favourite subject for writers and artists such as Eugène Sue and Gustave Doré."
+    },
+    {
+     "label": "Antisemitic uses",
+     "text": "The figure of an eternally homeless Jew was also used to portray Jews collectively as accursed outsiders; the Nazi propaganda film Der ewige Jude (The Eternal Jew, 1940) took its title from the German name of the legend."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Wandering Jew",
+     "url": "https://en.wikipedia.org/wiki/Wandering_Jew",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Wandering_jew_-_Gustave_Dore_%28125363872%29.jpg/500px-Wandering_jew_-_Gustave_Dore_%28125363872%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Wandering_jew_-_Gustave_Dore_(125363872).jpg",
+     "author": "Gustave Doré",
+     "license": "Public domain",
+     "title": "Wandering_jew_-_Gustave_Dore_(125363872).jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion"
+   ],
+   "threads": [
+    "divine-punishment",
+    "elixirs-of-immortality",
+    "travellers-tales"
+   ]
+  },
+  {
+   "id": "lorelei-rhine",
+   "title": "The Lorelei: an \"ancient\" Rhine siren invented by a poet in 1801",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 3,
+   "start": 1801,
+   "end": null,
+   "evidenceTypes": [
+    "textual",
+    "folklore"
+   ],
+   "mainstream": "The Lorelei is a steep slate rock, about 132 metres high, on the right bank of the Rhine at Sankt Goarshausen in Germany, where the river narrows and bends sharply. The passage was notorious for shipwrecks and for a strong echo, and earlier stories linked the rock with dwarfs or other spirits. In 1801 the poet Clemens Brentano wrote a ballad about a beautiful sorceress, Lore Lay, for his novel Godwi. In 1824 Heinrich Heine reworked the theme in his poem 'Die Lorelei', about a golden-haired maiden who sits on the rock combing her hair and singing, luring boatmen to their doom; set to music by Friedrich Silcher in 1837, it became one of the best-known German songs.",
+   "alternatives": [
+    {
+     "label": "A folk tale that is not old",
+     "text": "Although commonly believed to be an ancient folk legend, the Lorelei siren was created by Brentano and spread by Heine and Silcher; scholars note that she combines older motifs such as Greek sirens and nymphs with Romantic-era interest in the Rhine."
+    },
+    {
+     "label": "A real danger",
+     "text": "The rock's reputation rests on real hazards: shallows, currents and a narrow channel that made it one of the most dangerous stretches of the Rhine; under the Nazi regime Heine's authorship of the famous song was played down because he was born Jewish."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Lorelei",
+     "url": "https://en.wikipedia.org/wiki/Lorelei",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Loreley%2C_Rhine%2C_Castle_Katz.jpg/500px-Loreley%2C_Rhine%2C_Castle_Katz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Loreley,_Rhine,_Castle_Katz.jpg",
+     "author": "imehling",
+     "license": "CC BY-SA 3.0",
+     "title": "Loreley,_Rhine,_Castle_Katz.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend"
+   ],
+   "threads": [
+    "sea-mysteries",
+    "modern-legends",
+    "water-spirits",
+    "literary-forgeries"
+   ]
+  },
+  {
+   "id": "tarasque",
+   "title": "The Tarasque: the dragon tamed by Saint Martha",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 3,
+   "start": 1200,
+   "end": null,
+   "dateNote": "Legend recorded in the 13th century; festival from 1474",
+   "evidenceTypes": [
+    "textual",
+    "folklore",
+    "festival"
+   ],
+   "mainstream": "The Tarasque is a monster of Provençal legend. According to the 13th-century Golden Legend of Jacobus de Voragine, it had a lion's head, a turtle-like shell, six bear-clawed legs and a serpent's tail, and lived in the Rhône between Arles and Avignon at a place called Nerluc, attacking travellers and sinking boats. Saint Martha, said in Provençal tradition to have come to Gaul after the death of Jesus, found it devouring a man, sprinkled it with holy water and held up a cross, and the monster became tame and submissive; the town, then called Nerluc, later became Tarascon, a name linked with the beast. In 1474 King René of Anjou instituted a festival in which a giant effigy of the Tarasque is paraded through the streets, a tradition that continues each June.",
+   "alternatives": [
+    {
+     "label": "Pagan roots?",
+     "text": "Archaeologists and folklorists such as Isidore Gilles and Philippe Walter have suggested that the legend overlays older pre-Christian beliefs, pointing to a Gallo-Roman sculpture of a man-eating beast found at nearby Noves, known as the \"Tarasque of Noves\"."
+    },
+    {
+     "label": "Saint and dragon",
+     "text": "The Tarasque belongs to a family of European legends in which a saint or hero tames or kills a dragon terrorising a town, such as Saint George or the Graoully of Metz; such stories are often read as symbols of Christianity overcoming paganism or of taming the dangerous river."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Tarasque",
+     "url": "https://en.wikipedia.org/wiki/Tarasque",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Martha",
+     "url": "https://en.wikipedia.org/wiki/Martha",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Tarasque_in_Tarascon_02.jpg/500px-Tarasque_in_Tarascon_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Tarasque_in_Tarascon_02.jpg",
+     "author": "Olivier",
+     "license": "CC BY-SA 4.0",
+     "title": "Tarasque_in_Tarascon_02.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion"
+   ],
+   "threads": [
+    "serpent-beings",
+    "water-spirits",
+    "dragon-slayers"
+   ]
+  },
+  {
+   "id": "simurgh",
+   "title": "The Simurgh: the wise bird of Iran and the thirty birds who found themselves",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": 1010,
+   "end": null,
+   "dateNote": "Ancient Iranian figure; Shahnameh c. 1010 CE",
+   "evidenceTypes": [
+    "textual",
+    "art"
+   ],
+   "mainstream": "The simurgh (senmurv in Middle Persian) is a benevolent mythical bird of Iranian tradition, found in Iranian art and literature of every period and in the art of neighbouring regions such as Georgia, Armenia and Byzantium. In Ferdowsi's epic Shahnameh (Book of Kings), completed around 1010 CE, the simurgh rescues the albino prince Zal, who has been abandoned on a mountain by his father, and raises him in her nest. When Zal leaves she gives him feathers to burn if he needs her; she later helps at the difficult birth of his son, the hero Rostam, and heals Rostam's wounds. In Farid ud-Din Attar's 12th-century Sufi poem The Conference of the Birds, a band of birds sets out to find the simurgh as their king; only thirty arrive, and they find only their own reflection in a lake, a pun on si morgh, 'thirty birds'.",
+   "alternatives": [
+    {
+     "label": "A creature of many forms",
+     "text": "In Sasanian art the senmurv is shown with a dog's head, a peacock's tail and lion's claws; it has been compared to the phoenix, the roc and the Indian Garuda, though each bird has its own traditions."
+    },
+    {
+     "label": "A modern symbol",
+     "text": "The simurgh remains a widely used emblem in Iran and among Iranian communities, appearing in national art and on emblems; scholars of Sufism read Attar's ending as a lesson that the divine is found within the seeker."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Simurgh",
+     "url": "https://en.wikipedia.org/wiki/Simurgh",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: The Conference of the Birds",
+     "url": "https://en.wikipedia.org/wiki/The_Conference_of_the_Birds",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Senmurv.svg/500px-Senmurv.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Senmurv.svg",
+     "author": "Shaahin",
+     "license": "Public domain",
+     "title": "Senmurv.svg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion"
+   ],
+   "threads": [
+    "giant-birds",
+    "iranian-worlds"
+   ]
+  },
+  {
+   "id": "mbombo-kuba-creation",
+   "title": "Mbombo: the Kuba creator who vomited the world",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 3,
+   "start": 1625,
+   "end": null,
+   "dateNote": "Oral tradition; Kuba kingdom from c. 1625",
+   "evidenceTypes": [
+    "oral tradition",
+    "ethnographic"
+   ],
+   "mainstream": "In the creation myth of the Kuba (Bakuba) people of what is now the Democratic Republic of the Congo, the creator Mbombo (also called Bumba), a white giant, lived alone in darkness and water. Seized by a pain in his stomach, he vomited up the sun, the moon and the stars; the sun's heat dried the waters, and land appeared. He then vomited nine animals, among them the leopard, the eagle, the crocodile, the tortoise, a white heron, a scarab and a goat, which went on to create all other creatures, and finally many people. Three of his sons tried to complete creation; one, Tsetse Bumba, caused trouble and was chased into the sky, where she became the thunderbolt.",
+   "alternatives": [
+    {
+     "label": "Kingdom and cosmos",
+     "text": "The Kuba kingdom, which rose around the early 17th century under King Shyaam a-Mbul a-Ngoong, had rich royal traditions, including carved ndop portrait figures of kings; scholars have studied how its creation stories link the order of the world to the authority of the king."
+    },
+    {
+     "label": "A creation from nothing",
+     "text": "Comparative mythologists often cite Mbombo as an example of a creator who makes the world alone from his own body, comparable to other \"emergence from the creator\" myths; the myth is known mainly from colonial-era ethnographic recordings, which may have shaped how it was told."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Mbombo",
+     "url": "https://en.wikipedia.org/wiki/Mbombo",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Kuba Kingdom",
+     "url": "https://en.wikipedia.org/wiki/Kuba_Kingdom",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Brooklyn_Museum_61.33_Ndop_Portrait_of_King_Mishe_miShyaang_maMbul_%285%29.jpg/500px-Brooklyn_Museum_61.33_Ndop_Portrait_of_King_Mishe_miShyaang_maMbul_%285%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Brooklyn_Museum_61.33_Ndop_Portrait_of_King_Mishe_miShyaang_maMbul_(5).jpg",
+     "author": "Unknown authorUnknown author",
+     "license": "CC BY 3.0",
+     "title": "Brooklyn Museum 61.33 Ndop Portrait of King Mishe miShyaang maMbul (5).jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion"
+   ],
+   "threads": [
+    "creation-myths",
+    "sacred-kingship",
+    "thunder-gods"
+   ]
+  },
+  {
+   "id": "elizabeth-klarer",
+   "title": "Elizabeth Klarer: South Africa's Venusian love story",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 1954,
+   "end": null,
+   "evidenceTypes": [
+    "testimony",
+    "photographic"
+   ],
+   "mainstream": "Elizabeth Klarer (1910–1994) was born at Mooi River in Natal, studied meteorology and, she said, worked for RAF intelligence during the Second World War. From 1956 she publicly claimed to have been contacted by extraterrestrials. According to her accounts, in December 1954 she climbed a hill on her sister's farm in the Natal midlands, which she called Flying Saucer Hill, after Zulu workers reported the 'lightning bird' in the sky; there, and in later encounters, she met Akon, a scientist from the planet Meton in the Alpha Centauri system, who took her aboard his scout ship in April 1956. She took a series of photographs of the craft in July 1956. She later said she had a love affair with Akon, had travelled to Meton and borne him a son, Ayling, and described this in her book Beyond the Light Barrier (1980).",
+   "alternatives": [
+    {
+     "label": "A contactee message",
+     "text": "Like George Adamski and other 1950s contactees, Klarer presented messages of peace, environmentalism and cosmic consciousness from a wise advanced civilisation, and spoke of government cover-ups; some ufologists who interviewed her family were satisfied that her experiences were genuine."
+    },
+    {
+     "label": "Sceptical view",
+     "text": "Sceptics regard her photographs as unconvincing and her claims of interstellar travel and a child born on another planet as unverifiable; no independent evidence for Akon or Meton exists, and even some fellow ufologists distanced themselves from the later love-affair story."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Elizabeth Klarer",
+     "url": "https://en.wikipedia.org/wiki/Elizabeth_Klarer",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [],
+   "categories": [
+    "aliens-ufo"
+   ],
+   "threads": [
+    "anomalous-photos",
+    "close-encounters",
+    "southern-africa",
+    "contactees"
+   ]
+  },
+  {
+   "id": "im1-interstellar-meteor",
+   "title": "IM1: an interstellar meteor, ocean-floor spherules and an alien-probe claim",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 2014,
+   "end": null,
+   "dateNote": "Fireball 2014; ocean expedition 2023",
+   "evidenceTypes": [
+    "instrumental",
+    "geochemical",
+    "speculative"
+   ],
+   "mainstream": "On 8 January 2014 a fireball, catalogued as CNEOS 2014-01-08, exploded in the atmosphere off Manus Island, Papua New Guinea, and was recorded by US government sensors. In a 2019 preprint, published in 2022, the Harvard astronomer Avi Loeb and his student Amir Siraj argued that its high speed meant it came from outside the Solar System, which would make it the first known interstellar meteor; in 2022 US Space Command stated that the velocity data were sufficiently accurate to indicate an interstellar trajectory. In June 2023 Loeb's Galileo Project led an expedition that dredged the sea floor along the estimated path and recovered tiny metallic spherules, some with an unusual composition that the team said might be from outside the Solar System or even from alien technology.",
+   "alternatives": [
+    {
+     "label": "Loeb's case",
+     "text": "Loeb argues that the meteor's speed and apparent material strength, and the unusual element ratios in some spherules, are consistent with an interstellar origin, possibly an artificial one, and that such possibilities deserve open investigation."
+    },
+    {
+     "label": "Critics",
+     "text": "Other scientists argued that the government sensor data have large uncertainties, that the seismic signal used to locate the impact was caused by a passing truck, and that the spherules' composition matches terrestrial sources such as coal ash; most planetary scientists regard both the interstellar origin and the alien-technology suggestion as unproven."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: CNEOS 2014-01-08",
+     "url": "https://en.wikipedia.org/wiki/CNEOS_2014-01-08",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Avi Loeb",
+     "url": "https://en.wikipedia.org/wiki/Avi_Loeb",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [],
+   "categories": [
+    "science-cosmos",
+    "aliens-ufo",
+    "anomalies"
+   ],
+   "threads": [
+    "life-beyond-earth",
+    "interstellar-visitors",
+    "voices-of-doubt",
+    "falls-from-the-sky"
+   ]
+  },
+  {
+   "id": "north-sentinel-island",
+   "title": "North Sentinel Island: the people who refuse contact",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1880,
+   "end": null,
+   "dateNote": "Recorded contact from 1880; first peaceful contact 1991",
+   "evidenceTypes": [
+    "ethnographic",
+    "textual"
+   ],
+   "mainstream": "North Sentinel Island, in India's Andaman Islands in the Bay of Bengal, is home to the Sentinelese, one of the last peoples living largely without contact with the outside world. Their language is not understood by outsiders, and their population is unknown, with estimates ranging from a few dozen to a few hundred. In January 1880 a British expedition under Maurice Vidal Portman landed and abducted six islanders; two elderly captives died, and the four children were returned. After decades of occasional visits, the Indian anthropologist Triloknath Pandit and colleagues made the first peaceful contact on 4 January 1991, offering coconuts. India now bans approaching within about 5 km, partly to protect the islanders from diseases to which they may have no immunity. The Sentinelese killed two fishermen who drifted ashore in 2006 and the American missionary John Allen Chau in 2018.",
+   "alternatives": [
+    {
+     "label": "Leave them alone",
+     "text": "Indian authorities and organisations such as Survival International argue that the Sentinelese have clearly expressed their wish to be left alone and that contact could devastate them through disease, as happened to other Andaman peoples after colonisation."
+    },
+    {
+     "label": "Myths of the \"lost tribe\"",
+     "text": "The Sentinelese are often described as a \"Stone Age\" people frozen in time; anthropologists stress that they are modern people with their own history and adaptations, who survived the 2004 tsunami, which lifted their island by up to 2 metres, and who use iron salvaged from shipwrecks."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: North Sentinel Island",
+     "url": "https://en.wikipedia.org/wiki/North_Sentinel_Island",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Sentinelese",
+     "url": "https://en.wikipedia.org/wiki/Sentinelese",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/North_Sentinel_Island_from_flight.jpg/500px-North_Sentinel_Island_from_flight.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:North_Sentinel_Island_from_flight.jpg",
+     "author": "PJeganathan",
+     "license": "CC BY-SA 4.0",
+     "title": "North Sentinel Island from flight.jpg"
+    }
+   ],
+   "categories": [
+    "history"
+   ],
+   "threads": [
+    "plagues-and-epidemics",
+    "hidden-peoples",
+    "tsunami-memory"
+   ]
+  },
+  {
+   "id": "tanis-kpg-site",
+   "title": "Tanis: a snapshot of the day the dinosaurs died?",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": -66000000,
+   "end": null,
+   "dateNote": "About 66 million years ago; site excavated from 2012",
+   "statusNote": "site and impact debris confirmed; extent of \"impact day\" interpretation debated",
+   "evidenceTypes": [
+    "geological",
+    "fossil",
+    "geochemical"
+   ],
+   "mainstream": "Tanis is a fossil site in the Hell Creek Formation of southwestern North Dakota, excavated from 2012 by the palaeontologist Robert DePalma. In a 2019 paper in PNAS, DePalma and colleagues described a jumble of fish, plants and other remains preserved in three dimensions, with tiny glass spherules (microtektites) from the Chicxulub impact lodged in fish gills. They interpreted the deposit as the result of surges of water set off by seismic waves from the impact, arriving within an hour or so of the asteroid striking what is now Mexico, about 66 million years ago, making Tanis a possible record of the first hours of the mass extinction. Studies of fish bones from the site, including a 2022 paper led by Melanie During in Nature, concluded that the impact happened in the Northern Hemisphere spring.",
+   "alternatives": [
+    {
+     "label": "A unique record",
+     "text": "Supporters argue that Tanis captures the direct effects of the impact in unusual detail, and that the spherules in the gills show fish were alive when the debris rained down."
+    },
+    {
+     "label": "Caution",
+     "text": "Some palaeontologists questioned the way findings were publicised in the media and in a 2022 BBC documentary ahead of full scientific description, and about how much of the site's material dates precisely to the impact day; the interpretation of the deposit as a seiche-like surge is still being tested."
+    }
+   ],
+   "sources": [
+    {
+     "title": "A seismically induced onshore surge deposit at the KPg boundary, North Dakota",
+     "authors": "DePalma, R. et al.",
+     "year": 2019,
+     "doi": "10.1073/pnas.1817407116",
+     "type": "paper"
+    },
+    {
+     "title": "The Mesozoic terminated in boreal spring",
+     "authors": "During, M. et al.",
+     "year": 2022,
+     "doi": "10.1038/s41586-022-04446-1",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: Tanis (fossil site)",
+     "url": "https://en.wikipedia.org/wiki/Tanis_(fossil_site)",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Hell_Creek.jpg/500px-Hell_Creek.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Hell_Creek.jpg",
+     "author": "Anky-man 16:28, 16 April 2007 (UTC)",
+     "license": "CC BY-SA 3.0",
+     "title": "Hell Creek.jpg"
+    }
+   ],
+   "categories": [
+    "science-cosmos",
+    "catastrophes"
+   ],
+   "threads": [
+    "cosmic-impacts",
+    "mass-extinctions",
+    "deep-time-earth"
+   ]
   }
  ]
 }
