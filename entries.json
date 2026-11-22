@@ -78185,6 +78185,586 @@
     "southern-africa",
     "cradle-of-humankind"
    ]
+  },
+  {
+   "id": "atlantic-slave-trade",
+   "title": "The Atlantic slave trade: 12.5 million people taken across the ocean",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": 1526,
+   "end": 1867,
+   "dateNote": "First direct Africa-Americas voyages c. 1525-26; last known voyages 1860s",
+   "evidenceTypes": [
+    "textual",
+    "archaeological",
+    "database"
+   ],
+   "mainstream": "The Atlantic slave trade carried enslaved Africans to the Americas from the early 16th century until the 1860s. Portuguese traders began buying captives on the West African coast in the 15th century; the first direct voyages from Africa to the Americas followed in the 1520s, and Portugal, Britain, France, Spain, the Netherlands, Denmark and traders in the Americas all took part. Most captives came from West and Central Africa and were bought from African merchants and states at coastal forts and markets. According to the SlaveVoyages database, built from records of more than 36,000 voyages, about 12.5 million people were embarked and about 10.7 million survived the Middle Passage. Most were taken to Brazil and the Caribbean to work on sugar and other plantations. Britain banned its trade in 1807 and the United States in 1808; the last known voyages reached Cuba in the 1860s, and Brazil abolished slavery in 1888.",
+   "alternatives": [
+    {
+     "label": "Counting the dead and the living",
+     "text": "The numbers have been revised as records were digitised; earlier estimates ranged from under 10 million to far higher figures. Historians agree on the order of magnitude but note that the deaths during capture and marches to the coast in Africa are poorly recorded and not included in the voyage totals."
+    },
+    {
+     "label": "Causes and consequences",
+     "text": "Historians debate how far the trade shaped Africa's later economic and political development, and how far profits from slavery fuelled European industrialisation (the thesis of Eric Williams's Capitalism and Slavery, 1944); these questions remain actively argued."
+    }
+   ],
+   "sources": [
+    {
+     "title": "SlaveVoyages: Trans-Atlantic Slave Trade estimates",
+     "url": "https://www.slavevoyages.org/assessment/estimates",
+     "type": "database"
+    },
+    {
+     "title": "Wikipedia: Atlantic slave trade",
+     "url": "https://en.wikipedia.org/wiki/Atlantic_slave_trade",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Slave_ship_diagram.png/500px-Slave_ship_diagram.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Slave_ship_diagram.png",
+     "author": "Unknown authorUnknown author",
+     "license": "Public domain",
+     "title": "Slave ship diagram.png"
+    }
+   ],
+   "categories": [
+    "history"
+   ],
+   "threads": [
+    "changed-understanding",
+    "ocean-voyagers",
+    "trade-networks",
+    "resistance-to-empire"
+   ]
+  },
+  {
+   "id": "potosi-silver",
+   "title": "Potosí: the silver mountain that paid for an empire",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1545,
+   "end": 1825,
+   "evidenceTypes": [
+    "textual",
+    "archaeological"
+   ],
+   "mainstream": "In 1545 Diego Huallpa, an Indigenous prospector, is traditionally credited with finding silver at the Cerro Rico ('rich mountain') in what is now Bolivia. The mining town of Potosí, at over 4,000 metres one of the highest cities in the world, grew to be among the largest cities of its time. From the 1570s Viceroy Francisco de Toledo expanded the mita, a forced-labour draft adapted from an Inca system, which obliged Indigenous communities to send men to the mines, and introduced mercury amalgamation, using mercury from Huancavelica. Potosí's silver, minted into coins, flowed through Spain to the rest of Europe and across the Pacific via the Manila galleons to China, helping create a global trade in silver. The Cerro Rico became known as 'the mountain that eats men'.",
+   "alternatives": [
+    {
+     "label": "How many died?",
+     "text": "Figures of around eight million deaths are often repeated in popular works; other historians argue that the deaths in the Potosí mines numbered in the hundreds of thousands, and that the larger figure refers to population losses across the whole Viceroyalty of Peru, mostly from epidemics."
+    },
+    {
+     "label": "Forced or wage labour?",
+     "text": "Historians such as Noble David Cook stress that by 1603 most workers at Potosí were wage earners rather than mita conscripts; Peter Bakewell argues that the mita was more central, since many wage workers were conscripts on their weeks off or former conscripts who stayed on."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Potosí",
+     "url": "https://en.wikipedia.org/wiki/Potos%C3%AD",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Cerro Rico",
+     "url": "https://en.wikipedia.org/wiki/Cerro_Rico",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Mit'a",
+     "url": "https://en.wikipedia.org/wiki/Mit'a",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Vista_de_la_Villa_Imperial_de_Potos%C3%AD.jpg/500px-Vista_de_la_Villa_Imperial_de_Potos%C3%AD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Vista_de_la_Villa_Imperial_de_Potos%C3%AD.jpg",
+     "author": "Parallelepiped09",
+     "license": "CC BY-SA 4.0",
+     "title": "Vista_de_la_Villa_Imperial_de_Potosí.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "catastrophes"
+   ],
+   "threads": [
+    "trade-networks",
+    "andean-empires",
+    "cities-of-gold"
+   ]
+  },
+  {
+   "id": "defenestration-thirty-years-war",
+   "title": "The Thirty Years' War: a window in Prague, a ruined Germany and the \"Westphalian\" myth",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": 1618,
+   "end": 1648,
+   "evidenceTypes": [
+    "textual"
+   ],
+   "mainstream": "On 23 May 1618 Protestant nobles in Prague threw two Catholic royal governors, Jaroslav Bořita of Martinice and Vilém Slavata, and their secretary out of a window of the castle, beginning the Bohemian revolt against the Habsburgs. The war that followed, fought mainly in the Holy Roman Empire between 1618 and 1648, drew in Spain, Sweden, Denmark, France and the Dutch Republic and became one of the most destructive in European history: an estimated 4.5 to 8 million people died from fighting, famine and disease, and some regions of Germany lost more than half their population. Religious division after the Reformation helped start it, but its scale owed much to power politics, especially the rivalry between France and the Habsburgs. The Peace of Westphalia, signed at Osnabrück and Münster in 1648, ended it.",
+   "alternatives": [
+    {
+     "label": "Saved by angels or by dung?",
+     "text": "All three men thrown from the window survived the fall of about 20 metres. Catholics said they had been saved by angels or by the Virgin Mary; later Protestant pamphlets claimed they had landed on a dung heap, a story unknown to contemporaries and probably invented to mock the miracle claims."
+    },
+    {
+     "label": "The Westphalian myth",
+     "text": "Westphalia is often said to have founded the modern system of sovereign states. Scholars such as Andreas Osiander argue this is a 19th- and 20th-century myth: the treaties were mainly about the constitution of the Holy Roman Empire and did not create sovereignty as later understood; others still see 1648 as a useful symbolic turning point."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Sovereignty, International Relations, and the Westphalian Myth",
+     "authors": "Osiander, A.",
+     "year": 2001,
+     "doi": "10.1162/00208180151140577",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: Thirty Years' War",
+     "url": "https://en.wikipedia.org/wiki/Thirty_Years'_War",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Defenestrations of Prague",
+     "url": "https://en.wikipedia.org/wiki/Defenestrations_of_Prague",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/V%C3%A1clavBRO%C5%BD%C3%8DK-Defenestrace.jpg/500px-V%C3%A1clavBRO%C5%BD%C3%8DK-Defenestrace.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:V%C3%A1clavBRO%C5%BD%C3%8DK-Defenestrace.jpg",
+     "author": "Václav Brožík",
+     "license": "Public domain",
+     "title": "VáclavBROŽÍK-Defenestrace.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "religion",
+    "catastrophes"
+   ],
+   "threads": [
+    "changed-understanding",
+    "holy-wars",
+    "myths-about-history",
+    "miracle-workers"
+   ]
+  },
+  {
+   "id": "tulip-mania-1637",
+   "title": "Tulip mania (1637): the first bubble, or a story that grew in the telling?",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 1634,
+   "end": 1637,
+   "statusNote": "price rise and crash confirmed; scale and impact disputed",
+   "evidenceTypes": [
+    "textual",
+    "economic records"
+   ],
+   "mainstream": "During the Dutch Golden Age, tulips, recently introduced from the Ottoman Empire, became fashionable luxury goods, and the most prized varieties had striped 'broken' petals caused, it was later found, by a virus. From about 1634 prices for bulb contracts rose steeply, and in February 1637 a single bulb of the rare Semper Augustus is reported to have sold for 10,000 guilders, more than many houses. In early February 1637 the market suddenly collapsed. Tulip mania is often called the first recorded speculative bubble and is a standard warning in finance books.",
+   "alternatives": [
+    {
+     "label": "Mackay's madness of crowds",
+     "text": "The famous version comes from Charles Mackay's Extraordinary Popular Delusions and the Madness of Crowds (1841), which described a whole nation gripped by speculation and ruined by the crash, with anecdotes such as a sailor who ate a priceless bulb mistaking it for an onion."
+    },
+    {
+     "label": "A small, exaggerated crisis",
+     "text": "The historian Anne Goldgar, studying archives for her book Tulipmania (2007), found that trading involved a fairly small group of merchants and artisans, that she could identify fewer than half a dozen people in financial trouble, and that most accounts rely on contemporary moralising pamphlets and much later copying. The economist Peter Garber argued that high prices for rare bulbs were not irrational; Earl Thompson linked the crash to a change in contract rules."
+    }
+   ],
+   "changed": "1637 crash and moralising pamphlets; 1841 Mackay popularises the mania; from the 1980s economists question it; 2007 Goldgar's archival study argues the crisis was small.",
+   "sources": [
+    {
+     "title": "Wikipedia: Tulip mania",
+     "url": "https://en.wikipedia.org/wiki/Tulip_mania",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Jan_Brueghel_the_Younger%2C_Satire_on_Tulip_Mania%2C_c._1640.jpg/500px-Jan_Brueghel_the_Younger%2C_Satire_on_Tulip_Mania%2C_c._1640.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Jan_Brueghel_the_Younger,_Satire_on_Tulip_Mania,_c._1640.jpg",
+     "author": "Jan Brueghel the Younger",
+     "license": "Public domain",
+     "title": "Jan_Brueghel_the_Younger,_Satire_on_Tulip_Mania,_c._1640.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "hoaxes"
+   ],
+   "threads": [
+    "changed-understanding",
+    "collective-experiences",
+    "seeing-what-we-expect",
+    "myths-about-history"
+   ]
+  },
+  {
+   "id": "great-fire-of-london-1666",
+   "title": "The Great Fire of London (1666) and the search for someone to blame",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": 1666,
+   "end": 1666,
+   "evidenceTypes": [
+    "textual",
+    "archaeological"
+   ],
+   "mainstream": "The Great Fire of London began shortly after midnight on Sunday 2 September 1666 in a bakery in Pudding Lane and burned until 5 September. Driven by an east wind through closely packed timber houses, it gutted most of the medieval City of London inside the Roman wall, destroying about 13,200 houses, 87 parish churches and Old St Paul's Cathedral. The recorded death toll was very small, traditionally six, though some historians think it was higher. The city was rebuilt in brick and stone, and Christopher Wren designed the new St Paul's and many churches; the Monument near Pudding Lane, designed by Wren and Robert Hooke, was built between 1671 and 1677.",
+   "alternatives": [
+    {
+     "label": "A foreign or Catholic plot?",
+     "text": "During the fire, rumours that foreigners were setting fires led to violence against French and Dutch residents, as England was at war with the Dutch. A French watchmaker, Robert Hubert, confessed to starting it and was hanged at Tyburn in October 1666, despite doubts about his fitness to plead; it later emerged that he had been at sea and only reached London two days after the fire began; in 1681 an inscription blaming \"Popish frenzy\" was added to the Monument and was only removed in 1830."
+    },
+    {
+     "label": "An accident",
+     "text": "Official inquiries and most historians conclude the fire was an accident, made catastrophic by a dry summer, strong wind and slow decisions to demolish buildings as firebreaks."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Great Fire of London",
+     "url": "https://en.wikipedia.org/wiki/Great_Fire_of_London",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Monument to the Great Fire of London",
+     "url": "https://en.wikipedia.org/wiki/Monument_to_the_Great_Fire_of_London",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Great_Fire_London.jpg/500px-Great_Fire_London.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Great_Fire_London.jpg",
+     "author": "Unknown artistUnknown artist",
+     "license": "Public domain",
+     "title": "Great_Fire_London.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "catastrophes"
+   ],
+   "threads": [
+    "plagues-and-epidemics",
+    "disasters-and-scapegoats",
+    "rumour-and-disinformation"
+   ]
+  },
+  {
+   "id": "south-sea-bubble-1720",
+   "title": "The South Sea Bubble (1720): when Britain's debt became a craze",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1720,
+   "end": 1720,
+   "evidenceTypes": [
+    "textual",
+    "economic records"
+   ],
+   "mainstream": "The South Sea Company was founded in 1711 as a public-private partnership to take over and reduce the cost of Britain's national debt. In 1713 it received the Asiento, a monopoly contract to supply enslaved Africans to Spanish America, and it transported over 34,000 people across the Atlantic, though the trade never made significant profits. In 1720 the company took on more of the national debt in exchange for shares, and its share price rose from about £128 in January to £1,000 in early August, amid a wave of speculation in other new companies, before collapsing to around £100 by the end of the year. Thousands of investors were ruined, and a parliamentary inquiry exposed bribery of ministers and officials; the Chancellor of the Exchequer, John Aislabie, was found guilty of corruption and imprisoned.",
+   "alternatives": [
+    {
+     "label": "Newton's losses",
+     "text": "A popular story says Isaac Newton lost a fortune and remarked that he could calculate the motions of heavenly bodies but not the madness of people. Newton did lose at least £10,000 in South Sea stock, but the remark comes second-hand, from Joseph Spence reporting what Lord Radnor told him, and the popular wording about stars is a later elaboration."
+    },
+    {
+     "label": "Mania or rational gamble?",
+     "text": "Economists debate whether the bubble was irrational mass speculation or a predictable result of the scheme's design and of insiders manipulating the price; the same year saw John Law's Mississippi bubble collapse in France."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: South Sea Company",
+     "url": "https://en.wikipedia.org/wiki/South_Sea_Company",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Bubble Act",
+     "url": "https://en.wikipedia.org/wiki/Bubble_Act",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/William_Hogarth%2C_The_South_Sea_Scheme%2C_1721%2C_NGA_30435.jpg/500px-William_Hogarth%2C_The_South_Sea_Scheme%2C_1721%2C_NGA_30435.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:William_Hogarth,_The_South_Sea_Scheme,_1721,_NGA_30435.jpg",
+     "author": "William Hogarth",
+     "license": "CC0",
+     "title": "William Hogarth, The South Sea Scheme, 1721, NGA 30435.jpg"
+    }
+   ],
+   "categories": [
+    "history"
+   ],
+   "threads": [
+    "collective-experiences",
+    "trade-networks",
+    "scientists-and-the-occult"
+   ]
+  },
+  {
+   "id": "sakoku-closed-japan",
+   "title": "Sakoku: Japan's \"closed country\" that was never quite closed",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1639,
+   "end": 1854,
+   "evidenceTypes": [
+    "textual"
+   ],
+   "mainstream": "Under the Tokugawa shogunate, a series of edicts issued between 1633 and 1639 under the shogun Tokugawa Iemitsu sharply restricted Japan's relations with the outside world. Most foreigners were barred, Portuguese traders were expelled after the Shimabara Rebellion, Christianity was banned, and ordinary Japanese could not leave the country on pain of death. Contact continued through four 'gateways': the Dutch East India Company post on the artificial island of Dejima and Chinese merchants at Nagasaki, Korea through the Tsushima domain, the Ryukyu kingdom through Satsuma, and the Ainu through the Matsumae domain. Western science reached Japan through rangaku ('Dutch learning'). The system ended after the American Commodore Matthew Perry arrived with his 'black ships' in 1853 and forced the Convention of Kanagawa in 1854.",
+   "alternatives": [
+    {
+     "label": "A word coined later",
+     "text": "The term sakoku was invented in 1801 by the translator Shizuki Tadao while translating the German traveller Engelbert Kaempfer's account of Japan; the shogunate itself did not use it. Historians such as Ronald Toby argue that the policy was a controlled foreign relations system rather than isolation."
+    },
+    {
+     "label": "Isolation and its effects",
+     "text": "Older accounts saw sakoku as leaving Japan technologically behind and stagnant; later historians emphasise the long peace, internal trade, urban culture and the steady flow of selected knowledge through Nagasaki, which helped Japan modernise rapidly after 1868."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Sakoku",
+     "url": "https://en.wikipedia.org/wiki/Sakoku",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Dejima",
+     "url": "https://en.wikipedia.org/wiki/Dejima",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Plattegrond_van_Deshima.jpg/500px-Plattegrond_van_Deshima.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Plattegrond_van_Deshima.jpg",
+     "author": "Isaac Titsingh",
+     "license": "Public domain",
+     "title": "Plattegrond_van_Deshima.jpg"
+    }
+   ],
+   "categories": [
+    "history"
+   ],
+   "threads": [
+    "changed-understanding",
+    "knowledge-and-power",
+    "suppressed-beliefs",
+    "trade-networks"
+   ]
+  },
+  {
+   "id": "cook-terra-australis-lono",
+   "title": "Captain Cook, the missing southern continent and the Lono debate",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1768,
+   "end": 1779,
+   "evidenceTypes": [
+    "textual"
+   ],
+   "mainstream": "Since antiquity European geographers had imagined Terra Australis, a great southern continent thought to balance the land of the north, and it appeared on maps from the 15th to the 18th centuries. On his first voyage (1768–71) James Cook observed the 1769 transit of Venus in Tahiti and, under secret orders, searched for the southern continent, charting New Zealand and the east coast of Australia. On his second voyage (1772–75) he became the first known navigator to cross the Antarctic Circle and sailed around the world at high southern latitudes, showing that no large habitable southern continent existed; Antarctica itself was first sighted in 1820. On his third voyage he reached Hawaii, where he was killed at Kealakekua Bay on 14 February 1779.",
+   "alternatives": [
+    {
+     "label": "Was Cook taken for a god?",
+     "text": "Cook arrived during the Makahiki festival of the god Lono, and Hawaiians called him Lono and prostrated themselves. The anthropologist Marshall Sahlins argued that Hawaiians fitted Cook into their ritual cycle as Lono; Gananath Obeyesekere argued this was a European myth of natives worshipping white explorers. Anne Salmond suggests Cook was honoured as a high chief descended from Lono rather than as the god himself."
+    },
+    {
+     "label": "Discovery or encounter?",
+     "text": "Cook's voyages are now presented less as discoveries than as encounters with peoples who had long known these lands and seas, including the Raiatean navigator Tupaia, who sailed with Cook and drew a chart of the Pacific islands."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Terra Australis",
+     "url": "https://en.wikipedia.org/wiki/Terra_Australis",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Death of James Cook",
+     "url": "https://en.wikipedia.org/wiki/Death_of_James_Cook",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Second voyage of James Cook",
+     "url": "https://en.wikipedia.org/wiki/Second_voyage_of_James_Cook",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Captainjamescookportrait.jpg/500px-Captainjamescookportrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Captainjamescookportrait.jpg",
+     "author": "Nathaniel Dance-Holland",
+     "license": "Public domain",
+     "title": "Captainjamescookportrait.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "myth-legend",
+    "religion"
+   ],
+   "threads": [
+    "lost-continents",
+    "ocean-voyagers",
+    "returning-saviours",
+    "phantom-islands",
+    "pacific-wayfinding",
+    "myths-about-history",
+    "kings-who-became-gods"
+   ]
+  },
+  {
+   "id": "first-opium-war",
+   "title": "The Opium Wars and the \"century of humiliation\"",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": 1839,
+   "end": 1860,
+   "evidenceTypes": [
+    "textual"
+   ],
+   "mainstream": "By the early 19th century British merchants were selling large quantities of opium grown in British India to China, in defiance of a Qing ban, to pay for the tea, silk and porcelain that Britain bought. In 1839 the Daoguang Emperor sent the official Lin Zexu to Guangzhou (Canton) to end the trade; he forced British dealers to hand over about 1,400 tonnes of opium and had it destroyed in public at Humen and wrote an open letter to Queen Victoria. Britain sent a fleet, and its steam-powered warships and modern guns defeated Qing forces. The Treaty of Nanking (1842) ceded Hong Kong Island, opened five ports to British trade and imposed a large indemnity. A Second Opium War (1856–60) ended with British and French troops burning the Old Summer Palace in Beijing.",
+   "alternatives": [
+    {
+     "label": "Drugs or diplomacy?",
+     "text": "The war is widely remembered as a war to force opium on China; some contemporaries and historians, including John Quincy Adams in 1841, argued the real issue was Chinese refusal to trade and negotiate on equal terms. Most historians see opium profits and the demand for open markets as inseparable."
+    },
+    {
+     "label": "The century of humiliation",
+     "text": "Twentieth-century Chinese nationalists treated 1839 as the start of a century of humiliation by foreign powers lasting until 1949, and many historians date the beginning of modern Chinese history to the war; the idea remains central to official Chinese historical memory."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: First Opium War",
+     "url": "https://en.wikipedia.org/wiki/First_Opium_War",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Second Opium War",
+     "url": "https://en.wikipedia.org/wiki/Second_Opium_War",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Lin Zexu",
+     "url": "https://en.wikipedia.org/wiki/Lin_Zexu",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Destroying_Chinese_war_junks%2C_by_E._Duncan_%281843%29.jpg/500px-Destroying_Chinese_war_junks%2C_by_E._Duncan_%281843%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Destroying_Chinese_war_junks,_by_E._Duncan_(1843).jpg",
+     "author": "Edward Duncan",
+     "license": "Public domain",
+     "title": "Destroying_Chinese_war_junks,_by_E._Duncan_(1843).jpg"
+    }
+   ],
+   "categories": [
+    "history"
+   ],
+   "threads": [
+    "knowledge-and-power",
+    "trade-networks",
+    "resistance-to-empire"
+   ]
+  },
+  {
+   "id": "great-trek-1836",
+   "title": "The Great Trek and the Day of the Vow: history and national myth",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1836,
+   "end": 1852,
+   "evidenceTypes": [
+    "textual",
+    "oral tradition"
+   ],
+   "mainstream": "From 1836 several thousand Dutch-speaking settlers, Boers who called themselves Voortrekkers, left the British-ruled Cape Colony with their wagons, livestock and servants and moved into the interior of southern Africa, angered by British rule, frontier policies and the end of slavery in 1834. Their migration led to conflict with the Northern Ndebele and the Zulu kingdom. In February 1838 the Zulu king Dingane had the trek leader Piet Retief and about seventy of his party killed at uMgungundlovu, and Zulu forces attacked trekker camps; on 16 December 1838 a trekker commando under Andries Pretorius defeated a Zulu army at the Battle of Blood River (Ncome). The trekkers founded the Natalia Republic and later the South African Republic (Transvaal) and the Orange Free State.",
+   "alternatives": [
+    {
+     "label": "A covenant with God",
+     "text": "Before Blood River the trekkers made a vow that if God granted them victory they would keep the day holy. In the 20th century Afrikaner nationalism made the Great Trek and the vow central to its identity, culminating in the 1938 centenary re-enactment and the Voortrekker Monument (1949); 16 December became the Day of the Vow, renamed the Day of Reconciliation in 1995."
+    },
+    {
+     "label": "Empty land?",
+     "text": "A long-standing settler claim held that the trekkers moved into an interior emptied by the Mfecane wars; historians reject this \"empty land\" idea, showing that the interior was inhabited and that the trek dispossessed African communities."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Great Trek",
+     "url": "https://en.wikipedia.org/wiki/Great_Trek",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Battle of Blood River",
+     "url": "https://en.wikipedia.org/wiki/Battle_of_Blood_River",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Day of Reconciliation",
+     "url": "https://en.wikipedia.org/wiki/Day_of_Reconciliation",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Voortrekker_Monument.jpg/500px-Voortrekker_Monument.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Voortrekker_Monument.jpg",
+     "author": "John Walker, Images of Africa Taken from de-Wikipedia, where it had been uploaded by Head under the same filename.",
+     "license": "Public domain",
+     "title": "Voortrekker_Monument.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "religion",
+    "myth-legend"
+   ],
+   "threads": [
+    "founding-ancestors",
+    "royal-propaganda",
+    "myths-about-history",
+    "southern-africa"
+   ]
   }
  ]
 }
