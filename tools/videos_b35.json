@@ -1,0 +1,104 @@
+{
+ "star-carr": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=4XdWA75gMSc",
+  "title": "Mesolithic Shamans Used Deer Skulls During Rituals",
+  "channel": "Smithsonian Channel"
+ },
+ "atlantic-slave-trade": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=3NXC4Q_4JVg",
+  "title": "The Atlantic slave trade: What too few textbooks told you - Anthony Hazard",
+  "channel": "TED-Ed"
+ },
+ "world-war-two": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=Objoad6rG6U",
+  "title": "World War II Part 1: Crash Course US History #35",
+  "channel": "CrashCourse"
+ },
+ "holocaust": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=7BUrlNU9m6U",
+  "title": "The Unbelievable Reality of Auschwitz | The U.S. and the Holocaust | PBS",
+  "channel": "PBS"
+ },
+ "sharpeville-massacre-1960": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=hHEGybruYRI",
+  "title": "Victims sue South African government over 1960 Sharpeville massacre",
+  "channel": "Al Jazeera English"
+ },
+ "rwandan-genocide-1994": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=MF7EbUGlaOU",
+  "title": "What caused the Rwandan Genocide? - Susanne Buckley-Zistel",
+  "channel": "TED-Ed"
+ },
+ "tanis-kpg-site": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=fg_O2cdOQxA",
+  "title": "Dinosaur fossil from asteroid strike that caused extinction found, scientists claim - BBC News",
+  "channel": "BBC News"
+ },
+ "world-war-one": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=Cd2ch4XV84s",
+  "title": "How World War I Started: Crash Course World History 209",
+  "channel": "CrashCourse"
+ },
+ "september-11-attacks": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=rspC_2ujO24",
+  "title": "First Response (Full Episode) | 9/11: One Day in America",
+  "channel": "National Geographic"
+ },
+ "tulip-mania-1637": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=I5ZR0jMlxX0",
+  "title": "What causes economic bubbles? - Prateek Singh",
+  "channel": "TED-Ed"
+ },
+ "first-opium-war": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=VlZpo580bA8",
+  "title": "Opium Wars  | World History | Khan Academy",
+  "channel": "Khan Academy"
+ },
+ "sakoku-closed-japan": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=Nosq94oCl_M",
+  "title": "Samurai, Daimyo, Matthew Perry, and Nationalism: Crash Course World History #34",
+  "channel": "CrashCourse"
+ },
+ "cook-terra-australis-lono": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=2yXNrLTddME",
+  "title": "The Amazing Life and Strange Death of Captain Cook: Crash Course World History #27",
+  "channel": "CrashCourse"
+ },
+ "shanidar-flower-burial": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=35yQLJ_Rka8",
+  "title": "The mystery of Neanderthal death rites",
+  "channel": "Cambridge University"
+ },
+ "mau-mau-uprising": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=xEwOICbKXcw",
+  "title": "🇰🇪Kenya's Mau Mau: The Last Battle l Witness",
+  "channel": "Al Jazeera English"
+ },
+ "al-andalus-cordoba": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=GGotnIfQaQg",
+  "title": "Lessons from the Golden Era of Andalusia  | Al Jazeera World",
+  "channel": "Al Jazeera English"
+ },
+ "defenestration-thirty-years-war": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=cmKHYpC_jVs",
+  "title": "The 17th Century Crisis: Crash Course European History #11",
+  "channel": "CrashCourse"
+ }
+}
