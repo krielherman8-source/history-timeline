@@ -78765,6 +78765,579 @@
     "myths-about-history",
     "southern-africa"
    ]
+  },
+  {
+   "id": "berlin-conference-1884",
+   "title": "The Berlin Conference (1884-85): did it really carve up Africa?",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": 1884,
+   "end": 1885,
+   "evidenceTypes": [
+    "textual"
+   ],
+   "mainstream": "The Berlin Conference was a meeting of fourteen states, organised by the German chancellor Otto von Bismarck at the request of King Leopold II of Belgium, which met from 15 November 1884 to 26 February 1885. No African ruler was represented. Its General Act regulated trade on the Congo and Niger rivers, set out the principle that claims to African coasts must be backed by 'effective occupation', and recognised the territory claimed by Leopold's International Congo Society, which became his personal Congo Free State. In the decades that followed, almost the whole of Africa was colonised by European powers, a process known as the Scramble for Africa; only Ethiopia, which defeated Italy at Adwa in 1896, and Liberia remained independent.",
+   "alternatives": [
+    {
+     "label": "The famous map-drawing",
+     "text": "The conference is often described, in textbooks and popular histories, as the moment European diplomats sat around a map and drew Africa's borders. Historians warn against overstating this: most borders were set by many bilateral treaties before and after it, and a 2024 study found that the only borders fixed at Berlin were those of the Congo region, which were later revised."
+    },
+    {
+     "label": "Symbol of partition",
+     "text": "Others, such as Roger Louis and Prosser Gifford, accept that the Berlin Act shaped the course of partition by setting rules for claiming territory, and the conference remains a powerful symbol of colonial rule imposed without African consent."
+    }
+   ],
+   "changed": "For most of the 20th century the conference was presented as the 'partition of Africa'; from the 1980s historians emphasised its narrower legal role and the importance of bilateral treaties.",
+   "sources": [
+    {
+     "title": "Wikipedia: Berlin Conference",
+     "url": "https://en.wikipedia.org/wiki/Berlin_Conference",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Scramble for Africa",
+     "url": "https://en.wikipedia.org/wiki/Scramble_for_Africa",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Kongokonferenz.jpg/500px-Kongokonferenz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Kongokonferenz.jpg",
+     "author": "Adalbert von Roessler",
+     "license": "Public domain",
+     "title": "Kongokonferenz.jpg"
+    }
+   ],
+   "categories": [
+    "history"
+   ],
+   "threads": [
+    "changed-understanding",
+    "myths-about-history",
+    "resistance-to-empire"
+   ]
+  },
+  {
+   "id": "world-war-one",
+   "title": "The First World War (1914-1918) and the Christmas truce",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": 1914,
+   "end": 1918,
+   "evidenceTypes": [
+    "textual",
+    "archaeological",
+    "photographic"
+   ],
+   "mainstream": "The First World War was fought between the Allies (chiefly France, the British Empire, Russia, Italy, Japan and from 1917 the United States) and the Central Powers (Germany, Austria-Hungary, the Ottoman Empire and Bulgaria). It followed the assassination of the Austro-Hungarian heir Archduke Franz Ferdinand in Sarajevo on 28 June 1914. On the Western Front the war became a stalemate of trenches, machine guns, artillery and poison gas; it was also fought in eastern Europe, Italy, the Middle East, Africa and at sea. An estimated 15 to 22 million people died, including 9 to 11 million military personnel, and the Armenian genocide was carried out during it. The war ended with the armistice of 11 November 1918; the empires of Russia, Germany, Austria-Hungary and the Ottomans collapsed, and the 1918 influenza pandemic spread with the movement of troops.",
+   "alternatives": [
+    {
+     "label": "The Christmas truce",
+     "text": "Around Christmas 1914, along parts of the Western Front, British and German soldiers stopped fighting unofficially, sang carols, exchanged gifts, buried their dead and in some places played football. The truce is well documented in letters and diaries; the details of football matches are less certain, and commanders prevented large truces in later years."
+    },
+    {
+     "label": "Who was to blame?",
+     "text": "The Treaty of Versailles (1919) blamed Germany and its allies; since the 1960s historians have argued over Fritz Fischer's case for German aims of expansion, versus views such as Christopher Clark's that the great powers \"sleepwalked\" into a war for which responsibility was shared."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: World War I",
+     "url": "https://en.wikipedia.org/wiki/World_War_I",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Christmas truce",
+     "url": "https://en.wikipedia.org/wiki/Christmas_truce",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/The_Christmas_Truce_on_the_Western_Front%2C_1914_Q50721.jpg/500px-The_Christmas_Truce_on_the_Western_Front%2C_1914_Q50721.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:The_Christmas_Truce_on_the_Western_Front,_1914_Q50721.jpg",
+     "author": "Unknown authorUnknown author",
+     "license": "Public domain",
+     "title": "The Christmas Truce on the Western Front, 1914 Q50721.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "catastrophes"
+   ],
+   "threads": [
+    "collective-experiences",
+    "plagues-and-epidemics"
+   ]
+  },
+  {
+   "id": "angels-of-mons",
+   "title": "The Angels of Mons: a short story that became a miracle",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": 1914,
+   "end": null,
+   "dateNote": "Battle 23 August 1914; Machen's story 29 September 1914; legend spread spring 1915",
+   "evidenceTypes": [
+    "textual",
+    "eyewitness"
+   ],
+   "mainstream": "At the Battle of Mons in Belgium on 23 August 1914, the British Expeditionary Force fought its first major action of the First World War and then retreated. On 29 September 1914 the Welsh writer Arthur Machen published a short story, 'The Bowmen', in the London Evening News, describing ghostly archers from the Battle of Agincourt, summoned by a soldier's prayer to St George, shooting down the Germans. The story was not labelled as fiction. Within months parish magazines asked to reprint it, and in spring 1915 accounts spread of angels, saints or shining figures protecting the British at Mons, appearing in spiritualist magazines, sermons and pamphlets. Machen insisted the tale was his invention.",
+   "alternatives": [
+    {
+     "label": "Real visions?",
+     "text": "Writers such as Harold Begbie, in On the Side of the Angels (1915), argued that soldiers' visions were genuine and predated Machen's story. Believers have pointed to accounts of phantom horsemen or protecting figures reported by soldiers during the exhausting retreat."
+    },
+    {
+     "label": "A rumour born of fiction",
+     "text": "Most researchers, including Kevin McClure, conclude that Machen's story was the main source of the legend: the reports were second-hand, appeared months after the battle and echoed his details. Proposed explanations for genuine experiences include fatigue-induced hallucinations; a 2001 claim of film and a diary proving the angels was admitted in 2002 to be a publicity hoax."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Angels of Mons",
+     "url": "https://en.wikipedia.org/wiki/Angels_of_Mons",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Arthur Machen",
+     "url": "https://en.wikipedia.org/wiki/Arthur_Machen",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Nov_29_1915_-_Illustrated_London_News_The_Ghostly_Bowmen_of_Mons_fight_the_Germans_%28cropped%29.jpg/500px-Nov_29_1915_-_Illustrated_London_News_The_Ghostly_Bowmen_of_Mons_fight_the_Germans_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Nov_29_1915_-_Illustrated_London_News_The_Ghostly_Bowmen_of_Mons_fight_the_Germans_(cropped).jpg",
+     "author": "After Amédée Forestier",
+     "license": "Public domain",
+     "title": "Nov_29_1915_-_Illustrated_London_News_The_Ghostly_Bowmen_of_Mons_fight_the_Germans_(cropped).jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion",
+    "hoaxes",
+    "anomalies"
+   ],
+   "threads": [
+    "sky-beings",
+    "collective-experiences",
+    "seeing-what-we-expect",
+    "media-hoaxes",
+    "rumour-and-disinformation"
+   ]
+  },
+  {
+   "id": "world-war-two",
+   "title": "The Second World War (1939-1945)",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": 1939,
+   "end": 1945,
+   "evidenceTypes": [
+    "textual",
+    "archaeological",
+    "photographic"
+   ],
+   "mainstream": "The Second World War was the deadliest conflict in history, causing an estimated 60 to 75 million deaths, most of them civilians. In Europe it began with Germany's invasion of Poland on 1 September 1939, followed by British and French declarations of war; in Asia, Japan had been at full-scale war with China since 1937. Germany conquered much of Europe and invaded the Soviet Union in June 1941; Japan attacked the United States at Pearl Harbor and European colonies in Southeast Asia in December 1941. The Allies, led by the Soviet Union, the United States, Britain and China, defeated Italy in 1943 and Germany in May 1945. After the atomic bombings of Hiroshima and Nagasaki and the Soviet declaration of war, Japan surrendered in August 1945, formally on 2 September. The war was followed by the founding of the United Nations, the Cold War and the end of the European empires.",
+   "alternatives": [
+    {
+     "label": "When did it start?",
+     "text": "European histories usually date the war from 1939; historians of Asia often begin in 1937 with the full Japanese invasion of China, or even 1931 with Manchuria, reflecting the different experiences of the war around the world."
+    },
+    {
+     "label": "Myths of the war",
+     "text": "Historians have challenged several popular myths, such as the \"clean Wehrmacht\" (the post-war claim that the German regular army was not involved in Nazi crimes, refuted by extensive evidence) and simplified national stories that downplay the role of other Allies, colonial soldiers or civilians."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: World War II",
+     "url": "https://en.wikipedia.org/wiki/World_War_II",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Myth of the clean Wehrmacht",
+     "url": "https://en.wikipedia.org/wiki/Myth_of_the_clean_Wehrmacht",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg/500px-Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_101I-646-5188-17,_Flugzeuge_Junkers_Ju_87.jpg",
+     "author": "Richard Opitz",
+     "license": "CC BY-SA 3.0 de",
+     "title": "Bundesarchiv_Bild_101I-646-5188-17,_Flugzeuge_Junkers_Ju_87.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "catastrophes"
+   ],
+   "threads": [
+    "myths-about-history",
+    "nuclear-age"
+   ]
+  },
+  {
+   "id": "holocaust",
+   "title": "The Holocaust",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": 1941,
+   "end": 1945,
+   "dateNote": "Persecution from 1933; systematic murder 1941-1945",
+   "evidenceTypes": [
+    "textual",
+    "archaeological",
+    "photographic",
+    "testimony"
+   ],
+   "mainstream": "The Holocaust was the genocide of European Jews by Nazi Germany and its collaborators during the Second World War. Between 1941 and 1945 about six million Jews, around two-thirds of Europe's Jewish population, were murdered in mass shootings, in ghettos and in extermination camps such as Auschwitz-Birkenau, Treblinka and Sobibor. It followed years of persecution after the Nazis came to power in 1933, including the Nuremberg Laws of 1935 and the Kristallnacht pogrom of 1938. At the Wannsee Conference in January 1942 senior officials coordinated the 'Final Solution'. The Nazis also murdered Roma and Sinti, disabled people, Soviet prisoners of war, Poles and others. Soviet troops reached Auschwitz on 27 January 1945, now International Holocaust Remembrance Day.",
+   "alternatives": [
+    {
+     "label": "How the decision was made",
+     "text": "Historians debate how the genocide developed: \"intentionalists\" emphasise Hitler's long-held aims, while \"functionalists\" stress improvised, escalating decisions by rival officials, especially after the invasion of the Soviet Union in 1941; most now combine elements of both."
+    },
+    {
+     "label": "Denial refuted",
+     "text": "Holocaust denial, which claims that the genocide did not happen or was much smaller, is rejected by historians as contrary to the overwhelming documentary, physical and testimonial evidence, including the Nazis' own records. In 2000 a London High Court judgment in Irving v Penguin Books found that the writer David Irving had distorted historical evidence."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: The Holocaust",
+     "url": "https://en.wikipedia.org/wiki/The_Holocaust",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Irving v Penguin Books Ltd",
+     "url": "https://en.wikipedia.org/wiki/Irving_v_Penguin_Books_Ltd",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "United States Holocaust Memorial Museum: Introduction to the Holocaust",
+     "url": "https://encyclopedia.ushmm.org/content/en/article/introduction-to-the-holocaust",
+     "type": "museum"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Auschwitz_I_entrance_snow.jpg/500px-Auschwitz_I_entrance_snow.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Auschwitz_I_entrance_snow.jpg",
+     "author": "Logaritmo",
+     "license": "Public domain",
+     "title": "Auschwitz I entrance snow.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "catastrophes"
+   ],
+   "threads": [
+    "erased-from-history",
+    "disasters-and-scapegoats"
+   ]
+  },
+  {
+   "id": "sharpeville-massacre-1960",
+   "title": "Sharpeville, 21 March 1960",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1960,
+   "end": null,
+   "evidenceTypes": [
+    "textual",
+    "photographic",
+    "testimony"
+   ],
+   "mainstream": "On 21 March 1960 a crowd of about 5,000 people gathered outside the police station in Sharpeville, a township near Vereeniging in what is now Gauteng, South Africa, answering a call by the Pan Africanist Congress to leave their passbooks at home and offer themselves for arrest in protest against the apartheid pass laws. At about 1.30 pm the police opened fire without warning, firing more than 1,300 rounds; many of the victims were shot in the back as they fled. The official count was 69 killed and 180 injured, but later research found at least 91 dead and at least 238 wounded. The government declared a state of emergency and banned the PAC and the African National Congress, which then turned to armed struggle.",
+   "alternatives": [
+    {
+     "label": "Provocation or massacre?",
+     "text": "The police said they were facing a threatening crowd, and some protesters had thrown stones; there was no evidence that anyone was armed with anything else. In 1998 the Truth and Reconciliation Commission found that excessive force had been used against unarmed people and that the shooting showed a degree of deliberation rather than simply frightened officers losing their nerve."
+    },
+    {
+     "label": "Remembering",
+     "text": "21 March is commemorated in South Africa as Human Rights Day, and the United Nations made it the International Day for the Elimination of Racial Discrimination; in 1996 President Nelson Mandela signed the new Constitution at Sharpeville."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Sharpeville massacre",
+     "url": "https://en.wikipedia.org/wiki/Sharpeville_massacre",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: International Day for the Elimination of Racial Discrimination",
+     "url": "https://en.wikipedia.org/wiki/International_Day_for_the_Elimination_of_Racial_Discrimination",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Sharpeville_massacre.jpg/500px-Sharpeville_massacre.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Sharpeville_massacre.jpg",
+     "author": "Unknown authorUnknown author",
+     "license": "Public domain",
+     "title": "Sharpeville_massacre.jpg"
+    }
+   ],
+   "categories": [
+    "history"
+   ],
+   "threads": [
+    "resistance-to-empire",
+    "southern-africa"
+   ]
+  },
+  {
+   "id": "mau-mau-uprising",
+   "title": "The Mau Mau uprising and Britain's hidden archive",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1952,
+   "end": 1960,
+   "evidenceTypes": [
+    "textual",
+    "testimony",
+    "archival"
+   ],
+   "mainstream": "The Mau Mau uprising (1952–1960), also called the Kenya Emergency, was an armed rebellion against British colonial rule in Kenya by the Kenya Land and Freedom Army, drawn mainly from the Kikuyu, Embu and Meru peoples, whose land had been taken for European settlers. The British declared a state of emergency in October 1952, arrested Jomo Kenyatta and fought the rebels with troops, police and African loyalist militias. Tens of thousands of Kikuyu were held in detention camps and villages. The colonial courts hanged 1,090 people. The conflict caused at least 11,000 deaths among the Mau Mau and other forces; officially 1,819 African civilians were killed by the Mau Mau, while far fewer European settlers died. The rebel leader Dedan Kimathi was captured in 1956 and executed in 1957; Kenya became independent in 1963.",
+   "alternatives": [
+    {
+     "label": "Hidden files",
+     "text": "In 2011, during a case brought by elderly Kenyan survivors, the British government revealed thousands of colonial files, the \"migrated archives\", that had been secretly kept at Hanslope Park. They documented torture and abuse in the camps. In 2013 the UK government expressed regret and agreed a settlement of £19.9 million for 5,228 claimants."
+    },
+    {
+     "label": "How many died?",
+     "text": "Caroline Elkins's Imperial Reckoning (2005) argued that the British detention system killed far more people than official figures admit, possibly up to 300,000; demographers and historians such as John Blacker and John Lonsdale have challenged her figures as much too high, while accepting widespread brutality."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Mau Mau rebellion",
+     "url": "https://en.wikipedia.org/wiki/Mau_Mau_rebellion",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Foreign and Commonwealth Office Migrated Archives",
+     "url": "https://en.wikipedia.org/wiki/Foreign_and_Commonwealth_Office_Migrated_Archives",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Mau_Mau_Monument.jpg/500px-Mau_Mau_Monument.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Mau_Mau_Monument.jpg",
+     "author": "Francis Akuka for the Wikimedia Foundation",
+     "license": "CC0",
+     "title": "Mau Mau Monument.jpg"
+    }
+   ],
+   "categories": [
+    "history"
+   ],
+   "threads": [
+    "changed-understanding",
+    "erased-from-history",
+    "resistance-to-empire",
+    "secrets-kept-for-decades"
+   ]
+  },
+  {
+   "id": "rwandan-genocide-1994",
+   "title": "The genocide against the Tutsi in Rwanda (1994)",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": 1994,
+   "end": 1994,
+   "dateNote": "7 April - July 1994",
+   "evidenceTypes": [
+    "textual",
+    "forensic",
+    "testimony"
+   ],
+   "mainstream": "Between 7 April and mid-July 1994, during Rwanda's civil war, Hutu extremist militias, soldiers and ordinary civilians killed Tutsi, as well as moderate Hutu and Twa, across the country in about 100 days. Most scholarly estimates put the number of Tutsi killed at between 500,000 and 662,000; the Rwandan government gives a figure of over a million victims. The killings were organised by members of the ruling elite and spread by radio, especially Radio Télévision Libre des Mille Collines, which called Tutsi 'cockroaches'. They followed the shooting down of the plane carrying President Juvénal Habyarimana on 6 April 1994. A small UN peacekeeping force was reduced rather than reinforced. The genocide ended when the Rwandan Patriotic Front, led by Paul Kagame, took control of the country.",
+   "alternatives": [
+    {
+     "label": "Who shot down the plane?",
+     "text": "Responsibility for the missile attack on Habyarimana's plane remains disputed: some investigations pointed to Hutu extremists opposed to the Arusha peace accords, others accused the RPF; no one has been convicted for it. Historians agree that the genocide itself was planned in advance and was not a spontaneous reaction."
+    },
+    {
+     "label": "Roots of the divide",
+     "text": "Historians stress that colonial rulers, first German and then Belgian, hardened the distinction between Hutu and Tutsi into fixed racial categories, including on identity cards, building on myths that Tutsi were foreign invaders; the International Criminal Tribunal for Rwanda later convicted organisers of genocide."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Rwandan genocide",
+     "url": "https://en.wikipedia.org/wiki/Rwandan_genocide",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Assassination of Juvénal Habyarimana and Cyprien Ntaryamira",
+     "url": "https://en.wikipedia.org/wiki/Assassination_of_Juv%C3%A9nal_Habyarimana_and_Cyprien_Ntaryamira",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Nyamata_Memorial_Site_13.jpg/500px-Nyamata_Memorial_Site_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Nyamata_Memorial_Site_13.jpg",
+     "author": "Fanny Schertzer",
+     "license": "CC BY-SA 3.0",
+     "title": "Nyamata_Memorial_Site_13.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "catastrophes"
+   ],
+   "threads": [
+    "disasters-and-scapegoats",
+    "rumour-and-disinformation"
+   ]
+  },
+  {
+   "id": "september-11-attacks",
+   "title": "The September 11 attacks (2001) and the conspiracy theories that followed",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": 2001,
+   "end": null,
+   "statusNote": "events confirmed; demolition and inside-job theories debunked",
+   "evidenceTypes": [
+    "textual",
+    "forensic",
+    "video"
+   ],
+   "mainstream": "On 11 September 2001, 19 hijackers from the Islamist terrorist group al-Qaeda seized four airliners in the United States. Two were flown into the Twin Towers of the World Trade Center in New York, which collapsed within less than two hours; one hit the Pentagon near Washington; and the fourth, United Airlines Flight 93, crashed in a field in Pennsylvania after passengers fought back. The attacks killed 2,977 people besides the hijackers. The 9/11 Commission Report (2004) described the plot, directed by Khalid Sheikh Mohammed for Osama bin Laden, and the failures of US intelligence and security agencies. The United States responded with the invasion of Afghanistan and a wider 'war on terror'.",
+   "alternatives": [
+    {
+     "label": "Inside job?",
+     "text": "Conspiracy theories claim that the US government knew of or carried out the attacks, or that the towers and the nearby 47-storey building 7 were brought down by planted explosives. Investigations by the US National Institute of Standards and Technology found that fire weakened the steel structures, and engineers and historians reject the demolition claims; the theories nevertheless remain widespread."
+    },
+    {
+     "label": "Unanswered questions",
+     "text": "Mainstream inquiries have themselves debated questions such as possible foreign government support for some hijackers, the subject of redacted congressional pages released in 2016, and why intelligence warnings were not acted on."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: September 11 attacks",
+     "url": "https://en.wikipedia.org/wiki/September_11_attacks",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: 9/11 conspiracy theories",
+     "url": "https://en.wikipedia.org/wiki/9%2F11_conspiracy_theories",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/WTC_smoking_on_9-11.jpeg/500px-WTC_smoking_on_9-11.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:WTC_smoking_on_9-11.jpeg",
+     "author": "Flickr user Michael Foran",
+     "license": "CC BY 2.0",
+     "title": "WTC_smoking_on_9-11.jpeg"
+    }
+   ],
+   "categories": [
+    "history",
+    "catastrophes",
+    "hoaxes"
+   ],
+   "threads": [
+    "modern-legends",
+    "fringe-theories",
+    "rumour-and-disinformation"
+   ]
+  },
+  {
+   "id": "richard-iii-car-park",
+   "title": "Richard III: the king under the car park (2012)",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 2012,
+   "end": null,
+   "dateNote": "Killed 1485; found 25 August 2012; identified February 2013; reburied 2015",
+   "evidenceTypes": [
+    "archaeological",
+    "genetic",
+    "radiocarbon"
+   ],
+   "mainstream": "Richard III, the last English king to die in battle, was killed at Bosworth on 22 August 1485 and buried without ceremony in the church of the Greyfriars friary in Leicester. After the friary was dissolved in 1538 the grave was lost, and a story grew that his bones had been thrown into the River Soar. In August 2012, a search begun by the writer Philippa Langley with the Richard III Society led to an excavation by University of Leicester Archaeological Services under a council car park. On the first day a skeleton of a man in his thirties was found with battle wounds to the skull and a severely curved spine. Radiocarbon dating, skeletal analysis and mitochondrial DNA matching two living descendants of his sister's line identified him as Richard, and he was reburied in Leicester Cathedral on 26 March 2015.",
+   "alternatives": [
+    {
+     "label": "Shakespeare's hunchback",
+     "text": "The skeleton showed scoliosis, which would have made one shoulder higher than the other, giving some basis to Tudor descriptions of a deformed king; but it was not the withered arm and hunched back of Shakespeare's villain, and supporters of Richard argue his reputation was shaped by Tudor propaganda."
+    },
+    {
+     "label": "A surprise in the DNA",
+     "text": "The 2014 genetic study confirmed the maternal-line match but found a break in the male line between Richard and some modern descendants of the Beaufort dukes, implying a hidden case of non-paternity at some point in the family trees."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Identification of the remains of King Richard III",
+     "authors": "King, T. et al.",
+     "year": 2014,
+     "doi": "10.1038/ncomms6631",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: Exhumation and reburial of Richard III of England",
+     "url": "https://en.wikipedia.org/wiki/Exhumation_and_reburial_of_Richard_III_of_England",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Richard_III_earliest_surviving_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Richard_III_earliest_surviving_portrait.jpg",
+     "author": "Barthel ii",
+     "license": "Public domain",
+     "title": "Richard III earliest surviving portrait.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history",
+    "science-cosmos"
+   ],
+   "threads": [
+    "changed-understanding",
+    "stories-proven-true",
+    "hidden-tombs",
+    "genetic-migrations",
+    "royal-propaganda",
+    "myths-about-history"
+   ]
   }
  ]
 }
