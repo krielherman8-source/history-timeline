@@ -79984,6 +79984,663 @@
     "mass-extinctions",
     "deep-time-earth"
    ]
+  },
+  {
+   "id": "late-ordovician-extinction",
+   "title": "The Late Ordovician mass extinction: the first of the \"big five\"",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -445000000,
+   "end": null,
+   "dateNote": "About 445-443 million years ago, in two or more pulses",
+   "evidenceTypes": [
+    "geological",
+    "fossil",
+    "geochemical"
+   ],
+   "mainstream": "About 445 million years ago, when almost all animal life lived in the sea, the Late Ordovician mass extinction wiped out an estimated 49-60% of marine genera and close to 85% of marine species, making it the first of the 'big five' mass extinctions and usually ranked second only to the end-Permian 'Great Dying'. Trilobites, brachiopods, bryozoans, graptolites, conodonts and corals were all hit. It came in two main pulses: the first is generally tied to a sudden glaciation over the southern supercontinent Gondwana, which cooled the climate and drained shallow seas as sea level fell; the second, as the ice melted, is linked to widespread anoxia (loss of oxygen) and toxic sulphide-rich water. Diversity recovered over roughly the first 5 million years of the Silurian.",
+   "alternatives": [
+    {
+     "label": "Gamma-ray burst",
+     "text": "In 2004 Adrian Melott and colleagues proposed that a gamma-ray burst from a nearby exploding star could have stripped away much of the ozone layer and triggered the cooling; this is a published but untested hypothesis, as such an event would leave little direct geological trace."
+    },
+    {
+     "label": "Volcanism and weathering",
+     "text": "Other researchers emphasise volcanic activity and the weathering of new mountain ranges, which can draw carbon dioxide out of the atmosphere and help explain why a greenhouse world flipped so quickly into an ice age; the relative weight of each cause is still debated."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Did a gamma-ray burst initiate the late Ordovician mass extinction?",
+     "authors": "Melott, A. et al.",
+     "year": 2004,
+     "doi": "10.1017/S1473550404001910",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: Late Ordovician mass extinction",
+     "url": "https://en.wikipedia.org/wiki/Late_Ordovician_mass_extinction",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Extinction_intensity.svg/500px-Extinction_intensity.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Extinction_intensity.svg",
+     "author": "Unknown",
+     "license": "CC BY-SA 3.0",
+     "title": "Extinction_intensity.svg"
+    }
+   ],
+   "categories": [
+    "science-cosmos",
+    "catastrophes"
+   ],
+   "threads": [
+    "mass-extinctions",
+    "deep-time-earth",
+    "abrupt-climate-shocks"
+   ]
+  },
+  {
+   "id": "burgess-shale",
+   "title": "The Burgess Shale: weird wonders of the Cambrian seas",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -508000000,
+   "end": null,
+   "dateNote": "Rocks about 508-505 million years old; discovered 1909",
+   "evidenceTypes": [
+    "fossil",
+    "geological"
+   ],
+   "mainstream": "The Burgess Shale is a black shale in the Canadian Rockies of British Columbia, about 508-505 million years old, famous for preserving soft-bodied animals of the Cambrian explosion as thin carbon films. Charles Walcott of the Smithsonian Institution discovered it on 30 August 1909 and collected tens of thousands of specimens, trying to fit them into living animal groups. From the 1960s Harry Whittington, Derek Briggs and Simon Conway Morris re-examined the fossils and found many that did not fit modern groups comfortably, such as five-eyed Opabinia and Hallucigenia, which was first reconstructed upside down and back to front. The site is part of the Canadian Rocky Mountain Parks UNESCO World Heritage Site.",
+   "alternatives": [
+    {
+     "label": "Gould versus Conway Morris",
+     "text": "In his 1989 book Wonderful Life, Stephen Jay Gould argued that the Burgess animals showed far greater disparity of body plans than survives today and that which lineages survived was largely down to chance; Conway Morris, whose work Gould relied on, strongly disagreed, arguing that most Cambrian animals belong in or near modern phyla and that evolution tends to converge on similar solutions."
+    },
+    {
+     "label": "Creationist readings",
+     "text": "Some creationist writers cite the sudden appearance of complex Cambrian animals as evidence against gradual evolution; palaeontologists point to older Ediacaran and early Cambrian fossils and to molecular evidence that animal lineages began diverging earlier."
+    }
+   ],
+   "changed": "Walcott (1909-1927) placed the animals in known groups; Whittington, Briggs and Conway Morris (from the late 1960s) showed many were stranger than thought; Gould popularised them in 1989; later finds, including Chinese and Canadian sites, moved many 'weird wonders' back towards the stem groups of living phyla.",
+   "sources": [
+    {
+     "title": "Wikipedia: Burgess Shale",
+     "url": "https://en.wikipedia.org/wiki/Burgess_Shale",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Hallucigenia",
+     "url": "https://en.wikipedia.org/wiki/Hallucigenia",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Ottoia_tricuspida_ROM_63057.jpg/500px-Ottoia_tricuspida_ROM_63057.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Ottoia_tricuspida_ROM_63057.jpg",
+     "author": "Martin R. Smith",
+     "license": "CC0",
+     "title": "Ottoia_tricuspida_ROM_63057.jpg"
+    }
+   ],
+   "categories": [
+    "science-cosmos"
+   ],
+   "threads": [
+    "changed-understanding",
+    "deep-time-earth",
+    "how-life-began"
+   ]
+  },
+  {
+   "id": "archaeopteryx",
+   "title": "Archaeopteryx: the \"first bird\" and the claim it was forged",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -150000000,
+   "end": null,
+   "dateNote": "Lived about 150 million years ago; feather found 1861",
+   "statusNote": "fossils genuine; forgery claim debunked",
+   "evidenceTypes": [
+    "fossil"
+   ],
+   "mainstream": "Archaeopteryx is a magpie-to-raven-sized feathered dinosaur from the Late Jurassic, about 150 million years ago, found in the limestones of southern Germany. It was named from a single feather in 1861, only two years after Charles Darwin's On the Origin of Species, and the first skeleton (the London specimen) was bought by the British Museum the following year. With teeth, clawed fingers and a long bony tail combined with flight feathers and wings, it became a classic transitional fossil between non-avian dinosaurs and birds. Around fourteen body fossils are now known. It was long called the oldest bird, although several possibly older bird-like dinosaurs have since been described, mainly from China.",
+   "alternatives": [
+    {
+     "label": "Forgery claim (debunked)",
+     "text": "From 1985 a group including astronomer Fred Hoyle and physicist Lee Spetner claimed the feather impressions on the London and Berlin specimens had been faked with a thin layer of cement. Natural History Museum scientists led by Alan Charig examined the specimens and published \"Archaeopteryx is not a forgery\" in Science (1986), showing among other things that hairline cracks pass through the feather impressions and match on both halves of the split slab; the claim is rejected by palaeontologists."
+    },
+    {
+     "label": "Bird or dinosaur?",
+     "text": "Whether Archaeopteryx sits at the base of the bird lineage or is better grouped with the deinonychosaurs (the raptor-like dinosaurs) has flipped in different analyses; this is a genuine scientific debate about classification, not about whether the fossils are real."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Archaeopteryx Is Not a Forgery",
+     "authors": "Charig, A. et al.",
+     "year": 1986,
+     "doi": "10.1126/science.232.4750.622",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: Archaeopteryx",
+     "url": "https://en.wikipedia.org/wiki/Archaeopteryx",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Archaeopteryx_lithographica_%28Berlin_specimen%29.jpg/500px-Archaeopteryx_lithographica_%28Berlin_specimen%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Archaeopteryx_lithographica_(Berlin_specimen).jpg",
+     "author": "H. Raab (User: Vesta)",
+     "license": "CC BY-SA 3.0",
+     "title": "Archaeopteryx_lithographica_(Berlin_specimen).jpg"
+    }
+   ],
+   "categories": [
+    "science-cosmos",
+    "hoaxes"
+   ],
+   "threads": [
+    "changed-understanding",
+    "dragons-and-fossils",
+    "hoaxes-exposed",
+    "deep-time-earth",
+    "voices-of-doubt"
+   ]
+  },
+  {
+   "id": "ardipithecus-ardi",
+   "title": "Ardi (Ardipithecus ramidus): a 4.4-million-year-old ancestor unlike a chimpanzee",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -4400000,
+   "end": null,
+   "evidenceTypes": [
+    "fossil",
+    "geological"
+   ],
+   "mainstream": "Ardipithecus ramidus is an early hominin from Aramis in the Afar region of Ethiopia, dated to about 4.4 million years ago. The first remains were found in 1992-1993 by the Middle Awash research project and described in 1994 by Tim White, Gen Suwa and Berhane Asfaw. A partial female skeleton nicknamed 'Ardi' was published in a special issue of Science in 2009. Ardi combined a grasping, divergent big toe for climbing with features of the pelvis and foot suggesting she could also walk upright, and the species had small canine teeth in both sexes. Her discoverers argued that the last common ancestor of humans and chimpanzees did not closely resemble any living ape.",
+   "alternatives": [
+    {
+     "label": "How upright, how close to us?",
+     "text": "Some anthropologists question how bipedal Ardipithecus really was and whether it lies on the direct line to humans or on a side branch; the team that found it maintains that it is closely related to later Australopithecus."
+    },
+    {
+     "label": "Social behaviour",
+     "text": "The small canines have been read by Owen Lovejoy and others as a sign of less male-male fighting and possibly pair-bonding and more paternal care; this is an interpretation that other researchers regard as speculative."
+    }
+   ],
+   "changed": "Before 2009 many accounts assumed the earliest hominins looked much like chimpanzees; the Ardi publications argued that chimpanzees have themselves changed a great deal since the split.",
+   "sources": [
+    {
+     "title": "Ardipithecus ramidus and the Paleobiology of Early Hominids",
+     "authors": "White, T. et al.",
+     "year": 2009,
+     "doi": "10.1126/science.1175802",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: Ardipithecus ramidus",
+     "url": "https://en.wikipedia.org/wiki/Ardipithecus_ramidus",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Ardipithecus_ramidus_skull_%282016.003.0002%29%2C_Royal_Tyrrell_Museum%2C_Drumheller%2C_Alberta%2C_2025-07-13.jpg/500px-Ardipithecus_ramidus_skull_%282016.003.0002%29%2C_Royal_Tyrrell_Museum%2C_Drumheller%2C_Alberta%2C_2025-07-13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Ardipithecus_ramidus_skull_(2016.003.0002),_Royal_Tyrrell_Museum,_Drumheller,_Alberta,_2025-07-13.jpg",
+     "author": "Chris Woodrich",
+     "license": "CC BY-SA 4.0",
+     "title": "Ardipithecus_ramidus_skull_(2016.003.0002),_Royal_Tyrrell_Museum,_Drumheller,_Alberta,_2025-07-13.jpg"
+    }
+   ],
+   "categories": [
+    "science-cosmos",
+    "archaeology"
+   ],
+   "threads": [
+    "changed-understanding",
+    "human-origins"
+   ]
+  },
+  {
+   "id": "gigantopithecus",
+   "title": "Gigantopithecus: the giant ape found among \"dragon bones\"",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -2000000,
+   "end": -215000,
+   "dateNote": "About 2 million to 295,000-215,000 years ago; identified 1935",
+   "evidenceTypes": [
+    "fossil",
+    "geological",
+    "luminescence/U-series dating"
+   ],
+   "mainstream": "Gigantopithecus blacki was a huge extinct ape of southern China, known only from teeth and four lower jaws. In 1935 the anthropologist Ralph von Koenigswald identified its first molars in a Hong Kong drugstore, where fossil teeth were being sold as 'dragon bones' for traditional Chinese medicine. It is now thought to be related to orangutans rather than to humans. Size estimates of 200-300 kg are uncertain because so little of the skeleton is known. A 2024 study in Nature led by Yingqi Zhang and Kira Westaway dated its disappearance to between about 295,000 and 215,000 years ago and linked it to increasingly seasonal climate and the loss of the forest food it relied on.",
+   "alternatives": [
+    {
+     "label": "Yeti and Bigfoot",
+     "text": "Some cryptozoologists, notably the anthropologist Grover Krantz, proposed that surviving Gigantopithecus could explain reports of the Yeti or Bigfoot; no Gigantopithecus fossils are known outside mainland Asia or from recent times, and mainstream scientists regard the idea as unsupported."
+    },
+    {
+     "label": "Humans as a factor",
+     "text": "Earlier writers suggested that competition with or hunting by archaic humans helped finish it off; the 2024 study found no evidence that hominins were involved in the extinctions in southern China at that time, though absence of evidence there is not conclusive."
+    }
+   ],
+   "sources": [
+    {
+     "title": "The demise of the giant ape Gigantopithecus blacki",
+     "authors": "Zhang, Y. et al.",
+     "year": 2024,
+     "doi": "10.1038/s41586-023-06900-0",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: Gigantopithecus",
+     "url": "https://en.wikipedia.org/wiki/Gigantopithecus",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Gigantopithecus_UIMNH_%28cropped%29.jpg/500px-Gigantopithecus_UIMNH_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Gigantopithecus_UIMNH_(cropped).jpg",
+     "author": "Jonathan Chen",
+     "license": "CC BY-SA 4.0",
+     "title": "Gigantopithecus_UIMNH_(cropped).jpg"
+    }
+   ],
+   "categories": [
+    "science-cosmos",
+    "anomalies",
+    "myth-legend"
+   ],
+   "threads": [
+    "dragons-and-fossils",
+    "cryptids",
+    "vanished-species"
+   ]
+  },
+  {
+   "id": "acheulean-handaxes",
+   "title": "Acheulean hand axes: a 1.7-million-year tool tradition and the discovery of human antiquity",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -1760000,
+   "end": -130000,
+   "dateNote": "About 1.76 million to roughly 130,000 years ago",
+   "evidenceTypes": [
+    "archaeological",
+    "geological"
+   ],
+   "mainstream": "The Acheulean is a stone-tool tradition defined by the hand axe, a teardrop-shaped tool shaped symmetrically on both faces. It is associated with Homo erectus and later species such as Homo heidelbergensis and spread across Africa, western and southern Asia and Europe. The oldest well-dated examples, from Kokiselei in West Turkana, Kenya, are about 1.76 million years old, and finds reported from Ethiopia in 2023 may be older still. The tradition lasted well over a million years. It is named after Saint-Acheul near Amiens in France, where hand axes were found in 1859.",
+   "alternatives": [
+    {
+     "label": "Language and aesthetics",
+     "text": "Some researchers argue that the care and symmetry of hand axes, sometimes beyond what was strictly useful, show planning, teaching and perhaps an aesthetic sense, and may be linked to the evolution of language; others see the symmetry as a by-product of efficient knapping."
+    },
+    {
+     "label": "The Movius Line",
+     "text": "In 1948 Hallam Movius drew a line across northern India, arguing that hand axes were missing east of it; later finds in Korea, China and Mongolia have cast doubt on how sharp that divide really was."
+    }
+   ],
+   "changed": "In 1797 John Frere sent hand axes from Hoxne in Suffolk to London and suggested they were very old; Jacques Boucher de Perthes collected more in the Somme gravels in 1836-1846 but was widely disbelieved; in 1859 British geologists and antiquaries visited the Somme and accepted that humans had lived alongside extinct animals, the same year as Darwin's Origin.",
+   "sources": [
+    {
+     "title": "An earlier origin for the Acheulian",
+     "authors": "Lepre, C. et al.",
+     "year": 2011,
+     "doi": "10.1038/nature10372",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: Acheulean",
+     "url": "https://en.wikipedia.org/wiki/Acheulean",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Distribution_of_the_Acheulean_cultural_tradition_as_it_is_currently_understood.webp/500px-Distribution_of_the_Acheulean_cultural_tradition_as_it_is_currently_understood.webp?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Distribution_of_the_Acheulean_cultural_tradition_as_it_is_currently_understood.webp",
+     "author": "Authors of the study: Alastair J. M. Key, Ivan Jarić & David L. Roberts",
+     "license": "CC BY 4.0",
+     "title": "Distribution_of_the_Acheulean_cultural_tradition_as_it_is_currently_understood.webp"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "science-cosmos"
+   ],
+   "threads": [
+    "changed-understanding",
+    "human-origins",
+    "rejected-pioneers",
+    "dating-the-past"
+   ]
+  },
+  {
+   "id": "sahul-megafauna",
+   "title": "Diprotodon and the vanished giants of Australia: hunting, fire or climate?",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": -46000,
+   "end": null,
+   "dateNote": "Most mainland megafauna gone by about 46,000-40,000 years ago (debated)",
+   "statusNote": "extinctions confirmed; causes disputed",
+   "evidenceTypes": [
+    "fossil",
+    "luminescence dating",
+    "isotopic",
+    "oral tradition"
+   ],
+   "mainstream": "During the Pleistocene, Australia and New Guinea (together called Sahul) were home to giant animals including Diprotodon, the largest marsupial ever known, which was up to 4 m long and weighed perhaps as much as 3,500 kg. There was also a marsupial lion (Thylacoleo), giant kangaroos, the large flightless bird Genyornis and big reptiles. Diprotodon bones were first found in Wellington Caves, New South Wales, in 1830, and Richard Owen named the animal in 1838. A 2001 study by Richard Roberts and colleagues dated many megafaunal sites and concluded that the mainland megafauna disappeared around 46,000 years ago, after people had arrived. Some species may have lasted longer in places, and the timing is still argued over.",
+   "alternatives": [
+    {
+     "label": "People did it",
+     "text": "Many researchers, including Tim Flannery, argue that hunting and changes to the landscape caused by people using fire drove the extinctions; scorch marks on Genyornis eggshells have been read as direct evidence of humans cooking them, and megafauna in Tasmania seem to have vanished soon after a land bridge opened about 43,000 years ago."
+    },
+    {
+     "label": "Climate did it, or both",
+     "text": "Others argue that increasing aridity, or a combination of climate change and human pressure, was responsible, and question proxies such as dung-fungus spores used to time the declines."
+    },
+    {
+     "label": "Memories in Dreamtime stories",
+     "text": "From 1845 colonists recorded Aboriginal people identifying Diprotodon bones as bunyip remains, and some writers suggest that Dreamtime stories of giant creatures, such as the Kadimakara of Lake Eyre, preserve memories of megafauna; this is plausible but unconfirmed."
+    }
+   ],
+   "sources": [
+    {
+     "title": "New Ages for the Last Australian Megafauna: Continent-Wide Extinction About 46,000 Years Ago",
+     "authors": "Roberts, R. et al.",
+     "year": 2001,
+     "doi": "10.1126/science.1060264",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: Australian megafauna",
+     "url": "https://en.wikipedia.org/wiki/Australian_megafauna",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Diprotodon",
+     "url": "https://en.wikipedia.org/wiki/Diprotodon",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Diprotodon_australis_skeleton_1.JPG/500px-Diprotodon_australis_skeleton_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Diprotodon_australis_skeleton_1.JPG",
+     "author": "Ghedoghedo",
+     "license": "CC BY-SA 3.0",
+     "title": "Diprotodon_australis_skeleton_1.JPG"
+    }
+   ],
+   "categories": [
+    "science-cosmos",
+    "catastrophes",
+    "myth-legend"
+   ],
+   "threads": [
+    "dragons-and-fossils",
+    "deep-oral-memory",
+    "mass-extinctions",
+    "vanished-species"
+   ]
+  },
+  {
+   "id": "florisbad-skull",
+   "title": "The Florisbad skull: a 259,000-year-old face from the Free State",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 3,
+   "start": -259000,
+   "end": null,
+   "dateNote": "About 259,000 ± 35,000 years old; found 1932",
+   "evidenceTypes": [
+    "fossil",
+    "ESR dating"
+   ],
+   "mainstream": "The Florisbad skull is a partial human cranium found in 1932 by the zoologist Thomas Frederik Dreyer in the deposits of a mineral spring at Florisbad, near Bloemfontein in the Free State, South Africa, together with animal fossils and stone tools. It was described in 1935. In 1996 Rainer Grün and colleagues dated a tooth from the skull directly using electron spin resonance to about 259,000 years ago, give or take about 35,000 years, making it one of the key fossils of the early Middle Stone Age. It is held at the National Museum in Bloemfontein.",
+   "alternatives": [
+    {
+     "label": "Archaic or modern?",
+     "text": "The skull is variously classified as late Homo heidelbergensis (or Homo helmei), or as an early member of Homo sapiens; it is central to the idea that our species emerged gradually across Africa, with fossils such as Jebel Irhoud in Morocco and Florisbad in the south, rather than in a single place."
+    },
+    {
+     "label": "A pan-African origin",
+     "text": "Some researchers see Florisbad, Jebel Irhoud and other fossils as evidence for a structured, continent-wide origin of modern humans; others favour a more localised origin with later spread. Both views are actively debated."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Direct dating of Florisbad hominid",
+     "authors": "Grün, R. et al.",
+     "year": 1996,
+     "doi": "10.1038/382500a0",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: Florisbad Skull",
+     "url": "https://en.wikipedia.org/wiki/Florisbad_Skull",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Florisbad_NMNH.jpg/500px-Florisbad_NMNH.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Florisbad_NMNH.jpg",
+     "author": "Jonathan Chen",
+     "license": "CC BY-SA 4.0",
+     "title": "Florisbad_NMNH.jpg"
+    }
+   ],
+   "categories": [
+    "science-cosmos",
+    "archaeology"
+   ],
+   "threads": [
+    "human-origins",
+    "southern-africa",
+    "dating-the-past",
+    "cradle-of-humankind"
+   ]
+  },
+  {
+   "id": "niah-deep-skull",
+   "title": "Niah Caves and the \"Deep Skull\" of Borneo",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 3,
+   "start": -40000,
+   "end": null,
+   "dateNote": "Deep Skull about 40,000 years old; found 1958",
+   "evidenceTypes": [
+    "archaeological",
+    "fossil",
+    "radiocarbon"
+   ],
+   "mainstream": "The Niah Caves in Sarawak, Malaysian Borneo, are one of the most important early human sites in Southeast Asia. Tom Harrisson, curator of the Sarawak Museum, began investigating them in 1954, and in February 1958 a team led by Barbara Harrisson found the 'Deep Skull', the skull of an adolescent modern human, in a trench nicknamed the 'Hell Trench'. Radiocarbon dates suggested an age of about 40,000 years. Doubts about the Harrissons' records and stratigraphy led to a new Niah Caves Project led by Graeme Barker in the 2000s, which reported in 2007 that modern humans had indeed lived and foraged in the lowland rainforest there at an early date. Neolithic burials 2,500-5,000 years old and later cave paintings and boat-shaped coffins are also known from Niah.",
+   "alternatives": [
+    {
+     "label": "Who were they?",
+     "text": "In 1960 Don Brothwell compared the Deep Skull to Indigenous Tasmanians, and the skull has often been cited in debates about the ancestors of Aboriginal Australians and Papuans; modern researchers caution that a single skull says little about population history, and genetic evidence is now usually used instead."
+    },
+    {
+     "label": "Rainforest as a barrier?",
+     "text": "The Niah evidence for early rainforest foraging, including the use of fire and plant processing, challenged an older idea that tropical rainforests were too hard for early humans to live in."
+    }
+   ],
+   "changed": "1958: found and dated to about 40,000 years; later decades: questions over its context; 2000-2004 re-excavation and the 2007 publication reaffirmed an early modern human presence.",
+   "sources": [
+    {
+     "title": "The ‘human revolution’ in lowland tropical Southeast Asia: the antiquity and behavior of anatomically modern humans at Niah Cave (Sarawak, Borneo)",
+     "authors": "Barker, G. et al.",
+     "year": 2007,
+     "doi": "10.1016/j.jhevol.2006.08.011",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: Niah National Park",
+     "url": "https://en.wikipedia.org/wiki/Niah_National_Park",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/The_main_entrance_to_the_Niah_Caves_at_sunset..jpg/500px-The_main_entrance_to_the_Niah_Caves_at_sunset..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:The_main_entrance_to_the_Niah_Caves_at_sunset..jpg",
+     "author": "Starlightchild",
+     "license": "CC BY-SA 3.0",
+     "title": "The_main_entrance_to_the_Niah_Caves_at_sunset..jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "science-cosmos"
+   ],
+   "threads": [
+    "changed-understanding",
+    "human-origins",
+    "island-southeast-asia"
+   ]
+  },
+  {
+   "id": "bluefish-caves",
+   "title": "Bluefish Caves: people in the Yukon 24,000 years ago?",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": -22000,
+   "end": null,
+   "dateNote": "Cut-marked bones dated to about 24,000 years ago (contested); excavated 1977-1987",
+   "statusNote": "dates and human origin of marks disputed",
+   "evidenceTypes": [
+    "archaeological",
+    "radiocarbon"
+   ],
+   "mainstream": "Bluefish Caves are three small caves in the northern Yukon, Canada, about 54 km southwest of the Vuntut Gwitchin community of Old Crow. Archaeologist Jacques Cinq-Mars excavated them between 1977 and 1987 and argued that cut-marked animal bones showed people were there long before the Clovis culture; his claim met strong scepticism for decades. In 2017 Lauriane Bourgeon, Ariane Burke and Thomas Higham re-examined the bones and reported cut marks on a horse jaw and other remains dated to about 24,000 calibrated years ago. They argued this supported the 'Beringian standstill' idea that the ancestors of Native Americans lived isolated in Beringia during the Last Glacial Maximum.",
+   "alternatives": [
+    {
+     "label": "Questioned dates",
+     "text": "A later critique argued that the stratigraphic context was disturbed and that some marks could be natural; Bourgeon defended the results, and the site remains contested."
+    },
+    {
+     "label": "Part of a wider shift",
+     "text": "Bluefish Caves is one of several sites, together with White Sands in New Mexico and Monte Verde in Chile, cited by researchers who argue that the Americas were peopled earlier than the \"Clovis first\" model allowed; other researchers still accept only somewhat later dates."
+    }
+   ],
+   "changed": "1977-1987: Cinq-Mars claims a very early date and is largely disbelieved; 2017: re-analysis revives the claim; debate continues.",
+   "sources": [
+    {
+     "title": "Earliest Human Presence in North America Dated to the Last Glacial Maximum: New Radiocarbon Dates from Bluefish Caves, Canada",
+     "authors": "Bourgeon, L. et al.",
+     "year": 2017,
+     "doi": "10.1371/journal.pone.0169486",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: Bluefish Caves",
+     "url": "https://en.wikipedia.org/wiki/Bluefish_Caves",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Jacques_Cinq-Mars.jpg/500px-Jacques_Cinq-Mars.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Jacques_Cinq-Mars.jpg",
+     "author": "Ruth M. Gotthardt",
+     "license": "CC BY 4.0",
+     "title": "Jacques_Cinq-Mars.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology"
+   ],
+   "threads": [
+    "changed-understanding",
+    "genetic-migrations",
+    "rejected-pioneers",
+    "first-americans"
+   ]
+  },
+  {
+   "id": "lonar-crater",
+   "title": "Lonar Lake: an impact crater, a slain demon and temples on the rim",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 3,
+   "start": -50000,
+   "end": null,
+   "dateNote": "Impact about 52,000 or 570,000 years ago (disputed); recorded 1823",
+   "evidenceTypes": [
+    "geological",
+    "dating",
+    "textual"
+   ],
+   "mainstream": "Lonar Lake in Buldhana district, Maharashtra, India, is a salty soda lake filling a crater about 1.8 km across and 150 m deep, blasted into the Deccan basalt by a meteorite impact. It is India's only crater lake of meteoritic origin, a National Geological Monument and a Ramsar wetland site. A British officer, C. J. E. Alexander, recorded the crater in 1823. Its age is uncertain: earlier analyses gave about 52,000 years, while argon-argon dating gave about 570,000 years, although that older figure has been disputed. Ancient temples stand around the lake.",
+   "alternatives": [
+    {
+     "label": "Lonasura the demon",
+     "text": "Local tradition says Vishnu slew the asura (demon) Lonasura here, giving Lonar its name, and the Daitya Sudan temple is linked to this story; descriptions in the Skanda Purana and the 16th-century Ain-i-Akbari have been associated with the lake, though the identification is not certain."
+    },
+    {
+     "label": "Volcano or meteorite?",
+     "text": "Before shocked minerals and impact glass were identified, some geologists thought the crater might be volcanic; the impact origin is now accepted."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Lonar Lake",
+     "url": "https://en.wikipedia.org/wiki/Lonar_Lake",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Lonar_Crater%2C_Panorama.jpg/500px-Lonar_Crater%2C_Panorama.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Lonar_Crater,_Panorama.jpg",
+     "author": "Aditya Laghate",
+     "license": "CC BY-SA 3.0",
+     "title": "Lonar_Crater,_Panorama.jpg"
+    }
+   ],
+   "categories": [
+    "science-cosmos",
+    "catastrophes",
+    "myth-legend"
+   ],
+   "threads": [
+    "cosmic-impacts",
+    "south-asian-epics",
+    "dating-the-past",
+    "sky-stones"
+   ]
   }
  ]
 }
