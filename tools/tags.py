@@ -43,7 +43,6 @@ addt('ufo-encounters','kenneth-arnold roswell project-blue-book betty-barney-hil
 addt('hoaxes-exposed','piltdown crop-circles cottingley-fairies loch-ness dropa-stones gunung-padang')
 addt('flood-myths','sumerian-king-list')
 addt('changed-understanding','wegener nebra-sky-disc roswell')
-
 # --- batch 3
 C.update({
 'great-zimbabwe':'history archaeology lost-civilisations',
@@ -97,7 +96,6 @@ addt('changed-understanding','great-zimbabwe monte-verde clovis-first wilusa')
 addt('giant-monuments','great-zimbabwe nan-madol rapa-nui-moai baalbek puma-punku olmec-heads teotihuacan angkor cahokia meroe')
 addt('cryptids','mokele-mbembe loch-ness bigfoot-film')
 addt('stories-proven-true','wilusa troy great-zimbabwe')
-
 # --- batch 4
 C.update({
 'lalibela':'history archaeology religion',
@@ -162,7 +160,6 @@ addt('volcanoes-and-memory','budj-bim pele mazama-klamath thera toba volcanic-wi
 addt('giants-and-little-people','nephilim cardiff-giant homo-floresiensis')
 addt('ocean-voyagers','zheng-he polynesia-america-contact kupe lapita maui vinland')
 addt('mass-extinctions','great-dying kpg')
-
 # --- batch 5
 C.update({
 'vredefort':'science-cosmos catastrophes',
@@ -236,7 +233,6 @@ addt('flood-myths','sunken-dwarka')
 addt('world-ages-and-resets','maya-2012')
 addt('ufo-encounters','utsuro-bune varginha-1996 kaikoura-1978')
 addt('cryptids','okapi giant-squid')
-
 # --- batch 6
 C.update({
 'lebombo-bone':'archaeology science-cosmos anomalies',
@@ -347,7 +343,6 @@ addt('lost-civilisations','aztlan')
 addt('sky-omens','aztlan haudenosaunee-eclipse')
 addt('disappearances','roanoke valentich-1978 mali-atlantic-voyage')
 addt('ufo-encounters','shag-harbour')
-
 # --- batch 7 (2026-10-19)
 C.update({
 'snowball-earth':'science-cosmos catastrophes',
@@ -1041,7 +1036,6 @@ addt('outsider-builder-claims','zorats-karer')
 addt('divine-punishment','amirani amber-road')
 addt('sleeping-heroes','arthur seven-sleepers kitezh')
 addt('suppressed-beliefs','ghost-dance')
-
 # --- batch 12 part 3 (Siberia, Mongolia, Tibet; West and Central Africa; the Andes)
 C.update({
 'shigir-idol':'archaeology history anomalies',
@@ -1082,7 +1076,6 @@ addt('sunken-cities','titicaca-offerings')
 addt('flood-myths','titicaca-offerings')
 addt('human-sacrifice','titicaca-offerings')
 addt('outsider-builder-claims','senegambian-circles')
-
 # --- batch 12 part 4 (Byzantium, Renaissance Europe, Japan, Indian Ocean/Pacific, deep time)
 C.update({
 'greek-fire':'history anomalies',
@@ -1124,7 +1117,6 @@ addt('vanished-landscapes','kap-kobenhavn-edna')
 addt('lost-continents','kap-kobenhavn-edna')
 addt('space-weather','miyake-774 carrington-event')
 addt('vanished-species','dodo kap-kobenhavn-edna haasts-eagle roc-elephant-bird')
-
 # --- batch 13 (2026-10-25): ancient Near East, apocrypha and medieval Europe, Enlightenment and 20th-century science,
 # Southern Africa, Indonesia/Philippines, Polynesia, Amazonia, North American Plains, deep-time geophysics
 C.update({
@@ -1234,7 +1226,6 @@ addt('hidden-kingdoms','fawcett-z')
 addt('trade-networks','majapahit')
 addt('genetic-migrations','hokulea-1976')
 addt('mysterious-lights','spring-heeled-jack')
-
 # --- batch 14 (2026-10-26): Vedic/classical India, dynastic China, Arabia, Ottoman world, Nordic lands,
 # Cold War and space age, UFO cases, cryptids, recent science
 C.update({
@@ -1672,7 +1663,6 @@ addt('human-sacrifice','grauballe-man')
 addt('underground-worlds','area-51 operation-highjump')
 addt('rejected-pioneers','ibn-al-haytham')
 addt('scientific-revolution','ibn-al-haytham')
-
 # batch 19 part 1 — Korea / Northeast Asia
 C.update({
 'anak-tomb':'archaeology history','seokguram':'archaeology religion history','hunminjeongeum':'history','dokkaebi':'myth-legend',
@@ -1743,7 +1733,6 @@ addt('tested-by-experiment','schweitzer-dino-soft-tissue jwst-early-galaxies')
 addt('cold-war-secrets','kecksburg-1965 falcon-lake-1967')
 addt('anomalous-photos','solway-spaceman')
 addt('gobekli-cluster','karahan-tepe gobekli-tepe')
-
 # batch 20 part 1 — Celtic / Insular Atlantic
 C.update({
 'book-of-kells':'history religion archaeology','hill-of-tara':'archaeology history myth-legend','cu-chulainn':'myth-legend','mabinogion':'myth-legend',
@@ -1759,7 +1748,6 @@ addt('first-art','book-of-kells lindisfarne-gospels pictish-symbol-stones')
 addt('sleeping-heroes','cu-chulainn fionn-mac-cumhaill')
 addt('shapeshifters','mabinogion manannan-mac-lir cu-chulainn')
 addt('giant-monuments','hill-of-tara iona-abbey')
-
 # batch 20 part 2 — Iran / Caucasus / Persia
 C.update({
 'persepolis':'archaeology history','sasanian-empire':'history archaeology religion','parthian-empire':'history archaeology','armenian-alphabet':'history religion',
@@ -1777,7 +1765,6 @@ addt('civilising-teachers','armenian-alphabet manichaeism')
 addt('secret-societies','mithraism')
 addt('lost-civilisations','parthian-empire')
 addt('rediscovered-civilisations','persepolis pasargadae taq-kasra')
-
 # batch 20 part 3 — Africa / Americas / Finnish
 C.update({
 'yoruba-orisha':'myth-legend religion','oduduwa':'myth-legend history','ifa-divination':'religion history','mapuche-resistance':'history',
@@ -1799,7 +1786,6 @@ addt('lost-treasures','tiwanaku kalevala-epic')
 addt('knowledge-and-power','ifa-divination kalevala-epic kingdom-of-kongo')
 addt('andean-empires','tiwanaku')
 addt('sahel-kingdoms','kingdom-of-kongo')
-
 # batch 20 part 4 — anomalies / chronology wars / UFOs / Neolithic
 C.update({
 'phantom-time-hypothesis':'hoaxes history anomalies','fomenko-new-chronology':'hoaxes history anomalies','tartarian-architecture':'hoaxes anomalies lost-civilisations','freemasonry-origins':'history religion anomalies',
@@ -1819,7 +1805,6 @@ addt('cold-war-secrets','belgian-ufo-wave hudson-valley-ufo')
 addt('erased-from-history','tartarian-architecture phantom-time-hypothesis fomenko-new-chronology')
 addt('first-art','ain-ghazal sayburc')
 addt('out-of-place-artifacts','tartarian-architecture')
-
 # batch 21 part 1 — Horn of Africa / Nubia / Madagascar / Byzantium
 C.update({
 'yeha-temple':'archaeology history','fasil-ghebbi':'history archaeology','tiya-stelae':'archaeology anomalies','makuria-faras':'history religion archaeology',
@@ -1839,7 +1824,6 @@ addt('holy-wars','fall-of-constantinople')
 addt('collective-experiences','nika-riots')
 addt('madagascar-worlds','famadihana ambohimanga madagascar-settlement roc-elephant-bird vazimba-kalanoro')
 addt('deep-oral-memory','queen-gudit')
-
 # batch 21 part 2 — Mongolia / Siberia / Arctic / Mesopotamia / Anatolia
 C.update({
 'karakorum':'history archaeology','secret-history-mongols':'history myth-legend','malta-boy':'science-cosmos archaeology','orkhon-inscriptions':'history archaeology',
@@ -1869,7 +1853,6 @@ addt('hidden-tombs','royal-cemetery-ur')
 addt('sacred-kingship','code-of-hammurabi royal-cemetery-ur')
 addt('trade-networks','kanesh-archives')
 addt('knowledge-and-power','code-of-hammurabi')
-
 # batch 21 part 3 — Native North America / Anatolia / deep-time Earth / Indonesia-Philippines
 C.update({
 'poverty-point':'archaeology history','walam-olum':'hoaxes myth-legend','sky-woman':'myth-legend religion','newark-earthworks':'archaeology history science-cosmos',
@@ -1897,7 +1880,6 @@ addt('southeast-asian-kingdoms','prambanan')
 addt('petrified-beings','prambanan battle-of-mactan')
 addt('sleeping-heroes','battle-of-mactan')
 addt('ocean-voyagers','battle-of-mactan')
-
 # batch 21 part 4 — anomalies / UFOs / cryptids / hoaxes / recent science
 C.update({
 'ebu-gogo':'myth-legend anomalies','pink-face-atapuerca':'science-cosmos archaeology','mantell-1948':'aliens-ufo history','pascagoula-1973':'aliens-ufo anomalies',
@@ -1918,7 +1900,6 @@ addt('hoaxes-exposed','calaveras-skull kinderhook-plates')
 addt('forged-documents','kinderhook-plates')
 addt('first-americans','calaveras-skull')
 addt('out-of-place-artifacts','calaveras-skull kinderhook-plates')
-
 # batch 22 part 1 — dynastic Egypt & the Levant
 C.update({
 'narmer-palette':'archaeology history','diary-of-merer':'archaeology history','amarna-letters':'history archaeology','battle-of-kadesh':'history archaeology',
@@ -1941,7 +1922,6 @@ addt('divine-punishment','mesha-stele')
 addt('hunter-gatherer-monuments','natufian-culture')
 addt('cosmic-impacts','natufian-culture')
 addt('lost-evidence','mesha-stele')
-
 # batch 22 part 2 — Ottoman/Safavid, Caribbean, Central America
 C.update({
 'battle-of-vienna-1683':'history myth-legend','devshirme-janissaries':'history religion','naqsh-e-jahan':'history archaeology religion','shah-ismail':'history religion',
@@ -1970,7 +1950,6 @@ addt('shapeshifters','cadejo')
 addt('cryptids','cadejo')
 addt('giant-monuments','naqsh-e-jahan')
 addt('strange-sounds','naqsh-e-jahan')
-
 # batch 22 part 3 — Arctic, Pacific Northwest, Philippines/Indonesia, Oceania
 C.update({
 'inuksuk':'history archaeology','sieidi':'religion myth-legend archaeology','potlatch-ban':'history religion','sgang-gwaay':'history archaeology',
@@ -1999,7 +1978,6 @@ addt('founding-ancestors','degei')
 addt('mummies','toraja-funerals')
 addt('madagascar-worlds','toraja-funerals')
 addt('otherworld-visits','tabon-caves toraja-funerals')
-
 # batch 22 part 4 — modern mysteries, science, cryptids, hoaxes
 C.update({
 'flannan-isles-1900':'anomalies history','mad-gasser-mattoon':'anomalies history','ghost-rockets-1946':'aliens-ufo anomalies history','higgs-boson-2012':'science-cosmos history',
@@ -2030,7 +2008,6 @@ addt('out-of-place-artifacts','glozel')
 addt('origins-of-writing','glozel')
 addt('sky-omens','chernobyl-1986')
 addt('plagues-and-epidemics','spanish-flu-1918')
-
 # batch 23 part 1 — Classical Greece & Rome
 C.update({
 'alexander-the-great':'history myth-legend archaeology','eratosthenes-earth':'science-cosmos history','thermopylae':'history','mask-of-agamemnon':'archaeology history hoaxes',
@@ -2058,7 +2035,6 @@ addt('genetic-migrations','liqian-roman-legion')
 addt('visionary-women','hypatia')
 addt('suppressed-beliefs','hypatia')
 addt('iranian-worlds','alexander-the-great')
-
 # batch 23 part 2 — medieval Europe & the Islamic world
 C.update({
 'codex-gigas':'history religion myth-legend','rok-runestone':'history archaeology myth-legend catastrophes','lambton-worm':'myth-legend','golem-of-prague':'myth-legend religion',
@@ -2087,7 +2063,6 @@ addt('shapeshifters','melusine')
 addt('founding-ancestors','melusine')
 addt('giants-and-little-people','mandeville-travels')
 addt('hidden-kingdoms','mandeville-travels')
-
 # batch 23 part 3 — Africa, Asia & the Americas
 C.update({
 'hanno-periplus':'history anomalies','mutapa-ophir':'history archaeology lost-civilisations','battle-of-adwa':'history religion','heike-crabs':'myth-legend science-cosmos anomalies',
@@ -2120,7 +2095,6 @@ addt('millenarian-movements','pueblo-revolt')
 addt('elixirs-of-immortality','fountain-of-youth')
 addt('myths-about-history','fountain-of-youth')
 addt('caribbean-worlds','fountain-of-youth')
-
 # batch 23 part 4 — modern mysteries, fringe theories, hoaxes, origin of life
 C.update({
 'oak-island':'history anomalies hoaxes','beale-ciphers':'history hoaxes anomalies','symmes-hollow-earth':'history science-cosmos lost-civilisations','shaver-mystery':'hoaxes anomalies lost-civilisations aliens-ufo',
@@ -2152,7 +2126,6 @@ addt('changed-understanding','origin-of-species-1859 miller-urey-1953 symmes-hol
 addt('human-origins','origin-of-species-1859')
 addt('tested-by-experiment','miller-urey-1953')
 addt('life-beyond-earth','miller-urey-1953')
-
 # batch 24 part 1 — ancient Near East & Mediterranean
 C.update({
 'atrahasis':'myth-legend religion catastrophes','ishtar-gate':'history archaeology myth-legend','rosetta-stone':'history archaeology','galilee-boat':'archaeology history religion',
@@ -2186,7 +2159,6 @@ addt('out-of-place-artifacts','nimrud-lens')
 addt('ancient-astronomy','nimrud-lens')
 addt('giants-and-little-people','cyclops-dwarf-elephants')
 addt('cosmic-impacts','tall-el-hammam')
-
 # batch 24 part 2 — South & East Asia
 C.update({
 'ramayana':'myth-legend religion','change-moon-goddess':'myth-legend science-cosmos','penglai':'myth-legend','shennong':'myth-legend history',
@@ -2217,7 +2189,6 @@ addt('dragons-and-fossils','ta-prohm-stegosaurus')
 addt('out-of-place-artifacts','ta-prohm-stegosaurus')
 addt('southeast-asian-kingdoms','ta-prohm-stegosaurus chola-srivijaya-1025')
 addt('trade-networks','chola-srivijaya-1025')
-
 # batch 24 part 3 — Africa, Maya, American West, European legends
 C.update({
 'hannibal-alps':'history archaeology','impundulu':'myth-legend','mfecane':'history','thulamela':'archaeology history',
@@ -2253,7 +2224,6 @@ addt('holy-wars','vlad-dracula')
 addt('royal-propaganda','vlad-dracula man-in-the-iron-mask')
 addt('impostors-and-lost-heirs','man-in-the-iron-mask')
 addt('secret-societies','man-in-the-iron-mask')
-
 # batch 24 part 4 — modern mysteries, anomalies, hoaxes, dating science
 C.update({
 'princes-in-the-tower':'history','nostradamus':'history anomalies religion','rasputin-death':'history','ball-lightning':'science-cosmos anomalies',
@@ -2281,7 +2251,6 @@ addt('ghost-ships','ourang-medan mary-celeste flying-dutchman')
 addt('changed-understanding','radiocarbon-dating-1949')
 addt('chronology-wars','radiocarbon-dating-1949')
 addt('dating-the-past','radiocarbon-dating-1949 shroud jack-hills-zircons miyake-774')
-
 # batch 25 part 1 — sunken cities, lost lands, megalithic Europe
 C.update({
 'helike':'history archaeology catastrophes','pavlopetri':'archaeology history','rungholt':'history catastrophes myth-legend','vineta':'myth-legend lost-civilisations archaeology',
@@ -2307,7 +2276,6 @@ addt('strange-sounds','hal-saflieni-hypogeum')
 addt('stone-circles','avebury stonehenge')
 addt('ley-lines-and-alignments','avebury ley-lines')
 addt('hidden-tombs','silbury-hill')
-
 # batch 25 part 2 — gods, dragons and spirits
 C.update({
 'prometheus':'myth-legend religion','medusa':'myth-legend religion','beowulf':'myth-legend history','sigurd-fafnir':'myth-legend history',
@@ -2333,7 +2301,6 @@ addt('celtic-worlds','banshee changelings')
 addt('prophecies','banshee')
 addt('hidden-peoples','changelings huldufolk')
 addt('otherworld-visits','changelings')
-
 # batch 25 part 3 — Near East, Kush, southern Africa, the Americas
 C.update({
 'petra':'history archaeology','palmyra-zenobia':'history archaeology','masada':'history archaeology religion','taharqa':'history archaeology religion',
@@ -2359,7 +2326,6 @@ addt('native-north-america','kokopelli')
 addt('central-america','mictlan')
 addt('otherworld-visits','mictlan')
 addt('water-spirits','ninki-nanka')
-
 # batch 25 part 4 — sky-stones, impacts, contactees, sounds, coincidences, hoaxes
 C.update({
 'ensisheim-meteorite':'science-cosmos history','barringer-crater':'science-cosmos catastrophes','carolina-bays':'science-cosmos anomalies catastrophes','levelland-1957':'aliens-ufo anomalies',
@@ -2388,7 +2354,6 @@ addt('lost-treasures','rennes-le-chateau')
 addt('forged-documents','rennes-le-chateau george-psalmanazar')
 addt('impostors-and-lost-heirs','george-psalmanazar')
 addt('travellers-tales','george-psalmanazar')
-
 # batch 26 part 1 — volcanoes, earthquakes, tsunamis and epidemics
 C.update({
 'laki-1783':'catastrophes science-cosmos history','event-8200':'catastrophes science-cosmos','armero-1985':'catastrophes history','messina-1908':'catastrophes history myth-legend',
@@ -2415,7 +2380,6 @@ addt('island-southeast-asia','samalas-1257 smong-2004')
 addt('slavic-worlds','huaynaputina-1600')
 addt('rain-and-drought','cocoliztli-1545')
 addt('classical-world','messina-1908')
-
 # batch 26 part 2 — forgotten Bronze Age and island civilisations
 C.update({
 'shimao':'archaeology history lost-civilisations','hohokam':'archaeology history','marajoara':'archaeology history lost-civilisations','nuragic-sardinia':'archaeology history lost-civilisations',
@@ -2448,7 +2412,6 @@ addt('outsider-builder-claims','ubaid-lizard-figurines')
 addt('anunnaki-claims','ubaid-lizard-figurines')
 addt('serpent-beings','ubaid-lizard-figurines')
 addt('hoaxes-exposed','ubaid-lizard-figurines')
-
 # batch 26 part 3 — earth-lights, official UFO studies, famous photos, SETI
 C.update({
 'vilas-boas-1957':'aliens-ufo anomalies','brown-mountain-lights':'anomalies myth-legend hoaxes','marfa-lights':'anomalies science-cosmos','geipan':'aliens-ufo history science-cosmos',
@@ -2470,7 +2433,6 @@ addt('anomalous-photos','trindade-1958 mcminnville-1950 battle-of-la-1942')
 addt('hoaxes-exposed','mcminnville-1950')
 addt('disappearances','lead-masks-1966')
 addt('collective-experiences','battle-of-la-1942')
-
 # batch 26 part 4 — forgeries, literary hoaxes, impostors, fake Old World inscriptions in America
 C.update({
 'protocols-elders-zion':'hoaxes history religion','ossian':'hoaxes history myth-legend','ern-malley':'hoaxes history','drakes-plate-of-brass':'hoaxes history archaeology',
@@ -2492,7 +2454,6 @@ addt('impostors-and-lost-heirs','tichborne-claimant anna-anderson')
 addt('seeing-what-we-expect','tichborne-claimant drakes-plate-of-brass ern-malley')
 addt('lost-evidence','grave-creek-stone')
 addt('decipherments','bat-creek-stone grave-creek-stone')
-
 # batch 27 part 1 — Patagonia, Tierra del Fuego and the Southern Cone
 C.update({
 'chinchorro-mummies':'archaeology history','ten-ten-vilu':'myth-legend catastrophes religion','selknam-hain':'history religion myth-legend','caleuche':'myth-legend anomalies',
@@ -2525,7 +2486,6 @@ addt('cryptids','mylodon-cave')
 addt('giants-and-little-people','patagonian-giants')
 addt('seeing-what-we-expect','patagonian-giants')
 addt('dragons-and-fossils','patagonian-giants')
-
 # batch 27 part 2 — the Caucasus and the Yoruba world; thunderstones
 C.update({
 'nart-sagas':'myth-legend','urartu':'history archaeology religion','vardzia':'history archaeology','gates-of-alexander':'myth-legend religion history',
@@ -2557,7 +2517,6 @@ addt('water-spirits','osun-osogbo')
 addt('changed-understanding','thunderstones')
 addt('out-of-place-artifacts','thunderstones')
 addt('sky-stones','thunderstones')
-
 # batch 27 part 3 — origins of death, the moon rabbit, first farmers, potters and dogs
 C.update({
 'origin-of-death-myths':'myth-legend religion','hainuwele':'myth-legend religion','moon-rabbit':'myth-legend religion science-cosmos','ohalo-ii':'archaeology science-cosmos',
@@ -2581,7 +2540,6 @@ addt('central-america','guila-naquitz')
 addt('ice-age-burials','dog-domestication')
 addt('genetic-migrations','dog-domestication')
 addt('ancient-technology','xianren-cave')
-
 # batch 27 part 4 — witch trials and their sceptics; Voronezh 1989 and Ilkley Moor 1987
 C.update({
 'basque-witch-trials':'history religion','north-berwick-witches':'history religion','pendle-witches':'history religion','wurzburg-bamberg-witch-trials':'history religion',
@@ -2605,7 +2563,6 @@ addt('alien-abductions','ilkley-moor-1987')
 addt('anomalous-photos','ilkley-moor-1987')
 addt('cold-war-secrets','voronezh-1989')
 addt('time-slips','ilkley-moor-1987')
-
 # batch 28 part 1 — falls from the sky, ghost ships, a feral child, an unsolved murder and a sideshow mermaid
 C.update({
 'rain-of-animals':'anomalies science-cosmos myth-legend','kentucky-meat-shower':'anomalies','spontaneous-human-combustion':'anomalies hoaxes',
@@ -2628,7 +2585,6 @@ addt('polar-mysteries','baychimo')
 addt('seeing-what-we-expect','spontaneous-human-combustion rain-of-animals')
 addt('moral-panics-and-warnings','spontaneous-human-combustion')
 addt('showmen-and-spectacle','fiji-mermaid')
-
 # batch 28 part 2 — UFO cases and sky events that changed minds
 C.update({
 'lakenheath-1956':'aliens-ufo anomalies history','exeter-1965':'aliens-ufo anomalies','gulf-breeze-1987':'aliens-ufo hoaxes',
@@ -2650,7 +2606,6 @@ addt('showmen-and-spectacle','spaghetti-tree great-moon-hoax')
 addt('tested-by-experiment','cold-fusion-1989')
 addt('rejected-pioneers','cold-fusion-1989')
 addt('science-gone-wrong','cold-fusion-1989 n-rays')
-
 # batch 28 part 3 — Africa and the Americas; Asian star and bird myths
 C.update({
 'bantu-expansion':'history archaeology science-cosmos','benin-walls':'history archaeology','tula-toltecs':'history archaeology myth-legend',
@@ -2683,7 +2638,6 @@ addt('serpent-beings','garuda')
 addt('born-from-eggs','garuda')
 addt('elixirs-of-immortality','garuda')
 addt('south-asian-epics','garuda')
-
 # batch 28 part 4 — Mesopotamia and Egypt; prehistoric and medieval Britain and Europe
 C.update({
 'uruk':'history archaeology','merneptah-stele':'history archaeology religion','dendera-zodiac':'archaeology science-cosmos anomalies',
@@ -2713,7 +2667,6 @@ addt('ley-lines-and-alignments','long-man-wilmington')
 addt('berserkers-and-warriors','lewis-chessmen berserkers')
 addt('lost-treasures','lewis-chessmen')
 addt('repatriation-debates','dendera-zodiac lewis-chessmen benin-bronzes rosetta-stone')
-
 # batch 29 (2026-11-16)
 C.update({
 'great-oxidation-event':'science-cosmos catastrophes','early-stromatolites':'science-cosmos','tiktaalik':'science-cosmos',
@@ -3574,3 +3527,30 @@ addt('sunken-cities','leluh-kosrae')
 addt('modern-legends','drop-bear')
 addt('cryptids','drop-bear')
 addt('media-hoaxes','drop-bear')
+# --- batch 36 part 4 (2026-11-23): Africa (Koumbi Saleh, Khami, Thimlich Ohinga, Harar hyenas, Bambatha, Maji Maji, Herero and Nama genocide, Mbuya Nehanda)
+C.update({'koumbi-saleh':'archaeology history lost-civilisations','khami-ruins':'archaeology history','thimlich-ohinga':'archaeology history',
+'harar-hyenas':'myth-legend religion','bambatha-rebellion':'history myth-legend','maji-maji-rebellion':'history religion','herero-nama-genocide':'history',
+'mbuya-nehanda':'history religion myth-legend'})
+addt('sahel-kingdoms','koumbi-saleh')
+addt('trade-networks','koumbi-saleh khami-ruins')
+addt('rediscovered-civilisations','koumbi-saleh khami-ruins')
+addt('rain-and-drought','koumbi-saleh harar-hyenas maji-maji-rebellion')
+addt('serpent-beings','koumbi-saleh maji-maji-rebellion')
+addt('southern-africa','khami-ruins bambatha-rebellion herero-nama-genocide mbuya-nehanda')
+addt('outsider-builder-claims','khami-ruins')
+addt('giant-monuments','khami-ruins thimlich-ohinga')
+addt('sacred-kingship','khami-ruins mbuya-nehanda')
+addt('walls-against-chaos','thimlich-ohinga')
+addt('deep-oral-memory','thimlich-ohinga koumbi-saleh')
+addt('horn-of-africa','harar-hyenas')
+addt('prophecies','harar-hyenas mbuya-nehanda maji-maji-rebellion')
+addt('resistance-to-empire','bambatha-rebellion maji-maji-rebellion herero-nama-genocide mbuya-nehanda')
+addt('sleeping-heroes','bambatha-rebellion')
+addt('myths-about-history','bambatha-rebellion mbuya-nehanda')
+addt('millenarian-movements','maji-maji-rebellion')
+addt('altered-states','maji-maji-rebellion mbuya-nehanda')
+addt('erased-from-history','herero-nama-genocide')
+addt('repatriation-debates','herero-nama-genocide')
+addt('changed-understanding','herero-nama-genocide')
+addt('visionary-women','mbuya-nehanda')
+addt('returning-saviours','mbuya-nehanda')

@@ -81813,6 +81813,471 @@
     "modern-legends",
     "media-hoaxes"
    ]
+  },
+  {
+   "id": "koumbi-saleh",
+   "title": "Koumbi Saleh: in search of the capital of ancient Ghana",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 1050,
+   "end": 1350,
+   "dateNote": "Occupied about late 5th to 14th centuries; urban peak 11th-14th centuries",
+   "statusNote": "ruins confirmed; identification as Ghana's capital disputed",
+   "evidenceTypes": [
+    "archaeological",
+    "textual",
+    "radiocarbon"
+   ],
+   "mainstream": "Koumbi Saleh is a ruined city in southeastern Mauritania that may have been the capital of the Ghana Empire, also called Wagadu, the first great Sahelian empire of the trans-Saharan gold trade. Arab writers mention Ghana from the 9th century, and in the 11th century the Córdoban geographer al-Bakri described its capital as two towns about 10 km apart: a large town of Muslim merchants with twelve mosques, and the king's town. The 17th-century Timbuktu chronicle Tarikh al-fattash, published in French translation in 1913, names an early capital called Koumbi. In 1914 Albert Bonnel de Mézières reported extensive ruins at Koumbi Saleh. Excavations since have revealed a large town with stone houses, a congregational mosque and cemeteries, occupied from about the late 5th to the 14th century, with its urban phase about the 11th-14th centuries.",
+   "alternatives": [
+    {
+     "label": "Is it really Ghana's capital?",
+     "text": "No inscription identifies the site, and the king's town described by al-Bakri has not been found. Many historians accept Koumbi Saleh as the merchants' town of the capital, while others think the capital moved over time or lay elsewhere."
+    },
+    {
+     "label": "Wagadu remembered",
+     "text": "Soninke oral tradition remembers Wagadu as a golden kingdom that fell when the sacred serpent Bida was killed, bringing drought; scholars debate how far such traditions preserve memories of the empire's decline and of climate change in the Sahel."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Koumbi Saleh",
+     "url": "https://en.wikipedia.org/wiki/Koumbi_Saleh",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Ghana Empire",
+     "url": "https://en.wikipedia.org/wiki/Ghana_Empire",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Archaeological_site_of_Koumbi_Saleh.jpg/500px-Archaeological_site_of_Koumbi_Saleh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Archaeological_site_of_Koumbi_Saleh.jpg",
+     "author": "Chloé Capel",
+     "license": "CC BY-SA 4.0",
+     "title": "Archaeological site of Koumbi Saleh.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history",
+    "lost-civilisations"
+   ],
+   "threads": [
+    "deep-oral-memory",
+    "serpent-beings",
+    "rain-and-drought",
+    "trade-networks",
+    "rediscovered-civilisations",
+    "sahel-kingdoms"
+   ]
+  },
+  {
+   "id": "khami-ruins",
+   "title": "Khami: the Torwa capital that succeeded Great Zimbabwe",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1450,
+   "end": 1683,
+   "dateNote": "About 1450-1683",
+   "evidenceTypes": [
+    "archaeological",
+    "textual"
+   ],
+   "mainstream": "Khami is a ruined stone-walled city 22 km west of Bulawayo, Zimbabwe, and was the capital of the Kingdom of Butua under the Torwa dynasty for about 200 years from around 1450, roughly when Great Zimbabwe declined. Butua was known to Arab and Portuguese traders as a source of gold. Its builders made decorated terraced platforms with chequer, herringbone and cord patterns in dry-stone walling, on which they built houses and a royal Hill Complex. Some platforms are thought to have been cattle kraals, and gold from the region was traded towards the Indian Ocean coast. A Christian cross on one platform is believed to have been placed by a contemporary missionary. In the traditional date of 1683 the Rozvi under Changamire Dombo conquered the kingdom, and Khami appears not to have been occupied after that. It became a UNESCO World Heritage Site in 1986.",
+   "alternatives": [
+    {
+     "label": "Who built the stone cities?",
+     "text": "Like Great Zimbabwe, Khami was attributed by some colonial-era writers to foreign builders; archaeology shows it was built by Shona-speaking ancestors of the Kalanga within the Zimbabwe tradition, and this is the established view."
+    },
+    {
+     "label": "Portuguese involvement",
+     "text": "Portuguese documents record that in the 1640s a Portuguese prazo-holder helped restore an exiled Butua king during a civil war; historians use the cross and these sources to discuss how far Portuguese influence reached into the interior, which was probably limited."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Khami",
+     "url": "https://en.wikipedia.org/wiki/Khami",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Kingdom of Butua",
+     "url": "https://en.wikipedia.org/wiki/Kingdom_of_Butua",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/ZW_Khami_Ruins.JPG/500px-ZW_Khami_Ruins.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:ZW_Khami_Ruins.JPG",
+     "author": "Digr",
+     "license": "CC BY-SA 4.0",
+     "title": "ZW_Khami_Ruins.JPG"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history"
+   ],
+   "threads": [
+    "giant-monuments",
+    "sacred-kingship",
+    "outsider-builder-claims",
+    "trade-networks",
+    "rediscovered-civilisations",
+    "southern-africa"
+   ]
+  },
+  {
+   "id": "thimlich-ohinga",
+   "title": "Thimlich Ohinga: the stone fortresses of the Lake Victoria basin",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1450,
+   "end": null,
+   "dateNote": "About the 15th century or earlier; UNESCO 2018",
+   "evidenceTypes": [
+    "archaeological",
+    "oral tradition"
+   ],
+   "mainstream": "Thimlich Ohinga in Migori County, Kenya, is the largest and best preserved of 138 sites with 521 dry-stone structures in the Lake Victoria region. Its name in Dholuo, the Luo language, means roughly 'frightening dense forest' and 'large fortress'. The main enclosure has walls 1-3 m thick and up to 4.2 m high, built of undressed stones fitted together without mortar, with low narrow entrances and inner enclosures for houses and livestock. It is thought to date to the 15th century or earlier. Thimlich Ohinga became a Kenyan National Monument in 1981 and a UNESCO World Heritage Site in 2018.",
+   "alternatives": [
+    {
+     "label": "Who built it?",
+     "text": "Oral histories suggest that the earliest inhabitants were Bantu-speaking people before Nilotic-speaking groups arrived, while some pottery has decoration typical of Luo (Western Nilotic) speakers. The site may have been built and reused by successive communities."
+    },
+    {
+     "label": "Protection from what?",
+     "text": "Luo traditions say the enclosures protected people and cattle from wild animals, cattle raiders and hostile neighbours; archaeologists see them as evidence of communities able to organise large amounts of labour."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Thimlich Ohinga",
+     "url": "https://en.wikipedia.org/wiki/Thimlich_Ohinga",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Thimlich_Ohinga_Cultural_Landscape-_Kenya.JPG/500px-Thimlich_Ohinga_Cultural_Landscape-_Kenya.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Thimlich_Ohinga_Cultural_Landscape-_Kenya.JPG",
+     "author": "Wycondi",
+     "license": "CC BY-SA 3.0",
+     "title": "Thimlich_Ohinga_Cultural_Landscape-_Kenya.JPG"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history"
+   ],
+   "threads": [
+    "giant-monuments",
+    "deep-oral-memory",
+    "walls-against-chaos"
+   ]
+  },
+  {
+   "id": "harar-hyenas",
+   "title": "The hyenas of Harar: porridge, a truce and the \"Hyena Emir\"",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 3,
+   "start": 1500,
+   "end": null,
+   "dateNote": "Ritual of uncertain age, possibly before the 16th century; still practised",
+   "evidenceTypes": [
+    "ethnographic",
+    "oral tradition"
+   ],
+   "mainstream": "Harar Jugol, the walled old city of Harar in eastern Ethiopia, is a historic Muslim trading and religious centre, known as the 'City of Saints', and became a UNESCO World Heritage Site in 2006. The city has an unusual relationship with spotted hyenas. Residents traditionally feed them and believe their presence keeps away harmful spirits. On the night of Ashura, people offer multigrain porridge to hyenas at shrines outside the city. According to legends recorded by the anthropologist Marcus Baynes-Rock and others, this began during a drought and famine when hyenas attacked townspeople. The town's saints decided that the hyenas should be fed porridge, and a truce was made. A white 'Hyena Emir' is said to lead the hyenas and inspect the food. If they refuse it, war is expected; if they eat all of it, famine; if they eat most but not all, a prosperous year. In recent decades, night-time hand feeding of hyenas by local 'hyena men' has also become a tourist attraction.",
+   "alternatives": [
+    {
+     "label": "How old is the custom?",
+     "text": "The shrines where the Ashura feeding takes place all lie outside the town. Baynes-Rock argues that this suggests the legend and ritual predate the Oromo migrations of the 16th century, but the age of the practice cannot be dated directly."
+    },
+    {
+     "label": "A living multispecies heritage",
+     "text": "Researchers describe Harar's hyena traditions as a rare case of an urban truce between people and a large carnivore, in which beliefs about spirits and fortune-telling help sustain coexistence."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Among the Bone Eaters",
+     "authors": "Baynes-Rock, M.",
+     "year": 2015,
+     "doi": "10.1515/9780271074061",
+     "type": "paper"
+    },
+    {
+     "title": "Intangible cultural heritage as multispecies practice",
+     "authors": "Baynes Rock, M.",
+     "year": 2026,
+     "doi": "10.1080/14747731.2026.2703413",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: Harar",
+     "url": "https://en.wikipedia.org/wiki/Harar",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/The_Hyena_Man_of_Harar.jpg/500px-The_Hyena_Man_of_Harar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:The_Hyena_Man_of_Harar.jpg",
+     "author": "Gusjer",
+     "license": "CC BY 2.0",
+     "title": "The Hyena Man of Harar.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion"
+   ],
+   "threads": [
+    "rain-and-drought",
+    "horn-of-africa",
+    "prophecies"
+   ]
+  },
+  {
+   "id": "bambatha-rebellion",
+   "title": "The Bambatha Rebellion of 1906: a poll tax, Mome Gorge and a chief who would not die",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1906,
+   "end": null,
+   "dateNote": "February-July 1906",
+   "statusNote": "rebellion confirmed; survival legend unverified",
+   "evidenceTypes": [
+    "textual",
+    "oral tradition"
+   ],
+   "mainstream": "In 1905-1906 the British colony of Natal, in what is now KwaZulu-Natal, South Africa, imposed a poll tax of £1 on African men on top of the existing hut tax, partly to push Zulu men into wage labour. Protests at tax collections led to the deaths of two police officers on 8 February 1906 and the declaration of martial law. Bhambatha kaMancinza, a chief of the Zondi people in the Mpanza Valley near Greytown, rose in revolt and fought a guerrilla campaign from the Nkandla forests until colonial troops trapped his followers at Mome Gorge on 10 June 1906. Between 3,000 and 4,000 Zulu men were killed during the suppression, against 36 colonial soldiers. Mohandas Gandhi, then a lawyer in South Africa, organised an Indian stretcher-bearer corps for the colonial side. The rebellion strengthened white support for uniting the colonies, which became the Union of South Africa in 1910.",
+   "alternatives": [
+    {
+     "label": "Did Bambatha escape?",
+     "text": "Colonial forces said Bambatha was killed at Mome Gorge and that his head was cut off for identification. Many of his people have long believed that the body was not his and that he escaped to Mozambique; speakers repeated this at the 2006 centenary ceremony that declared him a national hero, and a DNA test of the alleged body gave no definite answer."
+    },
+    {
+     "label": "Last uprising or first struggle?",
+     "text": "Historians variously describe the revolt as the last armed Zulu resistance to colonial conquest or as a forerunner of 20th-century African nationalist movements in South Africa."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Bambatha Rebellion",
+     "url": "https://en.wikipedia.org/wiki/Bambatha_Rebellion",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/ZuluWarriors.jpg/500px-ZuluWarriors.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:ZuluWarriors.jpg",
+     "author": "Unknown authorUnknown author",
+     "license": "Public domain",
+     "title": "ZuluWarriors.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "myth-legend"
+   ],
+   "threads": [
+    "sleeping-heroes",
+    "myths-about-history",
+    "resistance-to-empire",
+    "southern-africa"
+   ]
+  },
+  {
+   "id": "maji-maji-rebellion",
+   "title": "Maji Maji: the water medicine that was meant to turn bullets to water",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1905,
+   "end": 1907,
+   "dateNote": "July 1905 to 1907",
+   "evidenceTypes": [
+    "textual",
+    "oral tradition"
+   ],
+   "mainstream": "The Maji Maji Rebellion (1905-1907) was an uprising against German colonial rule in German East Africa, now Tanzania. It was triggered by forced cotton growing and labour policies at a time of drought. In July 1905 Matumbi people uprooted cotton at Samanga, and the revolt spread across southern Tanzania among the Ngindo, Yao, Ngoni and many other peoples. A spirit medium, Kinjikitile Ngwale of Ngarambe, said he was possessed by a snake spirit called Hongo and gave followers maji, a 'war medicine' of water mixed with castor oil and millet seeds. It was said to turn German bullets into water, and the belief helped unite groups that had never fought together. The Germans hanged Kinjikitile and crushed the revolt with machine guns and a scorched-earth policy under Governor Gustav Adolf von Götzen. Somewhere between 75,000 and 300,000 people died, overwhelmingly in the famine that followed, which scholars have described as genocidal.",
+   "alternatives": [
+    {
+     "label": "Magic or politics?",
+     "text": "A German inquiry was split between officials who blamed sorcerers and headmen using water medicine and those who stressed grievances over forced labour and taxes; historians today see the maji belief as a means of mobilisation rather than a cause in itself."
+    },
+    {
+     "label": "Memory and the nation",
+     "text": "In independent Tanzania the rising became a founding story of anti-colonial unity, and the name may have influenced the term \"Mau Mau\" for the Kenyan uprising of the 1950s, though that link is uncertain."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Maji Maji Rebellion",
+     "url": "https://en.wikipedia.org/wiki/Maji_Maji_Rebellion",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Wilhelm_Kuhnert_Schlacht_bei_Mahenge_2.jpg/500px-Wilhelm_Kuhnert_Schlacht_bei_Mahenge_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Wilhelm_Kuhnert_Schlacht_bei_Mahenge_2.jpg",
+     "author": "Wilhelm Kuhnert",
+     "license": "Public domain",
+     "title": "Wilhelm_Kuhnert_Schlacht_bei_Mahenge_2.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "religion"
+   ],
+   "threads": [
+    "serpent-beings",
+    "rain-and-drought",
+    "altered-states",
+    "millenarian-movements",
+    "resistance-to-empire",
+    "prophecies"
+   ]
+  },
+  {
+   "id": "herero-nama-genocide",
+   "title": "The Herero and Nama genocide, 1904-1908",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": 1904,
+   "end": 1908,
+   "dateNote": "1904-1908; recognised by Germany 2015 and 2021",
+   "evidenceTypes": [
+    "textual",
+    "documentary",
+    "archival"
+   ],
+   "mainstream": "Between 1904 and 1908 the German Empire killed most of the Herero people and about half of the Nama in German South West Africa, now Namibia. Around 40,000-80,000 Herero (about 80% of their pre-war population) and 10,000 Nama died. The Herero chief Samuel Maharero launched an uprising on 12 January 1904 against land seizures and forced labour. After the Battle of Waterberg in August, General Lothar von Trotha drove the Herero into the Omaheke desert, where most died of thirst and starvation, and ordered that all Herero men be killed. In practice women and children were also killed. After Kaiser Wilhelm II overrode the policy, survivors and Nama prisoners were held in concentration camps such as Shark Island, where about half died of disease, hunger and overwork. Skulls and body parts were sent to Germany for racial 'research'.",
+   "alternatives": [
+    {
+     "label": "Recognition and reparations",
+     "text": "Germany acknowledged in 2015 that genocide had been committed, and in 2021 agreed to pay 1.1 billion euros as ex gratia development aid while rejecting legal liability. Many Herero and Nama representatives criticised the deal for excluding them and for not being called reparations."
+    },
+    {
+     "label": "A precursor of the Holocaust?",
+     "text": "Some historians see continuities between the camps and racial science in Namibia and later Nazi policies, including the anthropologist Eugen Fischer, who studied people of mixed descent in the colony and later influenced Nazi race laws. Others warn against drawing a straight line between the two."
+    }
+   ],
+   "changed": "For decades German accounts treated the events as a colonial war; Namibian independence in 1990 and campaigns by descendants led to official recognition, the return of skulls from German collections and the 2021 agreement.",
+   "sources": [
+    {
+     "title": "Wikipedia: Herero and Nama genocide",
+     "url": "https://en.wikipedia.org/wiki/Herero_and_Nama_genocide",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Shark Island concentration camp",
+     "url": "https://en.wikipedia.org/wiki/Shark_Island_concentration_camp",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Eugen Fischer",
+     "url": "https://en.wikipedia.org/wiki/Eugen_Fischer",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Herero_and_Nama_prisoners.jpg/500px-Herero_and_Nama_prisoners.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Herero_and_Nama_prisoners.jpg",
+     "author": "Unknown authorUnknown author",
+     "license": "Public domain",
+     "title": "Herero_and_Nama_prisoners.jpg"
+    }
+   ],
+   "categories": [
+    "history"
+   ],
+   "threads": [
+    "changed-understanding",
+    "erased-from-history",
+    "resistance-to-empire",
+    "southern-africa",
+    "repatriation-debates"
+   ]
+  },
+  {
+   "id": "mbuya-nehanda",
+   "title": "Mbuya Nehanda: the spirit medium whose \"bones will rise\"",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1896,
+   "end": 1898,
+   "dateNote": "First Chimurenga 1896-1897; executed 1898; statue 2021",
+   "evidenceTypes": [
+    "textual",
+    "oral tradition"
+   ],
+   "mainstream": "Nehanda Charwe Nyakasikana (about 1840 - 27 April 1898), known as Mbuya ('grandmother') Nehanda, was a svikiro, or spirit medium, of the Zezuru Shona people. She was the medium of Nehanda, a female mhondoro or royal ancestral 'lion spirit'. Mhondoro spirits are believed to convey the wishes of the high god Mwari, and tradition identifies the original Nehanda as Nyamhita, daughter of the first Mutapa ruler Mutota, around 1430. Charwe became one of the spiritual leaders of the First Chimurenga, the 1896-1897 rising against the British South Africa Company's occupation of what is now Zimbabwe. She and her ally, the medium Sekuru Kaguvi, were captured, tried for murder and hanged in 1898. Popular tradition says she declared before her death that her bones would rise again. In May 2021 a statue of her by David Guy Mutasa was unveiled in central Harare.",
+   "alternatives": [
+    {
+     "label": "Prophecy fulfilled",
+     "text": "For Zimbabwean nationalists, the guerrilla war that began in 1972, known as the Second Chimurenga, was the fulfilment of her words, and the mediums of Nehanda were consulted by fighters; the spirit is believed to have possessed later mediums too."
+    },
+    {
+     "label": "History and myth-making",
+     "text": "Historians note that her role in the 1896 rising was magnified after her death by colonial officials, who saw mediums as ringleaders, and later by nationalist movements and the post-independence state, so the historical woman and the national symbol do not exactly coincide."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Nehanda Charwe Nyakasikana",
+     "url": "https://en.wikipedia.org/wiki/Nehanda_Charwe_Nyakasikana",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Nehanda_Nyakasikana_et_Sekuru_Kaguvi.jpg/500px-Nehanda_Nyakasikana_et_Sekuru_Kaguvi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Nehanda_Nyakasikana_et_Sekuru_Kaguvi.jpg",
+     "author": "Photos prise en 1897 par les Britanniques, et publiée par eux, suite à leur capture de Nehanda Nyakasikana",
+     "license": "Public domain",
+     "title": "Nehanda_Nyakasikana_et_Sekuru_Kaguvi.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "religion",
+    "myth-legend"
+   ],
+   "threads": [
+    "sacred-kingship",
+    "returning-saviours",
+    "altered-states",
+    "visionary-women",
+    "myths-about-history",
+    "resistance-to-empire",
+    "southern-africa",
+    "prophecies"
+   ]
   }
  ]
 }
