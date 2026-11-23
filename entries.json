@@ -80641,6 +80641,607 @@
     "dating-the-past",
     "sky-stones"
    ]
+  },
+  {
+   "id": "keezhadi",
+   "title": "Keezhadi: a Sangam-age town on the Vaigai and an argument over dates and scripts",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -580,
+   "end": 100,
+   "dateNote": "Occupation about 6th century BCE to 1st century CE (dates debated); excavated since 2015",
+   "statusNote": "site confirmed; earliest dates for writing disputed",
+   "evidenceTypes": [
+    "archaeological",
+    "radiocarbon",
+    "epigraphic"
+   ],
+   "mainstream": "Keezhadi (Keeladi) is an ancient settlement site about 12 km southeast of Madurai in Tamil Nadu, India, on the bank of the Vaigai River. An Archaeological Survey of India team led by Amarnath Ramakrishnan began digging there in June 2015, and the Tamil Nadu State Department of Archaeology has led the work since 2019. Excavators have found brick walls, roof tiles, pottery, bone tools, copper needles, iron objects and many potsherds inscribed in Tamil-Brahmi script, the early writing used for Old Tamil. AMS radiocarbon dates on charcoal from the fourth season reached back to about 580 BCE, and the site was occupied until about the 1st century CE. Keezhadi is widely presented as evidence of urban life in Tamil country during or before the Sangam period described in early Tamil poetry.",
+   "alternatives": [
+    {
+     "label": "How old is Tamil-Brahmi writing?",
+     "text": "Supporters of an early date argue that Keezhadi pushes Tamil-Brahmi writing back to the 6th century BCE, earlier than the Ashokan Brahmi inscriptions of the 3rd century BCE. Critics, including a central government minister in 2019, say the inscribed sherds came from mixed, disturbed layers such as an ancient rubbish pit, so they cannot be securely tied to the dated charcoal."
+    },
+    {
+     "label": "An Indus link?",
+     "text": "Excavators noted graffiti marks on some pottery and compared them with Indus-script signs, and some officials suggested a link between Indus writing and Tamil-Brahmi; most specialists regard such links as unproven, since the Indus script is undeciphered and the sites are separated by more than a thousand years."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Keezhadi excavation site",
+     "url": "https://en.wikipedia.org/wiki/Keezhadi_excavation_site",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/KeeladiExcavationCamp2.jpg/500px-KeeladiExcavationCamp2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:KeeladiExcavationCamp2.jpg",
+     "author": "VijayaVSR",
+     "license": "CC BY-SA 4.0",
+     "title": "KeeladiExcavationCamp2.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history"
+   ],
+   "threads": [
+    "changed-understanding",
+    "origins-of-writing",
+    "dating-the-past"
+   ]
+  },
+  {
+   "id": "sinauli-carts",
+   "title": "Sinauli: Bronze Age coffins, swords and \"chariots\" in the Ganges plain",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": -1800,
+   "end": -1500,
+   "dateNote": "About 2000-1500 BCE; excavated 2005-2006 and 2018",
+   "statusNote": "finds confirmed; \"chariot\" interpretation disputed",
+   "evidenceTypes": [
+    "archaeological"
+   ],
+   "mainstream": "Sinauli is an archaeological site in the Ganga-Yamuna Doab of western Uttar Pradesh, India, found by chance when farmers were levelling land. Archaeological Survey of India excavations in 2005-2006 uncovered a cemetery of more than a hundred burials of people of all ages. Trial excavations in March-May 2018, about 100 m away, found coffin burials, copper helmets and antenna-hilted swords, and three full-sized wooden vehicles with solid disc wheels covered in copper sheets. The finds are dated to roughly 2000-1500 BCE and attributed to the Ochre Coloured Pottery / Copper Hoard culture, which existed at the same time as the Late Harappan phase of the Indus civilisation.",
+   "alternatives": [
+    {
+     "label": "Warrior chariots and Vedic rites",
+     "text": "The 2018 excavation director, Sanjay Manjul, presented the vehicles as chariots, possibly drawn by horses, and said the burial rituals showed close affinity with Vedic rituals; some media and commentators linked them to the warrior world of the Mahabharata."
+    },
+    {
+     "label": "Carts, not chariots",
+     "text": "Many archaeologists point out that solid-wheeled vehicles are carts, not the light spoked-wheel chariots associated with horses. Asko Parpola argued they were ox-drawn carts and connected the burials to an early wave of Indo-Iranian speakers. Others reject that link, and the attribution of the earlier cemetery to the Harappan civilisation proper is also contested."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Sinauli",
+     "url": "https://en.wikipedia.org/wiki/Sinauli",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Sinauli_Chariot.jpg/500px-Sinauli_Chariot.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Sinauli_Chariot.jpg",
+     "author": "Nripendra Singh 1976",
+     "license": "CC BY-SA 4.0",
+     "title": "Sinauli Chariot.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history",
+    "myth-legend"
+   ],
+   "threads": [
+    "genetic-migrations",
+    "bronze-age-world",
+    "myths-about-history",
+    "south-asian-epics"
+   ]
+  },
+  {
+   "id": "taxila",
+   "title": "Taxila: crossroads city of Gandhara, Alexander and the Buddhists",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -800,
+   "end": 500,
+   "dateNote": "About 800 BCE to the 5th century CE; UNESCO 1980",
+   "evidenceTypes": [
+    "archaeological",
+    "textual"
+   ],
+   "mainstream": "Taxila (Takshashila) in Rawalpindi District, Punjab, Pakistan, is a cluster of ancient city sites at the junction of South and Central Asia and one of the capitals of Gandhara. The oldest city mound, Bhir Mound, dates from around the 8th to 6th centuries BCE. Taxila may have been the capital of the Achaemenid Persian province of Hindush, and its king, called Taxiles by the Greeks, submitted to Alexander the Great in 326 BCE. Buddhist texts say Ashoka governed it before becoming emperor and that Chanakya, adviser to Chandragupta Maurya, came from there. Indo-Greeks built the new city of Sirkap, and Indo-Scythians, Indo-Parthians and Kushans later ruled. The Chinese pilgrim Faxian visited around 400 CE, and Huna invaders devastated the region in the 5th century. Alexander Cunningham identified the ruins in the 19th century, John Marshall excavated them for about twenty years from 1913, and UNESCO listed Taxila in 1980.",
+   "alternatives": [
+    {
+     "label": "The first university?",
+     "text": "Taxila is often called one of the world's earliest universities, and texts describe students travelling there to study under teachers; many historians stress that, unlike Nalanda, there is no archaeological evidence for a single organised institution with halls and a library, so \"university\" may overstate it."
+    },
+    {
+     "label": "Legends in place-names",
+     "text": "Local tradition linked Sirkap (\"cut-off head\") to Buddhist stories in which the Buddha gave his head as an act of charity in a former life; such names show how Buddhist legend was mapped onto the landscape."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Taxila",
+     "url": "https://en.wikipedia.org/wiki/Taxila",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Dharmarajika_stupa%2CTaxila.jpg/500px-Dharmarajika_stupa%2CTaxila.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Dharmarajika_stupa,Taxila.jpg",
+     "author": "Sasha Isachenko",
+     "license": "CC BY-SA 3.0",
+     "title": "Dharmarajika_stupa,Taxila.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology",
+    "religion"
+   ],
+   "threads": [
+    "trade-networks",
+    "lost-libraries",
+    "silk-road",
+    "classical-world",
+    "travellers-tales"
+   ]
+  },
+  {
+   "id": "muziris-pattanam",
+   "title": "Muziris: Rome's pepper port in Kerala and the search for it at Pattanam",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -100,
+   "end": 1341,
+   "dateNote": "Peak of Roman trade about 1st century BCE to 2nd century CE; Pattanam excavated from 2007",
+   "evidenceTypes": [
+    "archaeological",
+    "textual"
+   ],
+   "mainstream": "Muziris (Tamil Muciri) was an ancient port on the Malabar Coast of southern India, in the Chera country, near the mouth of the Periyar River in modern Kerala. Early Tamil Sangam poems describe sacks of pepper piled up and gold arriving by ship. Greek and Roman sources, including the Periplus of the Erythraean Sea and Pliny the Elder, who called it 'the first emporium of India', describe it as a hub of the Indian Ocean spice trade. A 2nd-century CE Greek papyrus records a loan contract between merchants for a cargo shipped from Muziris to Alexandria in Egypt. Its location was long assumed to be near Kodungallur. Excavations from 2007 at Pattanam by the Kerala Council for Historical Research found Roman amphora fragments, glass and other imports, and some experts now favour that site.",
+   "alternatives": [
+    {
+     "label": "Is Pattanam really Muziris?",
+     "text": "The excavators and the Kerala government promoted Pattanam as the lost port, but some historians dispute the identification and the way the finds have been interpreted, arguing that the evidence shows a trading settlement without proving it was Muziris itself."
+    },
+    {
+     "label": "Lost to a flood",
+     "text": "Muziris is usually said to have vanished after a great flood of the Periyar in 1341 that reshaped the coast and opened the present harbour at Kochi. Historians Rajan Gurukkal and Dick Whittaker argue that this was only the most dramatic of many gradual changes in the landscape."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Muziris",
+     "url": "https://en.wikipedia.org/wiki/Muziris",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Amphorae_sherds%2C_Pattanam_excavation_site_%28Kerala%29.jpg/500px-Amphorae_sherds%2C_Pattanam_excavation_site_%28Kerala%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Amphorae_sherds,_Pattanam_excavation_site_(Kerala).jpg",
+     "author": "KannanVM",
+     "license": "CC BY-SA 4.0",
+     "title": "Amphorae sherds, Pattanam excavation site (Kerala).jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology"
+   ],
+   "threads": [
+    "changed-understanding",
+    "sunken-cities",
+    "trade-networks",
+    "classical-world"
+   ]
+  },
+  {
+   "id": "brihadisvara-temple",
+   "title": "The Big Temple of Thanjavur: Rajaraja Chola's granite mountain",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1003,
+   "end": null,
+   "dateNote": "Built 1003-1010 CE",
+   "statusNote": "temple confirmed; popular \"no-shadow\" claim is a myth",
+   "evidenceTypes": [
+    "architectural",
+    "epigraphic"
+   ],
+   "mainstream": "The Brihadisvara Temple (Rajarajeshvaram, the 'Big Temple') in Thanjavur, Tamil Nadu, is a Shaivite Hindu temple built by the Chola emperor Rajaraja I between 1003 and 1010 CE at the height of Chola power. Its granite vimana (tower) above the shrine is one of the tallest in South India, at about 66 m, and its top is described as a square granite block weighing around 80 tonnes. The walls carry long inscriptions recording donations, temple staff and land grants, which make it an important historical archive. With the Chola temples of Gangaikonda Cholapuram and Darasuram (Airavatesvara) it forms the UNESCO World Heritage Site of the Great Living Chola Temples.",
+   "alternatives": [
+    {
+     "label": "The shadowless tower",
+     "text": "A popular claim, repeated in tourist literature and online, says the tower's shadow never falls on the ground at noon. Any tall object casts a shadow, and close to the tropics the noon sun is high for part of the year, so the shadow is then short and falls mostly on the temple's own base. There is no evidence the builders designed this effect or recorded it."
+    },
+    {
+     "label": "A monument of empire",
+     "text": "Historians read the temple, its name (\"the lord of Rajaraja\") and its inscriptions, including one of 1011 CE naming the people employed by the temple with their roles and wages, as a statement of Rajaraja's imperial power as well as an act of devotion; how far it was planned as royal propaganda is a matter of interpretation."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Brihadisvara Temple",
+     "url": "https://en.wikipedia.org/wiki/Brihadisvara_Temple",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Brihadisvara_Temple_during_Maha_Shivaratri-WUS03611_%28edit%29.jpg/500px-Brihadisvara_Temple_during_Maha_Shivaratri-WUS03611_%28edit%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Brihadisvara_Temple_during_Maha_Shivaratri-WUS03611_(edit).jpg",
+     "author": "Original:  Rainer Halama\nDerivative work:  UnpetitproleX",
+     "license": "CC BY-SA 4.0",
+     "title": "Brihadisvara_Temple_during_Maha_Shivaratri-WUS03611_(edit).jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "religion",
+    "anomalies"
+   ],
+   "threads": [
+    "giant-monuments",
+    "ancient-astronomy",
+    "sacred-kingship",
+    "seeing-what-we-expect",
+    "myths-about-history"
+   ]
+  },
+  {
+   "id": "bhangarh-fort",
+   "title": "Bhangarh Fort: India's \"most haunted\" ruin and its two curses",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 3,
+   "start": 1573,
+   "end": null,
+   "dateNote": "Town founded 1573; legends of later origin",
+   "evidenceTypes": [
+    "oral tradition",
+    "architectural"
+   ],
+   "mainstream": "Bhangarh is a ruined 16th-century fort town on the edge of the Sariska tiger reserve in the Aravalli hills of Alwar district, Rajasthan, India. It was established under the Kachhwaha ruler Bhagwant Das as the residence of his son Madho Singh. Its temples, palace, havelis and bazaar street are well preserved, but the town was later abandoned. It is now a protected monument of the Archaeological Survey of India (ASI) and is often called the most haunted place in India.",
+   "alternatives": [
+    {
+     "label": "The sadhu's shadow",
+     "text": "One legend says a holy man living in the precinct (named in some versions as Guru Balu Nath) allowed the town to be built on condition that no house should cast a shadow on his own. When a raised palace did so, the town was destroyed."
+    },
+    {
+     "label": "The tantric and the princess",
+     "text": "Another tale says a priest who practised black magic fell for a beautiful princess (named Ratnavati in popular versions) and gave her an enchanted potion. She threw it onto a rock, which rolled onto him and crushed him, and as he died he cursed the town."
+    },
+    {
+     "label": "A notice, not a ghost certificate",
+     "text": "An ASI signboard at the entrance prohibits entry between sunset and sunrise and is often cited as official proof of a haunting. Sceptics and travel writers point out that the board does not mention ghosts and that dusk-to-dawn closure is a normal rule for unlit, unguarded ruins near wildlife. There is no evidence of paranormal activity."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Bhangarh Fort",
+     "url": "https://en.wikipedia.org/wiki/Bhangarh_Fort",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Bhangarh",
+     "url": "https://en.wikipedia.org/wiki/Bhangarh",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Notice_board_at_Bhangarh_Fort.jpg/500px-Notice_board_at_Bhangarh_Fort.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Notice_board_at_Bhangarh_Fort.jpg",
+     "author": "Manan2707",
+     "license": "CC BY-SA 4.0",
+     "title": "Notice board at Bhangarh Fort.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "anomalies"
+   ],
+   "threads": [
+    "seeing-what-we-expect",
+    "modern-legends",
+    "curses-and-hauntings",
+    "haunted-houses"
+   ]
+  },
+  {
+   "id": "jatinga-birds",
+   "title": "Jatinga: the hill village where birds \"commit suicide\"",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 3,
+   "start": 1960,
+   "end": null,
+   "dateNote": "Seasonal phenomenon publicised in the 1960s; recurs each autumn",
+   "statusNote": "bird deaths confirmed; \"suicide\" is a myth",
+   "evidenceTypes": [
+    "observational",
+    "ornithological"
+   ],
+   "mainstream": "Jatinga is a village of about 2,500 people, mostly Khasi with a Dimasa minority, on a ridge in Dima Hasao district, Assam, India. At the end of the monsoon season, roughly September to November, birds of many species become disoriented on dark, foggy, moonless evenings. They fly towards the village lights, where many are caught or killed. The tea planter and naturalist E. P. Gee, who visited with the ornithologist Salim Ali, brought the phenomenon to international attention in the 1960s, and it has since been nicknamed 'the Bermuda Triangle of birds'.",
+   "alternatives": [
+    {
+     "label": "Not suicide",
+     "text": "Ornithologists explain the deaths as disorientation, not suicide. Local and migrating birds disturbed by fog and strong winds at altitude, and lacking moonlight to navigate by, are drawn to artificial lights and then trapped or killed by people. Some villagers have deliberately used torches and lamps to lure them."
+    },
+    {
+     "label": "Mystery versus explanation",
+     "text": "The event is still promoted as a mystery, but the main open questions are scientific ones, such as which weather conditions and species are involved. Conservationists have encouraged pig farming as an alternative to eating the trapped birds, and bird-centred tourism has grown since the 1980s."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Jatinga",
+     "url": "https://en.wikipedia.org/wiki/Jatinga",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/View_of_Jatinga_near_Haflong%2CDima_Hasao.jpg/500px-View_of_Jatinga_near_Haflong%2CDima_Hasao.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:View_of_Jatinga_near_Haflong,Dima_Hasao.jpg",
+     "author": "Ruksana782",
+     "license": "CC BY 4.0",
+     "title": "View of Jatinga near Haflong,Dima Hasao.jpg"
+    }
+   ],
+   "categories": [
+    "anomalies",
+    "science-cosmos"
+   ],
+   "threads": [
+    "collective-experiences",
+    "seeing-what-we-expect",
+    "modern-legends"
+   ]
+  },
+  {
+   "id": "lac-long-quan-au-co",
+   "title": "Lạc Long Quân and Âu Cơ: the dragon, the mountain fairy and a hundred eggs",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": -2879,
+   "end": -258,
+   "dateNote": "Traditional dates 2879-258 BCE from a 15th-century chronicle",
+   "evidenceTypes": [
+    "textual",
+    "oral tradition"
+   ],
+   "mainstream": "In the Vietnamese origin myth, Lạc Long Quân, the 'Dragon Lord of Lạc', married Âu Cơ, a mountain fairy or goddess. She gave birth to a sac of 100 eggs, which hatched into 100 children. Saying 'I am descended from dragons, you from immortals; we are as incompatible as water and fire', the couple parted. Fifty children went with their father to the sea and fifty with their mother to the mountains. The eldest son became the first Hùng king, ruling the kingdom of Văn Lang from Phong Châu in present-day Phú Thọ province. The 15th-century chronicle Đại Việt sử ký toàn thư dates the Hồng Bàng period from 2879 BCE to the conquest of Văn Lang by An Dương Vương in 258 BCE. The Hùng Kings' commemoration day is a national holiday in Vietnam.",
+   "alternatives": [
+    {
+     "label": "Myth as national charter",
+     "text": "Historians read the story as a charter for Vietnamese identity. The Vietnamese word đồng bào (\"compatriot\") literally means \"from the same womb\", echoing the shared egg sac, and the split between sea and mountains may reflect the country's coastal lowlanders and highland peoples."
+    },
+    {
+     "label": "Legend and archaeology",
+     "text": "Many scholars regard the Hùng kings as legendary or semi-legendary, with a long reign list and dates set down much later. Others link the tradition to the real Bronze Age Đông Sơn culture of the Red River region, which flourished in the last centuries BCE, while noting that the 2879 BCE date cannot be confirmed."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Lạc Long Quân",
+     "url": "https://en.wikipedia.org/wiki/L%E1%BA%A1c_Long_Qu%C3%A2n",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Hồng Bàng dynasty",
+     "url": "https://en.wikipedia.org/wiki/H%E1%BB%93ng_B%C3%A0ng_dynasty",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Hùng king",
+     "url": "https://en.wikipedia.org/wiki/H%C3%B9ng_king",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Ph%C3%B9_%C4%91i%C3%AAu_Qu%E1%BB%91c_t%E1%BB%95_L%E1%BA%A1c_Long_Qu%C3%A2n_t%E1%BA%A1i_%C4%90%E1%BB%81n_N%E1%BB%99i_B%C3%ACnh_%C4%90%C3%A0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Ph%C3%B9_%C4%91i%C3%AAu_Qu%E1%BB%91c_t%E1%BB%95_L%E1%BA%A1c_Long_Qu%C3%A2n_t%E1%BA%A1i_%C4%90%E1%BB%81n_N%E1%BB%99i_B%C3%ACnh_%C4%90%C3%A0.jpg",
+     "author": "Unknown",
+     "license": "Public domain",
+     "title": "Phù_điêu_Quốc_tổ_Lạc_Long_Quân_tại_Đền_Nội_Bình_Đà.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "history"
+   ],
+   "threads": [
+    "serpent-beings",
+    "sacred-kingship",
+    "born-from-eggs",
+    "founding-ancestors",
+    "southeast-asian-kingdoms",
+    "myths-about-history"
+   ]
+  },
+  {
+   "id": "kuntilanak-pontianak",
+   "title": "The kuntilanak (pontianak): the white-clad ghost who named a city",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 3,
+   "start": 1771,
+   "end": null,
+   "dateNote": "Folklore of uncertain age; linked to the founding of Pontianak city in 1771",
+   "evidenceTypes": [
+    "oral tradition",
+    "folklore"
+   ],
+   "mainstream": "The kuntilanak (Indonesian) or pontianak (Malay) is a vengeful female ghost of Indonesia, Malaysia and Singapore, usually said to be the spirit of a woman who died in childbirth or linked to the stillborn child of the langsuir, another female ghost. She is often pictured as a beautiful long-haired woman in white who reveals a monstrous form, with long nails or fangs, to lure and attack men. Her presence is signalled by an infant's cry or the scent of frangipani (plumeria) mixed with the smell of decay. The city of Pontianak in West Kalimantan, Borneo, founded in 1771 by Syarif Abdurrahman Alkadrie, is traditionally said to take its name from her: the legend says the site was haunted by these ghosts until he drove them away with cannon fire.",
+   "alternatives": [
+    {
+     "label": "A widespread type",
+     "text": "The kuntilanak can be compared with other ghosts of women who died in pregnancy or childbirth, such as the churel of South Asia and La Llorona of Latin America, and see in these figures recurring anxieties about childbirth, death and women wronged by men."
+    },
+    {
+     "label": "Folk protection and film",
+     "text": "Folklore holds that driving a nail into the hole at the nape of her neck turns the pontianak into a beautiful woman and good wife until the nail is removed. Malaysian studios made a famous series of pontianak films from 1957, beginning with Cathay-Keris's Pontianak, and she remains a staple of Indonesian and Malaysian horror."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Kuntilanak",
+     "url": "https://en.wikipedia.org/wiki/Kuntilanak",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [],
+   "categories": [
+    "myth-legend"
+   ],
+   "threads": [
+    "shapeshifters",
+    "founding-ancestors",
+    "island-southeast-asia",
+    "night-demons"
+   ]
+  },
+  {
+   "id": "bujang-valley",
+   "title": "Bujang Valley: iron, temples and Southeast Asia's oldest brick monument",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 110,
+   "end": 1400,
+   "dateNote": "About 110 CE (earliest claimed) to 14th century",
+   "evidenceTypes": [
+    "archaeological",
+    "radiocarbon"
+   ],
+   "mainstream": "The Bujang Valley (Lembah Bujang) near Merbok in Kedah, Malaysia, between Mount Jerai and the Muda River, is the richest archaeological area in Malaysia. It belonged to the old kingdom of Kedah, an Indianised Hindu-Buddhist trading state on the route between India and China. More than 50 brick temples (candi) of about the 5th to 14th centuries CE have been excavated. At Sungai Batu, excavators from the Centre for Global Archaeological Research at Universiti Sains Malaysia, led by Mohd Mokhtar Saidin since 2008, have found jetty remains, iron-smelting sites and a clay-brick monument dated to about 110 CE, which they describe as the oldest recorded man-made structure in Southeast Asia. Since the extended site was recognised it has been proposed for the UNESCO World Heritage List.",
+   "alternatives": [
+    {
+     "label": "How early, and whose?",
+     "text": "The early Sungai Batu dates and the claim of the oldest monument in the region are debated by some archaeologists. So is the balance between local initiative and Indian influence in the rise of old Kedah."
+    },
+    {
+     "label": "Heritage under threat",
+     "text": "In 2013 a land developer demolished Candi No. 11, a temple about 1,200 years old, prompting outrage in Malaysia and abroad. The case highlighted how quickly unprotected sites can be lost."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Bujang Valley",
+     "url": "https://en.wikipedia.org/wiki/Bujang_Valley",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Muzium_Negara_KL19b.JPG/500px-Muzium_Negara_KL19b.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Muzium_Negara_KL19b.JPG",
+     "author": "Gryffindor",
+     "license": "CC BY 3.0",
+     "title": "Muzium_Negara_KL19b.JPG"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history"
+   ],
+   "threads": [
+    "trade-networks",
+    "rediscovered-civilisations",
+    "southeast-asian-kingdoms",
+    "island-southeast-asia"
+   ]
+  },
+  {
+   "id": "mahendraparvata-lidar",
+   "title": "Mahendraparvata: the Khmer city lidar found under the forest",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 802,
+   "end": null,
+   "dateNote": "Consecration of Jayavarman II traditionally 802 CE; lidar survey 2012",
+   "evidenceTypes": [
+    "lidar survey",
+    "archaeological",
+    "epigraphic"
+   ],
+   "mainstream": "Mahendraparvata ('mountain of the great Indra') is an early capital of the Khmer Empire on the Phnom Kulen plateau in Siem Reap Province, Cambodia, about 40 km north of Angkor Wat. According to later inscriptions, Jayavarman II was consecrated there as universal monarch in 802, the date traditionally taken as the founding of the Khmer Empire. Scattered temples on Kulen had long been known, but the city plan lay hidden under forest. In 2012 an expedition led by Damian Evans and Jean-Baptiste Chevance used helicopter-mounted lidar (airborne laser scanning) to reveal a grid of streets, embankments, ponds and temple mounds. The results were announced in June 2013 and published with the wider Angkor survey in PNAS.",
+   "alternatives": [
+    {
+     "label": "Why abandon it?",
+     "text": "Evans has suggested that deforestation and water-management problems contributed to the decline of the Kulen city, as they may later have done at Angkor; others place more weight on political shifts, and the causes are still being studied."
+    },
+    {
+     "label": "Lost cities and the jungle myth",
+     "text": "The discovery was widely reported as a \"lost city found\", although Kulen's temples, and its importance in Khmer tradition, were never forgotten locally; archaeologists stress that lidar mainly reveals the scale and layout of urban landscapes already partly known."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Uncovering archaeological landscapes at Angkor using lidar",
+     "authors": "Evans, D. et al.",
+     "year": 2013,
+     "doi": "10.1073/pnas.1306539110",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: Mahendraparvata",
+     "url": "https://en.wikipedia.org/wiki/Mahendraparvata",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Phnom_Kulen8.JPG/500px-Phnom_Kulen8.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Phnom_Kulen8.JPG",
+     "author": "Xufanc",
+     "license": "CC BY-SA 3.0",
+     "title": "Phnom Kulen8.JPG"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history",
+    "lost-civilisations"
+   ],
+   "threads": [
+    "changed-understanding",
+    "sacred-kingship",
+    "water-engineering",
+    "rediscovered-civilisations",
+    "southeast-asian-kingdoms",
+    "lidar-discoveries"
+   ]
   }
  ]
 }
