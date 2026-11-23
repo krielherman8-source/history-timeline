@@ -1,0 +1,86 @@
+{
+ "late-ordovician-extinction": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=mAkjETPM1s4",
+  "title": "How Plants Caused the First Mass Extinction",
+  "channel": "PBS Eons"
+ },
+ "ardipithecus-ardi": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=EC9aIth1ah4",
+  "title": "The Analysis of Ardipithecus ramidus -- One of the Earliest Known Hominids",
+  "channel": "Science Magazine"
+ },
+ "gigantopithecus": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=1qW256pUdYg",
+  "title": "What Happened to the World's Greatest Ape?",
+  "channel": "PBS Eons"
+ },
+ "acheulean-handaxes": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=srPz0VpW4Rk",
+  "title": "Ancient Humans Made Millions Of These - We Don’t Know Why",
+  "channel": "MinuteEarth"
+ },
+ "sahul-megafauna": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=Zdm-6P6AdcA",
+  "title": "How Ancient Art Captured Australian Megafauna",
+  "channel": "PBS Eons"
+ },
+ "niah-deep-skull": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=9tS7XP3K5ts",
+  "title": "‘Phenomenal’ 40,000-Year-Old Discovery In The Great Cave of Niah | BBC Timestamp",
+  "channel": "BBC Timestamp"
+ },
+ "keezhadi": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=D9mO5MDmy1M",
+  "title": "Inside Keeladi: The ancient Indian site revealing the past | BBC News India",
+  "channel": "BBC News India"
+ },
+ "muziris-pattanam": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=uVAPqZQ0mgU",
+  "title": "Have archaeologists found India’s lost port of Muziris? - BBC News",
+  "channel": "BBC News"
+ },
+ "bhangarh-fort": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=a5Mn80uX4mk",
+  "title": "Is this India's 'most haunted' site? – BBC REEL",
+  "channel": "BBC Global"
+ },
+ "great-american-interchange": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=PddQvyiBfdc",
+  "title": "What happens when continents collide? - Juan D. Carrillo",
+  "channel": "TED-Ed"
+ },
+ "ciudad-perdida": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=-lwf1JmmdLY",
+  "title": "Exploring Ciudad Perdida | Lost Cities With Albert Lin",
+  "channel": "National Geographic"
+ },
+ "herero-nama-genocide": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=EYh5PsxpoGg",
+  "title": "Before the Holocaust: Germany's genocide in Namibia | People & Power Documentary",
+  "channel": "Al Jazeera English"
+ },
+ "mahendraparvata-lidar": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=o6Kq4XF1zKU",
+  "title": "How LIDAR Scans Reveal Angkor's Hidden City",
+  "channel": "Smithsonian Channel"
+ },
+ "caracol-maya": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=DsxWUUTPPbk",
+  "title": "Climb Ancient Temples in Belize's Maya Ruins | National Geographic",
+  "channel": "National Geographic"
+ }
+}

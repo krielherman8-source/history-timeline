@@ -1,0 +1,82 @@
+{
+ "burgess-shale": [
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=RDQa0okkpf0",
+   "title": "From the Cambrian Explosion to the Great Dying",
+   "channel": "PBS Eons"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=ZiqpnhwJsaw",
+   "title": "Could You Survive The Cambrian Explosion?",
+   "channel": "PBS Eons"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=Aji2VnQFUCs",
+   "title": "The Trouble With Trilobites",
+   "channel": "PBS Eons"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=KfYn9KVya-Q",
+   "title": "The Whole Saga of the Supercontinents",
+   "channel": "PBS Eons"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=ipkBmbi6k5c",
+   "title": "These Fossils Were Supposed To Be Impossible",
+   "channel": "PBS Eons"
+  }
+ ],
+ "archaeopteryx": [],
+ "florisbad-skull": [],
+ "bluefish-caves": [],
+ "lonar-crater": [],
+ "sinauli-carts": [],
+ "taxila": [],
+ "brihadisvara-temple": [],
+ "jatinga-birds": [],
+ "lac-long-quan-au-co": [],
+ "kuntilanak-pontianak": [],
+ "bujang-valley": [],
+ "mahendraparvata-lidar": [
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=o6Kq4XF1zKU",
+   "title": "How LIDAR Scans Reveal Angkor's Hidden City",
+   "channel": "Smithsonian Channel"
+  }
+ ],
+ "spirit-cave-mummy": [],
+ "etowah-mounds": [
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=2i2UwonT0Fc",
+   "title": "Etowah Mound (Cartersville, Georgia) Ep: 003 | The Buried Country",
+   "channel": "The Meta-Center TV"
+  }
+ ],
+ "caracol-maya": [
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=DsxWUUTPPbk",
+   "title": "Climb Ancient Temples in Belize's Maya Ruins | National Geographic",
+   "channel": "National Geographic"
+  }
+ ],
+ "canudos-war": [],
+ "fordlandia": [],
+ "batavia-wreck-1629": [],
+ "leluh-kosrae": [],
+ "drop-bear": [],
+ "koumbi-saleh": [],
+ "khami-ruins": [],
+ "thimlich-ohinga": [],
+ "harar-hyenas": [],
+ "bambatha-rebellion": [],
+ "maji-maji-rebellion": [],
+ "mbuya-nehanda": []
+}
