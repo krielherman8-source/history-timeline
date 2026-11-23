@@ -36,7 +36,7 @@ function ticks(){var a=Math.max(Math.pow(10,uMin)-OFF,0),b=Math.pow(10,uMax)-OFF
   vals.forEach(function(v){var key=(cal?'y':'a')+v;if(seen[key])return;seen[key]=1;
    if(cal&&v>NOWY)return;out.push(cal?{y:v===0?1:v,u:toU(v===0?1:v)}:{v:v,u:Math.log10(v+OFF)});});})();});
  return out;} // coarse->fine: rounder values claim label space first
-function draw(){x.setTransform(window.devicePixelRatio||1,0,0,window.devicePixelRatio||1,0,0);x.fillStyle='#000';x.fillRect(0,0,W,H);
+function draw(){if(window.TLBG)TLBG.setView(uMin,uMax,W,H);x.setTransform(window.devicePixelRatio||1,0,0,window.devicePixelRatio||1,0,0);x.clearRect(0,0,W,H);
  var L=Math.round(H/2)+0.5;hits=[];
  x.strokeStyle='#fff';x.lineWidth=2;x.beginPath();x.moveTo(0,L);x.lineTo(W,L);x.stroke();x.lineWidth=1;
  x.font='11px sans-serif';x.textAlign='center';x.textBaseline='alphabetic';var used=[],GAP=10;
