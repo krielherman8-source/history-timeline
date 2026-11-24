@@ -1,0 +1,44 @@
+{
+ "vampire-burials": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=-sNkgsG3qPU",
+  "title": "The Grave of a Woman Buried as a Vampire | Secrets of the Dead | Full Episode | PBS",
+  "channel": "PBS"
+ },
+ "plogojowitz-1725": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=_0ThKRmySoU",
+  "title": "Vampires: Folklore, fantasy, and fact - Michael Molina",
+  "channel": "TED-Ed"
+ },
+ "botai-horses": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=px9Ljv0bits",
+  "title": "How Horses Went From Food To Friends",
+  "channel": "PBS Eons"
+ },
+ "otrar-1219": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=Eq-Wk3YqeH4",
+  "title": "History vs. Genghis Khan - Alex Gendler",
+  "channel": "TED-Ed"
+ },
+ "holodomor": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=lejDbulJN54",
+  "title": "How Stalin starved Ukraine",
+  "channel": "Vox"
+ },
+ "kyshtym-1957": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=oWqk5CUTvWk",
+  "title": "The huge nuclear disaster hidden by the Soviets - BBC REEL",
+  "channel": "BBC Global"
+ },
+ "prague-orloj": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=WGmxb3EnWp8",
+  "title": "Prague's 600-year-old medieval clock returned | euronews Living",
+  "channel": "Euronews Earth"
+ }
+}

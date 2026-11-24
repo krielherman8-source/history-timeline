@@ -1,0 +1,546 @@
+{
+ "perun-thunder-god": [],
+ "veles-serpent-god": [],
+ "mokosh": [],
+ "rusalka": [],
+ "domovoy": [],
+ "leshy": [],
+ "kupala-night": [],
+ "morana-marzanna": [],
+ "zbruch-idol": [
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=A2xLLgYOlWQ",
+   "title": "Shattering Theories | The Lost Civilisation of Peru | BBC Studios",
+   "channel": "BBC Studios"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=1IVlILdETAw",
+   "title": "What happens if you accidentally eat moldy food? - Josephine Wee",
+   "channel": "TED-Ed"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=fqL9dt6QHWg",
+   "title": "5 of the most dangerous scientific discoveries - Shannon Odell",
+   "channel": "TED-Ed"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=B9XYtPqWLB4",
+   "title": "Frida Kahlo: The woman behind the legend - Iseult Gillespie",
+   "channel": "TED-Ed"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=GmtcxWswrB8",
+   "title": "The myth of the stolen eyeballs - Nathan D. Horowitz",
+   "channel": "TED-Ed"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=li1kO3hg4iE",
+   "title": "Why do we have crooked teeth when our ancestors didn’t? - G. Richard Scott",
+   "channel": "TED-Ed"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=dOqqBQ5Ha6Q",
+   "title": "What is \"The Thinker\" actually thinking about? - Noah Charney",
+   "channel": "TED-Ed"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=5FXnPL2EaEU",
+   "title": "Why didn’t this 2,000 year old body decompose? - Carolyn Marshall",
+   "channel": "TED-Ed"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=o9Kum_Jijdk",
+   "title": "The many meanings of Michelangelo's Statue of David - James Earle",
+   "channel": "TED-Ed"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=qfITRYcnP84",
+   "title": "A brief history of religion in art - TED-Ed",
+   "channel": "TED-Ed"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=JX02QQXfb_o",
+   "title": "The chaotic brilliance of artist Jean-Michel Basquiat - Jordana Moore Saggese",
+   "channel": "TED-Ed"
+  }
+ ],
+ "arkona-svantevit": [
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=1yv_MXNYbAo",
+   "title": "The Egyptian Book of the Dead: A guidebook for the underworld - Tejal Gala",
+   "channel": "TED-Ed"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=LaLvVc1sS20",
+   "title": "The history of tea - Shunan Teng",
+   "channel": "TED-Ed"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=DMMPYkRrd4o",
+   "title": "Could we actually live on Mars? - Mari Foroutan",
+   "channel": "TED-Ed"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=jf_4z4AKwJg",
+   "title": "Where does gold come from? - David Lunney",
+   "channel": "TED-Ed"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=yjZUhMq8SuI",
+   "title": "Is this really the \"ugliest\" animal?",
+   "channel": "TED-Ed Student Talks"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=o-C5vgmCYbk",
+   "title": "Perfectionism: the mentor I've outgrown",
+   "channel": "TED-Ed Student Talks"
+  }
+ ],
+ "rethra": [
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=lfe1wEQzSzM",
+   "title": "Where did Russia come from? - Alex Gendler",
+   "channel": "TED-Ed"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=4dEf1ep3O9I",
+   "title": "The mysterious life and death of Rasputin - Eden Girma",
+   "channel": "TED-Ed"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=33cP54FcERA",
+   "title": "A day in the life of a Cossack warrior - Alex Gendler",
+   "channel": "TED-Ed"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=uJ_d-UD0xPE",
+   "title": "History vs. Russia’s most infamous empress - Carolyn Harris",
+   "channel": "TED-Ed"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=ylS_Uff2oMM",
+   "title": "What happened to the lost Kingdom of Kush? - Geoff Emberling",
+   "channel": "TED-Ed"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=JycXLG6GeYk",
+   "title": "The Egyptian myth of Isis and the seven scorpions - Alex Gendler",
+   "channel": "TED-Ed"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=Qytj-DbXMKQ",
+   "title": "How Thor got his hammer - Scott A. Mellor",
+   "channel": "TED-Ed"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=Gjj_-CPxjCM",
+   "title": "The myth of Cupid and Psyche - Brendan Pelsue",
+   "channel": "TED-Ed"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=Z8dZSySRX_g",
+   "title": "Why was the Rosetta Stone so important? - Franziska Naether",
+   "channel": "TED-Ed"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=e6XeP9gQPmg",
+   "title": "The myth of Thor's journey to the land of giants - Scott A. Mellor",
+   "channel": "TED-Ed"
+  }
+ ],
+ "wawel-dragon": [],
+ "lech-czech-rus": [
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=lfe1wEQzSzM",
+   "title": "Where did Russia come from? - Alex Gendler",
+   "channel": "TED-Ed"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=4dEf1ep3O9I",
+   "title": "The mysterious life and death of Rasputin - Eden Girma",
+   "channel": "TED-Ed"
+  }
+ ],
+ "libuse-prague": [
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=GmtcxWswrB8",
+   "title": "The myth of the stolen eyeballs - Nathan D. Horowitz",
+   "channel": "TED-Ed"
+  }
+ ],
+ "biskupin": [
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=GhdKcGdB7QQ",
+   "title": "A closer look at 2500 year old treasures | BBC Timestamp",
+   "channel": "BBC Timestamp"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=8kJiOu8dTa8",
+   "title": "The Stone That Forged an Age: Secrets of Ancient Metalworkers | BBC Timestamp",
+   "channel": "BBC Timestamp"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=tobp1ZAaYvM",
+   "title": "Did archaeologists just find North America's second Viking settlement? | BBC Timestamp",
+   "channel": "BBC Timestamp"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=u6MmvTzOqYw",
+   "title": "7 ancient artefacts that reveal our lost history | BBC Timestamp",
+   "channel": "BBC Timestamp"
+  }
+ ],
+ "book-of-veles": [
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=Y5JdbuBe6SY",
+   "title": "The art forger who tricked the Nazis - Noah Charney",
+   "channel": "TED-Ed"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=wYQWh8VGL3M",
+   "title": "How (and why) to read William Faulkner - Sascha Morrell",
+   "channel": "TED-Ed"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=oe64p-QzhNE",
+   "title": "What \"Orwellian\" really means - Noah Tavlin",
+   "channel": "TED-Ed"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=8NS4CbBJQ84",
+   "title": "The world’s most mysterious book - Stephen Bax",
+   "channel": "TED-Ed"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=_YqYtdPUis4",
+   "title": "The evolution of the book - Julie Dreyfuss",
+   "channel": "TED-Ed"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=98pNh3LtV8c",
+   "title": "The secret formula to Agatha Christie's murder mysteries - Jamie Bernthal",
+   "channel": "TED-Ed"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=mJeLGd3JV2I",
+   "title": "Infinity according to Jorge Luis Borges - Ilan Stavans",
+   "channel": "TED-Ed"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=dDUPu6tMWHY",
+   "title": "Why should you read \"Don Quixote\"? - Ilan Stavans",
+   "channel": "TED-Ed"
+  }
+ ],
+ "tale-of-igor": [
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=4dEf1ep3O9I",
+   "title": "The mysterious life and death of Rasputin - Eden Girma",
+   "channel": "TED-Ed"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=9wSOt3z_-YY",
+   "title": "History's \"worst\" nun - Theresa A. Yugar",
+   "channel": "TED-Ed"
+  }
+ ],
+ "prague-orloj": [],
+ "jan-hus": [],
+ "onfim-birch-bark": [],
+ "turul": [
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=eAQ1Ee5kTMQ",
+   "title": "The spear-wielding stork who revolutionized science - Lucy Cooke",
+   "channel": "TED-Ed"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=hPLgfGX1I5Y",
+   "title": "How did feathers evolve? - Carl Zimmer",
+   "channel": "TED-Ed"
+  }
+ ],
+ "ilya-muromets": [
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=ZsiHrK9DvvQ",
+   "title": "A day in the life of an ancient Babylonian business mogul - Soraya Field Fiorio",
+   "channel": "TED-Ed"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=q5WEuoxYIac",
+   "title": "The tale of the brothers who outwitted the demon queen - Malay Bera",
+   "channel": "TED-Ed"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=mRa0Gi_mRjs",
+   "title": "A 5,300-year-old murder mystery - Albert Zink",
+   "channel": "TED-Ed"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=XhNw1BhV6sw",
+   "title": "The princess exiled from ancient Mesopotamia - Soraya Field Fiorio",
+   "channel": "TED-Ed"
+  }
+ ],
+ "svyatogor": [
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=1IVlILdETAw",
+   "title": "What happens if you accidentally eat moldy food? - Josephine Wee",
+   "channel": "TED-Ed"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=fqL9dt6QHWg",
+   "title": "5 of the most dangerous scientific discoveries - Shannon Odell",
+   "channel": "TED-Ed"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=1yv_MXNYbAo",
+   "title": "The Egyptian Book of the Dead: A guidebook for the underworld - Tejal Gala",
+   "channel": "TED-Ed"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=LaLvVc1sS20",
+   "title": "The history of tea - Shunan Teng",
+   "channel": "TED-Ed"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=vtjHHnu_IB0",
+   "title": "The tale of the boy who tricked a tyrant - Paschal Kyiiripuo Kyoore",
+   "channel": "TED-Ed"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=jLOuMXnM5wk",
+   "title": "The best way to become good at something might surprise you - David Epstein",
+   "channel": "TED-Ed"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=USW8yf4L-R4",
+   "title": "What happens to your brain without any social contact? - Terry Kupers",
+   "channel": "TED-Ed"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=33cP54FcERA",
+   "title": "A day in the life of a Cossack warrior - Alex Gendler",
+   "channel": "TED-Ed"
+  }
+ ],
+ "sadko": [
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=lfe1wEQzSzM",
+   "title": "Where did Russia come from? - Alex Gendler",
+   "channel": "TED-Ed"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=Qytj-DbXMKQ",
+   "title": "How Thor got his hammer - Scott A. Mellor",
+   "channel": "TED-Ed"
+  }
+ ],
+ "sarmizegetusa-regia": [],
+ "zalmoxis": [],
+ "elizabeth-bathory": [],
+ "mohacs-1526": [],
+ "plogojowitz-1725": [
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=_0ThKRmySoU",
+   "title": "Vampires: Folklore, fantasy, and fact - Michael Molina",
+   "channel": "TED-Ed"
+  }
+ ],
+ "vampire-burials": [
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=-sNkgsG3qPU",
+   "title": "The Grave of a Woman Buried as a Vampire | Secrets of the Dead | Full Episode | PBS",
+   "channel": "PBS"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=wmiB69bxiUA",
+   "title": "Vampires in Poland? | Secrets of the Dead | PBS",
+   "channel": "PBS"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=-sNkgsG3qPU",
+   "title": "The Grave of a Woman Buried as a Vampire | Secrets of the Dead | Full Episode | PBS",
+   "channel": "PBS"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=wmiB69bxiUA",
+   "title": "Vampires in Poland? | Secrets of the Dead | PBS",
+   "channel": "PBS"
+  }
+ ],
+ "bucegi-sphinx": [],
+ "hoia-baciu-forest": [],
+ "botai-horses": [
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=_uhIhkuh6zo",
+   "title": "How the Mongols used horses to create an empire - William T. Taylor",
+   "channel": "TED-Ed"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=px9Ljv0bits",
+   "title": "How Horses Went From Food To Friends",
+   "channel": "PBS Eons"
+  }
+ ],
+ "otrar-1219": [
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=iXRfDnCB9Xs",
+   "title": "Genghis Khan | BBC Select",
+   "channel": "BBC Select"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=Eq-Wk3YqeH4",
+   "title": "History vs. Genghis Khan - Alex Gendler",
+   "channel": "TED-Ed"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=wUVvTqvjUaM",
+   "title": "The rise and fall of the Mongol Empire - Anne F. Broadbridge",
+   "channel": "TED-Ed"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=wz4k6d2reAI",
+   "title": "A day in the life of a Mongolian queen - Anne F. Broadbridge",
+   "channel": "TED-Ed"
+  }
+ ],
+ "chud-legend": [
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=s-kDttqywJ4",
+   "title": "The twins who tricked the Maya gods of death - Ilan Stavans",
+   "channel": "TED-Ed"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=arlTwhiMxVM",
+   "title": "The Taino myth of the cursed creator - Bill Keegan",
+   "channel": "TED-Ed"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=pFRXY8bV_ug",
+   "title": "When ancient wisdom beats modern industry - Rebecca Webster",
+   "channel": "TED-Ed"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=9wSOt3z_-YY",
+   "title": "History's \"worst\" nun - Theresa A. Yugar",
+   "channel": "TED-Ed"
+  }
+ ],
+ "holodomor": [
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=lejDbulJN54",
+   "title": "How Stalin starved Ukraine",
+   "channel": "Vox"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=yPplN7PSUE4",
+   "title": "Holodomor: How Millions Of Ukrainians Died of Starvation During Stalin-Era Mass Famine",
+   "channel": "Radio Free Europe/Radio Liberty"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=RC6Mb-b85wM",
+   "title": "Memories of Ukraine’s Great Famine fuel resentment of Russia - BBC News",
+   "channel": "BBC News"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=lejDbulJN54",
+   "title": "How Stalin starved Ukraine",
+   "channel": "Vox"
+  },
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=yPplN7PSUE4",
+   "title": "Holodomor: How Millions Of Ukrainians Died of Starvation During Stalin-Era Mass Famine",
+   "channel": "Radio Free Europe/Radio Liberty"
+  }
+ ],
+ "katyn-1940": [],
+ "kyshtym-1957": [
+  {
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=oWqk5CUTvWk",
+   "title": "The huge nuclear disaster hidden by the Soviets - BBC REEL",
+   "channel": "BBC Global"
+  }
+ ],
+ "medjugorje-1981": []
+}
