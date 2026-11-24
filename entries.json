@@ -83013,6 +83013,615 @@
     "prophecies",
     "last-pagan-sanctuaries"
    ]
+  },
+  {
+   "id": "wawel-dragon",
+   "title": "The Wawel Dragon of Kraków and the \"dragon bones\" at the cathedral door",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": 700,
+   "end": null,
+   "dateNote": "Set in legendary times before the 10th century; first written c. 1200",
+   "evidenceTypes": [
+    "textual",
+    "folklore",
+    "palaeontological"
+   ],
+   "mainstream": "In Polish legend a dragon (Smok Wawelski) lived in a cave beneath Wawel Hill in Kraków and devoured cattle and people until it was tricked into eating a carcass stuffed with burning sulphur. The oldest version, in the 13th-century chronicle of Bishop Wincenty Kadłubek, credits the sons of the legendary King Krak (Krakus); a 14th-century chronicle credits Krak himself; and Marcin Bielski's chronicle of 1597 gives the credit to a cobbler called Skuba, the version best known today. The 'Dragon's Den' (Smocza Jama) is a real limestone cave under the hill. Bones hanging on a chain at the entrance of Wawel Cathedral, brought there in medieval times as dragon remains, are now identified as bones of a whale and Pleistocene animals; local tradition says the world will end if they fall.",
+   "alternatives": [
+    {
+     "label": "Fossils behind dragons",
+     "text": "Like other \"dragon bones\" displayed in European churches, the Wawel bones show how fossil and large animal remains were interpreted as proof of dragons; some writers argue such finds helped inspire the legends themselves."
+    },
+    {
+     "label": "Borrowed story",
+     "text": "Scholars note the sulphur-bait trick closely resembles older tales, such as the Babylonian-Jewish story of Daniel killing a dragon with pitch, fat and hair, and a sulphur trick in the Syriac Alexander Romance, suggesting the plot travelled."
+    },
+    {
+     "label": "Founding myth",
+     "text": "The legend links the slaying of a monster to the founding of Kraków and of a royal line, a common pattern in dragon-slayer foundation stories across Europe and Asia."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Wawel Dragon",
+     "url": "https://en.wikipedia.org/wiki/Wawel_Dragon",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Krakus",
+     "url": "https://en.wikipedia.org/wiki/Krakus",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/M%C3%BCnster_wawelski.jpg/500px-M%C3%BCnster_wawelski.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:M%C3%BCnster_wawelski.jpg",
+     "author": "Sebastian Münster",
+     "license": "Public domain",
+     "title": "Münster_wawelski.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "science-cosmos"
+   ],
+   "threads": [
+    "dragons-and-fossils",
+    "founding-ancestors",
+    "slavic-worlds",
+    "dragon-slayers"
+   ]
+  },
+  {
+   "id": "lech-czech-rus",
+   "title": "Lech, Czech and Rus: three brothers and the white eagle",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 3,
+   "start": 600,
+   "end": null,
+   "dateNote": "Set in the early Slavic migration period; written down 12th-14th centuries",
+   "evidenceTypes": [
+    "textual",
+    "folklore"
+   ],
+   "mainstream": "A founding legend tells of three Slavic brothers who set out with their peoples: Rus went east, Čech (Czech) settled at the mountain Říp in Bohemia, and Lech travelled north, where he saw a white eagle guarding its nest against a red sunset, founded Gniezno (from gniazdo, 'nest') and took the eagle as his emblem, which remains Poland's coat of arms and the colours of its flag. Čech appears alone (as 'Bohemus') in Cosmas of Prague's chronicle of 1125; the Chronicle of Dalimil (1314) has him look out from Říp over a 'land of milk and honey'; the three brothers appear together first in the Chronicle of Greater Poland (late 13th-early 14th century).",
+   "alternatives": [
+    {
+     "label": "Legend, not history",
+     "text": "Historians treat the brothers as eponymous ancestors invented to explain the names of peoples (Lechia, Czechia, Rus') and their kinship, a pattern found in many cultures, such as the sons of Noah in Genesis."
+    },
+    {
+     "label": "Memory of migration",
+     "text": "Some writers suggest the story preserves a distant memory of Slavic migrations in the 6th-7th centuries; the archaeological and genetic picture of these migrations is real, but the legend itself offers no independent evidence."
+    },
+    {
+     "label": "National politics",
+     "text": "The best-known version is Poland-centred, giving the eagle only to Lech; versions in different countries emphasise their own brother."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Lech, Czech, and Rus",
+     "url": "https://en.wikipedia.org/wiki/Lech%2C_Czech%2C_and_Rus",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Chronica_Polonorum_Lech_%26_Czech.jpg/500px-Chronica_Polonorum_Lech_%26_Czech.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Chronica_Polonorum_Lech_%26_Czech.jpg",
+     "author": "Maciej Miechowita",
+     "license": "Public domain",
+     "title": "Chronica_Polonorum_Lech_&_Czech.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "history"
+   ],
+   "threads": [
+    "ancestral-homelands",
+    "founding-ancestors",
+    "slavic-worlds",
+    "royal-propaganda",
+    "myths-about-history"
+   ]
+  },
+  {
+   "id": "libuse-prague",
+   "title": "Libuše: the prophetess who foresaw Prague",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": 700,
+   "end": null,
+   "dateNote": "Legendary, set in the 8th century; first written c. 1120",
+   "evidenceTypes": [
+    "textual",
+    "folklore"
+   ],
+   "mainstream": "According to the Bohemian chronicle of Cosmas of Prague (c. 1120), Libuše was the youngest and wisest of three sisters and ruled the Czechs as judge and seer. When men resented being ruled by a woman she had a vision of a ploughman with one broken sandal; her envoys followed her horse to the village of Stadice, found Přemysl ploughing, and she married him, founding the Přemyslid dynasty, which actually ruled Bohemia until 1306. Later tradition has her stand on a cliff above the Vltava and prophesy 'a great city whose glory will touch the stars', the founding of Prague. Her story inspired Smetana's opera Libuše and is part of Czech national identity.",
+   "alternatives": [
+    {
+     "label": "Myth with historical anchor",
+     "text": "The Přemyslid dynasty is historical, but Libuše, Přemysl the Ploughman and the earliest rulers in Cosmas's list are regarded as legendary; there is no contemporary evidence for them."
+    },
+    {
+     "label": "A misread source?",
+     "text": "The musicologist Vladimír Karbusický suggested Cosmas may have built the names of the first Přemyslids from misreading an older text; this is a speculative but discussed theory."
+    },
+    {
+     "label": "Woman ruler motif",
+     "text": "Some scholars see in the legend memories of female religious authority among early Slavs, while others read it as a medieval tale justifying male rule (she is made to marry); both are interpretations."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Libuše",
+     "url": "https://en.wikipedia.org/wiki/Libu%C5%A1e",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Premysl_and_Libuse_Vysehrad_Prague_CZ_815.jpg/500px-Premysl_and_Libuse_Vysehrad_Prague_CZ_815.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Premysl_and_Libuse_Vysehrad_Prague_CZ_815.jpg",
+     "author": "No machine-readable author provided. Miaow Miaow assumed (based on copyright claims).",
+     "license": "Public domain",
+     "title": "Premysl_and_Libuse_Vysehrad_Prague_CZ_815.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "history"
+   ],
+   "threads": [
+    "sacred-kingship",
+    "visionary-women",
+    "founding-ancestors",
+    "slavic-worlds",
+    "royal-propaganda",
+    "prophecies"
+   ]
+  },
+  {
+   "id": "biskupin",
+   "title": "Biskupin: a Bronze-Iron Age fortified town used as a political weapon",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -738,
+   "end": null,
+   "dateNote": "Built 8th century BC (commonly c. 738-737 BC, dendrochronology); discovered 1933",
+   "evidenceTypes": [
+    "archaeological",
+    "dendrochronology",
+    "radiocarbon"
+   ],
+   "mainstream": "Biskupin in north-central Poland is a fortified settlement of the Lusatian culture built on a peninsula in a lake in the 8th century BC; tree-ring dating of its timbers places construction in the 8th century BC, commonly given as about 738-737 BC. It had a wooden rampart, a single gate, about 100 oak and pine log houses in neat rows and log-paved streets, home to perhaps 1,000 people. A schoolteacher, Walenty Szwajcer, noticed timbers in the lake in 1933, and Józef Kostrzewski and Zdzisław Rajewski excavated it. Waterlogging preserved the wood. It is now an open-air museum with reconstructions.",
+   "alternatives": [
+    {
+     "label": "Proto-Slavic propaganda",
+     "text": "In the 1930s Polish nationalists presented it as evidence that ancestors of Poles had defended themselves against Germanic invaders 2,700 years ago; when Germany occupied Poland in 1939 it was renamed \"Urstädt\" and Nazi archaeologists of the SS-Ahnenerbe dug there to claim a Germanic origin. Modern archaeologists say the Lusatian culture cannot be assigned to any modern nation."
+    },
+    {
+     "label": "Flooded to destroy, preserved instead",
+     "text": "Retreating German forces flooded the site in 1945; the water ironically helped preserve the timbers."
+    },
+    {
+     "label": "Why abandoned?",
+     "text": "It was abandoned within a few centuries, perhaps because of rising lake levels, a wetter climate or conflict; the cause is not settled."
+    }
+   ],
+   "changed": "1930s: hailed as a proto-Slavic \"Polish Pompeii\"; 1940-45: claimed as Germanic by the SS-Ahnenerbe; postwar: assigned to the Lusatian culture with no direct link to any modern nation.",
+   "sources": [
+    {
+     "title": "Wikipedia: Biskupin",
+     "url": "https://en.wikipedia.org/wiki/Biskupin",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Brama_biskupi%C5%84ska.jpg/500px-Brama_biskupi%C5%84ska.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Brama_biskupi%C5%84ska.jpg",
+     "author": "Luczkab16",
+     "license": "CC BY-SA 4.0",
+     "title": "Brama_biskupińska.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history"
+   ],
+   "threads": [
+    "changed-understanding",
+    "knowledge-and-power",
+    "slavic-worlds",
+    "royal-propaganda",
+    "myths-about-history"
+   ]
+  },
+  {
+   "id": "book-of-veles",
+   "title": "The Book of Veles: a \"lost pagan chronicle\" on wooden planks",
+   "lane": "history",
+   "status": "debunked",
+   "priority": 2,
+   "start": 1919,
+   "end": null,
+   "dateNote": "Allegedly found 1919, lost 1941, published 1957-59",
+   "evidenceTypes": [
+    "textual",
+    "linguistic"
+   ],
+   "mainstream": "The Book of Veles is a text claimed to be an ancient Slavic religious history carved on 35 or more wooden planks. According to Yuri Mirolyubov, a White Army officer, Fyodor Isenbeck, found the planks in 1919 in a looted manor near Kharkiv, took them to Brussels, and Mirolyubov spent 15 years copying them before they were lost when Isenbeck died in 1941 during the German occupation. Only Mirolyubov's transcriptions and one photograph exist. They were published in the émigré magazine Zhar-Ptitsa in San Francisco from 1957 to 1959. Specialists in Slavic linguistics and history, including Boris Rybakov, Andrey Zaliznyak and Leo Klejn, regard it as a 20th-century forgery: its language is an inconsistent mixture that matches no known stage of any Slavic language.",
+   "alternatives": [
+    {
+     "label": "Supporters",
+     "text": "The text is popular among some Slavic neopagans and nationalist writers in Russia and Ukraine, who treat it as a genuine record of a glorious pre-Christian past; this view has no support in academic linguistics."
+    },
+    {
+     "label": "Who forged it?",
+     "text": "Most scholars point to Mirolyubov and his collaborators in the 1940s-50s; a less favoured view suggests the 19th-century forger Alexander Sulakadzev."
+    },
+    {
+     "label": "Why it matters",
+     "text": "It is often cited as an example of a \"suppressed ancient book\" story, alongside other forgeries discussed in this timeline."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Book of Veles",
+     "url": "https://en.wikipedia.org/wiki/Book_of_Veles",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Vlesknig.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Vlesknig.png",
+     "author": "probably Yuriy Mirolyubov",
+     "license": "Public domain",
+     "title": "Vlesknig.png"
+    }
+   ],
+   "categories": [
+    "hoaxes",
+    "religion",
+    "myth-legend"
+   ],
+   "threads": [
+    "knowledge-and-power",
+    "lost-evidence",
+    "forged-documents",
+    "hidden-scriptures",
+    "slavic-worlds",
+    "fringe-theories",
+    "literary-forgeries",
+    "contested-texts"
+   ]
+  },
+  {
+   "id": "tale-of-igor",
+   "title": "The Tale of Igor's Campaign: medieval masterpiece or clever forgery?",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 1185,
+   "end": null,
+   "dateNote": "Events of 1185; manuscript found c. 1795, burned 1812",
+   "statusNote": "Mainstream accepts authenticity; minority forgery view persists",
+   "evidenceTypes": [
+    "textual",
+    "linguistic"
+   ],
+   "mainstream": "The Tale of Igor's Campaign (Slovo o polku Igoreve) is an Old East Slavic poem about the failed raid of Prince Igor Svyatoslavich of Novgorod-Seversky against the Polovtsians (Cumans) in 1185, which the Kyivan Chronicle independently records, including a solar eclipse on 1 May 1185. Its only known manuscript, said to be a 15th-16th century copy, was acquired around 1795 by Count Aleksei Musin-Pushkin from a monastery in Yaroslavl, published in 1800, and then destroyed in the Moscow fire of 1812, leaving only the printed edition and a copy made for Catherine the Great. It mixes Christian and pagan imagery (naming Veles, Dazhbog, Stribog and Khors) and is a foundational work of Russian and Ukrainian literature.",
+   "alternatives": [
+    {
+     "label": "Forgery theories",
+     "text": "Because the manuscript vanished, some scholars, including the French Slavist André Mazon (1940) and the Soviet historian Alexander Zimin (1960s), argued it was an 18th-century imitation based on the 15th-century Zadonshchina; Edward Keenan later proposed the Czech scholar Josef Dobrovský as author."
+    },
+    {
+     "label": "Defence of authenticity",
+     "text": "The linguist Andrey Zaliznyak (2004) argued that its subtle grammar matches 12th-century usage in ways no 18th-century forger could have known, much of it confirmed only by birch-bark letters found after 1951. Most scholars now accept it as genuine."
+    },
+    {
+     "label": "Compilation view",
+     "text": "A minority suggests it is genuine old material reworked or combined later, rather than either wholly authentic or wholly forged."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: The Tale of Igor's Campaign",
+     "url": "https://en.wikipedia.org/wiki/The_Tale_of_Igor's_Campaign",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Solar eclipse of May 1, 1185",
+     "url": "https://en.wikipedia.org/wiki/Solar_eclipse_of_May_1%2C_1185",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Slovo_o_polku_igoreve_1800.djvu/page1-500px-Slovo_o_polku_igoreve_1800.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Slovo_o_polku_igoreve_1800.djvu",
+     "author": "AnonymousUnknown author",
+     "license": "Public domain",
+     "title": "Slovo o polku igoreve 1800.djvu"
+    }
+   ],
+   "categories": [
+    "history",
+    "hoaxes"
+   ],
+   "threads": [
+    "lost-evidence",
+    "forged-documents",
+    "steppe-empires",
+    "slavic-worlds",
+    "literary-forgeries",
+    "contested-texts",
+    "eclipses-in-history"
+   ]
+  },
+  {
+   "id": "prague-orloj",
+   "title": "The Prague Orloj and the legend of the blinded clockmaker",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1410,
+   "end": null,
+   "evidenceTypes": [
+    "textual",
+    "material"
+   ],
+   "mainstream": "The Prague astronomical clock (Orloj) on the Old Town Hall is the oldest astronomical clock still working. Its mechanical clock and astronomical dial were made in 1410 by the clockmaker Mikuláš of Kadaň and Jan Šindel, professor of mathematics and astronomy at Charles University; the first written record is dated 9 October 1410. The dial shows the positions of the Sun and Moon in the zodiac and several systems of time, and its moving figures were added later: wooden statues in the 17th century and the Apostles after a repair in 1787-1791. It has been repaired many times, including after heavy damage during the Prague uprising in May 1945.",
+   "alternatives": [
+    {
+     "label": "The blinded master Hanuš",
+     "text": "A legend retold by Alois Jirásek says the city councillors blinded the master Hanuš so he could never build a finer clock elsewhere, and that he took revenge by stopping it. Records show the clock was built in 1410, not by Hanuš (Jan Růže, active c. 1490), so historians regard the tale as legend; similar \"blinded architect\" tales are told of St Basil's Cathedral in Moscow and other buildings."
+    },
+    {
+     "label": "Curse of the clock",
+     "text": "Local tradition says Prague will suffer if the clock is neglected; this is folklore."
+    },
+    {
+     "label": "Myth of the date",
+     "text": "For centuries it was wrongly believed to date from 1490; the earlier date was established from archival documents."
+    }
+   ],
+   "changed": "Until the 20th century, credited to Hanuš c. 1490; archival work established its creation in 1410 by Mikuláš of Kadaň and Jan Šindel.",
+   "sources": [
+    {
+     "title": "Wikipedia: Prague astronomical clock",
+     "url": "https://en.wikipedia.org/wiki/Prague_astronomical_clock",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Astronomical_Clock_%288341899828%29.jpg/500px-Astronomical_Clock_%288341899828%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Astronomical_Clock_(8341899828).jpg",
+     "author": "Steve Collis from Melbourne, Australia",
+     "license": "CC BY 2.0",
+     "title": "Astronomical_Clock_(8341899828).jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "science-cosmos",
+    "myth-legend"
+   ],
+   "threads": [
+    "changed-understanding",
+    "ancient-astronomy",
+    "automata-and-robots",
+    "slavic-worlds",
+    "myths-about-history"
+   ]
+  },
+  {
+   "id": "jan-hus",
+   "title": "Jan Hus: burned at Constance, and the \"goose and swan\" prophecy",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1415,
+   "end": null,
+   "dateNote": "Burned 6 July 1415; Hussite Wars 1419-1434",
+   "evidenceTypes": [
+    "textual"
+   ],
+   "mainstream": "Jan Hus (c. 1369-1415) was a Czech priest, preacher at Prague's Bethlehem Chapel and rector of Charles University, who criticised clerical wealth, the sale of indulgences and papal authority, influenced by the English reformer John Wycliffe. Summoned to the Council of Constance with a promise of safe conduct from King Sigismund, he was arrested, tried for heresy and burned at the stake on 6 July 1415. His death sparked the Hussite movement and, after the First Defenestration of Prague in 1419, the Hussite Wars (1419-1434), in which Hussite armies under Jan Žižka repeatedly defeated crusades sent against them. He is seen as a forerunner of the Protestant Reformation.",
+   "alternatives": [
+    {
+     "label": "The goose and the swan",
+     "text": "A well-known tradition says Hus (\"goose\" in Czech) predicted that though they roast a goose now, in a hundred years a swan would come whom they could not silence; Lutherans later applied this to Martin Luther. Historians regard the precise saying as a later legend."
+    },
+    {
+     "label": "Martyr or heretic",
+     "text": "Catholic and Protestant traditions long judged him very differently; in 1999 Pope John Paul II expressed \"deep regret\" for his cruel death, without formally rehabilitating his teachings."
+    },
+    {
+     "label": "Broken promise",
+     "text": "Whether Sigismund's safe conduct was betrayed or legally void for a heretic was argued at the time and later; it fuelled Czech anger."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Jan Hus",
+     "url": "https://en.wikipedia.org/wiki/Jan_Hus",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Hussite Wars",
+     "url": "https://en.wikipedia.org/wiki/Hussite_Wars",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Stimmer_Jan_Hus.jpg/500px-Stimmer_Jan_Hus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Stimmer_Jan_Hus.jpg",
+     "author": "Christoph Murer 1587",
+     "license": "Public domain",
+     "title": "Stimmer_Jan_Hus.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "religion"
+   ],
+   "threads": [
+    "knowledge-and-power",
+    "rejected-pioneers",
+    "suppressed-beliefs",
+    "holy-wars",
+    "slavic-worlds",
+    "prophecies"
+   ]
+  },
+  {
+   "id": "onfim-birch-bark",
+   "title": "Onfim and the birch-bark letters of Novgorod",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1260,
+   "end": null,
+   "dateNote": "Letters 11th-15th century; Onfim c. 1260; first found 1951",
+   "evidenceTypes": [
+    "archaeological",
+    "textual"
+   ],
+   "mainstream": "On 26 July 1951, during excavations in Novgorod, Russia, Nina Akulova found the first medieval letter scratched on birch bark. Over 1,100 have since been found in Novgorod (and more in other Russian towns), dating from the 11th to the 15th centuries, preserved in up to 8 m of waterlogged clay. Most are everyday messages in the local Old Novgorodian dialect: business deals, debts, family news, love letters, complaints and schoolwork. Among the most famous are around 17 pieces left by a boy called Onfim in the mid-13th century, about 6-7 years old, with alphabet exercises and drawings of himself as a mounted warrior spearing enemies and as a 'wild beast'.",
+   "alternatives": [
+    {
+     "label": "Literacy rethink",
+     "text": "Before 1951 most scholars assumed medieval Rus' was almost entirely illiterate outside the clergy and elite; the letters show writing was used by merchants, artisans, women and children."
+    },
+    {
+     "label": "Untapped archive",
+     "text": "Less than 3% of medieval Novgorod has been excavated, and the expedition leader Valentin Yanin estimated that more than 20,000 letters may remain underground."
+    },
+    {
+     "label": "Language evidence",
+     "text": "The letters revealed a distinct dialect and helped settle debates such as the authenticity of the Tale of Igor's Campaign; one letter (no. 292) is the oldest known text in a Finnic language."
+    }
+   ],
+   "changed": "Pre-1951: medieval Rus' assumed largely illiterate; after 1951: birch-bark letters revealed widespread everyday literacy.",
+   "sources": [
+    {
+     "title": "Wikipedia: Birch bark manuscript",
+     "url": "https://en.wikipedia.org/wiki/Birch_bark_manuscript",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Onfim",
+     "url": "https://en.wikipedia.org/wiki/Onfim",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/%D0%9E%D0%BD%D1%84%D0%B8%D0%BC_%28200%29.gif/500px-%D0%9E%D0%BD%D1%84%D0%B8%D0%BC_%28200%29.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:%D0%9E%D0%BD%D1%84%D0%B8%D0%BC_(200).gif",
+     "author": "Onfim of Novgorod, copy by http://www.gramoty.ru",
+     "license": "CC BY-SA 3.0",
+     "title": "Онфим_(200).gif"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history"
+   ],
+   "threads": [
+    "changed-understanding",
+    "stories-proven-true",
+    "origins-of-writing",
+    "knowledge-and-power",
+    "slavic-worlds",
+    "ordinary-lives"
+   ]
+  },
+  {
+   "id": "turul",
+   "title": "The Turul: the falcon that fathered Hungary's first dynasty",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 3,
+   "start": 819,
+   "end": null,
+   "dateNote": "Chronicles give 819 for Álmos's birth; written down c. 1200",
+   "evidenceTypes": [
+    "textual",
+    "folklore"
+   ],
+   "mainstream": "The turul is a mythical bird of prey, usually a falcon, in Hungarian tradition. The Gesta Hungarorum (c. 1200) and the Illuminated Chronicle tell how Emese, pregnant (or made pregnant by the bird), dreamed that a turul came to her and that a torrent flowed from her womb, foretelling that glorious kings would descend from her son Álmos (named from álom, 'dream'), father of Árpád, who led the Hungarian conquest of the Carpathian Basin around 895. The Árpád dynasty, which ruled until 1301, was called the 'Turul clan'. The turul became a national symbol in the 19th century and appears on monuments, at Buda Castle and in the emblem of the Hungarian Defence Forces.",
+   "alternatives": [
+    {
+     "label": "Steppe shamanic roots",
+     "text": "Scholars place the story in a widespread Eurasian steppe tradition of totemic birds and divine ancestry, with parallels in Turkic and Mongol legends, such as a dream of a white falcon in The Secret History of the Mongols."
+    },
+    {
+     "label": "Chronicle invention?",
+     "text": "Some historians emphasise that the chronicles were written 300 years after the conquest and shaped the legend to glorify the royal house; how much is genuine early tradition is debated."
+    },
+    {
+     "label": "Contested symbol",
+     "text": "In modern times the turul has been used by different political movements, including far-right groups, making it a debated emblem."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Turul",
+     "url": "https://en.wikipedia.org/wiki/Turul",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Árpád dynasty",
+     "url": "https://en.wikipedia.org/wiki/%C3%81rp%C3%A1d_dynasty",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Turul_buda_castle1.jpg/500px-Turul_buda_castle1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Turul_buda_castle1.jpg",
+     "author": "Peter Brown from Dublin, Ireland",
+     "license": "CC BY 2.0",
+     "title": "Turul_buda_castle1.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "history"
+   ],
+   "threads": [
+    "sacred-kingship",
+    "giant-birds",
+    "founding-ancestors",
+    "steppe-empires",
+    "balkan-crossroads",
+    "royal-propaganda"
+   ]
   }
  ]
 }
