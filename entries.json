@@ -12296,7 +12296,8 @@
    "threads": [
     "deep-oral-memory",
     "giants-and-little-people",
-    "outsider-builder-claims"
+    "outsider-builder-claims",
+    "spirits-of-house-and-forest"
    ]
   },
   {
@@ -26403,7 +26404,8 @@
     "religion"
    ],
    "threads": [
-    "suppressed-beliefs"
+    "suppressed-beliefs",
+    "last-pagan-sanctuaries"
    ]
   },
   {
@@ -43074,7 +43076,8 @@
     "knowledge-and-power",
     "holy-wars",
     "slavic-worlds",
-    "byzantine-world"
+    "byzantine-world",
+    "last-pagan-sanctuaries"
    ]
   },
   {
@@ -75389,7 +75392,8 @@
    ],
    "threads": [
     "island-southeast-asia",
-    "trickster-tales"
+    "trickster-tales",
+    "spirits-of-house-and-forest"
    ]
   },
   {
@@ -77541,7 +77545,8 @@
    "threads": [
     "giants-and-little-people",
     "southern-cone",
-    "trickster-tales"
+    "trickster-tales",
+    "spirits-of-house-and-forest"
    ]
   },
   {
@@ -82361,6 +82366,652 @@
     "resistance-to-empire",
     "southern-africa",
     "prophecies"
+   ]
+  },
+  {
+   "id": "perun-thunder-god",
+   "title": "Perun: the Slavic thunder god of the oak and the axe",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": 980,
+   "end": null,
+   "dateNote": "Cult attested c. 6th-10th centuries; Kyiv idol set up 980 and removed after 988",
+   "evidenceTypes": [
+    "textual",
+    "archaeological",
+    "comparative mythology"
+   ],
+   "mainstream": "Perun was the chief god of the pre-Christian Slavs: a god of the sky, thunder, lightning, rain, war and oak trees, often linked to the axe and the eagle. Very little was written down by Slavs themselves before Christianisation, so he is known mainly from outsiders and Christian clerics. The 6th-century Byzantine historian Procopius described a Slavic god of lightning who was 'lord of all'; the Russian Primary Chronicle records that Kyivan Rus' princes swore treaties with the Byzantines by Perun (907, 945, 971) and that Prince Vladimir set up an idol of Perun with a silver head and golden moustache on a hill in Kyiv in 980, before converting to Christianity in 988 and having it thrown into the Dnieper. Place names, oaths, folk sayings and the later cult of the prophet Elijah (Ilya), who took over his thunder role in folk belief, all preserve traces of him. Linguists link his name to the Lithuanian thunder god Perkūnas and to a reconstructed Proto-Indo-European storm god.",
+   "alternatives": [
+    {
+     "label": "Reconstructed storm-god myth",
+     "text": "In the 1970s Vyacheslav Ivanov and Vladimir Toporov reconstructed a \"basic myth\" in which the thunder god Perun pursues and strikes his serpent-like rival Veles, who hides in trees, stones and water; parallels are drawn with Thor and the Midgard serpent and Indra and Vritra. This reconstruction is influential but partly hypothetical, pieced together from folklore and comparison rather than a surviving Slavic text."
+    },
+    {
+     "label": "Sceptical view",
+     "text": "Some scholars caution that medieval Christian writers may have shaped, simplified or invented parts of the \"Slavic pantheon\", so how organised and uniform Perun's cult was across all Slavic peoples is debated."
+    },
+    {
+     "label": "Modern revival",
+     "text": "Perun is honoured today by Rodnovers (Slavic Native Faith), a modern religious movement; their rituals are a 20th-21st century reconstruction rather than unbroken tradition."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Perun",
+     "url": "https://en.wikipedia.org/wiki/Perun",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Slavic paganism",
+     "url": "https://en.wikipedia.org/wiki/Slavic_paganism",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Perun_in_Bitca.jpg/500px-Perun_in_Bitca.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Perun_in_Bitca.jpg",
+     "author": "Mike like0708",
+     "license": "CC BY-SA 4.0",
+     "title": "Perun in Bitca.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion"
+   ],
+   "threads": [
+    "suppressed-beliefs",
+    "slavic-worlds",
+    "dragon-slayers",
+    "thunder-gods",
+    "last-pagan-sanctuaries"
+   ]
+  },
+  {
+   "id": "veles-serpent-god",
+   "title": "Veles (Volos): god of cattle, wealth and the underworld",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 3,
+   "start": 907,
+   "end": null,
+   "evidenceTypes": [
+    "textual",
+    "comparative mythology",
+    "folklore"
+   ],
+   "mainstream": "Veles, also called Volos, was a Slavic god described in the Russian Primary Chronicle as the 'god of cattle' (skotiy bog); Kyivan Rus' swore by him alongside Perun in their treaties with Byzantium. Cattle were a measure of wealth, so he was also associated with riches and trade, and in later folklore with the underworld, the dead, magic, music and poetry (the 12th-century Tale of Igor's Campaign calls the bard Boyan 'grandson of Veles'). After Christianisation many of his functions passed to Saint Blaise (Vlasiy), protector of cattle, and some place names may preserve his name.",
+   "alternatives": [
+    {
+     "label": "Thunder god's adversary",
+     "text": "In the reconstruction by Ivanov and Toporov, Veles is the serpent or dragon-like opponent of Perun, stealing cattle (or Perun's wife) and being struck down by lightning, an annual cosmic battle that brings rain. This is a scholarly hypothesis built from folklore, not a myth preserved in a single ancient text."
+    },
+    {
+     "label": "Same or different gods",
+     "text": "Scholars debate whether Veles and Volos were originally one god or two, and how far the chthonic \"underworld\" role is genuinely ancient rather than a later interpretation."
+    },
+    {
+     "label": "Forgery link",
+     "text": "The 20th-century \"Book of Veles\" uses his name but is regarded by scholars as a forgery and is not evidence for his cult (see its own entry)."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Veles (god)",
+     "url": "https://en.wikipedia.org/wiki/Veles_(god)",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Slavic paganism",
+     "url": "https://en.wikipedia.org/wiki/Slavic_paganism",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Veles_by_Andrey_Shishkin.jpg/500px-Veles_by_Andrey_Shishkin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Veles_by_Andrey_Shishkin.jpg",
+     "author": "Andrey Shishkin",
+     "license": "CC BY 3.0",
+     "title": "Veles by Andrey Shishkin.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion"
+   ],
+   "threads": [
+    "serpent-beings",
+    "slavic-worlds",
+    "thunder-gods"
+   ]
+  },
+  {
+   "id": "mokosh",
+   "title": "Mokosh: the only goddess in Prince Vladimir's pantheon",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 3,
+   "start": 980,
+   "end": null,
+   "dateNote": "Named in the Primary Chronicle entry for 980",
+   "evidenceTypes": [
+    "textual",
+    "folklore"
+   ],
+   "mainstream": "Mokosh is the only female deity named in the Russian Primary Chronicle's list of idols that Prince Vladimir of Kyiv set up in 980 (with Perun, Khors, Dazhbog, Stribog and Simargl). Medieval Christian sermons against paganism mention her alongside vilas (nymphs) but do not describe her. Later East Slavic folklore links a figure called Mokosh or Mokusha with spinning, sheep-shearing, women's work, moisture and the earth, and Saint Paraskeva Friday seems to have absorbed some of these customs.",
+   "alternatives": [
+    {
+     "label": "Great mother goddess",
+     "text": "Many modern writers interpret Mokosh as a mother-earth or fertility goddess, perhaps related to \"Mother Moist Earth\" (Mat Syra Zemlya); this is plausible but largely reconstructed from later folk practice."
+    },
+    {
+     "label": "Finnic origin",
+     "text": "Some linguists suggest her name may be borrowed from a Finnic people (the Moksha), which would make her worship a sign of cultural mixing in early Rus'; this is a debated hypothesis."
+    },
+    {
+     "label": "Caution",
+     "text": "Because no narrative myth about her survives, every modern description is an interpretation; scholars disagree over how important she really was."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Mokosh",
+     "url": "https://en.wikipedia.org/wiki/Mokosh",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Slavic paganism",
+     "url": "https://en.wikipedia.org/wiki/Slavic_paganism",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/%D0%94%D0%B2%D0%B0%D0%B4%D1%86%D0%B0%D1%82%D1%8C_%D0%BF%D1%8F%D1%82%D1%8B%D0%B9_%D0%BB%D0%B8%D1%81%D1%82_%D0%9B%D0%B0%D0%B2%D1%80%D0%B5%D0%BD%D1%82%D1%8C%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B9_%D0%BB%D0%B5%D1%82%D0%BE%D0%BF%D0%B8%D1%81%D0%B8_%28%D0%9C%D0%BE%D0%BA%D0%BE%D1%88%D1%8C%29.jpg/500px-%D0%94%D0%B2%D0%B0%D0%B4%D1%86%D0%B0%D1%82%D1%8C_%D0%BF%D1%8F%D1%82%D1%8B%D0%B9_%D0%BB%D0%B8%D1%81%D1%82_%D0%9B%D0%B0%D0%B2%D1%80%D0%B5%D0%BD%D1%82%D1%8C%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B9_%D0%BB%D0%B5%D1%82%D0%BE%D0%BF%D0%B8%D1%81%D0%B8_%28%D0%9C%D0%BE%D0%BA%D0%BE%D1%88%D1%8C%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:%D0%94%D0%B2%D0%B0%D0%B4%D1%86%D0%B0%D1%82%D1%8C_%D0%BF%D1%8F%D1%82%D1%8B%D0%B9_%D0%BB%D0%B8%D1%81%D1%82_%D0%9B%D0%B0%D0%B2%D1%80%D0%B5%D0%BD%D1%82%D1%8C%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B9_%D0%BB%D0%B5%D1%82%D0%BE%D0%BF%D0%B8%D1%81%D0%B8_(%D0%9C%D0%BE%D0%BA%D0%BE%D1%88%D1%8C).jpg",
+     "author": "Sławobóg",
+     "license": "CC0",
+     "title": "Двадцать_пятый_лист_Лаврентьевской_летописи_(Мокошь).jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion"
+   ],
+   "threads": [
+    "suppressed-beliefs",
+    "slavic-worlds"
+   ]
+  },
+  {
+   "id": "rusalka",
+   "title": "Rusalki: the drowned water maidens of Slavic folklore",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 3,
+   "start": 1800,
+   "end": null,
+   "dateNote": "Recorded mainly in 18th-19th century ethnography; the rusalii festival is attested in medieval sources",
+   "evidenceTypes": [
+    "folklore",
+    "ethnographic"
+   ],
+   "mainstream": "In Slavic folklore rusalki are female spirits associated with water, fields and forests, often thought to be the souls of girls or young women who died before marriage, by drowning or by suicide, or unbaptised children. In 19th-century ethnographic records from Russia, Ukraine and Belarus they appear with long loose hair, sitting in birch trees or by rivers, tickling or luring men to their deaths, especially during 'Rusalka Week' in early summer around Trinity (Pentecost), when villagers performed rituals to see them off. Earlier medieval sources mention a festival called rusalii, a name probably derived from the Roman spring festival of roses (Rosalia).",
+   "alternatives": [
+    {
+     "label": "Fertility spirits",
+     "text": "Some folklorists argue rusalki were originally benign spirits who brought moisture and fertility to fields, and became sinister only later under Christian influence; others think the \"unquiet dead\" idea was central from the start."
+    },
+    {
+     "label": "Shared motif",
+     "text": "The idea of dangerous water women who lure people to drown appears widely, for example the Germanic Lorelei and nixies, Greek sirens and African Mami Wata traditions; whether these spring from shared roots or similar human fears is open."
+    },
+    {
+     "label": "Literal belief",
+     "text": "Within traditional village belief rusalki were real beings to be avoided and appeased; there is no physical evidence for them."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Rusalka",
+     "url": "https://en.wikipedia.org/wiki/Rusalka",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Iwan_Nikolajewitsch_Kramskoj_002.jpg/500px-Iwan_Nikolajewitsch_Kramskoj_002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Iwan_Nikolajewitsch_Kramskoj_002.jpg",
+     "author": "Ivan Kramskoi",
+     "license": "Public domain",
+     "title": "Iwan_Nikolajewitsch_Kramskoj_002.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend"
+   ],
+   "threads": [
+    "water-spirits",
+    "slavic-worlds",
+    "night-demons"
+   ]
+  },
+  {
+   "id": "domovoy",
+   "title": "The domovoy: the house spirit behind the stove",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 3,
+   "start": 1800,
+   "end": null,
+   "evidenceTypes": [
+    "folklore",
+    "ethnographic"
+   ],
+   "mainstream": "The domovoy (Russian; Ukrainian domovyk, Polish domowik) is the household spirit of East and West Slavic folklore, usually imagined as a small, hairy old man living behind the stove or under the threshold. If treated well, with offerings of bread, porridge or milk, he protected the family and livestock; if neglected or offended he made noises, tangled horses' manes or pinched sleepers. When a family moved house they would carry embers from the old stove, or a slipper, to invite him along. Folklorists recorded these beliefs widely in the 19th and early 20th centuries.",
+   "alternatives": [
+    {
+     "label": "Ancestor cult",
+     "text": "Many scholars see the domovoy as a survival of ancestor worship, the founder of the household watching over descendants; this is a widely held but not provable interpretation."
+    },
+    {
+     "label": "Parallels",
+     "text": "Similar household spirits include the Scandinavian tomte/nisse, the Scottish brownie and the German kobold; a common European pattern of propitiating a house spirit is often suggested."
+    },
+    {
+     "label": "Explanations of the uncanny",
+     "text": "Sceptics see beliefs like the domovoy as a way of explaining household noises, sleep paralysis (\"being pressed\" at night) and luck with livestock."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Domovoy",
+     "url": "https://en.wikipedia.org/wiki/Domovoy",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Domovoi.jpg/500px-Domovoi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Domovoi.jpg",
+     "author": "Ivan Bilibin",
+     "license": "Public domain",
+     "title": "Domovoi.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend"
+   ],
+   "threads": [
+    "slavic-worlds",
+    "night-demons",
+    "spirits-of-house-and-forest"
+   ]
+  },
+  {
+   "id": "leshy",
+   "title": "The leshy: lord of the Slavic forest",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 3,
+   "start": 1800,
+   "end": null,
+   "evidenceTypes": [
+    "folklore",
+    "ethnographic"
+   ],
+   "mainstream": "The leshy (leshiy) is the forest spirit of Slavic folklore, master of the woods and its animals. He was described as a shapeshifter who could appear as tall as the trees or as small as a blade of grass, often with hair and beard of moss or leaves, wearing his clothes inside out and his shoes on the wrong feet. He led travellers astray, made them walk in circles, and imitated familiar voices; to escape, peasants turned their own clothes inside out. Hunters and herdsmen made pacts or left offerings with him for success. Many such accounts were collected by 19th-century ethnographers.",
+   "alternatives": [
+    {
+     "label": "Personification of nature",
+     "text": "Folklorists commonly explain the leshy as a personification of the forest's dangers and the experience of getting lost in large northern woodlands."
+    },
+    {
+     "label": "Relation to pagan gods",
+     "text": "Some scholars connect him with a pre-Christian god of forests or hunting (sometimes the West Slavic Porewit is suggested); this link is speculative."
+    },
+    {
+     "label": "Living belief",
+     "text": "Similar forest guardians appear worldwide, such as the Brazilian curupira (feet turned backwards) and the Filipino tikbalang; within folk belief he was a real being, though there is no physical evidence."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Leshy",
+     "url": "https://en.wikipedia.org/wiki/Leshy",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Leshy_%281906%29.jpg/500px-Leshy_%281906%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Leshy_(1906).jpg",
+     "author": "Н. Н. Брут, Magazine «Leshy» N. N. Brut",
+     "license": "Public domain",
+     "title": "Leshy_(1906).jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend"
+   ],
+   "threads": [
+    "shapeshifters",
+    "slavic-worlds",
+    "spirits-of-house-and-forest"
+   ]
+  },
+  {
+   "id": "kupala-night",
+   "title": "Kupala Night: midsummer fires and the fern that blooms once a year",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 3,
+   "start": 1500,
+   "end": null,
+   "evidenceTypes": [
+    "folklore",
+    "textual",
+    "ethnographic"
+   ],
+   "mainstream": "Kupala Night (Ivan Kupala) is a midsummer festival celebrated by many Slavs, traditionally on the night of 23-24 June (or 6-7 July in the Julian calendar), merged with the Christian feast of Saint John the Baptist. Customs include jumping over bonfires, girls floating flower wreaths on rivers to divine their future marriage, bathing in rivers and dew, and searching the forest at midnight for the 'fern flower', said to bloom only on that night and to grant luck, wealth or the ability to understand animals and find hidden treasure. Church writers condemned the festivities from at least the 16th century.",
+   "alternatives": [
+    {
+     "label": "Pre-Christian solstice rite",
+     "text": "Most scholars see Kupala as a continuation of pre-Christian summer-solstice rites of fire, water and fertility, Christianised as St John's Eve; parallels include Midsummer in Scandinavia and the Baltic Joninės/Jāņi."
+    },
+    {
+     "label": "A god called Kupala?",
+     "text": "Older writers spoke of a pagan god Kupala; many modern scholars think \"Kupala\" simply comes from a word for bathing and that the deity is a later invention."
+    },
+    {
+     "label": "The fern flower",
+     "text": "Botanically, ferns reproduce by spores and do not flower, so the fern flower is regarded as purely legendary; some have suggested glowing fungi or fireflies as inspiration (speculative)."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Kupala Night",
+     "url": "https://en.wikipedia.org/wiki/Kupala_Night",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/%D0%98%D0%B2%D0%B0%D0%BD_%D0%9A%D1%83%D0%BF%D0%B0%D0%BB%D0%B0.%D0%93%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_%D0%BD%D0%B0_%D0%B2%D0%B5%D0%BD%D0%BA%D0%B0%D1%85.2008.%D0%94%D0%BE%D1%81%D0%BA%D0%B0%2C%D0%BC%D0%B0%D1%81%D0%BB%D0%BE150%D1%8585_%D1%81%D0%BC.jpeg/500px-%D0%98%D0%B2%D0%B0%D0%BD_%D0%9A%D1%83%D0%BF%D0%B0%D0%BB%D0%B0.%D0%93%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_%D0%BD%D0%B0_%D0%B2%D0%B5%D0%BD%D0%BA%D0%B0%D1%85.2008.%D0%94%D0%BE%D1%81%D0%BA%D0%B0%2C%D0%BC%D0%B0%D1%81%D0%BB%D0%BE150%D1%8585_%D1%81%D0%BC.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:%D0%98%D0%B2%D0%B0%D0%BD_%D0%9A%D1%83%D0%BF%D0%B0%D0%BB%D0%B0.%D0%93%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_%D0%BD%D0%B0_%D0%B2%D0%B5%D0%BD%D0%BA%D0%B0%D1%85.2008.%D0%94%D0%BE%D1%81%D0%BA%D0%B0,%D0%BC%D0%B0%D1%81%D0%BB%D0%BE150%D1%8585_%D1%81%D0%BC.jpeg",
+     "author": "Simon Kozhin",
+     "license": "CC BY-SA 3.0",
+     "title": "Иван_Купала.Гадание_на_венках.2008.Доска,масло150х85_см.jpeg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion"
+   ],
+   "threads": [
+    "suppressed-beliefs",
+    "water-spirits",
+    "sun-cults",
+    "slavic-worlds"
+   ]
+  },
+  {
+   "id": "morana-marzanna",
+   "title": "Morana (Marzanna): drowning the winter goddess",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 3,
+   "start": 1420,
+   "end": null,
+   "dateNote": "Custom attested by the 15th century; still practised today",
+   "evidenceTypes": [
+    "folklore",
+    "textual",
+    "ethnographic"
+   ],
+   "mainstream": "Morana (Czech, Slovak, Slovene), Marzanna (Polish) or Mara is a Slavic figure associated with winter, death and seasonal rebirth. In a spring custom still practised in Poland, Czechia, Slovakia and elsewhere, people make a straw effigy, dress it in women's clothes, carry it out of the village and burn it or throw it into a river, symbolically ending winter. Church synods tried to ban the custom: the Synod of Poznań in 1420 and other 15th-century church records already describe the drowning of the effigy, and the 15th-century chronicler Jan Długosz mentioned Marzanna as a Polish goddess.",
+   "alternatives": [
+    {
+     "label": "Ancient goddess of death",
+     "text": "Many accounts treat Morana as an ancient Slavic goddess of death and winter, paired with spring figures; scholars debate whether she was truly a goddess or a personified ritual effigy given divine status by later writers."
+    },
+    {
+     "label": "Shared European rite",
+     "text": "Comparable \"carrying out death\" or \"burning winter\" effigy rituals exist across Europe, which some see as a common agrarian tradition."
+    },
+    {
+     "label": "Folk etymology",
+     "text": "Her name is linked to Slavic roots for death (mor) and nightmare (mara), but etymologies are debated."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Morana (goddess)",
+     "url": "https://en.wikipedia.org/wiki/Morana_(goddess)",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Marzanna_Matka_Polski.jpg/500px-Marzanna_Matka_Polski.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Marzanna_Matka_Polski.jpg",
+     "author": "Mhapon",
+     "license": "CC BY-SA 4.0",
+     "title": "Marzanna_Matka_Polski.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion"
+   ],
+   "threads": [
+    "suppressed-beliefs",
+    "water-spirits",
+    "origin-of-death",
+    "slavic-worlds"
+   ]
+  },
+  {
+   "id": "zbruch-idol",
+   "title": "The Zbruch Idol: a four-faced pillar from a dried-up river",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 900,
+   "end": null,
+   "dateNote": "Usually dated 9th-10th century; found 1848",
+   "statusNote": "Object real; date and meaning disputed",
+   "evidenceTypes": [
+    "archaeological",
+    "textual"
+   ],
+   "mainstream": "The Zbruch Idol is a 2.57 m tall limestone pillar with four faces under a single tall hat, carved with figures in three tiers that are often read as heavens, earth and underworld. It was found in August 1848, during a drought, in the Zbruch River near the village of Lychkivtsi (then in Austrian Galicia, now western Ukraine), and has been in the Archaeological Museum of Kraków since 1968. It is usually dated to the 9th-10th centuries and is one of very few surviving monuments presented as pre-Christian Slavic religious art. Excavations in the 1980s found sanctuaries on the nearby Bohit hill, where it may once have stood.",
+   "alternatives": [
+    {
+     "label": "Which god?",
+     "text": "It was long called \"Światowid\" after the four-headed god Svantevit of Arkona; scholars now think this identification is mistaken and suggest it shows several gods (Perun, Mokosh and others) or a cosmological scheme. These readings remain interpretations."
+    },
+    {
+     "label": "19th-century fake?",
+     "text": "In 2011 Aleksey Komar and Natalia Khamaiko proposed that the pillar is a Romantic-era fake, possibly made for the landowner Tymon Zaborowski and inspired by Saxo Grammaticus's description of Svantevit's statue; others defend its medieval date. The question is open."
+    },
+    {
+     "label": "Non-Slavic origin",
+     "text": "A minority view connects the carving style to steppe (Turkic) stone statues rather than to Slavic religion."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Zbruch Idol",
+     "url": "https://en.wikipedia.org/wiki/Zbruch_Idol",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/O98_Idol_von_Sbrutsch_mit_Darstellung_von_Unterwelt%2C_Erde_und_des_Himmels%2C_zirka_10._Jh._n._Chr..JPG/500px-O98_Idol_von_Sbrutsch_mit_Darstellung_von_Unterwelt%2C_Erde_und_des_Himmels%2C_zirka_10._Jh._n._Chr..JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:O98_Idol_von_Sbrutsch_mit_Darstellung_von_Unterwelt,_Erde_und_des_Himmels,_zirka_10._Jh._n._Chr..JPG",
+     "author": "Silar",
+     "license": "CC BY-SA 3.0",
+     "title": "O98_Idol_von_Sbrutsch_mit_Darstellung_von_Unterwelt,_Erde_und_des_Himmels,_zirka_10._Jh._n._Chr..JPG"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "religion",
+    "hoaxes"
+   ],
+   "threads": [
+    "changed-understanding",
+    "forged-documents",
+    "slavic-worlds",
+    "world-trees",
+    "last-pagan-sanctuaries"
+   ]
+  },
+  {
+   "id": "arkona-svantevit",
+   "title": "Arkona: the last great temple of Svantevit (destroyed 1168)",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1168,
+   "end": null,
+   "evidenceTypes": [
+    "textual",
+    "archaeological"
+   ],
+   "mainstream": "Cape Arkona on the island of Rügen (now in Germany) held the fortified temple of Svantevit (Svetovit), chief god of the Slavic Rani tribe. The Danish chronicler Saxo Grammaticus described a wooden temple with a huge statue with four heads, holding a drinking horn whose contents were used to forecast the harvest, a sacred white horse used for oracles, and a temple treasury and armed retinue of 300. In 1168 King Valdemar I of Denmark and Bishop Absalon captured Arkona, had the statue chopped up and burned, and Rügen was Christianised. Coastal cliffs have since collapsed into the sea, so only part of the ramparts of the 'Jaromarsburg' survive; archaeological excavations have confirmed a fortified cult site.",
+   "alternatives": [
+    {
+     "label": "How reliable is Saxo?",
+     "text": "Saxo wrote to glorify the Danish crusade; scholars accept the destruction as historical but debate how far his vivid description of rites and idol is accurate or shaped by classical and Christian stereotypes."
+    },
+    {
+     "label": "Christian saint behind the god?",
+     "text": "Helmold of Bosau claimed Svantevit was a pagan corruption of Saint Vitus, whose relics had been brought to the region by missionaries; most modern scholars regard this as a medieval Christian polemic rather than a true origin."
+    },
+    {
+     "label": "Lost to the sea",
+     "text": "Because much of the site has eroded away, some evidence is permanently lost; claims about what lay beneath are necessarily speculative."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Cape Arkona",
+     "url": "https://en.wikipedia.org/wiki/Cape_Arkona",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Svetovit",
+     "url": "https://en.wikipedia.org/wiki/Svetovit",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Arkona-1860-Knoche-Fock.png/500px-Arkona-1860-Knoche-Fock.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Arkona-1860-Knoche-Fock.png",
+     "author": "„Aufgen. u. gez. v. Knoche 1860.“",
+     "license": "Public domain",
+     "title": "Arkona-1860-Knoche-Fock.png"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology",
+    "religion"
+   ],
+   "threads": [
+    "vanished-landscapes",
+    "sacred-kingship",
+    "erased-from-history",
+    "suppressed-beliefs",
+    "holy-wars",
+    "slavic-worlds",
+    "prophecies",
+    "last-pagan-sanctuaries"
+   ]
+  },
+  {
+   "id": "rethra",
+   "title": "Rethra: the lost temple-city of the Lutici",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 1068,
+   "end": null,
+   "dateNote": "Flourished 10th-11th century; last recorded 1068",
+   "statusNote": "Existence attested in chronicles; location unknown",
+   "evidenceTypes": [
+    "textual",
+    "archaeological"
+   ],
+   "mainstream": "Rethra (Radogošč, Riedegost) was the main religious and political centre of the Redarians, part of the Lutician confederation of pagan Slavs between the Elbe and Oder, from the 10th to the 11th century. Thietmar of Merseburg (early 11th century) described a fortress with three horns and three gates beside a lake, containing a wooden temple with idols, a horse oracle and a boar that emerged from the lake before war. Adam of Bremen, about fifty years later, described a 'seat of idolatry' surrounded by a deep lake with nine gates, and reported that after the Slavic revolt of 1066 the head of the captured Bishop John of Mecklenburg was offered there. The last record is the Annals of Augsburg for 1068, describing its capture by Bishop Burchard of Halberstadt, who rode away on its sacred horse.",
+   "alternatives": [
+    {
+     "label": "Where was it?",
+     "text": "Its location has never been confirmed. The most widely favoured area is the islands and marshes of the Lieps and Tollense lakes near Neubrandenburg; earlier proposals such as Feldberg and Wanzka Abbey have been rejected."
+    },
+    {
+     "label": "One place or two?",
+     "text": "Some historians argue Thietmar and Adam may not even be describing the same site, or the same god (Thietmar names Svarožič, Adam Redigast)."
+    },
+    {
+     "label": "Symbolic description",
+     "text": "The numbers three and nine, the lake and the boar may be literary symbols linking the temple to the underworld rather than accurate reporting; how literally to read the chroniclers is debated."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Rethra",
+     "url": "https://en.wikipedia.org/wiki/Rethra",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Polabian Slavs",
+     "url": "https://en.wikipedia.org/wiki/Polabian_Slavs",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Lieps_slawen_rekonstruktion.jpg/500px-Lieps_slawen_rekonstruktion.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Lieps_slawen_rekonstruktion.jpg",
+     "author": "Patrice77 (reproduction)",
+     "license": "CC BY-SA 3.0",
+     "title": "Lieps slawen rekonstruktion.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology",
+    "religion",
+    "lost-civilisations"
+   ],
+   "threads": [
+    "lost-civilisations",
+    "erased-from-history",
+    "suppressed-beliefs",
+    "holy-wars",
+    "slavic-worlds",
+    "prophecies",
+    "last-pagan-sanctuaries"
    ]
   }
  ]
