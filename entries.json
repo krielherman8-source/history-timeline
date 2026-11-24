@@ -83622,6 +83622,675 @@
     "balkan-crossroads",
     "royal-propaganda"
    ]
+  },
+  {
+   "id": "ilya-muromets",
+   "title": "Ilya Muromets: the bedridden peasant who became Rus's greatest hero",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": 1150,
+   "end": null,
+   "dateNote": "Set in the Kyivan period (10th-12th century); sung and collected 18th-20th century",
+   "evidenceTypes": [
+    "oral tradition",
+    "textual",
+    "anthropological"
+   ],
+   "mainstream": "Ilya Muromets (Ilya of Murom) is the most famous bogatyr (warrior hero) of Russian byliny, oral epic songs set at the court of Prince Vladimir 'the Bright Sun' of Kyiv. In the songs he is a peasant's son who cannot walk for 33 years until wandering pilgrims heal him and give him superhuman strength; he then defeats the monstrous Nightingale the Robber, giant Idolishche and Tatar invaders, defending Rus' as a protector of the common people. Byliny were collected from peasant singers mainly in northern Russia from the 18th to the 20th century.",
+   "alternatives": [
+    {
+     "label": "A real monk behind the hero?",
+     "text": "The Kyiv Pechersk Lavra preserves the relics of Saint Ilya Pechersky, a 12th-century monk said to have been a strong warrior before taking vows, canonised in 1643; a visitor in 1594 already described the grave of a hero there. Soviet scientists examined the remains in 1988 and reported a tall, powerfully built man with signs of spinal disease and battle wounds. Whether he is the origin of the epic hero is debated."
+    },
+    {
+     "label": "Composite figure",
+     "text": "Folklorists generally see Ilya as a composite hero built up over centuries, absorbing elements from several real and legendary figures, including the Old Norse/German \"Ilias von Riuzen\" known from medieval German poetry."
+    },
+    {
+     "label": "Thunder god echo",
+     "text": "Some scholars suggest Ilya absorbed attributes of the pagan thunder god Perun through the prophet Elijah (Ilya), with whom Perun's role merged in folk Christianity; this is a speculative link."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Ilya Muromets",
+     "url": "https://en.wikipedia.org/wiki/Ilya_Muromets",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Bylina",
+     "url": "https://en.wikipedia.org/wiki/Bylina",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Vastnetsov_1914.jpg/500px-Vastnetsov_1914.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Vastnetsov_1914.jpg",
+     "author": "Viktor Vasnetsov",
+     "license": "Public domain",
+     "title": "Vastnetsov_1914.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "history"
+   ],
+   "threads": [
+    "giants-and-little-people",
+    "sacred-relics",
+    "sleeping-heroes",
+    "slavic-worlds",
+    "thunder-gods",
+    "miracle-workers"
+   ]
+  },
+  {
+   "id": "svyatogor",
+   "title": "Svyatogor: the giant too heavy for the Earth",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 3,
+   "start": 1000,
+   "end": null,
+   "evidenceTypes": [
+    "oral tradition",
+    "textual"
+   ],
+   "mainstream": "Svyatogor ('holy mountain') is a giant bogatyr of Russian byliny, so huge that Mother Earth can barely bear his weight and he must live in the mountains. In one song he finds a small bag that he cannot lift because it contains 'the pull of the earth', and sinks into the ground trying. In the best-known tale he meets Ilya Muromets, puts him in his pocket, and later the two find a giant stone coffin: it fits Svyatogor perfectly, the lid seals shut, and before dying he breathes part of his strength into Ilya.",
+   "alternatives": [
+    {
+     "label": "Passing of the old age",
+     "text": "Folklorists often read Svyatogor as a representative of an older generation of mythic giants giving way to human heroes, a pattern also seen in Greek Titans and Norse giants."
+    },
+    {
+     "label": "Giants in many traditions",
+     "text": "Stories of giants who once walked the earth and vanished appear worldwide, from the biblical Nephilim to Native American and Pacific traditions; some alternative writers treat them as memories of real giant humans, a claim not supported by skeletal evidence."
+    },
+    {
+     "label": "Literal belief",
+     "text": "Within the bylina tradition he was a figure of song; there is no historical or archaeological evidence for such a being."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Svyatogor",
+     "url": "https://en.wikipedia.org/wiki/Svyatogor",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Bylina",
+     "url": "https://en.wikipedia.org/wiki/Bylina",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/%D0%A1%D0%B2%D1%8F%D1%82%D0%BE%D0%B3%D0%BE%D1%80.jpg/500px-%D0%A1%D0%B2%D1%8F%D1%82%D0%BE%D0%B3%D0%BE%D1%80.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:%D0%A1%D0%B2%D1%8F%D1%82%D0%BE%D0%B3%D0%BE%D1%80.jpg",
+     "author": "Andrei Petrovich Ryabushkin",
+     "license": "Public domain",
+     "title": "Святогор.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend"
+   ],
+   "threads": [
+    "giants-and-little-people",
+    "petrified-beings",
+    "slavic-worlds"
+   ]
+  },
+  {
+   "id": "sadko",
+   "title": "Sadko: the Novgorod minstrel in the court of the Sea Tsar",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 3,
+   "start": 1167,
+   "end": null,
+   "dateNote": "Possible historical model built a church in 1167",
+   "evidenceTypes": [
+    "oral tradition",
+    "textual"
+   ],
+   "mainstream": "Sadko is a hero of Novgorod byliny: a poor gusli player whose music pleases the Sea Tsar (or Water King), who helps him win a wager by catching a golden-finned fish and so become a rich merchant. When he later fails to pay tribute, his ships are stopped at sea, and lots fall on him to be thrown overboard. Under the sea he plays for the Sea Tsar, whose dancing raises storms, until Saint Nicholas tells him to break his strings. He chooses the maiden Chernava as a wife but does not consummate the marriage, wakes on the bank of the Volkhov River, and builds a church in thanks. The tale inspired Rimsky-Korsakov's opera Sadko (1898).",
+   "alternatives": [
+    {
+     "label": "Real merchant",
+     "text": "The Novgorod First Chronicle names a Sotko Sytinich as the founder of the stone Church of Saints Boris and Gleb in Novgorod in 1167, and many historians think he may be the historical kernel of the hero."
+    },
+    {
+     "label": "International tale type",
+     "text": "The story belongs to the widespread tale type \"below the sea\" (ATU 677*); undersea kingdoms and musicians enchanting water spirits appear in many cultures, such as the Japanese Urashima Tarō."
+    },
+    {
+     "label": "River-spirit worship",
+     "text": "Some scholars connect the Sea Tsar and the river Volkhov to pre-Christian water deities of Novgorod, an interpretation that is plausible but hard to prove."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Sadko",
+     "url": "https://en.wikipedia.org/wiki/Sadko",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Sadko_palekh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Sadko_palekh.jpg",
+     "author": "Unknown",
+     "license": "Public domain",
+     "title": "Sadko_palekh.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "history"
+   ],
+   "threads": [
+    "otherworld-visits",
+    "water-spirits",
+    "slavic-worlds",
+    "travellers-tales"
+   ]
+  },
+  {
+   "id": "sarmizegetusa-regia",
+   "title": "Sarmizegetusa Regia: the mountain capital of the Dacians",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -50,
+   "end": null,
+   "dateNote": "Capital c. 1st century BC to AD 106",
+   "evidenceTypes": [
+    "archaeological",
+    "textual"
+   ],
+   "mainstream": "Sarmizegetusa Regia, at about 1,200 m in Romania's Orăștie Mountains, was the political and religious capital of the Dacian kingdom from the 1st century BC until its conquest by Rome. It reached its peak under King Decebalus, who fought two wars against Emperor Trajan (101-102 and 105-106 AD); after the second war the city was taken and destroyed, Decebalus killed himself to avoid capture, and Dacia became a Roman province, events depicted on Trajan's Column in Rome. Its sacred zone contains rectangular sanctuaries of stone drums and columns and a large circular sanctuary often called a 'calendar'. It is part of the UNESCO World Heritage site of the Dacian Fortresses of the Orăștie Mountains.",
+   "alternatives": [
+    {
+     "label": "Dacian calendar",
+     "text": "The large circular sanctuary has been interpreted as a calendar or observatory, based on counts of posts and stones; this is a popular interpretation but not proven, and the arrangements could have other ritual meanings."
+    },
+    {
+     "label": "Looted gold",
+     "text": "In the 1990s-2000s treasure hunters illegally dug up large numbers of gold Koson coins and spiral gold bracelets in the area; many bracelets were recovered from abroad and returned to Romania after police investigations."
+    },
+    {
+     "label": "National origin debates",
+     "text": "In the 19th-20th centuries Dacians became symbols in debates over Romanian identity (Dacian versus Roman ancestry), and some modern \"Dacomania\" writings make exaggerated claims about Dacian antiquity that most historians reject."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Sarmizegetusa Regia",
+     "url": "https://en.wikipedia.org/wiki/Sarmizegetusa_Regia",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Dacian Fortresses of the Orăștie Mountains",
+     "url": "https://en.wikipedia.org/wiki/Dacian_Fortresses_of_the_Or%C4%83%C8%99tie_Mountains",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "UNESCO World Heritage Centre: Dacian Fortresses of the Orastie Mountains",
+     "url": "https://whc.unesco.org/en/list/906/",
+     "type": "official"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Sarmisegetusa_Regia_-_Templele_patrulatere_mici_-_Zona_sacra_%E2%80%93_Gradistea_Muntelui%2C_Muntii_Sureanu%2C_Hunedoara%2C_Romania_19.JPG/500px-Sarmisegetusa_Regia_-_Templele_patrulatere_mici_-_Zona_sacra_%E2%80%93_Gradistea_Muntelui%2C_Muntii_Sureanu%2C_Hunedoara%2C_Romania_19.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Sarmisegetusa_Regia_-_Templele_patrulatere_mici_-_Zona_sacra_%E2%80%93_Gradistea_Muntelui,_Muntii_Sureanu,_Hunedoara,_Romania_19.JPG",
+     "author": "Cosmin Stefanescu",
+     "license": "CC BY-SA 3.0 ro",
+     "title": "Sarmisegetusa_Regia_-_Templele_patrulatere_mici_-_Zona_sacra_–_Gradistea_Muntelui,_Muntii_Sureanu,_Hunedoara,_Romania_19.JPG"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history"
+   ],
+   "threads": [
+    "ancient-astronomy",
+    "lost-treasures",
+    "balkan-crossroads",
+    "classical-world",
+    "resistance-to-empire"
+   ]
+  },
+  {
+   "id": "zalmoxis",
+   "title": "Zalmoxis: the Getae god who vanished underground and came back",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 3,
+   "start": -440,
+   "end": null,
+   "dateNote": "Described by Herodotus before 425 BC",
+   "evidenceTypes": [
+    "textual"
+   ],
+   "mainstream": "Zalmoxis was a divinity of the Getae and Dacians described by Herodotus (Histories IV.93-96, before 425 BC). The Getae believed they did not truly die but went to Zalmoxis, and every four years they chose a messenger by lot and threw him onto three spear points to carry their requests to the god. Herodotus also reports a story told by Black Sea Greeks that Zalmoxis was a former slave of Pythagoras who returned to Thrace, taught about immortality, hid for three years in an underground chamber, and then reappeared, convincing people of his teaching. Herodotus himself doubted the story and suggested Zalmoxis lived long before Pythagoras or was a native god. Strabo later wrote of a priest Deceneus who advised King Burebista.",
+   "alternatives": [
+    {
+     "label": "Greek rationalisation",
+     "text": "Many scholars think the Pythagoras story is a Greek attempt to explain a foreign religion in familiar terms."
+    },
+    {
+     "label": "Dying and returning god",
+     "text": "Others compare the disappearance and return to other \"dying and rising\" or underground-dwelling figures, and to the Norse king Fróði who stays in a mound for three years; whether this reflects shared ideas is debated."
+    },
+    {
+     "label": "Monotheism claims",
+     "text": "Some 20th-century writers, especially in Romania, portrayed Zalmoxis's cult as an early monotheism foreshadowing Christianity; most historians see this as an over-interpretation of scanty sources."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Zalmoxis",
+     "url": "https://en.wikipedia.org/wiki/Zalmoxis",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Zalmoxis_Aleksandrovo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Zalmoxis_Aleksandrovo.jpg",
+     "author": "Unknown",
+     "license": "Public domain",
+     "title": "Zalmoxis_Aleksandrovo.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion"
+   ],
+   "threads": [
+    "underground-worlds",
+    "returning-saviours",
+    "human-sacrifice",
+    "civilising-teachers",
+    "balkan-crossroads",
+    "myths-about-history",
+    "classical-world",
+    "descents-to-the-underworld"
+   ]
+  },
+  {
+   "id": "elizabeth-bathory",
+   "title": "Elizabeth Báthory: \"Blood Countess\" or victim of a political plot?",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 1610,
+   "end": null,
+   "dateNote": "Investigation 1610-11; died 1614",
+   "statusNote": "Crimes alleged and servants convicted; her guilt and the blood-bath legend disputed",
+   "evidenceTypes": [
+    "textual",
+    "legal records"
+   ],
+   "mainstream": "Countess Elizabeth Báthory (1560-1614) was a wealthy Hungarian noblewoman. In 1610, after years of rumours, King Matthias II ordered the Palatine György Thurzó to investigate accusations that she had tortured and killed young women in her service. Hundreds of witnesses were questioned. In 1611 four of her servants were tried; three were executed. Báthory herself was never tried, but was confined in her castle of Csejte (now Čachtice, Slovakia) until her death in 1614. The often-quoted figure of 650 victims came from a single servant who claimed it was written in a private book that has never been found.",
+   "alternatives": [
+    {
+     "label": "Guilty serial killer",
+     "text": "Many historians accept that, based on numerous witness testimonies, she was responsible for the abuse and deaths of many young women, making her one of the most prolific killers recorded."
+    },
+    {
+     "label": "Political frame-up",
+     "text": "Others, such as the historian László Nagy and Irma Szádeczky-Kardoss, argue the case was politically motivated: she was a powerful widow with huge estates, the crown owed her family large debts, testimony was largely hearsay or obtained under torture, and she never got a trial."
+    },
+    {
+     "label": "The blood-bath myth",
+     "text": "The famous tale that she bathed in virgins' blood to stay young first appeared in print in 1729, in the Jesuit László Turóczi's Tragica Historia, over a century after her death; the original trial records contain no mention of blood baths. Historians regard it as legend."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Elizabeth Báthory",
+     "url": "https://en.wikipedia.org/wiki/Elizabeth_B%C3%A1thory",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/BathoryErzsebet.jpg/500px-BathoryErzsebet.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:BathoryErzsebet.jpg",
+     "author": "Unidentified painter",
+     "license": "Public domain",
+     "title": "BathoryErzsebet.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "myth-legend"
+   ],
+   "threads": [
+    "elixirs-of-immortality",
+    "balkan-crossroads",
+    "myths-about-history",
+    "witch-hunts",
+    "vampire-panics",
+    "unsolved-crimes",
+    "rumour-and-disinformation"
+   ]
+  },
+  {
+   "id": "mohacs-1526",
+   "title": "The Battle of Mohács (1526): the day medieval Hungary fell",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1526,
+   "end": null,
+   "dateNote": "29 August 1526",
+   "evidenceTypes": [
+    "textual",
+    "archaeological"
+   ],
+   "mainstream": "On 29 August 1526, near Mohács in southern Hungary, the army of King Louis II of Hungary and Bohemia was destroyed in under two hours by the much larger Ottoman army of Sultan Suleiman the Magnificent. Much of the Hungarian nobility and higher clergy died, and the 20-year-old king drowned in the swollen Csele stream while fleeing. The battle led to the division of Hungary between the Habsburgs, the Ottomans and the Principality of Transylvania for some 150 years. Mass graves were found at the battlefield from the 1960s onward and it is now a memorial park. A Hungarian saying, 'more was lost at Mohács', is still used to put misfortunes in perspective.",
+   "alternatives": [
+    {
+     "label": "How did the king die?",
+     "text": "Louis II is generally accepted to have drowned when his horse fell in the stream; rumours that he was murdered by rival nobles (sometimes blamed on supporters of János Szapolyai, who was absent with his army) circulated at the time but are unproven."
+    },
+    {
+     "label": "Why so decisive?",
+     "text": "Historians debate whether the defeat stemmed mainly from Ottoman numerical superiority and artillery, Hungarian political divisions and an impetuous cavalry charge, or the failure of allies to send help."
+    },
+    {
+     "label": "National trauma",
+     "text": "In Hungarian memory Mohács became a symbol of national catastrophe and divine punishment, themes much used by later poets and politicians."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Battle of Mohács",
+     "url": "https://en.wikipedia.org/wiki/Battle_of_Moh%C3%A1cs",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/A_moh%C3%A1csi_csata_%28Des_T%C3%BCrckischen_Keysers_Solymon_schlacht_-_So_mit_dem_K%C3%BCnig_von_Hungern_gethan%2C_Bamberg%2C_1526%29.jpg/500px-A_moh%C3%A1csi_csata_%28Des_T%C3%BCrckischen_Keysers_Solymon_schlacht_-_So_mit_dem_K%C3%BCnig_von_Hungern_gethan%2C_Bamberg%2C_1526%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:A_moh%C3%A1csi_csata_(Des_T%C3%BCrckischen_Keysers_Solymon_schlacht_-_So_mit_dem_K%C3%BCnig_von_Hungern_gethan,_Bamberg,_1526).jpg",
+     "author": "unknown",
+     "license": "Public domain",
+     "title": "A_mohácsi_csata_(Des_Türckischen_Keysers_Solymon_schlacht_-_So_mit_dem_Künig_von_Hungern_gethan,_Bamberg,_1526).jpg"
+    }
+   ],
+   "categories": [
+    "history"
+   ],
+   "threads": [
+    "divine-punishment",
+    "holy-wars",
+    "balkan-crossroads",
+    "ottoman-and-safavid"
+   ]
+  },
+  {
+   "id": "plogojowitz-1725",
+   "title": "Petar Blagojević (Peter Plogojowitz): the 1725 vampire report that reached Vienna",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 3,
+   "start": 1725,
+   "end": null,
+   "dateNote": "1725",
+   "statusNote": "Report and exhumation confirmed; supernatural claim not supported",
+   "evidenceTypes": [
+    "textual"
+   ],
+   "mainstream": "In 1725, in the village of Kisilova (probably today's Kisiljevo) in Austrian-ruled northern Serbia, nine villagers died within eight days after the death of a peasant, Petar Blagojević, and several claimed on their deathbeds that he had come to them at night. The villagers dug up his body, found what they took as signs of vampirism (no decay, fresh blood in the mouth, new skin and nails), drove a stake through the heart and burned it. The Imperial official Ernst Frombald witnessed it, reported it with a plea not to be blamed, and the account was published in the Vienna newspaper Wienerisches Diarium. With the Arnold Paole case of 1726-1732, it helped bring the word 'vampire' into Western European languages and fuelled an 18th-century vampire debate.",
+   "alternatives": [
+    {
+     "label": "Decomposition explained",
+     "text": "Modern forensic science explains the observed signs (bloating, blood at the mouth, skin slippage, apparent nail growth) as normal stages of decomposition, and the deaths possibly as an epidemic disease."
+    },
+    {
+     "label": "Folk belief",
+     "text": "In local belief the dead could return as vampires (vampir/upir) and kill relatives; the villagers said such things had happened \"in Turkish times\" and threatened to abandon the village unless allowed to act."
+    },
+    {
+     "label": "Literary afterlife",
+     "text": "Scholars trace a line from these reports to Enlightenment debates and later to Gothic fiction such as Polidori's \"The Vampyre\" (1819) and Stoker's \"Dracula\" (1897)."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Petar Blagojević",
+     "url": "https://en.wikipedia.org/wiki/Petar_Blagojevi%C4%87",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Arnold Paole",
+     "url": "https://en.wikipedia.org/wiki/Arnold_Paole",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [],
+   "categories": [
+    "history",
+    "myth-legend",
+    "anomalies"
+   ],
+   "threads": [
+    "collective-experiences",
+    "plagues-and-epidemics",
+    "slavic-worlds",
+    "balkan-crossroads",
+    "vampire-panics"
+   ]
+  },
+  {
+   "id": "vampire-burials",
+   "title": "\"Vampire burials\": sickles, stones and padlocks in Slavic graves",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1600,
+   "end": null,
+   "dateNote": "Mostly 11th-18th century; key finds 2008-2022",
+   "evidenceTypes": [
+    "archaeological",
+    "biogeochemical"
+   ],
+   "mainstream": "Archaeologists across Central and Eastern Europe have found 'deviant' or 'anti-vampire' burials: bodies buried face down, weighted with stones, decapitated, pinned with stakes, or with sickles across the neck or body, apparently to stop the dead from rising. Examples include 17th-18th century graves at Drawsko in Poland with sickles placed over the neck, medieval skeletons from Sozopol in Bulgaria pierced with iron bars (announced 2012), and a 17th-century woman found in 2022 at Pień in Poland by a team led by Dariusz Poliński of Nicolaus Copernicus University, with an iron sickle across her neck and a padlock on her big toe.",
+   "alternatives": [
+    {
+     "label": "Who was feared?",
+     "text": "A biogeochemical (strontium isotope) study of the Drawsko burials found the individuals were local, not outsiders, and suggested people who died in cholera epidemics may have been feared as revenants; other explanations include suicides, unbaptised people, or those thought to have been witches."
+    },
+    {
+     "label": "Contested labels",
+     "text": "Some archaeologists caution that \"vampire\" is a modern label and that unusual burials can have other reasons, such as preventing grave robbing or honouring special roles; the Drawsko \"vampire\" interpretation itself has been questioned."
+    },
+    {
+     "label": "Living belief",
+     "text": "The burials show that fear of the returning dead was real and widespread, matching the 18th-century written vampire reports from Serbia."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Vampire burial",
+     "url": "https://en.wikipedia.org/wiki/Vampire_burial",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Apotropaic Practices and the Undead: A Biogeochemical Assessment of Deviant Burials in Post-Medieval Poland",
+     "authors": "Gregoricka, L. et al.",
+     "year": 2014,
+     "doi": "10.1371/journal.pone.0113564",
+     "type": "paper"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Vampire_skeleton_of_Sozopol_in_Sofia_PD_2012_06.JPG/500px-Vampire_skeleton_of_Sozopol_in_Sofia_PD_2012_06.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Vampire_skeleton_of_Sozopol_in_Sofia_PD_2012_06.JPG",
+     "author": "Bin im Garten",
+     "license": "CC BY-SA 3.0",
+     "title": "Vampire skeleton of Sozopol in Sofia PD 2012 06.JPG"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "myth-legend"
+   ],
+   "threads": [
+    "plagues-and-epidemics",
+    "slavic-worlds",
+    "balkan-crossroads",
+    "vampire-panics",
+    "disasters-and-scapegoats"
+   ]
+  },
+  {
+   "id": "bucegi-sphinx",
+   "title": "The Bucegi Sphinx: Romania's rock face and its hidden-chamber legends",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 3,
+   "start": 1900,
+   "end": null,
+   "dateNote": "First photographed c. 1900; named 1936",
+   "statusNote": "Natural formation confirmed; artificial and hidden-chamber claims speculative",
+   "evidenceTypes": [
+    "geological",
+    "folklore",
+    "speculative"
+   ],
+   "mainstream": "The 'Sphinx' (Sfinxul) is a natural rock formation about 8 m high and 12 m wide at 2,216 m altitude on the Bucegi plateau in Romania's Carpathian Mountains, part of the Babele group of eroded rocks. Seen from a certain angle it resembles a human face; it was probably first photographed around 1900 and received the name 'Sphinx', after the Great Sphinx of Giza, in 1936. Geologists explain it as a remnant of sandstone and conglomerate layers shaped by water, wind and freeze-thaw weathering during Pleistocene glacial cycles, with harder and softer bands eroding at different rates.",
+   "alternatives": [
+    {
+     "label": "Natural pareidolia",
+     "text": "The mainstream view is that it is a natural formation, and the \"face\" is an example of pareidolia, the tendency to see faces in random shapes."
+    },
+    {
+     "label": "Ancient sculpture",
+     "text": "Some Romanian writers have argued it was shaped or enhanced by humans and linked it to the Dacians and the god Zalmoxis (it appears as a place of sacrifice in the 1967 film The Dacians); there is no archaeological evidence of carving."
+    },
+    {
+     "label": "Hidden chamber claims",
+     "text": "Fringe books and websites since the 2000s claim a secret chamber with advanced ancient technology was found beneath the Bucegi Mountains and hidden by authorities; no evidence has been produced, and the claims are regarded as speculative fiction."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Sphinx (Romania)",
+     "url": "https://en.wikipedia.org/wiki/Sphinx_(Romania)",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/TheSphinx.jpg/500px-TheSphinx.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:TheSphinx.jpg",
+     "author": "Raluca Stoica at English Wikipedia",
+     "license": "Public domain",
+     "title": "TheSphinx.jpg"
+    }
+   ],
+   "categories": [
+    "anomalies",
+    "lost-civilisations",
+    "science-cosmos"
+   ],
+   "threads": [
+    "underground-worlds",
+    "pareidolia",
+    "balkan-crossroads",
+    "fringe-theories",
+    "sacred-rocks-and-mountains"
+   ]
+  },
+  {
+   "id": "hoia-baciu-forest",
+   "title": "Hoia-Baciu Forest: Transylvania's \"Bermuda Triangle\"",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 3,
+   "start": 1968,
+   "end": null,
+   "dateNote": "Barnea photographs 18 August 1968",
+   "statusNote": "Forest and 1968 photographs real; paranormal claims unverified",
+   "evidenceTypes": [
+    "testimonial",
+    "photographic",
+    "folklore"
+   ],
+   "mainstream": "The Hoia-Baciu Forest is a woodland of about 3 km² just west of Cluj-Napoca in Transylvania, Romania, used for recreation and sports. It became famous as a paranormal hotspot: local legends tell of people disappearing, odd lights, feelings of anxiety, and a circular clearing (Poiana Rotundă) where it is said nothing grows. On 18 August 1968 a technician, Emil Barnea, photographed a disc-shaped object over the clearing; the photos were published in the Romanian press and became among the best-known UFO photographs from Eastern Europe. From the 1960s the biologist Alexandru Sift also studied and photographed what he considered unexplained phenomena there; much of his archive reportedly disappeared after his death in 1993. The forest has since featured in paranormal TV series.",
+   "alternatives": [
+    {
+     "label": "Paranormal explanations",
+     "text": "Believers suggest the forest is a portal, an energy anomaly or a site of UFO activity, citing the 1968 photographs and many anecdotal reports; these ideas are speculative."
+    },
+    {
+     "label": "Sceptical view",
+     "text": "Sceptics note that the stories lack testable evidence, that the 1968 photos have been interpreted by some analysts as a small nearby object, and that a forest's eerie atmosphere and media attention encourage such tales."
+    },
+    {
+     "label": "Folklore and tourism",
+     "text": "The legends now attract tourists and filmmakers; some names and stories, such as a shepherd who vanished with his flock, are best regarded as local folklore."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Hoia-Baciu Forest",
+     "url": "https://en.wikipedia.org/wiki/Hoia-Baciu_Forest",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Visit Cluj (official tourism site): Pădurea Hoia",
+     "url": "https://visitcluj.ro/tourist_spot/padurea-hoia/",
+     "type": "official"
+    },
+    {
+     "title": "Revista Magazin: Întâmplări stranii în pădurea Hoia-Baciu",
+     "url": "https://magazin.ro/paranormal/se-petrec-intre-cer-si-pamant/ntmplari-stranii-n-padurea-hoia-baciu/",
+     "type": "magazine"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Cluj-Napoca_-_Hoia_Forest_and_Grigorescu_district.jpg/500px-Cluj-Napoca_-_Hoia_Forest_and_Grigorescu_district.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Cluj-Napoca_-_Hoia_Forest_and_Grigorescu_district.jpg",
+     "author": "Roamata",
+     "license": "Public domain",
+     "title": "Cluj-Napoca_-_Hoia_Forest_and_Grigorescu_district.jpg"
+    }
+   ],
+   "categories": [
+    "anomalies",
+    "aliens-ufo",
+    "myth-legend"
+   ],
+   "threads": [
+    "ufo-encounters",
+    "disappearances",
+    "mysterious-lights",
+    "modern-legends",
+    "curses-and-hauntings",
+    "balkan-crossroads",
+    "anomalous-photos"
+   ]
   }
  ]
 }
