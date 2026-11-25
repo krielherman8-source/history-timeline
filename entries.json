@@ -16414,7 +16414,8 @@
     "ancient-astronomy",
     "knowledge-and-power",
     "lost-evidence",
-    "silk-road"
+    "silk-road",
+    "islamic-golden-age"
    ]
   },
   {
@@ -22017,7 +22018,8 @@
    "threads": [
     "knowledge-and-power",
     "lost-evidence",
-    "lost-libraries"
+    "lost-libraries",
+    "islamic-golden-age"
    ]
   },
   {
@@ -22072,7 +22074,8 @@
     "ocean-voyagers",
     "human-sacrifice",
     "silk-road",
-    "travellers-tales"
+    "travellers-tales",
+    "islamic-golden-age"
    ]
   },
   {
@@ -33821,7 +33824,8 @@
     "science-cosmos"
    ],
    "threads": [
-    "ancient-flight"
+    "ancient-flight",
+    "islamic-golden-age"
    ]
   },
   {
@@ -38546,7 +38550,8 @@
    ],
    "threads": [
     "knowledge-and-power",
-    "silk-road"
+    "silk-road",
+    "islamic-golden-age"
    ]
   },
   {
@@ -41737,7 +41742,8 @@
     "changed-understanding",
     "knowledge-and-power",
     "rejected-pioneers",
-    "scientific-revolution"
+    "scientific-revolution",
+    "islamic-golden-age"
    ]
   },
   {
@@ -52090,7 +52096,8 @@
    ],
    "threads": [
     "sahel-kingdoms",
-    "travellers-tales"
+    "travellers-tales",
+    "islamic-golden-age"
    ]
   },
   {
@@ -78160,7 +78167,8 @@
     "changed-understanding",
     "knowledge-and-power",
     "holy-wars",
-    "myths-about-history"
+    "myths-about-history",
+    "islamic-golden-age"
    ]
   },
   {
@@ -84788,6 +84796,643 @@
     "balkan-crossroads",
     "children-as-witnesses",
     "marian-apparitions"
+   ]
+  },
+  {
+   "id": "thousand-and-one-nights",
+   "title": "The Thousand and One Nights: Scheherazade's stories and the tales added in Paris",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": 850,
+   "end": 1709,
+   "dateNote": "Compiled c. 800s-1400s; Galland's French edition 1704-1717",
+   "evidenceTypes": [
+    "textual",
+    "literary history"
+   ],
+   "mainstream": "The Thousand and One Nights (Alf Layla wa-Layla, the 'Arabian Nights') is a collection of Middle Eastern folktales compiled in Arabic over many centuries. Its frame story, in which Scheherazade saves her life by telling King Shahryar a new tale every night, is drawn from a lost Middle Persian book, Hezār Afsān ('A Thousand Tales'), which itself had Indian elements; in Iraq in the 9th-10th centuries Arab stories were added, including tales set at the court of the Abbasid caliph Harun al-Rashid, and later layers came from Mamluk Egypt and Syria. A 9th-century paper fragment of the opening pages is among the oldest surviving pieces of Arabic paper. There is no single canonical text: manuscripts and printed editions differ widely in which stories they contain.",
+   "alternatives": [
+    {
+     "label": "Orphan tales",
+     "text": "Two of the most famous 'Arabian Nights' stories, \"Aladdin\" and \"Ali Baba and the Forty Thieves\", are not found in any earlier Arabic manuscript. The French translator Antoine Galland added them to his edition after the Syrian Maronite storyteller Hanna Diyab told them to him in Paris in 1709. Whether Diyab drew on oral tradition he heard in Aleppo or partly created them is debated."
+    },
+    {
+     "label": "A window on real history?",
+     "text": "Some historians use the Nights as evidence for everyday life, trade and attitudes in medieval Baghdad and Cairo; others caution that the tales mix fantasy (jinn, rocs, magic lamps) with idealised memory, and that Harun al-Rashid's court in them is largely legendary."
+    },
+    {
+     "label": "Orientalist lens",
+     "text": "Literary scholars note that European translations (Galland 1704-17, Lane, Burton 1885) shaped Western images of the \"exotic East\" as much as they reflected the Arabic originals."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: One Thousand and One Nights",
+     "url": "https://en.wikipedia.org/wiki/One_Thousand_and_One_Nights",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Hanna Diyab",
+     "url": "https://en.wikipedia.org/wiki/Hanna_Diyab",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Antoine Galland",
+     "url": "https://en.wikipedia.org/wiki/Antoine_Galland",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/William-Strang-Sindbad-AliBaba-titlepage.JPG/500px-William-Strang-Sindbad-AliBaba-titlepage.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:William-Strang-Sindbad-AliBaba-titlepage.JPG",
+     "author": "William Strang (1859-1921)",
+     "license": "Public domain",
+     "title": "William-Strang-Sindbad-AliBaba-titlepage.JPG"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "history"
+   ],
+   "threads": [
+    "myths-about-history",
+    "travellers-tales",
+    "literary-forgeries",
+    "islamic-golden-age"
+   ]
+  },
+  {
+   "id": "ibn-sina-canon",
+   "title": "Ibn Sina (Avicenna) and the Canon of Medicine",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1025,
+   "end": 1037,
+   "dateNote": "Canon completed 1025; Ibn Sina c. 980-1037",
+   "evidenceTypes": [
+    "textual"
+   ],
+   "mainstream": "Ibn Sina (c. 980-1037), known in Europe as Avicenna, was a Persian polymath born near Bukhara who served at the courts of several Iranian rulers. He wrote around 450 works, about 240 of which survive, on philosophy, medicine, astronomy, logic and more. His Canon of Medicine, a five-book medical encyclopedia completed in 1025, organised Greek (especially Galen), Persian and Indian medical knowledge with his own observations; it was translated into Latin in 12th-century Toledo and served as a standard textbook in European universities into the early modern period. His philosophical encyclopedia, the Book of Healing, made him one of the most influential Aristotelian thinkers of the Muslim world.",
+   "alternatives": [
+    {
+     "label": "Father of experimental medicine?",
+     "text": "Some modern writers credit the Canon with early rules for testing drugs (for example, testing on more than one case and observing timing of effects) and with recognising contagion and quarantine; historians of medicine caution against reading modern clinical-trial ideas back into a work that still rested on Galenic humoral theory."
+    },
+    {
+     "label": "Rejected and revered",
+     "text": "In 1527 the Swiss physician Paracelsus reportedly burned a copy of the Canon to show his break with ancient authority; at the same time it remained a core text of Unani medicine, still practised in South Asia today."
+    },
+    {
+     "label": "Whose heritage?",
+     "text": "Iran, Uzbekistan, Tajikistan and the Arab world all celebrate Ibn Sina as a national or civilisational figure; he wrote mainly in Arabic but also in Persian."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Avicenna",
+     "url": "https://en.wikipedia.org/wiki/Avicenna",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: The Canon of Medicine",
+     "url": "https://en.wikipedia.org/wiki/The_Canon_of_Medicine",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Stanford Encyclopedia of Philosophy: Ibn Sina [Avicenna]",
+     "url": "https://plato.stanford.edu/entries/ibn-sina/",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Avicenna_canon_1597.jpg/500px-Avicenna_canon_1597.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Avicenna_canon_1597.jpg",
+     "author": "Unknown",
+     "license": "Public domain",
+     "title": "Avicenna canon 1597.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "science-cosmos"
+   ],
+   "threads": [
+    "changed-understanding",
+    "knowledge-and-power",
+    "iranian-worlds",
+    "islamic-golden-age"
+   ]
+  },
+  {
+   "id": "al-biruni-earth-radius",
+   "title": "Al-Biruni measures the Earth from a hilltop at Nandana",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 3,
+   "start": 1020,
+   "end": null,
+   "dateNote": "Measurement c. 1020s",
+   "evidenceTypes": [
+    "textual",
+    "tested by experiment"
+   ],
+   "mainstream": "Abu Rayhan al-Biruni (973-c. 1050), a polymath from Khwarazm (in today's Uzbekistan) who worked at the court of Mahmud of Ghazni, devised a new way to measure the size of the Earth. At the fort of Nandana (in today's Pakistan) he measured the height of a hill and then, from its top, the angle by which the horizon dipped below the horizontal; with trigonometry, these two numbers give the Earth's radius. His result was close to the modern value. He also wrote a remarkable study of Indian religion, science and society (Tarikh al-Hind, c. 1030), comparing Hindu and Greek ideas, and discussed whether the Earth might rotate on its axis.",
+   "alternatives": [
+    {
+     "label": "How accurate really?",
+     "text": "Popular accounts often say his radius was within about 1-2% of the modern figure. Historians of science note that atmospheric refraction alters the dip angle and that the result depends on how his units are converted, so the true precision of the method was probably lower and the close match partly fortunate."
+    },
+    {
+     "label": "First anthropologist?",
+     "text": "Al-Biruni is often called the first anthropologist or founder of comparative religion for his attempt to describe Indian beliefs \"exactly as they are\"; others note that he also wrote from the position of a scholar in a conquering court."
+    },
+    {
+     "label": "Replications",
+     "text": "Modern amateurs and teachers have repeated his hill-and-horizon method as a classroom experiment, with results of varying accuracy depending on refraction."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Al-Biruni",
+     "url": "https://en.wikipedia.org/wiki/Al-Biruni",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: India (Al-Biruni)",
+     "url": "https://en.wikipedia.org/wiki/India_(Al-Biruni)",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Ab%C5%AB_Al-Ray%E1%B8%A5%C4%81n_Al-B%C4%ABr%C5%ABn%C4%AB%2C_Sayr_mulhimah_min_al-Sharq_wa-al-Gharb.png/500px-Ab%C5%AB_Al-Ray%E1%B8%A5%C4%81n_Al-B%C4%ABr%C5%ABn%C4%AB%2C_Sayr_mulhimah_min_al-Sharq_wa-al-Gharb.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Ab%C5%AB_Al-Ray%E1%B8%A5%C4%81n_Al-B%C4%ABr%C5%ABn%C4%AB,_Sayr_mulhimah_min_al-Sharq_wa-al-Gharb.png",
+     "author": "Unknown authorUnknown author",
+     "license": "Public domain",
+     "title": "Abū_Al-Rayḥān_Al-Bīrūnī,_Sayr_mulhimah_min_al-Sharq_wa-al-Gharb.png"
+    }
+   ],
+   "categories": [
+    "history",
+    "science-cosmos"
+   ],
+   "threads": [
+    "ancient-astronomy",
+    "knowledge-and-power",
+    "tested-by-experiment",
+    "iranian-worlds",
+    "islamic-golden-age"
+   ]
+  },
+  {
+   "id": "al-jazari-automata",
+   "title": "Al-Jazari's Book of Ingenious Mechanical Devices (1206)",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 3,
+   "start": 1206,
+   "end": null,
+   "evidenceTypes": [
+    "textual",
+    "tested by experiment"
+   ],
+   "mainstream": "Ismail al-Jazari (1136-1206) was chief engineer at the Artuqid court in upper Mesopotamia (today south-east Turkey), as his father had been. In 1206 he finished the Book of Knowledge of Ingenious Mechanical Devices, describing 50 machines with illustrations and instructions for building them: water-raising pumps, water clocks such as the famous 'elephant clock' (an Indian elephant carrying a tower with a mahout, birds, serpents and a turbaned figure that move on the hour), hand-washing automata and a boat of musician automata to entertain guests. His work built on earlier traditions, including the Greek writers Hero and Philo and the 9th-century Banu Musa brothers of Baghdad.",
+   "alternatives": [
+    {
+     "label": "Father of robotics?",
+     "text": "Al-Jazari is sometimes called the \"father of robotics\"; historians note that his figures were driven by water, floats and cams rather than anything resembling modern control systems, and that the label is a modern honour rather than a historical lineage."
+    },
+    {
+     "label": "Programmable music?",
+     "text": "Some researchers have argued that his musician automata used pegs on a rotating drum that could be rearranged to change the rhythm, making it an early \"programmable\" machine; this interpretation of the text is debated."
+    },
+    {
+     "label": "Rebuilt today",
+     "text": "Working replicas of the elephant clock were built in the 2000s, including one at the Ibn Battuta Mall in Dubai, showing that his designs work as described."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Ismail al-Jazari",
+     "url": "https://en.wikipedia.org/wiki/Ismail_al-Jazari",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Banū Mūsā brothers",
+     "url": "https://en.wikipedia.org/wiki/Ban%C5%AB_M%C5%ABs%C4%81_brothers",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Al-jazari_elephant_clock.png/500px-Al-jazari_elephant_clock.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Al-jazari_elephant_clock.png",
+     "author": "Al-Jazari",
+     "license": "Public domain",
+     "title": "Al-jazari_elephant_clock.png"
+    }
+   ],
+   "categories": [
+    "history",
+    "science-cosmos"
+   ],
+   "threads": [
+    "ancient-technology",
+    "tested-by-experiment",
+    "automata-and-robots",
+    "islamic-golden-age"
+   ]
+  },
+  {
+   "id": "sack-of-baghdad-1258",
+   "title": "The Mongol sack of Baghdad (1258) and the river black with ink",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 1,
+   "start": 1258,
+   "end": null,
+   "dateNote": "29 January - 10 February 1258",
+   "evidenceTypes": [
+    "textual",
+    "archaeological"
+   ],
+   "mainstream": "In January-February 1258 a Mongol army under Hulegu, grandson of Genghis Khan, besieged Baghdad, capital of the Abbasid Caliphate. After the walls were breached the city surrendered and was sacked for about a week; the caliph al-Musta'sim was killed - according to the sources wrapped in a carpet and trampled by horses, to avoid shedding royal blood. Estimates of the dead range from tens of thousands to the hundreds of thousands claimed by medieval writers. The fall of the city ended the Abbasid caliphate in Baghdad and has traditionally been seen as the end of the Islamic Golden Age.",
+   "alternatives": [
+    {
+     "label": "The river of ink",
+     "text": "A famous later account says so many books from Baghdad's libraries were thrown into the Tigris that the river ran black with ink. Historians such as Michal Biran have shown that libraries in Baghdad reopened for teaching within two years, and that the astronomer Nasir al-Din al-Tusi, who travelled with Hulegu, saved many manuscripts for his new observatory at Maragheh. The image is now often treated as a symbolic exaggeration."
+    },
+    {
+     "label": "End of a golden age?",
+     "text": "The traditional view sees 1258 as the end of Islamic scientific flourishing. Many historians argue instead that learning continued strongly in Mamluk Egypt, Ilkhanid Iran, Timurid Samarkand and the Ottoman world, so \"decline after 1258\" is a simplification."
+    },
+    {
+     "label": "Death toll",
+     "text": "Medieval figures of 800,000 to 2 million dead are generally considered inflated; modern estimates are far lower but still very large."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Siege of Baghdad",
+     "url": "https://en.wikipedia.org/wiki/Siege_of_Baghdad",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Hulegu Khan",
+     "url": "https://en.wikipedia.org/wiki/Hulegu_Khan",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Bagdad1258.jpg/500px-Bagdad1258.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Bagdad1258.jpg",
+     "author": "Sayf al-vâhidî et al.",
+     "license": "Public domain",
+     "title": "Bagdad1258.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "catastrophes"
+   ],
+   "threads": [
+    "civilisation-collapses",
+    "lost-libraries",
+    "steppe-empires",
+    "myths-about-history",
+    "islamic-golden-age"
+   ]
+  },
+  {
+   "id": "isra-and-miraj",
+   "title": "The Isra and Mi'raj: Muhammad's Night Journey to Jerusalem and the heavens",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": 621,
+   "end": null,
+   "dateNote": "Traditionally c. 620-621",
+   "evidenceTypes": [
+    "textual",
+    "religious tradition"
+   ],
+   "mainstream": "The Isra and Mi'raj are the Islamic narratives of the Prophet Muhammad's Night Journey: carried in one night from Mecca to 'the farthest mosque' (identified with Jerusalem) on the winged steed Buraq, then ascending through the seven heavens, meeting earlier prophets, seeing paradise and hell, and receiving the command for the daily prayers before returning. The Quran contains only brief allusions (the opening verse of sura 17 and verses of sura 53); the detailed story developed in hadith and biographies, first assembled into a connected narrative about two centuries later. The event is commemorated each year on Laylat al-Mi'raj and underlies the sanctity of Jerusalem's Al-Aqsa mosque and the Dome of the Rock in Islam.",
+   "alternatives": [
+    {
+     "label": "Body or vision?",
+     "text": "Muslim scholars have long debated whether the journey was physical, spiritual or a dream-vision; the majority Sunni view holds it was bodily, while others, citing early reports, saw it as a vision."
+    },
+    {
+     "label": "Dante's source?",
+     "text": "In 1919 the Spanish scholar Miguel Asín Palacios argued that the Mi'raj literature influenced Dante's Divine Comedy; the discovery of the Book of the Ladder, a Mi'raj text translated into Latin and French at the Castilian court in the 13th century, gave the idea support, though how directly Dante used it is still debated."
+    },
+    {
+     "label": "Cross-cultural pattern",
+     "text": "Comparative religion scholars place it among heavenly ascent narratives such as Enoch's journey, the Persian Arda Viraf, and shamanic sky journeys; believers regard it as a unique miracle."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Isra' and Mi'raj",
+     "url": "https://en.wikipedia.org/wiki/Isra'_and_Mi'raj",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Book of Muhammad's Ladder",
+     "url": "https://en.wikipedia.org/wiki/Book_of_Muhammad's_Ladder",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Miraj_by_Sultan_Muhammad.jpg/500px-Miraj_by_Sultan_Muhammad.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Miraj_by_Sultan_Muhammad.jpg",
+     "author": "Possibly Sultan Muhammad",
+     "license": "Public domain",
+     "title": "Miraj_by_Sultan_Muhammad.jpg"
+    }
+   ],
+   "categories": [
+    "religion",
+    "myth-legend"
+   ],
+   "threads": [
+    "sky-beings",
+    "otherworld-visits"
+   ]
+  },
+  {
+   "id": "year-of-the-elephant",
+   "title": "The Year of the Elephant: Abraha's march on Mecca (c. 570)",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 570,
+   "end": null,
+   "dateNote": "Traditionally c. 570; Abraha's inscriptions date campaigns to the 540s-550s",
+   "statusNote": "Abraha confirmed; date and miracle disputed",
+   "evidenceTypes": [
+    "textual",
+    "epigraphic",
+    "religious tradition"
+   ],
+   "mainstream": "Islamic tradition dates the birth of the Prophet Muhammad to the 'Year of the Elephant', when Abraha, the Aksumite-backed Christian ruler of Himyar in Yemen, marched on Mecca with an army including at least one war elephant to destroy the Kaaba. According to the Quran's Sura al-Fil and later accounts, the lead elephant, Mahmud, knelt and refused to advance, and flocks of birds (ababil) pelted the army with stones of baked clay, destroying it. Abraha himself is a real, well-documented king: his inscriptions in South Arabia record dam repairs at Ma'rib and military campaigns deep into central Arabia, including one dated 552.",
+   "alternatives": [
+    {
+     "label": "Historical core, debated date",
+     "text": "Many historians accept that a South Arabian expedition under Abraha reached the Hijaz, but Abraha's own inscriptions point to campaigns around 552, two decades before the traditional date of 570; some therefore think the story attached a famous earlier campaign to the year of Muhammad's birth, or that the dating of his birth is symbolic. A recently found Himyarite inscription that may mention elephants has been suggested as support for the campaign."
+    },
+    {
+     "label": "Disease as the birds?",
+     "text": "Ibn Ishaq reports that smallpox and measles first appeared in Arabia that year, and some modern writers suggest an epidemic struck the army; this is a naturalistic reading that believers do not need and historians cannot confirm."
+    },
+    {
+     "label": "Religious view",
+     "text": "For Muslims the destruction of the army is a miracle protecting the Kaaba, foreshadowing the Prophet's mission."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Year of the Elephant",
+     "url": "https://en.wikipedia.org/wiki/Year_of_the_Elephant",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Abraha",
+     "url": "https://en.wikipedia.org/wiki/Abraha",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Umar_Farrukh%27s_Year_of_the_Elephant.png/500px-Umar_Farrukh%27s_Year_of_the_Elephant.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Umar_Farrukh%27s_Year_of_the_Elephant.png",
+     "author": "Unknown authorUnknown author",
+     "license": "Public domain",
+     "title": "Umar_Farrukh's_Year_of_the_Elephant.png"
+    }
+   ],
+   "categories": [
+    "history",
+    "religion",
+    "myth-legend"
+   ],
+   "threads": [
+    "plagues-and-epidemics",
+    "divine-punishment",
+    "dating-the-past"
+   ]
+  },
+  {
+   "id": "al-hakim-disappearance",
+   "title": "Al-Hakim, the \"Mad Caliph\" who vanished in the hills (1021)",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1021,
+   "end": null,
+   "dateNote": "Reigned 996-1021; disappeared 13 February 1021",
+   "evidenceTypes": [
+    "textual"
+   ],
+   "mainstream": "Al-Hakim bi-Amr Allah (985-1021?) was the sixth Fatimid caliph, ruling Egypt and much of North Africa and the Levant from Cairo. His reign became famous for sudden, contradictory decrees - bans on certain foods, strict rules on women in public, curbs on night-time business and entertainment - and for persecution of Christians and Jews, including the 1009 order to demolish the Church of the Holy Sepulchre in Jerusalem, an act later cited among the grievances behind the Crusades. He also founded the Dar al-Ilm, a public library and academy in Cairo. On the night of 13 February 1021 he rode out alone, as he often did, into the Muqattam hills east of Cairo and never returned; his donkey and later his bloodstained clothes were reportedly found. His fate remains unknown.",
+   "alternatives": [
+    {
+     "label": "Murder theory",
+     "text": "Medieval chroniclers suspected a plot by his powerful sister Sitt al-Mulk, who became regent for his young son; modern historians note that there is no direct evidence implicating her."
+    },
+    {
+     "label": "Occultation and return",
+     "text": "The Druze faith, which emerged in 1017-18 and held that the divine was manifested in al-Hakim, teaches that he did not die but went into concealment and will return at the end of time - one of several \"hidden leader\" beliefs in Islamic and other traditions."
+    },
+    {
+     "label": "Mad or misunderstood?",
+     "text": "He has been portrayed as the \"Nero of Egypt\" by hostile sources and as a just, ascetic ruler by followers; some historians argue that many of his measures had political or religious logic that was later caricatured."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Al-Hakim bi-Amr Allah",
+     "url": "https://en.wikipedia.org/wiki/Al-Hakim_bi-Amr_Allah",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Druze",
+     "url": "https://en.wikipedia.org/wiki/Druze",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Gold_dinar_of_al-Hakim_bi-Amr_Allah%2C_AH_391.jpg/500px-Gold_dinar_of_al-Hakim_bi-Amr_Allah%2C_AH_391.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Gold_dinar_of_al-Hakim_bi-Amr_Allah,_AH_391.jpg",
+     "author": "Unknown authorUnknown author",
+     "license": "CC BY-SA 2.5",
+     "title": "Gold_dinar_of_al-Hakim_bi-Amr_Allah,_AH_391.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "religion",
+    "anomalies"
+   ],
+   "threads": [
+    "sacred-kingship",
+    "disappearances",
+    "returning-saviours"
+   ]
+  },
+  {
+   "id": "zahhak-serpent-king",
+   "title": "Zahhak: the Persian king with serpents growing from his shoulders",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": -1000,
+   "end": null,
+   "dateNote": "Avestan texts c. 1000-500 BCE (date uncertain); Shahnameh 1010 CE",
+   "evidenceTypes": [
+    "textual",
+    "mythological",
+    "comparative mythology"
+   ],
+   "mainstream": "Zahhak (Avestan Aži Dahāka) begins in the Zoroastrian Avesta as a three-headed dragon-demon, created by the evil spirit Angra Mainyu. In Ferdowsi's Shahnameh (completed 1010) he becomes a tyrant king: tempted by the devil Iblis, who kisses his shoulders, he grows two black serpents from them that must be fed human brains every day. He overthrows the legendary king Jamshid and reigns for a thousand years until the blacksmith Kaveh raises his leather apron on a spear as a banner of revolt (the origin of the legendary Derafsh Kaviani standard of Iran), and the hero Fereydun strikes him with an ox-headed mace and chains him in a cave beneath Mount Damavand, where he must remain until the end of the world.",
+   "alternatives": [
+    {
+     "label": "Echo of a real king?",
+     "text": "Medieval and modern writers have tried to identify Zahhak with a historical tyrant: Ferdowsi makes him an Arab prince; others linked him to the Median king Astyages (Armenian tradition calls Astyages \"Azhdahak\") or to Babylonian rulers. Most scholars see him primarily as a mythological dragon later \"historicised\"."
+    },
+    {
+     "label": "Indo-Iranian dragon",
+     "text": "Comparative mythologists link Aži Dahāka with the Vedic serpent Ahi slain by Indra and with a wider Indo-European dragon-slaying myth; the chained monster awaiting the end of the world parallels Loki and Fenrir in Norse myth and Amirani in Georgian legend."
+    },
+    {
+     "label": "Medical reading",
+     "text": "The 14th-century historian Abu al-Fida suggested the \"serpents\" were moving tumours on his shoulders; this is one of many rationalising explanations of the story."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Zahhak",
+     "url": "https://en.wikipedia.org/wiki/Zahhak",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Kaveh the Blacksmith",
+     "url": "https://en.wikipedia.org/wiki/Kaveh_the_Blacksmith",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Shahnameh",
+     "url": "https://en.wikipedia.org/wiki/Shahnameh",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Mir_Musavvir_002_%28Zahhak%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Mir_Musavvir_002_(Zahhak).jpg",
+     "author": "Mir Mossavvir",
+     "license": "Public domain",
+     "title": "Mir_Musavvir_002_(Zahhak).jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion"
+   ],
+   "threads": [
+    "serpent-beings",
+    "sacred-kingship",
+    "sleeping-heroes",
+    "iranian-worlds",
+    "resistance-to-empire",
+    "dragon-slayers"
+   ]
+  },
+  {
+   "id": "tusi-couple-maragheh",
+   "title": "The Maragheh observatory and the Tusi couple: an Islamic route to Copernicus?",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1259,
+   "end": null,
+   "dateNote": "Tusi couple 1247; observatory founded 1259",
+   "evidenceTypes": [
+    "textual",
+    "mathematical",
+    "instrumental"
+   ],
+   "mainstream": "In 1259 the Mongol ruler Hulegu, a year after sacking Baghdad, founded an observatory at Maragheh in north-west Iran under the Persian scholar Nasir al-Din al-Tusi. It gathered astronomers from across Eurasia, including China, and built a large library and instruments; its observations produced the Ilkhanic astronomical tables (Zij-i Ilkhani). Already in 1247 al-Tusi had devised the 'Tusi couple', a small circle rolling inside a circle twice its size, which turns two circular motions into a straight-line motion. Astronomers of the so-called Maragha school used it and similar devices to remove the 'equant' from Ptolemy's planetary models.",
+   "alternatives": [
+    {
+     "label": "Copernicus's hidden debt?",
+     "text": "Nearly three centuries later Copernicus used the same geometric device, and his lunar and Mercury models closely resemble those of the Damascus astronomer Ibn al-Shatir (14th century). Many historians (for example George Saliba and F. Jamil Ragep) argue that Copernicus must have learned of these models, possibly via Byzantine Greek translations such as those of Gregory Chioniades or through Italian scholars; no direct chain of transmission has been found."
+    },
+    {
+     "label": "Independent discovery",
+     "text": "Other historians think Copernicus, a skilled geometer facing the same problem, could have reinvented the device independently; the case is circumstantial."
+    },
+    {
+     "label": "Not heliocentric",
+     "text": "The Maragha astronomers kept the Earth at the centre; their innovations were geometric, so the debate concerns Copernicus's tools rather than his Sun-centred idea."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Tusi couple",
+     "url": "https://en.wikipedia.org/wiki/Tusi_couple",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Maragheh observatory",
+     "url": "https://en.wikipedia.org/wiki/Maragheh_observatory",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Nasir al-Din al-Tusi",
+     "url": "https://en.wikipedia.org/wiki/Nasir_al-Din_al-Tusi",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Maraga_observatory.jpg/500px-Maraga_observatory.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Maraga_observatory.jpg",
+     "author": "ایوب فارابی اصل",
+     "license": "CC BY-SA 3.0",
+     "title": "Maraga_observatory.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "science-cosmos"
+   ],
+   "threads": [
+    "changed-understanding",
+    "ancient-astronomy",
+    "knowledge-and-power",
+    "steppe-empires",
+    "scientific-revolution",
+    "iranian-worlds",
+    "who-got-there-first",
+    "islamic-golden-age"
    ]
   }
  ]
