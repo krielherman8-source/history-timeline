@@ -4806,7 +4806,9 @@
     "archaeology",
     "history"
    ],
-   "threads": []
+   "threads": [
+    "japanese-worlds"
+   ]
   },
   {
    "id": "sanxingdui",
@@ -6025,7 +6027,8 @@
    "threads": [
     "creation-myths",
     "descents-to-the-underworld",
-    "dont-look-back"
+    "dont-look-back",
+    "japanese-worlds"
    ]
   },
   {
@@ -10368,7 +10371,8 @@
     "anomalies"
    ],
    "threads": [
-    "ufo-encounters"
+    "ufo-encounters",
+    "japanese-worlds"
    ]
   },
   {
@@ -13882,7 +13886,8 @@
     "giant-monuments",
     "hidden-tombs",
     "knowledge-and-power",
-    "sacred-kingship"
+    "sacred-kingship",
+    "japanese-worlds"
    ]
   },
   {
@@ -13932,7 +13937,8 @@
    ],
    "threads": [
     "otherworld-visits",
-    "time-slips"
+    "time-slips",
+    "japanese-worlds"
    ]
   },
   {
@@ -14037,7 +14043,8 @@
    ],
    "threads": [
     "sky-beings",
-    "moon-myths"
+    "moon-myths",
+    "japanese-worlds"
    ]
   },
   {
@@ -23698,7 +23705,8 @@
     "hidden-tombs",
     "sacred-kingship",
     "hidden-kingdoms",
-    "human-sacrifice"
+    "human-sacrifice",
+    "japanese-worlds"
    ]
   },
   {
@@ -23764,7 +23772,8 @@
    "threads": [
     "volcanoes-and-memory",
     "shapeshifters",
-    "petrified-beings"
+    "petrified-beings",
+    "japanese-worlds"
    ]
   },
   {
@@ -23829,7 +23838,8 @@
    "threads": [
     "hoaxes-exposed",
     "outsider-builder-claims",
-    "forged-documents"
+    "forged-documents",
+    "japanese-worlds"
    ]
   },
   {
@@ -23962,7 +23972,8 @@
    "threads": [
     "serpent-beings",
     "millenarian-movements",
-    "earthquake-lore"
+    "earthquake-lore",
+    "japanese-worlds"
    ]
   },
   {
@@ -28077,7 +28088,8 @@
    ],
    "threads": [
     "millenarian-movements",
-    "suppressed-beliefs"
+    "suppressed-beliefs",
+    "japanese-worlds"
    ]
   },
   {
@@ -37130,7 +37142,8 @@
    ],
    "threads": [
     "changed-understanding",
-    "hunter-gatherer-monuments"
+    "hunter-gatherer-monuments",
+    "japanese-worlds"
    ]
   },
   {
@@ -37187,7 +37200,8 @@
    "threads": [
     "divine-punishment",
     "storms-that-changed-history",
-    "mongolia-and-siberia"
+    "mongolia-and-siberia",
+    "japanese-worlds"
    ]
   },
   {
@@ -37232,7 +37246,8 @@
    "threads": [
     "cryptids",
     "mummies",
-    "water-spirits"
+    "water-spirits",
+    "japanese-worlds"
    ]
   },
   {
@@ -37529,7 +37544,9 @@
    ],
    "threads": [
     "sleeping-heroes",
-    "curses-and-hauntings"
+    "curses-and-hauntings",
+    "japanese-worlds",
+    "vengeful-spirits"
    ]
   },
   {
@@ -52603,7 +52620,8 @@
    "threads": [
     "seeing-what-we-expect",
     "pareidolia",
-    "curses-and-hauntings"
+    "curses-and-hauntings",
+    "japanese-worlds"
    ]
   },
   {
@@ -52670,7 +52688,8 @@
    "threads": [
     "genetic-migrations",
     "erased-from-history",
-    "resistance-to-empire"
+    "resistance-to-empire",
+    "japanese-worlds"
    ]
   },
   {
@@ -54448,7 +54467,8 @@
     "sacred-relics",
     "sacred-kingship",
     "shapeshifters",
-    "sleeping-heroes"
+    "sleeping-heroes",
+    "japanese-worlds"
    ]
   },
   {
@@ -54793,7 +54813,8 @@
     "sacred-relics",
     "sacred-kingship",
     "plagues-and-epidemics",
-    "silk-road"
+    "silk-road",
+    "japanese-worlds"
    ]
   },
   {
@@ -56896,7 +56917,8 @@
     "sky-omens",
     "sacred-relics",
     "sacred-kingship",
-    "sun-cults"
+    "sun-cults",
+    "japanese-worlds"
    ]
   },
   {
@@ -56946,7 +56968,8 @@
     "serpent-beings",
     "sacred-relics",
     "sacred-kingship",
-    "dragon-slayers"
+    "dragon-slayers",
+    "japanese-worlds"
    ]
   },
   {
@@ -65622,7 +65645,8 @@
    ],
    "threads": [
     "knowledge-and-power",
-    "visionary-women"
+    "visionary-women",
+    "japanese-worlds"
    ]
   },
   {
@@ -65863,7 +65887,8 @@
     "shapeshifters",
     "otherworld-visits",
     "sky-stones",
-    "sacred-rocks-and-mountains"
+    "sacred-rocks-and-mountains",
+    "japanese-worlds"
    ]
   },
   {
@@ -71491,7 +71516,8 @@
    "threads": [
     "sky-omens",
     "returning-saviours",
-    "sleeping-heroes"
+    "sleeping-heroes",
+    "japanese-worlds"
    ]
   },
   {
@@ -72221,7 +72247,8 @@
    "threads": [
     "abandoned-babies",
     "royal-propaganda",
-    "myths-about-history"
+    "myths-about-history",
+    "japanese-worlds"
    ]
   },
   {
@@ -74649,7 +74676,8 @@
     "sky-beings",
     "outsider-builder-claims",
     "seeing-what-we-expect",
-    "first-art"
+    "first-art",
+    "japanese-worlds"
    ]
   },
   {
@@ -77457,7 +77485,9 @@
     "modern-legends",
     "children-as-witnesses",
     "night-demons",
-    "rumour-and-disinformation"
+    "rumour-and-disinformation",
+    "japanese-worlds",
+    "vengeful-spirits"
    ]
   },
   {
@@ -78644,7 +78674,8 @@
     "changed-understanding",
     "knowledge-and-power",
     "suppressed-beliefs",
-    "trade-networks"
+    "trade-networks",
+    "japanese-worlds"
    ]
   },
   {
@@ -85433,6 +85464,652 @@
     "iranian-worlds",
     "who-got-there-first",
     "islamic-golden-age"
+   ]
+  },
+  {
+   "id": "forty-seven-ronin",
+   "title": "The forty-seven rōnin: the Akō vendetta of 1703 and the legend of Chūshingura",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1701,
+   "end": 1703,
+   "dateNote": "Attack in Edo Castle April 1701; vendetta 30-31 January 1703 (Gregorian)",
+   "evidenceTypes": [
+    "textual"
+   ],
+   "mainstream": "In 1701 Asano Naganori, lord of Akō, drew his sword and wounded the senior court official Kira Yoshinaka inside Edo Castle, reportedly after being insulted; drawing a weapon in the castle was a capital offence and Asano was ordered to commit seppuku that same day, his domain confiscated and his samurai made rōnin (masterless). Led by Ōishi Kuranosuke, a group of them waited almost two years, then on the night of 30-31 January 1703 (14th day of the 12th month of Genroku 15) broke into Kira's Edo mansion, killed him and carried his head to Asano's grave at Sengaku-ji temple. Amid wide public sympathy, the shogunate ordered 46 of them to commit seppuku instead of being executed as criminals; the youngest messenger, Terasaka Kichiemon, survived. They are buried together at Sengaku-ji in Tokyo.",
+   "alternatives": [
+    {
+     "label": "History versus Chūshingura",
+     "text": "Because the shogunate banned staging current events, playwrights disguised the story; the 1748 puppet play Kanadehon Chūshingura, set in the 14th century with changed names, became the most famous version and fixed many details (Ōishi's feigned debauchery in Kyoto, romances) that are dramatic inventions rather than documented history."
+    },
+    {
+     "label": "Model of loyalty or of lawlessness?",
+     "text": "Already in the 18th century Confucian scholars argued over whether the rōnin were heroes of loyalty or criminals who should have killed Kira immediately or not at all; in the 20th century the story was promoted as a model of bushidō, including by wartime nationalism, which shapes how it is read today."
+    },
+    {
+     "label": "The insult",
+     "text": "What Kira actually did to provoke Asano is not recorded; theories range from demands for bribes to personal slights to a dispute over salt production, and some historians suggest Asano was ill or unstable."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Forty-seven rōnin",
+     "url": "https://en.wikipedia.org/wiki/Forty-seven_r%C5%8Dnin",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Chūshingura",
+     "url": "https://en.wikipedia.org/wiki/Ch%C5%ABshingura",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Sengaku-ji",
+     "url": "https://en.wikipedia.org/wiki/Sengaku-ji",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Reward_for_47_Ronin_by_Yasuda_Raishu_%28Homma_Museum_of_Art%29.jpg/500px-Reward_for_47_Ronin_by_Yasuda_Raishu_%28Homma_Museum_of_Art%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Reward_for_47_Ronin_by_Yasuda_Raishu_(Homma_Museum_of_Art).jpg",
+     "author": "Yasuda Raishū 安田雷洲 (?-1858)",
+     "license": "Public domain",
+     "title": "Reward_for_47_Ronin_by_Yasuda_Raishu_(Homma_Museum_of_Art).jpg"
+    }
+   ],
+   "categories": [
+    "history"
+   ],
+   "threads": [
+    "royal-propaganda",
+    "myths-about-history",
+    "japanese-worlds"
+   ]
+  },
+  {
+   "id": "michizane-tenjin",
+   "title": "Sugawara no Michizane: the exiled scholar whose angry ghost became the god of learning",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": 903,
+   "end": null,
+   "dateNote": "Died 903; Seiryōden lightning 930; Kitano shrine 947",
+   "evidenceTypes": [
+    "textual",
+    "religious tradition"
+   ],
+   "mainstream": "Sugawara no Michizane (845-903) was a brilliant scholar, poet and minister of the Heian court. In 901 his rival Fujiwara no Tokihira had him demoted and exiled to Dazaifu in Kyushu, where he died in 903. In the following decades Tokihira died young, plague and drought struck the capital, sons of Emperor Daigo died, and in 930 lightning struck the Seiryōden hall of the imperial palace, killing several officials; Emperor Daigo fell ill and died months later. The court attributed these disasters to Michizane's vengeful spirit (onryō), posthumously restored his rank and in 947 founded the Kitano Tenmangū shrine in Kyoto to appease him. As Tenjin he became one of Shinto's most popular gods - the patron of scholarship, visited by millions of students before exams.",
+   "alternatives": [
+    {
+     "label": "Historical reading",
+     "text": "Historians see the onryō belief as a way Heian society explained a run of real deaths, epidemics and storms, and as political commentary: deifying the wronged minister implicitly criticised the Fujiwara regents who ruined him."
+    },
+    {
+     "label": "Believers' view",
+     "text": "In Shinto tradition the disasters were genuine signs of Michizane's angry spirit, and enshrinement transformed a curse into a blessing; one of the \"Three Great Onryō of Japan\" with Taira no Masakado and Emperor Sutoku."
+    },
+    {
+     "label": "The flying plum",
+     "text": "A legend says his beloved plum tree in Kyoto flew after him to Dazaifu (the tobi-ume, still shown at Dazaifu Tenmangū); a more prosaic version says a seedling was transplanted there."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Sugawara no Michizane",
+     "url": "https://en.wikipedia.org/wiki/Sugawara_no_Michizane",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Tenjin (kami)",
+     "url": "https://en.wikipedia.org/wiki/Tenjin_(kami)",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Kitano Tenmangū",
+     "url": "https://en.wikipedia.org/wiki/Kitano_Tenmang%C5%AB",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/%E6%9D%9F%E5%B8%AF%E5%A4%A9%E7%A5%9E%E5%83%8F.png/500px-%E6%9D%9F%E5%B8%AF%E5%A4%A9%E7%A5%9E%E5%83%8F.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:%E6%9D%9F%E5%B8%AF%E5%A4%A9%E7%A5%9E%E5%83%8F.png",
+     "author": "Unknown authorUnknown author",
+     "license": "Public domain",
+     "title": "束帯天神像.png"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion",
+    "history"
+   ],
+   "threads": [
+    "curses-and-hauntings",
+    "kings-who-became-gods",
+    "storm-raisers",
+    "japanese-worlds",
+    "vengeful-spirits"
+   ]
+  },
+  {
+   "id": "abe-no-seimei",
+   "title": "Abe no Seimei: the court diviner said to be the son of a fox",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 3,
+   "start": 960,
+   "end": 1005,
+   "dateNote": "921-1005",
+   "evidenceTypes": [
+    "textual",
+    "oral tradition"
+   ],
+   "mainstream": "Abe no Seimei (921-1005) was a real official of the Heian court, an onmyōji: a specialist in Onmyōdō, a system of divination, calendar-making, astrology and protective ritual derived from Chinese yin-yang and five-elements thought. He served several emperors, read omens, chose auspicious days and performed rites against misfortune, and his descendants, the Tsuchimikado family, controlled the court's Bureau of Onmyō for centuries. After his death he became a legendary wizard: stories credit him with commanding invisible spirit servants (shikigami), defeating rival sorcerers such as Ashiya Dōman and exposing demons; later legends make his mother Kuzunoha a white fox (kitsune) who returned to the forest when her nature was discovered.",
+   "alternatives": [
+    {
+     "label": "Real official, legendary wizard",
+     "text": "Historians distinguish the documented career of a long-lived court technician from the medieval and Edo-period tales, plays and modern manga and films (such as the 2001 film Onmyoji) that turned him into a \"Japanese Merlin\"."
+    },
+    {
+     "label": "The five-pointed star",
+     "text": "A pentagram called the Seiman or Seimei kikyō became his emblem and is displayed at the Seimei Shrine in Kyoto, founded in 1007 on the site of his house; similar star symbols appear as protective signs in many cultures."
+    },
+    {
+     "label": "Fox ancestry",
+     "text": "Fox-wife stories, in which an animal wife bears a human child and leaves when discovered, occur across East Asia and resemble selkie and swan-maiden tales elsewhere; scholars see Seimei's fox mother as a later legend explaining his powers."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Abe no Seimei",
+     "url": "https://en.wikipedia.org/wiki/Abe_no_Seimei",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Onmyōdō",
+     "url": "https://en.wikipedia.org/wiki/Onmy%C5%8Dd%C5%8D",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Abe_Seimei.jpg/500px-Abe_Seimei.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Abe_Seimei.jpg",
+     "author": "Unknown",
+     "license": "Public domain",
+     "title": "Abe_Seimei.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "history",
+    "religion"
+   ],
+   "threads": [
+    "shapeshifters",
+    "miracle-workers",
+    "japanese-worlds"
+   ]
+  },
+  {
+   "id": "okiku-plate-mansion",
+   "title": "Okiku and the Plate Mansion: the ghost who counts to nine",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 3,
+   "start": 1741,
+   "end": null,
+   "dateNote": "First staged 1741; folk versions older",
+   "evidenceTypes": [
+    "oral tradition",
+    "textual",
+    "theatre"
+   ],
+   "mainstream": "Banchō Sarayashiki ('The Dish Mansion at Banchō') is one of Japan's most famous ghost stories (kaidan). In its many versions a servant, Okiku, is blamed for losing or breaking one of ten precious plates, is killed - often thrown into a well - and returns as a vengeful spirit (onryō) who rises at night to count the plates from one to nine and then shrieks for the missing tenth. Folk versions set the story at Himeji Castle, where a well is still shown as 'Okiku's Well'; other versions set it in the Banchō district of Edo. It reached the stage as a bunraku puppet play in 1741 and many kabuki adaptations followed, including Okamoto Kidō's 1916 version.",
+   "alternatives": [
+    {
+     "label": "Origin of the long-haired well ghost",
+     "text": "The image of a pale woman with long black hair rising from a well became a classic of Japanese horror; the ghost Sadako in Koji Suzuki's Ring novels and films is widely regarded as drawing on Okiku."
+    },
+    {
+     "label": "The Okiku insect",
+     "text": "In 1795 wells were infested by a pupa that looks as if tied with threads; people called it the \"Okiku bug\" and believed it was Okiku reborn - an example of a natural phenomenon absorbed into a legend."
+    },
+    {
+     "label": "Real murder behind it?",
+     "text": "Local traditions in Himeji and Edo name supposed historical people and dates, but no contemporary record of a real Okiku has been confirmed; folklorists treat it as a widespread tale type."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Banchō Sarayashiki",
+     "url": "https://en.wikipedia.org/wiki/Banch%C5%8D_Sarayashiki",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Onryō",
+     "url": "https://en.wikipedia.org/wiki/Onry%C5%8D",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Yoshitoshi_Ogiku.jpg/500px-Yoshitoshi_Ogiku.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Yoshitoshi_Ogiku.jpg",
+     "author": "Tsukioka Yoshitoshi, Okiku,",
+     "license": "Public domain",
+     "title": "Yoshitoshi_Ogiku.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend"
+   ],
+   "threads": [
+    "curses-and-hauntings",
+    "japanese-worlds",
+    "vengeful-spirits"
+   ]
+  },
+  {
+   "id": "shimabara-rebellion",
+   "title": "The Shimabara Rebellion (1637-38): Amakusa Shirō and Japan's Christian uprising",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1637,
+   "end": 1638,
+   "dateNote": "17 December 1637 - 15 April 1638",
+   "evidenceTypes": [
+    "textual",
+    "archaeological"
+   ],
+   "mainstream": "In December 1637 peasants and masterless samurai of the Shimabara peninsula and Amakusa islands in Kyushu, many of them Catholic Christians, rose against crushing taxes and the violent persecution of Christianity by the local lord Matsukura Katsuie. They were led by a charismatic teenager, Amakusa Shirō, whom followers saw as a heaven-sent saviour, and fortified the ruined Hara Castle. A shogunate army of over 125,000 besieged them; a Dutch ship even bombarded the castle in support. When Hara fell in April 1638, about 37,000 rebels and sympathisers were killed or beheaded. Matsukura was executed - the only daimyo beheaded in the Edo period - and the shogunate expelled the Portuguese and tightened its 'closed country' policy, driving Christianity fully underground.",
+   "alternatives": [
+    {
+     "label": "Religious war or tax revolt?",
+     "text": "Historians debate whether the rising was mainly a Christian holy war, as the shogunate portrayed it to justify a ban, or an economic revolt by starving farmers in which Christianity provided leadership and hope; most see a mixture of both."
+    },
+    {
+     "label": "Shirō the prophesied boy",
+     "text": "Stories claimed a Jesuit missionary had foretold a 16-year-old boy who would save the Christians, and miracles were attributed to Shirō; how much of this the rebels believed and how much was later legend is uncertain."
+    },
+    {
+     "label": "Archaeology at Hara",
+     "text": "Excavations at Hara Castle have found crosses, rosary beads and medals alongside mass graves of the defenders, confirming the Christian identity of many and the scale of the massacre."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Shimabara Rebellion",
+     "url": "https://en.wikipedia.org/wiki/Shimabara_Rebellion",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Amakusa Shirō",
+     "url": "https://en.wikipedia.org/wiki/Amakusa_Shir%C5%8D",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Hara Castle",
+     "url": "https://en.wikipedia.org/wiki/Hara_Castle",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Shimabara-Battle-Map-c17th-century.png/500px-Shimabara-Battle-Map-c17th-century.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Shimabara-Battle-Map-c17th-century.png",
+     "author": "Unknown authorUnknown author",
+     "license": "Public domain",
+     "title": "Shimabara-Battle-Map-c17th-century.png"
+    }
+   ],
+   "categories": [
+    "history",
+    "religion"
+   ],
+   "threads": [
+    "millenarian-movements",
+    "suppressed-beliefs",
+    "holy-wars",
+    "resistance-to-empire",
+    "japanese-worlds"
+   ]
+  },
+  {
+   "id": "ryukyu-kingdom",
+   "title": "The Ryukyu Kingdom: the \"bridge of nations\" swallowed by Japan (1429-1879)",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1429,
+   "end": 1879,
+   "dateNote": "1429-1879",
+   "evidenceTypes": [
+    "textual",
+    "archaeological"
+   ],
+   "mainstream": "The Ryukyu Kingdom united Okinawa island in 1429 under Shō Hashi and grew rich as a maritime trading hub linking China, Japan, Korea and Southeast Asia; a bronze bell cast for Shuri Castle in 1458 proclaimed the kingdom a 'bridge between nations'. It was a tributary of Ming and Qing China, but in 1609 the Japanese Satsuma domain invaded and made it a vassal while keeping it nominally independent - a 'dual subordination' that let Japan trade indirectly with China. Commodore Perry visited in 1853. Meiji Japan turned the kingdom into a domain in 1872 and annexed it outright as Okinawa Prefecture in 1879, deposing the last king, Shō Tai.",
+   "alternatives": [
+    {
+     "label": "Annexation contested",
+     "text": "China (Qing) protested the 1879 annexation, and some Chinese commentators still question Japan's sovereignty claims rooted in it; Japan regards the matter as long settled. Some Okinawan activists describe the \"Ryukyu disposition\" as colonisation and advocate greater autonomy."
+    },
+    {
+     "label": "Distinct languages and religion",
+     "text": "Ryukyuan languages are now recognised by UNESCO as endangered separate languages rather than Japanese dialects, and the indigenous religion centred on noro priestesses and sacred groves (utaki) survives; many scholars see Ryukyu as a distinct civilisation rather than a Japanese periphery."
+    },
+    {
+     "label": "A kingdom of shows",
+     "text": "Satsuma made Ryukyuan envoys wear Chinese-style dress and hide any knowledge of Japanese when parading through Edo, to emphasise Ryukyu's foreignness - an example of how the kingdom's identity was staged by its rulers."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Ryukyu Kingdom",
+     "url": "https://en.wikipedia.org/wiki/Ryukyu_Kingdom",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Ryukyu Disposition",
+     "url": "https://en.wikipedia.org/wiki/Ryukyu_Disposition",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Shuri Castle",
+     "url": "https://en.wikipedia.org/wiki/Shuri_Castle",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Former_Shuri_Castle_Seiden_Bell.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Former_Shuri_Castle_Seiden_Bell.jpg",
+     "author": "pre-war photographer",
+     "license": "Public domain",
+     "title": "Former Shuri Castle Seiden Bell.jpg"
+    }
+   ],
+   "categories": [
+    "history"
+   ],
+   "threads": [
+    "erased-from-history",
+    "trade-networks",
+    "royal-propaganda",
+    "resistance-to-empire",
+    "japanese-worlds"
+   ]
+  },
+  {
+   "id": "heo-hwang-ok",
+   "title": "Heo Hwang-ok: the princess from \"Ayuta\" who sailed to Korea",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": 48,
+   "end": null,
+   "dateNote": "Traditionally arrived 48 CE; recorded 13th century",
+   "evidenceTypes": [
+    "textual",
+    "genetic",
+    "oral tradition"
+   ],
+   "mainstream": "According to the Samguk yusa, a 13th-century Korean chronicle compiled by the monk Iryeon from an earlier lost Record of Garak, in 48 CE a 16-year-old princess named Heo Hwang-ok arrived by ship with a red sail from the distant kingdom of 'Ayuta' and married King Suro, founder of Geumgwan Gaya in south-east Korea. She is said to have borne him twelve children and to have lived to the age of 157. Millions of Koreans of the Gimhae Kim, Gimhae Heo and Incheon Yi clans trace descent from the couple, and a tomb in Gimhae is venerated as hers. A popular modern view identifies Ayuta with Ayodhya in India; South Korea and India have built a memorial to her there.",
+   "alternatives": [
+    {
+     "label": "Indian princess",
+     "text": "Supporters cite the name's similarity to Ayodhya, a stone pagoda said to have been brought on her ship, twin-fish motifs at Suro's tomb and a 2004 study that found a mitochondrial lineage in ancient Gimhae remains more common in South Asia; the princess has become a symbol of Korea-India friendship."
+    },
+    {
+     "label": "Sceptical view",
+     "text": "Many Korean historians note that the story exists only in the late, Buddhist-coloured Samguk yusa (the older Samguk sagi does not mention her), that Ayodhya is far inland, that the twin-fish motif has other origins, and that the genetic lineage is too widespread to pinpoint India; they see a later legend elevating the Gaya royal line, perhaps linked to Buddhism's Indian prestige."
+    },
+    {
+     "label": "Other homelands",
+     "text": "Alternative suggestions place Ayuta in Thailand (Ayutthaya, though that city was founded only in 1350), in China's Sichuan, or treat it as purely symbolic. The romantic name \"Suriratna\" often used today comes from a modern Indian comic, not ancient sources."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Heo Hwang-ok",
+     "url": "https://en.wikipedia.org/wiki/Heo_Hwang-ok",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Suro of Geumgwan Gaya",
+     "url": "https://en.wikipedia.org/wiki/Suro_of_Geumgwan_Gaya",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Samguk yusa",
+     "url": "https://en.wikipedia.org/wiki/Samguk_yusa",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Queen_Suro_Tomb.jpg/500px-Queen_Suro_Tomb.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Queen_Suro_Tomb.jpg",
+     "author": "Rémi Cormier",
+     "license": "CC BY-SA 3.0",
+     "title": "Queen Suro Tomb.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "history"
+   ],
+   "threads": [
+    "ocean-voyagers",
+    "genetic-migrations",
+    "founding-ancestors",
+    "korean-kingdoms"
+   ]
+  },
+  {
+   "id": "emille-bell",
+   "title": "The Emille Bell: Korea's greatest bell and the legend of the child in the molten bronze",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 3,
+   "start": 771,
+   "end": null,
+   "dateNote": "Cast 771",
+   "evidenceTypes": [
+    "archaeological",
+    "oral tradition",
+    "metallurgical analysis"
+   ],
+   "mainstream": "The Sacred Bell of Great King Seongdeok is the largest surviving bronze bell in Korea: 3.75 m tall and weighing 18.9 tonnes, it was commissioned by King Gyeongdeok of Silla in memory of his father and finally cast in 771 under his son, King Hyegong. Its inscription praises Buddhist teaching. It is famous for its long, deep, pulsing tone and is now displayed at the Gyeongju National Museum. Its popular name, the 'Emille Bell', comes from a legend that repeated castings failed until a poor woman's child was thrown into the molten metal, after which the bell sounded 'emille' - like a child crying for its mother.",
+   "alternatives": [
+    {
+     "label": "Tested by science",
+     "text": "A 1998 analysis of the bell's metal composition by a Korean industrial research institute found no detectable phosphorus, the main element of bone, which most take as disproving the sacrifice legend; one of the oldest written versions of the story appears only in Homer Hulbert's 1906 book The Passing of Korea."
+    },
+    {
+     "label": "Human sacrifice in Silla?",
+     "text": "Archaeologists have found remains of children in Silla-period wells and foundation deposits, and some argue that construction sacrifice was not unknown; this keeps the question of where such legends come from open, even if this bell is not an example."
+    },
+    {
+     "label": "Cross-cultural pattern",
+     "text": "Similar \"sacrifice to make the work succeed\" legends are told of bells in China and of bridges, walls and castles in the Balkans and elsewhere (the Ballad of Master Manole, the Bridge of Arta)."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Bell of King Seongdeok",
+     "url": "https://en.wikipedia.org/wiki/Bell_of_King_Seongdeok",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Gyeongju National Museum",
+     "url": "https://en.wikipedia.org/wiki/Gyeongju_National_Museum",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/National_Museum-Emile_Bell_-_Gyeongju_3781-06.JPG/500px-National_Museum-Emile_Bell_-_Gyeongju_3781-06.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:National_Museum-Emile_Bell_-_Gyeongju_3781-06.JPG",
+     "author": "Steve46814",
+     "license": "CC BY-SA 4.0",
+     "title": "National_Museum-Emile_Bell_-_Gyeongju_3781-06.JPG"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "archaeology"
+   ],
+   "threads": [
+    "changed-understanding",
+    "hoaxes-exposed",
+    "human-sacrifice",
+    "tested-by-experiment",
+    "korean-kingdoms"
+   ]
+  },
+  {
+   "id": "mimana-gaya-debate",
+   "title": "Gaya and \"Mimana\": the iron confederacy at the heart of a Korea-Japan history dispute",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 42,
+   "end": 562,
+   "dateNote": "Traditionally 42-562 CE",
+   "statusNote": "Gaya confirmed; Mimana interpretation disputed",
+   "evidenceTypes": [
+    "archaeological",
+    "textual"
+   ],
+   "mainstream": "The Gaya (Kaya) confederacy was a group of small polities in the Nakdong River basin of southern Korea, traditionally dated 42-562 CE, until it was absorbed by Silla. It was rich in iron, which it exported as ingots to the Japanese islands and to the Korean kingdoms, and its royal tombs at Daeseong-dong (Gimhae) and Jisan-dong (Goryeong) have yielded armour, crowns and horse gear. The 8th-century Japanese chronicle Nihon Shoki refers to a region called 'Mimana' and describes a 'Mimana Nihon-fu' that has been read as a Japanese government office in southern Korea.",
+   "alternatives": [
+    {
+     "label": "Japanese colony theory (rejected)",
+     "text": "In the late 19th and early 20th centuries Japanese historians used these passages to claim that the Yamato state ruled southern Korea for two centuries, an idea used to justify the annexation of Korea in 1910. Today historians in both Korea and Japan reject the colonial-administration reading, and in 2010 a joint study group of Japanese and South Korean historians, sponsored by both governments, agreed that Gaya had never been militarily colonised by ancient Japan."
+    },
+    {
+     "label": "Trading post or diplomatic mission",
+     "text": "Many scholars now think \"Mimana\" refers to Gaya or one of its polities, and that the Nihon-fu, if it existed, was a diplomatic or trade presence or a group of Japanese-affiliated people in Gaya. Keyhole-shaped tombs of Japanese type found in south-west Korea add to the debate about who lived where."
+    },
+    {
+     "label": "Influence in reverse",
+     "text": "Others emphasise that Gaya iron, potters and horse-riding culture strongly influenced Kofun-period Japan, so that the flow of people and technology was largely from Korea to Japan."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Kaya confederacy",
+     "url": "https://en.wikipedia.org/wiki/Kaya_confederacy",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Mimana",
+     "url": "https://en.wikipedia.org/wiki/Mimana",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Nihon Shoki",
+     "url": "https://en.wikipedia.org/wiki/Nihon_Shoki",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/5th_century_Kaya_confederacy.png/500px-5th_century_Kaya_confederacy.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:5th_century_Kaya_confederacy.png",
+     "author": "Asieon",
+     "license": "CC0",
+     "title": "5th_century_Kaya_confederacy.png"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology"
+   ],
+   "threads": [
+    "changed-understanding",
+    "knowledge-and-power",
+    "trade-networks",
+    "korean-kingdoms",
+    "royal-propaganda"
+   ]
+  },
+  {
+   "id": "tripitaka-koreana",
+   "title": "The Tripitaka Koreana: 81,000 woodblocks carved to turn back the Mongols",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1237,
+   "end": 1248,
+   "dateNote": "Carved 1237-1248",
+   "evidenceTypes": [
+    "archaeological",
+    "textual"
+   ],
+   "mainstream": "The Tripitaka Koreana is the complete Buddhist canon in Classical Chinese carved onto more than 81,000 wooden printing blocks in 13th-century Goryeo Korea and now kept at Haeinsa temple. An earlier set, carved in the 11th century partly as a plea for divine protection against Khitan invasions, was burned during the Mongol invasion of 1232. With the court in refuge on Ganghwa Island, King Gojong ordered a new set as a prayer for the Buddha's help against the Mongols; carving began in 1237 and took about 12 years. It is the oldest intact version of the Chinese Buddhist canon, with about 52 million characters and remarkably few errors, and its 15th-century storage halls at Haeinsa are a UNESCO World Heritage site.",
+   "alternatives": [
+    {
+     "label": "Did it work?",
+     "text": "To the Goryeo court the carving was an act of merit that could turn back invaders; the Mongols did not conquer Goryeo outright but made it a vassal in 1259-1270. Historians see the project as both religious devotion and a statement of national resilience."
+    },
+    {
+     "label": "Natural preservation",
+     "text": "The Janggyeong Panjeon halls (1488) use ventilation windows of different sizes, charcoal, lime and clay floors to control humidity naturally; a modern climate-controlled building tested in the 1970s reportedly caused the blocks to deteriorate and was abandoned, a case often cited of old engineering outperforming new."
+    },
+    {
+     "label": "Naming dispute",
+     "text": "Some Korean scholars prefer the name Palman Daejanggyeong (\"Eighty-thousand Tripitaka\") over the English \"Tripitaka Koreana\"."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Tripitaka Koreana",
+     "url": "https://en.wikipedia.org/wiki/Tripitaka_Koreana",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Haeinsa",
+     "url": "https://en.wikipedia.org/wiki/Haeinsa",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Tripitaka_Koreana_02.jpg/500px-Tripitaka_Koreana_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Tripitaka_Koreana_02.jpg",
+     "author": "Bernard Gagnon",
+     "license": "CC0",
+     "title": "Tripitaka_Koreana_02.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "religion",
+    "archaeology"
+   ],
+   "threads": [
+    "sacred-relics",
+    "knowledge-and-power",
+    "lost-libraries",
+    "steppe-empires",
+    "korean-kingdoms"
    ]
   }
  ]
