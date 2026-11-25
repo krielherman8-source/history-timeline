@@ -1,0 +1,62 @@
+{
+ "ibn-sina-canon": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=c8HlFFDTBWQ",
+  "title": "Science in a Golden Age - Al-Razi, Ibn Sina and the Canon of Medicine",
+  "channel": "Al Jazeera English"
+ },
+ "forty-seven-ronin": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=ilQKTIu2V1E",
+  "title": "The true story behind the legend of the 47 Rōnin - Adam Clulow",
+  "channel": "TED-Ed"
+ },
+ "tripitaka-koreana": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=V3cXFdaxdb4",
+  "title": "Haeinsa Temple Janggyeong Panjeon, the Depositories for  ... (UNESCO/NHK)",
+  "channel": "UNESCO"
+ },
+ "blackbeard-1718": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=v7IFTF0pSD4",
+  "title": "The Scariest Ship to Ever Sail the Seven Seas",
+  "channel": "Smithsonian Channel"
+ },
+ "chankillo-thirteen-towers": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=DQnSqJ7jGmI",
+  "title": "Mind-blowing Ancient Solar Calender | Wonders of the Universe w/ Brian Cox | BBC Studios",
+  "channel": "BBC Studios"
+ },
+ "mary-anning-sea-dragons": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=5YBiYQXtdM8",
+  "title": "Mary Anning's Story",
+  "channel": "Lyme Regis Museum"
+ },
+ "chinese-balloon-2023": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=LM3nej8H_3w",
+  "title": "Chinese spy balloon shot down off coast of South Carolina",
+  "channel": "NBC News"
+ },
+ "drone-sightings-2024": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=XaSySV3czhg",
+  "title": "Mysterious drones over New Jersey caught on camera",
+  "channel": "Associated Press"
+ },
+ "zahhak-serpent-king": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=byETySMNtIk",
+  "title": "Zahhak: The Legend of the Serpent King",
+  "channel": "Smithsonian National Museum of Asian Art"
+ },
+ "vilcabamba-last-inca": {
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=UO5ktwPXsyM",
+  "title": "The rise and fall of the Inca Empire - Gordon McEwan",
+  "channel": "TED-Ed"
+ }
+}
