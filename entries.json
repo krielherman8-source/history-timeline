@@ -39339,7 +39339,8 @@
    "threads": [
     "suppressed-beliefs",
     "caribbean-worlds",
-    "resistance-to-empire"
+    "resistance-to-empire",
+    "slave-revolts-and-maroons"
    ]
   },
   {
@@ -49459,7 +49460,8 @@
     "suppressed-beliefs",
     "caribbean-worlds",
     "myths-about-history",
-    "resistance-to-empire"
+    "resistance-to-empire",
+    "slave-revolts-and-maroons"
    ]
   },
   {
@@ -78317,7 +78319,8 @@
     "changed-understanding",
     "ocean-voyagers",
     "trade-networks",
-    "resistance-to-empire"
+    "resistance-to-empire",
+    "slave-revolts-and-maroons"
    ]
   },
   {
@@ -86110,6 +86113,619 @@
     "lost-libraries",
     "steppe-empires",
     "korean-kingdoms"
+   ]
+  },
+  {
+   "id": "thule-migration",
+   "title": "The Thule migration: how the ancestors of the Inuit crossed the Arctic in a few generations",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1000,
+   "end": 1300,
+   "dateNote": "From Alaska c. 1000 CE; Greenland by c. 1200-1300",
+   "evidenceTypes": [
+    "archaeological",
+    "genetic",
+    "radiocarbon"
+   ],
+   "mainstream": "The Thule people, ancestors of all modern Inuit, emerged in coastal Alaska around 1000 CE. Equipped with large skin boats (umiak), kayaks, dog sleds, toggling harpoons and sea-ice hunting techniques, and pursuing bowhead whales whose range expanded in a warmer period, they spread eastward across Arctic Canada with remarkable speed, reaching Greenland by the 13th century. Within a few centuries they had replaced the earlier Dorset (Paleo-Inuit) culture of the eastern Arctic. Their name comes from the Thule district of north-west Greenland, where their remains were first excavated. They met Norse Greenlanders, and Norse objects such as metal pieces and chess-like figures appear in Thule sites.",
+   "alternatives": [
+    {
+     "label": "What happened to the Dorset?",
+     "text": "A 2014 genetic study in Science found that Thule and Dorset populations stayed genetically separate, with no sign of interbreeding; whether the Dorset were displaced by competition, conflict, disease or climate is unknown. Inuit oral tradition remembers an earlier people, the Tuniit, as strong but shy giants who left the land."
+    },
+    {
+     "label": "Drawn by iron?",
+     "text": "Some archaeologists argue the rapid eastward push was partly driven by the search for metal, including iron from the Cape York meteorite in Greenland and Norse trade iron; others emphasise whales and climate."
+    },
+    {
+     "label": "Contact with the Norse",
+     "text": "The Norse sagas call the people they met Skrælings; the Norse disappeared from Greenland in the 15th century while the Thule-Inuit thrived, a contrast debated in studies of adaptation and collapse."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Thule people",
+     "url": "https://en.wikipedia.org/wiki/Thule_people",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Dorset culture",
+     "url": "https://en.wikipedia.org/wiki/Dorset_culture",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "The genetic prehistory of the New World Arctic",
+     "authors": "Raghavan, M. et al.",
+     "year": 2014,
+     "doi": "10.1126/science.1255832",
+     "type": "paper"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Edward_Augustus_Inglefield_photograph_of_Inuit_man_with_kayak_1854.jpg/500px-Edward_Augustus_Inglefield_photograph_of_Inuit_man_with_kayak_1854.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Edward_Augustus_Inglefield_photograph_of_Inuit_man_with_kayak_1854.jpg",
+     "author": "Edward Augustus Inglefield",
+     "license": "Public domain",
+     "title": "Edward Augustus Inglefield photograph of Inuit man with kayak 1854.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology"
+   ],
+   "threads": [
+    "deep-oral-memory",
+    "ocean-voyagers",
+    "genetic-migrations",
+    "arctic-peoples",
+    "who-got-there-first"
+   ]
+  },
+  {
+   "id": "qilakitsoq-mummies",
+   "title": "The Qilakitsoq mummies: an Inuit family preserved by the Greenland cold (c. 1475)",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1475,
+   "end": null,
+   "dateNote": "Died c. 1475 ± 50; found 1972",
+   "evidenceTypes": [
+    "archaeological",
+    "radiocarbon",
+    "forensic"
+   ],
+   "mainstream": "In October 1972 two brothers out hunting ptarmigan near Uummannaq in north-west Greenland found graves beneath a rock overhang at Qilakitsoq containing eight naturally freeze-dried bodies: six women of different ages and two children, a boy of about four and a baby of about six months, dressed in fur and skin clothing with spare garments for the journey to the land of the dead. Radiocarbon dating places their deaths around 1475 CE. Studied in Copenhagen from 1978 and returned to Greenland, several are displayed in the Greenland National Museum in Nuuk. They offer an unusually intimate view of Thule-Inuit life five centuries ago.",
+   "alternatives": [
+    {
+     "label": "Facial tattoos",
+     "text": "Five of the six women had facial tattoos, visible with infrared photography: lines on the forehead, cheeks and chin, made by puncturing and by stitching soot-coated sinew under the skin. They are the first certain evidence of this practice in Greenland and match later Inuit traditions of tattoos marking womanhood or marriage."
+    },
+    {
+     "label": "Why so many together?",
+     "text": "How the women and children died is unknown; no wounds were found. Suggestions include a boat accident, illness or starvation. The baby may have been buried alive with its dead mother, in line with a later recorded custom when no one could nurse an orphaned infant - an interpretation that remains uncertain."
+    },
+    {
+     "label": "Health clues",
+     "text": "Researchers reported that the four-year-old boy had features consistent with Down syndrome and one woman had a nasopharyngeal tumour, and that many had soot in their lungs from lamp smoke."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Qilakitsoq",
+     "url": "https://en.wikipedia.org/wiki/Qilakitsoq",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Mummified_Qilakitsoq_Women_%2825415797614%29.jpg/500px-Mummified_Qilakitsoq_Women_%2825415797614%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Mummified_Qilakitsoq_Women_(25415797614).jpg",
+     "author": "David Stanley from Nanaimo, Canada",
+     "license": "CC BY 2.0",
+     "title": "Mummified Qilakitsoq Women (25415797614).jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history"
+   ],
+   "threads": [
+    "mummies",
+    "arctic-peoples",
+    "ordinary-lives"
+   ]
+  },
+  {
+   "id": "labynkyr-devil",
+   "title": "The Labynkyr Devil: a monster in Siberia's coldest lake",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 3,
+   "start": 1953,
+   "end": null,
+   "dateNote": "First written account 1953; folklore older",
+   "evidenceTypes": [
+    "eyewitness",
+    "folklore",
+    "speculative"
+   ],
+   "mainstream": "Lake Labynkyr lies in the Oymyakon district of Yakutia (Sakha Republic), the coldest inhabited region of the Northern Hemisphere, where winter air temperatures fall below -60 °C. Local Evenk and Yakut lore and later visitors speak of a huge dark creature, the 'Labynkyr Devil' (Labynkyrsky chert), said to have attacked dogs and boats. The earliest written account usually cited is from geologist Viktor Tverdokhlebov, who in 1953 wrote of seeing a large dark animal in the nearby Lake Vorota. The lake is unusual in that its water stays at about 2 °C and its surface takes longer to freeze than nearby lakes.",
+   "alternatives": [
+    {
+     "label": "Relic reptile or giant pike",
+     "text": "Proponents have suggested a surviving reptile or amphibian, or an outsized pike; some expedition members reported sonar contacts of large objects in the water."
+    },
+    {
+     "label": "Sceptical view",
+     "text": "A 2013 Russian Geographical Society diving expedition under the ice found no monster, only ordinary fish; a diver noted that mirages over ice are common in the north. Fish biologists question whether a lake so cold and poor in food could feed any very large predator."
+    },
+    {
+     "label": "Lake-monster pattern",
+     "text": "It joins a global family of lake monsters (Loch Ness, Ogopogo, Lake Van, Champ) in which remote or deep lakes, ambiguous sightings and local lore combine; such reports are not supported by physical evidence."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Labynkyr",
+     "url": "https://en.wikipedia.org/wiki/Labynkyr",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/%D0%9B%D0%B0%D0%B1%D1%8B%D0%BD%D0%BA%D1%8B%D1%80%2C_%D0%B2%D0%B8%D0%B4_%D1%81_%D1%8E%D0%B6%D0%BD%D0%BE%D0%B3%D0%BE_%D0%B1%D0%B5%D1%80%D0%B5%D0%B3%D0%B0.jpg/500px-%D0%9B%D0%B0%D0%B1%D1%8B%D0%BD%D0%BA%D1%8B%D1%80%2C_%D0%B2%D0%B8%D0%B4_%D1%81_%D1%8E%D0%B6%D0%BD%D0%BE%D0%B3%D0%BE_%D0%B1%D0%B5%D1%80%D0%B5%D0%B3%D0%B0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:%D0%9B%D0%B0%D0%B1%D1%8B%D0%BD%D0%BA%D1%8B%D1%80,_%D0%B2%D0%B8%D0%B4_%D1%81_%D1%8E%D0%B6%D0%BD%D0%BE%D0%B3%D0%BE_%D0%B1%D0%B5%D1%80%D0%B5%D0%B3%D0%B0.jpg",
+     "author": "Соловьёв, Андрей Владимирович (путешественник)",
+     "license": "CC0",
+     "title": "Лабынкыр,_вид_с_южного_берега.jpg"
+    }
+   ],
+   "categories": [
+    "anomalies",
+    "myth-legend"
+   ],
+   "threads": [
+    "cryptids",
+    "water-spirits",
+    "mongolia-and-siberia"
+   ]
+  },
+  {
+   "id": "la-navidad-1492",
+   "title": "La Navidad: Columbus's first fort and the vanished 39 (1492-93)",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1492,
+   "end": 1493,
+   "dateNote": "Fort built December 1492; found destroyed 27 November 1493",
+   "evidenceTypes": [
+    "textual",
+    "archaeological"
+   ],
+   "mainstream": "On Christmas Eve 1492 Columbus's flagship Santa María ran aground off the north coast of Hispaniola (today Haiti). With help from the local Taíno cacique Guacanagarí, the crew salvaged the timbers and built a small fort, La Navidad, the first European settlement in the Americas since the Norse. Columbus left about 39 men there and sailed home. When he returned on 27 November 1493, the fort had been burned and all the men were dead. Guacanagarí said they had quarrelled, abused Taíno women and been killed by the rival cacique Caonabo. It foreshadowed the violence of the colonisation that followed.",
+   "alternatives": [
+    {
+     "label": "Where was it?",
+     "text": "The fort's exact location has never been confirmed. Archaeologist Kathleen Deagan's long excavations at En Bas Saline near Limonade identified a large Taíno town, very likely Guacanagarí's village, with a few European objects, but no definitive fort remains."
+    },
+    {
+     "label": "The Santa María \"found\" in 2014",
+     "text": "In 2014 explorer Barry Clifford announced he had found the wreck of the Santa María off Haiti; a UNESCO expert team concluded that the wreck was from a later period and could not be Columbus's ship. The real wreck remains undiscovered."
+    },
+    {
+     "label": "Whose fault?",
+     "text": "Spanish chroniclers stressed Taíno treachery or the settlers' misconduct depending on their aims; modern historians see the episode as the first of many clashes born of Spanish demands for gold and women."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: La Navidad",
+     "url": "https://en.wikipedia.org/wiki/La_Navidad",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Santa María (ship)",
+     "url": "https://en.wikipedia.org/wiki/Santa_Mar%C3%ADa_(ship)",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Columbus_landing_on_Hispaniola_adj.jpg/500px-Columbus_landing_on_Hispaniola_adj.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Columbus_landing_on_Hispaniola_adj.jpg",
+     "author": "Theodor de Bry",
+     "license": "Public domain",
+     "title": "Columbus landing on Hispaniola adj.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology"
+   ],
+   "threads": [
+    "hoaxes-exposed",
+    "disappearances",
+    "caribbean-worlds",
+    "who-got-there-first",
+    "shipwrecks"
+   ]
+  },
+  {
+   "id": "tula-curacao-1795",
+   "title": "Tula's revolt: the 1795 slave uprising on Curaçao",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 3,
+   "start": 1795,
+   "end": 1795,
+   "dateNote": "17 August - 3 October 1795",
+   "evidenceTypes": [
+    "textual"
+   ],
+   "mainstream": "On 17 August 1795 an enslaved man named Tula led 40-50 people in an uprising at the Knip plantation in western Curaçao, a Dutch colony. Inspired by the Haitian Revolution and by the news that the Netherlands itself had been taken over by revolutionary France, which had abolished slavery, he argued that the enslaved of Curaçao should also be free. Joined by others under Bastiaan Karpata, the rebels moved from plantation to plantation, freeing hundreds, and defeated a first Dutch force. After about a month they were cornered; Tula was betrayed, captured and publicly tortured to death on 3 October 1795, and Karpata and other leaders were also executed.",
+   "alternatives": [
+    {
+     "label": "Remembered today",
+     "text": "17 August is commemorated on Curaçao as the start of the struggle for freedom, and Tula is honoured with a monument near the place of his execution, the Tula Museum and the 2013 film Tula: The Revolt; other leaders such as Karpata, Louis Mercier and Pedro Wakao are increasingly remembered too."
+    },
+    {
+     "label": "Revolutionary ideas",
+     "text": "Historians debate how far Tula and his followers drew on French and Haitian revolutionary ideals versus long-standing local resistance; Tula's recorded demands included an end to collective punishment and free Sundays as well as freedom."
+    },
+    {
+     "label": "Colonial records",
+     "text": "Almost everything known about the revolt comes from Dutch colonial reports and the accounts of the Franciscan priest Jacobus Schink, who negotiated with Tula; the rebels' own voices survive only through these filters and through oral memory."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Curaçao Slave Revolt of 1795",
+     "url": "https://en.wikipedia.org/wiki/Cura%C3%A7ao_Slave_Revolt_of_1795",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Victoria_na_Porto_Mari_1795.jpg/500px-Victoria_na_Porto_Mari_1795.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Victoria_na_Porto_Mari_1795.jpg",
+     "author": "Edsel Selberie",
+     "license": "CC BY-SA 4.0",
+     "title": "Victoria_na_Porto_Mari_1795.jpg"
+    }
+   ],
+   "categories": [
+    "history"
+   ],
+   "threads": [
+    "caribbean-worlds",
+    "resistance-to-empire",
+    "slave-revolts-and-maroons"
+   ]
+  },
+  {
+   "id": "nanny-of-the-maroons",
+   "title": "Queen Nanny of the Maroons: the leader who caught bullets",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1728,
+   "end": 1740,
+   "dateNote": "First Maroon War c. 1728-1740; Nanny c. 1686-c. 1760",
+   "evidenceTypes": [
+    "oral tradition",
+    "textual"
+   ],
+   "mainstream": "Nanny (c. 1686-c. 1760) led the Windward Maroons, communities of Africans who had escaped slavery and lived in the Blue Mountains of eastern Jamaica. During the First Maroon War (c. 1728-1740) her settlement, Nanny Town, perched above the Stony River gorge, withstood repeated British attacks through guerrilla tactics. After the British made peace with the Leeward Maroons under Cudjoe in 1739, the Windward Maroons signed a treaty in 1740, and Nanny and her people received a grant of 500 acres in Portland parish, where Moore Town (New Nanny Town) still stands. In 1975 Jamaica declared her its only female National Hero; she appears on the 500-dollar note.",
+   "alternatives": [
+    {
+     "label": "Oral history and legend",
+     "text": "Much of what is known comes from Maroon oral tradition: that she was an Asante (Akan) woman, a spiritual leader (obeah) who could catch British bullets and fire them back, and that a boiling cauldron with no fire guarded Nanny Town. Historians treat these as cultural memory of her power and leadership."
+    },
+    {
+     "label": "Documentary traces",
+     "text": "Few written sources mention her directly; the 1740 land patent naming \"Nanny\" is key evidence that a female leader existed. A British soldier's claim to have killed an \"old obeah woman\" earlier is not considered proof of Nanny's death."
+    },
+    {
+     "label": "Complicated legacy",
+     "text": "The 1739-40 treaties required the Maroons to return future runaways and help suppress slave revolts, which they did in Tacky's War (1760); some see this as betrayal, others as survival."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Nanny of the Maroons",
+     "url": "https://en.wikipedia.org/wiki/Nanny_of_the_Maroons",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: First Maroon War",
+     "url": "https://en.wikipedia.org/wiki/First_Maroon_War",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Nanny_of_the_Maroons.jpg/330px-Nanny_of_the_Maroons.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Nanny_of_the_Maroons.jpg",
+     "author": "Jamaica1962",
+     "license": "CC0",
+     "title": "Nanny_of_the_Maroons.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "myth-legend"
+   ],
+   "threads": [
+    "warrior-women",
+    "visionary-women",
+    "caribbean-worlds",
+    "resistance-to-empire",
+    "miracle-workers",
+    "slave-revolts-and-maroons"
+   ]
+  },
+  {
+   "id": "white-witch-rose-hall",
+   "title": "The White Witch of Rose Hall: Jamaica's haunted great house and a novel taken for history",
+   "lane": "myth",
+   "status": "debunked",
+   "priority": 3,
+   "start": 1831,
+   "end": null,
+   "dateNote": "Legend set c. 1820s-1831; novel 1929",
+   "evidenceTypes": [
+    "textual",
+    "folklore"
+   ],
+   "mainstream": "Rose Hall, a Georgian plantation great house near Montego Bay, Jamaica, is famous for the legend of Annie Palmer, the 'White Witch': a mistress raised in Haiti and taught voodoo, who supposedly murdered three husbands and many enslaved lovers before being strangled by an enslaved man around 1831. Her ghost is said to haunt the house, now a popular tourist attraction with night-time ghost tours, and the story inspired Johnny Cash's 'The Ballad of Annie Palmer' and many television ghost-hunting episodes.",
+   "alternatives": [
+    {
+     "label": "A 1929 novel",
+     "text": "Investigations, including one by Benjamin Radford in 2007, concluded that the tale is largely modelled on Herbert G. de Lisser's popular 1929 novel The White Witch of Rosehall. The real Annie Palmer (née Paterson) who lived at Rose Hall was not murdered and neither of her husbands is known to have been killed."
+    },
+    {
+     "label": "Confused identities",
+     "text": "The legend may have merged the real Annie Palmer with Rosa Palmer, an earlier mistress of Rose Hall who had four husbands but was remembered as virtuous, and with an earlier, sketchy report of a cruel mistress strangled on a neighbouring estate during the 1831 Baptist War."
+    },
+    {
+     "label": "Believers' view",
+     "text": "Staff, visitors and TV psychics report apparitions, footsteps and cold spots; supporters say the legend preserves memory of plantation violence even if names are wrong."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Annie Palmer (White Witch of Rose Hall)",
+     "url": "https://en.wikipedia.org/wiki/Annie_Palmer_(White_Witch_of_Rose_Hall)",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: H. G. de Lisser",
+     "url": "https://en.wikipedia.org/wiki/H._G._de_Lisser",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Annie_Palmer_-_Tomb_at_Rose_Hall.jpg/500px-Annie_Palmer_-_Tomb_at_Rose_Hall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Annie_Palmer_-_Tomb_at_Rose_Hall.jpg",
+     "author": "Urban Walnut",
+     "license": "CC BY-SA 3.0",
+     "title": "Annie_Palmer_-_Tomb_at_Rose_Hall.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "hoaxes"
+   ],
+   "threads": [
+    "hoaxes-exposed",
+    "curses-and-hauntings",
+    "haunted-houses",
+    "caribbean-worlds",
+    "myths-about-history",
+    "literary-forgeries"
+   ]
+  },
+  {
+   "id": "laperouse-vanikoro",
+   "title": "Lapérouse: the expedition that vanished in the Pacific (1788)",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1788,
+   "end": null,
+   "dateNote": "Left Botany Bay 10 March 1788; wreck site found 1826",
+   "evidenceTypes": [
+    "textual",
+    "archaeological",
+    "underwater archaeology"
+   ],
+   "mainstream": "In 1785 Louis XVI sent Jean-François de Galaup, comte de Lapérouse, with two ships, Boussole and Astrolabe, on a great scientific voyage to rival Cook's. They visited Chile, Easter Island, Hawaii, Alaska, California, Macau, the Philippines, Korea, Kamchatka and Samoa, sending journals home along the way, and in January 1788 arrived at Botany Bay just as the British First Fleet was founding Sydney. On 10 March 1788 they sailed into the Pacific and were never seen by Europeans again. In 1826 the Irish captain Peter Dillon found French anchors, cannons and objects on Vanikoro in the Santa Cruz Islands (Solomon Islands); both ships had wrecked on its reefs. A wreck found in 1964 was identified as Boussole in 2005.",
+   "alternatives": [
+    {
+     "label": "Survivors left behind",
+     "text": "Islanders told Dillon that survivors had built a small boat and left, while a few men stayed. In 1791 HMS Pandora, hunting the Bounty mutineers, passed Vanikoro and saw smoke signals but sailed on; some historians think these came from French survivors still alive three years after the wreck."
+    },
+    {
+     "label": "\"Any news of Lapérouse?\"",
+     "text": "Louis XVI is said to have asked this on the morning of his execution in January 1793; the anecdote is widely repeated but its reliability is uncertain."
+    },
+    {
+     "label": "Remains identified",
+     "text": "In 2003 a complete skeleton was found in the Boussole wreck site, and French researchers have used forensic facial reconstruction to try to identify which member of the expedition he was."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Jean-François de Galaup, comte de Lapérouse",
+     "url": "https://en.wikipedia.org/wiki/Jean-Fran%C3%A7ois_de_Galaup%2C_comte_de_Lap%C3%A9rouse",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Vanikoro",
+     "url": "https://en.wikipedia.org/wiki/Vanikoro",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Laperouse_-_btv1b10500946s.jpg/500px-Laperouse_-_btv1b10500946s.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Laperouse_-_btv1b10500946s.jpg",
+     "author": "Unknown",
+     "license": "Public domain",
+     "title": "Laperouse - btv1b10500946s.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology"
+   ],
+   "threads": [
+    "ocean-voyagers",
+    "disappearances",
+    "sea-mysteries",
+    "travellers-tales",
+    "shipwrecks"
+   ]
+  },
+  {
+   "id": "blackbeard-1718",
+   "title": "Blackbeard: the pirate, the burning fuses and the wreck of Queen Anne's Revenge",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1716,
+   "end": 1718,
+   "dateNote": "Active c. 1716-1718; killed 22 November 1718 (O.S.)",
+   "evidenceTypes": [
+    "textual",
+    "underwater archaeology"
+   ],
+   "mainstream": "Edward Teach or Thatch (c. 1680-1718), known as Blackbeard, operated in the Caribbean and off the American coast at the height of the 'Golden Age of Piracy'. In 1717 he captured the French slave ship La Concorde, renamed her Queen Anne's Revenge and armed her with 40 guns. In 1718 he blockaded Charleston, South Carolina, holding prominent citizens hostage for a chest of medicines. Soon after, the Queen Anne's Revenge ran aground near Beaufort, North Carolina. On 22 November 1718 (Old Style) a force sent by Virginia's governor under Lieutenant Robert Maynard caught him at Ocracoke Inlet; Teach was killed in hand-to-hand fighting and his head hung from Maynard's bowsprit.",
+   "alternatives": [
+    {
+     "label": "The image",
+     "text": "The famous picture of Blackbeard with lit slow-match fuses under his hat and pistols across his chest comes from Captain Charles Johnson's A General History of the Pyrates (1724), whose author is unidentified and whose accounts mix fact and embellishment. Historians debate how much of his fearsome reputation was deliberate theatre to make victims surrender without a fight; there is no evidence he killed anyone before his final battle."
+    },
+    {
+     "label": "Buried treasure",
+     "text": "Legends of his buried gold have sent treasure hunters along the US east coast for centuries, but nothing found has been linked to him; historians note there is almost no evidence pirates buried treasure, an idea popularised by Treasure Island."
+    },
+    {
+     "label": "The wreck",
+     "text": "A wreck found in 1996 in Beaufort Inlet has been identified by North Carolina archaeologists as Queen Anne's Revenge, based on its guns, date and location, though some questioned the identification at first; hundreds of thousands of artefacts have been raised."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Blackbeard",
+     "url": "https://en.wikipedia.org/wiki/Blackbeard",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Queen Anne's Revenge",
+     "url": "https://en.wikipedia.org/wiki/Queen_Anne's_Revenge",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Edward_Teach_Commonly_Call%27d_Black_Beard_%28bw%29_%28cropped%29.jpg/500px-Edward_Teach_Commonly_Call%27d_Black_Beard_%28bw%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Edward_Teach_Commonly_Call%27d_Black_Beard_(bw)_(cropped).jpg",
+     "author": "Joseph Nicholls (fl. 1726–55).[1]  Although James Basire (1730–1802) is attributed as the engraver based on the signatur",
+     "license": "Public domain",
+     "title": "Edward_Teach_Commonly_Call'd_Black_Beard_(bw)_(cropped).jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology",
+    "myth-legend"
+   ],
+   "threads": [
+    "mysterious-lights",
+    "lost-treasures",
+    "caribbean-worlds",
+    "myths-about-history",
+    "shipwrecks"
+   ]
+  },
+  {
+   "id": "tui-tonga-maritime-empire",
+   "title": "The Tuʻi Tonga: a Polynesian maritime \"empire\"?",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 950,
+   "end": 1500,
+   "dateNote": "Traditionally from c. 950; peak influence c. 1200-1500",
+   "statusNote": "Tongan influence confirmed; scale as \"empire\" debated",
+   "evidenceTypes": [
+    "oral tradition",
+    "archaeological",
+    "linguistic"
+   ],
+   "mainstream": "Tongan tradition traces the sacred kings, the Tuʻi Tonga, to ʻAhoʻeitu, son of the sky god Tangaloa and a mortal woman, around 950 CE. From their capital at Muʻa/Lapaha on Tongatapu, where large stone-faced royal tombs (langi) survive, later Tuʻi Tonga are said to have extended their influence by voyaging canoe over a wide area of western Polynesia, receiving tribute and marriage alliances. Archaeological and linguistic studies show strong Tongan influence in ʻUvea (Wallis), Futuna, Niuatoputapu, Niue, Rotuma and parts of Samoa and Fiji between about 1200 and 1500. Samoan tradition recounts that the Tongans were driven out of Samoa by brothers ancestral to the Malietoa line. Over time the Tuʻi Tonga became a sacred figure while temporal power passed to other lines, the Tuʻi Haʻatakalaua and the Tuʻi Kanokupolu, from whom today's Tongan royal family descends.",
+   "alternatives": [
+    {
+     "label": "Empire or maritime chiefdom",
+     "text": "Some scholars describe a true \"maritime empire\" with tribute and governors; others prefer \"maritime chiefdom\" or network of kin and exchange, arguing that the evidence shows influence and prestige rather than administrative control."
+    },
+    {
+     "label": "Oral history",
+     "text": "Much of the narrative rests on genealogies and oral traditions recorded after European contact, which can preserve real events but also reflect later political claims."
+    },
+    {
+     "label": "Pacific pattern",
+     "text": "Similar sacred-king and voyaging networks are known from Pohnpei (Nan Madol) and Hawaii; Tonga is the only Pacific monarchy never formally colonised, which shapes how this history is told today."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Tuʻi Tonga Empire",
+     "url": "https://en.wikipedia.org/wiki/Tu%CA%BBi_Tonga_Empire",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Tuʻi Tonga",
+     "url": "https://en.wikipedia.org/wiki/Tu%CA%BBi_Tonga",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Paepae_%CA%BBo_Tele%CA%BBa.jpg/500px-Paepae_%CA%BBo_Tele%CA%BBa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Paepae_%CA%BBo_Tele%CA%BBa.jpg",
+     "author": "Tauʻolunga",
+     "license": "CC BY-SA 3.0",
+     "title": "Paepae ʻo Teleʻa.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology",
+    "myth-legend"
+   ],
+   "threads": [
+    "deep-oral-memory",
+    "ocean-voyagers",
+    "sacred-kingship",
+    "pacific-wayfinding"
    ]
   }
  ]
