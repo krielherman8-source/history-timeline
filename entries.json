@@ -15307,7 +15307,8 @@
    ],
    "threads": [
     "ufo-encounters",
-    "mysterious-lights"
+    "mysterious-lights",
+    "phantom-aircraft-scares"
    ]
   },
   {
@@ -22450,7 +22451,8 @@
     "collective-experiences",
     "mysterious-lights",
     "seeing-what-we-expect",
-    "mystery-airships-wave"
+    "mystery-airships-wave",
+    "phantom-aircraft-scares"
    ]
   },
   {
@@ -24992,7 +24994,8 @@
     "collective-experiences",
     "seeing-what-we-expect",
     "modern-legends",
-    "anomalous-photos"
+    "anomalous-photos",
+    "phantom-aircraft-scares"
    ],
    "statusNote": "Event confirmed; what was seen disputed"
   },
@@ -50567,7 +50570,8 @@
     "collective-experiences",
     "mysterious-lights",
     "seeing-what-we-expect",
-    "cold-war-secrets"
+    "cold-war-secrets",
+    "phantom-aircraft-scares"
    ]
   },
   {
@@ -86726,6 +86730,650 @@
     "ocean-voyagers",
     "sacred-kingship",
     "pacific-wayfinding"
+   ]
+  },
+  {
+   "id": "chankillo-thirteen-towers",
+   "title": "Chankillo: the Thirteen Towers solar calendar of ancient Peru",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -250,
+   "end": null,
+   "dateNote": "Built c. 4th-3rd century BCE; astronomical function identified 2007",
+   "evidenceTypes": [
+    "archaeological",
+    "archaeoastronomy",
+    "radiocarbon"
+   ],
+   "mainstream": "Chankillo, in the Casma valley of Peru's coastal desert, is a complex built around the 4th-3rd centuries BCE. It includes a triple-walled hilltop structure long called a fortress, and, on a nearby ridge, a row of thirteen rectangular towers spaced along about 300 m, forming an artificial 'toothed' horizon. In 2007 archaeologists Iván Ghezzi and Clive Ruggles showed that, seen from two observation points on either side, the sun rises and sets over the towers in a sequence that spans the whole year, from the rightmost tower at one solstice to the leftmost at the other, allowing dates to be fixed to within a few days. It is regarded as the oldest known solar observatory in the Americas and was made a UNESCO World Heritage site in 2021.",
+   "alternatives": [
+    {
+     "label": "Fortress or temple?",
+     "text": "The hilltop structure has massive walls and few signs of battle damage; some researchers interpret it as a fortified temple or ceremonial centre rather than a purely military fort."
+    },
+    {
+     "label": "Who built it?",
+     "text": "Its builders belonged to a little-known coastal society (sometimes called the Casma/Sechin tradition) that flourished between the decline of Chavín and the rise of the Moche; why it was abandoned is unknown."
+    },
+    {
+     "label": "Sun cult",
+     "text": "Later Inca sun worship involved horizon pillars (sucanca) near Cusco to mark planting dates, described by Spanish chroniclers but now lost; Chankillo shows the idea was nearly two thousand years older."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Chanquillo",
+     "url": "https://en.wikipedia.org/wiki/Chanquillo",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Chankillo: A 2300-Year-Old Solar Observatory in Coastal Peru",
+     "authors": "Ghezzi, I. et al.",
+     "year": 2007,
+     "doi": "10.1126/science.1136415",
+     "type": "paper"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/ThirteenTowersOfChanquilloFromFortress.JPG/500px-ThirteenTowersOfChanquilloFromFortress.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:ThirteenTowersOfChanquilloFromFortress.JPG",
+     "author": "David Edgar",
+     "license": "CC BY-SA 3.0",
+     "title": "ThirteenTowersOfChanquilloFromFortress.JPG"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "science-cosmos"
+   ],
+   "threads": [
+    "ancient-astronomy",
+    "sun-cults",
+    "andean-empires"
+   ]
+  },
+  {
+   "id": "marcahuasi-stone-forest",
+   "title": "Marcahuasi: faces in the Andean rocks and the \"Masma\" civilisation",
+   "lane": "myth",
+   "status": "disputed",
+   "priority": 3,
+   "start": 1952,
+   "end": null,
+   "dateNote": "Ruzo's studies from 1952; rocks geological",
+   "statusNote": "Natural formations confirmed; \"Masma\" sculptors rejected by geologists",
+   "evidenceTypes": [
+    "geological",
+    "speculative"
+   ],
+   "mainstream": "Marcahuasi is a plateau about 4,000 m high in the Andes some 60 km east of Lima, near the village of San Pedro de Casta. It is known for granite rock formations eroded into shapes that visitors compare to human faces and animals, the most famous being the 'Monument to Humanity', a rock in which some see several faces. Pre-Inca stone ruins and burial towers (chullpas) also exist on the plateau. In the 1950s the Peruvian writer Daniel Ruzo studied the rocks and argued they were sculpted by an ancient, forgotten 'Masma' culture.",
+   "alternatives": [
+    {
+     "label": "Lost sculptors",
+     "text": "Ruzo proposed that a pre-flood \"Masma\" civilisation carved the rocks, visible properly only in certain light, as a message for the future; such ideas have attracted alternative-history writers and New Age visitors who report energy phenomena and UFOs on the plateau."
+    },
+    {
+     "label": "Geological view",
+     "text": "Geologists and archaeologists regard the shapes as natural products of weathering and erosion of jointed granite, recognised by human pareidolia - the tendency to see faces in random patterns; no tool marks or archaeological evidence of a Masma culture have been found."
+    },
+    {
+     "label": "Local tradition",
+     "text": "The real pre-Hispanic ruins on the plateau are linked to local Andean communities; villagers of San Pedro de Casta maintain festivals and guide visitors."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Marcahuasi",
+     "url": "https://en.wikipedia.org/wiki/Marcahuasi",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Pareidolia",
+     "url": "https://en.wikipedia.org/wiki/Pareidolia",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Marcahuasi1.jpg/500px-Marcahuasi1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Marcahuasi1.jpg",
+     "author": "Arístides Herrera Cuntti at Spanish Wikipedia",
+     "license": "CC BY-SA 3.0",
+     "title": "Marcahuasi1.jpg"
+    }
+   ],
+   "categories": [
+    "anomalies",
+    "lost-civilisations"
+   ],
+   "threads": [
+    "lost-civilisations",
+    "outsider-builder-claims",
+    "seeing-what-we-expect",
+    "pareidolia",
+    "andean-empires",
+    "fringe-theories"
+   ]
+  },
+  {
+   "id": "vilcabamba-last-inca",
+   "title": "Vilcabamba: the last Inca kingdom in the jungle (1537-1572)",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1537,
+   "end": 1572,
+   "dateNote": "1537-1572",
+   "evidenceTypes": [
+    "textual",
+    "archaeological"
+   ],
+   "mainstream": "After the Spanish conquest, the Inca ruler Manco Inca rebelled in 1536 and, failing to retake Cusco, withdrew in 1537 into the rugged forested valleys north-west of the city, founding a rump Inca state centred on Vitcos and the city of Vilcabamba. For 35 years his successors, Sayri Túpac, Titu Cusi Yupanqui and Túpac Amaru, held out, negotiating and fighting with the Spanish. In 1572 Viceroy Francisco de Toledo sent an army; Vilcabamba was taken and Túpac Amaru, the last Sapa Inca, was captured and beheaded in Cusco's main square. The city was abandoned and its location forgotten.",
+   "alternatives": [
+    {
+     "label": "Machu Picchu mix-up",
+     "text": "When Hiram Bingham reached Machu Picchu in 1911, he believed he had found the \"lost city\" of Vilcabamba. He also visited the overgrown ruins at Espíritu Pampa but dismissed them. In the 1960s explorer Gene Savoy and later historians identified Espíritu Pampa as the real Vilcabamba, an identification supported by Spanish roof tiles found there."
+    },
+    {
+     "label": "Treasure legends",
+     "text": "Stories that the Incas carried gold to a hidden jungle city fed the legends of Paititi; no such treasure has been found."
+    },
+    {
+     "label": "A rebel's name",
+     "text": "Túpac Amaru's name was taken by the 1780 rebel leader Túpac Amaru II and by 20th-century movements in Peru and Uruguay; Titu Cusi's dictated account (1570) is one of the few Inca-side narratives of the conquest."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Neo-Inca State",
+     "url": "https://en.wikipedia.org/wiki/Neo-Inca_State",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Vilcabamba, Peru",
+     "url": "https://en.wikipedia.org/wiki/Vilcabamba%2C_Peru",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Túpac Amaru",
+     "url": "https://en.wikipedia.org/wiki/T%C3%BApac_Amaru",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Hiram_Bingham_at_Espiritu_Pampa_ruins_1911.jpg/500px-Hiram_Bingham_at_Espiritu_Pampa_ruins_1911.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Hiram_Bingham_at_Espiritu_Pampa_ruins_1911.jpg",
+     "author": "Harry Ward Foote",
+     "license": "Public domain",
+     "title": "Hiram Bingham at Espiritu Pampa ruins 1911.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology"
+   ],
+   "threads": [
+    "changed-understanding",
+    "hidden-kingdoms",
+    "rediscovered-civilisations",
+    "andean-empires",
+    "resistance-to-empire",
+    "cities-of-gold"
+   ]
+  },
+  {
+   "id": "lavoisier-oxygen",
+   "title": "Lavoisier, oxygen and the death of phlogiston",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1777,
+   "end": 1794,
+   "dateNote": "Key work 1772-1789; executed 1794",
+   "evidenceTypes": [
+    "experimental",
+    "textual"
+   ],
+   "mainstream": "For most of the 18th century chemists explained burning with the phlogiston theory: combustible substances contained 'phlogiston', released when they burned. In the 1770s Antoine Lavoisier, working with his wife and collaborator Marie-Anne Paulze Lavoisier, used careful weighing in sealed vessels to show that metals gain weight when they are heated in air because they combine with part of the air. Building on Carl Wilhelm Scheele's and Joseph Priestley's isolation of a gas that made flames burn brightly (Priestley's 'dephlogisticated air', 1774), Lavoisier interpreted it as an element, named it oxygen (1777-78), explained combustion and respiration as reactions with it, stated the conservation of mass and, with colleagues, created the modern system of chemical names (1787). His Elementary Treatise of Chemistry (1789) is often seen as the start of modern chemistry.",
+   "alternatives": [
+    {
+     "label": "Who discovered oxygen?",
+     "text": "Scheele produced the gas first (around 1771-72, published 1777), Priestley published first (1774), and Lavoisier first understood it as an element; the priority question is a classic case of how \"discovery\" can mean different things. Priestley defended phlogiston until his death in 1804."
+    },
+    {
+     "label": "Guillotined",
+     "text": "Lavoisier had been a member of the Ferme générale, the hated private tax-collecting company; during the Terror he was tried with other tax farmers and guillotined on 8 May 1794. The mathematician Lagrange is quoted as saying it took only a moment to cut off that head, and a hundred years might not produce another like it."
+    },
+    {
+     "label": "The blinking head",
+     "text": "A popular story claims Lavoisier arranged to blink for as long as possible after his beheading as an experiment on consciousness; historians have found no contemporary source for it and regard it as a modern myth."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Antoine Lavoisier",
+     "url": "https://en.wikipedia.org/wiki/Antoine_Lavoisier",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Phlogiston theory",
+     "url": "https://en.wikipedia.org/wiki/Phlogiston_theory",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Marie-Anne Paulze Lavoisier",
+     "url": "https://en.wikipedia.org/wiki/Marie-Anne_Paulze_Lavoisier",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/David_-_Portrait_of_Monsieur_Lavoisier_%28cropped%292.jpg/500px-David_-_Portrait_of_Monsieur_Lavoisier_%28cropped%292.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:David_-_Portrait_of_Monsieur_Lavoisier_(cropped)2.jpg",
+     "author": "Jacques-Louis David",
+     "license": "Public domain",
+     "title": "David_-_Portrait_of_Monsieur_Lavoisier_(cropped)2.jpg"
+    }
+   ],
+   "categories": [
+    "science-cosmos",
+    "history"
+   ],
+   "threads": [
+    "changed-understanding",
+    "tested-by-experiment",
+    "scientific-revolution",
+    "who-got-there-first"
+   ]
+  },
+  {
+   "id": "neptune-discovery-1846",
+   "title": "Neptune: the planet found \"with the point of a pen\" (1846)",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1846,
+   "end": null,
+   "dateNote": "Observed 23-24 September 1846",
+   "evidenceTypes": [
+    "mathematical",
+    "observational",
+    "textual"
+   ],
+   "mainstream": "After William Herschel discovered Uranus in 1781, astronomers found that it drifted from its predicted orbit. In 1845-46 the French mathematician Urbain Le Verrier calculated where an unseen outer planet would have to be to cause these irregularities, and sent his prediction to Johann Galle at the Berlin Observatory. On the night of 23-24 September 1846, Galle, helped by Heinrich d'Arrest, found the planet within about 1 degree of the predicted spot. François Arago said Le Verrier had discovered a planet 'with the point of his pen'. It was a spectacular confirmation of Newton's law of gravitation.",
+   "alternatives": [
+    {
+     "label": "The Adams controversy",
+     "text": "In Britain, John Couch Adams of Cambridge had made similar calculations in 1845, but the Astronomer Royal George Airy and James Challis were slow to search; Challis in fact recorded the planet twice without recognising it. Britain later promoted joint credit. Adams's papers, lost from the Royal Greenwich Observatory archive for decades, turned up in Chile among the belongings of astronomer Olin Eggen in the late 1990s, and some historians now argue Adams's claim was weaker than long believed."
+    },
+    {
+     "label": "Galileo saw it first",
+     "text": "Galileo's notebooks show he observed Neptune in December 1612 and January 1613 and drew it as a star near Jupiter; some have suggested he noticed it move, but he did not identify it as a planet."
+    },
+    {
+     "label": "Phantom planets",
+     "text": "Le Verrier tried the same trick to explain anomalies in Mercury's orbit and predicted a planet, \"Vulcan\", inside it; it was never found, and Einstein's general relativity explained Mercury's motion in 1915. The modern search for a hypothetical \"Planet Nine\" follows the same logic."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Discovery of Neptune",
+     "url": "https://en.wikipedia.org/wiki/Discovery_of_Neptune",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Urbain Le Verrier",
+     "url": "https://en.wikipedia.org/wiki/Urbain_Le_Verrier",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: John Couch Adams",
+     "url": "https://en.wikipedia.org/wiki/John_Couch_Adams",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Sternwarte_Berlin_Schinkel.jpg/500px-Sternwarte_Berlin_Schinkel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Sternwarte_Berlin_Schinkel.jpg",
+     "author": "Carl Daniel Freydanck",
+     "license": "Public domain",
+     "title": "Sternwarte_Berlin_Schinkel.jpg"
+    }
+   ],
+   "categories": [
+    "science-cosmos",
+    "history"
+   ],
+   "threads": [
+    "changed-understanding",
+    "scientific-revolution",
+    "who-got-there-first",
+    "phantom-planets"
+   ]
+  },
+  {
+   "id": "galvani-frankenstein",
+   "title": "Galvani's twitching frogs, Aldini's corpse and the birth of Frankenstein",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1780,
+   "end": 1803,
+   "dateNote": "Experiments 1780s; De viribus 1791; Aldini 1803",
+   "evidenceTypes": [
+    "experimental",
+    "textual"
+   ],
+   "mainstream": "In the 1780s the Bologna physician Luigi Galvani found that dissected frogs' legs twitched when touched by an electric spark or by two different metals, and in 1791 he argued that animals possess an inherent 'animal electricity'. Alessandro Volta disagreed, arguing the current came from the contact of different metals; their dispute led Volta to build the first battery, the voltaic pile, in 1800, while Galvani's work founded electrophysiology - the study of nerve and muscle electricity. In 1803 Galvani's nephew Giovanni Aldini publicly applied current to the body of the executed murderer George Foster in London: the jaw quivered, an eye opened and a hand rose, startling the audience.",
+   "alternatives": [
+    {
+     "label": "Frankenstein",
+     "text": "In her 1831 introduction to Frankenstein (first published 1818) Mary Shelley recalled conversations about whether \"galvanism\" might reanimate a corpse; scholars debate how far Aldini's shows directly inspired her, but \"galvanism\" became a byword for electrical life."
+    },
+    {
+     "label": "Both were right",
+     "text": "Modern science shows that Galvani was right that nerves and muscles work electrically, and Volta was right that his particular metal-contact effect was produced outside the animal - a dispute where both sides held part of the truth."
+    },
+    {
+     "label": "From quackery to medicine",
+     "text": "Galvanism spawned 19th-century electrical cure-alls of dubious value, but also led to modern defibrillators, pacemakers and electrocardiograms."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Luigi Galvani",
+     "url": "https://en.wikipedia.org/wiki/Luigi_Galvani",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Giovanni Aldini",
+     "url": "https://en.wikipedia.org/wiki/Giovanni_Aldini",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Galvanism",
+     "url": "https://en.wikipedia.org/wiki/Galvanism",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Galvani_frog_legs_experiment_setup.png/500px-Galvani_frog_legs_experiment_setup.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Galvani_frog_legs_experiment_setup.png",
+     "author": "Luigi Galvani",
+     "license": "Public domain",
+     "title": "Galvani frog legs experiment setup.png"
+    }
+   ],
+   "categories": [
+    "science-cosmos",
+    "history"
+   ],
+   "threads": [
+    "changed-understanding",
+    "tested-by-experiment",
+    "elixirs-of-immortality",
+    "scientific-revolution",
+    "showmen-and-spectacle"
+   ]
+  },
+  {
+   "id": "mary-anning-sea-dragons",
+   "title": "Mary Anning and the sea dragons of Lyme Regis",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1811,
+   "end": 1847,
+   "dateNote": "First ichthyosaur 1811-12; plesiosaur 1823; died 1847",
+   "evidenceTypes": [
+    "palaeontological",
+    "textual"
+   ],
+   "mainstream": "Mary Anning (1799-1847) was a working-class fossil collector from Lyme Regis on England's Dorset coast. Searching the crumbling Jurassic cliffs after winter landslides, she and her brother Joseph found the first ichthyosaur skeleton to be correctly identified (1811-12, when she was about twelve), she found the first nearly complete plesiosaur (1823) and the first pterosaur skeleton outside Germany (1828), and she helped show that 'bezoar stones' were fossil dung (coprolites). These 'sea dragons' helped convince scientists that whole groups of animals had gone extinct and that the Earth had a long history before humans. Leading geologists bought her specimens and consulted her, but as a woman and a Dissenter of modest means she could not join the Geological Society and was rarely credited in their papers.",
+   "alternatives": [
+    {
+     "label": "Cuvier's doubt",
+     "text": "When her plesiosaur arrived, the great French anatomist Georges Cuvier initially suspected it was a fake made from different animals because of its very long neck; after examination he accepted it, which boosted Anning's reputation."
+    },
+    {
+     "label": "She sells seashells?",
+     "text": "The tongue-twister \"She sells sea-shells on the sea-shore\" is often said to be about her; the link is popular but undocumented."
+    },
+    {
+     "label": "Recognition at last",
+     "text": "In 2010 the Royal Society named her among the ten British women who most influenced the history of science, and a statue of her was unveiled in Lyme Regis in 2022; her story has become a symbol of overlooked women in science."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Mary Anning",
+     "url": "https://en.wikipedia.org/wiki/Mary_Anning",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Ichthyosaur",
+     "url": "https://en.wikipedia.org/wiki/Ichthyosaur",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Plesiosaur",
+     "url": "https://en.wikipedia.org/wiki/Plesiosaur",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Mary_Anning_painting.jpg/500px-Mary_Anning_painting.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Mary_Anning_painting.jpg",
+     "author": "Credited to 'Mr. Grey' in Crispin Tickell's book 'Mary Anning of Lyme Regis' (1996)",
+     "license": "Public domain",
+     "title": "Mary_Anning_painting.jpg"
+    }
+   ],
+   "categories": [
+    "science-cosmos",
+    "history"
+   ],
+   "threads": [
+    "changed-understanding",
+    "dragons-and-fossils",
+    "rejected-pioneers",
+    "vanished-species",
+    "deep-time-earth"
+   ]
+  },
+  {
+   "id": "utah-monolith-2020",
+   "title": "The Utah monolith and the 2020 monolith craze",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 3,
+   "start": 2020,
+   "end": null,
+   "dateNote": "Installed 2016; found 18 November 2020; removed 27 November 2020",
+   "evidenceTypes": [
+    "physical object",
+    "photographic",
+    "satellite imagery"
+   ],
+   "mainstream": "On 18 November 2020 Utah wildlife officers counting bighorn sheep from a helicopter spotted a shiny three-sided metal pillar about 2.9 m tall standing in a remote red-rock slot canyon in San Juan County. Internet sleuths located it within a day using satellite images, which showed it had been installed between July and October 2016. Visitors flocked to the site, and on 27 November four men from Moab removed it, saying they wanted to protect the landscape. Within weeks over two hundred similar monoliths appeared around the world, from Romania to California, most quickly claimed by artists or pranksters.",
+   "alternatives": [
+    {
+     "label": "Aliens or art?",
+     "text": "Its resemblance to the monolith of the film 2001: A Space Odyssey sparked jokes and speculation about extraterrestrials; the local sheriff's office even posted a tongue-in-cheek \"Most Wanted\" list of aliens. No evidence supports a non-human origin."
+    },
+    {
+     "label": "Who made it?",
+     "text": "Its creator remains unidentified. Critics compared it to the minimalist sculptures of John McCracken (who died in 2011), but his gallery later said it was probably an homage by another artist; an art collective that initially claimed it later retracted. Some speculated a film crew left it, which has not been confirmed."
+    },
+    {
+     "label": "Modern folklore",
+     "text": "Folklorists see the monolith wave as an internet-age example of a copycat mystery, like crop circles, where a single striking object triggers a global wave of imitations."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Utah monolith",
+     "url": "https://en.wikipedia.org/wiki/Utah_monolith",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Utah_Desert_Monolith.jpg/500px-Utah_Desert_Monolith.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Utah_Desert_Monolith.jpg",
+     "author": "Original image taken by Patrickamackie2 (Patrick A. Mackie)Cropped and colour adjusted by Chainwit.",
+     "license": "CC BY-SA 4.0",
+     "title": "Utah_Desert_Monolith.jpg"
+    }
+   ],
+   "categories": [
+    "anomalies",
+    "hoaxes",
+    "aliens-ufo"
+   ],
+   "threads": [
+    "modern-legends",
+    "showmen-and-spectacle",
+    "internet-folklore"
+   ]
+  },
+  {
+   "id": "chinese-balloon-2023",
+   "title": "The Chinese balloon and the three \"unidentified objects\" shot down (February 2023)",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 2023,
+   "end": null,
+   "dateNote": "28 January - 12 February 2023",
+   "evidenceTypes": [
+    "radar",
+    "military reports",
+    "recovered debris"
+   ],
+   "mainstream": "In late January 2023 a large high-altitude balloon from China drifted over Alaska, Canada and the continental United States, passing near sensitive military sites. The US said it was a surveillance balloon; China said it was a civilian weather airship blown off course. On 4 February 2023 a US F-22 shot it down off South Carolina and its payload was recovered. Over the next week, with radar settings adjusted to look for slower, smaller objects, US and Canadian jets shot down three more unidentified objects over northern Alaska (10 February), Yukon (11 February) and Lake Huron (12 February) - the first time the US military had shot down unidentified objects over its own territory.",
+   "alternatives": [
+    {
+     "label": "Aliens?",
+     "text": "Asked whether the objects could be extraterrestrial, a senior US general said he had not ruled anything out, which fuelled speculation; the White House then stated there was no indication of aliens. The episode drew wide attention to UAP (unidentified anomalous phenomena) reporting."
+    },
+    {
+     "label": "Hobby balloons?",
+     "text": "US officials later said the three smaller objects were probably benign commercial or research balloons. An amateur balloon club reported losing contact with one of its small \"pico\" balloons near Alaska around that time and suggested it might have been one of them; this was never officially confirmed. Documents released in 2024 indicated the Lake Huron object came from a company selling weather-monitoring equipment."
+    },
+    {
+     "label": "Seeing what you look for",
+     "text": "Analysts noted that after radar filters were widened, many more slow objects appeared - an example of how detection depends on what observers are set up to see."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: 2023 Chinese balloon incident",
+     "url": "https://en.wikipedia.org/wiki/2023_Chinese_balloon_incident",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: List of high-altitude object events in 2023",
+     "url": "https://en.wikipedia.org/wiki/List_of_high-altitude_object_events_in_2023",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/U-2_Pilot_over_Central_Continental_United_States_%287644960%29_%28cropped%29.jpg/500px-U-2_Pilot_over_Central_Continental_United_States_%287644960%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:U-2_Pilot_over_Central_Continental_United_States_(7644960)_(cropped).jpg",
+     "author": "Department of Defense",
+     "license": "Public domain",
+     "title": "U-2_Pilot_over_Central_Continental_United_States_(7644960)_(cropped).jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "aliens-ufo",
+    "anomalies"
+   ],
+   "threads": [
+    "ufo-encounters",
+    "seeing-what-we-expect",
+    "official-ufo-investigations",
+    "radar-cases",
+    "phantom-aircraft-scares"
+   ]
+  },
+  {
+   "id": "drone-sightings-2024",
+   "title": "The New Jersey drone panic (November-December 2024)",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 2024,
+   "end": 2024,
+   "dateNote": "Mid-November to December 2024",
+   "evidenceTypes": [
+    "eyewitness",
+    "photographic",
+    "official statements"
+   ],
+   "mainstream": "From mid-November 2024 residents of New Jersey reported large numbers of mysterious lights and 'drones' flying at night, some reportedly near Picatinny Arsenal and Naval Weapons Station Earle. Reports spread to New York, Pennsylvania and across the US, amplified by social media and politicians, with claims ranging from foreign spy drones to an Iranian 'mothership' and UFOs. On 16 December 2024 a joint statement by the US Department of Defense, Homeland Security, FAA and FBI concluded that most sightings were lawful drones, manned aircraft, helicopters and stars, while acknowledging that unauthorised drone flights over military bases were a separate, long-standing issue. The FAA imposed temporary drone restrictions over parts of New Jersey and New York. In January 2025 the White House said the drones had been largely FAA-authorised research and hobby flights.",
+   "alternatives": [
+    {
+     "label": "Misidentification",
+     "text": "Investigators and astronomers showed that many viral videos captured airliners approaching nearby airports, or the constellation Orion and the planet Venus; a reported \"mist-spraying drone\" and a drone blocking a medical helicopter turned out to be ordinary aircraft or weather effects."
+    },
+    {
+     "label": "Real incursions",
+     "text": "Defence officials confirmed genuine unauthorised drone incursions over some bases in 2023-24 (for example Langley Air Force Base and Camp Pendleton), and some officials and lawmakers argued that the government's explanations did not account for every report."
+    },
+    {
+     "label": "A classic flap",
+     "text": "Commentators compared the episode to earlier sighting waves such as the 1896-97 mystery airships, the 1946 ghost rockets and the 1942 \"Battle of Los Angeles\", in which public attention leads more people to look up and report ordinary objects."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: 2024 United States drone sightings",
+     "url": "https://en.wikipedia.org/wiki/2024_United_States_drone_sightings",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/2024_United_States_drone_sightings_map_%28states%29.png/500px-2024_United_States_drone_sightings_map_%28states%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:2024_United_States_drone_sightings_map_(states).png",
+     "author": "Chetsford",
+     "license": "Public domain",
+     "title": "2024 United States drone sightings map (states).png"
+    }
+   ],
+   "categories": [
+    "anomalies",
+    "aliens-ufo",
+    "history"
+   ],
+   "threads": [
+    "ufo-encounters",
+    "collective-experiences",
+    "seeing-what-we-expect",
+    "official-ufo-investigations",
+    "rumour-and-disinformation",
+    "internet-folklore",
+    "phantom-aircraft-scares"
    ]
   }
  ]
