@@ -905,7 +905,8 @@
    ],
    "threads": [
     "flood-myths",
-    "deep-oral-memory"
+    "deep-oral-memory",
+    "aboriginal-australia"
    ]
   },
   {
@@ -5206,7 +5207,8 @@
     "archaeology"
    ],
    "threads": [
-    "sky-beings"
+    "sky-beings",
+    "aboriginal-australia"
    ]
   },
   {
@@ -7261,7 +7263,8 @@
     "stories-proven-true",
     "deep-oral-memory",
     "volcanoes-and-memory",
-    "water-engineering"
+    "water-engineering",
+    "aboriginal-australia"
    ]
   },
   {
@@ -7420,7 +7423,8 @@
     "flood-myths",
     "serpent-beings",
     "creation-myths",
-    "rain-and-drought"
+    "rain-and-drought",
+    "aboriginal-australia"
    ]
   },
   {
@@ -8534,7 +8538,8 @@
     "history"
    ],
    "threads": [
-    "changed-understanding"
+    "changed-understanding",
+    "aboriginal-australia"
    ]
   },
   {
@@ -8596,7 +8601,8 @@
     "changed-understanding",
     "ice-age-burials",
     "dating-the-past",
-    "repatriation-debates"
+    "repatriation-debates",
+    "aboriginal-australia"
    ]
   },
   {
@@ -12251,7 +12257,8 @@
    "threads": [
     "deep-oral-memory",
     "ancient-astronomy",
-    "star-lore"
+    "star-lore",
+    "aboriginal-australia"
    ]
   },
   {
@@ -12413,7 +12420,8 @@
    "threads": [
     "dragons-and-fossils",
     "cryptids",
-    "deep-oral-memory"
+    "deep-oral-memory",
+    "aboriginal-australia"
    ]
   },
   {
@@ -15153,7 +15161,8 @@
    "threads": [
     "deep-oral-memory",
     "mysterious-lights",
-    "earth-lights"
+    "earth-lights",
+    "aboriginal-australia"
    ]
   },
   {
@@ -19811,7 +19820,8 @@
    ],
    "threads": [
     "changed-understanding",
-    "outsider-builder-claims"
+    "outsider-builder-claims",
+    "aboriginal-australia"
    ]
   },
   {
@@ -22283,7 +22293,8 @@
     "deep-oral-memory",
     "serpent-beings",
     "sky-omens",
-    "sky-stones"
+    "sky-stones",
+    "aboriginal-australia"
    ]
   },
   {
@@ -34246,7 +34257,8 @@
    "threads": [
     "deep-oral-memory",
     "vanished-landscapes",
-    "vanished-species"
+    "vanished-species",
+    "aboriginal-australia"
    ]
   },
   {
@@ -34307,7 +34319,8 @@
    "threads": [
     "ancient-astronomy",
     "hunter-gatherer-monuments",
-    "stone-circles"
+    "stone-circles",
+    "aboriginal-australia"
    ]
   },
   {
@@ -34375,7 +34388,8 @@
     "deep-oral-memory",
     "sky-omens",
     "ancient-astronomy",
-    "star-lore"
+    "star-lore",
+    "aboriginal-australia"
    ]
   },
   {
@@ -66022,7 +66036,8 @@
     "modern-legends",
     "curses-and-hauntings",
     "repatriation-debates",
-    "sacred-rocks-and-mountains"
+    "sacred-rocks-and-mountains",
+    "aboriginal-australia"
    ]
   },
   {
@@ -80499,7 +80514,8 @@
     "dragons-and-fossils",
     "deep-oral-memory",
     "mass-extinctions",
-    "vanished-species"
+    "vanished-species",
+    "aboriginal-australia"
    ]
   },
   {
@@ -88106,6 +88122,631 @@
     "rediscovered-civilisations",
     "sun-cults",
     "central-america"
+   ]
+  },
+  {
+   "id": "baiame-sky-father",
+   "title": "Baiame, the sky father of south-eastern Australia",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": 1830,
+   "end": null,
+   "dateNote": "Ancient oral tradition; attested in writing from c. 1830",
+   "evidenceTypes": [
+    "oral tradition",
+    "rock art",
+    "ethnographic records"
+   ],
+   "mainstream": "In the Dreaming of several Aboriginal peoples of south-eastern Australia, including the Wiradjuri, Kamilaroi (Gamilaraay), Eora, Darkinjung and Wonnarua, Baiame (Biame, Baayami) is a creator and sky father. He came down from the sky, shaped rivers, mountains and forests, gave people laws and ceremonies, and then returned to the sky. He is closely linked to bora grounds, where boys were initiated, and is often shown in rock art as a large human figure with a big head-dress and outstretched arms; a painted rock shelter near Milbrodale in the Hunter Valley, known as Baiame Cave, is widely thought to depict him. In some traditions one of his wives is associated with the emu, and his son Daramulan also has a role in initiation.",
+   "alternatives": [
+    {
+     "label": "Christian influence?",
+     "text": "Missionaries such as William Ridley adopted the name Baiame for the Christian God when translating into Gamilaraay, and some anthropologists have argued that the idea of a single 'All-Father' was reshaped, or even created, in response to contact with Christianity. Others, citing the writer K. Langloh Parker, note that belief in Baiame is attested by around 1830, before missionary activity in the region, and that Aboriginal knowledge-holders describe him as long pre-dating colonisation."
+    },
+    {
+     "label": "Sky hero and astronomy",
+     "text": "Some researchers link Baiame and his family to stars and constellations, as part of a wider body of Aboriginal sky knowledge; the details vary between nations and sources."
+    },
+    {
+     "label": "Restricted knowledge",
+     "text": "Much Baiame lore belonged to initiated men and was not to be seen by women or outsiders, so published versions are fragmentary and filtered through colonial recorders."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Baiame",
+     "url": "https://en.wikipedia.org/wiki/Baiame",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Bora (Australian)",
+     "url": "https://en.wikipedia.org/wiki/Bora_(Australian)",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/BaiameCaveBulga0004.jpg/500px-BaiameCaveBulga0004.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:BaiameCaveBulga0004.jpg",
+     "author": "Sardaka (talk) 09:06, 14 November 2008 (UTC)",
+     "license": "CC BY 3.0",
+     "title": "BaiameCaveBulga0004.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion"
+   ],
+   "threads": [
+    "sky-beings",
+    "creation-myths",
+    "civilising-teachers",
+    "aboriginal-australia"
+   ]
+  },
+  {
+   "id": "tiddalik-frog",
+   "title": "Tiddalik, the frog who drank all the water",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 3,
+   "start": 1870,
+   "end": null,
+   "dateNote": "Recorded late 19th century; traditional story of unknown age",
+   "evidenceTypes": [
+    "oral tradition",
+    "ethnographic records"
+   ],
+   "mainstream": "Tiddalik is a story recorded in the late 19th century from the Gunaikurnai people near Port Albert in South Gippsland, Victoria, and since retold across Australia. A giant frog wakes up thirsty and drinks every lake, river and swamp until the land is parched and other animals are dying. The animals try to make him laugh so he will release the water; after others fail, an eel (Nabunum in some versions) twists itself into comical shapes and Tiddalik bursts out laughing, letting the water gush back. In some early versions the water comes out as a great flood that drowns many creatures and strands others on islands. The story is often linked to Australia's water-holding frogs, which store water in their bodies to survive drought and were sometimes dug up by Aboriginal people as a source of water.",
+   "alternatives": [
+    {
+     "label": "A memory of a different landscape?",
+     "text": "The water-holding frog associated with Tiddalik today is not found in Gippsland. Some writers have suggested the story reflects a time 10,000-12,000 years ago when the environment was different and the frog's range was larger; others think it refers to another frog, or that the link to the water-holding frog is a modern addition. Both remain speculative."
+    },
+    {
+     "label": "A flood myth",
+     "text": "Folklorists note that the 19th-century versions emphasise drought followed by flood, placing Tiddalik among the world's many stories of water withheld and released, rather than the gentle children's tale of modern picture books."
+    },
+    {
+     "label": "Remade over time",
+     "text": "Researchers have shown how the story changed as it was retold by settler writers and in children's books, with different animals making Tiddalik laugh; Aboriginal communities continue to tell their own versions."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Tiddalik",
+     "url": "https://en.wikipedia.org/wiki/Tiddalik",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Water-holding frog",
+     "url": "https://en.wikipedia.org/wiki/Water-holding_frog",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Fish_out_of_water_%E2%80%A6_as_Tiddalik_watches._Condamine_River%2C_Warwick%2C_2022.jpg/500px-Fish_out_of_water_%E2%80%A6_as_Tiddalik_watches._Condamine_River%2C_Warwick%2C_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Fish_out_of_water_%E2%80%A6_as_Tiddalik_watches._Condamine_River,_Warwick,_2022.jpg",
+     "author": "Anonymous",
+     "license": "CC BY 4.0",
+     "title": "Fish out of water … as Tiddalik watches. Condamine River, Warwick, 2022.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend"
+   ],
+   "threads": [
+    "flood-myths",
+    "deep-oral-memory",
+    "rain-and-drought",
+    "aboriginal-australia"
+   ]
+  },
+  {
+   "id": "kow-swamp-burials",
+   "title": "Kow Swamp: robust Ice Age skulls and the \"two peoples\" debate",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": -20000,
+   "end": -9000,
+   "dateNote": "Burials c. 22,000-19,000 years ago (OSL, 2003); earlier estimate 13,000-9,000 years ago; excavated 1968-72; reburied 1990",
+   "evidenceTypes": [
+    "archaeological",
+    "physical anthropology",
+    "luminescence dating"
+   ],
+   "mainstream": "At Kow Swamp (Ghow Swamp) in northern Victoria, the anthropologist Alan Thorne excavated the partial remains of more than 22 people between 1968 and 1972, the largest known group of late Pleistocene burials in Australia. Some skulls had thick bones, heavy brow ridges and flat, receding foreheads that looked very different from the more lightly built ('gracile') people found at Lake Mungo and Keilor. Thorne argued that Australia had been settled by two different populations, one descended from Homo erectus of Java and one from China, which later mixed to form Aboriginal Australians. First dated to about 13,000-9,000 years ago, the cemetery was redated in 2003 by optically stimulated luminescence to about 22,000-19,000 years ago. After a campaign by Aboriginal communities, Museum Victoria returned the remains to the Yorta Yorta people in 1990 and they were reburied. The site was declared a protected Aboriginal place in 2022.",
+   "alternatives": [
+    {
+     "label": "Two migrations",
+     "text": "Thorne's model, part of the wider 'multiregional' theory of human origins, held that the robust features showed continuity with Javan Homo erectus. Genetic studies of Aboriginal Australians since the 2010s point to a single founding population, and most researchers no longer accept a separate erectus-derived population."
+    },
+    {
+     "label": "Head shaping",
+     "text": "Peter Brown and others argued that some of the flattened foreheads were caused by deliberately binding infants' heads, a practice known from other cultures, rather than by ancestry; Thorne and colleagues disputed this."
+    },
+    {
+     "label": "Ice Age life",
+     "text": "Other researchers explain the variation as the result of local adaptation and harsh Last Glacial Maximum conditions. Because the remains were reburied and many were fragmentary, the debate now depends largely on earlier measurements and casts."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Ghow Swamp Aboriginal Place",
+     "url": "https://en.wikipedia.org/wiki/Ghow_Swamp_Aboriginal_Place",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Last Glacial Maximum ages for robust humans at Kow Swamp, southern Australia",
+     "authors": "Stone, T. et al.",
+     "year": 2003,
+     "doi": "10.1016/s0047-2484(03)00087-3",
+     "type": "paper"
+    },
+    {
+     "title": "Wikipedia: Multiregional origin of modern humans",
+     "url": "https://en.wikipedia.org/wiki/Multiregional_origin_of_modern_humans",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [],
+   "categories": [
+    "archaeology",
+    "science-cosmos"
+   ],
+   "threads": [
+    "changed-understanding",
+    "human-origins",
+    "dating-the-past",
+    "repatriation-debates",
+    "aboriginal-australia"
+   ]
+  },
+  {
+   "id": "wilgie-mia-ochre-mine",
+   "title": "Wilgie Mia: the red ochre mine worked for tens of thousands of years",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 3,
+   "start": -30000,
+   "end": null,
+   "dateNote": "Worked for c. 27,000-40,000 years; heritage-listed 2011",
+   "evidenceTypes": [
+    "archaeological",
+    "oral tradition",
+    "heritage records"
+   ],
+   "mainstream": "Wilgie Mia, known to the Wajarri Yamatji people as Thuwarri Thaa ('red ochre hole'), is an ochre mine in the Weld Range of Western Australia. Aboriginal miners used wooden wedges, hammerstones and scaffolding to dig a vast open cut and caves into the hill, removing an estimated 14,000-19,600 cubic metres of ochre and rock; the government heritage listing notes 'stop and pillar' supports and pole scaffolding with platforms, techniques not recorded at other traditional ochre mines. Estimates of how long it has been worked range from about 27,000 to 40,000 years, making it a candidate for the world's oldest continuously used mine. Its ochre was prized for ceremony and was traded across much of Western Australia and reportedly as far as 1,600 km away, the most extensive pre-contact ochre trade network recorded in Australia. In Wajarri tradition the mine was created by Marlu, the red kangaroo: the red ochre is his blood, the yellow his liver and the green his gall. It is a men's site and access is restricted. From the 1940s to the 1970s European miners also extracted ochre from the site. It was added to the Australian National Heritage List in 2011, and in 2018 the Wajarri Yamatji won exclusive native title over it.",
+   "alternatives": [
+    {
+     "label": "How old?",
+     "text": "Precise dating of the earliest mining is difficult because the mine has been reworked repeatedly; the wide range of age estimates reflects this uncertainty."
+    },
+    {
+     "label": "Sacred and dangerous",
+     "text": "Traditional rules governed who could enter and how ochre was taken; the Mondong, malevolent spirits, are said to guard the ochre, and the rituals that protected miners are better recorded here than at any other Aboriginal ochre mine."
+    },
+    {
+     "label": "Ochre and the first art",
+     "text": "Ochre use is one of the oldest signs of symbolic behaviour among modern humans, from Blombos Cave in South Africa to Australian rock art; Wilgie Mia shows the scale that ochre production could reach."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Wilgie Mia",
+     "url": "https://en.wikipedia.org/wiki/Wilgie_Mia",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Australian Government (DCCEEW): Wilgie Mia Aboriginal Ochre Mine, National Heritage List",
+     "url": "https://www.dcceew.gov.au/parks-heritage/heritage/places/national/wilgie-mia",
+     "type": "heritage listing"
+    }
+   ],
+   "media": [],
+   "categories": [
+    "archaeology",
+    "history"
+   ],
+   "threads": [
+    "trade-networks",
+    "first-art",
+    "dating-the-past",
+    "aboriginal-australia"
+   ]
+  },
+  {
+   "id": "gympie-pyramid",
+   "title": "The Gympie \"Pyramid\": Egyptians, Chinese fleets or an old vineyard?",
+   "lane": "history",
+   "status": "debunked",
+   "priority": 3,
+   "start": 1975,
+   "end": null,
+   "dateNote": "Terraces 19th century; pyramid claim 1975",
+   "evidenceTypes": [
+    "archaeological",
+    "historical records",
+    "claims in popular books"
+   ],
+   "mainstream": "Rocky Ridge, a terraced sandstone hill about 5 km north-east of Gympie in Queensland, known to the Kabi Kabi (Gubbi Gubbi) people as Djaki Kundu, became famous as the 'Gympie Pyramid'. In 1975 the writer Rex Gilroy claimed it was the remains of a pyramid built by ancient Egyptians who had mined gold in Australia, citing an unusual stone wall, local taboos, exotic cactus and a strange carved stone figure (the 'Gympie Ape') reportedly found nearby. Others attributed it to Phoenicians, the Maya or extraterrestrials, and Gavin Menzies later claimed it as a Ming Chinese observation platform from the voyages he believed reached Australia in 1421. Historical research shows that the low stone terraces were built by 19th-century settlers, most likely as a vineyard: a local settler wrote about vine-growing in the Gympie Times in 1884, and the paper described the area as 'the old vineyard' in 1905.",
+   "alternatives": [
+    {
+     "label": "Lost visitors",
+     "text": "Supporters of ancient-contact theories see the terraces, the figure and inscriptions as traces of pre-European visitors to Australia; no excavation has produced material supporting this, and the carved figure's origin is unknown."
+    },
+    {
+     "label": "Aboriginal significance",
+     "text": "When a highway upgrade crossed the area from 2020, some Kabi Kabi people and supporters argued that the hill was a significant Aboriginal site, citing grinding grooves; others disputed the claim, and the site's cultural status became a separate debate from the pyramid theories."
+    },
+    {
+     "label": "A pattern",
+     "text": "Researchers place it alongside other claimed Australian pyramids and 'lost race' theories that attribute old structures in colonised lands to outsiders."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Gympie Pyramid",
+     "url": "https://en.wikipedia.org/wiki/Gympie_Pyramid",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Gavin Menzies",
+     "url": "https://en.wikipedia.org/wiki/Gavin_Menzies",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Grinding_grooves.jpg/500px-Grinding_grooves.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Grinding_grooves.jpg",
+     "author": "Wikigetsme123",
+     "license": "CC BY-SA 4.0",
+     "title": "Grinding_grooves.jpg"
+    }
+   ],
+   "categories": [
+    "hoaxes",
+    "lost-civilisations",
+    "anomalies"
+   ],
+   "threads": [
+    "hoaxes-exposed",
+    "outsider-builder-claims",
+    "fringe-theories",
+    "who-got-there-first",
+    "aboriginal-australia"
+   ]
+  },
+  {
+   "id": "marree-man-1998",
+   "title": "The Marree Man: a 2.7 km giant drawn on the desert by unknown hands (1998)",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1998,
+   "end": null,
+   "dateNote": "Discovered 26 June 1998; re-graded 2016",
+   "evidenceTypes": [
+    "aerial photography",
+    "anonymous faxes",
+    "physical evidence"
+   ],
+   "mainstream": "On 26 June 1998 the charter pilot Trec Smith, flying between Marree and Coober Pedy in South Australia, spotted a gigantic outline of an Aboriginal man hunting with a throwing stick, cut into the surface of a plateau at Finniss Springs. The figure is about 2.7 km tall with a 28 km outline, making it one of the largest geoglyphs in the world. Nobody has ever claimed responsibility. Anonymous faxes sent to media and a local hotel called it 'Stuart's Giant', after the explorer John McDouall Stuart, and contained references to American places and spellings; in January 1999 another fax led officials to a buried plaque bearing a small US flag, the Olympic rings and the words 'In honour of the land they once knew'. Native title holders, the Arabana people, took legal action and the site was closed to visitors. The lines faded over time, and in 2016 local businesses, with the Arabana Aboriginal Corporation's consent, re-graded it using GPS.",
+   "alternatives": [
+    {
+     "label": "American military?",
+     "text": "The site lies just outside the Woomera Prohibited Area, and early speculation pointed to US personnel at nearby bases; investigators noted that the American clues might be deliberate red herrings."
+    },
+    {
+     "label": "The artist theory",
+     "text": "The Alice Springs artist Bardius Goldberg (died 2002) was suspected by friends of being involved, reportedly saying he had been paid to keep quiet; this has never been proven, and others suggest a small team with surveying equipment."
+    },
+    {
+     "label": "Art, vandalism or insult?",
+     "text": "Some Arabana people objected to an image of an Aboriginal man being carved into their country without permission, while others came to see it as a tourism asset. Like crop circles, it shows how anonymous land art can generate long-lasting mystery."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Marree Man",
+     "url": "https://en.wikipedia.org/wiki/Marree_Man",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Marree_man.jpg/500px-Marree_man.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Marree_man.jpg",
+     "author": "Lauren Dauphin",
+     "license": "Public domain",
+     "title": "Marree_man.jpg"
+    }
+   ],
+   "categories": [
+    "anomalies",
+    "hoaxes"
+   ],
+   "threads": [
+    "modern-legends",
+    "hill-figures",
+    "aboriginal-australia"
+   ]
+  },
+  {
+   "id": "knowles-nullarbor-1988",
+   "title": "The Knowles family and the \"UFO\" on the Nullarbor (1988)",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 3,
+   "start": 1988,
+   "end": null,
+   "dateNote": "20 January 1988",
+   "evidenceTypes": [
+    "eyewitness",
+    "police statements",
+    "vehicle examination"
+   ],
+   "mainstream": "In the early hours of 20 January 1988 Faye Knowles and her three adult sons were driving east across the Nullarbor Plain on the Eyre Highway, about 40 km west of Mundrabilla in Western Australia. They reported that a glowing object 'like an egg in an egg cup' chased their car, landed on the roof, lifted the car off the road and shook it, while their voices sounded distorted; when it dropped the car a tyre burst, and they fled into the bush. They drove on to Ceduna in South Australia and reported it to police, who said the car was dented and covered in an ash-like substance and that they were taking the report seriously. A truck driver also reported a strange light, and the story made headlines worldwide.",
+   "alternatives": [
+    {
+     "label": "A genuine encounter",
+     "text": "The family maintained their account, and some UFO researchers regard it as one of Australia's strongest physical-trace cases because of the multiple witnesses, the damage and the reported dust."
+    },
+    {
+     "label": "Mirage and a blowout",
+     "text": "Investigators, including UFO researcher Keith Basterfield and astronomer A. T. Brunt (writing in The Skeptic, 1989), concluded that the light was probably a mirage of distant truck headlights caused by a temperature inversion, and that a high-speed tyre blowout explains the jolting and brake dust; forensic tests of the car found nothing unusual."
+    },
+    {
+     "label": "How stories grow",
+     "text": "Sceptics note how press reports quickly added details such as the car being turned around; believers reply that the debunking explanations do not account for everything the witnesses described."
+    }
+   ],
+   "sources": [
+    {
+     "title": "ABC News (2018): South Australia's X-Files - Curious Adelaide cracks open our most mysterious UFO cases",
+     "url": "https://www.abc.net.au/news/2018-02-23/curious-adelaide-ufo-sightings-across-australia/9466950",
+     "type": "news"
+    },
+    {
+     "title": "Trove (National Library of Australia): \"UFO encounter on Nullarbor Plain reported\", 21 January 1988",
+     "url": "https://trove.nla.gov.au/newspaper/article/101971256",
+     "type": "newspaper"
+    },
+    {
+     "title": "The Skeptic (1989, A. T. Brunt): The 1988 Nullarbor UFO Mystery - Solved",
+     "url": "https://www.skeptic.org.uk/1989/12/from-the-archives-the-1988-nullarbor-ufo-mystery-solved/",
+     "type": "article"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Nullarbor_Plain_Escarpment_DSC04558.JPG/500px-Nullarbor_Plain_Escarpment_DSC04558.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Nullarbor_Plain_Escarpment_DSC04558.JPG",
+     "author": "Yewenyi at English Wikipedia",
+     "license": "CC BY-SA 3.0",
+     "title": "Nullarbor Plain Escarpment DSC04558.JPG"
+    }
+   ],
+   "categories": [
+    "aliens-ufo",
+    "anomalies"
+   ],
+   "threads": [
+    "ufo-encounters",
+    "mysterious-lights",
+    "seeing-what-we-expect",
+    "modern-legends",
+    "close-encounters"
+   ]
+  },
+  {
+   "id": "truganini-last-tasmanian-myth",
+   "title": "Truganini and the myth of the \"last Tasmanian\"",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1876,
+   "end": 1976,
+   "dateNote": "c. 1812-1876; remains cremated 1976",
+   "evidenceTypes": [
+    "textual",
+    "museum records",
+    "oral history"
+   ],
+   "mainstream": "Truganini (c. 1812 - 8 May 1876) was a Nuenonne woman from Bruny Island in south-eastern Tasmania. As a teenager she lived through the Black War, in which colonial violence and disease devastated Tasmania's Aboriginal population. She became a guide for the official George Augustus Robinson on his expeditions to persuade the remaining Aboriginal people to move to the Wybalenna settlement on Flinders Island, where many died. Later, in the Port Phillip District, she joined a group of fugitives and was tried with four others for the murder of two whalers, and acquitted. By 1872 she was the last resident at the Oyster Cove station and was promoted by colonists and scientists as the 'last' Aboriginal Tasmanian. After her death the Royal Society of Tasmania had her body exhumed (1878); her skeleton was displayed in the Tasmanian Museum until 1947 and was finally cremated and her ashes scattered in the D'Entrecasteaux Channel in 1976.",
+   "alternatives": [
+    {
+     "label": "The \"last\" myth",
+     "text": "Scholars and the Tasmanian Aboriginal community reject the idea that Aboriginal Tasmanians died out with Truganini. Fanny Cochrane Smith (died 1905), who recorded songs in a Tasmanian language on wax cylinders in 1899 and 1903, outlived her, and thousands of Aboriginal Tasmanians today descend from families who survived on the islands of Bass Strait and elsewhere."
+    },
+    {
+     "label": "Collaborator or survivor?",
+     "text": "Truganini has been portrayed both as having helped the colonial removals and as a resilient survivor making hard choices; historians debate her motives with limited sources in her own words."
+    },
+    {
+     "label": "Bodies as specimens",
+     "text": "Her treatment became a landmark in the campaign for the return of Aboriginal remains; in 2002 and 2005 the Royal College of Surgeons in England returned samples of her hair and skin."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Truganini",
+     "url": "https://en.wikipedia.org/wiki/Truganini",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Fanny Cochrane Smith",
+     "url": "https://en.wikipedia.org/wiki/Fanny_Cochrane_Smith",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Black War",
+     "url": "https://en.wikipedia.org/wiki/Black_War",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Truganini_-_Charles_Woolley_%28cropped%29.jpg/500px-Truganini_-_Charles_Woolley_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Truganini_-_Charles_Woolley_(cropped).jpg",
+     "author": "Charles A. Woolley",
+     "license": "Public domain",
+     "title": "Truganini_-_Charles_Woolley_(cropped).jpg"
+    }
+   ],
+   "categories": [
+    "history"
+   ],
+   "threads": [
+    "changed-understanding",
+    "erased-from-history",
+    "myths-about-history",
+    "resistance-to-empire",
+    "repatriation-debates",
+    "aboriginal-australia"
+   ]
+  },
+  {
+   "id": "arioi-and-oro",
+   "title": "The Arioi: the travelling sacred society of the war god 'Oro",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 3,
+   "start": 1650,
+   "end": 1820,
+   "dateNote": "17th century - c. 1820",
+   "evidenceTypes": [
+    "ethnohistoric accounts",
+    "oral tradition",
+    "archaeological"
+   ],
+   "mainstream": "In the Society Islands (Tahiti, Ra'iatea and neighbours) of the 17th-18th centuries, the cult of the war god 'Oro, son of the creator Ta'aroa, became dominant, centred on the great marae (temple) of Taputapuatea on Ra'iatea, his legendary birthplace. Its most famous institution was the Arioi, an order of men and women from all social levels, said to have been founded by 'Oro, who had to be 'possessed' by the god to join. Arranged in ranks marked by tattoos, they travelled between islands in fleets of canoes, performing dances, dramas, songs and satire at festivals and religious ceremonies, and were honoured guests of chiefs. European visitors such as Bougainville and James Cook described them; Cook also witnessed a human sacrifice to 'Oro in 1777. The order declined after the conversion of the Tahitian ruler Pōmare II to Christianity in the 1810s.",
+   "alternatives": [
+    {
+     "label": "Infanticide",
+     "text": "European observers and missionaries reported that Arioi members were required to kill children born to them, which horrified the missionaries. Some scholars see this as a way to keep the order separate from family and lineage politics; others caution that outsiders' accounts may have exaggerated or misunderstood rites they were barred from seeing."
+    },
+    {
+     "label": "Actors, priests or spies?",
+     "text": "The Arioi have been described variously as a religious order, a troupe of performing artists, a political network spreading the 'Oro cult, and an elite that enjoyed freedom from ordinary rules. Their esoteric teachings were secret, so their full role is unknown."
+    },
+    {
+     "label": "Navigators and the god",
+     "text": "The priest and navigator Tupaia, who sailed with Cook in 1769, came from Ra'iatea's 'Oro priesthood; Taputapuatea, listed by UNESCO in 2017, was a gathering place for voyagers from across eastern Polynesia."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Arioi",
+     "url": "https://en.wikipedia.org/wiki/Arioi",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: ʻOro",
+     "url": "https://en.wikipedia.org/wiki/%CA%BBOro",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Taputapuatea marae",
+     "url": "https://en.wikipedia.org/wiki/Taputapuatea_marae",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Tahitimarae1.jpg/500px-Tahitimarae1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Tahitimarae1.jpg",
+     "author": "American at de.wikipedia",
+     "license": "CC BY-SA 3.0",
+     "title": "Tahitimarae1.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "religion"
+   ],
+   "threads": [
+    "ocean-voyagers",
+    "human-sacrifice",
+    "secret-societies",
+    "pacific-wayfinding"
+   ]
+  },
+  {
+   "id": "taaroa-cosmic-egg",
+   "title": "Ta'aroa in the cosmic shell, and the statue of A'a",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": 1821,
+   "end": null,
+   "dateNote": "Traditional; statue given to missionaries in 1821",
+   "evidenceTypes": [
+    "oral tradition",
+    "physical object",
+    "missionary records"
+   ],
+   "mainstream": "In Tahitian tradition the creator Ta'aroa (known elsewhere in Polynesia as Tangaroa, Tagaloa or Kanaloa) existed alone in a shell like an egg, spinning in the endless void before there was sky, earth, sun or stars. Bored, he cracked it open, found only darkness and silence, and from the pieces of the shell made rocks, sand and the foundation of the world; his own body supplied the rest of creation. In Māori and other traditions Tangaroa is god of the sea and fish. A famous wooden figure from the island of Rurutu, covered with thirty small figures, has often been identified as Ta'aroa creating gods and people. It was handed to missionaries of the London Missionary Society on Ra'iatea in 1821 as a sign of the islanders' conversion to Christianity, and is now in the British Museum.",
+   "alternatives": [
+    {
+     "label": "Ta'aroa or an ancestor?",
+     "text": "The missionary William Ellis identified the figure as Ta'aroa, and that label became famous. Later researchers note there is little evidence for this: the islanders called it A'a, a name not known from wider Polynesian cosmology, and anthropologist Steven Hooper argued it was made as a casket for the bones of a revered ancestor."
+    },
+    {
+     "label": "A world egg",
+     "text": "Creation from a cosmic egg or shell appears in many cultures, from the Chinese Pangu to the Indian Hiranyagarbha and the Finnish Kalevala; scholars debate whether such similarities reflect shared ancient ideas or independent invention."
+    },
+    {
+     "label": "Art and empire",
+     "text": "The figure was admired by 20th-century artists such as Picasso and Henry Moore, who owned casts; for Polynesians it is also a reminder of the destruction and removal of sacred objects during conversion."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Taʼaroa",
+     "url": "https://en.wikipedia.org/wiki/Ta%CA%BCaroa",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Tangaroa",
+     "url": "https://en.wikipedia.org/wiki/Tangaroa",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Statue of A'a from Rurutu",
+     "url": "https://en.wikipedia.org/wiki/Statue_of_A'a_from_Rurutu",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Wooden_figure_of_A%27a_British_Museum_%282082156178%29.jpg/500px-Wooden_figure_of_A%27a_British_Museum_%282082156178%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Wooden_figure_of_A%27a_British_Museum_(2082156178).jpg",
+     "author": "Paul Hudson from United Kingdom",
+     "license": "CC BY 2.0",
+     "title": "Wooden figure of A'a British Museum (2082156178).jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion"
+   ],
+   "threads": [
+    "creation-myths",
+    "born-from-eggs",
+    "repatriation-debates"
    ]
   }
  ]
