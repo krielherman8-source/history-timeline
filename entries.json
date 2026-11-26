@@ -1972,7 +1972,8 @@
     "religion"
    ],
    "threads": [
-    "world-ages-and-resets"
+    "world-ages-and-resets",
+    "norse-worlds"
    ]
   },
   {
@@ -2020,7 +2021,8 @@
    ],
    "threads": [
     "changed-understanding",
-    "ocean-voyagers"
+    "ocean-voyagers",
+    "norse-worlds"
    ]
   },
   {
@@ -24834,7 +24836,8 @@
    "threads": [
     "shapeshifters",
     "altered-states",
-    "berserkers-and-warriors"
+    "berserkers-and-warriors",
+    "norse-worlds"
    ]
   },
   {
@@ -24956,7 +24959,8 @@
    ],
    "threads": [
     "ancient-technology",
-    "knowledge-and-power"
+    "knowledge-and-power",
+    "norse-worlds"
    ]
   },
   {
@@ -29507,7 +29511,8 @@
    "threads": [
     "sky-omens",
     "collective-experiences",
-    "otherworld-visits"
+    "otherworld-visits",
+    "norse-worlds"
    ]
   },
   {
@@ -32761,7 +32766,8 @@
     "anomalies"
    ],
    "threads": [
-    "hidden-peoples"
+    "hidden-peoples",
+    "norse-worlds"
    ]
   },
   {
@@ -32831,7 +32837,8 @@
    "threads": [
     "ocean-voyagers",
     "ancient-technology",
-    "tested-by-experiment"
+    "tested-by-experiment",
+    "norse-worlds"
    ]
   },
   {
@@ -51836,7 +51843,8 @@
    "threads": [
     "world-ages-and-resets",
     "volcanoes-and-memory",
-    "ciphers-and-codes"
+    "ciphers-and-codes",
+    "norse-worlds"
    ]
   },
   {
@@ -56906,7 +56914,8 @@
    "threads": [
     "lost-treasures",
     "myths-about-history",
-    "dragon-slayers"
+    "dragon-slayers",
+    "norse-worlds"
    ]
   },
   {
@@ -64659,7 +64668,8 @@
    "threads": [
     "lost-treasures",
     "berserkers-and-warriors",
-    "repatriation-debates"
+    "repatriation-debates",
+    "norse-worlds"
    ]
   },
   {
@@ -66296,7 +66306,8 @@
     "world-ages-and-resets",
     "creation-myths",
     "underground-worlds",
-    "world-trees"
+    "world-trees",
+    "norse-worlds"
    ]
   },
   {
@@ -71959,7 +71970,8 @@
     "serpent-beings",
     "world-ages-and-resets",
     "dragon-slayers",
-    "thunder-gods"
+    "thunder-gods",
+    "norse-worlds"
    ]
   },
   {
@@ -72034,7 +72046,8 @@
     "shapeshifters",
     "earthquake-lore",
     "fire-thieves",
-    "trickster-tales"
+    "trickster-tales",
+    "norse-worlds"
    ]
   },
   {
@@ -89439,6 +89452,666 @@
     "silk-road",
     "steppe-empires",
     "iranian-worlds"
+   ]
+  },
+  {
+   "id": "nabonidus-first-archaeologist",
+   "title": "Nabonidus and Ennigaldi: the king who dug up the past and the first museum",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -556,
+   "end": -530,
+   "dateNote": "Reigned 556-539 BCE; museum c. 530 BCE; found 1925",
+   "evidenceTypes": [
+    "textual",
+    "archaeological",
+    "cuneiform inscriptions"
+   ],
+   "mainstream": "Nabonidus (ruled 556-539 BCE) was the last king of the Neo-Babylonian Empire. Devoted to the moon god Sin, whose temple at Harran his mother Adad-guppi served, he spent about ten years (c. 552-543 BCE) at the Arabian oasis of Tayma, leaving his son Belshazzar as regent in Babylon, until the city fell to Cyrus of Persia in 539 BCE. He excavated and restored ancient temples, searching for their original foundation deposits: at Sippar he reported finding the foundation inscription of the Akkadian king Naram-Sin, whom he dated to 3,200 years before his own time, and he had old inscriptions copied and restored. At Ur he installed his daughter Ennigaldi as high priestess of the moon god. In 1925 Leonard Woolley excavated rooms in her complex containing older objects, including a Kassite boundary stone and part of a statue of King Shulgi, with clay cylinders labelling them in several languages, which he interpreted as the world's first known museum (c. 530 BCE).",
+   "alternatives": [
+    {
+     "label": "The first archaeologist?",
+     "text": "Nabonidus is often called the first archaeologist. Historians note that his digging was religious and political, aimed at legitimising his rule by connecting it with ancient kings; his date for Naram-Sin was too early by well over a thousand years."
+    },
+    {
+     "label": "A museum or a storeroom?",
+     "text": "Woolley's 'museum' interpretation is popular but debated: the objects with 'labels' may have been a temple collection of antiquities, a school collection or simply stored relics."
+    },
+    {
+     "label": "The mad king of Daniel",
+     "text": "Babylonian texts hostile to Nabonidus, written after the Persian conquest, accuse him of neglecting the god Marduk. A Dead Sea Scrolls text, the Prayer of Nabonidus, describes him being afflicted for seven years at Tayma; many scholars think the Book of Daniel's story of Nebuchadnezzar's madness was originally about Nabonidus."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Nabonidus",
+     "url": "https://en.wikipedia.org/wiki/Nabonidus",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Ennigaldi-Nanna's museum",
+     "url": "https://en.wikipedia.org/wiki/Ennigaldi-Nanna's_museum",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Ennigaldi-Nanna",
+     "url": "https://en.wikipedia.org/wiki/Ennigaldi-Nanna",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Detail%2C_stele_of_Nabonidus._Nabonidus_wears_the_traditional_dress_of_a_Babylonian_king%2C_holding_objects_symbolizing_justice_and_power.jpg/500px-Detail%2C_stele_of_Nabonidus._Nabonidus_wears_the_traditional_dress_of_a_Babylonian_king%2C_holding_objects_symbolizing_justice_and_power.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Detail,_stele_of_Nabonidus._Nabonidus_wears_the_traditional_dress_of_a_Babylonian_king,_holding_objects_symbolizing_justice_and_power.jpg",
+     "author": "Osama Shukir Muhammed Amin FRCP(Glasg)",
+     "license": "CC BY-SA 4.0",
+     "title": "Detail,_stele_of_Nabonidus._Nabonidus_wears_the_traditional_dress_of_a_Babylonian_king,_holding_objects_symbolizing_justice_and_power.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology",
+    "religion"
+   ],
+   "threads": [
+    "sacred-kingship",
+    "mesopotamia-and-anatolia",
+    "myths-about-history",
+    "moon-myths",
+    "dating-the-past",
+    "bible-and-archaeology"
+   ]
+  },
+  {
+   "id": "behemoth-and-leviathan",
+   "title": "Behemoth and Leviathan: the beasts of Job - hippo, crocodile, chaos monster or dinosaur?",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": -500,
+   "end": null,
+   "dateNote": "Book of Job c. 6th-4th century BCE; Ugaritic Lotan c. 1300 BCE",
+   "evidenceTypes": [
+    "textual",
+    "comparative mythology"
+   ],
+   "mainstream": "In the Book of Job (chapters 40-41), God answers Job from a whirlwind by describing two awesome creatures. Behemoth eats grass like an ox, has bones like bronze and 'moves his tail like a cedar'; Leviathan is a fire-breathing, armoured sea monster that no human can tame. Leviathan also appears in the Psalms and in Isaiah, where God will slay 'Leviathan the twisting serpent' at the end of days. Leviathan echoes the seven-headed sea serpent Lotan defeated by Baal in Ugaritic myth (c. 1300 BCE), and both creatures recall ancient Near Eastern stories of a god defeating chaos monsters, such as Marduk and Tiamat. In later Jewish tradition, starting with the Book of Enoch, Behemoth is the male land monster and Leviathan the female sea monster, and their flesh will be served at a banquet for the righteous at the end of time.",
+   "alternatives": [
+    {
+     "label": "Real animals",
+     "text": "Many commentators since at least the Middle Ages, and much modern scholarship, identify Behemoth with the hippopotamus (perhaps from an Egyptian term for 'water ox') or the elephant, and Leviathan with the Nile crocodile or the whale, seeing the poems as poetic exaggerations of real beasts."
+    },
+    {
+     "label": "Mythic chaos beasts",
+     "text": "Other scholars argue they are primarily mythological symbols of untamed chaos that only God can control, drawing on Canaanite and Mesopotamian traditions."
+    },
+    {
+     "label": "Dinosaurs?",
+     "text": "Some young-earth creationists, such as the organisation Answers in Genesis, argue that Behemoth was a sauropod dinosaur, mainly because of the tail 'like a cedar', and that Leviathan may have been a marine reptile, implying that humans and dinosaurs lived together. Mainstream biblical scholars and palaeontologists reject this, noting that non-avian dinosaurs died out about 66 million years before humans appeared."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Behemoth",
+     "url": "https://en.wikipedia.org/wiki/Behemoth",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Leviathan",
+     "url": "https://en.wikipedia.org/wiki/Leviathan",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Lotan",
+     "url": "https://en.wikipedia.org/wiki/Lotan",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/William_Blake_-_Behemoth_and_Leviathan_-_Google_Art_Project.jpg/500px-William_Blake_-_Behemoth_and_Leviathan_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:William_Blake_-_Behemoth_and_Leviathan_-_Google_Art_Project.jpg",
+     "author": "William Blake",
+     "license": "Public domain",
+     "title": "William Blake - Behemoth and Leviathan - Google Art Project.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion"
+   ],
+   "threads": [
+    "dragons-and-fossils",
+    "serpent-beings",
+    "levant-crossroads",
+    "dragon-slayers"
+   ]
+  },
+  {
+   "id": "oseberg-ship",
+   "title": "The Oseberg ship burial: two women and the richest Viking grave",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 834,
+   "end": null,
+   "dateNote": "Buried autumn 834 CE (tree-ring dating); excavated 1904-05",
+   "evidenceTypes": [
+    "archaeological",
+    "dendrochronology",
+    "skeletal analysis"
+   ],
+   "mainstream": "In 1904-05 archaeologists Gabriel Gustafson and Haakon Shetelig excavated a great burial mound at Oseberg near Tønsberg in Norway. Sealed in blue clay lay a beautifully carved oak ship about 21.5 m long, which tree-ring dating shows was buried in the autumn of 834 CE. In a burial chamber on deck were the skeletons of two women, one about 80 years old with severe arthritis and the other about 50, along with an ornately carved wagon (the only complete Viking Age wagon known), four sledges, beds, chests, textiles and tapestries, kitchen equipment, and the remains of horses, dogs and oxen. A wooden bucket has a handle mount of two cross-legged enamelled figures, nicknamed the 'Buddha bucket'. The ship and finds are displayed in Oslo.",
+   "alternatives": [
+    {
+     "label": "Queen Åsa?",
+     "text": "The high-ranking woman has often been identified with Queen Åsa, grandmother of Harald Fairhair according to the sagas; this cannot be proven, and some scholars doubt that saga genealogies preserve reliable details from the 9th century."
+    },
+    {
+     "label": "Mistress and servant, or two equals?",
+     "text": "The traditional interpretation is that one woman was sacrificed to accompany the other, as described in Ibn Fadlan's account of a Rus' funeral. Others note both women were buried with care in one bed, had diets rich in meat, and may both have been of high status, perhaps a priestess."
+    },
+    {
+     "label": "Distant roots and doubtful DNA",
+     "text": "A study reported that the younger woman had a mitochondrial lineage common in Iran and the Black Sea region, but later attempts failed to confirm it, and the samples may be contaminated. The grave was also robbed in antiquity, so some valuables are missing."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Oseberg ship",
+     "url": "https://en.wikipedia.org/wiki/Oseberg_ship",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Osebergskipet_2016.jpg/500px-Osebergskipet_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Osebergskipet_2016.jpg",
+     "author": "Petter Ulleland",
+     "license": "CC BY-SA 4.0",
+     "title": "Osebergskipet_2016.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history"
+   ],
+   "threads": [
+    "human-sacrifice",
+    "genetic-migrations",
+    "norse-worlds"
+   ]
+  },
+  {
+   "id": "uppsala-temple",
+   "title": "The Temple at Uppsala: golden chains, sacred groves and nine-year sacrifices",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 1070,
+   "end": null,
+   "dateNote": "Described c. 1075; site in use from c. 5th century",
+   "evidenceTypes": [
+    "textual",
+    "archaeological"
+   ],
+   "mainstream": "Around 1075 the German cleric Adam of Bremen described a great pagan temple at Uppsala (today Gamla Uppsala) in Sweden, adorned with gold and surrounded by a golden chain. Inside stood statues of three gods: Thor, the mightiest, in the centre, with Wodan (Odin) and Fricco (Freyr) beside him. Every nine years, he wrote, a festival lasting nine days was held at the spring equinox, at which nine males of every kind of creature, including humans, were sacrificed and hung in the sacred grove beside the temple. Near the temple stood a huge evergreen tree and a spring into which a living man was thrown. Gamla Uppsala was certainly a major royal and religious centre: it has huge royal burial mounds of the 6th century, and excavations have revealed large halls and long lines of timber posts.",
+   "alternatives": [
+    {
+     "label": "Eyewitness or propaganda?",
+     "text": "Adam never visited Uppsala and relied on informants; historians note that his description echoes the biblical Temple of Solomon, and Henrik Janson argued that it served church politics of the time, portraying the Swedes as heathens in need of Hamburg-Bremen's authority. Others think it preserves real memories of pre-Christian cult practices."
+    },
+    {
+     "label": "Where was the temple?",
+     "text": "In 1926 the archaeologist Sune Lindqvist found postholes under the medieval church that were long reconstructed as the temple. More recent research suggests the reconstructions overestimate the building, and that the cult may have centred on a large hall used for feasting rather than a separate temple."
+    },
+    {
+     "label": "Human sacrifice",
+     "text": "Archaeological evidence for human sacrifice at Uppsala is limited, though animal sacrifices are well attested at Scandinavian cult sites; sources such as Thietmar of Merseburg describe similar nine-yearly sacrifices at Lejre in Denmark."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Temple at Uppsala",
+     "url": "https://en.wikipedia.org/wiki/Temple_at_Uppsala",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Gamla Uppsala",
+     "url": "https://en.wikipedia.org/wiki/Gamla_Uppsala",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Adam of Bremen",
+     "url": "https://en.wikipedia.org/wiki/Adam_of_Bremen",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Olaus_Magnus_-_On_the_Glorious_Temple_Devoted_to_the_Nordic_Gods.jpg/500px-Olaus_Magnus_-_On_the_Glorious_Temple_Devoted_to_the_Nordic_Gods.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Olaus_Magnus_-_On_the_Glorious_Temple_Devoted_to_the_Nordic_Gods.jpg",
+     "author": "Olaus Magnus",
+     "license": "Public domain",
+     "title": "Olaus_Magnus_-_On_the_Glorious_Temple_Devoted_to_the_Nordic_Gods.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "religion",
+    "archaeology"
+   ],
+   "threads": [
+    "human-sacrifice",
+    "myths-about-history",
+    "world-trees",
+    "last-pagan-sanctuaries",
+    "norse-worlds"
+   ]
+  },
+  {
+   "id": "minnesota-iceman",
+   "title": "The Minnesota Iceman: a \"missing link\" frozen in a carnival freezer",
+   "lane": "history",
+   "status": "debunked",
+   "priority": 3,
+   "start": 1968,
+   "end": null,
+   "dateNote": "Exhibited 1967-1970s; examined December 1968; sold 2013",
+   "evidenceTypes": [
+    "eyewitness",
+    "photographic",
+    "investigative reports"
+   ],
+   "mainstream": "From 1967 the showman Frank Hansen toured fairs and shopping malls in the US and Canada with a refrigerated coffin containing a hairy, man-like figure frozen in a block of ice, billed as a possible 'missing link'. In December 1968 the zoologists and cryptid researchers Ivan Sanderson and Bernard Heuvelmans examined it for several days through the ice. They concluded that it was a real body and Heuvelmans described it in a scientific bulletin as a new species of hominid, which he called Homo pongoides. Sanderson publicised it in Argosy magazine (1969). The Smithsonian Institution became interested, but Hansen withdrew the exhibit, saying it belonged to an anonymous Californian millionaire, and later displayed a 'replacement' model. The primatologist John Napier, working with the Smithsonian, reported that Hansen had commissioned a latex figure from a West Coast company in 1967 and concluded that the 'original' and the 'replacement' were the same model. In 2013 the exhibit was sold on eBay and later displayed in a museum of oddities in Austin, Texas.",
+   "alternatives": [
+    {
+     "label": "A real hominid?",
+     "text": "Heuvelmans maintained until his death that he and Sanderson had seen a real corpse, citing details such as the smell of decay and wounds, and suggested a switch had taken place. Some cryptozoologists still consider the case unresolved."
+    },
+    {
+     "label": "Shifting stories",
+     "text": "Hansen changed his account of the specimen's origin several times, including that it had been found in Siberian ice and that he had shot it himself; sceptics see this as part of the showman's promotion."
+    },
+    {
+     "label": "Why experts were fooled",
+     "text": "The case is often cited as a lesson in how viewing an object through cloudy ice, without being allowed to touch or sample it, can mislead even experienced zoologists."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Minnesota Iceman",
+     "url": "https://en.wikipedia.org/wiki/Minnesota_Iceman",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Bernard Heuvelmans",
+     "url": "https://en.wikipedia.org/wiki/Bernard_Heuvelmans",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Ivan T. Sanderson",
+     "url": "https://en.wikipedia.org/wiki/Ivan_T._Sanderson",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Minnesota-Iceman-composite-in-ice-and-reconstruction-600-px-tiny-Dec-2016-Darren-Naish-Tetrapod-Zoology.jpg/500px-Minnesota-Iceman-composite-in-ice-and-reconstruction-600-px-tiny-Dec-2016-Darren-Naish-Tetrapod-Zoology.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Minnesota-Iceman-composite-in-ice-and-reconstruction-600-px-tiny-Dec-2016-Darren-Naish-Tetrapod-Zoology.jpg",
+     "author": "Darren Naish",
+     "license": "Public domain",
+     "title": "Minnesota-Iceman-composite-in-ice-and-reconstruction-600-px-tiny-Dec-2016-Darren-Naish-Tetrapod-Zoology.jpg"
+    }
+   ],
+   "categories": [
+    "hoaxes",
+    "anomalies"
+   ],
+   "threads": [
+    "hoaxes-exposed",
+    "cryptids",
+    "seeing-what-we-expect",
+    "showmen-and-spectacle"
+   ]
+  },
+  {
+   "id": "mkultra",
+   "title": "MKUltra: the CIA's secret mind-control experiments",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1953,
+   "end": 1973,
+   "dateNote": "1953-1973 (files destroyed 1973); revealed 1975-77",
+   "evidenceTypes": [
+    "government documents",
+    "congressional testimony"
+   ],
+   "mainstream": "Project MKUltra was a programme of the US Central Intelligence Agency, authorised by Director Allen Dulles in April 1953 and led by the chemist Sidney Gottlieb, to research drugs and techniques that might be used for interrogation, mind control and weakening or discrediting people. During the Cold War, fears that Communist countries had developed 'brainwashing' drove the research. Under the cover of other organisations, the CIA funded more than 150 subprojects at over 80 universities, hospitals, prisons and companies, testing LSD and other drugs, hypnosis, sensory deprivation and electroshock, often on people who did not know they were being tested. In 1973 CIA Director Richard Helms ordered the MKUltra files destroyed. The programme was revealed by the Rockefeller Commission and the Church Committee in 1975, and in 1977 a Freedom of Information request found some 20,000 surviving financial documents, leading to Senate hearings.",
+   "alternatives": [
+    {
+     "label": "Deaths and victims",
+     "text": "The army scientist Frank Olson died in 1953 after falling from a New York hotel window days after he was secretly given LSD; the government later paid his family compensation, but his family argued he was murdered, which the CIA denies. In Montreal, psychiatrist Donald Ewen Cameron's 'psychic driving' experiments, partly CIA-funded, left patients with lasting harm, and Canada and the US later paid some victims."
+    },
+    {
+     "label": "Did it work?",
+     "text": "Investigators found no evidence that MKUltra achieved reliable mind control, and the CIA said the research largely failed. Because most records were destroyed, critics argue the full scope cannot be known."
+    },
+    {
+     "label": "Conspiracy magnet",
+     "text": "Because MKUltra was a real conspiracy that was denied for decades, it is frequently cited in other theories, for example about assassins, cults and famous criminals; most of these alleged connections are unproven."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: MKUltra",
+     "url": "https://en.wikipedia.org/wiki/MKUltra",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Church Committee",
+     "url": "https://en.wikipedia.org/wiki/Church_Committee",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Frank Olson",
+     "url": "https://en.wikipedia.org/wiki/Frank_Olson",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/DeclassifiedMKULTRA.jpg/500px-DeclassifiedMKULTRA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:DeclassifiedMKULTRA.jpg",
+     "author": "Central Intelligence Agency",
+     "license": "Public domain",
+     "title": "DeclassifiedMKULTRA.jpg"
+    }
+   ],
+   "categories": [
+    "history"
+   ],
+   "threads": [
+    "stories-proven-true",
+    "knowledge-and-power",
+    "altered-states",
+    "cold-war-secrets",
+    "science-gone-wrong",
+    "secrets-kept-for-decades"
+   ]
+  },
+  {
+   "id": "stargate-remote-viewing",
+   "title": "The Stargate Project: the US government's psychic spies (1972-1995)",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1978,
+   "end": 1995,
+   "dateNote": "SRI research from 1972; army unit 1978-1995; declassified 1995",
+   "evidenceTypes": [
+    "government documents",
+    "experiments"
+   ],
+   "mainstream": "Worried by reports that the Soviet Union was funding 'psychotronic' research, US intelligence agencies paid for experiments in remote viewing, the claimed ability to describe distant places or hidden targets using the mind alone. Research began in 1972 at the Stanford Research Institute (SRI) in California, where the physicists Russell Targ and Harold Puthoff tested subjects including the artist Ingo Swann and, briefly, Uri Geller. From the late 1970s an army unit at Fort Meade, Maryland, used 'viewers' to try to locate hostages, weapons sites and missing aircraft, under code names such as Gondola Wish, Grill Flame, Center Lane, Sun Streak and finally Star Gate. In 1995 a review commissioned by the CIA from the American Institutes for Research concluded that remote viewing had never provided actionable intelligence, and the programme was ended and declassified.",
+   "alternatives": [
+    {
+     "label": "Statistically real?",
+     "text": "The statistician Jessica Utts, one of the 1995 reviewers, concluded that laboratory results showed statistically significant effects that deserved further research. The psychologist Ray Hyman, the other reviewer, argued that the apparent effects could be explained by methodological flaws and had never been independently replicated."
+    },
+    {
+     "label": "Hits and misses",
+     "text": "Former viewers such as Joseph McMoneagle cite apparent successes; critics point out that vague descriptions can be interpreted to fit after the fact, and that the unit's operational record showed no reliable results."
+    },
+    {
+     "label": "A Cold War mirror",
+     "text": "Historians note that the programme was driven as much by fear of a 'psychic gap' with the Soviet Union as by evidence. The story inspired the book and film The Men Who Stare at Goats."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Stargate Project (U.S. Army unit)",
+     "url": "https://en.wikipedia.org/wiki/Stargate_Project_(U.S._Army_unit)",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Remote viewing",
+     "url": "https://en.wikipedia.org/wiki/Remote_viewing",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Russell Targ",
+     "url": "https://en.wikipedia.org/wiki/Russell_Targ",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Russell_Targ%2C_physicist.jpg/500px-Russell_Targ%2C_physicist.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Russell_Targ,_physicist.jpg",
+     "author": "photo was taken by subject's wife (Patricia Targ)",
+     "license": "Public domain",
+     "title": "Russell_Targ,_physicist.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "anomalies",
+    "science-cosmos"
+   ],
+   "threads": [
+    "altered-states",
+    "tested-by-experiment",
+    "cold-war-secrets",
+    "scientists-and-the-occult",
+    "secrets-kept-for-decades"
+   ]
+  },
+  {
+   "id": "operation-paperclip",
+   "title": "Operation Paperclip: Nazi scientists who built America's rockets",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1945,
+   "end": 1959,
+   "dateNote": "1945-1959",
+   "evidenceTypes": [
+    "government documents",
+    "textual"
+   ],
+   "mainstream": "After the Second World War the United States secretly brought more than 1,600 German scientists, engineers and technicians to work for the US government between 1945 and 1959, in a programme known as Operation Paperclip. Many had worked on Nazi rocket, aviation, and chemical and biological weapons programmes. The best known was Wernher von Braun, who had led development of the V-2 rocket and later directed NASA's Marshall Space Flight Center, where his team built the Saturn V rocket that carried Apollo astronauts to the Moon. President Truman approved the programme in 1946 on condition that no active Nazis would be admitted, but officials rewrote or overlooked the records of many recruits. The Soviet Union ran its own programme: in Operation Osoaviakhim, on 22 October 1946, Soviet units rounded up German specialists and their families and moved them to the USSR.",
+   "alternatives": [
+    {
+     "label": "Science versus justice",
+     "text": "The V-2 was produced at the underground Mittelwerk factory by prisoners of the Mittelbau-Dora concentration camp, thousands of whom died. Arthur Rudolph, who managed V-2 production and later the Saturn V programme, left the US in 1984 after investigators confronted him over his role; critics say the programme let people complicit in war crimes escape justice."
+    },
+    {
+     "label": "A necessary choice?",
+     "text": "Defenders argue that the knowledge gained shaped US missiles and the space programme and kept it out of Soviet hands, and that von Braun and others were scientists caught up in the Nazi system rather than ideologues; historians continue to debate how much von Braun knew of and was responsible for the abuses."
+    },
+    {
+     "label": "Paperclip in conspiracy lore",
+     "text": "Because it was secret and real, Paperclip features in many conspiracy theories, for example about UFOs and secret aircraft; documented history does not support these claims."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Operation Paperclip",
+     "url": "https://en.wikipedia.org/wiki/Operation_Paperclip",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Arthur Rudolph",
+     "url": "https://en.wikipedia.org/wiki/Arthur_Rudolph",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Mittelwerk",
+     "url": "https://en.wikipedia.org/wiki/Mittelwerk",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Wernher von Braun",
+     "url": "https://en.wikipedia.org/wiki/Wernher_von_Braun",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/JFK_Tour_of_KSC_-_GPN-2000-000605.jpg/500px-JFK_Tour_of_KSC_-_GPN-2000-000605.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:JFK_Tour_of_KSC_-_GPN-2000-000605.jpg",
+     "author": "NASA/photographer unknown",
+     "license": "Public domain",
+     "title": "JFK_Tour_of_KSC_-_GPN-2000-000605.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "science-cosmos"
+   ],
+   "threads": [
+    "space-race",
+    "cold-war-secrets",
+    "secrets-kept-for-decades"
+   ]
+  },
+  {
+   "id": "tiara-of-saitaphernes",
+   "title": "The Tiara of Saitaphernes: the Louvre's golden fake (1896)",
+   "lane": "history",
+   "status": "debunked",
+   "priority": 3,
+   "start": 1896,
+   "end": 1903,
+   "dateNote": "Made 1894; bought by the Louvre 1896; exposed 1903",
+   "evidenceTypes": [
+    "physical object",
+    "museum records",
+    "confession"
+   ],
+   "mainstream": "On 1 April 1896 the Louvre announced that it had bought, for 200,000 gold francs, a magnificent gold tiara said to have been given by the Greek city of Olbia on the Black Sea to the Scythian king Saitaphernes around the 3rd century BCE; a Greek inscription honoured 'the great and invincible King Saitaphernes'. Some scholars, including the German archaeologist Adolf Furtwängler, doubted it at once, pointing out stylistic mistakes and the lack of signs of age. In fact two dealers, the Hochmann brothers, had commissioned it in 1894 from Israel Rouchomovsky, a skilled goldsmith in Odesa, telling him it was a gift for an archaeologist friend. When the scandal reached him, Rouchomovsky travelled to Paris in 1903 and, after museum experts refused to believe him, proved his authorship by reproducing part of the tiara.",
+   "alternatives": [
+    {
+     "label": "Victim or accomplice?",
+     "text": "Rouchomovsky said he had not known his work would be sold as ancient, and after the scandal he became famous and received commissions in Paris. The dealers who sold it were never successfully prosecuted."
+    },
+    {
+     "label": "Experts fooled",
+     "text": "The case became a classic warning about how desire for spectacular finds can override scepticism; it led museums to adopt more careful authentication. The tiara is now displayed as a famous fake, and in 1997 the Israel Museum borrowed it for an exhibition on Rouchomovsky."
+    },
+    {
+     "label": "A pattern",
+     "text": "It is often compared with other celebrated forgeries such as the Piltdown Man and the Glozel finds, in which skilled fakes exploited the expectations of experts."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Tiara of Saitaferne",
+     "url": "https://en.wikipedia.org/wiki/Tiara_of_Saitaferne",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Gold_Tiara_of_Saitaferne.jpg/500px-Gold_Tiara_of_Saitaferne.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Gold_Tiara_of_Saitaferne.jpg",
+     "author": "Unknown authorUnknown author",
+     "license": "Public domain",
+     "title": "Gold_Tiara_of_Saitaferne.jpg"
+    }
+   ],
+   "categories": [
+    "hoaxes",
+    "archaeology"
+   ],
+   "threads": [
+    "hoaxes-exposed",
+    "seeing-what-we-expect",
+    "steppe-empires"
+   ]
+  },
+  {
+   "id": "palomares-1966",
+   "title": "Palomares 1966: the lost hydrogen bombs of Spain",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1966,
+   "end": null,
+   "dateNote": "17 January 1966; bomb recovered from the sea 7 April 1966",
+   "evidenceTypes": [
+    "official records",
+    "environmental monitoring",
+    "eyewitness"
+   ],
+   "mainstream": "On 17 January 1966 a US Air Force B-52G bomber on a Cold War airborne alert mission collided with a KC-135 tanker during mid-air refuelling over the Mediterranean coast near the Spanish village of Palomares in Almería. All four tanker crew and three of the bomber's seven crew died. The B-52 was carrying four B28 thermonuclear bombs. Three fell on land: their parachutes failed on two, whose conventional explosives detonated on impact without a nuclear explosion, scattering plutonium over about 2 square kilometres of farmland. The fourth fell into the sea. A local fisherman, Francisco Simó Orts, had seen it descend, and after an 80-day search involving the US Navy and the submersible Alvin it was located by Alvin on 17 March, lost again during lifting, and finally recovered intact on 7 April. To reassure the public and tourism, the Spanish information minister Manuel Fraga and the US ambassador Angier Biddle Duke swam in the sea there on 8 March 1966. About 1,750 tonnes of contaminated soil were shipped to the US.",
+   "alternatives": [
+    {
+     "label": "How safe?",
+     "text": "Spanish and US authorities have monitored residents for decades and report no clear health effects; residual plutonium contamination remained in fenced areas, and in 2015 the two countries signed an agreement to remove more soil, but as of 2025 the clean-up had not been fully completed."
+    },
+    {
+     "label": "The clean-up crews",
+     "text": "About 1,600 US airmen, many with little protection, cleaned up the site. A 2016 New York Times investigation found high rates of cancer among veterans it could trace; the Air Force had long maintained that exposures were safe, and whether the illnesses were caused by plutonium is hard to prove. In 2022 the US PACT Act gave Palomares veterans a presumption of radiation exposure for benefits."
+    },
+    {
+     "label": "Broken Arrows",
+     "text": "Palomares is one of the best documented 'Broken Arrow' nuclear weapons accidents; others, such as Goldsboro in 1961 and Thule in Greenland in 1968, revealed how close accidents came to disaster, and how much was kept secret."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: 1966 Palomares accident",
+     "url": "https://en.wikipedia.org/wiki/1966_Palomares_accident",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Manuel Fraga",
+     "url": "https://en.wikipedia.org/wiki/Manuel_Fraga",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "New York Times (2016): Decades Later, Sickness Among Airmen After a Hydrogen Bomb Accident",
+     "url": "https://www.nytimes.com/2016/06/20/us/decades-later-sickness-among-airmen-after-a-hydrogen-bomb-accident.html",
+     "type": "news"
+    },
+    {
+     "title": "Yale Law School (2022): 56 Years Later, Palomares Veterans Win VA Recognition of Radiation Exposure",
+     "url": "https://law.yale.edu/yls-today/news/56-years-later-palomares-veterans-win-va-recognition-radiation-exposure",
+     "type": "news"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Palomares_H-Bomb_Incident.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Palomares_H-Bomb_Incident.jpg",
+     "author": "U.S. Navy, Courtesy of the Natural Resources Defense Council",
+     "license": "Public domain",
+     "title": "Palomares_H-Bomb_Incident.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "catastrophes"
+   ],
+   "threads": [
+    "cold-war-secrets",
+    "nuclear-age",
+    "secrets-kept-for-decades",
+    "near-misses"
    ]
   }
  ]
