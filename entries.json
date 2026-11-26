@@ -9886,7 +9886,8 @@
    "threads": [
     "changed-understanding",
     "sky-omens",
-    "returning-saviours"
+    "returning-saviours",
+    "conquest-of-mexico"
    ]
   },
   {
@@ -58871,7 +58872,8 @@
     "rain-and-drought",
     "plagues-and-epidemics",
     "central-america",
-    "disasters-and-scapegoats"
+    "disasters-and-scapegoats",
+    "conquest-of-mexico"
    ]
   },
   {
@@ -87434,6 +87436,676 @@
     "rumour-and-disinformation",
     "internet-folklore",
     "phantom-aircraft-scares"
+   ]
+  },
+  {
+   "id": "coyolxauhqui-stone-1978",
+   "title": "The Coyolxauhqui Stone: electricians find a dismembered goddess and the Great Temple (1978)",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1978,
+   "end": null,
+   "dateNote": "Stone carved c. 1470s; found 21 February 1978",
+   "evidenceTypes": [
+    "archaeological",
+    "textual"
+   ],
+   "mainstream": "On 21 February 1978 workers from Mexico City's electricity company, digging beside the Metropolitan Cathedral, struck a huge round stone covered in reliefs. It showed Coyolxauhqui, a goddess of Mexica (Aztec) myth, naked, beheaded and with her limbs cut off. In the myth, Coyolxauhqui led her 400 brothers to kill their mother Coatlicue on the hill of Coatepec, but the war god Huitzilopochtli was born fully armed, killed her and threw her body down the hill, where it broke apart. The find led the archaeologist Eduardo Matos Moctezuma to direct large-scale excavations that uncovered the Templo Mayor (Huey Teocalli), the twin temple of Huitzilopochtli and the rain god Tlaloc that the Spanish had demolished in 1521. The stone lay at the foot of Huitzilopochtli's stairway, where the bodies of sacrificed captives are recorded as having been thrown down.",
+   "alternatives": [
+    {
+     "label": "Myth turned into architecture",
+     "text": "Matos Moctezuma argued that Huitzilopochtli's half of the temple was built as a model of the mountain of Coatepec, so that each sacrifice re-enacted the god's victory over his sister; most scholars accept the link between the stone's position and the myth, though how literally rituals re-enacted it is debated."
+    },
+    {
+     "label": "Was she the Moon?",
+     "text": "Popular accounts often say Huitzilopochtli threw her head into the sky to become the Moon, making the myth a battle of sun against moon and stars. Some scholars note that the lunar identification is not clearly stated in the earliest Nahuatl sources and may be a later or modern interpretation."
+    },
+    {
+     "label": "A city still buried",
+     "text": "The find was an accident during routine utility work. Later chance discoveries nearby, such as the giant Tlaltecuhtli monolith (2006) and the Huey Tzompantli skull rack (2015), show how much of Tenochtitlan still lies beneath modern Mexico City."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Coyolxāuhqui",
+     "url": "https://en.wikipedia.org/wiki/Coyolx%C4%81uhqui",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Templo Mayor",
+     "url": "https://en.wikipedia.org/wiki/Templo_Mayor",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Eduardo Matos Moctezuma",
+     "url": "https://en.wikipedia.org/wiki/Eduardo_Matos_Moctezuma",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Mexico-3980_-_Coyolxauhqui_Stone_%282508259597%29.jpg/500px-Mexico-3980_-_Coyolxauhqui_Stone_%282508259597%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Mexico-3980_-_Coyolxauhqui_Stone_(2508259597).jpg",
+     "author": "Dennis G. Jarvis",
+     "license": "CC BY-SA 2.0",
+     "title": "Mexico-3980 - Coyolxauhqui Stone (2508259597).jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "myth-legend",
+    "history"
+   ],
+   "threads": [
+    "giant-monuments",
+    "human-sacrifice",
+    "accidental-discoveries",
+    "central-america",
+    "moon-myths"
+   ]
+  },
+  {
+   "id": "aztec-sun-stone",
+   "title": "The Aztec Sun Stone: calendar, altar or cosmic map?",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1502,
+   "end": 1521,
+   "dateNote": "Carved c. 1502-1521; buried after 1521; rediscovered 17 December 1790",
+   "evidenceTypes": [
+    "archaeological",
+    "iconographic"
+   ],
+   "mainstream": "The Sun Stone (Piedra del Sol), often called the 'Aztec Calendar', is a basalt disc about 3.6 m across and weighing about 24 tonnes, carved by the Mexica, probably between 1502 and 1521. After the Spanish conquest it was buried in Mexico City's main square; according to the chronicler Diego Durán, Archbishop Alonso de Montúfar ordered this so that the memory of the sacrifices performed there would be lost. It was rediscovered on 17 December 1790 during repaving work. The scholar Antonio de León y Gama persuaded the cathedral not to rebury it and published one of the first studies of Mexican archaeology about it in 1792; it was set into the cathedral's west tower until 1885 and is now the centrepiece of the National Museum of Anthropology. Around a central face are the glyphs for the four previous world ages (the 'Suns') and the 20 day-signs of the calendar.",
+   "alternatives": [
+    {
+     "label": "Who is in the centre?",
+     "text": "The face is usually identified as the sun god Tonatiuh, holding human hearts in clawed hands with a sacrificial knife for a tongue. Art historian Richard Townsend and others argued it is the earth deity Tlaltecuhtli, and some suggest a night-sun god; the identification remains debated."
+    },
+    {
+     "label": "Not a working calendar",
+     "text": "Although it shows calendar signs, scholars agree it was not used to tell dates. Many now think it served as a ritual altar or a platform for sacrifice (it has a similar form to temalacatl gladiatorial stones), using calendar imagery to show the cycles of cosmic time that sacrifice was believed to sustain."
+    },
+    {
+     "label": "Prophecy and lost knowledge",
+     "text": "Popular and alternative writers have read the stone as a record of past world catastrophes or as encoding precise astronomical knowledge and predictions of the end of the present age. Archaeologists accept that it depicts the Mexica myth of world ages, but see no evidence that it records actual past catastrophes or hidden astronomical data."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Aztec sun stone",
+     "url": "https://en.wikipedia.org/wiki/Aztec_sun_stone",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Antonio de León y Gama",
+     "url": "https://en.wikipedia.org/wiki/Antonio_de_Le%C3%B3n_y_Gama",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Monolito_de_la_Piedra_del_Sol.jpg/500px-Monolito_de_la_Piedra_del_Sol.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Monolito_de_la_Piedra_del_Sol.jpg",
+     "author": "El Comandante",
+     "license": "CC BY-SA 3.0",
+     "title": "Monolito_de_la_Piedra_del_Sol.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history",
+    "myth-legend"
+   ],
+   "threads": [
+    "changed-understanding",
+    "giant-monuments",
+    "world-ages-and-resets",
+    "human-sacrifice",
+    "suppressed-beliefs",
+    "sun-cults",
+    "central-america",
+    "conquest-of-mexico"
+   ]
+  },
+  {
+   "id": "moctezuma-headdress",
+   "title": "Moctezuma's headdress: the feathered treasure in Vienna",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 1515,
+   "end": 2012,
+   "dateNote": "Made c. 1515; recorded at Ambras 1596; restored 2010-2012",
+   "evidenceTypes": [
+    "physical object",
+    "museum records"
+   ],
+   "mainstream": "A spectacular featherwork piece of green quetzal, turquoise cotinga and other feathers with small gold ornaments is held by the Weltmuseum in Vienna. It has been in Austrian collections since the late 16th century, when it belonged to Archduke Ferdinand II of Tyrol at Ambras Castle and was rediscovered there in the late 19th century by Ferdinand von Hochstetter for Vienna's new museum. It is one of only a handful of surviving pre-Hispanic featherworks. A tradition, popular since the 19th century, holds that it belonged to the emperor Moctezuma II and was among gifts sent by Hernán Cortés to Charles V. A joint Austrian-Mexican team studied and restored it from 2010 to 2012. Mexico has repeatedly asked for its return or loan, most recently in 2020; Austria has declined, citing a conservation study that concluded vibration during transport could damage it.",
+   "alternatives": [
+    {
+     "label": "Moctezuma's own?",
+     "text": "No document directly links the object to Moctezuma, and early inventories do not call it a headdress; some researchers have suggested it may have been a cape, a priest's regalia or a military standard. Supporters of the Moctezuma tradition point to its exceptional quality and the recorded gifts from Cortés to Europe."
+    },
+    {
+     "label": "Too fragile to travel, or too valuable to return?",
+     "text": "Austrian experts say the feathers and fragile structure make transport too risky; critics in Mexico see the argument as convenient and propose solutions such as special vibration-proof cases. A replica made in 1940 stands in Mexico City's National Museum of Anthropology."
+    },
+    {
+     "label": "A symbol",
+     "text": "In the 20th century the piece became an emblem of Mexico's indigenous heritage and of wider debates about returning objects taken in colonial times."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Moctezuma's headdress",
+     "url": "https://en.wikipedia.org/wiki/Moctezuma's_headdress",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Weltmuseum Wien",
+     "url": "https://en.wikipedia.org/wiki/Weltmuseum_Wien",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Moctezuma%27s_feather_headdress%2C_ca._1515%2C_Mexico%3B_Weltmuseum%2C_Vienna_%283%29.jpg/500px-Moctezuma%27s_feather_headdress%2C_ca._1515%2C_Mexico%3B_Weltmuseum%2C_Vienna_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Moctezuma%27s_feather_headdress,_ca._1515,_Mexico;_Weltmuseum,_Vienna_(3).jpg",
+     "author": "Richard Mortel",
+     "license": "CC BY 2.0",
+     "title": "Moctezuma's_feather_headdress,_ca._1515,_Mexico;_Weltmuseum,_Vienna_(3).jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology"
+   ],
+   "threads": [
+    "sacred-kingship",
+    "lost-treasures",
+    "central-america",
+    "repatriation-debates",
+    "conquest-of-mexico"
+   ]
+  },
+  {
+   "id": "la-malinche",
+   "title": "La Malinche (Malintzin): interpreter, traitor or survivor?",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 1519,
+   "end": 1529,
+   "dateNote": "c. 1500 - c. 1529; with Cortés 1519-1521",
+   "evidenceTypes": [
+    "textual",
+    "codices"
+   ],
+   "mainstream": "Malintzin, baptised Marina and known as La Malinche (c. 1500 - c. 1529), was a Nahua woman who had been sold or given into slavery in the Maya lands of Tabasco. In 1519 she was one of twenty enslaved women given to Hernán Cortés's expedition. Because she spoke both Nahuatl and Yucatec Maya, she and the shipwrecked Spaniard Gerónimo de Aguilar formed a translation chain (Spanish-Maya-Nahuatl), until she learned Spanish herself. She became Cortés's chief interpreter, adviser and intermediary during the conquest of the Aztec Empire (1519-21); Indigenous pictorial records such as the Lienzo de Tlaxcala show her standing at Cortés's side, and the Nahua reportedly called Cortés himself 'Malinche'. She bore Cortés a son, Martín, one of the first mestizos of New Spain, and later married a Spanish hidalgo.",
+   "alternatives": [
+    {
+     "label": "Traitor",
+     "text": "After Mexican independence (1821) writers increasingly cast her as a traitor to her people; the word malinchista still means someone who prefers the foreign to the native, and Octavio Paz (1950) made her a symbol of a violated mother of the nation."
+    },
+    {
+     "label": "Survivor and victim",
+     "text": "Many historians and Chicana feminists stress that she was an enslaved teenager with no people of her own to betray, and that the Nahua-speaking peoples were themselves divided, with Tlaxcala and other cities allied with Cortés against the Mexica."
+    },
+    {
+     "label": "Agent",
+     "text": "Others emphasise her skill and influence, arguing that she shaped events such as the alliance with Tlaxcala and the massacre at Cholula; Bernal Díaz claimed she uncovered a Cholulan plot, a story some historians regard as a Spanish justification for the killings."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: La Malinche",
+     "url": "https://en.wikipedia.org/wiki/La_Malinche",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Lienzo de Tlaxcala",
+     "url": "https://en.wikipedia.org/wiki/Lienzo_de_Tlaxcala",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/MOM_D093_Donna_Marina_%28La_Malinche%29.jpg/500px-MOM_D093_Donna_Marina_%28La_Malinche%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:MOM_D093_Donna_Marina_(La_Malinche).jpg",
+     "author": "Unknown authorUnknown author",
+     "license": "Public domain",
+     "title": "MOM_D093_Donna_Marina_(La_Malinche).jpg"
+    }
+   ],
+   "categories": [
+    "history"
+   ],
+   "threads": [
+    "visionary-women",
+    "central-america",
+    "myths-about-history",
+    "conquest-of-mexico"
+   ]
+  },
+  {
+   "id": "noche-triste-1520",
+   "title": "La Noche Triste (1520) and the lost gold of Tenochtitlan",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1520,
+   "end": null,
+   "dateNote": "30 June - 1 July 1520; gold bar found 1981, analysed 2019-20",
+   "evidenceTypes": [
+    "textual",
+    "archaeological",
+    "X-ray fluorescence"
+   ],
+   "mainstream": "In 1520, after Pedro de Alvarado massacred Mexica nobles during a festival at the Templo Mayor and the emperor Moctezuma II died in Spanish captivity, the Spanish and their Tlaxcalan allies were besieged in Tenochtitlan. On the night of 30 June - 1 July 1520 Cortés tried to escape across the western causeway. They were discovered, and in the fighting on the causeways and canals hundreds of Spaniards and probably thousands of allies were killed; many soldiers drowned, weighed down by gold they had taken from the city's treasure. The Spanish called it La Noche Triste, 'the Night of Sorrows'; in Mexico it is now officially also called the 'Victorious Night'. On 13 March 1981 a construction worker found a gold bar of 1.93 kg at a depth of 4.8 m near the Alameda Central, along the line of the escape route. X-ray fluorescence analysis published by INAH in 2020 showed its alloy matches late Mexica gold, indicating it was cast in 1519-20 from melted Aztec goldwork.",
+   "alternatives": [
+    {
+     "label": "How did Moctezuma die?",
+     "text": "Spanish accounts say Moctezuma was killed by stones thrown by his own people as he urged them to stop fighting; several Indigenous accounts say the Spanish killed him. Historians have no way to settle the question."
+    },
+    {
+     "label": "The rest of the treasure",
+     "text": "Legends of Moctezuma's lost treasure, said to lie at the bottom of the lake or to have been hidden by the Mexica, have lasted for centuries. In 1521 the Spanish tortured the last emperor, Cuauhtémoc, by burning his feet to make him reveal gold that he said had been thrown into the lake; the gold bar of 1981 is the only find so far clearly tied to the retreat."
+    },
+    {
+     "label": "Where Cortés wept",
+     "text": "An old ahuehuete (cypress) tree in Popotla is traditionally said to be where Cortés sat and wept after the retreat; the tradition cannot be verified, and the tree has since been badly damaged by fire."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: La Noche Triste",
+     "url": "https://en.wikipedia.org/wiki/La_Noche_Triste",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Smithsonian Magazine: Spanish Conquistadors Stole This Gold Bar From Aztec Emperor Moctezuma's Trove (2020)",
+     "url": "https://www.smithsonianmag.com/smart-news/gold-bar-once-belonged-aztec-emperor-moctezuma-180973959/",
+     "type": "article"
+    },
+    {
+     "title": "Live Science: Massive Gold Bar Unearthed in Mexico Was Looted Aztec Treasure (2020)",
+     "url": "https://www.livescience.com/gold-bar-looted-aztec-treasure.html",
+     "type": "article"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/The_Sad_Night_%28Noche_Triste%29_%28Conquest_of_Mexico%29_Painting.jpg/500px-The_Sad_Night_%28Noche_Triste%29_%28Conquest_of_Mexico%29_Painting.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:The_Sad_Night_(Noche_Triste)_(Conquest_of_Mexico)_Painting.jpg",
+     "author": "Unknown authorUnknown author",
+     "license": "Public domain",
+     "title": "The_Sad_Night_(Noche_Triste)_(Conquest_of_Mexico)_Painting.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology"
+   ],
+   "threads": [
+    "stories-proven-true",
+    "lost-treasures",
+    "accidental-discoveries",
+    "central-america",
+    "conquest-of-mexico"
+   ]
+  },
+  {
+   "id": "dresden-codex",
+   "title": "The Dresden Codex: a Maya book of Venus, eclipses and a world-ending flood?",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1150,
+   "end": 1945,
+   "dateNote": "Painted c. 11th-14th century; bought 1739; damaged 1945",
+   "evidenceTypes": [
+    "textual",
+    "astronomical"
+   ],
+   "mainstream": "The Dresden Codex is one of only four Maya books known to survive; most others were destroyed by Spanish missionaries, notably at the auto-da-fé organised by Bishop Diego de Landa at Maní in Yucatán in 1562. Painted on folded bark paper about 3.6 m long, it probably comes from the Chichén Itzá region and is usually dated to the 11th-14th century, copied from older texts. The Dresden royal librarian Johann Christian Götze bought it in Vienna in 1739. In the 1880s the librarian Ernst Förstemann worked out its number system and Long Count dates and showed that it contains highly accurate astronomical tables: a Venus table tracking the planet's 584-day cycle and a lunar table that predicts possible eclipse seasons. It was badly water-damaged when kept in a flooded basement during the bombing of Dresden in February 1945.",
+   "alternatives": [
+    {
+     "label": "A flood at the end of the world?",
+     "text": "The last page shows a sky serpent and an aged goddess pouring water. Förstemann interpreted it as the destruction of the world in a great flood, an idea later used in 2012 end-of-the-world claims. Many Mayanists now read it as a scene of rain and renewal tied to the calendar rather than a prophecy."
+    },
+    {
+     "label": "Astronomers or astrologers?",
+     "text": "The tables are precise enough that modern scholars still debate how the Maya corrected them over centuries. Their purpose was largely divinatory: Venus's appearances were thought to bring danger and to be good times for war."
+    },
+    {
+     "label": "How much was lost",
+     "text": "Landa wrote that the books contained \"superstition and lies of the devil\" and that their owners grieved greatly when they were burned; historians estimate that hundreds or thousands of books once existed. A fourth surviving book, the Maya Codex of Mexico (formerly the Grolier Codex), was long suspected of being a fake until it was authenticated in 2016."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Dresden Codex",
+     "url": "https://en.wikipedia.org/wiki/Dresden_Codex",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Maya codices",
+     "url": "https://en.wikipedia.org/wiki/Maya_codices",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: 2012 phenomenon",
+     "url": "https://en.wikipedia.org/wiki/2012_phenomenon",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Dresden_Codex_pp.58-62_78.jpg/500px-Dresden_Codex_pp.58-62_78.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Dresden_Codex_pp.58-62_78.jpg",
+     "author": "Unknown authorUnknown author",
+     "license": "Public domain",
+     "title": "Dresden_Codex_pp.58-62_78.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "science-cosmos",
+    "archaeology"
+   ],
+   "threads": [
+    "flood-myths",
+    "changed-understanding",
+    "world-ages-and-resets",
+    "ancient-astronomy",
+    "suppressed-beliefs",
+    "lost-libraries",
+    "decipherments",
+    "central-america",
+    "eclipses-in-history",
+    "doomsday-dates"
+   ]
+  },
+  {
+   "id": "calakmul-snake-kingdom",
+   "title": "Calakmul and the Snake Kingdom: the Maya superpower that fought Tikal",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 636,
+   "end": 695,
+   "dateNote": "Kaan dynasty at Calakmul c. 630-8th century; defeat 695",
+   "evidenceTypes": [
+    "archaeological",
+    "epigraphic",
+    "lidar"
+   ],
+   "mainstream": "Calakmul, deep in the forests of Campeche, Mexico, was reported in 1931 by the botanist Cyrus Lundell. Decipherment of Maya glyphs since the 1970s-90s revealed that it was the 7th-century seat of the Kaan ('Snake') dynasty, whose emblem glyph appears in more texts than any other. The Snake kings built a network of allies and vassals across the lowlands, including Caracol, Naranjo and Dos Pilas, to encircle their great rival Tikal. Under Yuknoom Ch'een II (ruled 636-686), Calakmul defeated Tikal in 657 and again in 677-679. But in August 695 Tikal's king Jasaw Chan K'awiil defeated Calakmul's Yuknoom Yich'aak K'ak' and captured the image of a Calakmul patron god, and Calakmul's power declined. The city had a great pyramid (Structure 2) over 45 m high, thousands of buildings and perhaps 50,000 people.",
+   "alternatives": [
+    {
+     "label": "Superpowers or looser alliances?",
+     "text": "Epigraphers Simon Martin and Nikolai Grube described Classic Maya politics as a struggle between two 'superstates', Tikal and Calakmul. Others see a more fluid web of rival kingdoms, with 'overlordship' sometimes ceremonial rather than real control."
+    },
+    {
+     "label": "A wandering dynasty",
+     "text": "Glyphs show Calakmul used a bat emblem before the 7th century, and the snake emblem is found earlier at Dzibanché in Quintana Roo; many epigraphers think the Kaan dynasty moved its capital to Calakmul around 630, while others argue for different sequences."
+    },
+    {
+     "label": "Star wars",
+     "text": "Some battles are recorded with a 'star war' glyph. A popular theory says the Maya timed wars by the planet Venus; studies of the dates show only partial correlation, and the link remains debated."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Calakmul",
+     "url": "https://en.wikipedia.org/wiki/Calakmul",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Yuknoom Chʼeen II",
+     "url": "https://en.wikipedia.org/wiki/Yuknoom_Ch%CA%BCeen_II",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Pir%C3%A1mides_de_Calakmul.JPG/500px-Pir%C3%A1mides_de_Calakmul.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Pir%C3%A1mides_de_Calakmul.JPG",
+     "author": "PashiX",
+     "license": "CC BY-SA 4.0",
+     "title": "Pirámides_de_Calakmul.JPG"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history"
+   ],
+   "threads": [
+    "changed-understanding",
+    "civilisation-collapses",
+    "sacred-kingship",
+    "rediscovered-civilisations",
+    "decipherments",
+    "central-america"
+   ]
+  },
+  {
+   "id": "yaxchilan-lady-xoc",
+   "title": "Lady Xoc's vision serpent: blood, power and a Maya queen at Yaxchilan",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 723,
+   "end": 742,
+   "dateNote": "Lintels carved c. 723-726; Lady Xoc died 742",
+   "evidenceTypes": [
+    "archaeological",
+    "epigraphic",
+    "iconographic"
+   ],
+   "mainstream": "At Yaxchilan, on the Usumacinta River in Chiapas, Mexico, three carved stone door lintels in Structure 23 (c. 723-726) show Lady K'abal Xook (Lady Xoc, died 742), the principal wife of King Itzamnaaj Bahlam III (Shield Jaguar, ruled 681-742). On Lintel 24 the king holds a torch while she pulls a rope studded with obsidian blades through her tongue, dripping blood onto paper in a basket. On Lintel 25 smoke from the burned paper rises as a giant 'vision serpent', from whose jaws emerges an armed warrior, often read as an ancestor or the dynasty's founder. Women seldom appear as the central figures of Maya monuments, which makes the lintels a key source on royal women's role in ritual and politics. The British explorer Alfred Maudslay had Lintels 24 and 25 cut out and shipped to Britain in 1882; they are in the British Museum.",
+   "alternatives": [
+    {
+     "label": "Visions from blood loss?",
+     "text": "Some researchers suggest that severe blood loss, fasting and possibly other substances produced real hallucinations, so that the serpent records an altered-state experience; others read the serpent as a symbolic portal for summoning ancestors, without implying a literal vision."
+    },
+    {
+     "label": "Politics in stone",
+     "text": "The king's eventual heir, Bird Jaguar IV, was the son of another wife and only took the throne years after Shield Jaguar's death. Scholars debate whether Structure 23 was built to honour Lady Xoc's powerful lineage, and whether her prominence reflects a rivalry over the succession."
+    },
+    {
+     "label": "Whose heritage?",
+     "text": "Mexico has called for the return of objects removed in the 19th century; the lintels remain in London, part of wider repatriation debates."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Lady Xoc",
+     "url": "https://en.wikipedia.org/wiki/Lady_Xoc",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Yaxchilan Lintel 24",
+     "url": "https://en.wikipedia.org/wiki/Yaxchilan_Lintel_24",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Yaxchilan",
+     "url": "https://en.wikipedia.org/wiki/Yaxchilan",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Yaxchilan_Lintel_24.jpg/500px-Yaxchilan_Lintel_24.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Yaxchilan_Lintel_24.jpg",
+     "author": "Unknown",
+     "license": "CC BY-SA 3.0",
+     "title": "Yaxchilan Lintel 24.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history",
+    "religion"
+   ],
+   "threads": [
+    "serpent-beings",
+    "sacred-kingship",
+    "altered-states",
+    "visionary-women",
+    "central-america",
+    "repatriation-debates"
+   ]
+  },
+  {
+   "id": "tlaloc-rain-god",
+   "title": "Tlaloc, the rain god who brought a storm to Mexico City (1964)",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": 1400,
+   "end": 1964,
+   "dateNote": "Worshipped c. 1st millennium CE-1521; monolith moved 16 April 1964",
+   "evidenceTypes": [
+    "archaeological",
+    "textual",
+    "news reports"
+   ],
+   "mainstream": "Tlaloc was the Aztec god of rain, lightning and fertility, and one of the oldest gods of central Mexico: goggle-eyed, fanged rain gods appear at Teotihuacan centuries earlier. He shared the summit of Tenochtitlan's Templo Mayor with Huitzilopochtli, and his most important shrine stood on Mount Tlaloc (about 4,100 m) on the eastern rim of the Valley of Mexico. Those who died by drowning, lightning or water-related illness were believed to go to Tlalocan, a green paradise of endless spring. Sacrifices, including of children whose tears were thought to bring rain, were offered to him and his helpers, the tlaloque. A colossal unfinished stone figure of about 165 tonnes lay in a stream bed near the village of Coatlinchan. When the Mexican government moved it to the new National Museum of Anthropology on 16 April 1964, despite local protests in which villagers sabotaged the transport, it arrived in Mexico City at night in an unusually heavy storm in the dry season.",
+   "alternatives": [
+    {
+     "label": "The god's revenge?",
+     "text": "Newspapers at the time and many visitors since have half-jokingly attributed the 1964 downpour to the god; residents of Coatlinchan have said the rains have not been the same since the statue left. Meteorologically the storm was a coincidence, though an unusual one for April."
+    },
+    {
+     "label": "Tlaloc or Chalchiuhtlicue?",
+     "text": "Some scholars and the 19th-century painter José María Velasco identified the colossus as Tlaloc's female partner, the water goddess Chalchiuhtlicue, and its identity is still discussed."
+    },
+    {
+     "label": "Child sacrifice",
+     "text": "Spanish friars described children being sacrificed to Tlaloc. Excavations of an offering at the Templo Mayor containing the remains of dozens of children support those accounts, while scholars debate how frequent and widespread such rites were."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Tláloc",
+     "url": "https://en.wikipedia.org/wiki/Tl%C3%A1loc",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Coatlinchan",
+     "url": "https://en.wikipedia.org/wiki/Coatlinchan",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "La Jornada (2014): A Coatlinchán sólo le quedó el orgullo de ser sitio original de Tláloc",
+     "url": "https://www.jornada.com.mx/2014/04/21/cultura/a07n1cul",
+     "type": "news"
+    },
+    {
+     "title": "Mexicolore: Tlaloc's Great Journey",
+     "url": "https://mexicolore.co.uk/aztecs/stories/tlalocs-great-journey",
+     "type": "article"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Monolito_de_Tl%C3%A1loc%2C_Museo_Nacional_de_Antropolog%C3%ADa.jpg/500px-Monolito_de_Tl%C3%A1loc%2C_Museo_Nacional_de_Antropolog%C3%ADa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Monolito_de_Tl%C3%A1loc,_Museo_Nacional_de_Antropolog%C3%ADa.jpg",
+     "author": "Jaontiveros",
+     "license": "CC BY-SA 4.0",
+     "title": "Monolito de Tláloc, Museo Nacional de Antropología.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion",
+    "archaeology"
+   ],
+   "threads": [
+    "rain-and-drought",
+    "human-sacrifice",
+    "modern-legends",
+    "central-america",
+    "strange-coincidences",
+    "thunder-gods"
+   ]
+  },
+  {
+   "id": "xochicalco",
+   "title": "Xochicalco: the hilltop city of the feathered serpent and the zenith-sun cave",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 3,
+   "start": 700,
+   "end": 900,
+   "dateNote": "c. 650-900 CE",
+   "evidenceTypes": [
+    "archaeological",
+    "astronomical"
+   ],
+   "mainstream": "Xochicalco ('in the place of the house of flowers') in Morelos, Mexico, was a fortified hilltop city that flourished in the Epiclassic period (about 650-900 CE), after the fall of Teotihuacan, and may have had up to 20,000 inhabitants. Its art blends styles from Teotihuacan, the Maya region and central Mexico. Its most famous building, the Temple of the Feathered Serpent, is carved with undulating plumed serpents, seated lords in Maya-like poses and glyphs of towns, possibly tributaries. A cave modified with a vertical shaft served as an observatory: on about 14-15 May and 28-29 July, when the sun passes through the zenith at noon, its light shines straight down onto the cave floor. Around 900 CE the city was burned and abandoned suddenly. It is a UNESCO World Heritage Site.",
+   "alternatives": [
+    {
+     "label": "A congress of astronomers?",
+     "text": "Some researchers interpret the temple's reliefs and calendar glyphs as commemorating a meeting of priests from different regions to correct or harmonise their calendars; others see them as records of tribute, conquest or dynastic ritual."
+    },
+    {
+     "label": "Birthplace of the Quetzalcoatl cult?",
+     "text": "Because the feathered serpent dominates its art, some historians see Xochicalco as an important link between the Teotihuacan feathered-serpent imagery and the later Toltec and Aztec Quetzalcoatl; how direct the connection was is uncertain."
+    },
+    {
+     "label": "Who destroyed it?",
+     "text": "The burning of the city may reflect internal revolt or attack by rivals; there is no consensus."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Xochicalco",
+     "url": "https://en.wikipedia.org/wiki/Xochicalco",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "UNESCO: Archaeological Monuments Zone of Xochicalco",
+     "url": "https://whc.unesco.org/en/list/939/",
+     "type": "heritage listing"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Mexico_xochicalco_pyramids.JPG/500px-Mexico_xochicalco_pyramids.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Mexico_xochicalco_pyramids.JPG",
+     "author": "Maxtreiber",
+     "license": "Public domain",
+     "title": "Mexico_xochicalco_pyramids.JPG"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "history",
+    "science-cosmos"
+   ],
+   "threads": [
+    "serpent-beings",
+    "ancient-astronomy",
+    "civilisation-collapses",
+    "rediscovered-civilisations",
+    "sun-cults",
+    "central-america"
    ]
   }
  ]
