@@ -1361,7 +1361,8 @@
     "history"
    ],
    "threads": [
-    "flood-myths"
+    "flood-myths",
+    "chinese-worlds"
    ]
   },
   {
@@ -1935,7 +1936,8 @@
    ],
    "threads": [
     "creation-myths",
-    "born-from-eggs"
+    "born-from-eggs",
+    "chinese-worlds"
    ]
   },
   {
@@ -4856,7 +4858,8 @@
     "lost-civilisations"
    ],
    "threads": [
-    "lost-civilisations"
+    "lost-civilisations",
+    "chinese-worlds"
    ]
   },
   {
@@ -4909,7 +4912,9 @@
     "history",
     "archaeology"
    ],
-   "threads": []
+   "threads": [
+    "chinese-worlds"
+   ]
   },
   {
    "id": "harappan-script",
@@ -6468,7 +6473,8 @@
    "threads": [
     "giant-monuments",
     "stories-proven-true",
-    "hidden-tombs"
+    "hidden-tombs",
+    "chinese-worlds"
    ]
   },
   {
@@ -6576,7 +6582,8 @@
    "threads": [
     "ocean-voyagers",
     "trade-networks",
-    "travellers-tales"
+    "travellers-tales",
+    "chinese-worlds"
    ]
   },
   {
@@ -7706,7 +7713,8 @@
    ],
    "threads": [
     "flood-myths",
-    "creation-myths"
+    "creation-myths",
+    "chinese-worlds"
    ]
   },
   {
@@ -9135,7 +9143,8 @@
     "changed-understanding",
     "dragons-and-fossils",
     "stories-proven-true",
-    "origins-of-writing"
+    "origins-of-writing",
+    "chinese-worlds"
    ]
   },
   {
@@ -9316,7 +9325,8 @@
    ],
    "threads": [
     "ocean-voyagers",
-    "elixirs-of-immortality"
+    "elixirs-of-immortality",
+    "chinese-worlds"
    ]
   },
   {
@@ -11450,7 +11460,8 @@
    "threads": [
     "sky-omens",
     "world-ages-and-resets",
-    "moon-myths"
+    "moon-myths",
+    "chinese-worlds"
    ]
   },
   {
@@ -11633,7 +11644,8 @@
    ],
    "threads": [
     "hidden-tombs",
-    "mummies"
+    "mummies",
+    "chinese-worlds"
    ]
   },
   {
@@ -21476,7 +21488,8 @@
     "suppressed-beliefs",
     "native-north-america",
     "resistance-to-empire",
-    "eclipses-in-history"
+    "eclipses-in-history",
+    "bulletproof-magic"
    ]
   },
   {
@@ -31642,7 +31655,8 @@
     "hidden-tombs",
     "warrior-women",
     "human-sacrifice",
-    "visionary-women"
+    "visionary-women",
+    "chinese-worlds"
    ]
   },
   {
@@ -31701,7 +31715,8 @@
    "threads": [
     "ancient-technology",
     "lost-evidence",
-    "earthquake-lore"
+    "earthquake-lore",
+    "chinese-worlds"
    ]
   },
   {
@@ -31766,7 +31781,8 @@
    "threads": [
     "altered-states",
     "millenarian-movements",
-    "holy-wars"
+    "holy-wars",
+    "chinese-worlds"
    ]
   },
   {
@@ -31828,7 +31844,8 @@
     "sacred-kingship",
     "civilising-teachers",
     "elixirs-of-immortality",
-    "kings-who-became-gods"
+    "kings-who-became-gods",
+    "chinese-worlds"
    ]
   },
   {
@@ -31893,7 +31910,8 @@
    "threads": [
     "stories-proven-true",
     "silk-road",
-    "travellers-tales"
+    "travellers-tales",
+    "chinese-worlds"
    ]
   },
   {
@@ -31961,7 +31979,8 @@
     "hidden-scriptures",
     "rediscovered-civilisations",
     "lost-libraries",
-    "silk-road"
+    "silk-road",
+    "chinese-worlds"
    ]
   },
   {
@@ -32019,7 +32038,8 @@
    ],
    "threads": [
     "dragons-and-fossils",
-    "serpent-beings"
+    "serpent-beings",
+    "chinese-worlds"
    ]
   },
   {
@@ -32092,7 +32112,8 @@
     "giant-monuments",
     "seeing-what-we-expect",
     "modern-legends",
-    "walls-against-chaos"
+    "walls-against-chaos",
+    "chinese-worlds"
    ]
   },
   {
@@ -54716,7 +54737,8 @@
     "pareidolia",
     "elixirs-of-immortality",
     "space-race",
-    "moon-myths"
+    "moon-myths",
+    "chinese-worlds"
    ]
   },
   {
@@ -54776,7 +54798,8 @@
     "ocean-voyagers",
     "phantom-islands",
     "elixirs-of-immortality",
-    "earthly-paradises"
+    "earthly-paradises",
+    "chinese-worlds"
    ]
   },
   {
@@ -57051,7 +57074,8 @@
    "threads": [
     "silk-road",
     "myths-about-history",
-    "travellers-tales"
+    "travellers-tales",
+    "chinese-worlds"
    ]
   },
   {
@@ -64158,7 +64182,8 @@
    ],
    "threads": [
     "ancient-astronomy",
-    "star-lore"
+    "star-lore",
+    "chinese-worlds"
    ]
   },
   {
@@ -67682,7 +67707,8 @@
    "threads": [
     "knowledge-and-power",
     "civilising-teachers",
-    "kings-who-became-gods"
+    "kings-who-became-gods",
+    "chinese-worlds"
    ]
   },
   {
@@ -67747,7 +67773,8 @@
     "civilising-teachers",
     "elixirs-of-immortality",
     "kings-who-became-gods",
-    "contested-texts"
+    "contested-texts",
+    "chinese-worlds"
    ]
   },
   {
@@ -68058,7 +68085,8 @@
     "silk-road",
     "steppe-empires",
     "myths-about-history",
-    "travellers-tales"
+    "travellers-tales",
+    "chinese-worlds"
    ]
   },
   {
@@ -74090,7 +74118,8 @@
     "silk-road",
     "myths-about-history",
     "kings-who-became-gods",
-    "who-got-there-first"
+    "who-got-there-first",
+    "chinese-worlds"
    ]
   },
   {
@@ -76417,7 +76446,8 @@
    "threads": [
     "civilisation-collapses",
     "silk-road",
-    "steppe-empires"
+    "steppe-empires",
+    "chinese-worlds"
    ]
   },
   {
@@ -82305,7 +82335,8 @@
     "altered-states",
     "millenarian-movements",
     "resistance-to-empire",
-    "prophecies"
+    "prophecies",
+    "bulletproof-magic"
    ]
   },
   {
@@ -86518,7 +86549,8 @@
     "caribbean-worlds",
     "resistance-to-empire",
     "miracle-workers",
-    "slave-revolts-and-maroons"
+    "slave-revolts-and-maroons",
+    "bulletproof-magic"
    ]
   },
   {
@@ -88747,6 +88779,666 @@
     "creation-myths",
     "born-from-eggs",
     "repatriation-debates"
+   ]
+  },
+  {
+   "id": "zhou-conquest-mandate",
+   "title": "The fall of the Shang and the Mandate of Heaven (c. 1046 BCE)",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -1046,
+   "end": null,
+   "dateNote": "c. 1046 BCE (traditional dates range 1130-1018 BCE)",
+   "evidenceTypes": [
+    "textual",
+    "inscriptions",
+    "astronomical retrocalculation"
+   ],
+   "mainstream": "Around 1046 BCE King Wu of Zhou, a western vassal of the Shang, defeated the last Shang king, Di Xin, at the Battle of Muye and took the Shang capital; Di Xin is said to have burned himself to death in his palace. The Zhou justified their conquest with a new idea: the Mandate of Heaven (Tianming). Heaven, they argued, grants the right to rule to a virtuous dynasty and withdraws it from a corrupt one, signalling its displeasure through disasters and omens. The idea, set out in early Zhou texts associated with the Duke of Zhou, became the central principle of Chinese political legitimacy for three thousand years and implied a right of rebellion against unjust rulers. A bronze vessel, the Li gui, excavated in 1976 in Shaanxi, records that King Wu attacked Shang on the morning of a jiazi day, a contemporary confirmation of the event.",
+   "alternatives": [
+    {
+     "label": "The wicked last king",
+     "text": "Later histories, including Sima Qian's, portray Di Xin as a monster who drank, tortured and was led astray by his consort Daji. Oracle-bone records from his reign show a ruler making normal ancestral sacrifices, and Daji does not appear in them; many historians see the stories as Zhou propaganda that grew with each retelling."
+    },
+    {
+     "label": "Dating by the planets",
+     "text": "Previous chronologies proposed at least 44 different dates, from 1130 to 1018 BCE. The government-sponsored Xia-Shang-Zhou Chronology Project (1996-2000) chose 1046 BCE, partly using a passage giving the positions of Jupiter and other bodies; some astronomers link the Zhou's claim to Heaven's favour to a striking gathering of the five visible planets in 1059 BCE, while others reject the project's methods and favour different dates."
+    },
+    {
+     "label": "A sign in the sky?",
+     "text": "The Li gui inscription contains the word sui, which some read as the planet Jupiter being in the right position for victory and others as the name of a sacrifice; the passage is still debated."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Battle of Muye",
+     "url": "https://en.wikipedia.org/wiki/Battle_of_Muye",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Mandate of Heaven",
+     "url": "https://en.wikipedia.org/wiki/Mandate_of_Heaven",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Li gui (vessel)",
+     "url": "https://en.wikipedia.org/wiki/Li_gui_(vessel)",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Xia–Shang–Zhou Chronology Project",
+     "url": "https://en.wikipedia.org/wiki/Xia%E2%80%93Shang%E2%80%93Zhou_Chronology_Project",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Li_Gui%2C_2016-09-09_01.jpg/500px-Li_Gui%2C_2016-09-09_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Li_Gui,_2016-09-09_01.jpg",
+     "author": "Siyuwj",
+     "license": "CC BY-SA 4.0",
+     "title": "Li Gui, 2016-09-09 01.jpg"
+    }
+   ],
+   "categories": [
+    "history"
+   ],
+   "threads": [
+    "sky-omens",
+    "ancient-astronomy",
+    "sacred-kingship",
+    "royal-propaganda",
+    "dating-the-past",
+    "chinese-worlds"
+   ]
+  },
+  {
+   "id": "burning-of-books-213bce",
+   "title": "The burning of the books and burying of the scholars (213-212 BCE)",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": -213,
+   "end": -212,
+   "dateNote": "213-212 BCE (according to Sima Qian, c. 94 BCE)",
+   "evidenceTypes": [
+    "textual"
+   ],
+   "mainstream": "According to Sima Qian's Records of the Grand Historian, written about a century later, after the First Emperor, Qin Shi Huang, unified China in 221 BCE his chancellor Li Si proposed in 213 BCE that all histories other than Qin's, together with the Classic of Poetry, the Book of Documents and the writings of the 'hundred schools' of philosophy, be burned, sparing only works on medicine, divination, agriculture and forestry and copies kept by official scholars. The next year, Sima Qian says, the emperor had more than 460 scholars buried alive after alchemists who had promised him an elixir of immortality deceived and criticised him. The story became the classic Chinese example of tyranny against learning, and later Confucian scholars blamed Qin for the loss of many ancient texts.",
+   "alternatives": [
+    {
+     "label": "Exaggerated by the Han?",
+     "text": "Modern historians agree that Qin confiscated and destroyed works it considered subversive, but many doubt the details. The account was written under the Han dynasty, which had reason to blacken its predecessor; some scholars argue that the victims were mainly fangshi (magicians and alchemists) rather than Confucians, and that the word translated \"buried alive\" may simply mean \"killed\"."
+    },
+    {
+     "label": "Who really destroyed the books?",
+     "text": "Official copies survived the edict in the imperial library, but that library was burned when the rebel Xiang Yu sacked the Qin capital Xianyang in 206 BCE, which may have caused greater losses. Legend also says Confucian texts were hidden in walls, such as in the house of Confucius's descendants, and recovered under the Han, giving rise to long disputes between 'Old Text' and 'New Text' versions of the classics."
+    },
+    {
+     "label": "A recurring pattern",
+     "text": "The episode is often compared with other deliberate destructions of knowledge, from the burning of Maya books in 1562 to modern book burnings; critics warn against treating every such story as equally well documented."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Burning of books and burying of scholars",
+     "url": "https://en.wikipedia.org/wiki/Burning_of_books_and_burying_of_scholars",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Li Si",
+     "url": "https://en.wikipedia.org/wiki/Li_Si",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Qin_empire_210_BCE.png/500px-Qin_empire_210_BCE.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Qin_empire_210_BCE.png",
+     "author": "Itsmine",
+     "license": "CC BY-SA 3.0",
+     "title": "Qin_empire_210_BCE.png"
+    }
+   ],
+   "categories": [
+    "history"
+   ],
+   "threads": [
+    "knowledge-and-power",
+    "suppressed-beliefs",
+    "lost-libraries",
+    "elixirs-of-immortality",
+    "royal-propaganda",
+    "myths-about-history",
+    "chinese-worlds"
+   ]
+  },
+  {
+   "id": "hua-mulan",
+   "title": "Hua Mulan: the woman warrior of the Ballad",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": 450,
+   "end": null,
+   "dateNote": "Ballad c. 4th-6th century CE; first collected 6th century",
+   "evidenceTypes": [
+    "textual",
+    "literary history"
+   ],
+   "mainstream": "The Ballad of Mulan is a short Chinese folk poem, probably composed in northern China during the Northern Wei period (386-535 CE), when the north was ruled by the Xianbei Tuoba clan and fought the nomadic Rouran. When the khagan calls up troops, Mulan disguises herself as a man to take her ageing father's place, serves for twelve years (the poem says her comrades never discovered she was a woman), refuses an official post and returns home to put on her old clothes. The poem was first collected in a 6th-century anthology, now lost, and survives in the Song-dynasty Yuefu Shiji. Later writers gave her the surname Hua and developed the story in plays, novels and, from 1998, Disney films.",
+   "alternatives": [
+    {
+     "label": "Real person?",
+     "text": "No reliable historical record mentions her, and she is absent from collections of exemplary women of the Northern Wei. Local traditions in several Chinese provinces claim her as a native and point to temples and graves, but historians generally regard her as a literary figure, perhaps inspired by real women soldiers."
+    },
+    {
+     "label": "Han or Xianbei?",
+     "text": "Because the poem calls the ruler \"khagan\" and is set in the Xianbei-ruled north, some scholars argue that Mulan was originally a Xianbei rather than Han Chinese heroine, and that her name may derive from a Xianbei word; others see the details as poetic convention."
+    },
+    {
+     "label": "Many Mulans",
+     "text": "Her image has shifted from a model of filial piety in imperial China, to a patriotic symbol in wartime, to a feminist icon; scholars use her changing story to trace changing ideals of gender and loyalty."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Hua Mulan",
+     "url": "https://en.wikipedia.org/wiki/Hua_Mulan",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/%E7%95%AB%E9%BA%97%E7%8F%A0%E8%90%83%E7%A7%80_Gathering_Gems_of_Beauty_%28%E6%A2%81%E6%9C%A8%E8%98%AD%29_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:%E7%95%AB%E9%BA%97%E7%8F%A0%E8%90%83%E7%A7%80_Gathering_Gems_of_Beauty_(%E6%A2%81%E6%9C%A8%E8%98%AD)_2.jpg",
+     "author": "Identified as He Dazi (赫達資)",
+     "license": "Public domain",
+     "title": "畫麗珠萃秀_Gathering_Gems_of_Beauty_(梁木蘭)_2.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "history"
+   ],
+   "threads": [
+    "warrior-women",
+    "myths-about-history",
+    "chinese-worlds"
+   ]
+  },
+  {
+   "id": "white-snake-leifeng",
+   "title": "The Legend of the White Snake and the fall of Leifeng Pagoda (1924)",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": 1624,
+   "end": 1924,
+   "dateNote": "Story from Song era (12th-13th c.); Feng Menglong 1624; pagoda built 975, collapsed 1924",
+   "evidenceTypes": [
+    "textual",
+    "literary history",
+    "architectural"
+   ],
+   "mainstream": "The Legend of the White Snake is one of China's four great folk legends. A white snake spirit who has cultivated human form for centuries, Bai Suzhen, falls in love with and marries a young man, Xu Xian, in Hangzhou, helped by her companion the green snake Xiaoqing. The Buddhist monk Fahai exposes her: at the Dragon Boat Festival she drinks realgar wine and reverts to snake form, frightening her husband to death, after which she steals a herb of immortality to revive him and floods Jinshan Temple to rescue him. Finally Fahai imprisons her under the Leifeng (Thunder Peak) Pagoda beside West Lake. The story grew from Song-era storytelling and was fixed in Feng Menglong's 1624 version. The real Leifeng Pagoda, built in 975, was weakened by people stealing its bricks, believed to cure illness or prevent miscarriage, and collapsed on 25 September 1924; it was rebuilt in 2002.",
+   "alternatives": [
+    {
+     "label": "Demon or heroine?",
+     "text": "Early versions present the snake as a dangerous seductress and Fahai as a protector; later operas and modern films make her a loyal wife and Fahai the villain, reflecting changing attitudes to love, gender and religious authority."
+    },
+    {
+     "label": "A symbolic collapse",
+     "text": "When the pagoda fell, the writer Lu Xun wrote essays welcoming its fall as the collapse of oppressive old thinking, linking it to the freeing of the imprisoned White Snake. Popular tradition held that she would be freed if the pagoda fell."
+    },
+    {
+     "label": "Shared serpent-women",
+     "text": "Folklorists compare her with other serpent-woman stories, such as the French Melusine and the Greek lamia, and debate whether they share origins or reflect a widespread motif."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Legend of the White Snake",
+     "url": "https://en.wikipedia.org/wiki/Legend_of_the_White_Snake",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Leifeng Pagoda",
+     "url": "https://en.wikipedia.org/wiki/Leifeng_Pagoda",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Leifeng_Pagoda_DJI_0593_%282%29.jpg/500px-Leifeng_Pagoda_DJI_0593_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Leifeng_Pagoda_DJI_0593_(2).jpg",
+     "author": "David290",
+     "license": "CC BY-SA 4.0",
+     "title": "Leifeng_Pagoda_DJI_0593_(2).jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion"
+   ],
+   "threads": [
+    "serpent-beings",
+    "shapeshifters",
+    "elixirs-of-immortality",
+    "chinese-worlds"
+   ]
+  },
+  {
+   "id": "boxer-rebellion",
+   "title": "The Boxer Uprising (1899-1901): fighters who believed bullets could not harm them",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1899,
+   "end": 1901,
+   "dateNote": "1899-1901; siege of the legations 20 June - 14 August 1900",
+   "evidenceTypes": [
+    "textual",
+    "photographic",
+    "official records"
+   ],
+   "mainstream": "The Boxers, or 'Righteous and Harmonious Fists' (Yihequan), arose in Shandong in north China in the late 1890s amid drought, floods, poverty and resentment of foreign powers and Christian missionaries. They practised martial arts and rituals of spirit possession, and claimed that their charms and gods made them invulnerable to swords and bullets; they demonstrated this to recruits by firing guns loaded with blanks. Some blamed the drought on Christians, accusing them of offending local gods and disrupting feng shui. In June 1900 tens of thousands converged on Beijing, killing missionaries and many thousands of Chinese Christians, and the Empress Dowager Cixi declared war on the foreign powers. An Eight-Nation Alliance relieved the 55-day siege of Beijing's Legation Quarter on 14 August 1900. The Boxer Protocol of 1901 imposed an indemnity of 450 million taels of silver.",
+   "alternatives": [
+    {
+     "label": "Magic that failed",
+     "text": "The belief in invulnerability ended in massacres of Boxers by modern rifles and artillery. Historians see it as part of a long tradition of protective magic in Chinese sects, and compare it with similar beliefs in other anti-colonial movements, such as the Maji Maji rising in East Africa."
+    },
+    {
+     "label": "Rumours",
+     "text": "Rumours that missionaries kidnapped children and used their organs for medicine fuelled anti-Christian violence; such stories had circulated for decades and were not true."
+    },
+    {
+     "label": "Many Boxers",
+     "text": "Historian Paul Cohen showed how the uprising was remembered as myth in different ways: as superstitious fanatics in the West, as patriotic anti-imperialists in 20th-century Chinese nationalism and as feudal backwardness in others. The foreign armies' own looting and reprisals are also part of the record."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Boxer Rebellion",
+     "url": "https://en.wikipedia.org/wiki/Boxer_Rebellion",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Siege of the International Legations",
+     "url": "https://en.wikipedia.org/wiki/Siege_of_the_International_Legations",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Taku_Forts_Landing.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Taku_Forts_Landing.JPG",
+     "author": "Unknown authorUnknown author",
+     "license": "Public domain",
+     "title": "Taku_Forts_Landing.JPG"
+    }
+   ],
+   "categories": [
+    "history",
+    "religion"
+   ],
+   "threads": [
+    "rain-and-drought",
+    "millenarian-movements",
+    "myths-about-history",
+    "resistance-to-empire",
+    "rumour-and-disinformation",
+    "chinese-worlds",
+    "bulletproof-magic"
+   ]
+  },
+  {
+   "id": "red-cliffs-208",
+   "title": "The Battle of Red Cliffs (208-209 CE): history versus the Romance of the Three Kingdoms",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 208,
+   "end": 209,
+   "dateNote": "Winter 208-209 CE",
+   "evidenceTypes": [
+    "textual"
+   ],
+   "mainstream": "In the winter of 208-209 CE the warlord Cao Cao, who controlled the Han emperor and northern China, led a huge force south down the Yangtze to finish off his rivals. The allied southern warlords Sun Quan and Liu Bei, with Sun Quan's commander Zhou Yu, met him at Chibi ('Red Cliffs'). According to the historical Records of the Three Kingdoms, the general Huang Gai feigned surrender and sent ships filled with reeds, kindling and oil towards Cao Cao's fleet; set alight and driven by a south-east wind, they burned it, and Cao Cao's army, already suffering from disease, retreated north. The victory ensured that China would remain divided among the Three Kingdoms of Wei, Shu and Wu. The battle is best known through the 14th-century novel Romance of the Three Kingdoms, attributed to Luo Guanzhong.",
+   "alternatives": [
+    {
+     "label": "Zhuge Liang's magic",
+     "text": "In the novel, Liu Bei's strategist Zhuge Liang 'borrows' 100,000 arrows by sending straw-covered boats into the fog for Cao Cao's archers to shoot at, and summons the east wind with rituals at an altar. These famous episodes are not in the historical sources and are generally regarded as fiction, or as credit taken from other people and events."
+    },
+    {
+     "label": "How big an army?",
+     "text": "Cao Cao claimed 800,000 men; Zhou Yu estimated around 230,000, and modern historians suggest far fewer. Disease, perhaps an epidemic such as schistosomiasis or typhus, may have hurt his army as much as fire."
+    },
+    {
+     "label": "Where was it?",
+     "text": "The location of the battlefield is still debated, with sites near Wuhan in Hubei and near Yueyang in Hunan among the candidates; a town in Hubei was officially renamed Chibi in 1998."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Battle of Red Cliffs",
+     "url": "https://en.wikipedia.org/wiki/Battle_of_Red_Cliffs",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Romance of the Three Kingdoms",
+     "url": "https://en.wikipedia.org/wiki/Romance_of_the_Three_Kingdoms",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Chibi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Chibi.jpg",
+     "author": "User Jie on en.wikipedia",
+     "license": "CC BY-SA 3.0",
+     "title": "Chibi.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "myth-legend"
+   ],
+   "threads": [
+    "storms-that-changed-history",
+    "myths-about-history",
+    "chinese-worlds"
+   ]
+  },
+  {
+   "id": "fuxi-bagua",
+   "title": "Fuxi, Nüwa and the eight trigrams that inspired Leibniz",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": -2900,
+   "end": null,
+   "dateNote": "Traditional date c. 2900 BCE; Leibniz's binary paper 1703",
+   "evidenceTypes": [
+    "textual",
+    "iconographic",
+    "oral tradition"
+   ],
+   "mainstream": "Fuxi is a culture hero of Chinese myth, often paired with his sister and wife Nüwa. They are pictured with human upper bodies and intertwined snake tails, Fuxi holding a carpenter's square and Nüwa a compass, in tomb art from the Han dynasty and in silk paintings from Astana in Turpan (6th-8th centuries). Fuxi is credited with teaching people hunting, fishing, cooking and marriage, and with creating the bagua, the eight trigrams of broken and unbroken lines that underlie the I Ching (Book of Changes) divination system, after observing patterns in the heavens and earth. Traditional chronology placed him around 2900 BCE. In 1701 the Jesuit missionary Joachim Bouvet sent the philosopher Gottfried Wilhelm Leibniz a diagram of the 64 hexagrams in the order arranged by the Song scholar Shao Yong. Leibniz, who had developed binary arithmetic, saw that the sequence matched binary numbers and in 1703 published his explanation of binary, citing the 'figures of Fuxi'.",
+   "alternatives": [
+    {
+     "label": "Ancient binary?",
+     "text": "Leibniz believed Fuxi had discovered binary arithmetic thousands of years earlier and that the knowledge had been lost. Historians of mathematics note that Shao Yong's 11th-century arrangement was not intended as a number system, and that assigning binary values to the hexagrams is a modern reading."
+    },
+    {
+     "label": "After the flood",
+     "text": "In flood myths recorded among the Miao and other peoples of southern China, Fuxi and Nüwa are a brother and sister who survive a great flood, often in a gourd, and marry to repopulate the world; some scholars think these stories fed into the classical myth, while others see separate traditions."
+    },
+    {
+     "label": "Myth or memory of real ancestors?",
+     "text": "Some Chinese historians have treated Fuxi as a legendary chief of a real prehistoric society; most scholars regard him as a mythical figure whose role was systematised by Han-dynasty writers."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Fuxi",
+     "url": "https://en.wikipedia.org/wiki/Fuxi",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Bagua",
+     "url": "https://en.wikipedia.org/wiki/Bagua",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: I Ching",
+     "url": "https://en.wikipedia.org/wiki/I_Ching",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Joachim Bouvet",
+     "url": "https://en.wikipedia.org/wiki/Joachim_Bouvet",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Fuxi_and_N%C3%BCwa._1967_Astana_Cemetery.png/500px-Fuxi_and_N%C3%BCwa._1967_Astana_Cemetery.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Fuxi_and_N%C3%BCwa._1967_Astana_Cemetery.png",
+     "author": "Unknown authorUnknown author",
+     "license": "Public domain",
+     "title": "Fuxi and Nüwa. 1967 Astana Cemetery.png"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "science-cosmos"
+   ],
+   "threads": [
+    "flood-myths",
+    "serpent-beings",
+    "civilising-teachers",
+    "divine-twins",
+    "who-got-there-first",
+    "chinese-worlds"
+   ]
+  },
+  {
+   "id": "silk-secret-smuggled",
+   "title": "The secret of silk: a goddess, a princess's headdress and two smuggling monks",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 552,
+   "end": null,
+   "dateNote": "Legend c. 2700 BCE; Jiahu c. 6500 BCE; Khotan 1st century CE; Byzantium c. 552 CE",
+   "evidenceTypes": [
+    "textual",
+    "archaeological",
+    "biomolecular"
+   ],
+   "mainstream": "For millennia silk production was a Chinese speciality. Legend credits its discovery to Leizu, wife of the Yellow Emperor, when a cocoon fell into her tea and unravelled around 2700 BCE; archaeology shows silk was produced much earlier, and in 2016 chemists reported silk proteins in soil from 8,500-year-old tombs at Jiahu in Henan. Sericulture reached the oasis kingdom of Khotan by about the 1st century CE. The pilgrim Xuanzang recorded the local legend that a Chinese princess, sent to marry the king of Khotan, smuggled silkworm eggs and mulberry seeds out of China hidden in her headdress; a painted wooden panel found by Aurel Stein at Dandan Oilik seems to show the scene. In the West the historian Procopius tells how, around 552 CE, two monks who had lived in 'Serinda' brought silkworm eggs to Constantinople hidden in hollow canes at the request of Emperor Justinian I, founding the Byzantine silk industry.",
+   "alternatives": [
+    {
+     "label": "Industrial espionage?",
+     "text": "The monks' story is often called the first recorded case of industrial espionage. Historians accept that silk production began in the Byzantine Empire around this time, but the details come from only a few sources, and the monks' origin (probably Sogdiana or Central Asia rather than China itself) is debated."
+    },
+    {
+     "label": "Princess legend",
+     "text": "Some scholars see the Khotan princess story as a legend explaining how a technology spread through marriage alliances; whether a specific princess existed is unknown."
+    },
+    {
+     "label": "How old is silk?",
+     "text": "The Jiahu evidence is indirect, based on protein traces rather than surviving fabric, and could reflect wild silk; the oldest surviving silk fabrics are several thousand years younger."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Smuggling of silkworm eggs into the East Roman Empire",
+     "url": "https://en.wikipedia.org/wiki/Smuggling_of_silkworm_eggs_into_the_East_Roman_Empire",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Kingdom of Khotan",
+     "url": "https://en.wikipedia.org/wiki/Kingdom_of_Khotan",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Leizu",
+     "url": "https://en.wikipedia.org/wiki/Leizu",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Sericulture",
+     "url": "https://en.wikipedia.org/wiki/Sericulture",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Biomolecular Evidence of Silk from 8,500 Years Ago",
+     "authors": "Gong, Y. et al.",
+     "year": 2016,
+     "doi": "10.1371/journal.pone.0168042",
+     "type": "paper"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/British_Museum_silk_princess_painting.jpg/500px-British_Museum_silk_princess_painting.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:British_Museum_silk_princess_painting.jpg",
+     "author": "Unknown authorUnknown author",
+     "license": "Public domain",
+     "title": "British Museum silk princess painting.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology"
+   ],
+   "threads": [
+    "trade-networks",
+    "silk-road",
+    "byzantine-world",
+    "chinese-worlds"
+   ]
+  },
+  {
+   "id": "sima-qian-shiji",
+   "title": "Sima Qian: the castrated historian who wrote China's first great history",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -94,
+   "end": -86,
+   "dateNote": "c. 145 - c. 86 BCE; castrated 99 BCE; Shiji completed c. 94 BCE",
+   "evidenceTypes": [
+    "textual",
+    "archaeological confirmation"
+   ],
+   "mainstream": "Sima Qian (c. 145 - c. 86 BCE) was Grand Historian at the court of Emperor Wu of Han, an office that also involved astronomy and the calendar. In 99 BCE he alone defended the general Li Ling, who had surrendered to the Xiongnu after a failed campaign. The furious emperor sentenced him to death; unable to pay to commute the sentence, Sima Qian chose castration over suicide so that he could finish the history his father had begun. In his famous Letter to Ren An he called it the worst of all punishments. His Records of the Grand Historian (Shiji), completed around 94 BCE, covers some 2,500 years from the Yellow Emperor to his own time in 130 chapters, and set the model for all later Chinese official histories. In the early 20th century the scholar Wang Guowei showed that the list of Shang kings in the Shiji closely matched names on newly discovered oracle bones, confirming that it preserved genuine ancient records.",
+   "alternatives": [
+    {
+     "label": "History or legend?",
+     "text": "The Shiji mixes documented history with legends such as the Yellow Emperor and the Xia dynasty. The oracle-bone confirmation of the Shang kings led some scholars to argue that the Xia account may also rest on real tradition; others caution that there is no comparable written confirmation for the Xia."
+    },
+    {
+     "label": "A biased witness?",
+     "text": "Some historians argue that Sima Qian's portraits of Qin Shi Huang and Emperor Wu were shaped by Han politics and by his own suffering; others praise his use of sources, travel and interviews and his willingness to criticise the powerful."
+    },
+    {
+     "label": "A silent rebuke",
+     "text": "Readers have long seen hidden criticism of Emperor Wu in his accounts of earlier tyrants and in his biographies of assassins, rebels and ordinary people, which give unusual attention to those outside the court."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Sima Qian",
+     "url": "https://en.wikipedia.org/wiki/Sima_Qian",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Shiji",
+     "url": "https://en.wikipedia.org/wiki/Shiji",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Wang Guowei",
+     "url": "https://en.wikipedia.org/wiki/Wang_Guowei",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Si_maqian.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Si_maqian.jpg",
+     "author": "Unknown",
+     "license": "Public domain",
+     "title": "Si_maqian.jpg"
+    }
+   ],
+   "categories": [
+    "history"
+   ],
+   "threads": [
+    "stories-proven-true",
+    "knowledge-and-power",
+    "chinese-worlds"
+   ]
+  },
+  {
+   "id": "merv-1221",
+   "title": "Merv: once perhaps the world's largest city, destroyed by the Mongols (1221)",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 1221,
+   "end": null,
+   "dateNote": "Seljuk peak 11th-12th century; Mongol sack 1221",
+   "evidenceTypes": [
+    "archaeological",
+    "textual"
+   ],
+   "mainstream": "Merv, in today's Turkmenistan, was a great oasis city on the Silk Road for over two thousand years, with successive walled cities built beside one another, from the Achaemenid Persian period to the Seljuk Turks. Under the Seljuk sultan Ahmad Sanjar (ruled 1118-1157), whose great domed mausoleum still stands, it may have been the largest city in the world. In 1221, during Genghis Khan's invasion of the Khwarazmian Empire, Merv surrendered to his son Tolui. Contemporary historians wrote that the Mongols then massacred the population, sparing only a few hundred artisans: Ibn al-Athir reported some 700,000 dead and the Persian historian Juvayni over 1.3 million. Sanjar's tomb was burned and dug up in search of treasure. The city never fully recovered. Its ruins are a UNESCO World Heritage Site.",
+   "alternatives": [
+    {
+     "label": "How many died?",
+     "text": "Modern historians regard the medieval death tolls as greatly exaggerated: they exceed most estimates of the city's population, which may itself have included refugees. Some researchers argue the numbers reflect the shock of the event and the rhetorical habits of chroniclers; others think a very large massacre did occur even if the figures are inflated."
+    },
+    {
+     "label": "The end of a civilisation?",
+     "text": "Some writers see the Mongol destruction of Merv, Nishapur, Balkh and Urgench as a catastrophe from which the Iranian and Central Asian world never fully recovered, also because of damage to irrigation; others point to recovery under later Mongol and Timurid rulers and to longer-term environmental and political causes of decline."
+    },
+    {
+     "label": "Alexander's city",
+     "text": "Merv was called Alexandria for a time in the Hellenistic era, but the story that Alexander the Great founded or visited it is regarded as legendary."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Merv",
+     "url": "https://en.wikipedia.org/wiki/Merv",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Tomb of Ahmad Sanjar",
+     "url": "https://en.wikipedia.org/wiki/Tomb_of_Ahmad_Sanjar",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "UNESCO: State Historical and Cultural Park \"Ancient Merv\"",
+     "url": "https://whc.unesco.org/en/list/886/",
+     "type": "heritage listing"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Turkmenistan_Merv_city.jpg/500px-Turkmenistan_Merv_city.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Turkmenistan_Merv_city.jpg",
+     "author": "Kalpak Travel",
+     "license": "CC BY-SA 4.0",
+     "title": "Turkmenistan_Merv_city.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "archaeology",
+    "catastrophes"
+   ],
+   "threads": [
+    "civilisation-collapses",
+    "silk-road",
+    "steppe-empires",
+    "iranian-worlds"
    ]
   }
  ]
