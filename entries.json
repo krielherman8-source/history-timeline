@@ -90976,6 +90976,7 @@
    "start": -1750,
    "end": null,
    "dateNote": "Cape c. 1900-1600 BCE; found 11 October 1833",
+   "statusNote": "Find confirmed; whether the ghost story predates it is unverifiable",
    "evidenceTypes": [
     "archaeological",
     "folklore",
@@ -91781,6 +91782,580 @@
     "southern-cone",
     "spirits-of-house-and-forest",
     "wild-people-of-the-woods"
+   ]
+  },
+  {
+   "id": "maury-island-1947",
+   "title": "The Maury Island incident: the first \"men in black\" story, and the \"dirtiest hoax\"",
+   "lane": "history",
+   "status": "debunked",
+   "priority": 2,
+   "start": 1947,
+   "end": null,
+   "dateNote": "Claimed sighting 21 June 1947; B-25 crash 1 August 1947",
+   "evidenceTypes": [
+    "testimony",
+    "official records (FBI, USAF)"
+   ],
+   "mainstream": "Harold Dahl, a Tacoma harbour patrolman, claimed that on 21 June 1947, three days before Kenneth Arnold's famous sighting, he saw six doughnut-shaped flying objects over Maury Island in Puget Sound, Washington, one of which spewed debris resembling lava rock onto his boat, breaking a worker's arm and killing a dog. His associate Fred Crisman claimed to have collected fragments. Dahl later said a man in a dark suit visited him and warned him not to talk about it. The pulp editor Raymond Palmer paid Kenneth Arnold to investigate, and two Army Air Forces intelligence officers, Captain William Davidson and First Lieutenant Frank Brown, flew in to interview the men and took away a box of supposed fragments. In the early hours of 1 August 1947 their B-25 crashed near Kelso, Washington, killing both. The FBI investigated and concluded the story was false; Dahl reportedly said he would call it a hoax if questioned by the authorities. Project Blue Book's Edward Ruppelt called it 'the dirtiest hoax in UFO history'.",
+   "alternatives": [
+    {
+     "label": "A hoax",
+     "text": "The FBI and the Air Force concluded the fragments were ordinary slag and that Dahl and Crisman invented the story, possibly to sell it to Palmer's magazine. Most UFO researchers, including believers, accept this."
+    },
+    {
+     "label": "Something covered up",
+     "text": "Some writers argue the deaths of the two officers, the warning from a dark-suited man and the official dismissal suggest a cover-up. Investigators found no evidence linking the crash to the fragments or to the story."
+    },
+    {
+     "label": "Birth of a legend",
+     "text": "Whatever its truth, Dahl's mysterious dark-suited visitor was cited in Gray Barker's 1956 book They Knew Too Much About Flying Saucers, which helped popularise the \"Men in Black\" of UFO folklore. Today the town of Des Moines, Washington, celebrates the story with an annual \"Men in Black\" event."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Maury Island incident",
+     "url": "https://en.wikipedia.org/wiki/Maury_Island_incident",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Men in black",
+     "url": "https://en.wikipedia.org/wiki/Men_in_black",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Artist_impression_of_the_Maury_Island_UFO_hoax.jpg/500px-Artist_impression_of_the_Maury_Island_UFO_hoax.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Artist_impression_of_the_Maury_Island_UFO_hoax.jpg",
+     "author": "James B. Settles",
+     "license": "Public domain",
+     "title": "Artist impression of the Maury Island UFO hoax.jpg"
+    }
+   ],
+   "categories": [
+    "aliens-ufo",
+    "hoaxes",
+    "history"
+   ],
+   "threads": [
+    "ufo-encounters",
+    "hoaxes-exposed",
+    "modern-legends",
+    "official-ufo-investigations"
+   ]
+  },
+  {
+   "id": "kinross-moncla-1953",
+   "title": "The Kinross incident: a jet vanishes chasing a radar target over Lake Superior",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 1953,
+   "end": null,
+   "dateNote": "23 November 1953",
+   "statusNote": "Loss of jet confirmed; cause disputed",
+   "evidenceTypes": [
+    "official records",
+    "radar data (reported)",
+    "testimony"
+   ],
+   "mainstream": "On the evening of 23 November 1953 Air Defense Command radar at Sault Ste. Marie, Michigan, detected an unidentified target over Lake Superior. An F-89C Scorpion interceptor from Kinross Air Force Base, flown by First Lieutenant Felix Moncla with Second Lieutenant Robert Wilson as radar operator, was scrambled. Ground controllers directed Moncla towards the target as Wilson struggled to track it. On the ground radar screen the two blips came closer until they appeared to merge, and then the jet's signal disappeared. A US and Canadian search found no trace of the aircraft or its crew. The official USAF accident report states the target was a Royal Canadian Air Force C-47 transport flying off course, and that the F-89 crashed into the lake, possibly after the pilot became disoriented.",
+   "alternatives": [
+    {
+     "label": "Official explanation",
+     "text": "The Air Force concluded the jet crashed during the intercept of an off-course RCAF aircraft; later investigation leads mentioned possible pilot vertigo, although vertigo is not listed as a cause in the accident board's formal conclusions."
+    },
+    {
+     "label": "A UFO encounter",
+     "text": "UFO researchers, beginning with Donald Keyhoe in the 1950s, argued the merging radar blips meant the jet was taken or destroyed by a UFO, and noted that the pilot of the RCAF flight, Gerald Fosberg, later denied in a documentary interview that his aircraft had been intercepted. These claims rely on disputed reports and no supporting physical evidence has been found."
+    },
+    {
+     "label": "Wreck claims",
+     "text": "In 2006 a story circulated online that a \"Great Lakes Dive Company\" had found the F-89 on the lake bed; the group and its website were never heard from again and the story is regarded as a hoax. The aircraft has never been found."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Felix Moncla",
+     "url": "https://en.wikipedia.org/wiki/Felix_Moncla",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [],
+   "categories": [
+    "aliens-ufo",
+    "anomalies",
+    "history"
+   ],
+   "threads": [
+    "ufo-encounters",
+    "disappearances",
+    "cold-war-secrets",
+    "official-ufo-investigations",
+    "radar-cases"
+   ]
+  },
+  {
+   "id": "dechmont-woods-1979",
+   "title": "The Dechmont Woods encounter: the UFO case that became a police assault inquiry",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 1979,
+   "end": null,
+   "dateNote": "9 November 1979",
+   "statusNote": "Injuries and police inquiry confirmed; cause disputed",
+   "evidenceTypes": [
+    "testimony",
+    "police records",
+    "physical traces (ground marks)"
+   ],
+   "mainstream": "On 9 November 1979 Robert Taylor, a forestry worker for the Livingston Development Corporation in West Lothian, Scotland, was checking plantations on Dechmont Law with his dog when, he said, he came upon a large dome-shaped object hovering in a clearing. Two smaller spheres 'similar to sea mines' came towards him and grabbed his trousers, dragging him towards the object; he noticed a choking smell like burning brakes and lost consciousness. He walked home dishevelled, with torn trousers and grazes to his chin and thighs. His wife called the police and a doctor. Police visiting the site found 'ladder-shaped' marks and holes in the ground, and recorded the matter as a criminal assault, so the case is often described as the only UFO report to become a criminal investigation. In 1992 a commemorative plaque was installed at the site.",
+   "alternatives": [
+    {
+     "label": "Medical explanation",
+     "text": "Sceptics, including UFO investigator Steuart Campbell and the physicist Steve Donnelly of The Skeptic, suggested Taylor had a seizure, possibly temporal lobe epilepsy linked to an earlier bout of meningitis, with the strange smell, paralysis and unconsciousness as symptoms and the objects as hallucinations; Campbell suggested a mirage of the planet Venus may have triggered it."
+    },
+    {
+     "label": "A genuine encounter",
+     "text": "Taylor maintained his account; supporters point to the physical marks on the ground and the damage to his clothing, which they say a seizure does not explain."
+    },
+    {
+     "label": "Unexplained traces",
+     "text": "No agreed explanation was found for the ground marks recorded by the police; supporters link them to the objects Taylor described, while sceptics suggest ordinary causes such as forestry equipment, which cannot now be tested."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Robert Taylor incident",
+     "url": "https://en.wikipedia.org/wiki/Robert_Taylor_incident",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [],
+   "categories": [
+    "aliens-ufo",
+    "anomalies"
+   ],
+   "threads": [
+    "ufo-encounters",
+    "seeing-what-we-expect",
+    "close-encounters",
+    "alien-abductions"
+   ]
+  },
+  {
+   "id": "toynbee-tiles",
+   "title": "The Toynbee tiles: messages about resurrecting the dead on Jupiter, set into city streets",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 3,
+   "start": 1983,
+   "end": null,
+   "dateNote": "First confirmed 1983 (Philadelphia); new tiles to the 2010s",
+   "statusNote": "Tiles confirmed; maker unconfirmed",
+   "evidenceTypes": [
+    "physical objects",
+    "media reports",
+    "documentary investigation"
+   ],
+   "mainstream": "Since the 1980s several hundred plaques, typically about the size of a licence plate and made of layers of linoleum and asphalt crack-filling compound, have been found embedded in the asphalt of streets in about two dozen US cities and three South American cities. Most carry a variation of the message 'TOYNBEE IDEA IN MOVIE 2001 RESURRECT DEAD ON PLANET JUPITER'; some add cryptic political statements or urge readers to make their own. The first confirmed sighting was in Philadelphia in 1983 and the first known press mention came in the Baltimore Sun in 1994. A 1983 letter to the Philadelphia Inquirer described a Philadelphia-based campaign on the same themes of resurrecting the dead on Jupiter, Stanley Kubrick and the historian Arnold J. Toynbee. New tiles have continued to appear occasionally, including in Philadelphia from 2016.",
+   "alternatives": [
+    {
+     "label": "A single reclusive author",
+     "text": "The 2011 documentary Resurrect Dead: The Mystery of the Toynbee Tiles traced the tiles to a reclusive Philadelphia man; he has never publicly confirmed it, and the occupants of the house denied knowledge."
+    },
+    {
+     "label": "Literary source",
+     "text": "The playwright David Mamet has said he believes the tiles are a tribute to his radio play 4 A.M., (1983), in which a caller to a late-night radio show describes the theory that Toynbee's ideas, as shown in the film 2001, mean the dead could be resurrected on Jupiter; Mamet called it \"the weirdest thing that ever happened\". Letters attributed to the tiler reportedly point instead to a passage in Toynbee's book Experiences."
+    },
+    {
+     "label": "Copycats",
+     "text": "Tiles appearing since about 2002 outside Philadelphia, such as in Topeka and Salt Lake City in 2013, are thought by many to be imitations."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Toynbee tiles",
+     "url": "https://en.wikipedia.org/wiki/Toynbee_tiles",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Toynbee_tile_at_franklin_square_2002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Toynbee_tile_at_franklin_square_2002.jpg",
+     "author": "The original uploader was Erifnam at English Wikipedia.",
+     "license": "CC BY-SA 3.0",
+     "title": "Toynbee tile at franklin square 2002.jpg"
+    }
+   ],
+   "categories": [
+    "anomalies",
+    "history"
+   ],
+   "threads": [
+    "modern-legends",
+    "ciphers-and-codes",
+    "internet-folklore"
+   ]
+  },
+  {
+   "id": "shugborough-inscription",
+   "title": "The Shugborough inscription: an 18th-century code on a garden monument",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 3,
+   "start": 1750,
+   "end": null,
+   "dateNote": "Monument 18th century (mid-1700s); inscription famous from 1982",
+   "evidenceTypes": [
+    "physical object (inscription)",
+    "documentary"
+   ],
+   "mainstream": "The Shepherd's Monument in the park of Shugborough Hall, Staffordshire, England, was commissioned by Thomas Anson in the 18th century. Its marble relief by Peter Scheemakers is a mirror image of Nicolas Poussin's painting The Shepherds of Arcadia (second version, 1630s), probably copied from an engraving, showing shepherds reading the words 'Et in Arcadia ego' on a tomb. Below the relief is a sequence of letters, O U O S V A V V, between the letters D and M, whose meaning has never been established. The inscription became internationally famous after it was mentioned in the 1982 book The Holy Blood and the Holy Grail. While the estate was managed by Staffordshire County Council, it invited former codebreakers from Bletchley Park to attempt a solution.",
+   "alternatives": [
+    {
+     "label": "A Latin dedication",
+     "text": "Many proposed solutions treat the letters as initials of a Latin phrase, as was common on Roman and later tombs, such as a dedication to a dead wife or relative; D M is often read as \"Dis Manibus\", \"to the spirits of the departed\". None can be proven."
+    },
+    {
+     "label": "Holy Grail and secret societies",
+     "text": "Authors in the tradition of The Holy Blood and the Holy Grail have linked the monument to the Priory of Sion, the Knights Templar or the location of the Holy Grail. Historians note that the Priory of Sion was shown to be a 20th-century hoax, and there is no evidence connecting the Ansons to such groups."
+    },
+    {
+     "label": "Private meaning",
+     "text": "Some historians think the letters had a private meaning for the Anson family, such as a love token, which may never be recovered."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Shepherd's Monument",
+     "url": "https://en.wikipedia.org/wiki/Shepherd's_Monument",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Priory of Sion",
+     "url": "https://en.wikipedia.org/wiki/Priory_of_Sion",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Shugborough_shepherds_monument.JPG/500px-Shugborough_shepherds_monument.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Shugborough_shepherds_monument.JPG",
+     "author": "Edward Wood aka. Elephantwood",
+     "license": "CC BY-SA 3.0",
+     "title": "Shugborough shepherds monument.JPG"
+    }
+   ],
+   "categories": [
+    "anomalies",
+    "history"
+   ],
+   "threads": [
+    "secret-societies",
+    "ciphers-and-codes"
+   ]
+  },
+  {
+   "id": "lycurgus-cup",
+   "title": "The Lycurgus Cup: Roman nanotechnology that changes colour",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": 300,
+   "end": null,
+   "dateNote": "Made c. 290-325 CE; acquired by the British Museum 1958",
+   "evidenceTypes": [
+    "physical object",
+    "scientific analysis"
+   ],
+   "mainstream": "The Lycurgus Cup in the British Museum is a 4th-century Roman glass cage cup, probably made in Alexandria or Rome around 290-325 CE. It is cut so that a 'cage' of figures stands out from the surface, showing the myth of King Lycurgus being entangled by a vine (the nymph Ambrosia transformed) and taunted by the god Dionysus and his followers. It is made of dichroic glass: it looks jade green when lit from the front and glowing red when light passes through it. Scientific analysis found that the glass contains tiny amounts of silver (about 330 parts per million) and gold (about 40 ppm) in the form of nanoparticles of a silver-gold alloy, whose size, close to wavelengths of visible light, causes the colour change through a surface plasmon resonance effect. It is the only complete Roman object of this type of glass. It was owned by the Rothschild family by 1857 and acquired by the British Museum in 1958.",
+   "alternatives": [
+    {
+     "label": "Accidental or deliberate?",
+     "text": "Most researchers think the Roman glassmakers did not understand the effect and may have achieved it by chance, for example through gold and silver contamination, since few similar pieces exist; others suggest they knew a recipe that produced the colour change, even without understanding why."
+    },
+    {
+     "label": "Lost ancient knowledge?",
+     "text": "The cup is sometimes cited in popular media as \"ancient nanotechnology\" or lost advanced knowledge. Historians point out that the Romans controlled the effect empirically, like medieval stained-glass makers who used gold to produce red glass; the physics was only explained in the 20th century."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Lycurgus Cup",
+     "url": "https://en.wikipedia.org/wiki/Lycurgus_Cup",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Front_of_4th_century_CE_Roman_Lycurgus_Cup%2C_British_Museum_%281958%2C1202.1%29.jpg/500px-Front_of_4th_century_CE_Roman_Lycurgus_Cup%2C_British_Museum_%281958%2C1202.1%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Front_of_4th_century_CE_Roman_Lycurgus_Cup,_British_Museum_(1958,1202.1).jpg",
+     "author": "Chappsnet",
+     "license": "CC BY 4.0",
+     "title": "Front of 4th century CE Roman Lycurgus Cup, British Museum (1958,1202.1).jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "science-cosmos",
+    "anomalies"
+   ],
+   "threads": [
+    "ancient-technology",
+    "sacred-vessels",
+    "accidental-discoveries",
+    "out-of-place-artifacts",
+    "classical-world"
+   ]
+  },
+  {
+   "id": "zeno-map",
+   "title": "The Zeno map: a 14th-century Atlantic voyage, or a 16th-century fabrication?",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 1390,
+   "end": null,
+   "dateNote": "Claimed voyage 1390s; published 1558",
+   "statusNote": "Map real; voyage disputed",
+   "evidenceTypes": [
+    "textual",
+    "cartographic"
+   ],
+   "mainstream": "In 1558 the Venetian Nicolò Zeno the Younger published a map and letters that he said he had found in his family's storeroom, describing a voyage made in the 1390s by his ancestors, the brothers Nicolò and Antonio Zeno, across the North Atlantic in the service of a prince named Zichmni. The map shows Iceland, Greenland and several islands that do not exist, including 'Frisland', said to be larger than Ireland, and a land to the west called Estotiland, in roughly the position of Labrador. Widely accepted at the time, the map was copied by leading cartographers including Gerardus Mercator, and its phantom islands appeared on maps for more than a century. The brothers were real Venetian nobles, brothers of the naval hero Carlo Zeno.",
+   "alternatives": [
+    {
+     "label": "A forgery or compilation",
+     "text": "Most modern historians, notably Fred W. Lucas, argue that the younger Zeno compiled the map from existing maps and invented or embellished the voyage, perhaps to claim Venetian priority over Columbus; the many phantom islands are a key argument."
+    },
+    {
+     "label": "Partly genuine",
+     "text": "Some scholars, such as Giorgio Padoan in 1989, argued that parts of the story may be authentic, noting that Nicolò Zeno does not appear in Venetian records for 1396-1400, so he could have been travelling in the north."
+    },
+    {
+     "label": "Henry Sinclair and America",
+     "text": "Writers such as Frederick Pohl identified Zichmni with Henry Sinclair, Earl of Orkney, and proposed that Sinclair reached Nova Scotia nearly a century before Columbus; some link this to carvings at Rosslyn Chapel. Mainstream historians regard this as unsupported speculation."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Voyage of the Zeno brothers",
+     "url": "https://en.wikipedia.org/wiki/Voyage_of_the_Zeno_brothers",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Zeno-map.jpg/500px-Zeno-map.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Zeno-map.jpg",
+     "author": "Unknown",
+     "license": "Public domain",
+     "title": "Zeno-map.jpg"
+    }
+   ],
+   "categories": [
+    "history",
+    "hoaxes",
+    "anomalies"
+   ],
+   "threads": [
+    "hoaxes-exposed",
+    "forged-documents",
+    "phantom-islands",
+    "map-mysteries",
+    "travellers-tales",
+    "who-got-there-first"
+   ]
+  },
+  {
+   "id": "holy-lance",
+   "title": "The Holy Lance: the Spear of Destiny and its rival relics",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 600,
+   "end": null,
+   "dateNote": "Relics from c. 6th century; Vienna lance 7th-8th century",
+   "statusNote": "Relics exist; authenticity disputed",
+   "evidenceTypes": [
+    "physical objects",
+    "textual",
+    "metallurgical analysis"
+   ],
+   "mainstream": "The Gospel of John says a Roman soldier pierced the side of the crucified Jesus with a spear; later tradition named him Longinus. Relics claimed to be this lance appeared in Jerusalem by the 6th century, and by the late Middle Ages several were venerated across Europe. The main surviving ones are in Rome (St Peter's), Vagharshapat (Etchmiadzin) in Armenia, and Vienna, where the lance of the Holy Roman Empire's Imperial Regalia, with a distinctive gold sleeve and an iron pin said to be a nail from the crucifixion, is displayed in the Hofburg treasury. The Kunsthistorisches Museum dates the Vienna lance to the 8th century; in 2003 the metallurgist Robert Feather, testing it for a documentary, dated the blade to the 7th century at the earliest, while saying the pin was consistent in shape and size with a 1st-century Roman nail. Medieval rulers treated such lances as guarantees of victory: Henry the Fowler's lance was credited with winning the Battle of Riade (933), and in 1098 the besieged crusaders at Antioch rallied after Peter Bartholomew claimed a vision led him to a lance buried in a church. After the 1938 annexation of Austria, Hitler had the Imperial Regalia taken to Nuremberg; they were returned to Vienna after the war.",
+   "alternatives": [
+    {
+     "label": "Religious relic",
+     "text": "For believers, the relics are objects of devotion; churches holding them generally do not make strong historical claims about their authenticity."
+    },
+    {
+     "label": "Medieval fabrications",
+     "text": "Historians note that the competing lances cannot all be genuine; the Vienna lance is an early medieval Frankish/Ottonian royal symbol, and the Antioch lance was doubted even by some crusaders at the time."
+    },
+    {
+     "label": "The \"Spear of Destiny\" myth",
+     "text": "Trevor Ravenscroft's 1972 book The Spear of Destiny claimed that whoever held the spear would control the world and that Hitler was obsessed with it. Historians of occultism, such as Joscelyn Godwin, regard the book as historical reinvention; Ravenscroft said his research used \"mystical meditation\". The idea spread widely in popular culture."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Holy Lance",
+     "url": "https://en.wikipedia.org/wiki/Holy_Lance",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: The Spear of Destiny (book)",
+     "url": "https://en.wikipedia.org/wiki/The_Spear_of_Destiny_(book)",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Imperial Regalia of the Holy Roman Empire",
+     "url": "https://en.wikipedia.org/wiki/Imperial_Regalia_of_the_Holy_Roman_Empire",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Heilige_Lanze_Wien_Schatzkammer_1.jpg/500px-Heilige_Lanze_Wien_Schatzkammer_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Heilige_Lanze_Wien_Schatzkammer_1.jpg",
+     "author": "Photo: Andreas Praefcke",
+     "license": "Public domain",
+     "title": "Heilige Lanze Wien Schatzkammer 1.jpg"
+    }
+   ],
+   "categories": [
+    "religion",
+    "history",
+    "myth-legend"
+   ],
+   "threads": [
+    "sacred-relics",
+    "holy-wars",
+    "royal-propaganda",
+    "myths-about-history"
+   ]
+  },
+  {
+   "id": "tecaxic-head",
+   "title": "The Tecaxic-Calixtlahuaca head: a Roman face in an Aztec-era grave?",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": 1510,
+   "end": null,
+   "dateNote": "Burial c. 1476-1510 (debated); excavated 1933; TL test 1995",
+   "statusNote": "Object and TL date confirmed; how it got there disputed",
+   "evidenceTypes": [
+    "archaeological",
+    "thermoluminescence dating",
+    "art-historical"
+   ],
+   "mainstream": "In 1933 the archaeologist José García Payón excavated a burial in the Tecaxic-Calixtlahuaca zone of the Toluca Valley, about 65 km north-west of Mexico City, with grave goods dating from shortly before or shortly after the Spanish conquest (often given as c. 1476-1510). Among them was a small terracotta head of a bearded man that looks Roman in style. In 1995 a thermoluminescence test at Heidelberg gave an age between the 9th century BCE and the mid-13th century CE, ruling out manufacture after the conquest. Romeo Hristov and Santiago Genovés published the case in 1999, arguing the head is genuinely ancient and from a sealed context; the German archaeologist Bernard Andreae described it as Roman work of the 2nd-3rd century CE.",
+   "alternatives": [
+    {
+     "label": "Evidence of pre-Columbian contact",
+     "text": "Hristov and others argue the head could have arrived on a Roman ship blown across the Atlantic, as evidence of transoceanic contact before Columbus."
+    },
+    {
+     "label": "Colonial-era arrival",
+     "text": "Others suggest it was a Roman antique brought by the Spanish soon after 1519 and placed in a grave, since the dating of the burial is uncertain; the archaeologists who did the thermoluminescence test, Schaaf and Wagner, also objected to how their dates had been presented."
+    },
+    {
+     "label": "A hoax",
+     "text": "According to an informal statement by the UNAM archaeologist Paul Schmidt, a participating archaeologist, Hugo Moedano, planted it as a prank on García Payón. This claim is second-hand and cannot be verified; Hristov argues the field notes show no disturbance."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Tecaxic-Calixtlahuaca head",
+     "url": "https://en.wikipedia.org/wiki/Tecaxic-Calixtlahuaca_head",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [],
+   "categories": [
+    "archaeology",
+    "anomalies"
+   ],
+   "threads": [
+    "out-of-place-artifacts",
+    "classical-world",
+    "old-world-inscriptions-in-america",
+    "who-got-there-first"
+   ]
+  },
+  {
+   "id": "eltanin-antenna",
+   "title": "The Eltanin \"antenna\": an alien artefact on the ocean floor?",
+   "lane": "history",
+   "status": "debunked",
+   "priority": 3,
+   "start": 1964,
+   "end": null,
+   "dateNote": "Photographed 29 August 1964",
+   "evidenceTypes": [
+    "photograph",
+    "biological identification"
+   ],
+   "mainstream": "On 29 August 1964 the US research ship USNS Eltanin, photographing the sea floor west of Cape Horn at a depth of 3,904 m, took a picture of an upright object with a central stalk and regular cross-shaped side spokes, resembling a radio antenna. It was first mentioned publicly in the New Zealand Herald on 5 December 1964 under the headline 'Puzzle Picture From Sea Bed'. The New Zealand writer Bruce Cathie and other proponents of UFO and fringe theories suggested it might be an extraterrestrial device, part of a supposed world energy grid. The object has since been identified as a carnivorous deep-sea sponge, Chondrocladia concrescens (formerly Cladorhiza concrescens).",
+   "alternatives": [
+    {
+     "label": "Alien technology",
+     "text": "Cathie argued that its regular geometry and location fitted his theory of a global grid of energy lines, and the photo became a staple of UFO literature in the 1960s-70s."
+    },
+    {
+     "label": "A sponge",
+     "text": "Marine biologists recognised the form as a carnivorous sponge, whose branched, spiky structure traps small animals; such sponges are now well documented from deep-sea photography."
+    },
+    {
+     "label": "Lesson",
+     "text": "The case is often cited as an example of how a lack of familiar reference points in a new environment (here the deep sea) can lead to technological interpretations of natural objects."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Eltanin Antenna",
+     "url": "https://en.wikipedia.org/wiki/Eltanin_Antenna",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Bruce Cathie",
+     "url": "https://en.wikipedia.org/wiki/Bruce_Cathie",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Eltanin_Antenna.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Eltanin_Antenna.jpg",
+     "author": "Unknown",
+     "license": "Public domain",
+     "title": "Eltanin Antenna.jpg"
+    }
+   ],
+   "categories": [
+    "aliens-ufo",
+    "hoaxes",
+    "anomalies",
+    "science-cosmos"
+   ],
+   "threads": [
+    "hoaxes-exposed",
+    "sea-mysteries",
+    "seeing-what-we-expect",
+    "pareidolia",
+    "out-of-place-artifacts"
    ]
   }
  ]
