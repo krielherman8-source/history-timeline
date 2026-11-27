@@ -380,7 +380,8 @@
    ],
    "threads": [
     "changed-understanding",
-    "human-origins"
+    "human-origins",
+    "out-of-africa-waves"
    ]
   },
   {
@@ -498,7 +499,9 @@
     "changed-understanding",
     "human-origins",
     "genetic-migrations",
-    "denisovan-world"
+    "denisovan-world",
+    "out-of-africa-waves",
+    "neanderthal-minds"
    ]
   },
   {
@@ -39470,7 +39473,8 @@
     "archaeology"
    ],
    "threads": [
-    "first-art"
+    "first-art",
+    "venus-figurines"
    ]
   },
   {
@@ -77777,7 +77781,8 @@
    "threads": [
     "changed-understanding",
     "human-origins",
-    "seeing-what-we-expect"
+    "seeing-what-we-expect",
+    "neanderthal-minds"
    ]
   },
   {
@@ -80617,7 +80622,8 @@
     "human-origins",
     "southern-africa",
     "dating-the-past",
-    "cradle-of-humankind"
+    "cradle-of-humankind",
+    "out-of-africa-waves"
    ]
   },
   {
@@ -90184,6 +90190,549 @@
     "nuclear-age",
     "secrets-kept-for-decades",
     "near-misses"
+   ]
+  },
+  {
+   "id": "venus-dolni-vestonice",
+   "title": "The Venus of Dolní Věstonice: the oldest known fired-clay figure, with a child's fingerprint",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -29000,
+   "end": null,
+   "dateNote": "Made c. 31,000-27,000 years ago; found 13 July 1925",
+   "evidenceTypes": [
+    "archaeological",
+    "radiocarbon"
+   ],
+   "mainstream": "A small ceramic statuette of a nude woman, 11.1 cm tall, was found broken in two in a hearth at the mammoth-hunters' camp of Dolní Věstonice in Moravia (Czech Republic) on 13 July 1925. It is dated to about 31,000-27,000 years ago (Gravettian) and, with other figures from nearby sites, is among the oldest known fired ceramic objects in the world, made some 15,000 years or more before pottery vessels appear in the region. It was modelled from local loess mixed with water and fired at a relatively low temperature (500-800 °C). The site also produced clay animals (bears, lions, mammoths, horses, rhinos, owls) and more than 2,000 balls of burnt clay. A tomographic scan in 2004 found the fingerprint of a child, estimated at 7-15 years old, fired into the surface.",
+   "alternatives": [
+    {
+     "label": "Fertility goddess or something else?",
+     "text": "The traditional label \"Venus\" reflects early 20th-century assumptions that such figures were fertility or mother goddesses. Other proposals include self-representations, magic objects, or teaching or initiation figures; the evidence of the makers' intent is limited, so none is established."
+    },
+    {
+     "label": "Clay that was meant to explode?",
+     "text": "Many of the Dolní Věstonice clay figures are cracked in ways consistent with thermal shock. Some researchers have suggested that wet clay figures were deliberately placed in fire to shatter, perhaps as a ritual or divination; others think the cracking was accidental. This remains a hypothesis."
+    },
+    {
+     "label": "Who made it?",
+     "text": "The child's fingerprint shows a child handled the figure before firing, but researchers who studied it consider the child an unlikely maker; it shows the object passed through several hands."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Venus of Dolní Věstonice",
+     "url": "https://en.wikipedia.org/wiki/Venus_of_Doln%C3%AD_V%C4%9Bstonice",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Dolní Věstonice (archaeological site)",
+     "url": "https://en.wikipedia.org/wiki/Doln%C3%AD_V%C4%9Bstonice_(archaeological_site)",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Vestonicka_venuse_edit.jpg/500px-Vestonicka_venuse_edit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Vestonicka_venuse_edit.jpg",
+     "author": "che (Please credit as \"Petr Novák, Wikipedia\" in case you use this outside Wikimedia projects.)guidance: Danny B.",
+     "license": "CC BY-SA 2.5",
+     "title": "Vestonicka venuse edit.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology"
+   ],
+   "threads": [
+    "first-art",
+    "venus-figurines"
+   ]
+  },
+  {
+   "id": "venus-of-willendorf",
+   "title": "The Venus of Willendorf and the stone that crossed the Alps",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -28000,
+   "end": null,
+   "dateNote": "c. 30,000 years ago; found 7 August 1908; stone sourced in 2022",
+   "evidenceTypes": [
+    "archaeological",
+    "petrological"
+   ],
+   "mainstream": "The Venus of Willendorf is an 11.1 cm figurine of a woman carved from oolitic limestone and tinted with red ochre, found on 7 August 1908 by a workman during excavations by Josef Szombathy, Hugo Obermaier and Josef Bayer near Willendorf in Lower Austria. It is associated with the Gravettian culture and estimated from surrounding layers to have been left in the ground about 30,000 years ago. Her face is not shown; the head is covered by bands that may be plaited hair or a headdress. The stone is not local. A 2022 study using micro-CT scans compared the stone with oolite samples from across Europe and concluded that the closest and most likely source is in northern Italy near Lake Garda, on the far side of the Alps, with a less likely match in eastern Ukraine about 1,600 km away. It is in the Natural History Museum in Vienna.",
+   "alternatives": [
+    {
+     "label": "Mother goddess",
+     "text": "A long-standing interpretation is that \"Venus\" figurines across Ice Age Europe represented a fertility or mother goddess. Critics note that this idea was shaped by 19th- and 20th-century assumptions and cannot be tested directly."
+    },
+    {
+     "label": "Self-portrait",
+     "text": "Catherine McCoid and LeRoy McDermott proposed that such figures were made by women looking down at their own bodies, explaining the proportions and lack of a face; others, such as Michael Bisson, criticised this reading."
+    },
+    {
+     "label": "Long-distance movement",
+     "text": "If the Lake Garda source is right, either the stone or the figurine (or its makers) moved hundreds of kilometres across or around the Alps, which supports the view that Gravettian groups were highly mobile and connected across large areas."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Venus of Willendorf",
+     "url": "https://en.wikipedia.org/wiki/Venus_of_Willendorf",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "The microstructure and the origin of the Venus from Willendorf",
+     "authors": "Weber, G. et al.",
+     "year": 2022,
+     "doi": "10.1038/s41598-022-06799-z",
+     "type": "paper"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Venus_von_Willendorf_01.jpg/500px-Venus_von_Willendorf_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Venus_von_Willendorf_01.jpg",
+     "author": "User:MatthiasKabel",
+     "license": "CC BY 2.5",
+     "title": "Venus von Willendorf 01.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology"
+   ],
+   "threads": [
+    "trade-networks",
+    "first-art",
+    "venus-figurines"
+   ]
+  },
+  {
+   "id": "skhul-qafzeh",
+   "title": "Skhul and Qafzeh: early modern humans and the oldest burials in the Levant",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -118000,
+   "end": -88000,
+   "dateNote": "c. 120,000-90,000 years ago; excavated 1931-1935 (Skhul) and 1930s-1970s (Qafzeh)",
+   "evidenceTypes": [
+    "fossil",
+    "archaeological",
+    "dating (TL, ESR, U-series)"
+   ],
+   "mainstream": "Between 1931 and 1935 Theodore McCown excavated the remains of seven adults and three children at Es-Skhul cave on Mount Carmel, part of Dorothy Garrod's excavations; further remains were excavated at Qafzeh near Nazareth from the 1930s and especially the 1960s-70s. First classed in 1939 as 'Palaeoanthropus palestinensis', they are now classified as Homo sapiens, among the earliest of our species in Eurasia, dated to roughly 90,000-120,000 years ago. Several individuals appear to have been deliberately buried, making them among the oldest known burials anywhere. At Qafzeh, marine shells carried from the Mediterranean about 35 km away and lumps of red ochre were found, and perforated Nassarius shells were also recovered at Skhul, suggesting ornaments.",
+   "alternatives": [
+    {
+     "label": "A failed or early wave out of Africa",
+     "text": "Many researchers see Skhul and Qafzeh as an early dispersal of modern humans that did not lead directly to later Eurasian populations; Neanderthals later occupied the region (for example at Kebara and Tabun). Others argue the two groups overlapped or alternated with climatic changes."
+    },
+    {
+     "label": "Mixed features",
+     "text": "Some of the skulls show a mix of modern and archaic traits, and some researchers have suggested contact or interbreeding with Neanderthals; genetics now shows interbreeding happened somewhere, but whether these particular people were involved is unknown."
+    },
+    {
+     "label": "Were they really burials?",
+     "text": "Most researchers accept deliberate burial for several individuals, such as Qafzeh 11, a child buried with deer antlers; a minority has questioned how intentional some of the burials were."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Skhul and Qafzeh hominins",
+     "url": "https://en.wikipedia.org/wiki/Skhul_and_Qafzeh_hominins",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "U-series and ESR analyses of bones and teeth relating to the human burials from Skhul",
+     "authors": "Grün, R. et al.",
+     "year": 2005,
+     "doi": "10.1016/j.jhevol.2005.04.006",
+     "type": "paper"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Skhul_5_cast%2C_norma_frontalis.jpg/500px-Skhul_5_cast%2C_norma_frontalis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Skhul_5_cast,_norma_frontalis.jpg",
+     "author": "Rama",
+     "license": "CC BY-SA 3.0 fr",
+     "title": "Skhul 5 cast, norma frontalis.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "science-cosmos"
+   ],
+   "threads": [
+    "human-origins",
+    "ice-age-burials",
+    "out-of-africa-waves",
+    "neanderthal-minds"
+   ]
+  },
+  {
+   "id": "misliya-jawbone",
+   "title": "The Misliya jawbone: modern humans out of Africa 50,000 years earlier than thought?",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 3,
+   "start": -183000,
+   "end": null,
+   "dateNote": "c. 194,000-177,000 years ago; published January 2018",
+   "evidenceTypes": [
+    "fossil",
+    "dating (U-series, ESR, TL)"
+   ],
+   "mainstream": "In January 2018 a team led by Israel Hershkovitz published a left upper jaw with teeth (Misliya-1) from Misliya Cave on Mount Carmel, Israel. Using several dating methods on the jaw and associated burnt flints, they dated it to between about 177,000 and 194,000 years ago and attributed it to Homo sapiens, found with Levallois stone tools. At the time this made it the oldest known modern human fossil outside Africa, pushing back the first dispersal by at least 50,000 years compared with Skhul and Qafzeh.",
+   "alternatives": [
+    {
+     "label": "Modern human",
+     "text": "The authors argued that the teeth and jaw anatomy fall within the range of Homo sapiens, consistent with genetic studies that suggest early contacts between modern humans and Neanderthals well before 100,000 years ago."
+    },
+    {
+     "label": "Not enough to be sure",
+     "text": "Some palaeoanthropologists noted that a partial jaw alone is limited evidence and that dental features can overlap between hominin groups, so its classification remains debated."
+    },
+    {
+     "label": "Many waves out of Africa",
+     "text": "Together with the Apidima skull in Greece, Misliya is often cited for the view that modern humans left Africa repeatedly, in several waves, many of which did not leave descendants among people living today."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Misliya Cave",
+     "url": "https://en.wikipedia.org/wiki/Misliya_Cave",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "The earliest modern humans outside Africa",
+     "authors": "Hershkovitz, I. et al.",
+     "year": 2018,
+     "doi": "10.1126/science.aap8369",
+     "type": "paper"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Misliya_cave_in_Megadim_Cliff%2C_Mount_Carmel.jpg/500px-Misliya_cave_in_Megadim_Cliff%2C_Mount_Carmel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Misliya_cave_in_Megadim_Cliff,_Mount_Carmel.jpg",
+     "author": "Hanay",
+     "license": "CC BY 3.0",
+     "title": "Misliya cave in Megadim Cliff, Mount Carmel.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "science-cosmos"
+   ],
+   "threads": [
+    "changed-understanding",
+    "human-origins",
+    "dating-the-past",
+    "out-of-africa-waves"
+   ]
+  },
+  {
+   "id": "apidima-skull",
+   "title": "Apidima 1: a 210,000-year-old modern human in Greece?",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 3,
+   "start": -208000,
+   "end": null,
+   "dateNote": "Apidima 1 dated >210,000 years ago; found 1978; published 2019",
+   "evidenceTypes": [
+    "fossil",
+    "dating (uranium-thorium)",
+    "CT reconstruction"
+   ],
+   "mainstream": "Two partial skulls were found embedded in breccia in Apidima Cave on the Mani peninsula of southern Greece in 1978. In July 2019 a team led by Katerina Harvati published CT reconstructions and uranium-thorium dates: Apidima 2, with a heavy continuous brow ridge, was identified as Neanderthal-like and dated to more than 170,000 years ago; Apidima 1, the back of a skull, was dated to more than 210,000 years ago and identified as an early Homo sapiens because of its rounded rear profile. If correct, it is the oldest modern human fossil outside Africa and more than 150,000 years older than other Homo sapiens finds in Europe.",
+   "alternatives": [
+    {
+     "label": "Earliest Homo sapiens in Eurasia",
+     "text": "Harvati and colleagues argued that a group of early modern humans reached south-east Europe and was later replaced by Neanderthals, matching the idea of several failed dispersals out of Africa."
+    },
+    {
+     "label": "Not a modern human",
+     "text": "Other researchers argued that a partial skull vault without a face is not enough to classify it, questioned whether the two skulls are really of different ages, and in 2020 a team led by Henry de Lumley attributed both skulls to evolved European Homo erectus/early Neanderthal-related populations."
+    },
+    {
+     "label": "Wider implications",
+     "text": "Supporters see the find as consistent with genetic evidence for an early exchange of genes from modern humans into Neanderthals; sceptics see the conclusion as resting on a single, incomplete fossil."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Apidima Cave",
+     "url": "https://en.wikipedia.org/wiki/Apidima_Cave",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Apidima Cave fossils provide earliest evidence of Homo sapiens in Eurasia",
+     "authors": "Harvati, K. et al.",
+     "year": 2019,
+     "doi": "10.1038/s41586-019-1376-z",
+     "type": "paper"
+    }
+   ],
+   "media": [],
+   "categories": [
+    "archaeology",
+    "science-cosmos"
+   ],
+   "threads": [
+    "changed-understanding",
+    "human-origins",
+    "dating-the-past",
+    "out-of-africa-waves"
+   ]
+  },
+  {
+   "id": "cerutti-mastodon",
+   "title": "The Cerutti Mastodon: humans in California 130,000 years ago?",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 2,
+   "start": -128700,
+   "end": null,
+   "dateNote": "Bones dated c. 130,700 years ago; found 1992; published 2017",
+   "evidenceTypes": [
+    "palaeontological",
+    "archaeological (claimed)",
+    "dating (uranium-thorium)"
+   ],
+   "mainstream": "During freeway works on State Route 54 in San Diego County in 1992, palaeontologist Richard Cerutti found mastodon remains, excavated by the San Diego Natural History Museum in 1992-1993. In 2017 a team led by Steven Holen and Thomas Deméré published in Nature that the bones, dated by uranium-thorium to about 130,700 (±9,400) years ago, had been broken while fresh with spiral fractures, and were lying with five cobbles bearing use-wear and impact marks that they interpreted as hammerstones and anvils. They concluded that an unknown kind of human was processing mastodon bones in California. Mainstream dating for people in the Americas is generally around 20,000-26,000 years ago at most (for example the White Sands footprints).",
+   "alternatives": [
+    {
+     "label": "Earliest Americans",
+     "text": "The authors argued that the bone breakage pattern, the placement of the cobbles in otherwise fine-grained sediments and experiments breaking elephant bones all point to human activity, implying that some form of Homo, possibly not Homo sapiens, reached the Americas far earlier than any accepted site."
+    },
+    {
+     "label": "Natural or modern breakage",
+     "text": "Many archaeologists responded with scepticism: critics argued that natural processes could break bones and move cobbles, noted the absence of sharp stone flakes and other debris typical of tool use, and asked whether the heavy machinery working at the site could have contributed. As Chris Stringer put it, \"extraordinary claims require extraordinary evidence\"."
+    },
+    {
+     "label": "Unknown visitors",
+     "text": "Some popular writers connect Cerutti to ideas of lost early migrations, including by Denisovans or other archaic humans crossing Beringia; this is speculative and no human remains were found at the site."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Cerutti Mastodon site",
+     "url": "https://en.wikipedia.org/wiki/Cerutti_Mastodon_site",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "A 130,000-year-old archaeological site in southern California, USA",
+     "authors": "Holen, S. et al.",
+     "year": 2017,
+     "doi": "10.1038/nature22065",
+     "type": "paper"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Cerutti_mastodon_tusk_-_full.jpg/500px-Cerutti_mastodon_tusk_-_full.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Cerutti_mastodon_tusk_-_full.jpg",
+     "author": "Blervis",
+     "license": "CC0",
+     "title": "Cerutti mastodon tusk - full.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "anomalies"
+   ],
+   "threads": [
+    "changed-understanding",
+    "first-americans",
+    "fringe-theories",
+    "dating-the-past",
+    "who-got-there-first"
+   ]
+  },
+  {
+   "id": "cosquer-cave",
+   "title": "Cosquer Cave: Ice Age paintings behind an underwater entrance",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -25000,
+   "end": -17000,
+   "dateNote": "Art c. 27,000 and c. 19,000 years ago; entrance found 1985; art found 1991",
+   "evidenceTypes": [
+    "archaeological",
+    "radiocarbon",
+    "sea-level evidence"
+   ],
+   "mainstream": "In 1985 the professional diver Henri Cosquer found a submerged entrance in the Calanque de Morgiou near Marseille. It leads through a 175 m tunnel, starting 37 m below sea level, to dry chambers. In July 1991 Cosquer and fellow divers noticed a hand stencil on the wall, and the cave turned out to be filled with Palaeolithic art; it was made public after three divers from Grenoble became lost in the tunnel and died on 1 September 1991. The art falls into two main phases: about 27,000 years ago (Gravettian), including 65 hand stencils, some with apparently missing fingers, and about 19,000 years ago (Solutrean), with animals including horses, ibex, bison and, unusually, 16 marine animals such as seals, great auks and possible jellyfish. When it was painted, sea level was far lower and the coast lay several kilometres away. Rising seas have since flooded much of the cave. A full-size replica, Cosquer Méditerranée, opened in Marseille in 2022.",
+   "alternatives": [
+    {
+     "label": "Missing fingers",
+     "text": "Hand stencils with apparently missing fingers (also seen at Gargas) have been explained as a sign language or hunting signals made by folding fingers, as ritual or frostbite amputation, or as deliberate artistic convention; it is not known which, if any, is right."
+    },
+    {
+     "label": "Doubts at first",
+     "text": "When announced, some suspected a hoax because the art was so well preserved and the entrance so unusual; radiocarbon dating of the paintings settled their age, and today their authenticity is accepted."
+    },
+    {
+     "label": "A drowned landscape",
+     "text": "The cave is a direct record of how much of the Ice Age coast, where many people probably lived, is now under the sea; the art itself is threatened as sea level continues to rise. Some alternative writers use such cases to argue that whole coastal civilisations may lie unrecorded under the sea; the cave shows that sites do lie underwater, but contains no evidence of anything beyond Palaeolithic hunter-gatherers."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Cosquer Cave",
+     "url": "https://en.wikipedia.org/wiki/Cosquer_Cave",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Panneau_des_chevaux_-_Cosquer_M%C3%A9diterran%C3%A9e.jpg/500px-Panneau_des_chevaux_-_Cosquer_M%C3%A9diterran%C3%A9e.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Panneau_des_chevaux_-_Cosquer_M%C3%A9diterran%C3%A9e.jpg",
+     "author": "Kleber Rossillon & Région Provence-Alpes-Côte d’Azur / Sources 3D MC",
+     "license": "CC BY-SA 4.0",
+     "title": "Panneau des chevaux - Cosquer Méditerranée.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "catastrophes"
+   ],
+   "threads": [
+    "vanished-landscapes",
+    "first-art"
+   ]
+  },
+  {
+   "id": "teshik-tash",
+   "title": "Teshik-Tash: a Neanderthal child ringed by ibex horns?",
+   "lane": "history",
+   "status": "disputed",
+   "priority": 3,
+   "start": -68000,
+   "end": null,
+   "dateNote": "Middle Palaeolithic (often given as c. 70,000 years ago); excavated 1938",
+   "evidenceTypes": [
+    "fossil",
+    "archaeological",
+    "ancient DNA"
+   ],
+   "mainstream": "In 1938 the Soviet archaeologist Alexey Okladnikov excavated Teshik-Tash cave in the Baysuntau mountains of Uzbekistan and found the skull and bones of a child aged about 8-11, with Mousterian stone tools. He reported that five pairs of Siberian ibex horn cores had been placed around the child's head in a shallow pit, and the find was widely presented as a Neanderthal ritual burial. The skull was reconstructed from about 150 fragments, and the child is classed as a Neanderthal. In 2007 ancient DNA from the bones showed a Neanderthal mitochondrial sequence, extending the known range of Neanderthals about 2,000 km further east into Central Asia (and, with another sample, into Siberia). The age is commonly given as Middle Palaeolithic, perhaps about 70,000 years ago, but is poorly constrained.",
+   "alternatives": [
+    {
+     "label": "Ritual burial",
+     "text": "Several researchers have taken the horn ring as evidence that Neanderthals buried their dead with symbolic acts, alongside other claimed Neanderthal burials such as Shanidar and La Chapelle-aux-Saints."
+    },
+    {
+     "label": "No burial at all",
+     "text": "Others point out that the cave contained 761 ibex bones and that the excavation was poorly published. Paul Mellars questioned whether the horns were deliberately placed, and Robert Gargett argued it was not a burial at all."
+    },
+    {
+     "label": "Wider debate",
+     "text": "Teshik-Tash is part of the long debate over whether Neanderthals had symbolic behaviour; newer finds such as Shanidar Z (2018) have shifted many researchers towards accepting some deliberate burial, but this case itself remains uncertain."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Teshik-Tash 1",
+     "url": "https://en.wikipedia.org/wiki/Teshik-Tash_1",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Neanderthals in central Asia and Siberia",
+     "authors": "Krause, J. et al.",
+     "year": 2007,
+     "doi": "10.1038/nature06193",
+     "type": "paper"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Skull_of_Teshik-Tash_Boy.jpg/500px-Skull_of_Teshik-Tash_Boy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Skull_of_Teshik-Tash_Boy.jpg",
+     "author": "Stanislav Kozlovskiy",
+     "license": "CC BY 3.0",
+     "title": "Skull of Teshik-Tash Boy.jpg"
+    }
+   ],
+   "categories": [
+    "archaeology",
+    "science-cosmos"
+   ],
+   "threads": [
+    "human-origins",
+    "genetic-migrations",
+    "ice-age-burials",
+    "neanderthal-minds"
+   ]
+  },
+  {
+   "id": "anzick-child",
+   "title": "Anzick-1: the only Clovis burial, and a genome that answered an old question",
+   "lane": "history",
+   "status": "confirmed",
+   "priority": 2,
+   "start": -10950,
+   "end": null,
+   "dateNote": "c. 12,990-12,840 years ago; found 1968; genome 2014; reburied 28 June 2014",
+   "evidenceTypes": [
+    "archaeological",
+    "radiocarbon",
+    "ancient DNA"
+   ],
+   "mainstream": "In 1968 construction workers Ben Hargis and Calvin Sarver found the remains of a child aged 1-2, covered in red ochre, with more than 115 stone and antler tools, on the Anzick family's land near Wilsall, Montana. Dated to about 12,990-12,840 years ago, it is the only known human burial associated with the Clovis culture, whose distinctive spear points were long thought to mark the first Americans. In 2014 the child's genome, the first complete ancient Native American genome, was published. It showed ancestry from Siberia-derived populations and a direct relationship to many present-day Native Americans, especially in Central and South America. After consultation with tribes in Montana, the child was reburied in an intertribal ceremony on 28 June 2014; the artefacts are curated by the Montana Historical Society.",
+   "alternatives": [
+    {
+     "label": "Answer to the \"Solutrean hypothesis\"",
+     "text": "Dennis Stanford and Bruce Bradley had proposed that Clovis technology came from Ice Age Europeans crossing the Atlantic. The Anzick genome showed no such European ancestry and a close link to Native Americans, and most researchers regard it as strong evidence against that hypothesis; its proponents argue a single individual cannot settle the question."
+    },
+    {
+     "label": "Ethics of ancient DNA",
+     "text": "Because the remains were on private land, US federal repatriation law did not apply, and some Native American community members objected that they had not been consulted before the genome was studied. The case led to closer collaboration between geneticists and tribes, and the reburial was carried out jointly."
+    },
+    {
+     "label": "Clovis not first",
+     "text": "Clovis is no longer considered the first culture in the Americas; sites such as Monte Verde and the White Sands footprints are older. Anzick-1 nevertheless shows that Clovis people were ancestors of many later Native Americans."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Anzick-1",
+     "url": "https://en.wikipedia.org/wiki/Anzick-1",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "The genome of a Late Pleistocene human from a Clovis burial site in western Montana",
+     "authors": "Rasmussen, M. et al.",
+     "year": 2014,
+     "doi": "10.1038/nature13025",
+     "type": "paper"
+    }
+   ],
+   "media": [],
+   "categories": [
+    "archaeology",
+    "history",
+    "science-cosmos"
+   ],
+   "threads": [
+    "changed-understanding",
+    "genetic-migrations",
+    "first-americans",
+    "ice-age-burials",
+    "repatriation-debates",
+    "who-got-there-first"
    ]
   }
  ]
