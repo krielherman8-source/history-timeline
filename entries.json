@@ -4306,7 +4306,8 @@
     "anomalies"
    ],
    "threads": [
-    "cryptids"
+    "cryptids",
+    "wild-people-of-the-woods"
    ]
   },
   {
@@ -7488,7 +7489,8 @@
     "ocean-voyagers",
     "origin-of-death",
     "fire-thieves",
-    "trickster-tales"
+    "trickster-tales",
+    "culture-theft"
    ]
   },
   {
@@ -7719,7 +7721,8 @@
    "threads": [
     "flood-myths",
     "creation-myths",
-    "chinese-worlds"
+    "chinese-worlds",
+    "clay-made-humans"
    ]
   },
   {
@@ -14267,7 +14270,8 @@
     "anomalies"
    ],
    "threads": [
-    "cryptids"
+    "cryptids",
+    "wild-people-of-the-woods"
    ]
   },
   {
@@ -51962,7 +51966,8 @@
     "religion"
    ],
    "threads": [
-    "automata-and-robots"
+    "automata-and-robots",
+    "clay-made-humans"
    ]
   },
   {
@@ -56739,7 +56744,9 @@
     "mastering-fire",
     "caucasus-crossroads",
     "classical-world",
-    "fire-thieves"
+    "fire-thieves",
+    "clay-made-humans",
+    "culture-theft"
    ]
   },
   {
@@ -91266,6 +91273,514 @@
     "origins-of-writing",
     "balkan-crossroads",
     "contested-texts"
+   ]
+  },
+  {
+   "id": "obatala-palm-wine",
+   "title": "Obatala: the creator who got drunk and vowed to protect the disabled",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": 1000,
+   "end": null,
+   "dateNote": "Undated oral tradition; Ife flourished c. 1000-1400 CE",
+   "evidenceTypes": [
+    "oral tradition",
+    "religious practice"
+   ],
+   "mainstream": "In Yoruba religion Obatala ('King of White Cloth'), also called Orisanla ('the great orisha'), is the senior orisha, charged by the supreme god Olodumare with creating the earth and human beings. In a widely told version he descended from the sky on a gold chain with a snail shell full of sand, a white hen, a black cat and a palm nut; the hen scattered the sand over the primordial water to make land. In some versions Obatala became drunk on palm wine, tempted by the trickster Eshu, and his younger brother Oduduwa completed the creation of the land instead; Obatala was then given the task of moulding human bodies from clay, into which Olorun breathed life. Drunk, he made some people with deformities; when sober, he vowed never to drink again and to protect people with disabilities. His worshippers wear white and his followers traditionally avoid palm wine. Ife oral traditions also remember a contest for the throne of Ife between Obatala and Oduduwa.",
+   "alternatives": [
+    {
+     "label": "Religious meaning",
+     "text": "For practitioners, Obatala is a living deity of purity, calm and creation, honoured in Nigeria and in diaspora religions such as Candomblé (as Oxalá) and Santería/Lucumí (as Obatalá)."
+    },
+    {
+     "label": "Myth as history",
+     "text": "Some historians read the rivalry between Obatala and Oduduwa as a memory of a real political struggle at Ife between an earlier population and newcomers who founded a new dynasty, an interpretation that is plausible but cannot be confirmed from written records."
+    },
+    {
+     "label": "Cross-cultural pattern",
+     "text": "Creators who shape humans from clay appear in many traditions (Khnum in Egypt, Prometheus in Greece, Nüwa in China, Genesis); Obatala's story is unusual in explaining disability as the result of the creator's mistake and in giving disabled people his special protection."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Ọbatala",
+     "url": "https://en.wikipedia.org/wiki/%E1%BB%8Cbatala",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Oxal%C3%A1.jpg/500px-Oxal%C3%A1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Oxal%C3%A1.jpg",
+     "author": "Isha",
+     "license": "CC BY 3.0",
+     "title": "Oxalá.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion"
+   ],
+   "threads": [
+    "creation-myths",
+    "yoruba-worlds",
+    "trickster-tales",
+    "clay-made-humans"
+   ]
+  },
+  {
+   "id": "taino-zemis-guabancex",
+   "title": "Taíno zemis and Guabancex, the storm goddess whose name gave us \"hurricane\"?",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 2,
+   "start": 1000,
+   "end": null,
+   "dateNote": "Taíno culture c. 1000-1500 CE; recorded by Ramón Pané in the 1490s",
+   "evidenceTypes": [
+    "archaeological",
+    "textual (colonial)",
+    "linguistic"
+   ],
+   "mainstream": "Among the Taíno and other Indigenous peoples of the Caribbean, a zemi (cemí) was a spirit, deity or ancestor and also the object, of stone, wood, bone, shell or cotton, that housed it. The characteristic Taíno form is the three-pointed stone zemi. Spanish sources, especially the friar Ramón Pané, who lived among the Taíno on Hispaniola at Columbus's request and wrote an account of their beliefs in the 1490s, describe zemis consulted in rituals using the hallucinogenic snuff cohoba. Among the spirits were the mother goddess Atabey, associated with fresh water, the moon and childbirth, and Guabancex, a violent storm goddess who, with her helpers, gathered wind and water and hurled them against settlements. She was often depicted as a head with two arms curved in opposite directions. The Spanish word huracán, the source of English 'hurricane', came from a Taíno word for these storms.",
+   "alternatives": [
+    {
+     "label": "Early knowledge of cyclones",
+     "text": "The Cuban anthropologist Fernando Ortiz (in his 1947 book El huracán) and others have argued that the curved-arm images show the Taíno understood the rotating, spiral structure of hurricanes, centuries before European meteorologists described it; others caution that spiral motifs are common in art and the interpretation cannot be proven."
+    },
+    {
+     "label": "Colonial filter",
+     "text": "Most of what is known about Taíno beliefs comes from Spanish writers such as Pané, who were trying to convert the Taíno; scholars debate how much was misunderstood or reshaped."
+    },
+    {
+     "label": "Living tradition",
+     "text": "The Taíno were long described as extinct after the Spanish conquest, but genetic studies and present-day communities show Taíno ancestry and cultural survival, and some groups today revive zemi traditions; how continuous these traditions are is debated."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Zemi",
+     "url": "https://en.wikipedia.org/wiki/Zemi",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Guabancex",
+     "url": "https://en.wikipedia.org/wiki/Guabancex",
+     "type": "encyclopedia"
+    },
+    {
+     "title": "Wikipedia: Atabey (goddess)",
+     "url": "https://en.wikipedia.org/wiki/Atabey_(goddess)",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Deity_Figure_%28Zem%C3%AD%29_MET_DP295635.jpg/500px-Deity_Figure_%28Zem%C3%AD%29_MET_DP295635.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Deity_Figure_(Zem%C3%AD)_MET_DP295635.jpg",
+     "author": "Unknown",
+     "license": "CC0",
+     "title": "Deity Figure (Zemí) MET DP295635.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion",
+    "catastrophes"
+   ],
+   "threads": [
+    "altered-states",
+    "storms-that-changed-history",
+    "caribbean-worlds",
+    "storm-raisers"
+   ]
+  },
+  {
+   "id": "tupilaq",
+   "title": "The tupilaq: Greenland's made-to-order avenging monster",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 3,
+   "start": 1300,
+   "end": null,
+   "dateNote": "Undated Inuit tradition; carvings made for Europeans from the 19th century",
+   "evidenceTypes": [
+    "oral tradition",
+    "ethnographic",
+    "art objects"
+   ],
+   "mainstream": "In Inuit tradition, especially in Greenland, a tupilaq (plural tupilait) was a monster made in secret by an angakkuq (shaman) or sorcerer from animal parts such as bone, skin, hair and sinew, sometimes said to include the remains of children, and brought to life by chants. It was released into the sea to hunt and kill a specific enemy. Making one was risky: if the target had stronger magic, the tupilaq could be turned back to kill its maker, who could only escape by publicly confessing. Because tupilait were made in secret from perishable materials, none survive. European visitors wanted to see what they looked like, so Greenlanders began carving representations from sperm-whale teeth, later from narwhal and walrus ivory, antler and wood; these carvings are now a prized form of Greenlandic art.",
+   "alternatives": [
+    {
+     "label": "Social function",
+     "text": "Anthropologists interpret beliefs in sent monsters and sorcery as ways of explaining sudden deaths and of discouraging secret hostility, since public confession was the cure."
+    },
+    {
+     "label": "Art created by outsiders' curiosity",
+     "text": "The tupilaq figure is an example of a tradition whose visible form was created largely in response to European demand; the carvings are authentic Inuit art but not copies of ritual objects."
+    },
+    {
+     "label": "Cross-cultural pattern",
+     "text": "Artificial creatures animated by magic to serve a maker, and which can turn against the maker, also appear in the Jewish golem legends and in some European witchcraft lore."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Tupilaq",
+     "url": "https://en.wikipedia.org/wiki/Tupilaq",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Tupilak_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Tupilak_1.jpg",
+     "author": "Ansgar Walk",
+     "license": "CC BY-SA 3.0",
+     "title": "Tupilak 1.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend"
+   ],
+   "threads": [
+    "arctic-peoples",
+    "clay-made-humans"
+   ]
+  },
+  {
+   "id": "sisiutl",
+   "title": "The sisiutl: the two-headed serpent of the Pacific Northwest",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 3,
+   "start": 1500,
+   "end": null,
+   "dateNote": "Undated oral tradition; recorded by ethnographers from the late 19th century",
+   "evidenceTypes": [
+    "oral tradition",
+    "art objects",
+    "ceremonial practice"
+   ],
+   "mainstream": "The sisiutl is a supernatural double-headed sea serpent in the traditions of many Indigenous peoples of the Pacific Northwest Coast of North America, especially the Kwakwaka'wakw. It is usually shown with a serpent head at each end of its body and often a human or supernatural face in the centre. It is closely associated with shamans and warriors, as a mediator between the natural and supernatural worlds; in some accounts it can change into a canoe or another animal, and in one myth it carries a woman back from a spirit realm. According to traditions recorded by ethnographers, shamans believed killing a sisiutl would transfer its healing power, and warriors believed its blood made them invincible. Its image appears on masks, house fronts, canoes and ceremonial belts, and it features in dances.",
+   "alternatives": [
+    {
+     "label": "Cross-cultural pattern",
+     "text": "Double-headed serpents occur in many unconnected cultures, for example the Aztec turquoise double-headed serpent, Chinese and Mesoamerican sky-serpents and the Andean amaru; comparative mythologists debate whether this reflects shared ancient ideas, similar natural models (rainbows, lightning, two-headed snakes) or independent invention."
+    },
+    {
+     "label": "Cryptid readings",
+     "text": "Some cryptozoology writers have linked sea-serpent figures such as the sisiutl to reported sightings of unknown marine animals along the coast (such as the \"Cadborosaurus\"); there is no physical evidence for such animals, and scholars treat the sisiutl as a spiritual being rather than a description of a real species."
+    },
+    {
+     "label": "Living tradition",
+     "text": "The sisiutl remains a central figure in Kwakwaka'wakw art and ceremony, which survived the Canadian government's 1884-1951 ban on the potlatch."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Sisiutl",
+     "url": "https://en.wikipedia.org/wiki/Sisiutl",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Sisiutl_mask.jpg/500px-Sisiutl_mask.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Sisiutl_mask.jpg",
+     "author": "Kabuto 7 at English Wikipedia",
+     "license": "Public domain",
+     "title": "Sisiutl mask.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend"
+   ],
+   "threads": [
+    "cryptids",
+    "serpent-beings",
+    "pacific-northwest"
+   ]
+  },
+  {
+   "id": "dzunukwa",
+   "title": "Dzunukwa: the wild woman of the woods who steals children and gives wealth",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 3,
+   "start": 1500,
+   "end": null,
+   "dateNote": "Undated oral tradition; recorded from the late 19th century",
+   "evidenceTypes": [
+    "oral tradition",
+    "art objects",
+    "ceremonial practice"
+   ],
+   "mainstream": "Dzunukwa (Tsonoqua), the 'Basket Ogress', is a giant wild woman of the forest in Kwakwaka'wakw and Nuu-chah-nulth tradition. She is feared by children as an ogress who carries them off in a basket on her back to eat, and is often described as dim-sighted or sleepy, so that children can escape. But she also possesses great wealth, and those who gain control of her child may receive it. In masks and on totem poles she is shown with dark hair, sunken eyes and red, pursed lips, because she calls 'Hu!'; children were told that the sound of wind in the cedars was her call. Some stories give her the power to regenerate wounds and return from death. At the end of a Kwakwaka'wakw potlatch the host chief may appear wearing a Dzunukwa mask, a sign of wealth to be given away.",
+   "alternatives": [
+    {
+     "label": "Bigfoot link",
+     "text": "Some writers on Sasquatch (Bigfoot) cite Dzunukwa as an Indigenous record of a real wild hairy giant; scholars of the cultures concerned stress that she is a complex spiritual and social figure, and the link to a living animal is speculative."
+    },
+    {
+     "label": "Teaching story",
+     "text": "Like many child-stealing ogres (the Baba Yaga of Slavic folklore, the bogeyman), she warns children not to wander, while her wealth reflects the importance of chiefly generosity in potlatch societies."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Dzunukwa",
+     "url": "https://en.wikipedia.org/wiki/Dzunukwa",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Face_of_Dzunuk%27wa_%28UBC-2009%29.jpg/500px-Face_of_Dzunuk%27wa_%28UBC-2009%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Face_of_Dzunuk%27wa_(UBC-2009).jpg",
+     "author": "Leoboudv",
+     "license": "CC BY-SA 3.0",
+     "title": "Face of Dzunuk'wa (UBC-2009).jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend"
+   ],
+   "threads": [
+    "cryptids",
+    "giants-and-little-people",
+    "pacific-northwest",
+    "wild-people-of-the-woods"
+   ]
+  },
+  {
+   "id": "korpokkur",
+   "title": "Korpokkur: the little people the Ainu said lived on Hokkaido before them",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 3,
+   "start": 1300,
+   "end": null,
+   "dateNote": "Undated Ainu tradition; academic debate late 19th-early 20th century",
+   "evidenceTypes": [
+    "oral tradition",
+    "archaeological (contested)"
+   ],
+   "mainstream": "In Ainu folklore of Hokkaido and nearby islands, the Korpokkur (Koropokkuru, 'people under the butterbur leaves') were small, agile people, skilled at fishing, who lived in pits roofed with butterbur leaves before the Ainu came. They traded game and goods with the Ainu at night, since they hated being seen. When a young Ainu man grabbed one by the hand to see her, she turned out to be a beautiful woman, and the offended Korpokkur left and were never seen again. The Ainu said their pits, pottery and stone tools still lay scattered across the land. In the late 19th century the Japanese anthropologist Tsuboi Shōgorō and the British traveller Arnold Henry Savage Landor argued that the legend preserved a memory of a real earlier population displaced by the Ainu, sparking a long debate.",
+   "alternatives": [
+    {
+     "label": "Memory of an earlier people",
+     "text": "Tsuboi and others thought the pit dwellings and pottery of Hokkaido belonged to a vanished pre-Ainu people. Today these remains are mainly attributed to the Jōmon and later cultures from which the Ainu themselves partly descend."
+    },
+    {
+     "label": "Ainu built the pits",
+     "text": "Critics such as John Batchelor and, later, Alexander Akulov pointed out that Ainu also built pit dwellings in the Kuril Islands and Sakhalin, so the remains did not require a separate people."
+    },
+    {
+     "label": "Cross-cultural pattern",
+     "text": "Stories of small, shy earlier inhabitants who vanish when offended occur widely, for example the Menehune of Hawaii, the Ebu Gogo of Flores, the Irish fairies and the Nunnehi of the Cherokee. Some see these as memories of earlier populations; others as a universal way of explaining old ruins and objects in the landscape."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Korpokkur",
+     "url": "https://en.wikipedia.org/wiki/Korpokkur",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Koro-pok-guru_photo_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Koro-pok-guru_photo_01.jpg",
+     "author": "Stray Sloth",
+     "license": "CC BY-SA 3.0",
+     "title": "Koro-pok-guru photo 01.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "lost-civilisations"
+   ],
+   "threads": [
+    "giants-and-little-people",
+    "hidden-peoples",
+    "myths-about-history",
+    "japanese-worlds"
+   ]
+  },
+  {
+   "id": "saule-baltic-sun",
+   "title": "Saulė: the Baltic Sun goddess, her unfaithful husband the Moon, and the thunder god's punishment",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 3,
+   "start": 1000,
+   "end": null,
+   "dateNote": "Pre-Christian belief, recorded mainly from the 16th-19th centuries",
+   "evidenceTypes": [
+    "oral tradition (folk songs)",
+    "linguistic",
+    "textual"
+   ],
+   "mainstream": "Saulė (Lithuanian) or Saule (Latvian) is the Sun goddess of Baltic mythology, whose name is also the ordinary word for the sun and comes from the Proto-Baltic *Saulē, related to other Indo-European sun words. Many Lithuanian and Latvian folk songs (Latvian dainas) describe her riding across the sky in a chariot or sailing a boat at night. In a widespread myth Saulė and the Moon (Mėnuo / Mēness) were husband and wife, but the Moon fell in love with Aušrinė, the morning star (Venus); the thunder god Perkūnas punished him, in some songs by cutting him with a sword, which explains the phases of the Moon. In another version the Sun and Moon divorced but both wanted to see their daughter Žemyna, the Earth, so the Sun shines by day and the Moon by night. The Baltic peoples were among the last in Europe to be Christianised: Lithuania officially converted in 1387, and folk beliefs persisted much longer.",
+   "alternatives": [
+    {
+     "label": "Ancient Indo-European heritage",
+     "text": "Linguists and mythologists (for example in comparative work on the \"divine twins\" and the sun maiden) see Baltic myths as preserving very old Indo-European themes, partly because of the late Christianisation and the conservative Baltic languages."
+    },
+    {
+     "label": "Later folk layers",
+     "text": "Others caution that most Baltic myths were recorded from the 16th to 19th centuries as folk songs and could have been reshaped by Christian influence and by 19th-century national romanticism."
+    },
+    {
+     "label": "Cross-cultural pattern",
+     "text": "Myths explaining why the sun and moon are separated, often through a quarrel, adultery or divorce between them, also occur in Inuit (Malina and Anningan), Australian Aboriginal and many other traditions."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Saulė",
+     "url": "https://en.wikipedia.org/wiki/Saul%C4%97",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Apeigin%C4%97_saul%C4%97.png/500px-Apeigin%C4%97_saul%C4%97.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Apeigin%C4%97_saul%C4%97.png",
+     "author": "Original image: Turaids. Computer processing: Лобачев Владимир",
+     "license": "Public domain",
+     "title": "Apeiginė saulė.png"
+    }
+   ],
+   "categories": [
+    "myth-legend",
+    "religion"
+   ],
+   "threads": [
+    "sun-cults",
+    "moon-myths",
+    "thunder-gods",
+    "last-pagan-sanctuaries"
+   ]
+  },
+  {
+   "id": "basajaun",
+   "title": "Basajaun: the hairy Lord of the Forest from whom humans stole their skills",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 3,
+   "start": 1000,
+   "end": null,
+   "dateNote": "Undated oral tradition, recorded mainly in the 19th-20th centuries",
+   "evidenceTypes": [
+    "oral tradition"
+   ],
+   "mainstream": "In Basque mythology Basajaun ('lord of the forest'; female basandere) is a huge, hairy wild man of the woods and mountains. He protects flocks of sheep from wolves and storms, giving a howling cry in the mountains to warn shepherds when danger is near. In some tales he was the world's first blacksmith and miller, from whom humans stole the secrets of making the saw, the mill axle and welding. In other versions the trickster San Martin Txiki tricked the basajaunak out of these skills and of wheat seed, then taught them to humans. Stories also tell of shepherds outwitting a Basajaun, for example by telling him three truths.",
+   "alternatives": [
+    {
+     "label": "A wild-man figure",
+     "text": "Folklorists place Basajaun among the European \"wild man\" figures (such as the Woodwose), which personify untamed nature and the boundary between farmland and forest."
+    },
+    {
+     "label": "Memory of other humans?",
+     "text": "Some cryptozoology and alternative writers have suggested Basajaun and similar hairy wild men preserve a memory of Neanderthals or another surviving hominin, especially given the deep prehistory of the Basque region; this is speculative and there is no evidence of Neanderthals surviving into historical times."
+    },
+    {
+     "label": "Cross-cultural pattern",
+     "text": "Myths in which humans obtain technology or crops by stealing them from a non-human owner are found worldwide, from Prometheus stealing fire to Polynesian Maui; Basajaun stories are a Basque example of the \"culture-theft\" pattern."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Basajaun",
+     "url": "https://en.wikipedia.org/wiki/Basajaun",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Basajaun.jpg/500px-Basajaun.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Basajaun.jpg",
+     "author": "Morburre",
+     "license": "CC BY-SA 3.0",
+     "title": "Basajaun.jpg"
+    }
+   ],
+   "categories": [
+    "myth-legend"
+   ],
+   "threads": [
+    "cryptids",
+    "fire-thieves",
+    "trickster-tales",
+    "spirits-of-house-and-forest",
+    "wild-people-of-the-woods",
+    "culture-theft"
+   ]
+  },
+  {
+   "id": "pombero",
+   "title": "The Pombero: the hairy-footed lord of the night of Guaraní folklore",
+   "lane": "myth",
+   "status": "myth-legend",
+   "priority": 3,
+   "start": 1600,
+   "end": null,
+   "dateNote": "Undated Guaraní and criollo folklore; recorded from colonial times",
+   "evidenceTypes": [
+    "oral tradition"
+   ],
+   "mainstream": "The Pombero (Pomberito, also called Pyrague, 'hairy feet', and Karai Pyhare, 'lord of the night') is a small, hairy, mostly nocturnal humanoid in the folklore of Paraguay, north-east Argentina (Misiones) and southern Brazil, including among the Mbyá Guaraní. He is said to announce himself by whistling, so many people avoid whistling at night. He is blamed for setting cattle loose, stealing eggs, chickens and honey, frightening horses so that they throw their riders, and scattering stored food; in some versions he abducts or assaults young women. People leave offerings to keep him friendly, and if treated with respect he may help with work or protect the house.",
+   "alternatives": [
+    {
+     "label": "Explaining misfortune",
+     "text": "Folklorists interpret beings like the Pombero as ways of explaining unexplained events on farms and at night, and as warnings that enforce social rules (such as not being out alone after dark)."
+    },
+    {
+     "label": "Real encounters?",
+     "text": "People in rural Paraguay and Argentina continue to report Pombero encounters; believers regard him as a real spirit being, while sceptics see sleep paralysis, animals or human intruders behind the reports."
+    },
+    {
+     "label": "Cross-cultural pattern",
+     "text": "The Pombero resembles household and forest spirits elsewhere, such as the Slavic domovoi, the Scandinavian tomte and the Malay toyol, that must be appeased with offerings and can be helpful or harmful."
+    }
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Pombero",
+     "url": "https://en.wikipedia.org/wiki/Pombero",
+     "type": "encyclopedia"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Pombero.Mito_paraguayo.JPG/500px-Pombero.Mito_paraguayo.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Pombero.Mito_paraguayo.JPG",
+     "author": "Patty P",
+     "license": "Public domain",
+     "title": "Pombero.Mito paraguayo.JPG"
+    }
+   ],
+   "categories": [
+    "myth-legend"
+   ],
+   "threads": [
+    "giants-and-little-people",
+    "southern-cone",
+    "spirits-of-house-and-forest",
+    "wild-people-of-the-woods"
    ]
   }
  ]
